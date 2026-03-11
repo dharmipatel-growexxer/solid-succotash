@@ -1,0 +1,84 @@
+{
+  "scheme_name": "Zupda Vijlikaran Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/zvy",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Zupda Vijlikaran Yojana",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "The “Zupda Vijlikaran Yojana” was launched by the Energy and Petro Chemicals Department, Government of Gujarat. The scheme aims to provide access to electricity for Below Poverty Line (BPL) and low-income families across the state. Under this scheme, free household electricity connections are provided to eligible families."
+    ],
+    "benefits": [
+      "Free electricity household connection is provided to BPL/Lower income group beneficiary."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to a Below Poverty Line (BPL) or low-income family.",
+      "The applicant's family annual income should not exceed ₹1,50,000/-."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Subdivisional Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Subdivisional Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the Subdivisional Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Allotment order of land/ready-made house received under any poverty housing scheme",
+      "Identity Card",
+      "Identity proof of the Applicant",
+      "Passport-size Photos"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for scheme?",
+      "answer": "BPL and low-income families in Gujarat with annual income up to ₹1,50,000."
+    },
+    {
+      "question": "What benefit is provided under this scheme?",
+      "answer": "A free household electricity connection."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "ID proof, income certificate, photographs, and housing allotment order (if applicable)."
+    },
+    {
+      "question": "Will applicants get money instead of electricity?",
+      "answer": "No, the benefit is only in the form of a free electricity connection."
+    },
+    {
+      "question": "Can I apply online?",
+      "answer": "No, online application is not available."
+    },
+    {
+      "question": "Is this scheme applicable across Gujarat?",
+      "answer": "Yes, it covers all districts of the state."
+    },
+    {
+      "question": "Is caste or profession a deciding factor?",
+      "answer": "No, eligibility is based only on BPL/low-income status."
+    },
+    {
+      "question": "Can families above the income limit apply?",
+      "answer": "No, only families with income up to ₹1,50,000 are eligible."
+    },
+    {
+      "question": "Where should I submit my application?",
+      "answer": "The application was submitted at the Subdivision Office of the electricity department."
+    },
+    {
+      "question": "Does the scheme cover urban as well as rural areas?",
+      "answer": "Yes, it is applicable across the state."
+    }
+  ]
+}

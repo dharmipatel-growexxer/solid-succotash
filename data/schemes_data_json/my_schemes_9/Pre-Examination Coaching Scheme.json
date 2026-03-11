@@ -1,0 +1,88 @@
+{
+  "scheme_name": "Pre-Examination Coaching Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pec",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pre-Examination Coaching Scheme",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Pre-Examination Coaching\" was introduced by the Tribal Welfare Department, Uttarakhand Government. The scheme aims to enhance employment opportunities for Scheduled Tribe (ST) students by preparing them for competitive examinations. Under this scheme, free coaching and monthly scholarships are provided to eligible Scheduled Tribe students appearing for exams like IAS, PCS, engineering, medical, NDA, Group ‘C’ exams and other competitive examinations. The scheme is implemented by the government, non-government, and private institutions approved by the state."
+    ],
+    "benefits": [
+      "Free Coaching:",
+      "Provided for competitive exams such as IAS, PCS, Engineering, Medical, Nursing, NDA, Group ‘C’, and others.",
+      "Monthly Scholarship:",
+      "₹1,500/- per month for external (non-local) students.",
+      "₹750/- per month for local students."
+    ],
+    "eligibility": [
+      "The applicant should belong to the Scheduled Tribe community.",
+      "The applicant should be a student.",
+      "The applicant should be preparing for competitive examinations such as IAS, PCS, Engineering, Medical, Nursing, NDA, or Group ‘C’ exams.",
+      "The applicant should have passed High School, Intermediate, or Graduation."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process for the Student:",
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the office of the Tribal Welfare Department and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the office of the Tribal Welfare Department.",
+        "Notes:",
+        "Applications for the selection of coaching institutes are invited through newspapers, and institutes are selected after approval at the government level.",
+        "Applications are also received from students, and preference for selection in coaching is given based on the marks obtained in high school, intermediate, or graduation."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof",
+      "Caste Certificate",
+      "Educational Qualification certificates",
+      "Bank account details",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 27)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Only Scheduled Tribe students from Uttarakhand."
+    },
+    {
+      "question": "Is the coaching completely free?",
+      "answer": "Yes, coaching is provided free of cost under this scheme."
+    },
+    {
+      "question": "What is the scholarship amount?",
+      "answer": "₹1,500/month for external students and ₹750/month for local students."
+    },
+    {
+      "question": "Which exams are covered under this coaching?",
+      "answer": "IAS, PCS, Engineering, Medical, Nursing, NDA, Group ‘C’, and other competitive exams."
+    },
+    {
+      "question": "Can I apply if I’m already attending a private coaching institute?",
+      "answer": "No, students enrolled in paid coaching are not eligible."
+    },
+    {
+      "question": "How are students selected?",
+      "answer": "Based on merit in High School, Intermediate, or Graduation."
+    },
+    {
+      "question": "How are coaching institutes selected?",
+      "answer": "Through public advertisements and government approval."
+    },
+    {
+      "question": "What is considered a local student?",
+      "answer": "A student residing in the city/town of the coaching institute."
+    },
+    {
+      "question": "Where can I get the application form?",
+      "answer": "Forms are available through district tribal welfare offices or as advertised."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_name": "Artificial Intelligence",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ai",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Artificial Intelligence",
+  "scraped_at": "2026-03-11 11:22:43 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Artificial Intelligence” is implemented by the Uttarakhand State Council for Science and Technology (UCOST) under the Science and Technology, Government of Uttarakhand. It aims to promote awareness, understanding, and practical learning of Artificial Intelligence among school students from classes 9 to 12 and provide them with opportunities to participate in AI coding camps and hands-on experiments."
+    ],
+    "benefits": [
+      "UCOST, Regional Science Center, Dehradun, in collaboration with Intel, has established an AI Skills Lab under the AI for Youth program. Students from classes 9 to 12 across the state can participate in AI coding camps and perform hands-on experiments."
+    ],
+    "eligibility": [
+      "The applicant must be a student of class 9 to 12 studying in a government or private school in Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "Schools can register for the AI camp and demonstration sessions. Registration for the AI awareness lectures can be completed by filling out the AI registration form and sending it via email to rscdehradoon@gmail.com and rscdoonai@gmail.com. No additional documents, other than the registration form, are required."
+      ]
+    },
+    "documents_required": [
+      "No additional documents are required apart from the registration form."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 121)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is implementing this scheme?",
+      "answer": "The scheme is implemented by the Uttarakhand State Council for Science and Technology (UCOST) through the Regional Science Center, Dehradun, in collaboration with Intel."
+    },
+    {
+      "question": "Which students are eligible to participate?",
+      "answer": "Students studying in classes 9 to 12 from all government and private schools in Uttarakhand are eligible to participate."
+    },
+    {
+      "question": "What activities are conducted?",
+      "answer": "The scheme includes AI awareness sessions, AI coding camps, hands-on experiments, and interactive demonstrations at the AI Skills Lab established at the Regional Science Center, Dehradun."
+    },
+    {
+      "question": "What is the AI Skills Lab?",
+      "answer": "The AI Skills Lab is a specialized facility established by UCOST in collaboration with Intel under the AI for Youth program."
+    },
+    {
+      "question": "How can schools register for AI camps or demonstrations?",
+      "answer": "Schools can register by filling out the AI registration form and emailing it to rscdehradoon@gmail.com and rscdoonai@gmail.com."
+    },
+    {
+      "question": "Are there any documents required for registration?",
+      "answer": "No additional documents are required other than the AI registration form."
+    }
+  ]
+}

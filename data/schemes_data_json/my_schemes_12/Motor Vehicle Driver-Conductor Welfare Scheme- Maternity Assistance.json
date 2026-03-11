@@ -1,0 +1,117 @@
+{
+  "scheme_name": "Motor Vehicle Driver-Conductor Welfare Scheme- Maternity Assistance",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mvdcws-m",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Motor Vehicle Driver-Conductor Welfare Scheme- Maternity Assistance",
+  "scraped_at": "2026-03-11 16:32:18 UTC",
+  "sections": {
+    "details": [
+      "The “Motor Vehicle Driver-Conductor Welfare Scheme- Maternity Assistance” scheme has been launched by the Transport Department, Government of Madhya Pradesh. Under this scheme, financial support during childbirth is provided to eligible women drivers or the wives of registered male drivers and conductors to ensure income security during maternity and paternity periods."
+    ],
+    "benefits": [
+      "Financial assistance equivalent to 45 days of wages at the Collector Rate is provided to the registered woman driver or conductor.",
+      "In case the registered beneficiary is male, financial assistance equivalent to 45 days of wages at the Collector Rate is provided to his wife.",
+      "An additional amount equivalent to 15 days of wages at the Collector Rate is provided as paternity leave compensation to the father of the child.",
+      "A cash assistance of ₹1,000 is provided towards delivery-related expenses under the Janani Suraksha Yojana."
+    ],
+    "eligibility": [
+      "General Eligibility:",
+      "The applicant should be a permanent resident of Madhya Pradesh.",
+      "The applicant should be a registered transport vehicle driver or conductor.",
+      "The applicant should hold a valid commercial driving or conductor license issued in Madhya Pradesh.",
+      "The applicant’s name should be registered on the Samagra Portal.",
+      "Maternity-Specific Eligibility:",
+      "The applicant should be a registered female driver or conductor or the wife of a registered male driver or conductor.",
+      "The applicant should be applying for maternity assistance for not more than 2 deliveries.",
+      "The applicant should comply with the norms prescribed under the Janani Suraksha Yojana for delivery-related benefits."
+    ],
+    "application_process": {
+      "offline": [
+        "Samagra ID Registration Process:",
+        "Step 1:",
+        "Visit the official website:",
+        "samagra.gov.in",
+        ".",
+        "Step 2:",
+        "Click on the option “Register Family” or “Register Member”.",
+        "Step 3:",
+        "Enter the Aadhaar number and other required information.",
+        "Step 4:",
+        "Enter the OTP received on the registered mobile number.",
+        "Step 5:",
+        "Carefully fill in all the required details and upload the necessary documents.",
+        "Step 6:",
+        "Enter the captcha code and click on “Submit Application.”",
+        "Offline Samagra ID Registration Process:",
+        "Visit the nearest Lok Seva Kendra, MP Online Kiosk, or Common Service Center (CSC).",
+        "Provide the required documents and necessary information to complete the registration process.",
+        "After Samagra Registration:",
+        "Step 1: Step 1:",
+        "The interested applicant downloads the",
+        "application form",
+        "(Page No. 9) from the official website.",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Submit the duly filled and signed application form along with the documents to the District or Regional Transport Office."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Samagra Family Identification Number",
+      "Samagra Member Identification Number",
+      "Aadhaar Card",
+      "Proof of Residence",
+      "Valid Commercial Driving Licence or Conductor Licence",
+      "Marriage Certificate",
+      "Pregnancy Reports",
+      "Birth Certificate of the Child (Post-Delivery)",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of maternity assistance?",
+      "answer": "To provide financial support during childbirth to registered drivers, conductors, or their spouses."
+    },
+    {
+      "question": "Who is eligible for maternity assistance?",
+      "answer": "Registered woman drivers or conductors, or wives of registered male drivers or conductors."
+    },
+    {
+      "question": "How many deliveries are covered?",
+      "answer": "A maximum of 2 deliveries is covered."
+    },
+    {
+      "question": "What wage compensation is provided?",
+      "answer": "Wage compensation equal to 45 days at the prevailing Collector Rate is provided."
+    },
+    {
+      "question": "Is paternity benefit provided?",
+      "answer": "Yes, wage compensation equal to 15 days at the prevailing Collector Rate is provided"
+    },
+    {
+      "question": "Is delivery expense assistance provided?",
+      "answer": "Yes, ₹1,000 is provided under the Janani Suraksha Yojana."
+    },
+    {
+      "question": "Is Samagra registration mandatory?",
+      "answer": "Yes, Samagra registration is mandatory."
+    },
+    {
+      "question": "Can the assistance be cancelled?",
+      "answer": "Yes, the assistance can be cancelled if false information is provided."
+    },
+    {
+      "question": "Can other states people apply for this scheme?",
+      "answer": "No, only residents of Madhya Pradesh are eligible."
+    },
+    {
+      "question": "Who verifies the claim?",
+      "answer": "The claim is verified by the local body and Transport Department authorities."
+    }
+  ]
+}

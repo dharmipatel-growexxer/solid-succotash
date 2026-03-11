@@ -1,0 +1,80 @@
+{
+  "scheme_name": "Ude Desh ka Aam Nagrik (UDAN) Yojana - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/udanuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Ude Desh ka Aam Nagrik (UDAN) Yojana - Uttarakhand",
+  "scraped_at": "2026-03-11 16:50:40 UTC",
+  "sections": {
+    "details": [
+      "The scheme “UDAN Yojana” is implemented by Uttarakhand Civil Aviation Development Authority, Government of Uttarakhand. The scheme aims to make air travel affordable and accessible for all citizens, enhance regional connectivity within Uttarakhand and promote tourism."
+    ],
+    "benefits": [
+      "Under this scheme, the minimum one-way fare per person for helicopter services on the following routes is:",
+      "Dehradun to Tehri: ₹3,437.00",
+      "Tehri to Srinagar: ₹3,437.00",
+      "Srinagar to Gauchar: ₹3,437.00",
+      "Gauchar to Srinagar: ₹3,437.00",
+      "Srinagar to Tehri: ₹3,437.00",
+      "Tehri to Dehradun: ₹3,437.00",
+      "Dehradun to Srinagar: ₹3,992.00",
+      "Srinagar to Dehradun: ₹3,992.00",
+      "Dehradun to Gauchar: ₹3,649.00",
+      "Gauchar to Dehradun: ₹3,649.00",
+      "Sahastradhara to Gauchar: ₹4,150.00",
+      "Gauchar to Sahastradhara: ₹4150.00",
+      "Sahastradhara to Chinyalisound: ₹3150.00",
+      "Chinyalisound to Sahastradhara: ₹3150.00",
+      "Dehradun to Haldwani / Pantnagar: ₹6281.00",
+      "Haldwani / Pantnagar to Dehradun: ₹6281.00",
+      "Pantnagar to Pithoragarh: ₹5111.00",
+      "Pithoragarh to Pantnagar: ₹5111.00",
+      "Pantnagar to Almora: ₹3356.00",
+      "Almora to Pantnagar: ₹3356.00",
+      "Almora to Pithoragarh: ₹3356.00",
+      "Pithoragarh to Almora: ₹3356.00"
+    ],
+    "eligibility": [
+      "The beneficiary must be an Indian citizen."
+    ],
+    "application_process": {
+      "online": [
+        "To avail of this benefit, tickets can be booked online or by visiting the offices of the respective helipads. For online booking, you must provide your Aadhaar card, mobile number, and pay the fare. The website for online ticket booking is",
+        "https://booking.pawanhans.co.in/",
+        ".",
+        "Updated information can be obtained from the Uttarakhand Civil Aviation Development Authority website:",
+        "https://ucada.in",
+        "/."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Mobile Number"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 302)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can avail the benefits under this scheme?",
+      "answer": "All Indian citizens are eligible to avail of helicopter services under this scheme."
+    },
+    {
+      "question": "What types of services are covered under this scheme?",
+      "answer": "The scheme provides helicopter services on selected routes within Uttarakhand at subsidized fares."
+    },
+    {
+      "question": "How can I book a ticket under UDAN Yojana?",
+      "answer": "Tickets can be booked online through https://booking.pawanhans.co.in/ or by visiting the offices of the respective helipads."
+    },
+    {
+      "question": "What details are required for online booking?",
+      "answer": "You need to provide your Aadhaar card, mobile number, and pay the fare to book tickets online."
+    },
+    {
+      "question": "Can I check updated fares and routes?",
+      "answer": "Yes, updated information on fares and routes can be obtained from the UCADA website: https://ucada.in /."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "scheme_name": "Scholarships and Stipends",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sasgj",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scholarships and Stipends",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Scholarships and Stipends\" by the Sports, Youth and Cultural Activities Department, Government of Gujarat, aims to promote excellence in sports by offering financial support to individuals who have represented the state at national-level events and have won medals. This initiative is designed to reduce the financial burden on athletes and to recognize their achievements at the national level, thereby motivating them to continue their athletic pursuits and strive for excellence. The scheme is implemented by the Sports Authority of Gujarat."
+    ],
+    "benefits": [
+      "Scholarships:",
+      "₹2,500/- per player is awarded to athletes who have won medals at the national level.",
+      "Stipends:",
+      "₹2,000/- per player is awarded to athletes who have participated at the national level, irrespective of winning."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should be a male.",
+      "The applicant should have participated in a national-level sports event.",
+      "The applicant should have won a medal at the national level to be eligible for the scholarship."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "Visit the homepage of the",
+        "Sports Authority of Gujarat",
+        ".",
+        "Step 2:",
+        "Click on the “Registration” button on the upper-right side of the page.",
+        "Step 3:",
+        "Fill in all the required details as per the form and submit it.",
+        "Application Process:",
+        "After registration, check your registered email for login credentials.",
+        "Select “Player” as the user type and log in using the credentials received.",
+        "Click on the concerned scheme name and proceed with the application."
+      ]
+    },
+    "documents_required": [
+      "National-Level Medal Certificate (for scholarship eligibility)",
+      "Aadhar Card",
+      "Recent Passport Size Photograph",
+      "Residential Proof",
+      "Any other document as required."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 557)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the behind launching the \"Scholarships and Stipends\" scheme?",
+      "answer": "The objective behind launching the \"Scholarships and Stipends\" scheme is to promote sporting talent in Gujarat by recognizing the achievements of national-level athletes and providing them with financial assistance that helps in sustaining and motivating their continued participation in competitive sports."
+    },
+    {
+      "question": "Who is eligible to receive benefits under the \"Scholarships and Stipends\" scheme?",
+      "answer": "Any male individual who is a resident of Gujarat and has participated in a national-level sports event is eligible to apply for benefits under the \"Scholarships and Stipends\" scheme, subject to fulfilling all other criteria mentioned in the scheme guidelines."
+    },
+    {
+      "question": "What financial support is provided to athletes who have won medals at the national level?",
+      "answer": "Under the \"Scholarships and Stipends\" scheme, an athlete who has won a medal at a national-level sports event is entitled to receive a scholarship amount of ₹2,500 per event, which is aimed at encouraging excellence in performance and providing financial support for further development."
+    },
+    {
+      "question": "What financial assistance is offered to participants who have taken part in national-level competitions but have not won any medals?",
+      "answer": "Athletes who have participated in national-level sports competitions but have not secured a medal are eligible to receive a stipend of ₹2,000 per event under the \"Scholarships and Stipends\" scheme, acknowledging their efforts and motivating continued participation in sports."
+    },
+    {
+      "question": "Is there any income limit for applicants to be eligible for the \"Scholarships and Stipends\" scheme?",
+      "answer": "There is no income limit specified for individual or family income under the \"Scholarships and Stipends\" scheme, making it accessible to all eligible applicants regardless of their economic background."
+    },
+    {
+      "question": "Are female athletes eligible to apply for the \"Scholarships and Stipends\" scheme?",
+      "answer": "As per the current eligibility criteria outlined in the \"Scholarships and Stipends\" scheme, only male athletes are eligible to apply and receive the benefits of the scheme."
+    },
+    {
+      "question": "How should an applicant submit the application for the \"Scholarships and Stipends\" scheme?",
+      "answer": "The application for the \"Scholarships and Stipends\" scheme must be submitted online through the official portal of the Sports Authority of Gujarat, where applicants can log in or register and complete the application process."
+    },
+    {
+      "question": "Is there any offline mode available to submit the application for the scheme?",
+      "answer": "No, the application for the \"Scholarships and Stipends\" scheme must be submitted online only, as there is no provision for offline application submission under the current implementation framework."
+    },
+    {
+      "question": "Are athletes from states other than Gujarat eligible to apply for the scheme?",
+      "answer": "The \"Scholarships and Stipends\" scheme is exclusively applicable to residents of Gujarat, and therefore, athletes from other states are not eligible to apply or receive benefits under this scheme."
+    },
+    {
+      "question": "Is there any fee or cost associated for application for the scheme?",
+      "answer": "There is no fee or cost associated with the submission of the application form for the \"Scholarships and Stipends\" scheme, as the application process is entirely free of charge for all eligible applicants."
+    }
+  ]
+}

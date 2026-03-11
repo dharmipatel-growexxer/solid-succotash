@@ -1,0 +1,73 @@
+{
+  "scheme_name": "Free Electricity Supply Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fess",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Free Electricity Supply Scheme",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Free Electricity Supply Scheme” launched by the Energy Department, Government of Madhya Pradesh aims to support Scheduled Caste and Scheduled Tribe farmers by providing free electricity supply for agricultural pumps up to 5 horsepower and landholding up to 1 hectare."
+    ],
+    "benefits": [
+      "Free Electricity Supply:",
+      "Scheduled Caste and Scheduled Tribe farmers having agricultural pumps up to 5 horsepower and landholding up to 1 hectare receive free electricity."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must belong to the Scheduled Caste (SC) or the Scheduled Tribe (ST) category.",
+      "The applicant must be a farmer owning agricultural land up to 1 hectare.",
+      "The applicant must have an agricultural pump of capacity up to 5 Horsepower (HP)."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant can avail of the scheme benefits through the concerned electricity distribution company."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate.",
+      "Land Ownership Document.",
+      "Pump Details/Connection Certificate.",
+      "Aadhaar Card.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The \"Free Electricity Supply Scheme\" provides free electricity to Scheduled Caste and Scheduled Tribe farmers in Madhya Pradesh."
+    },
+    {
+      "question": "Who launched the Scheme?",
+      "answer": "The scheme was launched by the Energy Department, Government of Madhya Pradesh."
+    },
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Scheduled Caste and Scheduled Tribe farmers of Madhya Pradesh with agricultural pumps up to 5 horsepower and landholding up to 1 hectare can benefit."
+    },
+    {
+      "question": "What is the maximum land limit for eligibility?",
+      "answer": "The applicant should have landholding up to 1 hectare."
+    },
+    {
+      "question": "What is the maximum pump capacity allowed under this scheme?",
+      "answer": "The scheme covers agricultural pumps up to 5 horsepower."
+    },
+    {
+      "question": "Is there any income limit under this scheme?",
+      "answer": "No income limit is mentioned in the scheme details."
+    },
+    {
+      "question": "Through which agency is the benefit provided?",
+      "answer": "The benefit is provided through the concerned electricity distribution company."
+    },
+    {
+      "question": "Can general category farmers apply for this scheme?",
+      "answer": "No, only Scheduled Caste and Scheduled Tribe farmers are eligible."
+    }
+  ]
+}

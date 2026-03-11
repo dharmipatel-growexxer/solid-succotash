@@ -1,0 +1,58 @@
+{
+  "scheme_name": "Research and Development Grant",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/randd",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Research and Development Grant",
+  "scraped_at": "2026-03-11 11:22:43 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Research and Development” is implemented by the Uttarakhand State Council for Science and Technology (UCOST) under the Science and Technology, Government of Uttarakhand. The scheme aims to encourage scientific research to address the state’s problems by providing grants and technical support to scientists, researchers, and academic institutions across the state."
+    ],
+    "benefits": [
+      "Grants are provided to promote research aimed at addressing various problems in the interest of the state through scientific research.",
+      "Academic scientists from government or private colleges/universities/research institutes/technical institutions, and research scholars across the state are eligible to participate."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a scientist/researcher."
+    ],
+    "application_process": {
+      "offline": [
+        "After submitting the proposal to the council in the prescribed format, it is presented at a meeting of the Project Evaluation Committee constituted at the council level. Based on the committee’s recommendations, the necessary documents must be forwarded to the proposed institution (university or college) through the President of the institution."
+      ]
+    },
+    "documents_required": [
+      "Documents are required to be submitted as per the guidelines of the Uttarakhand State Council for Science and Technology (UCOST)."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 122)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Academic scientists, researchers, and scholars from government or private colleges, universities, research institutes, and technical institutions across Uttarakhand are eligible to participate."
+    },
+    {
+      "question": "What type of support does the scheme provide?",
+      "answer": "The scheme provides financial grants, technical guidance, and institutional support to carry out scientific research projects."
+    },
+    {
+      "question": "How can one submit a research proposal?",
+      "answer": "Proposals must be submitted to UCOST in the prescribed format."
+    },
+    {
+      "question": "What happens after submitting the proposal?",
+      "answer": "After submission, the proposal is presented at a meeting of the Project Evaluation Committee constituted at the council level for review and recommendation."
+    },
+    {
+      "question": "Who forwards the documents to the proposed institution?",
+      "answer": "On approval, the necessary documents are forwarded to the proposed institution (university or college) through the President of the institution."
+    },
+    {
+      "question": "Are private institutions eligible to participate?",
+      "answer": "Yes, both government and private institutions recognized by the state or central authority can apply."
+    }
+  ]
+}

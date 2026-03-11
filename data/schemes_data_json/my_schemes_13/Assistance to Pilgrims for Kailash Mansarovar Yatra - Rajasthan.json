@@ -1,0 +1,123 @@
+{
+  "scheme_name": "Assistance to Pilgrims for Kailash Mansarovar Yatra - Rajasthan",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/apkmy",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Assistance to Pilgrims for Kailash Mansarovar Yatra - Rajasthan",
+  "scraped_at": "2026-03-11 16:50:40 UTC",
+  "sections": {
+    "details": [
+      "The \"Assistance to Pilgrims for Kailash Mansarovar Yatra\" scheme was introduced by the Devasthan Department, Government of Rajasthan, on 1st April 2011. The objective of this scheme is to provide financial support to residents of Rajasthan who successfully complete the Kailash Mansarovar Yatra through the Ministry of External Affairs, Government of India. Under this scheme, financial assistance of up to ₹1,00,000/- is granted to each pilgrim, with a maximum of 100 beneficiaries selected per year."
+    ],
+    "benefits": [
+      "Financial Assistance",
+      "₹1,00,000 per selected pilgrim after completing the Yatra.",
+      "Mode of Disbursement",
+      "Direct transfer to the beneficiary’s bank account via account payee cheque/demand draft, depending on departmental discretion.",
+      "Note:",
+      "The Yatra must be completed through the Ministry of External Affairs, Government of India.",
+      "The benefit is available only once in a lifetime.",
+      "A maximum of 100 beneficiaries per year.",
+      "Selection via lottery if applications exceed the quota."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Rajasthan.",
+      "The applicant should have successfully completed the Kailash Mansarovar Yatra through the Ministry of External Affairs, Government of India.",
+      "The applicant receives this grant only once in a lifetime.",
+      "Note 1:",
+      "100 pilgrims are selected each year. If there are more applicants than available slots, selection is done through a lottery system.",
+      "Note 2:",
+      "After completing the trip, a certificate from the Ministry of External Affairs confirming the successful completion of the journey is required."
+    ],
+    "application_process": {
+      "offline": [
+        "The application dates are announced via departmental notification (typically between June to September)",
+        "Step 1",
+        ": The applicant applying for the scheme for the first time needs to register using the icon “Applying for Yatra\" and click on \"New User” at the",
+        "Ministry of External Affairs",
+        "portal by providing accurate and correct information as per their documents.",
+        "Step 2:",
+        "After successfully getting registration done, the applicant will get their “login details”.",
+        "Step 3:",
+        "Through “Email ID and Password,” the applicant will be able to login into the account using the icon “Existing User” at the Ministry of External Affairs portal.",
+        "Step 4:",
+        "After successful login to the portal, the welcome page appeared. On clicking the “Application Form” icon, the applicant will be directed to the application screen.",
+        "Step 5:",
+        "Now, the applicant may fill out the complete application form, and on clicking the “Final Submit” button, the application is finally submitted.",
+        "Step 6",
+        ": On successful submission of the application, the applicant will receive an SMS and e-mail after successful submission of the application, which can be used for future reference.",
+        "Note:",
+        "The printed application form with documents must be submitted within 2 months after completing the Yatra.",
+        "Selection & Approval Process",
+        "Step 1:",
+        "Applications are verified by the Sub-Divisional Officer or Assistant Commissioner of the Devasthan Department.",
+        "Documents are matched with the originals, and a verification note is made.",
+        "Applications are forwarded to the Assistant Commissioner for approval within 15 days.",
+        "Selection through a computerized lottery if applications exceed the annual quota."
+      ]
+    },
+    "documents_required": [
+      "Certified copy of Rajasthan domicile certificate",
+      "Certified copy of passport with permanent address",
+      "Certified copy of visa stamps/seals related to the Yatra",
+      "Certified copy of successful completion certificate from the Ministry of External Affairs",
+      "Copy of Aadhaar Card / Voter ID / Bhamashah Card",
+      "Passport-size Photograph"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Permanent residents of Rajasthan who undertake the yatra via the Ministry of External Affairs and have not previously availed this assistance."
+    },
+    {
+      "question": "What is the amount of financial assistance provided?",
+      "answer": "Financial assistance of ₹1,00,000 per selected pilgrim."
+    },
+    {
+      "question": "How often can one avail this benefit?",
+      "answer": "Only once in a lifetime."
+    },
+    {
+      "question": "What is the total beneficiary cap per year?",
+      "answer": "100 pilgrims per year."
+    },
+    {
+      "question": "How are pilgrims selected if more than 100 apply?",
+      "answer": "Through a computerized lottery (draw of lots)."
+    },
+    {
+      "question": "What is the deadline to apply for the grant after the Yatra?",
+      "answer": "Within 2 months of completing the journey."
+    },
+    {
+      "question": "Where can I apply for the travel itself?",
+      "answer": "On the Government of India’s MEA portal: https://kmy.gov.in"
+    },
+    {
+      "question": "Can I apply offline for the financial assistance?",
+      "answer": "Only if permitted by special instructions; otherwise, online is preferred."
+    },
+    {
+      "question": "Can NRIs apply?",
+      "answer": "No, only Rajasthan permanent residents."
+    },
+    {
+      "question": "How is the selection process conducted?",
+      "answer": "Applications are verified by the Block Officer and forwarded to the Assistant Commissioner, who finalizes the selection within 15 days."
+    },
+    {
+      "question": "How is the assistance amount disbursed?",
+      "answer": "The amount is transferred directly to the beneficiary's bank account or issued via an account payee cheque/demand draft."
+    },
+    {
+      "question": "Can I apply before completing the yatra?",
+      "answer": "No, applications are accepted only after the successful completion of the yatra."
+    }
+  ]
+}

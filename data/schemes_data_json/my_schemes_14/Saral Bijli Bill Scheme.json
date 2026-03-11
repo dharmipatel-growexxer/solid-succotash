@@ -1,0 +1,71 @@
+{
+  "scheme_name": "Saral Bijli Bill Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sbbs",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Saral Bijli Bill Scheme",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Saral Bijli Bill Scheme” launched by the Energy Department, Government of Madhya Pradesh, aims to ensure electricity accessibility to registered labourers and construction workers by providing free domestic connections and a fixed electricity bill of ₹200/- per month."
+    ],
+    "benefits": [
+      "Free Electricity Connection:",
+      "Eligible registered labourers and construction workers receive free domestic electricity connections without any connection charge.",
+      "Fixed Monthly Electricity Bill:",
+      "The beneficiary is required to pay only ₹200 per month for electricity consumption."
+    ],
+    "eligibility": [
+      "The applicant should be a registered labourer under the Mukhyamantri Mazdoor Kalyan (Sambal) Yojana–2018.",
+      "The applicant should be a registered construction worker.",
+      "The applicant should have a domestic electricity connection or intend to obtain one under this scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Under this scheme, registered labourers under the \"Mukhyamantri Mazdoor Kalyan (Sambal) Yojana–2018\" and construction workers are provided with a domestic electricity connection free of cost (without any connection charge). In addition, the eligible consumer is required to pay only ₹200 per month."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof.",
+      "Address Proof.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The Saral Bijli Bill Scheme provides affordable electricity to registered labourers and construction workers in Madhya Pradesh."
+    },
+    {
+      "question": "Who implements the scheme?",
+      "answer": "The scheme is implemented by the Energy Department, Government of Madhya Pradesh."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Registered labourers and construction workers under the Mukhyamantri Mazdoor Kalyan (Sambal) Yojana–2018 can apply."
+    },
+    {
+      "question": "What is the main benefit under the scheme?",
+      "answer": "The main benefit is a free domestic electricity connection and a fixed electricity bill of ₹200 per month."
+    },
+    {
+      "question": "Is there any connection charge for new connections?",
+      "answer": "No, eligible beneficiaries receive a free electricity connection without any connection charge."
+    },
+    {
+      "question": "What is the monthly charge under the scheme?",
+      "answer": "The monthly electricity charge under the scheme is ₹200."
+    },
+    {
+      "question": "Can consumers with high electricity consumption apply?",
+      "answer": "No, consumers with a connected load of more than 1000 watts are not eligible."
+    },
+    {
+      "question": "Are connections with air conditioners or heaters allowed under this scheme?",
+      "answer": "No, connections with air conditioners or heaters are not eligible for this scheme."
+    }
+  ]
+}

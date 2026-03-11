@@ -1,0 +1,93 @@
+{
+  "scheme_name": "Atal Graha Jyoti Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/agjy",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Atal Graha Jyoti Yojana",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "The \"Atal Graha Jyoti Yojana\", launched by the Energy Department, Government of Madhya Pradesh, aims to provide financial relief to domestic consumers with low energy consumption by subsidizing their electricity bills. The scheme benefits those whose monthly electricity consumption does not exceed 150 units. The subsidy is provided through the billing system, ensuring easy access for eligible consumers. The scheme was earlier known as \"Indira Graha Jyoti Yojana\"."
+    ],
+    "benefits": [
+      "Reduced Electricity Bills:",
+      "Consumers with a monthly consumption of up to 150 units receive a subsidized bill, minimizing their energy expenses.",
+      "Note:",
+      "The benefit is automatically applied through the billing system for eligible consumers."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must be a domestic consumer with a monthly electricity consumption of up to 150 units.",
+      "The applicant must have an approved load of 1 kilowatt for their electricity connection."
+    ],
+    "application_process": {
+      "online": [
+        "Automatic Enrollment:",
+        "The scheme benefits are automatically applied to eligible consumers through the billing system."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity.",
+      "Proof of Address.",
+      "Electricity Bill."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Guidelines (Name Change)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Atal Graha Jyoti Yojana\"?",
+      "answer": "The objective of the \"Atal Graha Jyoti Yojana\" is to provide financial relief by subsidizing electricity bills for domestic consumers with low consumption, promoting energy conservation."
+    },
+    {
+      "question": "Who can benefit from the \"Atal Graha Jyoti Yojana\"?",
+      "answer": "The scheme benefits domestic consumers whose monthly electricity consumption does not exceed 150 units."
+    },
+    {
+      "question": "How is the subsidy applied to the electricity bill?",
+      "answer": "The subsidy is automatically applied through the billing system for eligible consumers based on their monthly consumption and approved load."
+    },
+    {
+      "question": "Is there a need to apply separately for the subsidy?",
+      "answer": "No, consumers do not need to apply separately for the subsidy. It is automatically applied to their bills if they meet the eligibility criteria."
+    },
+    {
+      "question": "How will the subsidy affect the consumer's electricity bill?",
+      "answer": "The subsidy reduces the electricity bill for eligible consumers, encouraging energy conservation and minimizing their monthly electricity expenses."
+    },
+    {
+      "question": "Is there any eligibility check for the scheme?",
+      "answer": "Yes, the eligibility is based on monthly electricity consumption, approved load, and the consumer’s category (BPL, senior citizen, student, etc.)."
+    },
+    {
+      "question": "Can a consumer receive the subsidy if their consumption exceeds 100 units?",
+      "answer": "Yes, the subsidy applies to the first 100 units. For consumption beyond 100 units, the consumer must pay the remaining charges at the prevailing rate."
+    },
+    {
+      "question": "How does the government verify the eligibility of consumers?",
+      "answer": "Eligibility is automatically verified through the electricity distribution system based on the consumer's monthly consumption and approved load."
+    },
+    {
+      "question": "What happens if a consumer’s electricity consumption exceeds 150 units?",
+      "answer": "Consumers who exceed 150 units of monthly consumption are not eligible for the subsidy under this scheme."
+    },
+    {
+      "question": "Is the scheme available to commercial consumers?",
+      "answer": "No, the \"Atal Graha Jyoti Yojana\" is exclusively available to domestic consumers."
+    },
+    {
+      "question": "How can a consumer know if they are eligible for the scheme?",
+      "answer": "Eligibility is determined automatically based on the consumer’s monthly electricity consumption and approved load, which will be verified through the billing system."
+    },
+    {
+      "question": "Will the subsidy be reflected in the consumer’s bill immediately?",
+      "answer": "Yes, eligible consumers will see the subsidy reflected in their next billing cycle."
+    },
+    {
+      "question": "What if the applicant has more than 1 kilowatt of approved load?",
+      "answer": "Consumers with more than 1 kilowatt of approved load may still qualify for the subsidy as long as their monthly consumption does not exceed 150 units. However, they will be responsible for the charges beyond the subsidy limit."
+    }
+  ]
+}

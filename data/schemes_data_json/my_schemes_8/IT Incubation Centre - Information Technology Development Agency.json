@@ -1,0 +1,72 @@
+{
+  "scheme_name": "IT Incubation Centre - Information Technology Development Agency",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/iticitda",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "IT Incubation Centre - Information Technology Development Agency",
+  "scraped_at": "2026-03-11 11:22:43 UTC",
+  "sections": {
+    "details": [
+      "The scheme “IT Incubation Centre” is implemented by the Information Technology Development Agency (ITDA) under Department of Information Technology, Government of Uttarakhand. It aims to promote entrepreneurship and innovation in the fields of Information Technology, Medical Technology, Electronics, Artificial Intelligence, Biotechnology, and related sectors by providing a supportive ecosystem for startups."
+    ],
+    "benefits": [
+      "The Incubation Center provides support to new startups in developing their businesses and solving related problems. The Center supports startups in the IT, medical, and electronics sectors in developing their innovative ideas and ventures.",
+      "The Incubation Center provides startups with workspace and provides them with internet access, selected medical equipment, and infrastructure. The Center's mission is to support new startups and their needs, helping them grow and increase their productivity.",
+      "The IT Incubation Center provides business and technical services, especially in the early stages, to startup companies by offering laboratory facilities, mentorship, networking, and other necessary services.",
+      "Incubation centers help startups reduce risks and improve their chances of success."
+    ],
+    "eligibility": [
+      "Startups registered in Uttarakhand, along with IT and medical students (especially those involved in Skill Development, IT & AI, Travel & Tourism, Healthcare, Technology, and Bio-Robotics), are eligible to avail the benefits offered by the Incubation Centre."
+    ],
+    "application_process": {
+      "offline": [
+        "The startup team will contact the center manager.",
+        "The startup team can consist of 1 to 3 members.",
+        "The workspace will be allocated for 1 to 2 years (extendable under special circumstances, if required).",
+        "Startups may send their requirements via email (diritda-uk@nic.in).",
+        "The manager will allocate resources as per the startup’s needs.",
+        "The startup team will provide proper progress reports of the work.",
+        "Startups will have to submit their company registration number in hard copy or soft copy, along with other certificates such as ISO certification.",
+        "After completion and verification of records, the workspace will be allotted based on availability."
+      ]
+    },
+    "documents_required": [
+      "Company Registration Number (in hard copy or soft copy)",
+      "ISO Certification",
+      "Other Certificates as required by the ITDA guidelines"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 242)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for the IT Incubation Centre?",
+      "answer": "Registered startups from Uttarakhand, IT students, medical students, and entrepreneurs working in fields such as IT, AI, healthcare, biotechnology, travel & tourism, skill development, and bio-robotics are eligible to apply."
+    },
+    {
+      "question": "What kind of support does the Incubation Centre provide to startups?",
+      "answer": "The Centre provides workspace, internet access, laboratory facilities, mentorship, networking opportunities, select medical equipment, and essential infrastructure support."
+    },
+    {
+      "question": "What is the duration of incubation support?",
+      "answer": "Workspace and incubation support are provided for a period of 1 to 2 years, which may be extended under special circumstances as required."
+    },
+    {
+      "question": "How can a startup contact the Incubation Centre?",
+      "answer": "The startup team can contact the Centre Manager directly or send their requirements via email to diritda-uk@nic.in"
+    },
+    {
+      "question": "What is the process of allocation of workspace?",
+      "answer": "After submitting the required documents and verification, workspace is allotted based on availability at the Incubation Centre."
+    },
+    {
+      "question": "How many members can a startup team have?",
+      "answer": "A startup team can consist of 1 to 3 members."
+    },
+    {
+      "question": "Can the incubation period be extended?",
+      "answer": "Yes, the incubation period can be extended beyond 2 years under special circumstances, subject to approval from ITDA."
+    }
+  ]
+}

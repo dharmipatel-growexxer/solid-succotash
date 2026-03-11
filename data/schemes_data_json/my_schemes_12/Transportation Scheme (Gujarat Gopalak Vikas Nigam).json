@@ -1,0 +1,143 @@
+{
+  "scheme_name": "Transportation Scheme (Gujarat Gopalak Vikas Nigam)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/tsggvn",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Transportation Scheme (Gujarat Gopalak Vikas Nigam)",
+  "scraped_at": "2026-03-11 16:32:18 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Transportation Scheme\" by the Gujarat Gopalak Vikas Nigam, Government of Gujarat, aims to provide loans for the purchase of auto rickshaws and loading vehicles. Through this scheme, financial assistance for vehicle purchase is offered to the Rabari and Bharwad castes from the socially and educationally backwards classes. The scheme is implemented by the Gujarat Gopalak Vikas Nigam."
+    ],
+    "benefits": [
+      "Loans are provided on an individual basis to purchase auto rickshaws and loading vehicles.",
+      "Maximum Loan Limit: ₹2,00,000/-",
+      "Interest Rate: 6% per annum",
+      "Loan Amount: 95% of the vehicle cost",
+      "Beneficiary Contribution: 5% of the vehicle cost"
+    ],
+    "eligibility": [
+      "The applicant should belong to the Rabari and Bharwad castes from the socially and educationally backwards classes.",
+      "The applicant's age should be between 21 and 45 years.",
+      "The applicant's annual income should not exceed ₹3,00,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Register on the Official Portal",
+        "Go to the",
+        "Official Website",
+        "Gujarat Gopalak Development Corporation.",
+        "Scroll down on the homepage, find the \"Transportation Scheme,\" and click on \"Apply Now\".",
+        "You will be directed to the",
+        "application form",
+        ".",
+        "Step 2: Access and Fill Out the Application Form",
+        "Select \"Transport\", enter Unit Cost, and specify the Required Loan Amount.",
+        "Provide Aadhaar, Ration, Voter ID, full name (Last, First, Father/Husband), address, district, taluka, village, PIN, date of birth, age (21-45 as of 14/08/2023), caste, subcaste, phone, mobile, email, gender, and marital status.",
+        "Enter income certificate number, issue date, issuing officer's name, total annual family income (up to ₹ 3,00,000/-), and parent/guardian's occupation.",
+        "If \"Physically Handicapped,\" select \"Yes\" or \"No\". If you selected \"Yes\", provide the percentage (in %).",
+        "Indicate if any family member works in a government or private job. If \"Yes,\" provide their Name, Designation, Place, and Salary details.",
+        "Select your Education Qualification: Uneducated, Educated, Graduation, Post Graduation, or Other Degree.",
+        "If you have taken a past loan, select \"Yes\" or \"No\". If you selected \"Yes\", provide loan details (date, amount, paid, remaining) and your account number.",
+        "Enter driving license number and expiry date. For passenger vehicles, select \"Yes\" or \"No\". If you selected \"Yes\", provide the base number. For transport vehicles, select \"Yes\" or \"No\". If you selected \"Yes\", provide the transport license number.",
+        "Provide the dealer's name, address, vehicle name, and vehicle price.",
+        "Provide bank account number, bank name, branch name, name as per account, account type (Saving/Current), MICR code, and IFSC code.",
+        "Step 3: Review and Final Submission",
+        "Carefully review each module. Use the preview option to examine the application before final submission. Fill out the provided \"CAPTCHA\" and Click on “Submit”.",
+        "Track and Review Status",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.",
+        "Scroll down and locate the Know App Status. Click on \"Know App Status\".",
+        "Select the Scheme name, Enter App No., and Birth Date. Fill out the Captcha and click on Submit."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Voter ID",
+      "Income Certificate",
+      "Driving License (for the vehicle for which the loan is to be obtained)",
+      "License Plate (for a passenger vehicle)",
+      "Transport License (for a transport vehicle)",
+      "Bank Account Details (Bank Account Number, Bank Name, Branch Name, Name as per Account, Account Type, MICR Code, IFSC Code)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Application Portal",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How do I know if I am eligible for the scheme?",
+      "answer": "You are eligible if you belong to the Rabari and Bharwad castes from the socially and educationally backwards classes, are between 21 and 45 years old as of August 14, 2023, and your annual family income does not exceed ₹3,00,000/-."
+    },
+    {
+      "question": "What is the interest rate for the scheme?",
+      "answer": "The interest rate for the loan provided through this scheme is 6% per annum."
+    },
+    {
+      "question": "What percentage of the vehicle cost will the loan cover?",
+      "answer": "The loan amount will cover 95% of the vehicle's total cost."
+    },
+    {
+      "question": "What percentage of the vehicle cost do I need to contribute as a beneficiary?",
+      "answer": "As a beneficiary, you are required to contribute 5% of the vehicle's total cost."
+    },
+    {
+      "question": "What kind of vehicles can I purchase with this loan?",
+      "answer": "Loans are provided for the purchase of auto rickshaws and loading vehicles on an individual basis."
+    },
+    {
+      "question": "Where can I find the official website to apply for this scheme?",
+      "answer": "You can find the official website of Gujarat Gopalak Development Corporation at https://ggdconline.gujarat.gov.in/."
+    },
+    {
+      "question": "How do I locate the Transportation Scheme on the official website?",
+      "answer": "On the homepage of the Gujarat Gopalak Development Corporation website, you need to scroll down, find the \"Transportation Scheme,\" and click on \"Apply Now\"."
+    },
+    {
+      "question": "What details do I need to provide about the vehicle's cost and the loan amount needed?",
+      "answer": "You need to enter the Unit Cost of the vehicle and specify the Required Loan Amount in the application form."
+    },
+    {
+      "question": "What personal identification documents are required for the application?",
+      "answer": "You need to provide your Aadhaar, Ration, and Voter ID details in the application."
+    },
+    {
+      "question": "What personal details are required in the application form?",
+      "answer": "You need to provide your full name (Last, First, Father/Husband), address, district, taluka, village, PIN, date of birth, age, caste, subcaste, phone, mobile, email, gender, and marital status."
+    },
+    {
+      "question": "What information is needed if a family member is employed in a government or private job?",
+      "answer": "If a family member works in a government or private job, you need to select \"Yes\" and provide their Name, Designation, Place, and Salary details."
+    },
+    {
+      "question": "Which educational qualification options can I select in the application?",
+      "answer": "You can select from Uneducated, Educated, Graduation, Post Graduation, or Other Degree as your educational qualification."
+    },
+    {
+      "question": "What information is required if I have taken a loan in the past?",
+      "answer": "If you have taken a past loan, you need to select 'Yes' and provide details such as the loan date, amount, amount paid, remaining amount, and your account number."
+    },
+    {
+      "question": "Do I need to provide any additional license details for a passenger vehicle?",
+      "answer": "Yes, for passenger vehicles, you need to select 'Yes' and provide the base number."
+    },
+    {
+      "question": "What specific license is required for a transport vehicle?",
+      "answer": "For transport vehicles, you need to select 'Yes' and provide the transport license number."
+    },
+    {
+      "question": "What information about the vehicle dealer is required in the application?",
+      "answer": "You need to provide the dealer's name, address, the vehicle name, and the vehicle price."
+    },
+    {
+      "question": "What bank account details are necessary for the application?",
+      "answer": "You need to provide your bank account number, bank name, branch name, name as per account, account type (Savings/Current), MICR code, and IFSC code."
+    },
+    {
+      "question": "Is the loan provided on an individual basis or for groups?",
+      "answer": "The loans are provided on an individual basis to purchase auto rickshaws and loading vehicles."
+    }
+  ]
+}

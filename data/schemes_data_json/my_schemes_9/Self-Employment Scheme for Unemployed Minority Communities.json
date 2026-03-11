@@ -1,0 +1,83 @@
+{
+  "scheme_name": "Self-Employment Scheme for Unemployed Minority Communities",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/msesu",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Self-Employment Scheme for Unemployed Minority Communities",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Self-Employment Scheme for Unemployed Minority Communities” was launched by the Minority Welfare Department, Government of Uttarakhand. The scheme aims to provide a grant of 25% of the loan amount to individuals belonging to minority communities who are permanent residents of Uttarakhand. The grant is available when a loan of ₹1 lakh to ₹10 lakh is taken for starting self-employment activities."
+    ],
+    "benefits": [
+      "Under this scheme, a grant is provided for self-employment. On taking a loan of ₹1 lakh to ₹10 lakh, a grant of 25% of the loan amount is given, with a minimum grant of ₹25,000/- and a maximum of ₹2,50,000/-.",
+      "The benefit of the scheme is available only on taking a loan, in which 60% of the project cost is provided as a loan, 25% as grant/subsidy by the department, and 15% as contribution by the applicant.",
+      "Interest on the loan will be charged according to the current prevailing rates of the bank."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must belong to a minority community (Muslim, Sikh, Christian, Parsi, Buddhist, or Jain).",
+      "The applicant’s age should be between 18 and 55 years.",
+      "The annual family income from all sources should not exceed ₹2,50,000/-, or the applicant should be a member of a BPL family."
+    ],
+    "application_process": {
+      "offline": [
+        "Advertisement is issued by the department to select the beneficiary. Thereafter, the application form can be obtained from the district offices of the state (District Minority Welfare Officer / District Social Welfare Officer).",
+        "Along with the application form, the applicant must attach the prescribed income certificate / BPL certificate, caste certificate, permanent residence certificate, Aadhaar card, bank account details, and a project report for the proposed scheme. The completed application form should then be submitted to the office of the District Minority Welfare Officer / District Social Welfare Officer of the concerned district.",
+        "Thereafter, an interview is conducted by a selection committee constituted under the chairmanship of the Chief Development Officer at the district level. The application forms of candidates who are successful in the interview are forwarded to the applicant’s bank for loan sanction.",
+        "After the bank sanctions the loan, the district office sends the application form to the corporation headquarters for the release of 25% of the grant amount upon completion of all formalities. The grant amount is made available to the district office after approval from the Managing Director at the Corporation Headquarters.",
+        "Thereafter, the district office, after receiving 15% of the beneficiary’s share, transfers 40% of the total amount to the concerned bank, after which the bank releases the loan to the applicant.",
+        "Currently, the application process is offline, while the online process is under development."
+      ]
+    },
+    "documents_required": [
+      "Income certificate / BPL certificate",
+      "Caste certificate",
+      "Permanent residence certificate",
+      "Aadhaar card",
+      "Bank account details",
+      "A project report for the proposed scheme"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 42)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Applicants must be permanent residents of Uttarakhand, belong to a minority community, be aged between 18 and 55 years, and have a family income of ₹2,50,000 or less per year, or be a member of a BPL family."
+    },
+    {
+      "question": "What is the financial assistance provided under the scheme?",
+      "answer": "A grant of 25% of the sanctioned loan amount is provided, with a minimum grant of ₹25,000 and a maximum of ₹2,50,000."
+    },
+    {
+      "question": "What is the minimum and maximum loan amount eligible under the scheme?",
+      "answer": "The loan amount should range from ₹1 lakh to ₹10 lakh for self-employment purposes."
+    },
+    {
+      "question": "How is the cost of the project shared?",
+      "answer": "The applicant must contribute 15% of the project cost, the bank provides 60% as a loan, and the government provides 25% as a grant."
+    },
+    {
+      "question": "Are there any interest charges on the loan?",
+      "answer": "Yes, the interest will be charged as per the prevailing bank rates at the time of loan sanction."
+    },
+    {
+      "question": "How can one apply for this scheme?",
+      "answer": "Applications can be obtained from the district offices of the Minority Welfare Department or Social Welfare Department after an official advertisement is issued."
+    },
+    {
+      "question": "How is the beneficiary selected?",
+      "answer": "A district-level selection committee, chaired by the Chief Development Officer, conducts interviews and selects eligible applicants."
+    },
+    {
+      "question": "What happens after the interview?",
+      "answer": "Selected applicants’ forms are sent to the respective bank for loan sanction. Once the loan is sanctioned, the district office processes the grant release from the corporation headquarters."
+    },
+    {
+      "question": "How is the grant disbursed?",
+      "answer": "After approval from the Managing Director of the corporation, 40% of the grant is sent to the bank once the beneficiary contributes their 15% share. The remaining grant is released to the beneficiary as per scheme norms."
+    }
+  ]
+}

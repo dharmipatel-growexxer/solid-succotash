@@ -1,0 +1,85 @@
+{
+  "scheme_name": "Sardar Krushi Jyoti Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/skjy",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Sardar Krushi Jyoti Yojana",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "The “Sardar Krushi Jyoti Yojana” was launched by the Energy and Petro Chemicals Department, Government of Gujarat. The main objective of this scheme is to provide good service to the consumers by providing quality power supply by replacing existing old, dilapidated power wires/conductors and related goods of the agricultural feeders and if necessary, by dividing the agricultural feeders."
+    ],
+    "benefits": [
+      "Replacement of old and dilapidated agricultural feeder wires and conductors.",
+      "Improvement in quality of electricity supply to farmers."
+    ],
+    "eligibility": [
+      "The applicant should be a farmer.",
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should be connected to agricultural electricity feeders."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Subdivisional Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Subdivisional Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the Subdivisional Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Allotment Order of Land/ Readymade House received under any poverty housing scheme",
+      "Identity Proof of the Applicant",
+      "Land Ownership Document",
+      "Passport-size Photos"
+    ],
+    "sources_and_references": [
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Any farmer in Gujarat connected to agricultural electricity feeders."
+    },
+    {
+      "question": "What is the main benefit of the scheme?",
+      "answer": "Replacement of old wires/conductors and improvement in electricity supply to agricultural connections."
+    },
+    {
+      "question": "Is there any cost to apply?",
+      "answer": "No, the application is free of cost."
+    },
+    {
+      "question": "How can farmers apply?",
+      "answer": "By submitting an application on plain paper to the Subdivision Office."
+    },
+    {
+      "question": "Can applications be made online?",
+      "answer": "No, online application is not available."
+    },
+    {
+      "question": "Is this scheme applicable across Gujarat?",
+      "answer": "Yes, it covers agricultural feeders across the state."
+    },
+    {
+      "question": "Is the scheme only for Scheduled Tribes or Scheduled Castes?",
+      "answer": "No, it is applicable to all farmers irrespective of caste."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Electricity consumer number, ID proof, land ownership proof, and photographs."
+    },
+    {
+      "question": "Will farmers get financial assistance directly?",
+      "answer": "No, assistance is provided in infrastructure improvement, not cash transfer."
+    },
+    {
+      "question": "Which department implements the scheme?",
+      "answer": "The Energy and Petro Chemicals Department through DISCOMs implemented the scheme."
+    }
+  ]
+}

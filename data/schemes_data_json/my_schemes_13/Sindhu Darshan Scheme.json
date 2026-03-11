@@ -1,0 +1,101 @@
+{
+  "scheme_name": "Sindhu Darshan Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sdd",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Sindhu Darshan Scheme",
+  "scraped_at": "2026-03-11 16:50:40 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2017, the scheme \"Sindhu Darshan Scheme\" by the Tourism Department, Government of Gujarat, aims to provide financial assistance to pilgrims from Gujarat undertaking the Sindhu Darshan Yatra in Leh-Ladakh, promoting cultural unity. The scheme provides a one-time financial assistance of ₹15,000/- to eligible pilgrims and supports a maximum of 300 pilgrims per financial year. To be eligible, the applicant must be a native of Gujarat and must submit proof of completing the yatra within 60 days of its conclusion. The scheme is implemented by the Gujarat Holy Pilgrimage Development Board. The applications are accepted offline via a prescribed form available on the official website."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "One-time grant of ₹15,000/- per pilgrim.",
+      "Beneficiary Cap:",
+      "Limited to 300 pilgrims per financial year.",
+      "Disbursement Condition:",
+      "Proof of yatra completion must be submitted within 60 days.",
+      "Validity:",
+      "Once in a lifetime per pilgrim."
+    ],
+    "eligibility": [
+      "The applicant must be a native of Gujarat.",
+      "The applicant must have completed the Sindhu Darshan Yatra.",
+      "The applicant must submit the application within 60 days of completing the yatra.",
+      "The applicant must not have availed the benefit before under this scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should take a printout of the",
+        "prescribed format",
+        "of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields (details of the authorized travel agent/organizer, details of the pilgrims), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to",
+        "\"Gujarat Holy Pilgrimage Development Board, Old Secretariat, Gandhinagar\"",
+        "within 60 days of yatra completion.",
+        "*Retain a copy of the submitted application for future reference.",
+        "Verification & Disbursement",
+        "The board processes applications, and financial assistance is credited to the beneficiary’s account."
+      ]
+    },
+    "documents_required": [
+      "Proof of Being a Native of Gujarat",
+      "Aadhaar Card",
+      "Bank Details (Cancelled Cheque/Passbook Copy)",
+      "Travel Proof (Bus/Railway/Air Ticket)",
+      "Identity Card Issued by Sindhu Darshan Yatra Samiti, Delhi",
+      "Yatra Completion Certificate from Sindhu Darshan Yatra Samiti, Delhi",
+      "Election Card/Driving License",
+      "Recent Photograph"
+    ],
+    "sources_and_references": [
+      "Guidelines & Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of this financial assistance scheme for pilgrims?",
+      "answer": "The scheme aims to support pilgrims from Gujarat undertaking the Sindhu Darshan Yatra in Leh-Ladakh by providing a one-time grant of ₹15,000/- to promote cultural unity."
+    },
+    {
+      "question": "Who is eligible to apply for this financial assistance?",
+      "answer": "Applicants must be native residents of Gujarat and must have completed the Sindhu Darshan Yatra."
+    },
+    {
+      "question": "Is there a deadline for submitting the application after completing the yatra?",
+      "answer": "Yes, applicants must submit their application within 60 days of completing the yatra to be eligible."
+    },
+    {
+      "question": "Can I apply for this financial assistance if I’ve already received it once before?",
+      "answer": "No, the benefit is only available once in a lifetime per pilgrim."
+    },
+    {
+      "question": "What is the maximum number of pilgrims who can receive this financial aid in a year?",
+      "answer": "The scheme supports a maximum of 300 pilgrims per financial year, on a first-come, first-served basis."
+    },
+    {
+      "question": "What documents are required to prove my eligibility as a native of Gujarat?",
+      "answer": "You must submit documents such as an Aadhaar Card, Election Card, or Driving License as proof of residency."
+    },
+    {
+      "question": "What kind of travel proof is needed to confirm my participation in the yatra?",
+      "answer": "You must provide bus/railway/air tickets and a Yatra Completion Certificate issued by the Sindhu Darshan Yatra Samiti, Delhi."
+    },
+    {
+      "question": "How and where should I submit my application for this scheme?",
+      "answer": "Duly filled applications must be submitted offline to the Gujarat Holy Pilgrimage Development Board, Old Secretariat, Gandhinagar, within 60 days of yatra completion."
+    },
+    {
+      "question": "Is there a specific format for the application form, and where can I find it?",
+      "answer": "Yes, the prescribed application form is available for download on the official website: https://yatradham.gujarat.gov.in."
+    },
+    {
+      "question": "How and when will the financial assistance be disbursed if my application is approved?",
+      "answer": "After verification, the ₹15,000/- grant will be directly credited to the beneficiary’s bank account."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "scheme_name": "Auto Rickshaw Regulation Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/arrs",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Auto Rickshaw Regulation Scheme",
+  "scraped_at": "2026-03-11 16:32:18 UTC",
+  "sections": {
+    "details": [
+      "The “Auto Rickshaw Regulation Scheme” has been launched by the Transport Department, Government of Madhya Pradesh. The scheme aims to regulate the operation of auto rickshaws to ensure road safety, uniformity, and compliance with motor vehicle laws by enforcing regulatory provisions such as vehicle age limits, permit validity, speed control, vehicle tracking devices, and route rationalization for all operators, including those with disabilities."
+    ],
+    "benefits": [
+      "Benefits:",
+      "Regulated operation of auto rickshaws across Madhya Pradesh.",
+      "Improved road safety through speed governors limited to 40 kilometers per hour.",
+      "A mandatory vehicle tracking device is integrated with the Transport Department’s central server.",
+      "Uniform permit system with defined validity periods.",
+      "Organized route allocation and auto stand identification.",
+      "Inclusive applicability to all eligible operators, including persons with disabilities.",
+      "Validity:",
+      "Permanent permits are valid for 5 years",
+      "Temporary permits are valid for up to 4 months"
+    ],
+    "eligibility": [
+      "General Eligibility",
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should be an auto rickshaw owner or operator.",
+      "The applicant should possess a valid driving license suitable for operating an auto rickshaw.",
+      "The applicant’s auto rickshaw should not be more than 10 years old from the manufacturing year if petrol or diesel operated.",
+      "The applicant should apply for a permit or renewal under the Madhya Pradesh Motor Vehicle Rules, 1994.",
+      "The applicant should comply with prescribed safety, speed, and tracking requirements.",
+      "The applicant may be a person with disability, provided all statutory driving and vehicle fitness conditions are fulfilled.",
+      "The applicant must not have any major traffic violations or criminal offences under motor vehicle laws in the previous year.",
+      "For Auto Rickshaw / E-Cart / E-Rickshaw Owners:",
+      "The vehicle must adhere to color-coding regulations as prescribed by the Regional Transport Authority.",
+      "The vehicle must have the route number and auto-stand details clearly displayed on a visible white circular background with red letters.",
+      "The owner must ensure the vehicle carries all valid documents, including registration certificate, fitness certificate, insurance, permit, pollution control certificate, and motor vehicle tax receipt.",
+      "The owner must ensure the vehicle is not modified, including installation of music systems or unauthorized alterations; violation may result in permit cancellation.",
+      "The owner is responsible for compliance with all conditions imposed on the permit by the authorities.",
+      "For Drivers:",
+      "The driver must wear the prescribed uniform while operating the vehicle.",
+      "The driver must have no repeated traffic violations, such as jumping red lights, violating lane discipline, overspeeding, or committing offenses under motor vehicle laws.",
+      "The driver must not operate the vehicle under the influence of alcohol or drugs.",
+      "The driver must not use a mobile phone or smoke while driving.",
+      "The driver must not overload the vehicle beyond the permitted passenger capacity; violations will result in fines of ₹1,000 for the first offense and permit cancellation for repeated offenses.",
+      "The driver must carry all vehicle documents while driving, as required by law."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Regional Transport Authority and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Regional Transport Authority."
+      ]
+    },
+    "documents_required": [
+      "Application Form As Per Madhya Pradesh Motor Vehicle Rules",
+      "Registration Certificate Of Vehicle",
+      "Valid Permit Or Permit Renewal Application",
+      "Valid Driving License",
+      "Fitness Certificate",
+      "Insurance Certificate",
+      "Pollution Under Control Certificate",
+      "Tax Payment Proof"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "From when is the scheme applicable?",
+      "answer": "The scheme is applicable from the date of its publication in the Madhya Pradesh Gazette."
+    },
+    {
+      "question": "What is the maximum age of petrol or diesel auto rickshaws?",
+      "answer": "Petrol or diesel auto rickshaws older than 10 years are not permitted."
+    },
+    {
+      "question": "Is a speed governor mandatory?",
+      "answer": "Yes, a speed governor limited to 40 kilometers per hour is mandatory."
+    },
+    {
+      "question": "Is vehicle tracking compulsory?",
+      "answer": "Yes, all auto rickshaws must have a Vehicle Tracking Device integrated with the central server."
+    },
+    {
+      "question": "What is the validity of a permanent permit?",
+      "answer": "A permanent permit is valid for 5 years."
+    },
+    {
+      "question": "What is the validity of a temporary permit?",
+      "answer": "A temporary permit is valid for a maximum of 4 months."
+    },
+    {
+      "question": "Are electric rickshaws required to obtain permits?",
+      "answer": "No, electric rickshaws are exempted from permit requirements."
+    },
+    {
+      "question": "Are electric vehicles exempted from motor vehicle tax?",
+      "answer": "Yes, electric vehicles receive tax and registration fee exemptions as per state policy."
+    },
+    {
+      "question": "Can persons with disabilities operate auto rickshaws under this scheme?",
+      "answer": "Yes, persons with disabilities can operate auto rickshaws if statutory conditions are met."
+    },
+    {
+      "question": "Who determines auto rickshaw routes?",
+      "answer": "Routes are determined by the Regional Transport Authority."
+    },
+    {
+      "question": "Is color coding mandatory for auto rickshaws?",
+      "answer": "Yes, prescribed color coding is mandatory and part of permit conditions."
+    },
+    {
+      "question": "What happens if permit conditions are violated?",
+      "answer": "The auto rickshaw may be seized and the permit may be cancelled."
+    },
+    {
+      "question": "Does the scheme override central motor vehicle laws?",
+      "answer": "No, central and state motor vehicle laws and amendments remain applicable."
+    }
+  ]
+}

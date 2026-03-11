@@ -1,0 +1,74 @@
+{
+  "scheme_name": "Financial Assistance to Permanent Residents of Uttarakhand for Religious Pilgrimages",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/faprurp",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Financial Assistance to Permanent Residents of Uttarakhand for Religious Pilgrimages",
+  "scraped_at": "2026-03-11 16:50:40 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Financial Assistance to Permanent Residents of Uttarakhand for Religious Pilgrimages” was introduced by the Department of Culture and Endowments, Government of Uttarakhand. The scheme aims to provide financial assistance to permanent residents of the state who have successfully completed the Kailash Mansarovar Yatra, irrespective of their religion or caste."
+    ],
+    "benefits": [
+      "The Uttarakhand State Government provides financial assistance of ₹50,000/- to permanent residents of the state, irrespective of religion or caste, who successfully complete the Kailash Mansarovar Yatra organized by the Government of India."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must have successfully completed the Kailash Mansarovar Yatra organized by the Government of India.",
+      "The applicant must have undertaken the journey through the Kumaon Mandal Vikas Nigam."
+    ],
+    "application_process": {
+      "online": [
+        "Permanent residents of the state who have completed the Kailash Mansarovar Yatra via the Pithoragarh Yatra route can apply online through the",
+        "Apuni Sarkar portal",
+        ", after receiving a recommendation from the Kumaon Mandal Vikas Nigam. The main documents required for the application are as follows:",
+        "Permanent/Domicile Certificate of Uttarakhand",
+        "Travel Completion Certificate issued by the Ministry of External Affairs, along with other travel-related documents",
+        "Photocopy of bank passbook showing the account number and IFSC code",
+        "Photocopy of PAN card",
+        "Photocopy of Aadhaar card",
+        "After submission, the application forms are scrutinized by the Director's office. If the documents are found to be correct, the reimbursement amount is credited to the concerned individual."
+      ]
+    },
+    "documents_required": [
+      "Permanent/Domicile Certificate of Uttarakhand",
+      "Travel Completion Certificate issued by the Ministry of External Affairs, along with other travel-related documents",
+      "Photocopy of bank passbook showing the account number and IFSC code",
+      "Photocopy of PAN card",
+      "Photocopy of Aadhaar card"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 113)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Permanent residents of Uttarakhand, irrespective of religion or caste, who have completed the Kailash Mansarovar Yatra organized by the Government of India."
+    },
+    {
+      "question": "What is the financial assistance provided under the scheme?",
+      "answer": "The Uttarakhand State Government provides a sum of ₹50,000/- to eligible participants after completion of the Yatra."
+    },
+    {
+      "question": "Which Yatra route is eligible under this scheme?",
+      "answer": "Residents who complete the Kailash Mansarovar Yatra via the Pithoragarh Yatra route are eligible."
+    },
+    {
+      "question": "Who organizes the Yatra for eligibility?",
+      "answer": "The Yatra must be organized by the Government of India and the journey should be coordinated by Kumaon Mandal Vikas Nigam."
+    },
+    {
+      "question": "How can eligible residents apply for this scheme?",
+      "answer": "Applications must be submitted online through the Apuni Sarkar portal , after receiving a recommendation from Kumaon Mandal Vikas Nigam."
+    },
+    {
+      "question": "Is the travel completion certificate mandatory?",
+      "answer": "Yes, the Travel Completion Certificate issued by the Ministry of External Affairs, along with other travel-related documents, is required."
+    },
+    {
+      "question": "Who scrutinizes the applications?",
+      "answer": "The Director’s office scrutinizes all submitted applications."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_name": "Yatra Anudan",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ya",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Yatra Anudan",
+  "scraped_at": "2026-03-11 12:13:45 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Yatra Anudan” is implemented by the Uttarakhand State Council for Science and Technology (UCOST) under the Science and Technology, Government of Uttarakhand. The scheme aims to support researchers and scientists in attending international scientific workshops and other similar programs by providing eligible applicants with travel grants covering up to 50% of the expenses (maximum ₹25,000/-)."
+    ],
+    "benefits": [
+      "The Council provides travel grants to researchers and scientists to participate in international scientific workshops and other similar programs.",
+      "Under this scheme, 50% of the travel expenses (up to a maximum of ₹25,000/-) are provided to researchers and scientists of the state."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a researcher or scientist."
+    ],
+    "application_process": {
+      "online": [
+        "The application for financial assistance must be submitted in the prescribed format (available on the Council's website:",
+        "https://ucost.uk.gov.in/",
+        ") and should also be forwarded by the Head of the Department."
+      ]
+    },
+    "documents_required": [
+      "Documents are required to be submitted as per the guidelines of the Uttarakhand State Council for Science and Technology (UCOST)."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 122)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "The scheme is intended for state researchers and scientists engaged in scientific research in Uttarakhand."
+    },
+    {
+      "question": "What types of events are supported under this scheme?",
+      "answer": "The scheme provides grants for participation in international scientific workshops and other similar programs."
+    },
+    {
+      "question": "What expenses are covered under the scheme?",
+      "answer": "The scheme covers up to 50% of travel expenses, with a maximum grant of ₹25,000 per applicant."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applicants must submit the application in the prescribed format available on UCOST’s website: https://ucost.uk.gov.in ."
+    },
+    {
+      "question": "Can applications be submitted directly to UCOST?",
+      "answer": "No, applications must be forwarded by the applicant’s Head of Department to ensure proper verification and endorsement."
+    }
+  ]
+}

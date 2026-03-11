@@ -1,0 +1,76 @@
+{
+  "scheme_name": "Dastkar Prashikshan (I.T.I)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dpiti",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Dastkar Prashikshan (I.T.I)",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The “Dastkar Prashikshan” scheme was launched by the Department of Skill Development and Employment, Government of Uttarakhand. The scheme aims to provide benefits to the youth of the state by connecting them with private-sector employment or self-employment opportunities through skills training offered at district ITIs."
+    ],
+    "benefits": [
+      "To benefit the youth by connecting them with employment or self-employment opportunities in the private sector through skill training provided by district ITIs.",
+      "The duration of this training is either 1 year or 2 years."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must have passed Class 8 or Class 10.",
+      "The fee is currently fixed at ₹4,000/- per annum."
+    ],
+    "application_process": {
+      "online": [
+        "The department announces the ITI admission process through advertisements. Admissions are conducted between July and September each year.",
+        "Applications can be submitted through the website",
+        "www.vpputtarakhand.in",
+        ".",
+        "Applicants must provide an Aadhaar card, all applicable reservation certificates, a permanent residence certificate, a bank account number, and a mobile number.",
+        "Admission is finally granted after an online counseling process based on merit."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Reservation Related Certificate, if applicable",
+      "Permanent Residence Certificate",
+      "Bank Account details",
+      "Mobile Number"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 101)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Any resident youth of Uttarakhand who has passed Class 8 or Class 10 is eligible to apply."
+    },
+    {
+      "question": "Where is the training provided?",
+      "answer": "Training is provided through Industrial Training Institutes (ITIs) in different districts of Uttarakhand."
+    },
+    {
+      "question": "What is the duration of the training?",
+      "answer": "The training is offered for either 1 year or 2 years, depending on the course."
+    },
+    {
+      "question": "Is there any fee for the training?",
+      "answer": "Yes, the fee is currently fixed at ₹4,000 per annum."
+    },
+    {
+      "question": "When does the admission process take place?",
+      "answer": "Admissions are held between July and September each year."
+    },
+    {
+      "question": "How are applicants notified about the admission process?",
+      "answer": "The department publishes the ITI admission process through advertisements in newspapers and official notifications."
+    },
+    {
+      "question": "Where can applicants apply for admission?",
+      "answer": "Applications can be submitted online through the website www.vpputtarakhand.in ."
+    },
+    {
+      "question": "Is the admission merit-based?",
+      "answer": "Yes, final admission is granted through an online counseling process based on merit."
+    }
+  ]
+}

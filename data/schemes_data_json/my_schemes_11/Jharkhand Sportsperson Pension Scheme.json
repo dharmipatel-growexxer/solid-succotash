@@ -1,0 +1,128 @@
+{
+  "scheme_name": "Jharkhand Sportsperson Pension Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jsps",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Jharkhand Sportsperson Pension Scheme",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The “Jharkhand Sportsperson Pension Scheme” was launched by the Department of Sports & Youth Affairs, Government of Jharkhand. aims to provide financial support to retired athletes for their lifelong contribution to sports. Athletes, including Arjuna, Dronacharya, and Dhyan Chand awardees, Olympic participants, and Commonwealth or Asian Games medalists, receive a monthly pension."
+    ],
+    "benefits": [
+      "Athletes receive a lifetime monthly pension of ₹10,000/-.",
+      "Dependents of deceased athletes (spouse and minor children) receive ₹5,000/- monthly.",
+      "NOTE:",
+      "Pension payments are directly transferred to the beneficiary's bank account."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Jharkhand.",
+      "The applicant should be a sportsperson or dependent on the deceased sportsperson.",
+      "The applicant must receive the Arjuna, Dronacharya, or Dhyan Chand awards, an Olympic participant, or a medalist in Commonwealth or Asian Games.",
+      "The applicant should be retired from active sports.",
+      "The applicant must be at least 40 years old (age relaxation up to 10 years for medically retired athletes).",
+      "The applicant must not be employed in any government, PSU, or pension scheme.",
+      "The applicant should have no criminal convictions.",
+      "The applicant should not be receiving any pension from the Government of India or any other state government."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant downloads the",
+        "application form",
+        "from the official website.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the District Sports Officer.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the District Sports Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "Processing of the Applications by the Concerned Authorities:",
+        "The DSO verifies the application and forwards it with recommendations to the Directorate of Sports and Youth Affairs.",
+        "Approval is granted by the committee formed under Jharkhand Sports Policy 2022.",
+        "Upon approval, the pension amount is transferred to the beneficiary’s bank account."
+      ]
+    },
+    "documents_required": [
+      "Educational Qualification Certificates",
+      "For literate applicants: Matriculation certificate issued by the school",
+      "For illiterate applicants: Aadhaar card, Voter ID, or similar document",
+      "Proof of Date of Birth",
+      "Matriculation certificate (for literate applicants)",
+      "Aadhaar card, Voter ID, etc., for illiterate applicants",
+      "Other Documents",
+      "Sports Achievements Certificates (Certificates or testimonials showcasing achievements in sports",
+      "Physical Disability Certificates (issued by the State Medical Board)",
+      "Proof of Current Occupation and Annual Income Certificate (issued by a competent authority)",
+      "List of Dependent Family Members (include their relationship, age, and occupation details on a signed sheet certificates issued by Government/Non-Government Organizations)",
+      "Proof of Previous Assistance or Pension (if applicable)",
+      "Relevant documents indicating assistance or pension from similar schemes by central or state government",
+      "Declaration Regarding Court Conviction (full details if the applicant has been convicted in a civil or criminal case)",
+      "Anti-Doping Declaration (document indicating no use of IOC-banned substances or a related certificate if applicable)",
+      "Bank Passbook",
+      "Additional Relevant Information (if any)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Jharkhand Athlete Pension Scheme?",
+      "answer": "Athletes with specific achievements (e.g., Arjuna awardees) and retired from sports are eligible."
+    },
+    {
+      "question": "What is the pension amount under this scheme?",
+      "answer": "₹10,000 per month for athletes; ₹5,000 for dependents."
+    },
+    {
+      "question": "Can I apply if I am below 40 years old?",
+      "answer": "Yes, if retired due to medical reasons with proper certification."
+    },
+    {
+      "question": "Can recipients of other government pensions apply?",
+      "answer": "No, recipients of other pensions are not eligible."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Sports achievement proof, identity and residential proof, and other specified documents."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "Applications can be submitted to the District Sports Officer."
+    },
+    {
+      "question": "How is the application verified?",
+      "answer": "The District Sports Officer verifies eligibility and forwards it for approval."
+    },
+    {
+      "question": "What is the approval process for this scheme?",
+      "answer": "Applications are approved by a committee under Jharkhand Sports Policy 2022."
+    },
+    {
+      "question": "Can I nominate dependents for the pension?",
+      "answer": "Yes, dependents (spouse and minor children) can receive a pension upon the athlete’s demise."
+    },
+    {
+      "question": "Can an athlete receiving this pension return to active sports?",
+      "answer": "No, this scheme is only for retired athletes."
+    },
+    {
+      "question": "What happens if false information is provided in the application?",
+      "answer": "The pension will be terminated, and legal action may be taken."
+    },
+    {
+      "question": "Can dependents apply for the pension after the athlete’s death?",
+      "answer": "Yes, dependents need to provide necessary documents like a death certificate and heir certificate."
+    },
+    {
+      "question": "How will the pension amount be disbursed?",
+      "answer": "It will be directly transferred to the beneficiary’s bank account."
+    },
+    {
+      "question": "What is the role of the District Sports Officer?",
+      "answer": "The DSO verifies applications and forwards them for approval."
+    }
+  ]
+}

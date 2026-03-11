@@ -1,0 +1,76 @@
+{
+  "scheme_name": "Atal Kisan Jyoti Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/akjy",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Atal Kisan Jyoti Yojana",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Atal Kisan Jyoti Yojana” launched by the Energy Department, Government of Madhya Pradesh, aims to provide concessional electricity to farmers through a flat rate power supply of ₹750/- per horsepower per year to metered agricultural pump consumers up to 10 horsepower."
+    ],
+    "benefits": [
+      "Electricity Supply at Concessional Rate: Farmers having metered permanent agricultural pumps up to 10 horsepower are provided electricity at a flat rate of ₹750/- per horsepower per year."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a permanent agricultural pump consumer.",
+      "The applicant must have a metered connection.",
+      "The applicant’s pump capacity should be up to 10 horsepower."
+    ],
+    "application_process": {
+      "offline": [
+        "The benefit will be automatically provided to eligible consumers."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof.",
+      "Any other document as required by the authority."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme aims to provide electricity at concessional rates to farmers in Madhya Pradesh."
+    },
+    {
+      "question": "Who implements the scheme?",
+      "answer": "The scheme is implemented by the Horticulture and Food Processing Department, Government of Madhya Pradesh."
+    },
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "Permanent metered agricultural pump consumers up to 10 horsepower are eligible for the benefit."
+    },
+    {
+      "question": "What is the rate of electricity supply under this scheme?",
+      "answer": "Electricity is supplied at a flat rate of ₹750/- per horsepower per year."
+    },
+    {
+      "question": "What type of benefit is provided under the scheme?",
+      "answer": "The benefit is provided in the form of a grant from the State Government."
+    },
+    {
+      "question": "Is this scheme available to all categories of farmers?",
+      "answer": "Yes, it is available to all General category farmers having metered agricultural pumps up to 10 horsepower."
+    },
+    {
+      "question": "Is there any application process to avail of this scheme?",
+      "answer": "No, the benefit is automatically available to eligible consumers."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, there is no application fee for this scheme."
+    },
+    {
+      "question": "Can farmers with more than 10 horsepower pumps apply for this benefit?",
+      "answer": "No, only consumers with up to 10-horsepower pumps are eligible."
+    },
+    {
+      "question": "Who is the designated officer for this scheme?",
+      "answer": "The distribution center in-charge is the designated officer."
+    }
+  ]
+}

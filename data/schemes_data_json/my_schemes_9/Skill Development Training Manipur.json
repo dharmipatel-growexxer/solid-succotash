@@ -1,0 +1,99 @@
+{
+  "scheme_name": "Skill Development Training Manipur",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sdtm",
+  "location_name": "Manipur",
+  "location_type": "state",
+  "page_title": "Skill Development Training Manipur",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Skill Development Training\" scheme was implemented by the Manipur Building and Other Construction Workers' Welfare Board. The scheme offers skill development training to registered building workers, their spouse, dependent siblings, and children. The training includes vocational and skill development courses from recognized government and private providers, aiming to enhance the employability of beneficiaries."
+    ],
+    "benefits": [
+      "Financial assistance covering course training fees.",
+      "The financial assistance for boarding and lodging upto ₹150/- per day.",
+      "Stipends or compensation for loss of daily wages during the training period.",
+      "Training courses leading to certifications or degrees recognized by the government.",
+      "Upgradation of training infrastructure through grants for eligible training providers."
+    ],
+    "eligibility": [
+      "For Construction Worker:",
+      "The applicant should be registered construction worker under the Manipur Building and Other Construction Workers' Welfare Board",
+      "For Dependent:",
+      "The applicant should be a spouse, dependent siblings, and children of the registered construction worker."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should visit (during office hours) the Manipur Building and Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant visits the",
+        "official website",
+        "and downloads the",
+        "application form",
+        ".",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labour Board Inspector",
+        "Step-4:",
+        "Request a receipt or acknowledgement from the Labour Board Inspector to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Certificate of Registration of Construction Worker.",
+      "Payment Receipt of the Last Contribution.",
+      "Aadhaar Card.",
+      "First Page of Bank Passbook."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the skill development scheme?",
+      "answer": "Registered building workers and their dependent spouse, siblings, and children are eligible."
+    },
+    {
+      "question": "What types of courses are covered?",
+      "answer": "Vocational or skill development courses of at least one month in duration, offered by government-approved or private institutions."
+    },
+    {
+      "question": "Is there a minimum registration period to apply?",
+      "answer": "No, there is no minimum registration period required to apply."
+    },
+    {
+      "question": "What financial assistance is available?",
+      "answer": "Financial aid covers course fees, boarding/lodging costs, and a stipend to compensate for loss of wages."
+    },
+    {
+      "question": "How is the course fee determined?",
+      "answer": "The course fee is linked to the salary the trainee is expected to earn post-training. Higher earning potential means a higher financial allocation for training."
+    },
+    {
+      "question": "Is there any financial support for private training providers?",
+      "answer": "Yes, private training providers may receive grants to improve their training capacity, including infrastructure and equipment."
+    },
+    {
+      "question": "How is the training fee disbursed?",
+      "answer": "The fee can be paid directly to the training provider or as a scholarship to the trainee."
+    },
+    {
+      "question": "Can I attend a private institution for training?",
+      "answer": "Yes, but at least 70% of trainees from private institutions must secure wage employment after completing the course."
+    },
+    {
+      "question": "What happens if part of the training is funded by a government scheme?",
+      "answer": "The remaining course cost will be covered by the Board, if the government scheme only provides partial funding."
+    },
+    {
+      "question": "What documentation is required for dependents?",
+      "answer": "Dependents must provide proof of relationship with the registered worker (e.g., birth/marriage certificates)."
+    },
+    {
+      "question": "Are there limits on course duration?",
+      "answer": "The courses can range from one month to a maximum of three years."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "scheme_name": "ECCE (Early Childhood Care and Education)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ecceuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "ECCE (Early Childhood Care and Education)",
+  "scraped_at": "2026-03-11 16:32:18 UTC",
+  "sections": {
+    "details": [
+      "The scheme “ECCE (Early Childhood Care and Education)” is an initiative under the Samagra Shiksha Programme, implemented by the Secondary Education Department, Government of Uttarakhand. The scheme aims to provide quality early childhood development, care, and pre-primary education to children between the ages of 3 to 6 years. The scheme also emphasizes safe and secure infrastructure, including the provision of furniture, TLM, and child-friendly facilities in co-located Anganwadi centres operating within the premises of government schools in the state."
+    ],
+    "benefits": [
+      "Providing infrastructure facilities such as furniture, TLM, and child-friendly furniture in co-located Anganwadi centres functioning within the premises of government schools in the state.",
+      "Training of Anganwadi workers and assistants.",
+      "Ensuring pre-school readiness so that children acquire cognitive and psychological skills before admission to Class 1."
+    ],
+    "eligibility": [
+      "The applicant should be a boy or girl aged between 3 to 6 years.",
+      "The child (boy/girl) must not have completed 6 years of age as on the date of commencement of the academic session."
+    ],
+    "application_process": {
+      "offline": [
+        "The child must be taken to the respective co-located Anganwadi centre along with the Aadhaar card or birth certificate as proof of age, which is mandatory for admission/registration.",
+        "Admission is free, and children can be enrolled anytime between the ages of 3 to 6 years. All children in the prescribed age group within the area served by Anganwadi centres/Balvatikas operating in government school premises must be registered."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of the Child",
+      "Birth Certificate of the Child (as proof of age)"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 80)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of the ECCE scheme?",
+      "answer": "The scheme aims to ensure school readiness and holistic development of children through quality early childhood care and pre-primary education before their admission to Class 1."
+    },
+    {
+      "question": "Which children are eligible under this scheme?",
+      "answer": "All boys and girls between the ages of 3 to 6 years are eligible for enrolment under this scheme."
+    },
+    {
+      "question": "How is the age of 6 years defined under the scheme?",
+      "answer": "A child is considered eligible until the day before he/she completes 6 years of age as on the date of commencement of the academic session."
+    },
+    {
+      "question": "What documents are required for admission?",
+      "answer": "Parents need to submit the child’s Aadhaar card or birth certificate as proof of age for registration and admission."
+    },
+    {
+      "question": "Is admission under ECCE free of cost?",
+      "answer": "Yes, admission is completely free for all eligible children."
+    },
+    {
+      "question": "When can a child be admitted?",
+      "answer": "A child can be admitted anytime between the ages of 3 and 6 years."
+    },
+    {
+      "question": "Where will the children be enrolled?",
+      "answer": "Children will be registered in co-located Anganwadi centres or Balvatikas functioning within the premises of government schools."
+    },
+    {
+      "question": "What facilities are provided under the scheme?",
+      "answer": "The scheme provides child-friendly infrastructure, including furniture, teaching-learning materials (TLM), and other necessary resources in Anganwadi centres."
+    },
+    {
+      "question": "Can a child who has crossed 6 years be admitted?",
+      "answer": "No, children who have completed 6 years of age at the commencement of the academic session are not eligible."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Kutirjyoti Yojana Gujarat",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kyg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Kutirjyoti Yojana Gujarat",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "The “Kutirjyoti Yojana” was launched by the Energy and Petro Chemicals Department, Government of Gujarat. The scheme aims to provide free household electricity connections to Scheduled Tribe beneficiaries living in tribal areas. Under this scheme, Below Poverty Line (BPL) and lower-income group beneficiaries can avail free electrification of their houses."
+    ],
+    "benefits": [
+      "Free electricity household connection is provided to BPL/lower income group beneficiary."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to the Scheduled Tribe (ST) category.",
+      "The applicant should be living in a tribal area of the state.",
+      "The applicant’s family should belong to the Below Poverty Line (BPL) or lower-income group category.",
+      "The applicant’s family annual income should not exceed ₹1,50,000/-.",
+      "The applicant should own land or a house under a poverty housing scheme or through land allotment."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Subdivisional Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Subdivisional Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the Subdivisional Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Allotment Order of Land/ Readymade House received under any poverty housing scheme",
+      "Caste Certificate",
+      "Identity Proof of the Applicant",
+      "Income Certificate",
+      "Land Ownership Document",
+      "Passport-size Photos"
+    ],
+    "sources_and_references": [
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Kutirjyoti Yojna?",
+      "answer": "The scheduled tribe families living in the tribal areas of Gujarat."
+    },
+    {
+      "question": "What is the main benefit of the scheme?",
+      "answer": "Under this scheme, provide free household electricity connection."
+    },
+    {
+      "question": "Is there any cost to apply?",
+      "answer": "No, the application form is free of cost."
+    },
+    {
+      "question": "Where can I get the application form?",
+      "answer": "The application form is available from the subdivisional office."
+    },
+    {
+      "question": "Can I apply online?",
+      "answer": "No, an online application is not available."
+    },
+    {
+      "question": "What documents are needed?",
+      "answer": "Caste certificate, income certificate, identity proof, land or house allotment order, and passport-size photos."
+    },
+    {
+      "question": "Is the scheme only for BPL families?",
+      "answer": "Yes, only BPL and low-income group families are eligible."
+    },
+    {
+      "question": "Can non-ST families apply?",
+      "answer": "No, the scheme is exclusively for Scheduled Tribe beneficiaries."
+    },
+    {
+      "question": "Can I apply if I already have an electricity connection?",
+      "answer": "No, only households without an existing connection can apply."
+    },
+    {
+      "question": "What is the maximum income limit?",
+      "answer": "Annual family income should not exceed ₹1,50,000."
+    }
+  ]
+}

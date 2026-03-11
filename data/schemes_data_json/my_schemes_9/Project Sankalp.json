@@ -1,0 +1,151 @@
+{
+  "scheme_name": "Project Sankalp",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ps-g",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Project Sankalp",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Project Sankalp\" was launched on 15th July 2020 by the Gujarat Skill Development Mission (GSDM), Labour and Employment Department, Government of Gujarat. The scheme aims to revolutionize vocational skilling, making India the global skill capital with globally competitive skills and competencies. The scheme provides an industry-led vocational skilling program, enabling the industry to fulfill its demand for skilled manpower and providing youth with sustainable employment opportunities. The scheme is implemented by the Gujarat Skill Development Mission. The applications for this scheme are accepted online through the GSDM portal."
+    ],
+    "benefits": [
+      "Training Cost Reimbursement",
+      "The Industry Partner will receive reimbursement for training costs per candidate per hour:",
+      "NSQF Category 1 Job Roles: ₹49.",
+      "NSQF Category 2 Job Roles: ₹42.",
+      "NSQF Category 3 Job Roles: ₹35.10.",
+      "GCVT Job Roles and Company-Specific Job Roles: ₹36.75 (which is 75% of the Category 1 NSQF job role training cost).",
+      "*The training cost for NSQF Job Roles is subject to amendments as per MSDE notification, and the cost for GCVT and Company-specific job roles will also change accordingly.",
+      "Assessment Cost Reimbursement",
+      "GSDM will reimburse the assessment cost directly to the respective Sector Skill Council (SSC), Gujarat Council of Vocational Training (GCVT), or Kaushalya Skill University (KSU) for both fresher trainees and existing employees.",
+      "*Any re-assessment cost for candidates who were absent or failed the first assessment, or for existing workers/employees, must be borne by the Industry Partner.",
+      "No Training Fee for Youth/Beneficiaries",
+      "No fee of any kind will be charged from the youth or beneficiaries for the training."
+    ],
+    "eligibility": [
+      "The Fresher Trainees must have a domicile of Gujarat.",
+      "The age of Fresher Trainees must be between 18 and 35 years.",
+      "The Existing Employees could be from Pan-India.",
+      "The age of Existing Employees must be between 18 and 55 years.",
+      "Relaxations & Preferences",
+      "The scheme focuses on the inclusion of Special Groups such as Women, Persons with Disability (PwD), Below Poverty Line (BPL), Scheduled Caste (SC), and Scheduled Tribe (ST).",
+      "A relaxation of ten years may be given to Women, PwD, BPL, SC, and ST candidates for fresher trainees."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Access the GSDM Portal & Initiate Registration",
+        "To begin, the applicant should visit the",
+        "Skills Gujarat portal",
+        ". On the displayed login screen, the applicant must locate and click on the \"",
+        "Register",
+        "\". This action will prompt the system to initiate the candidate registration process, allowing new users to create an account.",
+        "Step 2:",
+        "Complete Basic Registration Details",
+        "The applicant will be required to provide all the mandatory details in the registration form.",
+        "The system will generate One Time Passwords (OTPs), which will be sent to both the registered email ID and the mobile number provided by the applicant.",
+        "A verification screen will appear, where the applicant must accurately enter the \"Email OTP\" and \"Mobile OTP\" received.",
+        "Step 3:",
+        "Confirm Verification and Receive Login Credentials",
+        "After entering both OTPs, the applicant should click the \"Verify & Save\" button. If the OTPs are successfully verified, a confirmation message will appear, indicating successful basic registration.",
+        "Subsequently, the \"User Name\" and \"Password\" for the account will be generated and shared with the applicant via their registered email ID and mobile number.",
+        "Step 4:",
+        "Initial Login and Password Creation",
+        "Using the newly received \"Username\" and \"Password,\" along with the Captcha displayed on the login screen, the applicant should log in to their account.",
+        "For security purposes, the system will then prompt the applicant to create a new password by entering a \"New Password\" and re-entering it in the \"Enter Confirm Password\" field, followed by another Captcha.",
+        "The applicant must click \"Submit\" to finalize the new password.",
+        "Step 5:",
+        "Complete Full Registration",
+        "Once logged in with the new password, the applicant will proceed to the Full Registration section.",
+        "Here, they must provide all the mandatory details and upload the mandatory documents in the specified format and size.",
+        "The applicant must carefully read and then click \"I Agree to the Terms and Conditions\" to confirm the correctness of all the information updated during the registration process.",
+        "Finally, they should click \"Save and Continue\" to submit their complete registration details.",
+        "Step 6:",
+        "Access Candidate Dashboard and Utilize Resources",
+        "Upon successful full registration, the applicant will be directed to their Candidate Dashboard.",
+        "From this dashboard, they can access various features, including the \"TC Locator / KVK Locator\" to search for the Nearest Krishi Vigyan Kendra (KVK) or Training Center.",
+        "Additionally, they can click on \"Interest Assessment Test,\" which redirects them to http://gujarati.careerguide.com/my-profile, to start and view their psychometric test report.",
+        "*No fee of any kind should be charged from the youth or beneficiary for the Project Sankalp training."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar ID",
+      "Identity Proof (for verification; original documents will not be retained by Training Providers/Training Centres)",
+      "Address Proof (for verification; original documents will not be retained by Training Providers/Training Centres)",
+      "Educational Qualification Certificates (for verification; original documents will not be retained by Training Providers/Training Centres)",
+      "Alternate ID (if applicable)",
+      "Identification Number for Alternate ID (if applicable)",
+      "Alternate ID Proof Document (if applicable)",
+      "Category Certificate (if belonging to SC/ST/OBC)",
+      "Disability Certificate (if applicable, for Persons with Disability - PwD)",
+      "BPL/AAY Card (if applicable, for Below Poverty Line/Antyodaya Anna Yojana card holders)"
+    ],
+    "sources_and_references": [
+      "Project Background",
+      "Aims & Objectives",
+      "Guidelines",
+      "Online Application",
+      "List Of List Of GCVT Aligned Job Roles",
+      "User Manual For Candidate Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the maximum age limit I need to meet if I am applying as a fresher trainee under this vocational skilling program?",
+      "answer": "You must be between 18 years old (minimum as per labor law) and 35 years old (maximum) to apply as a fresher trainee."
+    },
+    {
+      "question": "Do I need to pay any registration fees or training charges when I enroll for the vocational training program?",
+      "answer": "No fee of any kind should be charged from you or any beneficiary for the training under this program, and non-compliance will lead to severe penalties for the Industry Partner."
+    },
+    {
+      "question": "What minimum percentage of attendance do I need to maintain during my training period to be eligible for the final assessment examination?",
+      "answer": "You must maintain a minimum of 70% attendance during the training period to be eligible for the final assessment."
+    },
+    {
+      "question": "If I am already employed in an industry and want to upgrade my skills, what is the age range within which I can apply?",
+      "answer": "As an existing employee, you must be between 18 years old (minimum as per labor law) and 55 years old (maximum) to be eligible for training."
+    },
+    {
+      "question": "What special consideration is available for women, persons with disability, and candidates from scheduled castes or tribes regarding age eligibility?",
+      "answer": "A relaxation of 10 years may be given to Women, Persons with Disability, Below Poverty Line, Scheduled Caste, and Scheduled Tribe candidates for fresher trainees."
+    },
+    {
+      "question": "Do I need to be a resident of Gujarat state to apply for this vocational training program as a new candidate?",
+      "answer": "Yes, you must have a domicile of Gujarat if you are applying as a new candidate for this training program."
+    },
+    {
+      "question": "What essential identity document must I possess during the enrollment process to be able to register for this training program?",
+      "answer": "You must have an Aadhaar ID during the enrollment process as it is mandatory for registration and validation purposes."
+    },
+    {
+      "question": "If I am currently working in an industry outside Gujarat, can I still participate in this skill development training program?",
+      "answer": "Yes, if you are an existing industry employee enrolled as a candidate for training, you could be from anywhere in India (Pan-India)."
+    },
+    {
+      "question": "What happens to my original documents when I submit them for verification during the application process at training centers?",
+      "answer": "Your original documents will not be retained by Training Providers or Training Centres; they are only used for verification purposes and will be returned to you."
+    },
+    {
+      "question": "Which government portal should I visit to complete my online registration and application for this vocational skilling program?",
+      "answer": "You should visit the official website www.skills.gujarat.gov.in to access the Gujarat Skill Development Mission portal for registration and application."
+    },
+    {
+      "question": "What specific certificates do I need to provide if I belong to scheduled caste, scheduled tribe, or other backward class categories?",
+      "answer": "You need to provide a Category Certificate if you belong to Scheduled Caste, Scheduled Tribe, or Other Backward Class categories during the application process."
+    },
+    {
+      "question": "What additional documentation do I need to submit if I have a disability and want to avail of the special provisions under this training program?",
+      "answer": "You need to provide a Disability Certificate if you are a Person with Disability to avail of the special provisions and age relaxation benefits."
+    },
+    {
+      "question": "How will I receive my login credentials after completing the basic registration process on the Gujarat Skill Development Mission portal?",
+      "answer": "Your User Name and Password will be generated and shared with you via your registered email ID and mobile number after successful verification of OTPs."
+    },
+    {
+      "question": "What specific card do I need to provide if I belong to the Below Poverty Line category to avail of special benefits?",
+      "answer": "You need to provide a Below Poverty Line card or Antyodaya Anna Yojana card if applicable to avail of special provisions under the scheme."
+    }
+  ]
+}

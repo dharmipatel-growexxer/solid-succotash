@@ -1,0 +1,79 @@
+{
+  "scheme_name": "Sponsorship for Employment",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pfe",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Sponsorship for Employment",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Sponsorship for Employment\" is implemented by Uttarakhand Purv Sainik Kalyan Nigam Limited (UPNL) under the Sainik Welfare Department, Government of Uttarakhand. The scheme aims to provide employment opportunities to ex-servicemen and their legal dependents by sponsoring them for contractual posts. Under this scheme, eligible candidates are sponsored for various departmental positions based on demand and their qualifications."
+    ],
+    "benefits": [
+      "Under this scheme, employment opportunities are provided to ex-servicemen and their legal dependents by sponsoring them for contractual posts through outsourcing."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an ex-serviceman (Army, Navy, or Air Force), their legal dependent, or a widow of an ex-serviceman (Veer Nari)."
+    ],
+    "application_process": {
+      "online": [
+        "Firstly, the eligible candidates (ex-servicemen and their legal dependents) fill out the online application/enrollment form for the desired post on the UPNL website:",
+        "www.upnl.co.in",
+        ", based on their district, qualifications, and preferred location.",
+        "Based on the district-wise demand for posts received from various departments and the eligibility/qualification criteria for those posts, UPNL forwards the names of enrolled candidates with the relevant qualifications to the concerned department for selection, following district-wise and priority order of nomination.",
+        "As per the demand received from the department, UPNL sends the names of six enrolled candidates for each vacant post to the concerned department for consideration.",
+        "The final selection of candidates is made by the department according to its rules, and the information is subsequently communicated to UPNL."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of the Applicant",
+      "PPO Copy",
+      "Discharge Book",
+      "Educational Documents",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 22)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply under this scheme?",
+      "answer": "Ex-servicemen, their legal dependents, and widows."
+    },
+    {
+      "question": "Is this a permanent job?",
+      "answer": "No, positions are on a contractual basis through outsourcing."
+    },
+    {
+      "question": "How many candidates are sent for one vacancy?",
+      "answer": "Six candidates per post are sponsored."
+    },
+    {
+      "question": "Is any fee required for enrollment?",
+      "answer": "No official fee is mentioned for enrollment on the UPNL website."
+    },
+    {
+      "question": "Can civilians apply for these posts?",
+      "answer": "No, only ex-servicemen and their legal dependents."
+    },
+    {
+      "question": "How are candidates selected for the job?",
+      "answer": "The department selects based on merit, qualifications, and internal rules."
+    },
+    {
+      "question": "Can I apply offline?",
+      "answer": "No, applications must be submitted online via the UPNL portal."
+    },
+    {
+      "question": "Are Veer Naris given any preference?",
+      "answer": "Yes, Veer Naris are eligible as primary beneficiaries."
+    },
+    {
+      "question": "What is the official website for application?",
+      "answer": "The applicant should visit the official UPNL portal: www.upnl.co.in ."
+    }
+  ]
+}

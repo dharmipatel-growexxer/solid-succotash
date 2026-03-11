@@ -1,0 +1,126 @@
+{
+  "scheme_name": "Meghalaya Sports & Wellness Centre Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mswcs",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Meghalaya Sports & Wellness Centre Scheme",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The",
+      "Sports and Wellness Scheme",
+      ", under the",
+      "Planning Department",
+      "of the",
+      "Government of Meghalaya",
+      ", is an initiative designed to encourage both registered and unregistered firms to establish modern sporting facilities in Meghalaya. The scheme has the dual objectives of enhancing well-being and improving the health of the local population. By promoting physical fitness, mental health, and healthier lifestyles through sports and wellness activities, the scheme aims to benefit the community by providing opportunities for physical exercise, sports participation, and other wellness-related activities that contribute to better overall health outcomes."
+    ],
+    "benefits": [
+      "Upfront subsidy up to 25% of total project cost (maximum ₹37.5 lakh for most applicantssemi_colon ₹75 lakh for top 5 promising entrepreneurs)",
+      "Backend support up to 10% of project cost (maximum ₹12.5 lakhsemi_colon ₹25 lakh for top 5 promising entrepreneurs)",
+      "5% entrepreneur’s own contribution required, with remaining balance via bank loan (up to ₹2.1 crore for top 5semi_colon up to ₹1.05 crore for others)",
+      "18-month moratorium before EMI repayment beginssemi_colon 15-year total loan term",
+      "Mentoring and acceleration coaching support through PRIME Meghalaya",
+      "One-time financial assistance for setting up sports and wellness infrastructure (gyms, swimming pools, football grounds, etc.)",
+      "Priority selection ensuring one facility per district before additional approvals"
+    ],
+    "eligibility": [
+      "Individuals",
+      "The applicant must be a resident of Meghalaya and provide valid government ID proof.",
+      "The applicant must be between 18 and 58 years of age.",
+      "The applicant must possess land, either self-owned or on lease, verified by the competent authority.",
+      "The entrepreneur must provide proof of relevant experience in the field through past projects, portfolios, certifications, or testimonials.",
+      "Registered Entities",
+      "The firm or company must be registered in Meghalaya, such as Pvt. Ltd., LLP, or Sole Proprietorship, and must operate as a “for-profit” organization.",
+      "The organization must provide an Incorporation Certificate or registration certificate, whichever is applicable.",
+      "The entity must ensure that at least two members possess a training certificate in the relevant sector from a recognized institution, preferably a government institute.",
+      "The entity must possess land, either self-owned or on lease, verified by the competent authority.",
+      "The entrepreneur must not be a credit defaulter with any bank."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.",
+        "Step 2:",
+        "If you are a first-time user, click on “",
+        "Registration for New User",
+        "” and complete the registration process to create your account.",
+        "Step 3:",
+        "Select your Authentication ID from the available options, such as",
+        "PDS (Ration Card)",
+        "Election Photo ID Card (EPIC).",
+        "Step 4:",
+        "Enter your card number, select your name from the displayed list, and click on “Next” to continue.",
+        "Step 5:",
+        "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.",
+        "Step 6:",
+        "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.",
+        "Step 7:",
+        "Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.",
+        "Click on",
+        "“Sign In",
+        "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.",
+        "Enter your User ID and Password, then click on “Login” to access your account.",
+        "After logging in, click on “Apply for Services/Scheme” to start your application.",
+        "Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+      ]
+    },
+    "documents_required": [
+      "Individuals",
+      "Evidence of financial sustainability",
+      "A valid government photo identity with an address such as Aadhar Card, Voter ID, Passport and Driver’s license",
+      "Self Declaration",
+      "Download",
+      "Attach any relevant documents, such as architectural plans",
+      "Financial projections",
+      "Land ownership or notarized lease certificate (if applicable)",
+      "Registered Entities",
+      "Attach DPR as per the mentioned format.",
+      "A valid government photo identity with an address such as Aadhar Card, Voter ID, Passport and Drivers license"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Sports and Wellness Scheme?",
+      "answer": "The Sports and Wellness Scheme is an initiative by the Planning Department of the Government of Meghalaya to encourage the development of modern sports and wellness facilities in the state."
+    },
+    {
+      "question": "Are NGOs, SHGs, and societies eligible for the scheme?",
+      "answer": "No, NGOs, SHGs, and societies may not be eligible based on their constitution."
+    },
+    {
+      "question": "What is the age requirement for individual applicants?",
+      "answer": "Individual applicants must be between 18 and 58 years of age."
+    },
+    {
+      "question": "Is land ownership required to apply for the scheme?",
+      "answer": "Yes, the applicant must possess land either through ownership or lease, verified by the competent authority."
+    },
+    {
+      "question": "What types of projects are supported under the scheme?",
+      "answer": "The scheme supports projects related to sports and wellness infrastructure such as gyms, swimming pools, football grounds, and other fitness facilities."
+    },
+    {
+      "question": "What is the maximum upfront subsidy provided under the scheme?",
+      "answer": "The scheme provides an upfront subsidy of up to 25% of the total project cost, with a maximum of ₹37.5 lakh for most applicants and up to ₹75 lakh for the top five promising entrepreneurs."
+    },
+    {
+      "question": "Is there any required contribution from the entrepreneur?",
+      "answer": "Yes, the entrepreneur must contribute at least 5% of the total project cost."
+    },
+    {
+      "question": "How is the remaining project cost financed?",
+      "answer": "The remaining balance can be financed through a bank loan."
+    },
+    {
+      "question": "What is the loan repayment structure?",
+      "answer": "The loan includes an 18-month moratorium period before EMI repayment begins and a total loan tenure of up to 15 years."
+    }
+  ]
+}

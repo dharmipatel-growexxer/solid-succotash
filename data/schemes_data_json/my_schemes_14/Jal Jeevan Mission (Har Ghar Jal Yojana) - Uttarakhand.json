@@ -1,0 +1,61 @@
+{
+  "scheme_name": "Jal Jeevan Mission (Har Ghar Jal Yojana) - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jjmhgjyuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Jal Jeevan Mission (Har Ghar Jal Yojana) - Uttarakhand",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "The “Har Ghar Jal Yojana” is a centrally sponsored scheme implemented by the Uttarakhand Jal Sansthan under the Drinking Water Department, Government of Uttarakhand. The scheme aims to provide every rural household in Uttarakhand with safe and adequate drinking water through household tap connections, ensuring the supply of 55 litres of potable water per person per day."
+    ],
+    "benefits": [
+      "Under this scheme, each household will receive pure drinking water through a domestic tap connection at the rate of 55 litres per person per day."
+    ],
+    "eligibility": [
+      "There is no eligibility criterion for providing connection/drinking water to rural drinking water consumers in Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "During or after the construction of the rural drinking water scheme, any rural family may apply for a domestic water connection by depositing a nominal connection fee of ₹1.00 and an application fee of ₹25.00 at the regional office of the department. Along with the application form, a non-judicial stamp paper of ₹100, two passport-size photographs, and a self-attested copy of any one of the following identity documents are required: Aadhaar Card, Voter ID Card, PAN Card, Ration Card with photograph, Driving Licence, Bank Passbook with photograph, Passport, or any identity document issued by Government or Semi-Government offices. A self-attested copy of the map approved by the Regional Development Authority, Local Body, or Gram Sabha is also required.",
+        "After submitting the application, the department verifies the documents and provides the applicant with a drinking water connection within 15 days. Drinking water is a basic and essential life-sustaining service, and no person should be denied access to it. Therefore, there are no eligibility criteria for providing a drinking water connection/potable water, nor can any selection process be established for selecting consumers."
+      ]
+    },
+    "documents_required": [
+      "₹100 non-judicial stamp paper",
+      "Two passport-size photographs",
+      "Self-attested copy of any one of the following identity documents (Aadhaar Card, Voter ID Card, PAN Card, Ration Card with photograph, Driving Licence, Bank Passbook with photograph, Passport or any other Identity document issued by any Government/Semi-Government office",
+      "Self-attested copy of the map approved by Regional Development Authority, Local Body, or Gram Sabha",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 231)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much water will be supplied under this scheme?",
+      "answer": "Each person will receive 55 litres of pure drinking water per day through a domestic tap connection."
+    },
+    {
+      "question": "How can a rural family apply for a water connection?",
+      "answer": "A rural family can apply during or after the construction of the rural drinking water scheme by submitting an application at the regional office of the department."
+    },
+    {
+      "question": "Is there any eligibility criterion for getting a drinking water connection?",
+      "answer": "No. There is no eligibility criterion; every rural household in Uttarakhand is entitled to receive a drinking water connection."
+    },
+    {
+      "question": "What is the application fee for obtaining a water connection?",
+      "answer": "Applicants must deposit a symbolic connection fee of ₹1.00 and an application fee of ₹25.00."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Applications must be submitted at the regional office of the Uttarakhand Jal Sansthan."
+    },
+    {
+      "question": "How long does it take to receive the connection after applying?",
+      "answer": "The department verifies documents and provides the water connection within 15 days of submitting the application."
+    }
+  ]
+}

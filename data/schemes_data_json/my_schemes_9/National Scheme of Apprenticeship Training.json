@@ -1,0 +1,113 @@
+{
+  "scheme_name": "National Scheme of Apprenticeship Training",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nsat",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "National Scheme of Apprenticeship Training",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "\"National Scheme of Apprenticeship Training\" of the Department of Higher Education, Ministry of Education is overseen by four Regional Boards of Apprenticeship/Practical (BOATs/BOPT) in Mumbai, Kanpur, Chennai, and Kolkata. The scheme offers practical training to graduate engineers, diploma holders (Technicians), and 10+2 Vocational pass-outs in approximately 10,000 industrial establishments. This program operates in compliance with guidelines established by the Central Apprenticeship Council (CAC), a statutory body created under the Apprentices Act, 1961. The primary goal is to bridge the gap in practical experience for fresh Graduate Engineers, Diploma holders, and 10+2 Vocational pass-outs. The apprentices undergo a one-year training period, receiving a monthly stipend shared equally between the Central Government and the Employer."
+    ],
+    "benefits": [
+      "1. The apprentices undergo a one-year Apprenticeship Training period.",
+      "2. Apprentices receive a monthly stipend during their training.",
+      "Engineering Graduate: ₹4,984 per month",
+      "Technicians: ₹3,542 per month",
+      "10+2 Vocational pass-outs: ₹2,758 per month",
+      "3. The stipend is shared equally between the Central Government and the employer, with the employer initially paying the full stipend and later claiming 50% reimbursement from the Central Government through the respective Boards of Apprenticeship/Practical (BOATs/BOPT)."
+    ],
+    "eligibility": [
+      "The applicant should be one of the following -",
+      "Graduate Engineers",
+      "Diploma Holders (Technicians)",
+      "10+2 Vocational Passouts"
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Registration",
+        "Visit the",
+        "Official Portal",
+        "of the National Apprenticeship Training Scheme. In the top ribbon, click \"Student\". On the next page, click \"Student Register\". You will be redirected to the",
+        "Registration Page",
+        ".",
+        "Step 2: Basic Profile",
+        "In the registration page, fill in the following mandatory fields: Basic Details (Name, Father/mother's Name, Aadhar Number), Educational Details (Course/Institute Details), Communication Information (Address, Mobile Number), Bank Details For Stipend Reception, Training Preferences (Field and Location for Apprenticeship).",
+        "Step 3: Review and Submit",
+        "After filling in all the mandatory fields, scroll to the bottom of the page, review the details, and click \"SUBMIT\".",
+        "Step 4: Contract Management",
+        "You can find apprenticeship advertisements on the dashboard. The details like title, description, duration, location, skills required, and qualifications needed to apply are visible to the student. Apply for a suitable apprenticeship opportunity.",
+        "Step 5: Track the Application Status",
+        "Application status can be checked in the application management section.",
+        "Step 6: Contract Acceptance",
+        "Students must accept the contract request from the establishment before sending a request to BOAT for final confirmation. Once accepted, the contract request is sent to BOAT for approval. Students can download and engage in the apprenticeship program.",
+        "Step 6: Profile Locking",
+        "Once a student's contract is created, their profile is locked, preventing further applications. Profile changes require a request to BOAT."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Valid Personal Email ID",
+      "Mobile number",
+      "Passport size photograph (Format: JPEG, Size: Less than 1 MB)",
+      "Aadhaar seeded/mapped Bank account details",
+      "Qualifying Degree / Provisional Certificate (Format: PDF, Size: Less than 1 MB)",
+      "First page of Bank passbook / Bank account statement (Format: PDF, Size: Less than 1 MB)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Documents Required",
+      "User Manual For Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How many Regional Boards of Apprenticeship oversee this scheme, and where are they located?",
+      "answer": "There are four Regional Boards of Apprenticeship/Practical (BOATs/BOPT) located in Mumbai, Kanpur, Chennai, and Kolkata."
+    },
+    {
+      "question": "What is the primary source of funding for the monthly stipends given to apprentices?",
+      "answer": "The monthly stipend is shared equally between the Central Government and the employer."
+    },
+    {
+      "question": "How can students track the status of their apprenticeship applications?",
+      "answer": "Students can check the application status in the application management section of the portal."
+    },
+    {
+      "question": "Who created the Central Apprenticeship Council, and what is its role?",
+      "answer": "The Central Apprenticeship Council (CAC) is a statutory body created under the Apprentices Act, 1961, and it plays a vital role in establishing guidelines for the scheme."
+    },
+    {
+      "question": "Can apprentices change their profile details after their contract is created?",
+      "answer": "No, once a student's contract is created, their profile is locked, preventing further profile changes."
+    },
+    {
+      "question": "Are there any age restrictions for individuals applying for apprenticeships?",
+      "answer": "Answer not captured."
+    },
+    {
+      "question": "Can students choose their preferred field and location for apprenticeship?",
+      "answer": "Yes, students can select their preferred field and location for apprenticeship during the registration process."
+    },
+    {
+      "question": "What are the main categories of individuals who can benefit from this apprenticeship program?",
+      "answer": "Graduate engineers, diploma holders (Technicians), and 10+2 Vocational pass-outs are the main categories eligible for this apprenticeship program."
+    },
+    {
+      "question": "Is there a specific time frame for the apprenticeship training period?",
+      "answer": "Yes, apprentices undergo a one-year apprenticeship training period."
+    },
+    {
+      "question": "What are the essential documents required for the registration process?",
+      "answer": "The necessary documents include Aadhaar card, a valid personal email ID, mobile number, a passport-size photograph, Aadhaar-seeded/mapped bank account details, and qualifying degree/provisional certificate."
+    },
+    {
+      "question": "Can you provide the monthly stipend for Technicians participating in the apprenticeship program?",
+      "answer": "Technicians receive a monthly stipend of ₹3,542."
+    },
+    {
+      "question": "What is the stipend amount for 10+2 Vocational pass-outs during their apprenticeship?",
+      "answer": "10+2 Vocational pass-outs receive a monthly stipend of ₹2,758."
+    }
+  ]
+}

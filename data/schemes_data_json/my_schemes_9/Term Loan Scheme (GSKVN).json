@@ -1,0 +1,108 @@
+{
+  "scheme_name": "Term Loan Scheme (GSKVN)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dcs-tl",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Term Loan Scheme (GSKVN)",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Term Loan Scheme\" is implemented by the Gujarat Safai Kamdar Vikas Nigam (GSKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to uplift safai kamdars (scavengers) and their dependents by providing financial assistance in the form of term loans to help them take up various trades or professions for self-employment. The scheme also aims to integrate them into the mainstream society by enabling them to move away from the traditional, inhuman, and hazardous occupation of manual scavenging and lead a life of dignity.",
+      "Under this scheme, beneficiaries are eligible to receive term loans ranging from ₹1,00,000 to ₹15,00,000 to start income-generating self-employment activities or projects. The scheme is implemented with the support of the National Safai Karamcharis Finance & Development Corporation (NSKFDC), New Delhi, in collaboration with the State Government, through the Gujarat Safai Kamdar Vikas Nigam."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "loans from ₹1,00,000/- to ₹15,00,000/- are provided at an interest rate of 6% for various businesses."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should be a scavenger/sanitation worker or a dependent of one.",
+      "The applicant should be willing to use the loan for starting income-generating self-employment activities or projects."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "Visit the Social Justice & Empowerment Department website:",
+        "https://esamajkalyan.gujarat.gov.in",
+        "Step 2",
+        ": Click on “Please Register Here” on the homepage.",
+        "Step 3:",
+        "Fill in your personal details as per Aadhaar.",
+        "Step 4:",
+        "Create a password and submit the form.",
+        "Step 5:",
+        "Verify details and click “Confirm”.",
+        "Step 6:",
+        "You will receive your User ID & Password via SMS/email.",
+        "Login Process:",
+        "Go to the portal homepage.",
+        "Step 2:",
+        "Enter your User ID, Password, and Captcha.",
+        "Click “Login” to access your dashboard.",
+        "Application Process:",
+        "After login, complete your User Profile (first-time only).",
+        "Homepage will show eligible schemes – click on the one you want.",
+        "Fill out the scheme application form.",
+        "Upload the required documents.",
+        "Review all entries, agree to terms, and click “Save Application” & note down your Application Number for tracking.",
+        "Track Application:",
+        "Click on “",
+        "View Application Status",
+        "”",
+        "Enter your Application Number and Date of Birth",
+        "Click “View Status” to check progress"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "PH Identity Card, If applicable",
+      "Widow Certificate, If applicable",
+      "Age Proof",
+      "Identity Card",
+      "PH Certificate from Civil Surgeon, If applicable",
+      "Ration Card"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Any sweeper, scavenger, or their dependent residing in Gujarat."
+    },
+    {
+      "question": "What is the loan amount offered?",
+      "answer": "The loan amount is ₹1,00,000 to ₹15,00,000."
+    },
+    {
+      "question": "What is the loan used for?",
+      "answer": "Self-employment activities/projects or small businesses."
+    },
+    {
+      "question": "Is there any income limit?",
+      "answer": "No, there is no income limit."
+    },
+    {
+      "question": "Are persons with disabilities eligible?",
+      "answer": "Yes, with a valid PH certificate and ID."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, the application is free."
+    },
+    {
+      "question": "Can I apply offline?",
+      "answer": "No, applications must be submitted online."
+    },
+    {
+      "question": "Is the scheme available across Gujarat?",
+      "answer": "Yes, it is available statewide."
+    }
+  ]
+}

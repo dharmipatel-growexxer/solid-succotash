@@ -1,0 +1,56 @@
+{
+  "scheme_name": "Entrepreneurship and Development Programme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/eadp",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Entrepreneurship and Development Programme",
+  "scraped_at": "2026-03-11 11:22:43 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Entrepreneurship and Development Programme” is implemented by the Uttarakhand State Council for Science and Technology (UCOST) under the Science and Technology, Government of Uttarakhand. It aims to establish Technology Resource Centers (TRCs) that develop advanced technologies based on locally available natural resources and improve techniques for commercial applications."
+    ],
+    "benefits": [
+      "Under the Entrepreneurship and Development Program, Technology Resource Centers (TRCs) are established. These centers work on the development of advanced technologies based on locally available natural resources and improve them for business needs, so that businesses can be created by adding value to the available natural resources."
+    ],
+    "eligibility": [
+      "The applicant must be an interested Entrepreneur/NGO Scientist/Researcher/Teacher from Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "After inviting applications through an advertisement, the selection will be made based on a presentation before the duly constituted competent committee."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the guidelines of the Uttarakhand State Council for Science and Technology."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 85)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply?",
+      "answer": "Interested entrepreneurs/NGOs, scientists/researchers/teachers from Uttarakhand."
+    },
+    {
+      "question": "What is a Technology Resource Center (TRC)?",
+      "answer": "A facility established under the scheme to develop technologies and provide technical guidance."
+    },
+    {
+      "question": "How are applications invited?",
+      "answer": "Applications are invited through advertisements issued by UCOST."
+    },
+    {
+      "question": "What kind of projects are supported under this program?",
+      "answer": "Projects that develop or improve technologies based on locally available natural resources with potential for commercial application are supported."
+    },
+    {
+      "question": "What benefits do selected applicants receive?",
+      "answer": "Access to TRCs, technical mentoring, project evaluation, and support for commercialization."
+    },
+    {
+      "question": "What is the selection process?",
+      "answer": "After receiving applications, candidates are required to give a presentation before a duly constituted competent committee. Selection is based on the presentation and project potential."
+    }
+  ]
+}

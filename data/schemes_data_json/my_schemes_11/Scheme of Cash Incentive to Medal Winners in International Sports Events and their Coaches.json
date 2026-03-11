@@ -1,0 +1,82 @@
+{
+  "scheme_name": "Scheme of Cash Incentive to Medal Winners in International Sports Events and their Coaches",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/itsp",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Scheme of Cash Incentive to Medal Winners in International Sports Events and their Coaches",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The \"Scheme of Cash Incentives to Medal Winners in International Sports Events and their Coaches\", implemented by the Ministry of Youth Affairs & Sports under the Department of Sports, Government of India, was introduced in 1986 to reward outstanding sportspersons for their achievements on the global stage. Over the years, the scheme has been revised to enhance its effectiveness. The latest amendment aims to streamline eligibility criteria, improve the disbursement process, incentivise higher achievements, and motivate athletes to serve as inspiring role models for the younger generation to take up sports."
+    ],
+    "benefits": [
+      "For all international events except the Olympics, Paralympics, Asian Games, Para-Asian Games, and Commonwealth Games, cash incentives will be paid based on the number of participating countries.",
+      "Amount of Incentive",
+      "In a team event",
+      "In an individual event",
+      "Full",
+      "The number of participating countries shall be at least 12 or the maximum permissible number of participants, whichever is lower.",
+      "The number of participating countries shall be at least 16 or the maximum permissible number of participants, whichever is lower.",
+      "Half",
+      "The number of participating countries is in the range of 6 to 11.",
+      "The number of participating countries is in the range of 8 to15.",
+      "One-third",
+      "The number of participating countries shall be between 4 and 5.",
+      "The number of participating countries shall range from 4 to 7.",
+      "Note: No cash incentive shall be given if the number of teams in any event is less than 4."
+    ],
+    "eligibility": [
+      "The cash incentive shall be awarded exclusively for the sports disciplines specified."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1: The sportsperson must submit the application through the Department of Sports’ designated portal within six months of the event.",
+        "Step 2: If all required details are already available, the application submission may be waived.",
+        "Step 3: Late applications will not be accepted; no relaxation is allowed for missing the deadline.",
+        "Step 4: The achievements of the sportsperson and coaches will be verified by authorised agencies or official databases before approval."
+      ]
+    },
+    "documents_required": [
+      "Proof of Medal/Participation",
+      "Identity Proof (Aadhaar/Passport/ID)",
+      "Bank Account Details",
+      "Event Participation Certificate",
+      "Coach Details",
+      "Other Supporting Documents"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Cash Incentive Scheme?",
+      "answer": "It provides cash rewards to Indian sportspersons and their coaches for winning medals in international events."
+    },
+    {
+      "question": "Which ministry implements this scheme?",
+      "answer": "The scheme is implemented by the Ministry of Youth Affairs & Sports, Department of Sports, Government of India."
+    },
+    {
+      "question": "Who is eligible for the cash incentive?",
+      "answer": "Indian sportspersons who win medals in recognized international events are eligible."
+    },
+    {
+      "question": "Are coaches eligible for cash incentives?",
+      "answer": "Yes, coaches of medal-winning athletes receive 50% of the sportsperson’s incentive."
+    },
+    {
+      "question": "Which events are included?",
+      "answer": "All international sports events, except Olympics, Paralympics, Asian Games, Para-Asian Games, and Commonwealth Games, have a separate incentive structure."
+    },
+    {
+      "question": "How is the incentive calculated?",
+      "answer": "It depends on the number of participating countries and whether it is a team or individual event."
+    },
+    {
+      "question": "Can a sportsperson get cash for multiple medals?",
+      "answer": "Yes, for Olympics, Paralympics, Asian Games, and Para-Asian Games, each medal is eligible; for other events, only the highest medal counts."
+    }
+  ]
+}

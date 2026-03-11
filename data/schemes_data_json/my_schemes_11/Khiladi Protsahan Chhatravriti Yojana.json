@@ -1,0 +1,79 @@
+{
+  "scheme_name": "Khiladi Protsahan Chhatravriti Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/piss",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Khiladi Protsahan Chhatravriti Yojana",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The scheme 'Khiladi Protsahan Chhatravriti Yojana' was launched by the Department of Sports, Government of Uttarakhand. The scheme aims to promote sports among talented youth aged 14 to 23 years from Uttarakhand by providing scholarships and financial assistance for sports equipment."
+    ],
+    "benefits": [
+      "Under this scheme, players/sportspersons aged 14 to 23 years are selected annually based on the P-SAT (Physical and Sports Aptitude Test).",
+      "A total of 100 boys and 100 girls are selected per district, and they are provided a scholarship of ₹2,000/- per month along with ₹10,000/- once a year for sports equipment."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must be a boy or girl between 14 and 23 years of age.",
+      "The boy or girl who obtain the highest marks based on merit in the final district-level competition, conducted through various stages of the Physical and Sports Aptitude Test (P-SAT) assessing physical abilities such as strength, flexibility, endurance, speed, and coordination, will be eligible for the sports scholarship.",
+      "Scholarships are awarded on a priority basis in the following sports: (1) Athletics, (2) Badminton, (3) Boxing, (4) Taekwondo, (5) Kabaddi, (6) Football, (7) Volleyball, (8) Basketball, (9) Hockey, (10) Table Tennis, (11) Karate, and (12) Judo."
+    ],
+    "application_process": {
+      "offline": [
+        "There is no selection at the school or Nyaya Panchayat level.",
+        "Players independently participate in competitions held directly at the municipality, municipal corporation, or district level, and selections are made based on merit.",
+        "Six competitions will be organized to test physical efficiency: (1) 30-meter flying run (2) Standing broad jump (3) Forward bend and reach (4) 6 × 10 shuttle run (5) Medicine ball throw (6) 600-meter run",
+        "The district-level selection committee will issue a final list in each age group who secure the highest marks based on merit. These players will be eligible for the sports scholarship, which will be directly transferred to their accounts through DBT."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Birth Certificate",
+      "Permanent Residence Certificate",
+      "Bank Account details",
+      "Passport Size Photograph"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 111)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scholarship?",
+      "answer": "Players who are permanent residents of Uttarakhand and aged between 14 to 23 years are eligible to apply."
+    },
+    {
+      "question": "How are players selected for the scholarship?",
+      "answer": "Players are selected based on their performance in the Physical and Sports Aptitude Test (P-SAT) and district-level competitions."
+    },
+    {
+      "question": "At what levels are competitions conducted for selection?",
+      "answer": "Competitions are conducted directly at the municipality, municipal corporation, or district level. There is no selection at the school or Nyaya Panchayat level."
+    },
+    {
+      "question": "How many players are selected from each district?",
+      "answer": "100 boys and 100 girls are selected from each district."
+    },
+    {
+      "question": "What is the monthly scholarship amount?",
+      "answer": "Selected players receive ₹2,000/- per month as a scholarship."
+    },
+    {
+      "question": "Is there any financial support for sports equipment?",
+      "answer": "Yes, each selected player receives ₹10,000/- once a year for purchasing sports equipment."
+    },
+    {
+      "question": "Which sports are included under this scheme?",
+      "answer": "Scholarships are awarded on priority in: (1) Athletics, (2) Badminton, (3) Boxing, (4) Taekwondo, (5) Kabaddi, (6) Football, (7) Volleyball, (8) Basketball, (9) Hockey, (10) Table Tennis, (11) Karate, and (12) Judo."
+    },
+    {
+      "question": "How is merit determined?",
+      "answer": "Merit is determined based on performance in P-SAT and the district-level competitions."
+    },
+    {
+      "question": "How is the scholarship paid?",
+      "answer": "The scholarship is directly transferred to the players’ bank accounts through DBT (Direct Benefit Transfer)."
+    }
+  ]
+}

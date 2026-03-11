@@ -1,0 +1,59 @@
+{
+  "scheme_name": "Basic Kayaking Course",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kayakinguk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Basic Kayaking Course",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Basic Kayaking Course” is implemented by the Uttarakhand Tourism Development Board under the Department of Tourism, Government of Uttarakhand. The scheme aims to train and certify youth of Uttarakhand as skilled kayaking instructors with essential life-saving skills."
+    ],
+    "benefits": [
+      "The beneficiary will receive the training in basic kayaking."
+    ],
+    "eligibility": [
+      "The applicant must be a youth of Uttarakhand.",
+      "The applicant must be at least 18 years of age.",
+      "The applicant should be able to swim 100 meters within 3 minutes.",
+      "The applicant must be educated.",
+      "The applicant must be mentally and physically fit.",
+      "The applicant must have prior training in life-saving techniques and water sports operations from a recognized institute.",
+      "The total number of 15 beneficiaries will be selected."
+    ],
+    "application_process": {
+      "offline": [
+        "The prescribed application form must be duly filled and submitted along with the required documents to the office of the District Tourism Development Officer.",
+        "The applications are evaluated on practical parameters by the trainers from the National Institute of Water Sports (NIWS), Goa."
+      ]
+    },
+    "documents_required": [
+      "Applicants are required to submit the necessary documents in accordance with the guidelines specified by the department."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 124)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Youth of Uttarakhand who are at least 18 years old, educated, mentally and physically healthy, able to swim 100 meters within 3 minutes, and have prior training in life-saving techniques from a recognized institute."
+    },
+    {
+      "question": "How many beneficiaries are selected under the scheme?",
+      "answer": "A total of 15 beneficiaries are selected training."
+    },
+    {
+      "question": "What prior training is required to apply?",
+      "answer": "Applicants should have completed training in life-saving techniques and water sports operations from any recognized institute."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Applications must be submitted in the office of the District Tourism Development Officer along with the prescribed format and necessary documents."
+    },
+    {
+      "question": "How are applications evaluated?",
+      "answer": "Applications are examined on a practical basis by trainers from the National Institute of Water Sports (NIWS), Goa."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "scheme_name": "Pension Scheme for Elderly, Destitute Artists, Litterateurs and Writers of Uttarakhand State",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/psedawa",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pension Scheme for Elderly, Destitute Artists, Litterateurs and Writers of Uttarakhand State",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Pension Scheme for Elderly, Destitute Artists, Litterateurs, and Writers of Uttarakhand” was introduced by the Department of Culture and Endowments, Government of Uttarakhand. The scheme aims to provide financial assistance to elderly and impoverished artists, litterateurs and writers who have dedicated their lives to the development of art, culture, and literature and have made significant and distinguished contributions."
+    ],
+    "benefits": [
+      "The department provides a monthly pension of ₹3,000/- to the beneficiaries under this scheme."
+    ],
+    "eligibility": [
+      "The applicant must be an elderly, destitute artist, litterateur, or writer from Uttarakhand.",
+      "The applicant must have dedicated their life to the development of art, culture, and literature.",
+      "The applicant must have made significant and distinguished contributions in their field.",
+      "The applicant must be at least 60 years of age.",
+      "The applicant must be a native or permanent resident of Uttarakhand."
+    ],
+    "application_process": {
+      "online": [
+        "To avail the benefits under the pension scheme, applicants can register and apply through the “Apuni Sarkar Uttarakhand” portal available at",
+        "https://eservices.uk.gov.in",
+        ". Along with the application form, the eligible applicant must submit complete details of themselves and their family, along with necessary documents such as Aadhaar card, permanent residence certificate of Uttarakhand, PAN card, bank account details, educational qualification certificate, caste certificate, birth certificate or age certificate issued by a medical officer, a certificate related to artist/litterateur/writer issued by a government, semi-government, non-government or other recognized institution, a certificate of being an artist, and a recommendation from the district administration.",
+        "The process is considered complete only after these documents are uploaded on the portal by signing up at the \"Apuni Sarkar Uttarakhand” Portal,",
+        ". After the submission, the applications are scrutinized by the Director General/Director and then presented before a committee constituted under the chairmanship of the Secretary/Principal Secretary. The committee verifies the submitted documents and calls the concerned artist for an interview. If found eligible during the interview and document verification, the pension is recommended. Subsequently, the Directorate of Culture disburses the approved pension amount to the artist every month.",
+        "In the event of the death of an artist or litterateur, the monthly pension is transferred to their spouse as a dependent. At present, the Directorate of Culture is providing monthly pension benefits to a total of 123 elderly and indigent artists."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Permanent residence certificate of Uttarakhand",
+      "PAN card",
+      "Bank account details",
+      "Educational qualification certificate",
+      "Caste certificate",
+      "Birth certificate or age certificate issued by a medical officer",
+      "Certificate related to artist/litterateur/writer issued by government/semi-government/non-government/other institutions",
+      "Certificate of being an artist",
+      "Recommendation from the district administration"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 111)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much pension is provided under this scheme?",
+      "answer": "A monthly pension of ₹3000/- is provided to eligible beneficiaries."
+    },
+    {
+      "question": "Who is eligible for this pension?",
+      "answer": "Elderly and poor artists, litterateurs, and writers who are permanent residents of Uttarakhand and have made notable contributions to art, culture, or literature are eligible."
+    },
+    {
+      "question": "Is there any age requirement for applying?",
+      "answer": "Yes, the applicant must be at least 60 years old to apply under this scheme."
+    },
+    {
+      "question": "How can one apply for the pension scheme?",
+      "answer": "Applications can be submitted by registering on the “Apni Sarkar Uttarakhand” portal at https://eservices.uk.gov.in"
+    },
+    {
+      "question": "How is the pension disbursed?",
+      "answer": "The Directorate of Culture disburses the approved pension amount directly to the beneficiary every month."
+    },
+    {
+      "question": "Can the pension continue after the death of the artist?",
+      "answer": "Yes, after the death of the artist or litterateur, the monthly pension is transferred to their spouse as a dependent."
+    },
+    {
+      "question": "Who scrutinizes the applications?",
+      "answer": "The initial scrutiny is done by the Director General/Director of the Department of Culture."
+    },
+    {
+      "question": "Who provides the recommendation letter required for the application?",
+      "answer": "The recommendation must come from the concerned district administration."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "scheme_name": "Financial Assistance to Authors for Book Publication",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fatafbp",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Financial Assistance to Authors for Book Publication",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Financial Assistance to Authors for Book Publication” was introduced by the Department of Culture and Endowments, Government of Uttarakhand. The scheme aims to provide financial support to the state's eminent litterateurs, writers, poets, and authors whose literary works remain unpublished due to financial constraints."
+    ],
+    "benefits": [
+      "Under this scheme, the department provides financial assistance to eminent litterateurs, writers, and poets of the state whose works remain unpublished due to lack of funds."
+    ],
+    "eligibility": [
+      "The applicant must be a native or permanent resident of Uttarakhand.",
+      "The applicant must be an eminent litterateur, writer, author, or poet.",
+      "The applicant’s literary work must remain unpublished solely due to financial constraints."
+    ],
+    "application_process": {
+      "online": [
+        "The department publishes advertisements in newspapers inviting applications for book publication. After the advertisement is issued, eligible beneficiaries can apply online through the",
+        "Apuni Sarkar portal",
+        ". The key documents required are as follows:",
+        "Manuscript",
+        "Quotation for printing the book",
+        "Aadhaar Card",
+        "Bank Account Details",
+        "PAN Card",
+        "Permanent Residence Certificate",
+        "A departmental committee is constituted to examine the applications and manuscripts received. Financial assistance for book publication is provided only after the committee’s recommendation."
+      ]
+    },
+    "documents_required": [
+      "Manuscript",
+      "Quotation for printing the book",
+      "Aadhaar Card",
+      "Account Number",
+      "PAN Card",
+      "Permanent Residence Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 112)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Permanent/native residents of Uttarakhand whose literary works have not been published due to lack of funds."
+    },
+    {
+      "question": "What types of literary works are eligible under this scheme?",
+      "answer": "Original manuscripts of books, including poetry, fiction, non-fiction, and scholarly works, that have not yet been published."
+    },
+    {
+      "question": "How can authors apply for this scheme?",
+      "answer": "Applicants can apply online through the Apni Sarkar portal ( https://eservices.uk.gov.in /) after the department publishes an advertisement in newspapers."
+    },
+    {
+      "question": "Where are advertisements for this scheme published?",
+      "answer": "Advertisements are published in local and state-level newspapers by the Department of Culture and Endowments."
+    },
+    {
+      "question": "Can someone from outside Uttarakhand apply?",
+      "answer": "No, only permanent/native residents of Uttarakhand are eligible."
+    },
+    {
+      "question": "Who examines the applications?",
+      "answer": "A departmental committee is formed to examine the applications and manuscripts received."
+    }
+  ]
+}

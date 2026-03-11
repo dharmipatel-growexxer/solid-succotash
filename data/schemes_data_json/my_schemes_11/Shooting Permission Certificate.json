@@ -1,0 +1,65 @@
+{
+  "scheme_name": "Shooting Permission Certificate",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/spc",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Shooting Permission Certificate",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Shooting Permission Certificate” is implemented by the Department of Information and Public Relations, Government of Uttarakhand. It aims to simplify the process of granting official permission for film shooting in Uttarakhand through a single-window online system, ensuring timely approvals and promoting the state as a film-friendly destination."
+    ],
+    "benefits": [
+      "Permission is provided for shooting films in the state."
+    ],
+    "eligibility": [
+      "The applicant must be a film producer."
+    ],
+    "application_process": {
+      "online": [
+        "Before obtaining permission for film production, the producer must apply online on the \"Single Window System\" portal at",
+        "https://investuttarakhand.uk.gov.in/filmshooting",
+        ". While submitting the application, the producer must attach the Aadhaar Card, synopsis of the film, Registration Certificate/GST of the production house, or, in the case of a line producer handling the production, an authorization letter for the line producer, along with the Standard Operating Procedure (SOP) form filled online.",
+        "Once the department grants permission, a copy of the Film Shooting Permission Certificate is automatically sent to the relevant departments through the portal. The list of departments is as follows:",
+        "Office of the District Magistrate",
+        "Senior Superintendent of Police / Superintendent of Police",
+        "Concerned DFO/Ranger/Forest Officer",
+        "Concerned Kotwali / Police Station / Outpost In-charge",
+        "If the film is to be shot in a centrally operated forest area, the Film Development Council corresponds with the Chief Conservator of Forests (CCF) and the concerned Divisional Forest Officer (DFO) for the issuance of a No Objection Certificate.",
+        "Permission for film shooting is also provided to the filmmaker free of cost within 14 days through email at ufdc2015@gmail.com."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Synopsis of the film",
+      "Registration Certificate/GST of the production house",
+      "Authorization letter for the Line Producer (if applicable)",
+      "Filled Standard Operating Procedure (SOP) form"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 179)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for film shooting permission?",
+      "answer": "Any film producer or an authorized line producer can apply for film shooting permission."
+    },
+    {
+      "question": "Where can applicants apply for the shooting permission?",
+      "answer": "Applications must be submitted online through the Single Window System portal: https://investuttarakhand.uk.gov.in/filmshooting/"
+    },
+    {
+      "question": "How long does it take to receive the shooting permission?",
+      "answer": "The permission is issued within 14 days of application submission."
+    },
+    {
+      "question": "How is the permission certificate shared after approval?",
+      "answer": "Once approved, a copy of the Film Shooting Permission Certificate is automatically emailed to all relevant government departments."
+    },
+    {
+      "question": "How will applicants be informed of their approval?",
+      "answer": "Applicants receive the approval and certificate directly via email."
+    }
+  ]
+}

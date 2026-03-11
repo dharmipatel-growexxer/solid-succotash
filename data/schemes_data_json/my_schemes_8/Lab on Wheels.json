@@ -1,0 +1,57 @@
+{
+  "scheme_name": "Lab on Wheels",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/lw",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Lab on Wheels",
+  "scraped_at": "2026-03-11 11:22:43 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Lab on Wheels” is implemented by the Uttarakhand State Council for Science and Technology (UCOST) under the Science and Technology, Government of Uttarakhand. It aims to promote & popularize science education among school students and youth studying science subjects across all 13 districts of the state."
+    ],
+    "benefits": [
+      "The Lab on Wheels program has been launched to popularize science in rural areas of Uttarakhand and promote science education in schools. It provides students from all districts, including remote areas, with the opportunity to explore and learn the practical applications of science."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of one of the 13 districts of Uttarakhand.",
+      "The applicant must be a student or youth studying science subject in a government or non-government school."
+    ],
+    "application_process": {
+      "offline": [
+        "Interested students may contact their respective government or private schools to avail the benefits of the program."
+      ]
+    },
+    "documents_required": [
+      "Documents must be submitted in accordance with the guidelines of the respective schools."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 87)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can participate in the program?",
+      "answer": "School students and youth studying science subjects in government or private schools across all 13 districts of Uttarakhand are eligible to participate."
+    },
+    {
+      "question": "Are students from private schools eligible?",
+      "answer": "Yes, students from both government and private schools can participate."
+    },
+    {
+      "question": "How does the Lab on Wheels program reach remote areas?",
+      "answer": "UCOST deploys mobile laboratories equipped with scientific instruments and teaching materials that visit schools in remote and rural areas of Uttarakhand."
+    },
+    {
+      "question": "How can students apply for the program?",
+      "answer": "Interested students can contact their respective government or private schools, which coordinate with UCOST to schedule visits and sessions."
+    },
+    {
+      "question": "Are both boys and girls eligible to participate?",
+      "answer": "Yes, the program is open to all students."
+    },
+    {
+      "question": "How does the program benefit students in the long term?",
+      "answer": "By providing practical experience and exposure to scientific concepts, the program encourages curiosity, critical thinking, and a better understanding of science."
+    }
+  ]
+}

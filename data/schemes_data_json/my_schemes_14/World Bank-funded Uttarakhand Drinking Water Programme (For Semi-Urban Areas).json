@@ -1,0 +1,69 @@
+{
+  "scheme_name": "World Bank-funded Uttarakhand Drinking Water Programme (For Semi-Urban Areas)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ukdwpsua",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "World Bank-funded Uttarakhand Drinking Water Programme (For Semi-Urban Areas)",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "The \"World Bank-funded Uttarakhand Drinking Water Programme (For Semi-Urban Areas)\" is a World Bank–funded initiative implemented by the Uttarakhand Peyjal Sansadhan Vikas Evam Nirman Nigam under the Drinking Water Department, Government of Uttarakhand. The scheme aims to provide affordable and reliable domestic drinking water connections to eligible households in selected semi-urban areas of Uttarakhand, ensuring improved access to safe and adequate drinking water."
+    ],
+    "benefits": [
+      "Under this scheme, domestic water connections are provided by depositing a nominal connection fee of ₹1.00 and an application fee of ₹25.00."
+    ],
+    "eligibility": [
+      "The World Bank–funded Uttarakhand Drinking Water Supply Programme for Semi-Urban Areas provides benefits to families residing in selected semi-urban regions of the state.",
+      "The programme is not applicable in urban areas."
+    ],
+    "application_process": {
+      "offline": [
+        "Families residing in the 15 semi-urban areas of the state where the water supply schemes have been constructed by the Uttarakhand Peyjal Nigam can apply for a drinking water connection by obtaining the application form directly from the nearest departmental collection center. Along with the application form, applicants must submit two passport-size photographs and a self-attested photocopy of any one of the following documents: Voter ID card, PAN card, Aadhaar card, ration card with photograph, driving license, bank passbook with photograph, passport, or an ID card issued by a Government or Semi-Government office.",
+        "A self-attested photocopy of the map approved by the relevant development authority/local body/Gram Sabha must also be submitted. (The map is required only for applications related to building construction; it is not required for other purposes.)",
+        "A non-judicial stamp paper of ₹100/-, sale deed, lease deed, ownership certificate (fard) for the ownership/occupancy of the site where the connection is to be provided, land lease, Voter ID card, building assessment certificate issued by the Municipal Corporation/Municipal Council, tenant agreement, ration card, electricity bill, and a self-attested photocopy of a nationalized certificate must be attached. An approval letter from the departmentally registered plumber through whom the applicant will undertake the work is also required. If the applicant belongs to the Scheduled Caste/Scheduled Tribe category, or is a destitute person, landless labourer, military widow, or departmental employee, a certificate from the concerned department will be necessary.",
+        "After submitting the application, the department verifies the documents and provides the drinking water connection to the applicant within 15 days.",
+        "Under the World Bank-funded Uttarakhand Drinking Water Supply Programme for Semi-Urban Areas, there is a provision for providing water connections in seven semi-urban areas where water supply schemes have been constructed by the Uttarakhand Jal Sansthan. Thus, a total of 22 semi-urban areas are covered under this World Bank–funded programme."
+      ]
+    },
+    "documents_required": [
+      "Two passport-size photographs",
+      "Self-attested photocopy of any one of the following government-issued ID cards (Voter ID card, PAN card, Unique Identity Card, Ration Card with photo, Driving License, Bank Passbook with photo, Passport)",
+      "Self-attested photocopy of the map approved by the relevant development authority, local body, or Gram Sabha (required only for building construction applications)",
+      "Ownership/Occupancy Proof, any of the following (Sale deed, Lease deed, Ownership certificate (fard), Land lease documents)",
+      "Other Supporting Documents, self-attested copies of Voter ID card, Building assessment certificate issued by Municipal Corporation/Municipal Council, Tenant agreement, Ration card, Electricity bill, Nationalized certificate)",
+      "Non-judicial stamp paper of ₹100/-",
+      "Approval letter from the departmentally registered plumber through whom the applicant will commission the work",
+      "Special category certificate if applicable (SC/ST/destitute/landless labourer/military widow/departmental employee)",
+      "Any other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 232)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Families residing in selected semi-urban areas of Uttarakhand, whose water supply scheme has been constructed by Uttarakhand Peyjal Nigam or Uttarakhand Jal Sansthan, are eligible. The scheme does not cover urban areas."
+    },
+    {
+      "question": "How can one apply for a drinking water connection under this scheme?",
+      "answer": "Applicants can obtain the application form directly from the nearest departmental collection centre and submit it with the required documents."
+    },
+    {
+      "question": "Is there an application fee for availing the connection?",
+      "answer": "Yes, a nominal application fee of ₹25.00 is required to apply for a domestic water connection."
+    },
+    {
+      "question": "Is the scheme applicable in all areas of Uttarakhand?",
+      "answer": "No, the scheme is only for selected semi-urban areas. It does not apply to urban areas."
+    },
+    {
+      "question": "How many semi-urban areas are covered under this scheme?",
+      "answer": "A total of 22 semi-urban areas are covered, including 15 under Uttarakhand Peyjal Nigam and 7 under Uttarakhand Jal Sansthan."
+    },
+    {
+      "question": "What is the processing time for providing a water connection?",
+      "answer": "After document verification, the department provides the drinking water connection within 15 days."
+    }
+  ]
+}

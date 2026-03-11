@@ -1,0 +1,108 @@
+{
+  "scheme_name": "Pratyaksh Hanstantrit Labh / Direct Benefits Transfer For LPG",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pahal-dbtl",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Pratyaksh Hanstantrit Labh / Direct Benefits Transfer For LPG",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "\"Pratyaksh Hanstantrit Labh / Direct Benefits Transfer For LPG (PAHAL)\" launched by the Ministry Of Petroleum and Natural Gas, ensures transparency by transferring LPG subsidies directly to consumers' bank accounts, eliminating diversion and reducing subsidy leakages. It empowers users, improves delivery, and enables self-selection for subsidy, with provisions for Aadhaar-linked and non-Aadhaar-linked accounts. This initiative protects consumer entitlement, prevents fraud, and promotes efficient subsidy management."
+    ],
+    "benefits": [
+      "Direct Subsidy Transfer:",
+      "LPG consumers receive subsidies directly in their bank accounts automatically.",
+      "Improved Availability:",
+      "Enhanced market availability of new LPG connections for genuine consumers.",
+      "Health Benefits:",
+      "Replaces unclean cooking fuels, reducing indoor pollution and preventing respiratory diseases among women and children in rural areas."
+    ],
+    "eligibility": [
+      "The applicant must be an LPG user.",
+      "The combined taxable income of the applicant and their spouse should not exceed ₹10,00,000 in the previous financial year, as per the Income Tax Act, 1961."
+    ],
+    "application_process": {
+      "offline": [
+        "Through Bank:",
+        "Step 1:",
+        "Visit your bank branch where you hold an account.",
+        "Step 2:",
+        "Carry a copy of your Aadhaar card along with the original for verification.",
+        "Step 3:",
+        "Request the bank staff to link your Aadhaar number with your bank account.",
+        "Step 4:",
+        "Fill out the Aadhaar linking form provided by the bank and submit it along with a copy of your Aadhaar card.",
+        "Step 5:",
+        "The bank will notify you upon successful linking.",
+        "Through LPG Distributor:",
+        "Visit your LPG distributor's office.",
+        "Carry a copy of your Aadhaar card and the original for verification.",
+        "Provide your LPG Consumer Number and request Aadhaar linking.",
+        "Fill out the Aadhaar linking form provided by the distributor and submit it along with a copy of your Aadhaar card.",
+        "You will be notified once the linking process is completed successfully.",
+        "Note:",
+        "If the applicant does not link their Aadhaar Number to their Bank Account and LPG Consumer Number within 3 months, they will need to purchase cylinders at the market price. Subsidies will no longer be available without Aadhaar linkage."
+      ]
+    },
+    "documents_required": [
+      "Form 1",
+      "- Submit a copy of the Aadhaar letter to the LPG distributor or bank",
+      "Form 2",
+      "- Aadhaar letter, in addition to residential proof, to be submitted to the LPG distributor",
+      "Form 3",
+      "- A copy of a current refill slip consisting of a 17-digit LPG ID number",
+      "Form 4",
+      "- A copy of a bank passbook's front page and a canceled cheque"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Booklet"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What Will Have To Be Done By The LPG Consumer Who Had Already Joined The Scheme Earlier?",
+      "answer": "LPG consumers who had joined the scheme earlier by linking their Aadhaar number in LPG and Bank database do not need to do anything. Such consumers will get the cylinder at Market price w.e.f the date on which the scheme is launched and the cash will be transferred into their bank account. They do not have to do anything further. They can check their CTC (Cash Transfer Compliance) status on www.mylpg.in or check with their LPG distributor."
+    },
+    {
+      "question": "What Does An LPG Consumer Do To Join PAHAL (DBTL) Scheme?",
+      "answer": "Option I (Primary): LPG consumers who have an Aadhaar number must provide their Aadhaar number to LPG distributor using Form 2 and to Bank using Form 1. This is the preferred mode of joining the scheme. Option II (Secondary): If the LPG consumer does not have an Aadhaar number, he/she can do one of the following: a. Give Bank details to the LPG distributor in Form 4 OR b. Give a 17-digit LPG ID to the Bank using Form 3."
+    },
+    {
+      "question": "When Can An LPG Consumer Visit The Distributorship For Submitting Aadhaar And Bank Details Seeding Forms To Join PAHAL (DBTL) Scheme?",
+      "answer": "The LPG consumers can visit their LPG distributorship on any weekday during office hours for submitting the forms. For the convenience of LPG consumers, all distributorships will also remain open on their weekly off day for exclusively receiving Aadhaar & Bank detail seeding forms of the PAHAL (DBTL) scheme till the end of the grace period."
+    },
+    {
+      "question": "How Does An LPG Consumer Check His/Her PAHAL (DBTL) Joining Status?",
+      "answer": "To check PAHAL (DBTL) joining status, consumers can log on to the transparency portal of their LPG Company (IOC, BPC, HPC) through www.myLPG.in and follow instructions. On each of the OMC’s transparency portals, a call out with the name ‘Check DBTL (CTC) Status’ has been provided. Consumers can click on this and see the status both for ATC as well as BTC methods."
+    },
+    {
+      "question": "What Happens Where Transactions Sent To The Bank Fail And How Are They Dealt With?",
+      "answer": "A) In case some transfers cannot be processed by the banks, they are termed as failures, and the failure cases if any along with the amount is received back from the Sponsor Bank by the OMCs. A report on such failure cases has been provided by the OMC on their portal which is accessible to the distributors as well as Call Centre. b) Payments returned will be re-processed twice in a span of 15 days each and if it is still not transferred, the amount will be kept for payment as and when the bank-related issues are resolved. c) If the amount towards the subsequent cylinder delivered is successfully transferred then the pending amount also will be transferred thereafter. d) The time period up to which such payments will be kept pending will be 3 months or the end of the current financial year whichever is later."
+    },
+    {
+      "question": "How Is The Quota Of Subsidized Cylinders Worked Out For New Consumers?",
+      "answer": "A) The eligibility for the quota of subsidized cylinders for all new connections released is on a pro-rata basis. This is also applicable to CTC consumers. b) For new connections, CTC consumers will receive both the advance amount (after the booking of the first cylinder) and the subsidy amount (after the delivery of the first cylinder). c) Thereafter, they will receive a subsidy amount with every cylinder delivery upto the capped subsidized quota of cylinders."
+    },
+    {
+      "question": "How To Deal With Advance Amounts Given To Consumers When They Are On Transfer?",
+      "answer": "A) CTC consumers, who are transferred, have to return the advance amount to the parent distributor. In other words, when the Termination Voucher is made the net amount of the Security Deposit of equipment minus the Permanent Advance amount will be refunded to consumers. b) If such consumers are transferred to another district where PAHAL (DBTL) has been launched, they will be given an advance once they become a consumer at the new location and are handed over the Subscription Voucher. c) OMC Software has the provision to capture Security deposits and advance amounts separately and account for them in the ERP accounting system. d) For CTC consumers located in the same city on transfer without any surrendering of equipment and refund of deposit (TTV/CTA), Permanent Advance amount will not be refunded."
+    },
+    {
+      "question": "How Will The Consumer Know The Status Of His Payments?",
+      "answer": "Visibility has been provided to the consumers through the Transparency portal of OMCs (via www.mylpg.in). These portals provide separate columns for subsidized and non-subsidized cylinder delivery, the amount paid to the consumer. A call center with a dashboard on all transactions is available for suitable consumer grievance redressal."
+    },
+    {
+      "question": "Where Can A Consumer Get More Information About PAHAL (DBTL) Scheme?",
+      "answer": "A) For getting any information, providing feedback, and registering any complaint OMCs have a call center which is accessible at Toll-Free No 18002333555. b) Consumers can also visit http://petroleum.nic.in/dbt/index.htm or visit the transparency portal of their LPG Company (IOC, BPC, HPC) through www.myLPG.in."
+    },
+    {
+      "question": "The LPG Consumer Has Contacted The Call Center/LPG Distributor And Has Been Advised That There Is A Failed Transaction With XYZ Bank. What Should He/She Do?",
+      "answer": "Consumers can visit his/her concerned bank with their Aadhaar number and/or account details to know the reason for failed transactions. In some cases OMC the call center can also help with the reason why banks have sent the correct error code to OMCs."
+    },
+    {
+      "question": "The LPG Consumer Has Contacted The Call Center/LPG Distributor And Has Been Advised That The Subsidy Has Been Transferred On Date Dd/Mm/Yyyy To XYZ Bank But The Consumer Does Not Have A Bank Account In XYZ Bank. What Should He/She Do?",
+      "answer": "Consumer needs to visit the concerned bank with their Aadhaar number. Bank will provide the consumer with the details of the bank account to which the subsidy has been transferred. Alternatively, the consumer may choose to link his/her Aadhaar number with any other bank by submitting the duly filled Bank Linking Form. For non-Aadhaar CTC consumers (BTC), he/she need to visit the concerned bank with the 17-digit LPG ID. Banks will provide the consumer with the details of the bank account to which the subsidy has been transferred."
+    }
+  ]
+}

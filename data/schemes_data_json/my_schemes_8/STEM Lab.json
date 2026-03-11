@@ -1,0 +1,52 @@
+{
+  "scheme_name": "STEM Lab",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/steml",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "STEM Lab",
+  "scraped_at": "2026-03-11 11:22:43 UTC",
+  "sections": {
+    "details": [
+      "The scheme “STEM Lab” is implemented by the Uttarakhand State Council for Science and Technology (UCOST) under the Science and Technology, Government of Uttarakhand. It aims to promote hands-on learning in science, technology, engineering, and mathematics by establishing labs across all blocks, giving students and teachers practical exposure to STEM experiments."
+    ],
+    "benefits": [
+      "STEM labs are being established in all the blocks of the state, through which students and teachers will be provided with information about experiments in science, technology, engineering, and mathematics."
+    ],
+    "eligibility": [
+      "The applicant must be a student enrolled in a school located in Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "Interested students may contact their respective schools to participate and avail benefits through training and workshops."
+      ]
+    },
+    "documents_required": [
+      "Documents must be submitted in accordance with the guidelines of the respective schools/STEM Labs."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 88)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the STEM Lab?",
+      "answer": "The STEM Lab is an initiative by the Uttarakhand State Council for Science and Technology (UCOST) under the Government of Uttarakhand to promote hands-on learning in science, technology, engineering, and mathematics for school students."
+    },
+    {
+      "question": "Who is eligible for the STEM Lab?",
+      "answer": "School students studying in Uttarakhand are eligible to benefit from the STEM Lab."
+    },
+    {
+      "question": "What kind of activities are conducted in the STEM Labs?",
+      "answer": "STEM Labs conduct hands-on experiments, practical demonstrations, workshops, and training sessions in science, technology, engineering, and mathematics."
+    },
+    {
+      "question": "What subjects are covered in the STEM Labs?",
+      "answer": "STEM Labs cover topics in Science, Technology, Engineering, and Mathematics, offering practical experiments aligned with school curricula."
+    },
+    {
+      "question": "Which schools can participate in the STEM Lab?",
+      "answer": "All schools located in Uttarakhand can participate."
+    }
+  ]
+}

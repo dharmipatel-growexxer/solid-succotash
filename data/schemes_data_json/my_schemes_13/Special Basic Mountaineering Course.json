@@ -1,0 +1,56 @@
+{
+  "scheme_name": "Special Basic Mountaineering Course",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mountaineeringuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Special Basic Mountaineering Course",
+  "scraped_at": "2026-03-11 16:50:40 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Special Basic Mountaineering Course” is implemented by the Uttarakhand Tourism Development Board under the Department of Tourism, Government of Uttarakhand. The scheme aims to enhance mountaineering skills among youth, prepare them to become certified guides, and promote adventure tourism in Uttarakhand."
+    ],
+    "benefits": [
+      "The beneficiary will become a certified guide upon completing the mountaineering course."
+    ],
+    "eligibility": [
+      "The applicant must be a youth of Uttarakhand.",
+      "Preference will be given to candidates who have completed the Low Altitude Guide Course from a recognized institution or an Adventure Foundation Course run by DTDC.",
+      "The total number of 25 beneficiaries will be selected."
+    ],
+    "application_process": {
+      "offline": [
+        "Applicants must complete the prescribed application form and submit it along with the required documents to the office of the District Tourism Development Officer.",
+        "Upon completion of the tests, the District Tourism Development Officer will forward the list of shortlisted candidates to the headquarters.",
+        "Final selection of participants will be made by a committee constituted at the headquarters."
+      ]
+    },
+    "documents_required": [
+      "Applicants are required to submit the necessary documents in accordance with the guidelines specified by the department."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 124)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this course?",
+      "answer": "Applicants must be youth from Uttarakhand."
+    },
+    {
+      "question": "How many beneficiaries are selected under this scheme?",
+      "answer": "A total of 25 beneficiaries are selected for each batch of the course."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "The prescribed application format along with necessary documents must be submitted to the office of the District Tourism Development Officer (DTO)."
+    },
+    {
+      "question": "How are the participants selected?",
+      "answer": "After initial screening and tests, a selection committee at the headquarters reviews applications and finalizes the list of participants."
+    },
+    {
+      "question": "How is the selection list communicated?",
+      "answer": "The District Tourism Development Officer sends the list of selected applicants to the headquarters, and the final selection is communicated to the candidates."
+    }
+  ]
+}

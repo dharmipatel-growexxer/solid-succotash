@@ -1,0 +1,99 @@
+{
+  "scheme_name": "Sports Scholarship Jharkhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ssj",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Sports Scholarship Jharkhand",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The \"Sports Scholarship\" scheme implemented by the Department of Welfare, Government of Jharkhand, aims to encourage sports participation and promote excellence among Scheduled Tribe students. The scheme provides scholarships, incentives, and sports materials to student-athletes. The District Welfare Office coordinates with local administrations to implement the scheme."
+    ],
+    "benefits": [
+      "Scholarship for Student-Athletes:",
+      "₹2,500/- per year for middle and high school students.",
+      "₹3,000/- per year for college-level athletes.",
+      "Incentives for Excellence:",
+      "₹10,000/- for athletes achieving recognition at the national or international level.",
+      "Daily allowance of ₹200/- and second-class rail fare for national/state-level participants.",
+      "Sports Material:",
+      "Hockey sticks, badminton rackets, tennis rackets, bows, arrows, tracksuits, shoes, socks, and carrying bags.",
+      "Awards for District and State Competitions:",
+      "Certificates and prizes for top performers in various categories.",
+      "NOTE",
+      ":",
+      "Support for Below Poverty Line (BPL) Athletes priority access to sports materials and financial assistance."
+    ],
+    "eligibility": [
+      "The applicant must be a Scheduled Tribe student and a resident of Jharkhand.",
+      "The applicant must be studying in a middle school, high school, or college.",
+      "The applicant must actively participate in state or national-level sports competitions.",
+      "The athletes achieving national-level recognition are eligible.",
+      "The applicant belongs to families below the poverty line are eligible."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Welfare Office in consultation with school or college authorities.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Proof of Residence (Aadhaar Card, Ration Card, etc.).",
+      "Caste Certificate.",
+      "Income Certificate (if applying under BPL category).",
+      "School/College ID Card or Admission Certificate.",
+      "Proof of Sports Participation."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Scheduled Tribe students studying in Jharkhand and actively participating in sports."
+    },
+    {
+      "question": "What is the scholarship amount?",
+      "answer": "₹2,500 for middle/high school students and ₹3,000 for college students annually."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Submit an application form at the District Welfare Office or online."
+    },
+    {
+      "question": "Are travel expenses covered under the scheme?",
+      "answer": "Yes, second-class rail fare and a daily allowance of ₹200 are provided for competitions."
+    },
+    {
+      "question": "Can athletes from other states apply?",
+      "answer": "No, only residents of Jharkhand are eligible."
+    },
+    {
+      "question": "Is there any reservation for BPL families?",
+      "answer": "Yes, priority is given to applicants from BPL families."
+    },
+    {
+      "question": "Can I apply if I participated in past competitions?",
+      "answer": "Yes, provided you are still actively involved in sports."
+    },
+    {
+      "question": "What sports are covered under the scheme?",
+      "answer": "Athletics, hockey, archery, kabaddi, and other recognized sports."
+    },
+    {
+      "question": "What happens if funds run short?",
+      "answer": "Priority is given to national-level players and BPL applicants."
+    },
+    {
+      "question": "How often can I apply?",
+      "answer": "Applications are accepted annually."
+    }
+  ]
+}

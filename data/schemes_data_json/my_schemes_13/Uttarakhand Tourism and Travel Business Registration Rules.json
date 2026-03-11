@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Uttarakhand Tourism and Travel Business Registration Rules",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/uttbrr",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Uttarakhand Tourism and Travel Business Registration Rules",
+  "scraped_at": "2026-03-11 16:50:40 UTC",
+  "sections": {
+    "details": [
+      "The “Uttarakhand Tourism and Travel Business Registration Rules” is implemented by the Uttarakhand Tourism Development Board under the Department of Tourism, Government of Uttarakhand. It aims to establish a transparent, efficient, and standardized system for the online registration of tourism-related businesses and service units across the state."
+    ],
+    "benefits": [
+      "Under this initiative, tourism-related businesses and services within the state are registered online through the Department of Tourism."
+    ],
+    "eligibility": [
+      "The following units are eligible for registration under the Rules:",
+      "Residential Units:",
+      "Hotels, motels, resorts, guest houses, dharamshalas, ashrams, etc.",
+      "Travel Trade-related Units:",
+      "Travel agents, domestic tour operators, excursion agents.",
+      "Catering-related Units:",
+      "Restaurants, beer bars, fast food centres, food plazas, food courts, etc.",
+      "Entertainment-related Units:",
+      "Amusement/theme parks, golf courses, ropeways, sound and light shows, angling units, etc.",
+      "A",
+      "dventure Tourism-related Units:",
+      "Adventure tour operators, kayaking, canoeing, water sports, river rafting, wall climbing, mountaineering, rock climbing, paragliding, etc.",
+      "Other Units:",
+      "Handicraft/souvenir shops, yoga and meditation centres/sadhana kutirs, tourist information centres, and nature/adventure/wildlife photography units, etc."
+    ],
+    "application_process": {
+      "online": [
+        "To register a unit, applicants must complete the online registration on the Tourism Department’s website at",
+        "https://uttarakhandtourism.gov.in",
+        "> Trade > Travel Trade Registration.",
+        "An Aadhaar number and an Aadhaar-linked mobile number are mandatory. During the registration process, applicants are required to submit the company registration details mentioned in the application form, the applicant’s PAN card, the unit’s PAN card, GST registration certificate, a recent photograph of the unit, a balance sheet (in the case of an existing unit), a ₹10 affidavit, a copy of the land ownership document, a list of employees, hotel tariff rates (if applicable), the registration fee of ₹1,000, Fire NOC, Pollution Control Board NOC, and an FSSAI food license (for catering units).",
+        "After submission, the District Tourism Development Officer (DTDO) of the respective district conducts an inspection. Upon successful verification, the applicant is issued a registration number, after which the unit is authorized to operate legally."
+      ]
+    },
+    "documents_required": [
+      "Company registration details (as mentioned in the application form)",
+      "Applicant’s PAN card and unit’s PAN card",
+      "GST registration certificate",
+      "Recent photograph of the unit",
+      "Balance sheet (for existing/old units)",
+      "₹10 affidavit",
+      "Copy of land ownership document",
+      "List of employees",
+      "Hotel tariff rates (if applicable)",
+      "Proof of payment of registration fee (₹1,000)",
+      "Fire NOC",
+      "Pollution Control Board NOC",
+      "FSSAI food license (for catering units)"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 120)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is required to register under these rules?",
+      "answer": "All tourism-related businesses and service providers in Uttarakhand, including hotels, travel agents, restaurants, entertainment units, adventure tourism providers, and other allied units, must register online under these rules."
+    },
+    {
+      "question": "How are businesses registered under this scheme?",
+      "answer": "Businesses are registered online through the Tourism Department’s official website at https://uttarakhandtourism.gov.in > Trade > Travel Trade Registration."
+    },
+    {
+      "question": "What types of units are eligible for registration?",
+      "answer": "Eligible units include residential units (hotels, resorts, guest houses), travel trade-related units (travel agents, domestic tour operators), catering units (restaurants, food courts), entertainment units (amusement parks, golf courses), adventure tourism units (rafting, paragliding), and other units (yoga/meditation centers, handicraft shops, tourist information centers)."
+    },
+    {
+      "question": "Is Aadhaar mandatory for registration?",
+      "answer": "Yes, both an Aadhaar number and an Aadhaar-linked mobile number are mandatory for registration."
+    },
+    {
+      "question": "How much is the registration fee?",
+      "answer": "The registration fee is ₹1,000/-."
+    },
+    {
+      "question": "Who conducts the inspection of the unit?",
+      "answer": "The inspection is conducted by the District Tourism Development Officer (DTDO) of the respective district."
+    },
+    {
+      "question": "What happens after inspection?",
+      "answer": "Upon successful verification, the applicant is issued a registration number, and the unit is legally authorized to operate."
+    }
+  ]
+}

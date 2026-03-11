@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Annual Medical Assistance Scheme (BBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/amapbbocwwb",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Annual Medical Assistance Scheme (BBOCWWB)",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Annual Medical Assistance Scheme\" by the Bihar Building & Other Construction Workers Welfare Board, Labour Resources Department, Government of Bihar, provides a yearly financial assistance of ₹3,000/- to the construction workers who are registered with the Board."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹3,000/- per annum."
+    ],
+    "eligibility": [
+      "The applicant should be a worker.",
+      "The worker should be engaged in building or construction work.",
+      "The worker should be registered with the \"Bihar Building & Other Construction Workers Welfare Board\".",
+      "The worker's membership with the Welfare Board must be active at the time of application.",
+      "The worker should have at least one year of membership with the Board."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "Visit the",
+        "Official Website",
+        "of the Bihar Building and Other Construction Workers Welfare Board, and click \"",
+        "Apply for New Registration",
+        "\".",
+        "Step 4:",
+        "On the next page, provide your details including your Aadhaar Number. Then click \"Authenticate\".",
+        "Step 5:",
+        "An online form will appear. In the form, fill in all the mandatory fields. The fields marked with an asterisk (*) are mandatory.",
+        "Step 6:",
+        "Click \"Submit\". Proceed to pay the application fee online.",
+        "Step 7:",
+        "Upon successful payment, you will receive your construction worker registration number.",
+        "Application",
+        "of the Bihar Building and Other Construction Workers Welfare Board.",
+        "Step 2:",
+        "Click on \"",
+        "Scheme Application",
+        "\" and select \"",
+        "Apply for Scheme",
+        "Step 3:",
+        "Enter your registration number and click \"Show\" to view your details.",
+        "Select the scheme you intend to apply for, enter all mandatory information and upload the necessary documents in the specified format and size.",
+        "Click on \"Submit Application\" to complete the process.",
+        "Application Tracking",
+        "Applicants can track their application status online on the",
+        "of the Board by providing their registration number."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof i.e. Aadhaar Card, Voter Card",
+      "Bank Account Details",
+      "Proof of Age",
+      "Identity Card of the Registered Worker",
+      "Proof of Membership",
+      "Any Other Documents as Required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Application Form",
+      "Website",
+      "Labour Registration",
+      "Registration Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What type of work should the applicant be engaged in to qualify for the financial assistance scheme?",
+      "answer": "The applicant should be engaged in building or construction work to be eligible for the financial assistance."
+    },
+    {
+      "question": "Is it mandatory for the applicant to be registered with the Bihar Building & Other Construction Workers Welfare Board?",
+      "answer": "Yes, the applicant must be registered with the Bihar Building & Other Construction Workers Welfare Board to qualify for the scheme."
+    },
+    {
+      "question": "How long should the applicant’s membership with the Welfare Board be active to apply for the scheme?",
+      "answer": "The applicant’s membership with the Welfare Board must be active for at least one year at the time of application."
+    },
+    {
+      "question": "What is the annual financial assistance provided under this scheme?",
+      "answer": "The scheme provides an annual financial assistance of ₹3,000/- to eligible construction workers."
+    },
+    {
+      "question": "Can applicants track the status of their application online?",
+      "answer": "Yes, applicants can track their application status online by providing their registration number on the official website."
+    },
+    {
+      "question": "Are bank account details required for the application process?",
+      "answer": "Yes, the applicant must provide their bank account details as part of the application process."
+    },
+    {
+      "question": "Can the applicant apply for the scheme without an Aadhaar card?",
+      "answer": "No, the applicant must provide their Aadhaar number during the registration process to authenticate their identity."
+    },
+    {
+      "question": "How do I know which fields are mandatory when filling out the online registration form for construction workers?",
+      "answer": "In the online registration form, all fields marked with an asterisk (*) symbol are mandatory and must be filled out. Make sure to complete all these required fields before proceeding."
+    },
+    {
+      "question": "What essential documents should I keep ready before starting my application process?",
+      "answer": "You should have your Aadhaar Card or Voter Card for identity proof, bank account details, proof of age, registered worker identity card, proof of membership, and any other specifically requested documents."
+    },
+    {
+      "question": "How can I monitor the progress of my medical assistance application after submission?",
+      "answer": "You can track your application status at any time by visiting the official website of the Board and entering your registration number in the application tracking system."
+    }
+  ]
+}

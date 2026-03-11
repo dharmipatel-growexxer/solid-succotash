@@ -1,0 +1,76 @@
+{
+  "scheme_name": "National Bio Energy Programme - Uttarakhand Renewable Energy Development Agency",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nbepureda",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "National Bio Energy Programme - Uttarakhand Renewable Energy Development Agency",
+  "scraped_at": "2026-03-11 16:32:18 UTC",
+  "sections": {
+    "details": [
+      "The scheme “National Bio Energy Programme” is implemented by the Uttarakhand Renewable Energy Development Agency (UREDA) under Department of Energy, Government of Uttarakhand. The scheme aims to promote the use of biogas as a clean and renewable energy source, help livestock farmers set up biogas plants, reduce the use of conventional fuels, and support eco-friendly rural development in the state."
+    ],
+    "benefits": [
+      "The gas produced from biogas plants can be used for cooking, and high-quality compost manure can also be obtained as a byproduct.",
+      "The grant for establishing biogas plants is payable as follows:",
+      "1 cubic meter – ₹17,000/-",
+      "2–4 cubic meters – ₹22,000/-",
+      "6 cubic meters – ₹29,250/-",
+      "8–10 cubic meters – ₹34,500/-",
+      "15 cubic meters – ₹63,250/-",
+      "20–25 cubic meters – ₹70,400/-",
+      "The estimated cost of a small biogas plant is approximately ₹40,000/-, and the department provides a grant of ₹22,000/-."
+    ],
+    "eligibility": [
+      "The beneficiary must be a livestock farmer residing in Uttarakhand.",
+      "To install a biogas plant, 12 sq. meters of land (4 × 3 m) and at least 3 animals are required."
+    ],
+    "application_process": {
+      "offline": [
+        "Applications can be submitted online through the Ministry of New and Renewable Energy (MNRE) portal at",
+        "https://biogas.mnre.gov.in",
+        "or through the district-level UREDA office.",
+        "To apply online for establishing a biogas plant, the applicant will need an Aadhaar card, ration card, and bank account. No PCB or NOC from any other department is required.",
+        "If you are unable to apply online, you can submit your application offline, and the district-level UREDA office will provide assistance."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Bank Account",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 174)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Only livestock farmers residing in Uttarakhand are eligible to apply for the scheme."
+    },
+    {
+      "question": "What are the benefits of a biogas plant?",
+      "answer": "Biogas plants produce gas for cooking and high-quality compost manure that can be used as organic fertilizer."
+    },
+    {
+      "question": "What is the estimated cost of a biogas plant?",
+      "answer": "The estimated cost of a small biogas plant is approximately ₹40,000, with a grant of ₹22,000 provided by the department."
+    },
+    {
+      "question": "How much land is required to install a biogas plant?",
+      "answer": "A minimum of 12 sq. meters of land (4 × 3 m) is required."
+    },
+    {
+      "question": "How many animals are needed to operate a biogas plant?",
+      "answer": "At least 3 livestock animals are required to maintain the biogas plant."
+    },
+    {
+      "question": "How can I apply for the scheme online?",
+      "answer": "Applications can be submitted online through the Ministry of New and Renewable Energy portal: https://biogas.mnre.gov.in"
+    },
+    {
+      "question": "Is any NOC or PCB required to apply?",
+      "answer": "No, there is no requirement for PCB or NOC from any other department."
+    }
+  ]
+}

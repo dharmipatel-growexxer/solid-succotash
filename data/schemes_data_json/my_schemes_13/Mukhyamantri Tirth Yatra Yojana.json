@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Mukhyamantri Tirth Yatra Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mtyy",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Tirth Yatra Yojana",
+  "scraped_at": "2026-03-11 16:50:40 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Mukhyamantri Tirth Yatra Yojana” is implemented by the Directorate of Information, Public Relations & Languages, Government of Haryana. Under this scheme, members of families with an annual income of less than ₹1.80 lakhs who are over 60 years of age will be taken for pilgrimages to Ayodhya, Varanasi, and other sacred places. The state government will bear all the expenses for their travel."
+    ],
+    "benefits": [
+      "Under this scheme, the facility is provided to senior citizens who wish to visit religious destinations such as Ayodhya, Varanasi, Nanded Sahib, Patna Sahib, Ajmer Sharif, and other such destinations in India.",
+      "The Scheme also ensures that constraints of travel and local arrangements do not hinder senior citizens from undertaking the journey.",
+      "The Government shall bear the cost of Rail travel (to and fro) in 3rd tier AC to destinations such as Ayodhya, Varanasi, Nanded Sahib, Patna Sahib, Ajmer Sharif, and other such destinations in India.",
+      "The Government shall also bear the cost of transport from the place of residence to the Start of Train journey station at normative rates fixed by the Government. This cost shall be reimbursed to the applicant after the confirmation of completion of journey in the bank account of applicant linked with PPP ID.",
+      "Facility of an attendant to accompany the applicant may be availed by the applicant of age more than 80 years on payment of 50% of railway ticket fare charges either through online payment or by deposit of cash at nearby Antyodaya Saral Kendra."
+    ],
+    "eligibility": [
+      "The applicant should be a bonafide resident of Haryana.",
+      "The applicant should possess a Parivar Pehchan Patra (PPP ID).",
+      "The applicant should have completed 60 years of age (as on 1st January of the year in which the application is made for availing the scheme). Relaxation in age may be given to the spouse accompanying the applicant.",
+      "The applicant can avail the benefit of the scheme once every three years.",
+      "Family Income of the applicant from all known sources should be upto ₹1,80,000/- per annum as verified by PPP.",
+      "The attendant should be a bonafide resident of Haryana with Parivar Pehchan Patra (PPP ID)."
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 01:",
+        "The eligible applicant may apply online through the Official Portal- Antyodaya SARAL Portal.",
+        "https://saralharyana.gov.in/",
+        "Step 02:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 03:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 04:",
+        "Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to apply for the scheme:",
+        "To avail the benefits of the scheme, visit the Official",
+        "Antyodaya-SARAL Portal",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’",
+        "Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.",
+        "Step 05:",
+        "Enter your Parivar Pehchan Patra number- Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 06:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 07:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 08:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track his/her application through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "1. Parivaar Pahchan Patra (PPP ID)",
+      "2. Identity proof i.e. Aadhaar Card",
+      "3. Proof of age",
+      "4. Proof of income",
+      "5. Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Official Website",
+      "Antyodaya-SARAL Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Which destinations are covered under this scheme?",
+      "answer": "The scheme covers pilgrimages to Ayodhya, Varanasi, Nanded Sahib, Patna Sahib, Ajmer Sharif, and other sacred places in India."
+    },
+    {
+      "question": "What expenses does the government bear under this scheme?",
+      "answer": "The government covers the cost of rail travel in 3rd tier AC, local transportation from residence to the train station, and back."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Bonafide residents of Haryana, aged 60 and above, with an annual family income up to ₹1.80 lakhs, and possessing a Parivar Pehchan Patra (PPP ID)."
+    },
+    {
+      "question": "Is there an age relaxation for the accompanying spouse?",
+      "answer": "Yes, age relaxation is provided for the spouse accompanying the main applicant."
+    },
+    {
+      "question": "Can the applicant take an attendant along?",
+      "answer": "Yes, applicants aged above 80 can take an attendant along by paying 50% of the railway ticket fare."
+    },
+    {
+      "question": "How often can an applicant avail the benefits of this scheme?",
+      "answer": "An applicant can avail the benefits once every three years."
+    },
+    {
+      "question": "What is the procedure to apply for this scheme?",
+      "answer": "Eligible applicants can apply online through the Antyodaya-SARAL Portal. https://saralharyana.gov.in/"
+    },
+    {
+      "question": "Is there a reimbursement process for local transportation costs?",
+      "answer": "Yes, local transportation costs to the train station are reimbursed after journey completion, in the applicant's bank account linked with PPP ID."
+    },
+    {
+      "question": "How is family income verified for this scheme?",
+      "answer": "Family income is verified through the Parivar Pehchan Patra."
+    }
+  ]
+}

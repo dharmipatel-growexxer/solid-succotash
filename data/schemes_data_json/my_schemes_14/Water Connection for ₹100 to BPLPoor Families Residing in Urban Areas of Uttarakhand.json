@@ -1,0 +1,72 @@
+{
+  "scheme_name": "Water Connection for ₹100 to BPL/Poor Families Residing in Urban Areas of Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wcbplpfruauk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Water Connection for ₹100 to BPL/Poor Families Residing in Urban Areas of Uttarakhand",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Water Connection at ₹100 for BPL / Poor Families Residing in Urban Areas of Uttarakhand” is implemented by the Uttarakhand Jal Sansthan under the Drinking Water Department, Government of Uttarakhand. The scheme aims to provide affordable and accessible drinking water connections to BPL and economically weaker families residing in urban areas of Uttarakhand, ensuring equitable access to safe water for eligible households."
+    ],
+    "benefits": [
+      "Under this scheme, a water connection is provided for a nominal fee of ₹100/- to eligible beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of an urban area in Uttarakhand.",
+      "The applicant’s family must belong to a BPL (Below Poverty Line) or economically weaker category.",
+      "The applicant must own a plot of land measuring up to 100 square meters and have constructed, be constructing, or plan to construct a building on the same plot; such applicants will be eligible for a water connection at ₹100/-."
+    ],
+    "application_process": {
+      "offline": [
+        "Uttarakhand Jal Sansthan allows BPL/poor families residing in urban areas of the state to apply for a drinking water connection either online through the departmental website",
+        "https://ujs.uk.gov.in",
+        "or offline by obtaining the application form directly from the nearest departmental collection center.",
+        "Applicants will be notified of the acceptance or rejection of their applications via SMS. If the application is approved, the applicant must pay the connection fee. The connection fee can be paid online at",
+        "by clicking on Online Services and selecting the New Connection Payment link using a debit/credit card, net banking, or cash card, or it can be paid directly at the collection center.",
+        "Applicants are required to pay an application fee of ₹25/-, submit a non-judicial stamp paper of ₹100/-, and a domestic water connection fee of ₹100/-. Aadhaar card, BPL certificate or income certificate, and relevant housing documents are also required.",
+        "Applications for 15 mm or 20 mm drinking water connections, or for personal sewer connections of any size, will be approved or rejected by the concerned Executive Engineer within 15 days after technical evaluation.",
+        "Applications for 25 mm to 40 mm drinking water connections will be approved or rejected by the concerned Executive Engineer within 30 days after technical evaluation.",
+        "Applications for 50 mm drinking water connections or colony/institution sewer connections will be approved or rejected by the concerned Superintending Engineer within 30 days after technical evaluation.",
+        "Drinking water applications of 50 mm or larger will be approved or rejected by the concerned General Manager within 30 days after technical evaluation.",
+        "Once the site inspection is complete and the details are verified, the approved water connection will be provided to the applicant."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "BPL Certificate or Income Certificate",
+      "Proof of ownership or construction on the plot of land",
+      "Non-Judicial Stamp Paper of ₹100",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 265)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Applicants must be BPL/poor families residing in an urban area of Uttarakhand, and must own a plot of land not exceeding 100 square meters where they have constructed, are constructing, or intend to construct a building."
+    },
+    {
+      "question": "How much is the water connection fee under this scheme?",
+      "answer": "The water connection fee is ₹100."
+    },
+    {
+      "question": "How can I apply for the water connection?",
+      "answer": "Applications can be submitted online at https://ujs.uk.gov.in/ or offline by collecting the form from the nearest departmental collection center."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "Yes, applicants must pay an application fee of ₹25 in addition to the domestic water connection fee of ₹100."
+    },
+    {
+      "question": "How will I know if my application is approved or rejected?",
+      "answer": "Applicants will be notified through SMS regarding the acceptance or rejection of their application."
+    },
+    {
+      "question": "How can I pay the water connection fee?",
+      "answer": "The fee can be paid online at https://ujsbill.uk.gov.in/ via debit/credit card, net banking, or cash card, or directly at the departmental collection center. What happens after the application is approved Once the site inspection confirms the details, the approved water connection will be provided to the applicant."
+    }
+  ]
+}

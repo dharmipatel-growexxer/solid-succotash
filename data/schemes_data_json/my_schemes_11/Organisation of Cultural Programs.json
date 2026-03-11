@@ -1,0 +1,67 @@
+{
+  "scheme_name": "Organisation of Cultural Programs",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ocpr",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Organisation of Cultural Programs",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Organisation of Cultural Programs” was introduced by the Department of Culture and Endowments, Government of Uttarakhand. The scheme aims to provide financial assistance to cultural groups and artists registered with the Department of Culture for performing in cultural programs organized during traditional fairs, festivals, regional celebrations within and outside the state, as well as on the occasion of national festivals."
+    ],
+    "benefits": [
+      "After the presentation of cultural programmes by groups/folk singers enlisted with the Culture Department on the occasion of traditional fairs, festivals, celebrations, and national festivals organized within or outside the state, the following honorarium and allowances are payable:",
+      "Group Leader: Honorarium of ₹1,000/- and travelling allowance of ₹500/-.",
+      "Other Artists: Honorarium of ₹800/- each and travelling allowance of ₹400/- each.",
+      "Folk Singers:",
+      "Category A: ₹7,500/- as honorarium.",
+      "Category B: ₹4,250/- as honorarium.",
+      "Travelling allowance: ₹300/- along with ordinary bus fare or second-class rail fare for the journey."
+    ],
+    "eligibility": [
+      "The applicant must be a cultural group or an artist registered with the Department of Culture, Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "The Directorate of Culture conducts auditions periodically to shortlist cultural groups and artists.",
+        "For the selection of a cultural group, the following documents are required: the organization’s registration certificate, a copy of its bylaws, details and number of the group’s artists, and a certificate confirming that the members are natives or permanent residents of Uttarakhand.",
+        "At present, the department has a total of 267 cultural groups and 226 solo artists on its list."
+      ]
+    },
+    "documents_required": [
+      "Registration certificate of the organization",
+      "Copy of the organization’s bylaws",
+      "Details and total number of artists in the group",
+      "Certificate of being a native or permanent resident of Uttarakhand (for the artists)"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 111)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Only cultural groups or individual artists registered with the Department of Culture, Uttarakhand, are eligible."
+    },
+    {
+      "question": "How does the Directorate of Culture shortlist artists and groups?",
+      "answer": "The Directorate conducts auditions periodically to evaluate and shortlist cultural groups and solo artists."
+    },
+    {
+      "question": "Can artists/groups from outside Uttarakhand apply?",
+      "answer": "No, only natives or permanent residents of Uttarakhand are eligible."
+    },
+    {
+      "question": "Can an unregistered cultural group participate?",
+      "answer": "No, registration of the cultural organization is mandatory for empanelment."
+    },
+    {
+      "question": "On what occasions are cultural programmes organized?",
+      "answer": "They are organized during traditional fairs, festivals, regional celebrations, and national festivals within and outside the state."
+    },
+    {
+      "question": "Where can interested groups or artists apply for empanelment?",
+      "answer": "They can apply to the Directorate of Culture, Government of Uttarakhand, by submitting the required documents and participating in auditions."
+    }
+  ]
+}

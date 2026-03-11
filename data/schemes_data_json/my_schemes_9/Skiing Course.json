@@ -1,0 +1,57 @@
+{
+  "scheme_name": "Skiing Course",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/skiinguk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Skiing Course",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Skiing Course” is implemented by the Uttarakhand Tourism Development Board under the Department of Tourism, Government of Uttarakhand. The scheme aims to promote skiing among the youth of the state by providing professional training, enabling participants to become proficient skiers, competitive athletes, or certified skiing instructors."
+    ],
+    "benefits": [
+      "The beneficiary will become a skiing trainer or competitor, upon completing the course."
+    ],
+    "eligibility": [
+      "The applicant must be a youth from Uttarakhand.",
+      "The applicant must be between 18 and 25 years of age.",
+      "The applicant will be considered on a first-come, first-served basis.",
+      "The total number of 40 beneficiaries will be selected."
+    ],
+    "application_process": {
+      "offline": [
+        "Applicants must complete the prescribed application form and submit it along with the required documents to the office of the District Tourism Development Officer.",
+        "Upon completion of the tests, the District Tourism Development Officer will forward the list of shortlisted candidates to the headquarters.",
+        "Final selection of participants will be made by a committee constituted at the headquarters."
+      ]
+    },
+    "documents_required": [
+      "Applicants are required to submit the necessary documents in accordance with the guidelines specified by the department."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 125)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Youth from Uttarakhand aged between 18 and 25 years are eligible to apply."
+    },
+    {
+      "question": "How many beneficiaries are selected under the scheme?",
+      "answer": "A total of 40 beneficiaries are selected on a first-come, first-served basis."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applicants must fill out the prescribed application form and submit it along with the necessary documents to the District Tourism Development Officer’s office."
+    },
+    {
+      "question": "How is the selection process conducted?",
+      "answer": "The District Tourism Development Officer conducts initial tests. The list of selected applicants is sent to the headquarters, where a committee finalizes the selection."
+    },
+    {
+      "question": "Who forms the selection committee?",
+      "answer": "The selection committee is formed at the headquarters by the Uttarakhand Tourism Development Board."
+    }
+  ]
+}

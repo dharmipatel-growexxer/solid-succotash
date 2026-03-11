@@ -1,0 +1,81 @@
+{
+  "scheme_name": "Trekking Traction Centre Home-stay Grant Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ttchsuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Trekking Traction Centre Home-stay Grant Scheme",
+  "scraped_at": "2026-03-11 16:50:40 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Trekking Traction Centre Home-stay Grant Scheme” was launched in 2020 by the Department of Tourism, Government of Uttarakhand. The scheme aims to provides financial assistance to villagers for constructing or renovating home-stays in traditional hill-style architecture, ensuring quality accommodation for tourists."
+    ],
+    "benefits": [
+      "Under this scheme, villages located within a 2-kilometer radius of the identified tracking traction center are eligible for benefits. For the construction of buildings with toilets along the identified routes, a grant of ₹60,000/- per room is provided. In cases where building repairs are required, a grant of ₹25,000/- per room is provided, for up to a maximum of six rooms."
+    ],
+    "eligibility": [
+      "This benefit is applicable only to villages located within a 2-kilometer radius of the trekking traction center identified by the Tourism Department, and these villages must be separate from urban areas.",
+      "There is no obligation to take out a loan.",
+      "The applicant must be a native of a village in Uttarakhand near the traction center and must reside, or intend to reside, with their family in the proposed homestay.",
+      "Guest rooms should be provided for a minimum of one and a maximum of six.",
+      "The homestay must be registered with the department, or if newly constructed, it must be registered upon completion.",
+      "Preference will be given to buildings constructed or developed in the traditional hill-style architecture."
+    ],
+    "application_process": {
+      "offline": [
+        "Residents of villages notified by the department can obtain the prescribed application form from the office of the District Tourism Development Officer or the Tourism Welcome Center. Along with the application form, applicants must submit the following documents: a birth/age certificate, educational qualification certificate, Scheduled Caste/Scheduled Tribe/Other Backward Class/Ex-Servicemen certificate (if applicable), a certificate proving Uttarakhand nativity, proof of residence in the same area, and land/building ownership documents.",
+        "After submission of the application to the District Tourism Development Officer or Tourism Welcome Center, a committee is constituted under the chairmanship of the District Magistrate. The applicant is then called for an interview by the committee. If found suitable in the interview, the applicant is selected. Upon completion of the construction or repair work, a technical committee constituted by the district conducts an inspection. If the work is found satisfactory, the District Magistrate recommends the disbursement, and the department transfers the sanctioned amount for the construction or repair of the homestay directly to the applicant’s bank account.",
+        "Identification of Villages – The committee constituted by the District Officer with the District Tourism Development Officer as Member Secretary, identifies eligible villages. Villages may also be proposed for inclusion if they are developing within a 2-kilometer radius of the trekking route; in such cases, the village head, block head, or MLA submits a proposal to the department. The tourism officer then conducts an investigation. A meeting is held under the chairmanship of the District Magistrate to determine whether the village qualifies for the trekking traction route. The meeting minutes and proposal are sent to the Uttarakhand Tourism Development Council, which conducts its own verification. If found eligible, the council officially notifies the concerned villages."
+      ]
+    },
+    "documents_required": [
+      "Birth certificate/age proof",
+      "Educational qualification certificate",
+      "Caste/Category Certificate (Scheduled Caste / Scheduled Tribe / Other Backward Class / Ex-Servicemen), if applicable",
+      "Uttarakhand domicile certificate",
+      "Proof of ownership of land/building",
+      "Bank passbook copy"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 166)",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Residents of villages located within a 2-kilometer radius of trekking traction centers identified by the Tourism Department are eligible. Applicants must be natives of Uttarakhand and reside or plan to reside with their family in the proposed homestay."
+    },
+    {
+      "question": "Are urban residents eligible?",
+      "answer": "No. Only villages separate from urban areas within the specified radius are eligible."
+    },
+    {
+      "question": "Is there a minimum or maximum number of guest rooms allowed?",
+      "answer": "Yes. Homestays must have a minimum of one and a maximum of six guest rooms."
+    },
+    {
+      "question": "What is the financial assistance provided under the scheme?",
+      "answer": "For new construction with toilets: ₹60,000/- per room. For repairs or renovation: ₹25,000/- per room, up to six rooms. For new construction with toilets: ₹60,000/- per room. For repairs or renovation: ₹25,000/- per room, up to six rooms."
+    },
+    {
+      "question": "Does the homestay need to be registered?",
+      "answer": "Yes. Existing homestays must be registered with the Tourism Department, and newly constructed homestays must undergo registration."
+    },
+    {
+      "question": "Is there a preference for the style of construction?",
+      "answer": "Yes. Preference is given to buildings constructed or developed in traditional hill-style architecture."
+    },
+    {
+      "question": "Where can I obtain the application form?",
+      "answer": "The prescribed application form is available at the office of the District Tourism Development Officer or the Tourism Welcome Center."
+    },
+    {
+      "question": "What is the application process?",
+      "answer": "Applicants submit the completed form along with documents to the District Tourism Development Officer or Tourism Welcome Center. A committee chaired by the District Magistrate conducts interviews, and suitable candidates are selected."
+    },
+    {
+      "question": "How is the grant disbursed?",
+      "answer": "After the technical committee’s approval and the District Magistrate’s recommendation, the department transfers the sanctioned amount directly into the applicant’s bank account."
+    }
+  ]
+}

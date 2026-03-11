@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Organization of Sports Competitions and Training Programs",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/osctp",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Organization of Sports Competitions and Training Programs",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Organization of Sports Competitions and Training Programs\" was launched by the Department of Youth Welfare and prantiy rakshak dal (PRD), Government of Uttarakhand. The scheme aims to promote sports and identify grassroots-level talent among youth through structured competitions and training."
+    ],
+    "benefits": [
+      "Organizing Khel Mahakumbh Competitions – Various sports competitions are organized for the age groups Under-14, Under-17, and Under-21.",
+      "Prizes are awarded for first, second, and third places as follows:",
+      "Sl. No.",
+      "Level",
+      "1",
+      "st",
+      "Rank (Cash Prize ₹)",
+      "2",
+      "nd",
+      "3",
+      "rd",
+      "Gram Panchayat",
+      "₹300/-",
+      "₹200/-",
+      "₹150/-",
+      "Block Development",
+      "₹500/-",
+      "₹400/-",
+      "District Level",
+      "₹800/-",
+      "₹600/-",
+      "4",
+      "State Level",
+      "₹1,500/-",
+      "₹1,000/-",
+      "₹700/-",
+      "During the competitions, talented players who perform best at the Block Development levels and District levels are identified by the department and provided free training prior to state-level participation."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must be a youth (boy or girl)."
+    ],
+    "application_process": {
+      "offline": [
+        "The Khel Mahakumbh is usually held between October and December. Newspapers provide information about the competitions at the Gram Panchayat/Nyaya Panchayat level, and interested participants are invited to take part through forms distributed by government schools, the Youth Welfare Department, and the Sports Department.",
+        "To participate, players must possess a photo identity card or birth certificate, a bank account, a permanent residence certificate, and a passport-size photograph. With these documents, players can compete in the Khel Mahakumbh at the village or Nyaya Panchayat level.",
+        "Players securing first, second, and third positions at this level advance to the Block Development level. Similarly, the top three players at the Block Development level proceed to the District level, and the top three at the District level qualify for the State level competition."
+      ]
+    },
+    "documents_required": [
+      "Photo identity card",
+      "Birth Certificate",
+      "Bank Account Details",
+      "Permanent Residence Certificate",
+      "Passport-size Photograph"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 104)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to participate in the scheme?",
+      "answer": "Youth (boys and girls) who are permanent residents of Uttarakhand are eligible to participate."
+    },
+    {
+      "question": "What are the age groups for the competitions?",
+      "answer": "Competitions are organized in three age groups: Under-14, Under-17, and Under-21."
+    },
+    {
+      "question": "When is the Khel Mahakumbh usually held?",
+      "answer": "The Khel Mahakumbh is usually held between October and December."
+    },
+    {
+      "question": "How do participants get information about competitions?",
+      "answer": "Information is published in newspapers and forms are distributed through government schools, the Youth Welfare Department, and the Sports Department."
+    },
+    {
+      "question": "What is the selection process in the competitions?",
+      "answer": "Players participate at the Gram Panchayat/Nyaya Panchayat level, and top 3 players advance to the Development Block level. Similarly, the top 3 at the Development Block level advance to the District level, and the top 3 at the District level advance to the State level."
+    },
+    {
+      "question": "Are there any free training opportunities under the scheme?",
+      "answer": "Yes, talented players identified at Development Block and District levels are provided free training before participating at the State level."
+    }
+  ]
+}

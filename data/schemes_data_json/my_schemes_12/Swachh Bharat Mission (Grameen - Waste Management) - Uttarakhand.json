@@ -1,0 +1,67 @@
+{
+  "scheme_name": "Swachh Bharat Mission (Grameen - Waste Management) - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sbmgwmuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Swachh Bharat Mission (Grameen - Waste Management) - Uttarakhand",
+  "scraped_at": "2026-03-11 16:32:18 UTC",
+  "sections": {
+    "details": [
+      "The “Swachh Bharat Mission (Grameen - Waste Management)” is a centrally sponsored scheme implemented by the State Water and Sanitation Mission, Uttarakhand Rural Water Supply and Sanitation Mission (Swajal) Project under the Drinking Water Department, Government of Uttarakhand. The scheme aims to promote sustainable solid and liquid waste management in rural Uttarakhand by providing necessary infrastructure and facilities to ensure cleaner villages, improved sanitation, and better public health."
+    ],
+    "benefits": [
+      "Solid and liquid waste management facilities, such as public dustbins, soak pits, compost pits, garbage collection centres, and community sanitation complexes, are constructed according to the requirements of Gram Panchayats through convergence, addressing the needs of migrant and floating populations, at a cost of ₹3.00 lakh (70% from the Swachh Bharat Mission and 30% from the 15th Finance Commission)."
+    ],
+    "eligibility": [
+      "The Gram Panchayat can apply to the district level unit with a simple application form along with a Gram Panchayat resolution. There is no prescribed format for the application."
+    ],
+    "application_process": {
+      "offline": [
+        "For the relevant work, a proposal is received from the concerned Gram Panchayat by the district-level unit, which is then approved or rejected at the unit level after examining it against the standards set by the Government of India. For solid and liquid waste management works, such as public dustbins, soak pits, compost pits, and garbage collection centers, the per capita rates for each village’s population are set as follows:",
+        "For solid waste management works",
+        ": In villages with a population up to 5,000 – ₹60 per person; in villages with a population above 5,000 – ₹45 per person.",
+        "For liquid waste management works:",
+        "In villages with a population up to 5,000 – ₹280 per person; in villages with a population above 5,000 – ₹660 per person. A minimum of ₹1 lakh per village is required for these activities.",
+        "Convergence:",
+        "(70% Swachh Bharat Mission and 30% 15th Finance Commission).",
+        "Plastic waste management:",
+        "₹16 lakh per development block.",
+        "Biogas plant:",
+        "₹50 lakh (for one model unit per district).",
+        "The budget for the biogas plant is disbursed to the Gram Panchayat selected as the implementing agency. Currently, one community or cluster biogas plant is to be constructed in each district."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the guidelines of the scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 262)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Gram Panchayats can apply to the district-level unit for solid and liquid waste management works under the scheme."
+    },
+    {
+      "question": "What is the application process?",
+      "answer": "A Gram Panchayat needs to submit a simple application form along with a Gram Panchayat resolution. There is no prescribed format for the application."
+    },
+    {
+      "question": "What kind of waste management works are covered under the scheme?",
+      "answer": "The scheme covers public dustbins, soak pits, compost pits, garbage collection centers, community sanitation complexes, plastic waste management, and biogas plants."
+    },
+    {
+      "question": "How are proposals approved?",
+      "answer": "The district unit examines the proposal from the Gram Panchayat against the standards set by the Government of India and then approves or rejects it."
+    },
+    {
+      "question": "What is the cost of waste management works for a Gram Panchayat?",
+      "answer": "The cost is generally ₹3.00 lakh for solid and liquid waste management works. Specific per capita rates vary based on village population."
+    },
+    {
+      "question": "Who implements the biogas plant?",
+      "answer": "The Gram Panchayat selected as the implementing agency receives the budget to construct and manage the biogas plant."
+    }
+  ]
+}

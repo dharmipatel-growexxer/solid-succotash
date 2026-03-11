@@ -1,0 +1,69 @@
+{
+  "scheme_name": "Grant to Films",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/gfuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Grant to Films",
+  "scraped_at": "2026-03-11 17:35:23 UTC",
+  "sections": {
+    "details": [
+      "The Uttarakhand film policy - 2024 “Grant to Films” is implemented by the Department of Information and Public Relations, Government of Uttarakhand. The policy aims to promote film production in Uttarakhand by providing financial grants to films, TV serials, and web series shot in the state, encouraging filmmakers to showcase Uttarakhand’s culture, heritage, and locations, and boosting local employment and the state's film economy."
+    ],
+    "benefits": [
+      "Under the provisions of the Uttarakhand Film Policy–2024, grants are provided as follows:",
+      "For films made in regional languages and dialects, a grant of 50% of the amount spent in the state or up to ₹2 crore, whichever is lower, will be provided.",
+      "For films made in Hindi or in the languages listed in the 8th Schedule of the Indian Constitution, a grant of 30% of the amount spent in the state or up to ₹3 crore, whichever is lower, will be provided.",
+      "For films made in foreign languages that have incurred an expenditure of at least ₹3 crore in the state, and in which the shooting locations of the state have been appropriately showcased, a grant will be provided of 50% of the amount spent in the state or up to ₹3 crore, whichever is lower.",
+      "For TV serials or web series produced in Hindi or in the languages listed in the 8th Schedule of the Indian Constitution, as well as in the regional dialects of Uttarakhand, a grant will be provided of either 30% of the amount spent in Uttarakhand during the shooting period or up to ₹3 crore, whichever is lower."
+    ],
+    "eligibility": [
+      "The applicant must be a film producer."
+    ],
+    "application_process": {
+      "offline": [
+        "After obtaining the Film Censor Certificate and the release/exhibition of the film, the film producer applies for the grant. For this, the producer must submit all expenditure details, contracts, invoices, and other related documents concerning the film production to the department.",
+        "The technical and financial committees constituted for granting film subsidies examine the film proposals and review the films before considering the grant. Based on the recommendation of the financial committee, the grant amount is approved and sanctioned by the Hon’ble Chief Minister/Chairman of the Film Development Council. (Applications for the grant must be submitted offline to the Film Development Council, Information and Public Relations Department, Dehradun.)"
+      ]
+    },
+    "documents_required": [
+      "Film Censor Certificate",
+      "Details of all expenditures related to film production",
+      "Contracts related to film production",
+      "Invoices/Bills",
+      "Other relevant supporting documents and records related to production"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 155)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the grant?",
+      "answer": "Film producers who have completed the film, obtained a Film Censor Certificate, and released/exhibited the film are eligible to apply."
+    },
+    {
+      "question": "What is the grant percentage for films made in regional languages or dialects?",
+      "answer": "They are eligible for 50% of the amount spent in Uttarakhand or up to ₹2 crore, whichever is lower."
+    },
+    {
+      "question": "What is the grant percentage for films made in Hindi or 8th Schedule languages?",
+      "answer": "They are eligible for 30% of the amount spent in Uttarakhand or up to ₹3 crore, whichever is lower."
+    },
+    {
+      "question": "What assistance is available for foreign language films?",
+      "answer": "Foreign language films that spend at least ₹3 crore in Uttarakhand and showcase the state’s locations are eligible for 50% of the expenditure or up to ₹3 crore, whichever is lower."
+    },
+    {
+      "question": "Are TV serials and web series also eligible?",
+      "answer": "Yes. TV serials/web series produced in Hindi, 8th Schedule languages, or Uttarakhand’s regional dialects are eligible for 30% of Uttarakhand shooting expenditure or up to ₹3 crore, whichever is lower."
+    },
+    {
+      "question": "When can a producer apply for the grant?",
+      "answer": "Producers can apply after obtaining the Film Censor Certificate and releasing/exhibiting the film."
+    },
+    {
+      "question": "Who approves the final grant amount?",
+      "answer": "The grant is sanctioned after approval from the Hon’ble Chief Minister/Chairman of the Film Development Council."
+    }
+  ]
+}

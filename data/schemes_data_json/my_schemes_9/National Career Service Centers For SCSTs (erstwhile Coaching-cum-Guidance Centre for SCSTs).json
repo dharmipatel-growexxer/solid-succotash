@@ -1,0 +1,78 @@
+{
+  "scheme_name": "National Career Service Centers For SC/STs (erstwhile Coaching-cum-Guidance Centre for SC/STs)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ncscscst",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "National Career Service Centers For SC/STs (erstwhile Coaching-cum-Guidance Centre for SC/STs)",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"National Career Service Centers For SC/STs\" was launched by the Directorate General of Employment (DGE), Ministry of Labour and Employment, Government of India. The scheme aims to enhance the employability of educated Scheduled Caste (SC) and Scheduled Tribe (ST) jobseekers through counselling, coaching, and training. The scheme provides vocational guidance, confidence-building programmes, personality development sessions, practice in typing and shorthand, special coaching for competitive exams, and computer training courses. The applicant must be an educated, unemployed SC/ST jobseeker registered with an Employment Exchange to avail of these benefits. The scheme is implemented by the National Career Service Centers (NCSCs) located in various states."
+    ],
+    "benefits": [
+      "The scheme offers Vocational Guidance and Career Counselling Services to educated SC/ST jobseekers.",
+      "The scheme provides Practice in Typing and Shorthand to ensure registrants maintain their speed while waiting on the Live Register of Employment Exchanges.",
+      "The scheme offers a Special Coaching Scheme to prepare candidates for competitive examinations and selection tests for Group “C” or equivalent posts (e.g., General English, General Awareness, Computer Training).",
+      "The scheme provides Computer Training Courses through outsourcing, including ‘O’ Level Software/Hardware training, Office Automation, and Cyber Secured Web Development.",
+      "The scheme provides a monthly stipend of ₹1,000/- per candidate.",
+      "The scheme provides free books and stationery worth ₹1,000/- per candidate for the entire course.",
+      "*The stipend is paid through Direct Benefit Transfer (DBT), subject to the candidate maintaining 80% attendance in a particular month."
+    ],
+    "eligibility": [
+      "The applicant must belong to the Scheduled Caste (SC) or the Scheduled Tribe (ST) category.",
+      "The applicant must be an unemployed jobseeker.",
+      "The applicant must be registered with an Employment Exchange.",
+      "The applicant must have passed 10+2 (Minimum educational qualification for coaching or courses).",
+      "The family annual income of the applicant should not be more than ₹3,00,000/- per annum."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1: Locate the Nearest Center",
+        "The applicant must identify the nearest National Career Service Center (NCSC) for SC/STs from the list of 25 centers located across India (e.g., Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, etc.).",
+        "Step 2: Obtain the Application Form",
+        "The applicant must collect the application form physically from the respective NCSC office or request it through the official email ID of the center (e.g., ncscbengaluru[at]gmail[dot]com for Bengaluru).",
+        "Step 3: Submit the Application",
+        "The applicant must fill out the application form completely and attach self-attested copies of all required documents. The applicant must submit the duly filled form along with the documents to the Sub-Regional Employment Officer at the respective National Career Service Center address or submit it via email if the option is provided by the specific center."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate (Proof of SC/ST status).",
+      "Educational Qualification Certificates (10+2 Marksheet and Certificate).",
+      "Employment Exchange Registration Card.",
+      "Income Certificate (Proof of family annual income).",
+      "Aadhaar Card.",
+      "Bank Account Details (For DBT of stipend).",
+      "Passport Size Photographs.",
+      "Self-Attested Copies of the above documents."
+    ],
+    "sources_and_references": [
+      "PIB Press Release [15th May 2025]"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is this training program available to everyone, or is it specifically reserved for candidates belonging to certain social categories?",
+      "answer": "This scheme is specifically designed for unemployed jobseekers belonging to the Scheduled Caste (SC) or Scheduled Tribe (ST) categories."
+    },
+    {
+      "question": "What is the minimum educational qualification required to be eligible for the special coaching schemes and computer training courses?",
+      "answer": "You must have passed the 10+2 examination to be eligible for the special coaching schemes or training courses offered."
+    },
+    {
+      "question": "Will I receive any monthly financial assistance to support my expenses while attending the training or coaching classes?",
+      "answer": "Yes, enrolled candidates receive a monthly stipend of ₹1,000/- paid through the Direct Benefit Transfer scheme."
+    },
+    {
+      "question": "What are the attendance requirements I must fulfill to ensure I receive the monthly stipend without any deductions?",
+      "answer": "You must maintain a minimum of 80% attendance in a particular month to be eligible for the stipend of ₹1,000/-."
+    },
+    {
+      "question": "Is there a specific limit on my family's annual income that determines my eligibility for the coaching and training program?",
+      "answer": "Yes, your family's annual income must not exceed ₹3,00,000/- per annum to be eligible for the coaching or courses."
+    },
+    {
+      "question": "Do I need to purchase my own study materials, or does the center provide books and stationery for the course?",
+      "answer": "The center provides free books and stationery worth ₹1,000/- per candidate for the entire duration of the course."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/otss",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "One Time Settlement (O.T.S.) Scheme",
+  "scraped_at": "2026-03-11 17:10:37 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2009, the scheme \"One Time Settlement (O.T.S.) Scheme\" by the Electricity Department, Government of Goa aims to facilitate the quick recovery of outstanding electricity dues from defaulting consumers with accumulated arrears of up to ₹20,000/- as of 31-3-2008. The scheme offers a waiver of delayed payment charges, including 18% interest, allowing consumers to pay only the principal amount in a lump sum. It is applicable to consumers in categories such as LIG (Low-Income Group), Domestic, Agriculture, Small Commercial, and LTP (Motive Power), whose installations are temporarily or permanently disconnected. The scheme is implemented by the Sub-Divisional Officers of the Electricity Department and is valid for three months from the date of notification."
+    ],
+    "benefits": [
+      "All delayed payment charges, including 18% interest, will be waived off for consumers whose cases are referred to the Revenue Recovery Court (R.R.C.) from the date of referring the case till the date of realization of outstanding dues.",
+      "Consumers will have to pay only the principal amount in a lump sum.",
+      "The ₹100/- deposited along with the application will be adjusted against the energy bill to be settled under the scheme.",
+      "*If the consumer backs out or fails to pay the finalized amount within the specified period, the ₹100/- will be forfeited."
+    ],
+    "eligibility": [
+      "The scheme is applicable to defaulting consumers in the categories of LIG (Low-Income Group), Domestic, Agriculture, Small Commercial, and LTP (Motive Power).",
+      "Consumers with accumulated arrears of up to ₹20,000/- as of 31-3-2008 are eligible.",
+      "The scheme is applicable to consumers whose installations are temporarily or permanently disconnected as of 31-3-2008 for non-payment of outstanding arrears.",
+      "Consumers whose cases have been referred to the Revenue Recovery Court (R.R.C.) are also eligible."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Eligible consumers should apply to the concerned Sub-Divisional Officer of the Electricity Department in the",
+        "prescribed format",
+        ". Submit the application along with a Demand Draft (D.D.) or Pay Order of ₹100/- in favour of the Chief Electrical Engineer.",
+        "Step 2:",
+        "The Sub-Divisional Officer will communicate the total finalized amount of the bill and the last date of payment to the consumer. The consumer must pay the finalized amount in one lump sum within one month from the date of communication.",
+        "*The ₹100/- deposited along with the application will be adjusted against the energy bill to be settled under the scheme.",
+        "*For consumers whose cases have been referred to the Revenue Recovery Court (R.R.C.), the Assistant Engineer will approach the concerned Mamlatdar for withdrawal of the case upon full settlement of the bill.",
+        "*If the consumer backs out from the scheme or fails to pay the finalized amount within the specified period, the ₹100/- will be forfeited to the Government.",
+        "Billing Dispute Redressal",
+        "In cases where the break-up of actual energy charges and delayed payment charges (D.P.C.) are not available with the Sub-Divisional Office, the case shall be referred to the Billing Dispute Redressal Committee for amicable settlement."
+      ]
+    },
+    "documents_required": [
+      "₹100/- in the form of a Demand Draft (D.D.) or Pay Order drawn in favour of the Chief Electrical Engineer, payable at the local accredited bank."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 21)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the maximum amount of arrears allowed for eligibility under this scheme?",
+      "answer": "Consumers with accumulated arrears of up to ₹20,000/- as of 31-3-2008 are eligible to apply."
+    },
+    {
+      "question": "Is this scheme applicable to consumers with temporarily disconnected installations?",
+      "answer": "Yes, the scheme is applicable to consumers whose installations are temporarily disconnected as of 31-3-2008."
+    },
+    {
+      "question": "What categories of consumers are eligible to apply for this scheme?",
+      "answer": "The scheme is applicable to Low-Income Group (LIG), Domestic, Agriculture, Small Commercial, and LTP (Motive Power) consumers."
+    },
+    {
+      "question": "Are consumers whose cases are referred to the Revenue Recovery Court (R.R.C.) eligible?",
+      "answer": "Yes, consumers whose cases have been referred to the Revenue Recovery Court (R.R.C.) are eligible to apply."
+    },
+    {
+      "question": "What charges will be waived off under this scheme for eligible consumers?",
+      "answer": "All delayed payment charges, including 18% interest, will be waived off for eligible consumers."
+    },
+    {
+      "question": "What is the non-refundable fee required to apply for this scheme?",
+      "answer": "A non-refundable fee of ₹100/- in the form of a Demand Draft (D.D.) or Pay Order is required to apply."
+    },
+    {
+      "question": "What happens to the ₹100/- fee if the consumer backs out from the scheme?",
+      "answer": "If the consumer backs out or fails to pay the finalized amount, the ₹100/- fee will be forfeited to the Government."
+    },
+    {
+      "question": "What is the deadline for paying the finalized amount under this scheme?",
+      "answer": "The consumer must pay the finalized amount within one month from the date of communication by the Sub-Divisional Officer."
+    },
+    {
+      "question": "Who will communicate the finalized amount to the consumer?",
+      "answer": "The Sub-Divisional Officer will communicate the total finalized amount and the last date of payment to the consumer."
+    },
+    {
+      "question": "What happens to cases referred to the Revenue Recovery Court (R.R.C.) after full settlement?",
+      "answer": "Upon full settlement, the Assistant Engineer will approach the Mamlatdar to withdraw the case from the Revenue Recovery Court (R.R.C.)."
+    },
+    {
+      "question": "Will interest on the Revenue Recovery Court (R.R.C.) amount be waived off?",
+      "answer": "Yes, 18% interest on the Revenue Recovery Court (R.R.C.) amount will be waived off upon full settlement."
+    },
+    {
+      "question": "What happens if the break-up of energy charges and delayed payment charges is not available?",
+      "answer": "Such cases will be referred to the Billing Dispute Redressal Committee for amicable settlement."
+    },
+    {
+      "question": "Is the scheme applicable to consumers with arrears above ₹20,000/-?",
+      "answer": "No, the scheme is only applicable to consumers with arrears up to ₹20,000/- as of 31-3-2008."
+    },
+    {
+      "question": "Is the ₹100/- fee refundable if the consumer does not proceed with the scheme?",
+      "answer": "No, the ₹100/- fee is non-refundable if the consumer backs out or fails to pay the finalized amount."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "scheme_name": "Employment Linked Skill Training Programme (ELSTP)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rpyelstp",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Employment Linked Skill Training Programme (ELSTP)",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The “Employment Linked Skill Training Programme” scheme was launched by the Department of Skill Development and Employment, Government of Uttarakhand. The scheme aims to provide free, self-employment-oriented training courses to unemployed/school dropouts/other disadvantaged youth of the state. It is a state-sponsored scheme that offers training in fields such as IT, healthcare, agriculture, beauty and wellness, electronics, and more."
+    ],
+    "benefits": [
+      "This training is free of cost and has a duration of 3 to 6 months.",
+      "Training offers employment/self-employment-oriented courses in areas such as IT, health, agriculture, beauty, wellness, electronics, and more.",
+      "The training provider also strives to facilitate employment opportunities for participants."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an unemployed, school dropout, or other underprivileged youth of the state."
+    ],
+    "application_process": {
+      "online": [
+        "Candidates can register for training on the Uttarakhand Skill Development Committee website,",
+        "www.uksdm.org",
+        ", and apply to the private training provider centers listed on the website.",
+        "Interested youth can contact the organizations by selecting the relevant job role. The list of active organizations is available on the departmental website.",
+        "During the application process, candidates will need to provide their Aadhaar card and educational qualification certificate for the respective course."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Educational Qualification Certificates (As per course requirement)",
+      "Any other document as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 101)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Unemployed youth, school dropouts, and other disadvantaged youth who are residents of Uttarakhand."
+    },
+    {
+      "question": "Is there any fee for the training?",
+      "answer": "No, the training is completely free of cost."
+    },
+    {
+      "question": "What types of courses are offered under this scheme?",
+      "answer": "Courses include IT, health, agriculture, beauty, wellness, electronics, and other self-employment-oriented skills."
+    },
+    {
+      "question": "How long is the training?",
+      "answer": "The duration of the training ranges from 3 to 6 months, depending on the course."
+    },
+    {
+      "question": "How can I apply for this scheme?",
+      "answer": "Candidates can register on the Uttarakhand Skill Development Committee website: www.uksdm.org and apply to the centers listed under private training providers."
+    },
+    {
+      "question": "Do I need any documents to apply?",
+      "answer": "Yes, candidates need their Aadhaar card and educational qualification certificate for the relevant course."
+    },
+    {
+      "question": "How can I find the list of training centers?",
+      "answer": "The list of private training provider centers is available on the UKSDM website ( www.uksdm.org ) and the departmental website."
+    }
+  ]
+}

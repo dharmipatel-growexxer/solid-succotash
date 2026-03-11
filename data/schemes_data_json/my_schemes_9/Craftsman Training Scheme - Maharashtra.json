@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Craftsman Training Scheme - Maharashtra",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cts-maharashtra",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Craftsman Training Scheme - Maharashtra",
+  "scraped_at": "2026-03-11 12:16:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Craftsman Training Scheme\" was launched by the Skill Development, Employment and Entrepreneurship Department, Government of Maharashtra. This stipend aims to support the trainees financially and encourage them to pursue and complete their vocational training, thereby contributing to skilled manpower development in the state."
+    ],
+    "benefits": [
+      "Stipend ₹500/- per month."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Maharashtra state.",
+      "The applicant should belong to Scheduled Castes, Scheduled Tribes, Freed Castes and Nomadic Tribes, Other Backward Classes, Special Backward Classes, Minority Communities and Open Category economically backward",
+      "The annual income of parents should not exceed ₹8,00,000/-.",
+      "Only two siblings within a family are eligible for this benefit.",
+      "The trainee should maintain an average of 80% attendance.",
+      "The trainee should be passing the first year to enroll in a 2-year trade.",
+      "SC trainees with an annual income of less than ₹2,50,000/- are also eligible for the Post Matric Scholarship.",
+      "Trainees suspended or found non-eligible for the All India Trade Test (AITT) will not qualify.",
+      "Trainees who have left the GITI are not eligible from their date of departure.",
+      "Trainees in PITI are ineligible for this scheme."
+    ],
+    "application_process": {
+      "online": [
+        "MAHA DBT Registration Process:",
+        "Step 01:",
+        "Visit the",
+        "official website",
+        ".",
+        "Step 02:",
+        "Click \"New Applicant Registration\" and fill in the Applicant Name, Username, Confirm Password, Email ID, and Mobile Number.",
+        "Step 03:",
+        "Fill in the Captcha, OTP and Click to \"Register\"",
+        "Login and Apply",
+        "Click \"Applicant Login\" and Enter your registered username, password",
+        "Enter the security text shown in the image and click on the \"Login Here\" button for login",
+        "Create Your Profile Personal Information, Address Information, Current Course, Current Course, etc.",
+        "Step 04:",
+        "View Suggested Eligible Schemes and Choose Scheme",
+        "Step 05:",
+        "Apply for the scheme and Upload the relevant document.",
+        "Step 06:",
+        "After that, you get the Application ID.",
+        "Note:",
+        "The applicant having an Aadhaar-seeded savings bank account in a nationalized bank is mandatory.",
+        "Trainee registration on the MAHA-DBT portal is compulsory."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph.",
+      "Aadhaar Card.",
+      "Domicile Certificate.",
+      "Income Certificate.",
+      "Admission Proof (Admission letter or certificate from the Government ITI).",
+      "Bank Account Details (Passbook copy showing the Aadhaar-linked bank account in a nationalized bank).",
+      "Previous Year’s Marksheets (Proof of academic performance and eligibility for continued benefit in the second year).",
+      "Caste Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Portal",
+      "Registration",
+      "Login"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this stipend?",
+      "answer": "All trainees belonging to various categories such as SC, ST, OBC, and economically weaker sections with a family income of up to ₹8,00,000/- per annum are eligible."
+    },
+    {
+      "question": "What is the minimum attendance required to receive the stipend?",
+      "answer": "A minimum of 80% attendance is required for each three-month period."
+    },
+    {
+      "question": "Is this benefit available to all trainees in ITIs?",
+      "answer": "Yes, the benefit is available to all eligible trainees under the Craftsman Training Scheme at Government ITIs."
+    },
+    {
+      "question": "Can this stipend be availed by more than two children from the same family?",
+      "answer": "No, the benefit is limited to two children per family."
+    },
+    {
+      "question": "How can a trainee apply for the stipend?",
+      "answer": "Trainees can apply through the MahaDBT portal by registering, filling out the application form, and submitting the required documents."
+    },
+    {
+      "question": "What is the process for the disbursement of the stipend?",
+      "answer": "The stipend will be disbursed quarterly into the trainee's Aadhaar-linked bank account after verification."
+    },
+    {
+      "question": "What happens if a trainee does not maintain the required attendance?",
+      "answer": "Trainees who do not maintain the required attendance or are disqualified for other reasons will not receive the stipend for that period."
+    },
+    {
+      "question": "How will trainees know if their stipend has been approved?",
+      "answer": "Trainees will receive a notification on the MahaDBT portal regarding the approval and disbursal status of their stipend."
+    },
+    {
+      "question": "What is the deadline to apply for the stipend each academic year?",
+      "answer": "The deadline will be announced by the Directorate of Vocational Education and Training. Trainees should regularly check the MahaDBT portal for updates."
+    },
+    {
+      "question": "Can trainees from private ITIs apply for this stipend?",
+      "answer": "No, the stipend is only for trainees enrolled in Government ITIs under the Artisan Training Scheme."
+    },
+    {
+      "question": "Will the stipend amount be revised in the future?",
+      "answer": "The stipend amount may be revised based on government decisions and policy changes."
+    }
+  ]
+}
