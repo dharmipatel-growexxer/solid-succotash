@@ -1,0 +1,100 @@
+{
+  "scheme_name": "Nandi Shala Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nsymp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Nandi Shala Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Nandi Shala Yojana (Provision of Breeding Indigenous Bulls on Subsidy)\" is launched by the Department of Animal Husbandry, Government of Madhya Pradesh. The scheme aims to improve the breeds of local non-descript and graded cattle in rural areas through natural insemination services. The progressive livestock owners at the Gram Panchayat level are provided high-quality indigenous breeding bulls of recognized breeds such as Sahiwal, Tharparkar, Haryana, Gir, Gaolao, Malvi, Nimari, and Kenkatha at a subsidized cost.",
+      "Objectives",
+      "To provide indigenous breeding bulls on subsidy for natural insemination services.",
+      "To improve the productivity of local cattle breeds in rural areas.",
+      "To support progressive livestock farmers in rural Gram Panchayats."
+    ],
+    "benefits": [
+      "Cost and Subsidy",
+      "For bulls procured from outside Madhya Pradesh: ₹25,720/- per unit.",
+      "For bulls procured from within Madhya Pradesh: ₹18,260/- per unit.",
+      "Subsidy: 75% of the cost.",
+      "Beneficiary contribution: 25% of the cost."
+    ],
+    "eligibility": [
+      "The applicant should be a livestock farmer.",
+      "The applicant should be residing in a rural area of Madhya Pradesh.",
+      "The applicant should have a minimum of 5 cattle along with sufficient agricultural land.",
+      "If the applicant does not have agricultural land, they should have at least 20 cattle.",
+      "The applicant should be willing to maintain and use the distributed bull for community natural insemination purposes."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the Gram Panchayat office and request a hard copy of the prescribed format of the application form from the designated staff.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents at the Gram Panchayat.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the Gram Panchayat to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "Post-Application Processes",
+        "The Veterinary Extension Officer at the block level reviews and forwards the application to the Janpad Panchayat for approval.",
+        "The Deputy Director of Animal Husbandry presents the cases to the District Panchayat Agriculture Standing Committee for approval within available budget limits.",
+        "Upon approval, the beneficiary enters into an agreement with the Animal Husbandry Department.",
+        "The indigenous breeding bull, feed for 60 days, and supporting resources are provided to the beneficiary."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Residence/Address Proof",
+      "Land document",
+      "Bank details"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Any livestock farmer in rural areas with minimum 5 cattle and land, or 20 cattle without land."
+    },
+    {
+      "question": "What breeds of bulls are provided under this scheme?",
+      "answer": "Sahiwal, Tharparkar, Haryana, Gir, Gaolao, Malvi, Nimari, and Kenkatha."
+    },
+    {
+      "question": "What is included in the unit cost?",
+      "answer": "Transport, animal insurance, 60 days of cattle feed, training booklet, and monitoring card."
+    },
+    {
+      "question": "How much does a bull cost under this scheme?",
+      "answer": "₹25,720 for out-of-state bulls; ₹18,260 for in-state bulls."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Aadhaar card, residence proof, land or livestock ownership proof, bank account passbook, etc."
+    },
+    {
+      "question": "How to apply for the scheme?",
+      "answer": "The applicant submit the application at the Gram Panchayat."
+    },
+    {
+      "question": "Who approves the application?",
+      "answer": "The District Panchayat Agriculture Standing Committee."
+    },
+    {
+      "question": "Can urban farmers apply for the scheme?",
+      "answer": "No, it is only for rural livestock farmers."
+    },
+    {
+      "question": "Whom to contact for more information?",
+      "answer": "The concerned Gram Panchayat, nearest Veterinary Institution, or the Deputy Director of Animal Husbandry."
+    },
+    {
+      "question": "What is the role of the beneficiary after receiving the bull?",
+      "answer": "To maintain the bull and provide natural insemination services for local cattle."
+    }
+  ]
+}

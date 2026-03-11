@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Scheme to Provide Financial Assistance to Purchase Solar Power Unit/Kit for Solar Fencing around the Farm",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/spatsp",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme to Provide Financial Assistance to Purchase Solar Power Unit/Kit for Solar Fencing around the Farm",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Scheme to Provide Financial Assistance to Purchase Solar Power Unit/Kit for Solar Fencing around the Farm\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by subsidizing the cost of solar power units/kits for farm fencing. By installing solar fencing, farmers can prevent crop destruction, increase agricultural productivity, and ensure better utilization of resources."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Solar Power Unit/kit",
+      "50% of actual expenditure or ₹15,000/- whichever is less",
+      "once in 10 (ten) years"
+    ],
+    "eligibility": [
+      "For Individual Farmers:",
+      "The applicant must be a farmer.",
+      "The applicant must belong to the Gujarat state.",
+      "For Joint Landholder Farmers:",
+      "Only one landholder mentioned in the 8-A land record shall be eligible for the benefit.",
+      "The selected landholder must have the consent of all other joint landholders."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "8-A Land Record Document (for joint landholders, consent is required).",
+      "Van Adhikar Patra or Sanad (for farmers in forest areas).",
+      "Bank Passbook Copy.",
+      "Recent Passport Size Photograph.",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme aims to support landholding farmers by subsidizing the cost of solar power units/kits for farm fencing."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any landholding farmer in the state is eligible to apply for the scheme."
+    },
+    {
+      "question": "What is the financial assistance provided under this scheme?",
+      "answer": "The scheme provides 50% of the actual cost or ₹15,000/-, whichever is lower, for purchasing a solar power unit/kit."
+    },
+    {
+      "question": "Can a joint landholder apply separately for the scheme?",
+      "answer": "No, only one joint landholder listed in the 8-A land record can apply, and they must have the consent of all other joint landholders."
+    },
+    {
+      "question": "How frequently can a farmer apply for this scheme?",
+      "answer": "A farmer can avail of the benefits only once in 10 years."
+    },
+    {
+      "question": "Are farmers who have availed benefits under the \"Wire Fencing Scheme\" eligible for this scheme?",
+      "answer": "No, farmers who have already received assistance under the Wire Fencing Scheme are not eligible for this scheme."
+    },
+    {
+      "question": "Can a farmer apply if they own multiple landholdings?",
+      "answer": "No, a farmer can apply for assistance under this scheme for only one landholding account."
+    },
+    {
+      "question": "What additional document are required for farmers in forest areas?",
+      "answer": "Farmers in forest areas must submit a \"Van Adhikar Patra or Sanad\" to be eligible for the scheme."
+    },
+    {
+      "question": "Where should a farmer submit the application?",
+      "answer": "The application must be submitted online through the i-Khedut Portal: https://ikhedut.gujarat.gov.in/."
+    },
+    {
+      "question": "Who can a farmer contact for further assistance regarding the scheme?",
+      "answer": "Farmers can reach out to their Gram Sevak, Extension Officer, or District Agriculture Officer for more information."
+    }
+  ]
+}

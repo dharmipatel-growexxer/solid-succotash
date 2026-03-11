@@ -1,0 +1,106 @@
+{
+  "scheme_name": "Green Business Scheme - Haryana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/gbshr",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Green Business Scheme - Haryana",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Green Business Scheme\" is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSCFDC) in collaboration with the National Safai Karamcharis Finance and Development Corporation (NSFDC) within the state of Haryana. Under this scheme, loans of up to ₹2.00 lakhs are provided to Scheduled Caste residents of Haryana for undertaking income-generating activities such as e-rickshaws, compressed air vehicles, solar energy gadgets, polyhouses, and similar ventures. Activities that contribute to mitigating the greenhouse effect are eligible for assistance under this scheme."
+    ],
+    "benefits": [
+      "The Corporation, in collaboration with NSFDC, provides a loan for various economic development schemes having a unit cost up to ₹2,00,000/-.",
+      "The Corporation provides margin money @10% of the project cost.",
+      "The Corporation (HSFDC) provides a subsidy of 50% of the total project cost, with a maximum amount of subsidy being ₹10,000/- of the total project cost."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should be in the age group of 18 to 45 years.",
+      "The applicant should belong to the Scheduled Caste category.",
+      "The applicant's annual family income should be up to ₹3,00,000/-.",
+      "Note:",
+      "The income ceiling is at least 50% of the beneficiaries having an annual family income up to ₹1,50,000/-, and the balance 50% of the beneficiaries having an annual family income up to ₹3,00,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application."
+      ]
+    },
+    "documents_required": [
+      "Identity/Citizenship Proof i.e. Aadhaar Card",
+      "Parivar Pehchaan Patra",
+      "Resident Proof/Address Proof/Ownership Proof i.e. Ration Card",
+      "Caste/Religion Proof i.e. Scheduled Caste Certificate",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Helpline For Application",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of the scheme?",
+      "answer": "The scheme aims to provide financial assistance for various economic development activities."
+    },
+    {
+      "question": "Who are eligible under this scheme?",
+      "answer": "The individuals belonging to the Scheduled Castes and who are permanent residents of Haryana are eligible under this scheme."
+    },
+    {
+      "question": "What is the age criteria to apply for the scheme?",
+      "answer": "Applicants should be in the age group of 18 to 45 years."
+    },
+    {
+      "question": "What kind of economic development schemes are covered under this initiative?",
+      "answer": "The scheme covers various economic development schemes, specifically mentioning e-rickshaw, compressed air vehicle, solar energy gadgets, and poly houses."
+    },
+    {
+      "question": "How much margin money does the Corporation provide for the project cost?",
+      "answer": "The Corporation provides margin money at 10% of the project cost."
+    },
+    {
+      "question": "What is the percentage of subsidy provided under this scheme?",
+      "answer": "The Corporation (HSFDC) provides a subsidy of 50% of the total project cost."
+    },
+    {
+      "question": "What documents are accepted as resident, address, or ownership proof?",
+      "answer": "A Ration Card is accepted as resident proof, address proof, or ownership proof."
+    },
+    {
+      "question": "What document is needed to prove my caste or religion?",
+      "answer": "A Scheduled Caste Certificate is required as proof of caste or religion."
+    },
+    {
+      "question": "What specific green businesses are supported by this scheme?",
+      "answer": "The scheme specifically supports e-rickshaws, compressed air vehicles, solar energy gadgets, and poly houses."
+    }
+  ]
+}

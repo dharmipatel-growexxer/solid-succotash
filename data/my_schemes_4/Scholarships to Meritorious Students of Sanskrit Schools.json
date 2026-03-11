@@ -1,0 +1,85 @@
+{
+  "scheme_name": "Scholarships to Meritorious Students of Sanskrit Schools",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/svmvc",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Scholarships to Meritorious Students of Sanskrit Schools",
+  "scraped_at": "2026-03-10 09:21:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Scholarships to Meritorious Students of Sanskrit Schools” is implemented by the Directorate of Sanskrit Education under the Department of Sanskrit Education, Government of Uttarakhand. The scheme aims to promote Sanskrit education by providing scholarships to meritorious students of Prathmik Madhyama (Class 10) and Uttar Madhyama (Class 12) in Sanskrit schools who secure the highest marks."
+    ],
+    "benefits": [
+      "Meritorious students of Prathmik Madhyama (Class 10) are awarded a scholarship of ₹500 per month for 20 months.",
+      "Three meritorious students of Uttar Madhyama (Class 12) are awarded cash prizes:",
+      "First Position:",
+      "₹20,000/-",
+      "Second Position:",
+      "₹15,000/-",
+      "Third Position:",
+      "₹10,000/-"
+    ],
+    "eligibility": [
+      "The applicant must be a student of a recognized Sanskrit school under the Uttarakhand Sanskrit Shiksha Parishad.",
+      "The applicant must have secured a place in the top 10 in the class 10",
+      "th",
+      "merit list or in the top 3 in the class 12",
+      "merit list from the Board Examination of Sanskrit School.",
+      "The applicant must be currently studying in class 11",
+      "or 12",
+      "after clearing class 10",
+      "."
+    ],
+    "application_process": {
+      "online": [
+        "The student’s application is first forwarded and recommended by the school principal, and then by the Assistant Director of the respective district.",
+        "Required documents include the Aadhaar card, bank account details, and the merit list certificate.",
+        "If the student’s name appears in the merit list, they or their guardian can submit the application online through the",
+        "Apuni Sarkar portal",
+        "during the same session."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Merit List Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 93)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scholarship?",
+      "answer": "Students of recognized Sanskrit schools in Uttarakhand who are in the top 10 (Class 10) or top 3 (Class 12) merit list."
+    },
+    {
+      "question": "What is the benefit for Class 10 students?",
+      "answer": "Scholarship of ₹500/- per month for 20 months."
+    },
+    {
+      "question": "What are the rewards for Class 12 students?",
+      "answer": "The top 3 meritorious students of Class 12 are awarded ₹20,000/- for the first position, ₹15,000/- for the second position, and ₹10,000/- for the third position."
+    },
+    {
+      "question": "Which schools are covered under this scheme?",
+      "answer": "Only schools recognized by the Uttarakhand Sanskrit Shiksha Parishad."
+    },
+    {
+      "question": "How do students apply for the scholarship?",
+      "answer": "By submitting an online application on the Apuni Sarkar Portal ."
+    },
+    {
+      "question": "Who verifies the application?",
+      "answer": "The school principal first, followed by the district-level Assistant Director (Education)."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Aadhaar, bank account details, merit list certificate, etc."
+    },
+    {
+      "question": "Where can I track my application?",
+      "answer": "On the Apuni Sarkar Portal under the application status section."
+    }
+  ]
+}

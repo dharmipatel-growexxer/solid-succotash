@@ -1,0 +1,69 @@
+{
+  "scheme_name": "District Plan - Sugarcane Development Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dpsds",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "District Plan - Sugarcane Development Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Sugarcane Development Scheme” a sub-component of the District Plan, implemented by the Department of Sugarcane Development and Sugar Industry, Government of Uttarakhand. The scheme aims to enhance sugarcane productivity and quality in Uttarakhand by providing financial and technical support to farmers for improved seed production, seed and soil treatment, and pest and disease management, thereby promoting sustainable farming and strengthening the livelihoods of sugarcane growers."
+    ],
+    "benefits": [
+      "Scheme for Improved Sugarcane Seed Production:",
+      "A subsidy of ₹1,000/- per hectare (₹2,000/- per hectare for SC/ST farmers) is provided for established/base nurseries, and ₹500/- per hectare (₹1,000/- per hectare for SC/ST farmers) is provided for primary nurseries.",
+      "Seed/Soil Treatment:",
+      "A 50% subsidy is provided in all sugar mill areas for chemicals used in seed and soil treatment. Of this, 25% is contributed by the government, while the remaining 25% is shared equally by the Sugarcane Development Council and the sugar mill.",
+      "Sugarcane Stalk Base (Pedi) Management Program:",
+      "To protect ratoon sugarcane crops from pests and diseases, a 50% subsidy is provided in all sugar mill areas for pesticides used in pest and disease control. The subsidy comprises 25% contribution from the government, with the remaining 25% shared by the Sugarcane Development Council and the sugar mill."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer cultivating sugarcane.",
+      "The applicant must be a permanent member of a cooperative sugarcane development society.",
+      "The applicant must practice advanced sugarcane farming.",
+      "The applicant’s name must be registered in the land records of the state."
+    ],
+    "application_process": {
+      "offline": [
+        "To select sugarcane farmers for availing the benefits of this scheme, the selection is carried out after discussions with public representatives in the Gram Sabha meeting at the village level, followed by a survey conducted by the Sugarcane Supervisor, and final approval from the departmental officers (Sugarcane Development Inspector, Senior Sugarcane Development Inspector, and Assistant Sugarcane Commissioner)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Land record documents",
+      "Bank account details",
+      "Proof of membership of the concerned society",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 256)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "Registered sugarcane farmers who are permanent members of cooperative sugarcane development committees and practice advanced sugarcane farming are eligible for benefits under the scheme."
+    },
+    {
+      "question": "What kind of financial assistance is provided under the scheme?",
+      "answer": "Financial assistance is provided in the form of subsidies for improved seed production, seed and soil treatment, and pest management in ratoon sugarcane crops."
+    },
+    {
+      "question": "What is the subsidy amount for improved sugarcane seed production?",
+      "answer": "A subsidy of ₹1,000 per hectare (₹2,000 per hectare for SC/ST farmers) is provided for established/base nurseries, and ₹500 per hectare (₹1,000 per hectare for SC/ST farmers) is provided for primary nurseries."
+    },
+    {
+      "question": "What assistance is available for seed and soil treatment?",
+      "answer": "A 50% subsidy is provided on chemicals used for seed and soil treatment in all sugar mill areas. Of this, 25% is contributed by the government, and 25% is shared by the Sugarcane Development Council and the sugar mill."
+    },
+    {
+      "question": "How are farmers selected to receive benefits under the scheme?",
+      "answer": "Selection is done through discussions with public representatives in the Gram Sabha meeting at the village level, followed by a survey by the Sugarcane Supervisor and approval from departmental officers."
+    },
+    {
+      "question": "Who approves the final list of beneficiaries?",
+      "answer": "The final approval of beneficiaries is given by departmental officers, including the Sugarcane Development Inspector, Senior Sugarcane Development Inspector, and Assistant Sugarcane Commissioner."
+    }
+  ]
+}

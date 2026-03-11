@@ -1,0 +1,127 @@
+{
+  "scheme_name": "National Awards to Teachers",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nat",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "National Awards to Teachers",
+  "scraped_at": "2026-03-10 09:21:06 UTC",
+  "sections": {
+    "details": [
+      "Launched in 1958, the scheme \"National Awards to Teachers\" by the Ministry of Education aims to honour and celebrate the unique contribution of some of the finest teachers in the country who, through their commitment, have enriched the lives of their students and improved the quality of school education. Two significant benefits of this scheme are to give public recognition to meritorious teachers and to honour those teachers who have not only improved the quality of school education but also enriched the lives of their students. Two significant eligibility criteria include being a school teacher or Head of School working in a recognised primary, middle, or secondary school and being a regular teacher or Head of School with a minimum of ten years of service. The scheme is implemented under the overall supervision of the Ministry of Education (MOE)."
+    ],
+    "benefits": [
+      "Public recognition is given away by The President of India (or) The Vice President of India on 5th September (Teacher's Day) every year. This recognition is for meritorious primary, middle and secondary school teachers.",
+      "The purpose of National Awards to Teachers is to celebrate the unique contribution of some of the finest teachers in the country and to honor those teachers who, through their commitment and industry, have not only improved the quality of school education but also enriched the lives of their students."
+    ],
+    "eligibility": [
+      "1. School teachers and Heads of Schools working in recognised primary/middle/high/higher secondary schools under the following categories are eligible:",
+      "Schools run by the State Govt./Union Territories Administration, schools run by local bodies, schools aided by the State Govt. and Union Territories Administration, and Private schools affiliated to the State/Union Territories Board.",
+      "Central Govt. Schools, i.e. Kendriya Vidyalayas (KVs), Jawahar Navodaya Vidyalayas (JNVs), Sainik Schools run by the Ministry of Defence (MoD), Schools run by Atomic Energy Education Society (AEES) and Eklavya Model Residential Schools (EMRS) run by the Ministry of Tribal Affairs.",
+      "Schools affiliated to the Central Board of Secondary Education (CBSE) (other than those at (a) and (b) above).",
+      "Schools affiliated to the Council for Indian Schools Certificate Examination (CISCE) (Other than those at (a), (b) and (c) above).",
+      "2. Normally, retired teachers are not eligible for the award, but those teachers who have served a part of the calendar year (at least for four months, i.e. up to 30th April in the year to which National Awards relate) may be considered if they fulfil all other conditions.",
+      "3. Only regular Teachers and Heads of Schools with a minimum of ten years of service are eligible."
+    ],
+    "application_process": {
+      "online": [
+        "For Registration",
+        "Step 1:",
+        "Visit the",
+        "Official Web Portal",
+        "of \"National Awards to Teachers\", and click \"New Registration\".",
+        "Step 2:",
+        "You will be taken to the \"Registration Form\". In the form, provide all the mandatory details, including Organisation Type, Applicant Name, Mobile Number, E-mail, etc. Select the Organisation Type from the dropdown based on the school type. Fill in the captcha code and click “Next”.",
+        "Step 3:",
+        "An account activation link will be sent to the registered Email ID. Click on the activation link received in the email from helpdesk-nat@gov.in (check your Inbox or Spam Folder). This will redirect to the Mobile Number verification screen. Enter the Captcha Code and click \"Send OTP\". Complete Mobile Number verification with the OTP received on the registered Mobile Number.",
+        "Step 4:",
+        "Set a new Password for Login into the National Awards to Teachers Portal. Create a password with a minimum length of 8 characters, including at least one uppercase letter, one lowercase letter, one number, and one special character. Enter the password and confirm it, then click \"Set Password\". The applicant registration process is now complete.",
+        "For Application",
+        "Log in to the portal",
+        "using the Registered Mobile Number as User Name, the Registered Password, and the Captcha.",
+        "After logging in, a list of forms to be filled out will be displayed. Click \"View\" to navigate to each section. Carefully read all the instructions before filling out the form. The application form includes sections for Personal Details, School Details, Service Record, Objective Criteria, Performance against criteria, and Supporting Documents. Fill in the required information in each section and save it.",
+        "Ensure that the applicant's image size is not greater than 100 KB and in JPEG/JPG/PNG format. Uploaded PDF files should not have a maximum size of 5 MB, and special characters/spaces should be removed from the PDF file name. For the Hindi language, use Unicode to paste Hindi content. YouTube video URLs can be provided, and supporting documents can be uploaded. If facing issues with PDF uploads, a Google Drive link containing all documents can be provided.",
+        "After saving details in all sections, click on \"Preview Application\" to review the filled form. After previewing, download a copy for printout if needed. Accept the declaration and click on \"Final Submission\".",
+        "*Ensure all details are correct before final submission as no further changes are permitted once submitted.",
+        "*For any technical issues, contact the helpdesk via email at helpdesk-nat@gov.in.",
+        "*Teachers can change their password by clicking on \"Change Password\", entering the old password, new password, and confirming the new password, ensuring it follows the password policy."
+      ]
+    },
+    "documents_required": [
+      "Applicant Image (Maximum 100KB, jpeg/jpg/png only).",
+      "Biography / Achievements Document (PDF file).",
+      "Service Record Document (PDF file).",
+      "Schoolwise Record (PDF file).",
+      "Experience Record (PDF file).",
+      "Supporting Documents for Objective Criteria (PDF file).",
+      "Supporting YouTube Video Universal Resource Locator for Objective Criteria (if any).",
+      "Supporting Documents for Performance Against Criteria (PDF file).",
+      "Supporting YouTube Video Universal Resource Locator for Performance Against Criteria (if any).",
+      "Google Drive Link for all supporting documents (in case facing issues uploading PDF).",
+      "Certificate from the controlling officer (required for objective criteria related to regular attendance, in-service training, work done to increase enrollment and reduce dropouts).",
+      "*Shortlisted teachers must prepare an application letter (to be uploaded) and details of a maximum of five students with positive outcomes due to the teacher's interaction (to be filled in the portal) for presentation before the Independent National Jury."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "FAQs",
+      "User Manual For Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What recognition do meritorious teachers receive under this scheme?",
+      "answer": "Meritorious teachers receive public recognition from the highest authorities in India for their contributions to school education and student development."
+    },
+    {
+      "question": "Who is responsible for overseeing the implementation of this scheme?",
+      "answer": "The Ministry of Education (MOE) supervises the overall implementation of the National Awards to Teachers scheme."
+    },
+    {
+      "question": "What is the deadline for the award disbursement each year?",
+      "answer": "The awards are publicly disbursed on 5th September (Teacher’s Day) every year by the President or Vice President of India."
+    },
+    {
+      "question": "Can Hindi content be included in the application, and what format should be used?",
+      "answer": "Yes, Hindi content can be pasted using Unicode in the application form for proper display."
+    },
+    {
+      "question": "What kind of certificate is required for objective criteria related to attendance and enrollment?",
+      "answer": "A certificate from the controlling officer is needed for criteria like regular attendance, in-service training, and efforts to increase enrollment or reduce dropouts."
+    },
+    {
+      "question": "Are shortlisted teachers required to submit additional documents or student details?",
+      "answer": "Shortlisted teachers must prepare an application letter and provide details of up to five students positively impacted by their teaching."
+    },
+    {
+      "question": "Is there a preview option available before final submission of the application?",
+      "answer": "Yes, applicants can preview their filled application, download a copy, and review all details before final submission."
+    },
+    {
+      "question": "What happens if an applicant faces technical issues during the application process?",
+      "answer": "For technical assistance, applicants can contact the helpdesk via email at helpdesk-nat@gov.in for support."
+    },
+    {
+      "question": "Can applicants make changes to their submitted application after final submission?",
+      "answer": "No, once the application is submitted, no further changes or edits are permitted, so accuracy must be ensured beforehand."
+    },
+    {
+      "question": "What should applicants do after logging into the portal to complete their application?",
+      "answer": "They must fill in all sections—personal details, school details, service record, objective criteria, performance details—and upload supporting documents before final submission."
+    },
+    {
+      "question": "How can teachers reset their password if they forget it after registration?",
+      "answer": "Teachers can change their password by clicking \"Change Password,\" entering the old and new passwords, and confirming the new one as per policy."
+    },
+    {
+      "question": "What password requirements must applicants follow while registering on the portal?",
+      "answer": "The password must be at least 8 characters long, including one uppercase letter, one lowercase letter, one number, and one special character."
+    },
+    {
+      "question": "Is there a specific image format and size required for the applicant’s photo?",
+      "answer": "The applicant’s image must be in JPEG, JPG, or PNG format and should not exceed 100 KB in size."
+    },
+    {
+      "question": "What should applicants do if they face issues uploading PDF documents?",
+      "answer": "If facing upload issues, applicants can provide a Google Drive link containing all required supporting documents."
+    }
+  ]
+}

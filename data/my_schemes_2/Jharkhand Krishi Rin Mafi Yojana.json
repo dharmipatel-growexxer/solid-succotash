@@ -1,0 +1,124 @@
+{
+  "scheme_name": "Jharkhand Krishi Rin Mafi Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jkrmy",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Jharkhand Krishi Rin Mafi Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Jharkhand Krishi Rin Mafi Yojana\" was launched by the Department of Agriculture, Animal Husbandry & Cooperative, Government of Jharkhand on 7th January 2021, to provide relief from the debt burden to short-term agricultural loan holders in the state. Under this scheme, outstanding loan amounts of up to ₹50,000/- in standard crop loan outstanding accounts as of 31st March 2020, will be waived. Standard crop loan borrowers as of 31st March 2020, will be eligible to avail the benefits of this scheme.",
+      "The main objectives of the scheme are as follows:",
+      "To improve the loan eligibility of crop loan holders.",
+      "To ensure receipt of new crop loan.",
+      "To stop the migration of farming communities.",
+      "To strengthen the agricultural economy.",
+      "Salient features of the scheme:",
+      "Details of standard KCC loans covered under Aadhaar card and ration card are being uploaded by the bank on the loan waiver portal.",
+      "The scheme will be implemented online through the web portal. This will minimize contact between the applicant and officials.",
+      "Identification of correct beneficiaries using the Aadhaar number of the applicant and paperless application process.",
+      "Easy online application process.",
+      "The process of receiving applications through the Common Service Centre and Banks so as to provide scheme facilities to the applicants near their homes.",
+      "Redressal of grievances of applicants through online mode."
+    ],
+    "benefits": [
+      "Under this scheme, outstanding loan amounts of up to ₹50,000/- in standard crop loan outstanding accounts as of 31st March 2020, will be waived.",
+      "Note:",
+      "Repayment of outstanding loan through DBT."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Jharkhand.",
+      "The age of the farmer should be more than 18 years.",
+      "The applicant should be a farmer who self-cultivates their land or cultivates leased land.",
+      "The applicant should be a small or marginal farmer who has availed of the loan through the Kisan Credit Card.",
+      "The farmer should have a valid Aadhaar number.",
+      "The applicant should be a valid ration card holder.",
+      "The applicant should be a Kisan Credit Card holder.",
+      "The applicant should be a short-term crop loan holder.",
+      "The crop loan should be issued by a recognized bank located in Jharkhand.",
+      "The family of the deceased debtor is also eligible under the scheme.",
+      "The applicant should have a standard crop loan account.",
+      "Only one member per family holding a crop loan will be eligible.",
+      "This scheme will be voluntary for all crop loan holders.",
+      "Note:",
+      "The applicant has to pay ₹1/- only for the application.",
+      "Eligibility for banks, criteria, determining outstanding loans and deadlines, eligible loan accounts, and exceptions:",
+      "Qualified Banks - Commercial Banks, Scheduled Co-operative Banks and Rural Banks",
+      "Qualifying Loan - Short-Term Crop Loan",
+      "Eligible period for disbursement - Upto 31.03.2020",
+      "Qualifying Loan Account - Single & Joint",
+      "Loans taken for crop diseases"
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Step 1:",
+        "Visit the \"",
+        "Jharkhand Krishi Rin Mafi Yojana",
+        "\" official website to apply for scheme benefits.",
+        "Step 2:",
+        "On the home page, click on '",
+        "Beneficiary Registration",
+        "' and then enter your Aadhaar Number.",
+        "Step 3:",
+        "Your basic information, such as name and loan amount, will be displayed upon entering your Aadhaar number.",
+        "Step 4:",
+        "Enter your ration card number.",
+        "Step 5:",
+        "Click on the name under which the loan is registered.",
+        "Step 6:",
+        "Review all displayed information carefully and click \"Submit\".",
+        "Step 7:",
+        "Authenticate your Aadhaar to verify your identity.",
+        "Step 8:",
+        "Proceed to make the application fee payment.",
+        "Step 9:",
+        "After successful payment, receive a confirmation slip for your application."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Passport-size photograph",
+      "Proof of age",
+      "Ration card",
+      "Kisan Credit Card (KCC)",
+      "Bank account details/bank passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Guidelines",
+      "Registration Link"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How and who can avail the benefits of the scheme?",
+      "answer": "The outstanding amount up to ₹50,000/- in the standard crop loan accounts till March 31, 2020 is being waived after the bank uploads the details of Standard KCC LOAN covered under Aadhar Card and Ration Card on the loan waiver portal."
+    },
+    {
+      "question": "E-KYC has been completed successfully, but what should be done if ₹1 token is not generated?",
+      "answer": "First of all go to the DNO of your area and get your e-KYC cancelled, then do your e-KYC again and get a token of ₹1."
+    },
+    {
+      "question": "If a person's name is in the loan waiver list, but e-KYC cannot be done due to his/her death, what should be done in such a case?",
+      "answer": "This matter is still under consideration. I have changed my digital signature and registered it, still it is not logging in. There are two possible causes for this problem: a) Your system is not reading your digital signature token correctly. b) Your device may not be plugged in correctly, so please remove your device and try again."
+    },
+    {
+      "question": "When searching my UID number, it shows someone else's data, what should I do?",
+      "answer": "You will have to contact your respective bank and get your documents updated."
+    },
+    {
+      "question": "What to do, when I am trying to generate Acknowledgement (Pawti) receipt and I have to pay a rupee, it shows a (payment gateway related) error/UID gateway related error?",
+      "answer": "This error is not related to our web portal; these are Third Party integrated API related issues. Please wait for a while or try again after some time. Even after this, if the problem persists and Acknowledgement (Pawti) receipt is not generated, then go to the DNO of your area and cancel your e-KYC and get e-KYC done again."
+    },
+    {
+      "question": "What should I do if my Aadhaar number search shows \"No Record Found\"?",
+      "answer": "This message is related to your respective bank, so please contact your respective bank and check whether they have uploaded your data or not."
+    },
+    {
+      "question": "While giving my ration card number and trying to proceed, it shows someone has already applied with the given ration card number?",
+      "answer": "This means that a member of your family may have already applied with this ration card number. If not, you can contact the DNO(DAO) of your area and give them this information."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scheme_name": "Small Scale Lending Scheme (Microfinance)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ssls-m",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Small Scale Lending Scheme (Microfinance)",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Small Scale Lending Scheme (Microfinance)\" by the Social Justice and Empowerment Department, Government of Gujarat, aims to provide microcredit to the small entrepreneurs of the target group. The scheme provides loans up to ₹1,25,000/- at subsidized interest rates of 5% per annum to eligible beneficiaries. To be eligible, the applicant must belong to the Rabari and Bharwad castes among the socially and educationally backward classes and must be aged between 21 to 45 years. The scheme is implemented by Gujarat Gopalak Vikas Nigam. The applications for this scheme are accepted online through the Department of Agriculture and Animal Husbandry (DAAD) Online portal."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "Maximum loan limit of ₹1,25,000/-.",
+      "Interest Rate:",
+      "Subsidized interest rate of 5% per annum.",
+      "Loan Coverage:",
+      "95% of the project cost is covered through a loan.",
+      "Beneficiary Contribution:",
+      "Only 5% contribution is required from the beneficiary.",
+      "Target Group Support:",
+      "Specifically designed for small entrepreneurs from the Rabari and Bharwad communities."
+    ],
+    "eligibility": [
+      "The applicant must belong to the Rabari and Bharwad castes among the socially and educationally backward classes.",
+      "The applicant must be aged between 21 to 45 years.",
+      "The applicant must have an annual income of less than or equal to ₹3,00,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of DAAD Online. At the bottom of the page, in the \"Details of the Scheme\" section, click the “Apply Now” button adjacent to the scheme that you intend to apply for.",
+        "Step 2:",
+        "In the online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Complete the Captcha code as prompted. Click the \"Submit\" button after verifying all information. Upon successful submission, a Confirmation Number will be generated. Carefully note this number, as it is essential for any future edits or uploads.",
+        "Step 3:",
+        "Visit the official website or portal, and click \"",
+        "Print Application",
+        "\". Provide the mandatory details such as Scheme Name, Date of Birth, and Confirmation Number. Click \"Submit\" to generate the final printable version of your application. Save or print the document for your records."
+      ]
+    },
+    "documents_required": [
+      "Passport Size Photograph",
+      "Caste Certificate",
+      "Income Certificate",
+      "Age Proof",
+      "Identity Proof",
+      "Address Proof",
+      "Bank Account Details",
+      "Project Report or Business Plan"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Application Portal",
+      "User Manual - Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "I belong to the Rabari community and am 46 years old with an annual income of ₹2,50,000. Can I still apply for this microfinance scheme even though I have crossed the upper age limit by one year?",
+      "answer": "Unfortunately, you cannot apply as the scheme has a strict age eligibility criterion of 21 to 45 years. The upper age limit of 45 years is mandatory and non-negotiable for all applicants."
+    },
+    {
+      "question": "My wife is from the Bharwad community and I am from a general category. Can we apply jointly for the loan, or does only she qualify as the primary applicant?",
+      "answer": "Only your wife qualifies as the primary applicant since she belongs to the eligible Bharwad community. The scheme specifically requires the applicant to belong to either Rabari or Bharwad castes, and joint applications are not permitted."
+    },
+    {
+      "question": "I need a loan of ₹1,50,000 for my cattle rearing business, but the scheme offers a maximum of ₹1,25,000. Can I apply for multiple loans or seek additional funding from other sources simultaneously?",
+      "answer": "You can only receive a maximum of ₹1,25,000 under this scheme, and multiple applications are not allowed. However, you can explore other government schemes or financial institutions for additional funding, but must declare such applications during the process."
+    },
+    {
+      "question": "What specific documents do I need to prove my caste certificate authenticity, especially considering the recent legal challenges regarding Bharwad and Rabari community certificates in Gujarat?",
+      "answer": "You need a valid caste certificate issued by the competent authority certifying your Bharwad or Rabari community status. Given recent legal developments, ensure your certificate is issued by the appropriate revenue official and is not under any legal dispute."
+    },
+    {
+      "question": "If my annual income is ₹2,95,000 this year but was ₹3,10,000 last year, which income figure will be considered for eligibility assessment?",
+      "answer": "The scheme considers your current annual income, which should not exceed ₹3,00,000. You should provide an income certificate reflecting your current financial status from the competent authority, typically based on the most recent assessment year."
+    },
+    {
+      "question": "My business plan involves both cattle rearing and milk processing activities. Do I need to submit separate project reports, or can I combine both activities in a single application?",
+      "answer": "You can combine both activities in a single comprehensive project report as they are related to the livestock sector. Ensure your project report clearly outlines the integrated approach and how the loan amount will be utilized across both activities."
+    },
+    {
+      "question": "The scheme mentions 5% beneficiary contribution. If my project cost is ₹1,00,000, do I need to contribute ₹5,000 upfront, or can this be adjusted from the loan amount?",
+      "answer": "You must contribute ₹5,000 (5% of ₹1,00,000) from your own funds upfront. This contribution cannot be adjusted from the loan amount and must be demonstrated through bank statements or other financial documents during the application process."
+    },
+    {
+      "question": "I have a valid caste certificate, but it was issued 10 years ago. Do I need to renew it for this application, or is the old certificate still acceptable?",
+      "answer": "A 10-year-old caste certificate is generally acceptable if it's issued by the competent authority and bears proper authentication. However, if local authorities request a recent certificate or if the format has changed, you may need to obtain a fresh one."
+    },
+    {
+      "question": "Can I apply for this scheme if I already have an existing loan from a bank or another government scheme, and what is the maximum total debt exposure allowed?",
+      "answer": "You can apply even with existing loans, but you must declare all existing debts in your application. The implementing authority will assess your total debt exposure and repayment capacity before approving the loan."
+    },
+    {
+      "question": "The scheme is implemented by Gujarat Gopalak Vikas Nigam, but applications are submitted through DAAD online portal. Whom should I contact for clarification on my application status after submission?",
+      "answer": "For application status and clarifications, contact the DAAD online portal helpdesk initially. For scheme-specific queries, you can reach out to Gujarat Gopalak Vikas Nigam through their official channels or the Social Justice and Empowerment Department."
+    },
+    {
+      "question": "My project involves setting up a small dairy unit requiring both working capital and equipment purchase. How should I distribute the loan amount in my project report for optimal approval chances?",
+      "answer": "Clearly segregate your project cost into equipment purchase, working capital, and other expenses in your project report. Ensure the total doesn't exceed ₹1,25,000 and demonstrate how each component contributes to your business viability and income generation."
+    }
+  ]
+}

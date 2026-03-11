@@ -1,0 +1,66 @@
+{
+  "scheme_name": "Drip Irrigation Sprinkler",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dsuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Drip Irrigation Sprinkler",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Drip Irrigation Sprinkler” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote efficient and sustainable irrigation for horticultural crops by providing farmers with modern irrigation systems and financial subsidies to enhance productivity and water conservation."
+    ],
+    "benefits": [
+      "Irrigation systems are established to provide irrigation facilities through drip irrigation, portable sprinklers, micro sprinklers, mini sprinklers, or rain guns, as per the requirements of new plants.",
+      "Under this scheme, a 45 to 55% subsidy is payable for areas ranging from 4 hectares up to a maximum of 5 hectares. An additional 25% subsidy is provided to state farmers as a top-up."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer and hold a Udhyan Card.",
+      "The farmer must either own agricultural land or have land on lease."
+    ],
+    "application_process": {
+      "offline": [
+        "Applications must be submitted at the Horticulture Mobile team Centres. Land-related documents, such as Khasra and Khatauni, along with a lease certificate for leased land, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number, are required with the application. Currently, the application process is offline."
+      ]
+    },
+    "documents_required": [
+      "Land-related documents, such as Khasra and Khatauni,",
+      "Lease certificate (for leased land)",
+      "Aadhaar card",
+      "PAN card",
+      "Udhyan Card",
+      "Bank account details",
+      "Mobile number",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 219)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Farmers who own land or have land on lease and hold a Udhyan Card are eligible to apply."
+    },
+    {
+      "question": "What types of irrigation systems are provided under this scheme?",
+      "answer": "The scheme provides drip irrigation, portable sprinklers, micro sprinklers, mini sprinklers, and rain guns as per the requirements of new plants."
+    },
+    {
+      "question": "What is the subsidy amount under the scheme?",
+      "answer": "Farmers can receive 45 to 55% subsidy for areas of 4 hectares and up to 5 hectares."
+    },
+    {
+      "question": "Is there any additional subsidy for state farmers?",
+      "answer": "Yes, an additional 25% top-up subsidy is provided to farmers of Uttarakhand."
+    },
+    {
+      "question": "Where should applications be submitted?",
+      "answer": "Applications must be submitted at the Horticulture Mobile Squad Centres."
+    },
+    {
+      "question": "Can leased land be considered for the scheme?",
+      "answer": "Yes, leased land is eligible, provided a valid lease certificate is submitted."
+    }
+  ]
+}

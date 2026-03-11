@@ -1,0 +1,86 @@
+{
+  "scheme_name": "Scheduled Tribe/Scheduled Caste Subplan",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/stscss",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Scheduled Tribe/Scheduled Caste Subplan",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Scheduled Tribe/Scheduled Caste Sub Plan” scheme was introduced by the Department of Fisheries, Government of Uttarakhand. The scheme aims to promote fish farming as a sustainable livelihood opportunity among individuals and groups belonging to the Scheduled Castes and Scheduled Tribes."
+    ],
+    "benefits": [
+      "Under this scheme:",
+      "Pond clusters, comprising a minimum of 10 ponds at one location, are created for individuals belonging to the Scheduled Castes and Scheduled Tribes. The scheme provides 60% of the total cost as a grant for pond construction and the first-year investment, including expenses on fish hatcheries and feed. A minimum of 10 ponds will be constructed in each village.",
+      "Individual beneficiaries are eligible to receive a grant for a maximum of 500 cubic meters, up to ₹3,00,000/-. For societies, groups, mahasanghs, federations, or mangal dals belonging to the Scheduled Castes and Scheduled Tribes, a grant of ₹5,10,000/- is provided, which constitutes 60% of the total project cost of ₹8,50,000/- for the construction of a 1-hectare pond in the plains.",
+      "Ponds of sizes ranging from 0.05 to 0.50 hectares will be constructed in the plains under this scheme."
+    ],
+    "eligibility": [
+      "The applicant must be an individual belonging to the Scheduled Caste or Scheduled Tribe category and residing in the mountainous or plain areas of Uttarakhand.",
+      "The applicant must be interested in, or currently engaged in, fish farming or fish production.",
+      "The applicant (individual or group) must own or lease land and have a nearby water source within the state.",
+      "The applicant must be a permanent resident of Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail the benefits of this scheme, eligible beneficiaries or groups must submit an application to the office of the Assistant Director of Fisheries or the District Fisheries Incharge at the district level. The application must include an Aadhaar card, land records, permanent residence certificate, bank account details, mobile number,",
+        "Caste Certificate",
+        "and, in the case of group applications, the relevant registration certificate or land availability certificate.",
+        "(In the future, the application process will be made available online through the",
+        "Apuni Sarkar Portal",
+        ".)",
+        "After submission of the application, a survey is conducted by fisheries inspectors or field personnel, and a proposal is prepared in collaboration with the beneficiary. Once the proposal is finalized, the concerned district officer grants approval. Pond construction work is then carried out under the supervision and technical guidance of field personnel.",
+        "If a beneficiary does not have the required 40% of funds, they may obtain a loan from the nearest cooperative or commercial bank. In the case of a loan, the bank approves the proposal prepared by the department and releases the funds after completing the necessary formalities. Upon completion of the construction, the subsidy is transferred to the beneficiary’s account via DBT based on the completion certificate. In the case of a loan, the subsidy is transferred to the beneficiary through the bank.",
+        "Technical assistance from the department is available at any time. If required, beneficiaries are also provided with free training. For fish marketing, beneficiaries are free to sell their produce directly in the market or through UttaraFish, a fishery enterprise established by the department."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Permanent Residence Certificate",
+      "Khasra-Khatauni of Land (Land Ownership Document)",
+      "Bank Account Details/Copy of Front Page of Bank Passbook",
+      "Mobile Number",
+      "Group Registration Certificate (in case of group application)",
+      "Land Availability Certificate (if land is not owned by the applicant but is accessible)",
+      "Photograph of pond construction site",
+      "Caste Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 247)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "SC/ST individuals or groups from Uttarakhand engaged in fish production."
+    },
+    {
+      "question": "Is there any minimum pond requirement?",
+      "answer": "Yes, a minimum of 10 ponds must be constructed at one location."
+    },
+    {
+      "question": "What is the maximum subsidy for individuals?",
+      "answer": "Up to ₹3,00,000/- for 500 cubic meters of pond construction."
+    },
+    {
+      "question": "Can leased land be used?",
+      "answer": "Yes, provided valid lease documents are submitted."
+    },
+    {
+      "question": "Is the subsidy given in cash?",
+      "answer": "No, it is disbursed through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "What is the subsidy percentage?",
+      "answer": "60% of the total cost."
+    },
+    {
+      "question": "What kind of training is provided?",
+      "answer": "Free training in fish rearing and management."
+    },
+    {
+      "question": "Is a caste certificate mandatory?",
+      "answer": "Yes, for SC/ST identification."
+    }
+  ]
+}

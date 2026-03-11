@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Jan Samuh Bima Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jsby",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Jan Samuh Bima Yojana",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Jan Samuh Bima Yojana\" was launched in 2019 by the Department of Tribal Area Development, Government of Rajasthan. The scheme aims to provide financial assistance to Sahariya families in the event of the death of the heads of the families (primary earning member). Under this scheme, a one-time financial assistance is provided by the insurance company to the deceased's family to help reduce their economic burden. The heads of these families are insured under the Swachh Project, and the insurance premium is paid by the Swachh Project."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "The insurance company provides financial assistance of ₹25,000/- to the family in case of death of the insured person.",
+      "Insurance Premium:",
+      "Fully paid under the Swachh Project."
+    ],
+    "eligibility": [
+      "The applicant should be native Rajasthan.",
+      "The applicant should be a family member or dependent of the deceased person.",
+      "The deceased person should belong to the Sahariya community.",
+      "The deceased person should be a resident of the Baran district, Rajasthan.",
+      "The insured person must be registered under the scheme before death."
+    ],
+    "application_process": {
+      "offline": [
+        "Survey & Selection:",
+        "A survey is conducted by the Swachh Project in Sahariya bastis of Baran district to identify eligible families.",
+        "Enrollment:",
+        "Eligible families members are enrolled under the insurance scheme by the Swachh Project.",
+        "Submission of Claim (in case of death of the insured):",
+        "The family must submit the required documents to the Swachh Project office at Shahabad.",
+        "The documents are verified and forwarded to the insurance company."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Domicile Certificate",
+      "Death Certificate of the insured person",
+      "Copy of Bank Passbook",
+      "Aadhaar Card"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who implements this scheme?",
+      "answer": "The Swachh Project, Shahabad, under the Government of Rajasthan."
+    },
+    {
+      "question": "Who can benefit from the scheme?",
+      "answer": "Families belonging to the Sahariya community residing in Baran district."
+    },
+    {
+      "question": "What is the benefit amount under this scheme?",
+      "answer": "₹25,000/- is provided to the family of the deceased."
+    },
+    {
+      "question": "Is there any premium to be paid by the beneficiary?",
+      "answer": "No, the insurance premium is paid entirely by the Swachh Project."
+    },
+    {
+      "question": "How are the beneficiaries selected?",
+      "answer": "Through a household survey conducted in Sahariya bastis."
+    },
+    {
+      "question": "What documents are required to claim the benefit?",
+      "answer": "Caste certificate, domicile certificate, death certificate, bank passbook copy, and Aadhaar card."
+    },
+    {
+      "question": "Where can the claim application be submitted?",
+      "answer": "At the Swachh Project office in Shahabad."
+    },
+    {
+      "question": "Can families outside Baran district apply?",
+      "answer": "No, the scheme is limited to Sahariya families in Baran district."
+    },
+    {
+      "question": "Is the benefit amount recurring or one-time?",
+      "answer": "It is a one-time benefit provided after the insured person’s death."
+    },
+    {
+      "question": "What is the expected time for receiving the benefit?",
+      "answer": "After the claim is verified and approved by the insurance company."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "scheme_name": "Financial Support Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fssdu",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Financial Support Scheme",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "“Financial Support Scheme” implemented by the Delhi University aims to provide equity and access to quality education to the economically weak students. This scheme also provides financial support for such students which will include fee waiver of all components of fee paid by students (except examination fee & hostel fee)."
+    ],
+    "benefits": [
+      "S. No.",
+      "Family income (in ₹) per annum",
+      "Fee waiver (percentage)",
+      "Remarks",
+      "Category 1",
+      "Less than or equal to ₹ 4,00,000/",
+      "Up to 100%",
+      "Actual fee or up to a maximum of ₹ 10,000/-",
+      "Category 2",
+      "Between ₹ 4,00,000/- and ₹ 8,00,000/-",
+      "Up to 50%",
+      "Actual fee or up to a maximum of ₹ 8,000/-"
+    ],
+    "eligibility": [
+      "Should be a bonafide student.",
+      "The student should be studying in any UG/ PG Degree program at a Department/ Institution/Centre of University of Delhi.",
+      "Family income of the student’s should be less than ₹ 8,00,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Eligible students can fill in the online",
+        "Application Form",
+        "available on the website of the Dean Students’ Welfare Office.",
+        "Step 2:",
+        "Students must submit a copy of their Application Form and all documents after due attestation and recommendation from the Head/ Director of the concerned Department/ Centre/ Institute at DSW office.",
+        "Step 3:",
+        "The Schedule for the submission of the hard/ printed copy of the application form will be declared in the",
+        "DSW website",
+        ".",
+        "Helpdesk:",
+        "For any queries kindly contact: fss@dsw.du.ac.in",
+        "Office Address:",
+        "Dean Students’ Welfare,",
+        "Conference Centre (Gate No. 4),",
+        "Opposite Botany Department,",
+        "University of Delhi,",
+        "Delhi – 110007"
+      ]
+    },
+    "documents_required": [
+      "Copy of EWS/OBC-NCL Certificate or Annual Family Income Certificate issued by competent authority. (Income Certificate signed by a notary will not be accepted).",
+      "Self-attested copies of latest income Tax Returns (2022-23) of the following family members:",
+      "Father,",
+      "Mother,",
+      "Sister(s)(Unmarried),",
+      "Brother(s) (Unmarried and below 25 years of age),",
+      "Copy of PAN card(s) of all the above.",
+      "Signed copy of the Undertaking Form.",
+      "Copy of Bonafide Certificate signed by the Head/Director of the Centre/Department/ Institute.",
+      "Copy of the mark sheet of the last exam passed.",
+      "Copy of the latest Fee Receipt.",
+      "Copy of Bank Pass Book showing the student's name, Account number and IFSC code or a cancelled cheque."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "DU Notification For FSS 2023-24",
+      "Notice On Document Submission For FSS-2023-24",
+      "FAQs"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "I am pursuing an Undergraduate Course in a Constituent College/ School of Open Learning/ Non Collegiate Women Education Board of UoD. Am I eligible to apply?",
+      "answer": "Students studying in any Constituent College/ School of Open Learning/ Non-Collegiate Women Education Board of UoD are NOT eligible to apply for the FSS. FSS is only for those students who have deposited their fees directly to UoD and NOT to any Constituent College/ School of Open Learning/ Non-Collegiate Women Education Board."
+    },
+    {
+      "question": "I am a First Year/ Semester student. Can I apply?",
+      "answer": "Any student who is pursuing a regular Undergraduate/ Postgraduate Degree Program at a Department/ Institution/ Centre of University of Delhi (UoD), including First Year/ Semester students can apply."
+    },
+    {
+      "question": "I am doing a Certificate/Diploma/Advanced Diploma language course. Am I eligible for FSS?",
+      "answer": "Only full-time bonafide students pursuing a regular Undergraduate/ Postgraduate Degree at a Department/ Institution/ Centre of University of Delhi / are eligible for FSS."
+    },
+    {
+      "question": "I am pursuing a B.Tech. Program under the Faculty of Technology. Am I eligible for FSS?",
+      "answer": "UG students pursuing B.Tech. Programs (Computer Science & Engineering; Electronics & Computer Engineering; Electrical Engineering) under Faculty of Technology are not eligible to apply under this scheme as they have already been granted fee waiver during the time of admission."
+    },
+    {
+      "question": "I am pursuing a Five Year Integrated Law Program (B.A.LLB./ BBA.LL.B). Am I eligible to apply for FSS?",
+      "answer": "UG students pursuing a Five Year Integrated Law Program (B.A.LLB./ BBA.LL.B) are NOT eligible to apply under this scheme as they have already been granted fee waiver during the time of admission."
+    },
+    {
+      "question": "I have an Essential Repeat (ER) paper in my previous examination. Can I still apply?",
+      "answer": "Students with Essential Repeat papers in the previous examination are NOT eligible to apply."
+    },
+    {
+      "question": "I took admission under the Orphan Quota. Am I eligible for FSS 2023-24?",
+      "answer": "Students admitted under the Orphan Quota are NOT eligible for the FSS 2023-24 as they will receive fee waiver under the Students’ Welfare Fund."
+    },
+    {
+      "question": "Will this scheme also include the examination fees/ hostel fees?",
+      "answer": "The fee waiver includes all components of the fee paid by students except examination fee and hostel fee."
+    },
+    {
+      "question": "My family does not file Income Tax Return (ITR). Am I eligible to apply?",
+      "answer": "For such students it is mandatory to submit a copy of EWS/ OBC-NCL Certificate or Annual family income certificate issued by competent authority after March 31, 2023. Income certificates issued by a notary will not be accepted."
+    },
+    {
+      "question": "What do I upload in the Income Tax section as my family does not file ITR?",
+      "answer": "Students must upload the Undertaking Form (signed copy) in place of the ITR."
+    },
+    {
+      "question": "Where do I submit my application?",
+      "answer": "Students must submit a copy of their Application Form and all documents after due attestation and recommendation from the Head/ Director of the concerned Department/ Centre/ Institute as per schedule declared at DSW website on 19 January 2024."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scheme_name": "Right to Education Act 2009 - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rta2009",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Right to Education Act 2009 - Uttarakhand",
+  "scraped_at": "2026-03-10 09:21:06 UTC",
+  "sections": {
+    "details": [
+      "The “Right to Education Act 2009” is implemented under the Samagra Shiksha Programme by the Secondary Education Department, Government of Uttarakhand. The scheme aims to provide free education, textbooks, uniforms, and the benefits of the PM Poshan Yojana to children up to Class 8 in private schools, targeting rural and urban children from weaker and deprived sections of Uttarakhand."
+    ],
+    "benefits": [
+      "Under Section 12(1)(c) of the Right to Education Act, children from weaker and disadvantaged sections in rural and urban areas of Uttarakhand are provided free education, textbooks, uniforms, and the benefits of the PM Poshan Yojana up to Class 8 in private schools.",
+      "In private schools, 25% of the total seats in the entry-level class are reserved for children from weaker and disadvantaged sections under Section 12(1)(c) of the Right to Education Act."
+    ],
+    "eligibility": [
+      "Children from the following categories will be eligible for admission up to Class 8 in private schools:",
+      "Children from weaker sections:",
+      "Those whose parents/guardians have an annual income of ₹55,000/- or less, or are BPL card holders.",
+      "Children from disadvantaged classes:",
+      "SC, ST, and children belonging to the non-creamy layer of OBC, with a family annual income of up to ₹4.5 lakh.",
+      "Orphan children.",
+      "Children with physical disabilities.",
+      "Children living with HIV/AIDS or those dependent on parents who are HIV/AIDS positive.",
+      "Children dependent on disabled parents or parents affected by leprosy, with a family annual income of less than ₹4.5 lakh.",
+      "Children dependent on a divorced or widowed mother, with an annual family income of less than ₹80,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Online applications are invited through an advertisement issued in February-March. Parents or guardians can apply online through the official portal or with the help of a cyber café.",
+        "Before applying, the following documents are mandatory for children from weaker and disadvantaged sections: passport-size photograph of the child, Aadhaar card of the child and parents/guardians, caste certificate, permanent residence certificate, BPL certificate or income certificate (as applicable), disability certificate (if applicable), husband’s death certificate (in case of widow), divorce certificate (in case of divorcee), and orphan certificate (if applicable).",
+        "After filling in the address details on the portal, the parent/guardian can view the list of schools available in their ward and must select the nearest school. Once the form is submitted online, a printout of the application, along with self-attested copies of the required documents, must be submitted to the office of the concerned Deputy Education Officer / Block Education Officer.",
+        "All submitted documents are verified by a committee at the development block level. The details of students found eligible are updated and verified on the online portal.",
+        "If the number of applications exceeds the available seats in private schools, the selection of children is done through an online lottery conducted at the state level."
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph of the child",
+      "Aadhaar card of the child and parents/guardians",
+      "Caste certificate",
+      "Permanent residence certificate",
+      "BPL certificate / Income certificate (as applicable under eligibility)",
+      "Disability certificate (if applicable)",
+      "Husband’s death certificate (in case of widow)",
+      "Divorce certificate (in case of divorcee)",
+      "Orphan certificate (if applicable)"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 81)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "Eligible children receive free education, textbooks, uniforms, and the benefits of the PM Poshan Yojana."
+    },
+    {
+      "question": "Up to which class do children receive free education under this scheme?",
+      "answer": "Children are eligible for free education and benefits up to Class 8 in private schools."
+    },
+    {
+      "question": "When are applications invited under the scheme?",
+      "answer": "Applications are generally invited through advertisements in February-March each year."
+    },
+    {
+      "question": "How can parents/guardians apply for this scheme?",
+      "answer": "Applications can be submitted online through the official portal, either directly or via a cyber café."
+    },
+    {
+      "question": "How do parents/guardians select schools during the application process?",
+      "answer": "After entering their address on the portal, parents/guardians can view a list of schools in their ward and must select the nearest school."
+    },
+    {
+      "question": "What should be done after submitting the online application?",
+      "answer": "A printout of the application, along with photocopies of required documents, must be submitted to the office of the concerned Deputy Education Officer or Block Education Officer."
+    },
+    {
+      "question": "Who verifies the documents submitted by applicants?",
+      "answer": "All documents are verified by a committee at the development block level."
+    },
+    {
+      "question": "What happens if the number of applications is greater than the available seats?",
+      "answer": "If applications exceed available seats, children are selected through an online lottery conducted at the state level."
+    }
+  ]
+}

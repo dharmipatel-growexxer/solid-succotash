@@ -1,0 +1,147 @@
+{
+  "scheme_name": "National Agriculture Insurance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nai",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "National Agriculture Insurance Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The National Agriculture Insurance Scheme (NAIS) was introduced by the Government of India to provide comprehensive insurance coverage and financial support to farmers against crop losses due to natural calamities, pests, and diseases. The scheme promotes the stability of farm incomes and encourages farmers to adopt modern agricultural practices.",
+      "Key Features",
+      "Coverage for food crops, oilseeds, and selected commercial/horticultural crops.",
+      "Protection against crop loss due to natural calamities such as drought, flood, hailstorm, cyclone, pests, and diseases.",
+      "Coverage for different stages of the crop life cycle:",
+      "Sowing/planting risk.",
+      "Standing crop losses.",
+      "Post-harvest losses (due to specified perils).",
+      "Losses due to localized risks like hailstorms and landslides.",
+      "Subsidized premiums for small and marginal farmers.",
+      "Availability of the scheme across notified areas and seasons.",
+      "Claim Process",
+      "Reporting",
+      "Losses: Inform the local agriculture office or insurer within 48 hours of the incident.",
+      "Assessment",
+      ": Loss assessment will be conducted by a joint team comprising local authorities and insurance company representatives.",
+      "Claim Settlement:",
+      "Upon verification, claims are directly transferred to the farmer’s bank account"
+    ],
+    "benefits": [
+      "Comprehensive Crop Coverage:",
+      "Protection against crop loss due to natural calamities (floods, droughts, hailstorms), pests, diseases, and localized risks.",
+      "Includes coverage for sowing, standing crops, and post-harvest losses.",
+      "Subsidized Premiums for Small Farmers:",
+      "Small and marginal farmers receive premium subsidies, making the scheme affordable for them.",
+      "Affordable Premiums for All Farmers:",
+      "Low premium rates for both loanee and non-loanee farmers, with premiums deducted from agricultural loans.",
+      "Quick Claim Settlement:",
+      "Fast processing and direct claim settlement to the farmer’s bank account.",
+      "Encourages Better Farming Practices:",
+      "Promotes risk mitigation and adoption of modern agricultural practices, increasing productivity.",
+      "Wide Crop Coverage:",
+      "Covers food crops, oilseeds, and horticultural crops, ensuring protection for most farmers.",
+      "Nationwide Accessibility:",
+      "Available to farmers across the country, making it a national safety net.",
+      "Premium Rates",
+      "Food crops and oilseeds:",
+      "Kharif crops: 3.5% of the sum insured.",
+      "Rabi crops: 1.5% of the sum insured.",
+      "Commercial and horticultural crops: Actuarial premium rates apply.",
+      "The premium for Small & Marginal farmers is subsidised to the extent of 10% which is shared by the State Govt. and Govt. of India"
+    ],
+    "eligibility": [
+      "Loanee Farmers:",
+      "Farmers who avail seasonal agricultural operations (SAO) loans from financial institutions (banks, co-operative societies, etc.) are automatically covered under the scheme.",
+      "The coverage for loanee farmers is compulsory, and premiums are deducted from the loan amount.",
+      "Non-Loanee Farmers:",
+      "Non-loanee farmers can apply voluntarily for the insurance coverage.",
+      "The application must be submitted before the deadline for each crop season.",
+      "Notified Crops and Areas:",
+      "The crops to be insured and the areas where the scheme is applicable are announced by the government each year."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process for Loanee Farmers",
+        "Step-1",
+        ": Loanee farmers need to visit their nearest bank or primary agricultural cooperative society (PACS) branch, where they have taken the loan.",
+        "Step-2:",
+        "The bank will automatically enroll the farmer in the NAIS.",
+        "Step-3:",
+        "Premiums are deducted directly from the loan amount at the time of disbursement",
+        "Application Process for Non-Loanee Farmers",
+        "Step-1: Visit the Bank or Insurance Office",
+        "Go to the nearest branch of a bank that offers NAIS or visit the office of an authorized insurance company that provides coverage under NAIS.",
+        "Step-2: Fill the Application Form",
+        "Fill out the application form for the National Agriculture Insurance Scheme.",
+        "Step-3: Provide Required Documents",
+        "Submit required documents such as:",
+        "Aadhaar card or any government-issued identity proof.",
+        "Proof of land ownership or tenancy.",
+        "Crop sowing details (if applicable).",
+        "Bank account details for claim disbursement.",
+        "Step-4: Pay the Premium",
+        "Pay the premium amount at the time of application. The premium amount is based on the type of crop and the coverage opted for.",
+        "Contact for Assistance",
+        "If you need help during the application process or have any questions, you can contact:",
+        "Toll-Free Helpline:",
+        "1800-180-1551",
+        "Email:",
+        "pmfby-support@gov.in",
+        "Website:",
+        "https://www.pmfby.gov.in/"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card or valid ID proof.",
+      "Proof of land records or tenancy agreement.",
+      "Crop-sowing certificate (if required).",
+      "Bank account details for claim disbursement."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the National Agriculture Insurance Scheme (NAIS)?",
+      "answer": "The National Agriculture Insurance Scheme (NAIS) is a government initiative aimed at providing financial protection to farmers against crop losses due to natural calamities, pests, and diseases. It offers coverage for food crops, oilseeds, and select horticultural crops."
+    },
+    {
+      "question": "Who is eligible to apply for NAIS?",
+      "answer": "All farmers growing insurable crops and availing Seasonal Agricultural Operations (SAO) loans from Banks / PACS are compulsorily covered under the Scheme by the Banks/ PACS, whereas the non-borrowing farmers growing insurable crops can also avail the benefit of the Scheme by submitting prescribed proposal forms at the nearest Banks/ PACS."
+    },
+    {
+      "question": "How can famar apply for the NAIS?",
+      "answer": "Loanee Farmers: The application is processed through the bank or financial institution from where the loan is availed. The premium is deducted directly from the loan amount. Non-Loanee Farmers: They need to approach the nearest bank or insurance office, fill out the application form, submit required documents, and pay the premium."
+    },
+    {
+      "question": "What is the premium amount for the scheme?",
+      "answer": "Food Crops (Kharif): 3.5% of the sum insured. Food Crops (Rabi): 1.5% of the sum insured. Commercial and Horticultural Crops: Premium is based on actuarial rates."
+    },
+    {
+      "question": "Are there any subsidies on the premium?",
+      "answer": "Yes, the government provides premium subsidies, particularly for small and marginal farmers, to make the scheme affordable. The premium subsidy is shared between the central and state governments."
+    },
+    {
+      "question": "What documents are required to apply for NAIS?",
+      "answer": "Aadhaar card or another government-issued identity proof. Proof of land records (ownership or tenancy). Crop sowing certificate (if applicable). Bank account details for claim settlement."
+    },
+    {
+      "question": "How are claims processed under NAIS?",
+      "answer": "Farmers must inform the local authorities or insurer about crop loss within 48 hours. A joint assessment of the loss is carried out by insurance representatives and local officials. After verification, the claims are settled and directly transferred to the farmer’s bank account."
+    },
+    {
+      "question": "Can non-loanee farmers apply for NAIS?",
+      "answer": "Yes, non-loanee farmers can voluntarily apply for NAIS by visiting an authorized bank branch or insurance office. They need to submit necessary documents and pay the premium."
+    },
+    {
+      "question": "How many states are participating in the scheme?",
+      "answer": "At present this scheme is being implemented in 23 States and UTs (except Punjab, Manipur, Nagaland, Mizoram and Arunachal Pradesh among the States and Chandigarh, Daman & Diu, Delhi, Dadra & Nagar Haveli and Lakshadweep among the UTs)."
+    },
+    {
+      "question": "Are crop loans disbursed through Kisan Credit Cards (KCCs) eligible for insurance coverage under the NAIS ?",
+      "answer": "Crop loans disbursed/withdrawn through KCCs are also eligible for coverage as per the terms and conditions applicable to the regular crop loans."
+    }
+  ]
+}

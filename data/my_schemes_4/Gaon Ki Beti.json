@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Gaon Ki Beti",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/gkb",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Gaon Ki Beti",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "This scheme aims to provide financial assistance to talented girls from rural areas to encourage them to pursue higher education. It seeks to motivate young girls to continue their studies and build a bright future."
+    ],
+    "benefits": [
+      "Each year, girls who pass the 12th standard with first-class marks from a village will be eligible.",
+      "Selected students will receive a scholarship of ₹500/- per month.",
+      "The scholarship will be provided for a maximum of 10 months per year."
+    ],
+    "eligibility": [
+      "The student must have secured 60% or more marks in the 12th standard.",
+      "The girl must reside in a rural area and possess a \"Gaon Ki Beti\" (Daughter of the Village) certificate.",
+      "She must be enrolled in a recognized institution for higher education."
+    ],
+    "application_process": {
+      "online": [
+        "SC/ST/OBC/General girl students should register themselves on the",
+        "portal.",
+        "Click on New Registration for Gaon Ki Beti and fill out the required details.",
+        "Now they can apply for the benefits of the scheme by logging in with the registration ID on the",
+        "portal",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Class 12 marksheet.",
+      "Age certificate.",
+      "Domicile certificate.",
+      "Caste certificate.",
+      "Income certificate of parents.",
+      "Village daughter certificate.",
+      "Samagra ID.",
+      "Current college code and branch code.",
+      "Mobile number and email id of the candidate.",
+      "Passport-size photograph of the candidate."
+    ],
+    "sources_and_references": [
+      "Guidelines-1",
+      "Guideline-2",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is Madhya Pradhesh Goan ki Beti Scheme ?",
+      "answer": "Madhya Pradhesh Gaon Ki Beti Yojna scholarship is an initiative to support the education of girl children from rural areas."
+    },
+    {
+      "question": "What are the benefits of the scheme ?",
+      "answer": "1. Provide financial assistance to girls in rural areas. 2. Encourage girls to pursue higher education."
+    },
+    {
+      "question": "What is benefits amount under the scheme ?",
+      "answer": "Every year, the girl students who pass class 12th in first division from each village are given scholarships at the rate of Rs.500 per month for 10 months."
+    },
+    {
+      "question": "Who can apply for the scheme ?",
+      "answer": "The girl Student should have secured 60% or more marks in the 12th examination and living in a rural area."
+    },
+    {
+      "question": "Is this scheme for girl's students only ?",
+      "answer": "Yes, this scheme is only for the girl's students."
+    },
+    {
+      "question": "May Other state gild student apply ?",
+      "answer": "No. This is only for Madhya Pradesh Girl Student."
+    },
+    {
+      "question": "What is the minimum marks required in 12th standard ?",
+      "answer": "Minimum marks should be 60% in 12th standard."
+    },
+    {
+      "question": "May Urban Areas girl student apply ?",
+      "answer": "No, this scheme is only for rural areas."
+    },
+    {
+      "question": "What is the application process ?",
+      "answer": "1. First applicant needs to register herself. 2. Then log in again with credentials and complete the application process."
+    },
+    {
+      "question": "What documents are required ?",
+      "answer": "1. Class 12 marksheet. 2. Age certificate. 3. Domicile certificate. 4. Caste certificate. 5. Income certificate of parents. 6. Village daughter certificate. 7. Samagra ID. 8. Current college code and branch code. 9. Mobile number and email id of the candidate. 10. Passport-size photograph of the candidate."
+    }
+  ]
+}

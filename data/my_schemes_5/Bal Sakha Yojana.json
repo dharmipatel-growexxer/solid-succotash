@@ -1,0 +1,101 @@
+{
+  "scheme_name": "Bal Sakha Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bsy",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Bal Sakha Yojana",
+  "scraped_at": "2026-03-10 08:21:04 UTC",
+  "sections": {
+    "details": [
+      "The Bal Sakha Yojana is a community-based program that aims to provide support to children in need of care and protection. The scheme is implemented by the Department of Women and Child Development in collaboration with the NHM and the State Child Protection Society.",
+      "A network of trained volunteers called \"Bal Sakhis\" are deployed in villages and urban areas to identify and report cases of child abuse, neglect, and exploitation.",
+      "The Bal Sakhis also provide support to families in need of assistance to ensure the well-being of their children. The scheme also provides financial assistance to children in need of care and protection.",
+      "The scheme is targeted towards vulnerable children in the age group of 0-18 years, especially those from socially and economically disadvantaged backgrounds. The Bal Sakha Yojana aims to ensure the overall development and well-being of children by providing them with necessary support and protection."
+    ],
+    "benefits": [
+      "Under this scheme, expert care will be provided to newborn babies to ensure child health.",
+      "The paediatrician attends all eligible newborns at the place of birth and has to ensure their survival by providing early neonatal care including immunizations at birth, nutrition advice."
+    ],
+    "eligibility": [
+      "All newborns up to 30 days old belonging to Below Poverty Line (BPL) families and Scheduled Caste categories, who do not pay income tax, will be eligible for benefits."
+    ],
+    "application_process": {
+      "offline": [
+        "Women can contact primary social workers ASHA present in all village and urban area",
+        "Anganwadi centres",
+        "Women can contact to District Development officer or Chief District Health Officer if she faces any obstacles while availing the of benefits."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "BPL card/Ration Card",
+      "Scheduled caste certificate, if applicable",
+      "Authorization by a locally recognized authority",
+      "Application form is available from the hospital itself",
+      "Income certificate",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Details",
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What kind of care does the Bal Sakha Yojana provide to newborn babies?",
+      "answer": "The Bal Sakha Yojana provides expert care to newborn babies to ensure child health. This includes early neonatal care, immunizations at birth, and nutrition advice."
+    },
+    {
+      "question": "Who attends to eligible newborns under the Bal Sakha Yojana?",
+      "answer": "Under the scheme, a paediatrician attends all eligible newborns at the place of birth and ensures their survival by providing the necessary care and support."
+    },
+    {
+      "question": "What is the objective of the Bal Sakha Yojana in terms of child health?",
+      "answer": "The primary objective of the Bal Sakha Yojana is to ensure the health and wellbeing of newborn babies, particularly those from vulnerable sections of society, by providing expert care and support."
+    },
+    {
+      "question": "Does the Bal Sakha Yojana cover all newborn babies?",
+      "answer": "No, only eligible newborn babies are covered under the Bal Sakha Yojana. The specific eligibility criteria may vary depending on the details and objectives of the scheme."
+    },
+    {
+      "question": "How does the Bal Sakha Yojana help in improving child health?",
+      "answer": "By providing expert care and support to newborn babies, the Bal Sakha Yojana can help in improving child health and reducing infant mortality rates. The early neonatal care, immunizations, and nutrition advice provided under the scheme can help in ensuring the healthy growth and development of newborn babies."
+    },
+    {
+      "question": "Who is eligible to apply for the Bal Sakha Yojana?",
+      "answer": "The eligibility criteria for the Bal Sakha Yojana may vary, but generally, children who are orphans, abandoned, or destitute are eligible to apply."
+    },
+    {
+      "question": "What kind of healthcare institutions are eligible for the Bal Sakha Yojana?",
+      "answer": "Children born in private hospitals or government healthcare institutions that are running the Chiranjeevi Yojana are eligible for the Bal Sakha Yojana."
+    },
+    {
+      "question": "Are there any income-based eligibility criteria for the Bal Sakha Yojana?",
+      "answer": "Yes, all newborns up to 30 days old belonging to Below Poverty Line (BPL) families and Scheduled Caste categories, who do not pay income tax, will be eligible for benefits."
+    },
+    {
+      "question": "Can children born at home apply for the Bal Sakha Yojana?",
+      "answer": "Yes, children born at home, subcenters, or PHCs are also eligible for the Bal Sakha Yojana"
+    },
+    {
+      "question": "How can women apply for the Bal Sakha Yojana?",
+      "answer": "Women can contact the primary social worker ASHA present in all village and urban areas or visit the Anganwadi centres to apply for the Bal Sakha Yojana."
+    },
+    {
+      "question": "What should a woman do if she faces any obstacles while availing the benefits of the Bal Sakha Yojana?",
+      "answer": "Women can contact the District Development Officer or Chief District Health Officer if they face any obstacles while availing the benefits of the Bal Sakha Yojana. These authorities can provide guidance and assistance to ensure that women can access the benefits they are entitled to under the scheme."
+    },
+    {
+      "question": "What type of ration card is required to apply for the Bal Sakha Yojana?",
+      "answer": "Women are required to have a BPL (Below Poverty Line) ration card to apply for the Bal Sakha Yojana."
+    },
+    {
+      "question": "What is an authorization by a local recognized authority, and is it necessary for the application process?",
+      "answer": "An authorization by a locally recognized authority is a document that certifies that the applicant is eligible for the scheme. It is necessary for the application process of the Bal Sakha Yojana"
+    },
+    {
+      "question": "Where can women find the application form for the Bal Sakha Yojana?",
+      "answer": "The application form is available from the hospital itself. Women can ask the hospital staff for the application form."
+    }
+  ]
+}

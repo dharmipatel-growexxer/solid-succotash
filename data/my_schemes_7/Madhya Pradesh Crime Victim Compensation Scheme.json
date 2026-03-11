@@ -1,0 +1,138 @@
+{
+  "scheme_name": "Madhya Pradesh Crime Victim Compensation Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mpcvcs",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Madhya Pradesh Crime Victim Compensation Scheme",
+  "scraped_at": "2026-03-10 09:03:02 UTC",
+  "sections": {
+    "details": [
+      "The \"Madhya Pradesh Crime Victim Compensation Scheme\" was launched by the Home Department, Government of Madhya Pradesh. It provides financial compensation and rehabilitation to crime victims or their dependents based on loss, injury, and financial status. Compensation covers death, permanent disability, acid attacks, sexual crimes, and serious injuries, with amounts including interim relief, medical assistance, and special provisions for minors and serious trauma cases."
+    ],
+    "benefits": [
+      "Compensation to victims for injury/loss:",
+      "S.No.",
+      "Details of Loss or Injury",
+      "Maximum limit of Compensation",
+      "1.",
+      "A. Loss of life (Death)",
+      "Death of an earning member",
+      "Maximum upto ₹4,00,000",
+      "Death of a non-earning member",
+      "Maximum upto ₹2,00,000",
+      "B. Loss of Fetus",
+      "Maximum upto ₹50,000 and Free medical treatment in Government Hospitals",
+      "2.",
+      "In case of permanent disability being 100%",
+      "Victim being the earning member",
+      "Maximum upto ₹3,00,000 (Free medical treatment in Government Hospital)",
+      "Victim not being the earning member",
+      "Maximum upto ₹1,50,000 (Free medical treatment in Government Hospital)",
+      "3.",
+      "In case of permanent disability being more than 40%",
+      "Maximum upto ₹2,00,000 (Free medical treatment in Government Hospital)",
+      "Maximum upto ₹1,00,000 (Free medical treatment in Government Hospital)",
+      "4.",
+      "A. Loss of fertility (due to other criminal incident except rape)",
+      "Maximum upto ₹1,50,000 (free medical treatment in Government hospitals)",
+      "B. Serious injury to vital part of body or surgery",
+      "Maximum upto ₹50,000 (Free medical treatment in Government Hospital)",
+      "Maximum upto ₹25,000 (Free medical treatment in Government Hospital)",
+      "5.",
+      "A. Gang Rape",
+      "Maximum upto ₹3,00,000 and Free medical treatment in Government Hospital",
+      "B. Sexual crime with minors",
+      "Maximum upto ₹2,00,000 and Free medical treatment in Government Hospital",
+      "6.",
+      "A. Acid attack leading to disfiguration of more than 40%",
+      "Maximum upto ₹3,00,000 out of which ₹1,00,000 to be paid within 15 days of intimation date and balance amount Maximum ₹2,00,000 within 2 months and Free medical treatment in Government Hospital",
+      "B. Acid attack leading to disfiguration of less than 40%",
+      "Maximum upto ₹1,50,000 out of which ₹50,000 to be paid within 15 days of intimation date and balance amount within 2 months and free medical treatment in Government hospital",
+      "Medical Treatment:",
+      "Free treatment in government hospitals for injuries covered under the scheme",
+      "Interim Relief:",
+      "Immediate first-aid or medical support can be provided as certified by police, magistrate, or competent medical officer",
+      "Mode of Disbursement:",
+      "Aadhaar-linked bank account",
+      "Frequency of Disbursement:",
+      "Lump-sum or in two installments",
+      "Special Cases:",
+      "Minor victims’ compensation deposited as fixed deposit, withdrawable only for education or medical needs"
+    ],
+    "eligibility": [
+      "The applicant should be a victim of crime or a dependent of a victim who has suffered injury or loss due to criminal acts.",
+      "The crime should have occurred within Madhya Pradesh. Victims outside the state but residing in Madhya Pradesh are eligible for interim relief.",
+      "The applicant must report the crime without unreasonable delay.",
+      "The applicant must cooperate with authorities in investigation and rehabilitation process.",
+      "The annual income of the victim from all sources must not exceed ₹5,00,000. If it exceeds, compensation is limited to 50% of the prescribed amount."
+    ],
+    "application_process": {
+      "offline": [
+        "Victim or dependent files an application with District Legal Services Authority (DLSA).",
+        "DLSA verifies claims, collects necessary documents, and may call for additional evidence.",
+        "Compensation is determined based on severity of loss, medical expenses, and rehabilitation needs within 60 days.",
+        "Interim relief or medical assistance may be provided immediately.",
+        "Approved compensation is disbursed through Aadhaar-linked bank accounts.",
+        "Appeals can be filed with the State Legal Services Authority within 90 days; second appeal to Government Home Department within 30 days."
+      ]
+    },
+    "documents_required": [
+      "Copy of Police Report / FIR",
+      "Copy of Medical Certificate detailing injury (if applicable)",
+      "Copy of Court Recommendation (if issued)",
+      "Dependency Certificate issued by Tehsildar or competent authority (for dependents)",
+      "Aadhaar-linked bank account details for disbursement",
+      "Identity proof of applicant (Victim/Dependent)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply under this scheme?",
+      "answer": "Victims of crime or their dependents who have suffered injury or loss."
+    },
+    {
+      "question": "Which crimes are covered?",
+      "answer": "Crimes resulting in injury, loss, or requiring rehabilitation, including sexual crimes, acid attacks, and serious bodily injuries."
+    },
+    {
+      "question": "How is compensation disbursed?",
+      "answer": "Through Aadhaar-linked bank accounts, in lump-sum or installments."
+    },
+    {
+      "question": "Can minors receive compensation?",
+      "answer": "Yes, in a fixed deposit until majority or for education/medical needs."
+    },
+    {
+      "question": "Is medical treatment covered?",
+      "answer": "Yes, free treatment in government hospitals for all eligible cases."
+    },
+    {
+      "question": "Are victims with income above ₹5,00,000 eligible?",
+      "answer": "Compensation is limited to 50% of the prescribed amount."
+    },
+    {
+      "question": "How can one appeal a rejection?",
+      "answer": "First to State Legal Services Authority within 90 days, second to Home Department within 30 days."
+    },
+    {
+      "question": "Who monitors the scheme?",
+      "answer": "State and District Level Committees with quarterly/monthly reviews."
+    },
+    {
+      "question": "Are cases under Motor Vehicle Act covered?",
+      "answer": "No, they are excluded."
+    },
+    {
+      "question": "What documents are required for dependents?",
+      "answer": "Dependency certificate issued by Tehsildar or authorized authority."
+    },
+    {
+      "question": "Can compensation be recovered from the accused?",
+      "answer": "Yes, if later found ineligible, DLSA can recover compensation from the accused."
+    }
+  ]
+}

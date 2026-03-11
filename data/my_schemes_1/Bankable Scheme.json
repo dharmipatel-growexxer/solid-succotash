@@ -1,0 +1,63 @@
+{
+  "scheme_name": "Bankable Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bsg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Bankable Scheme",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Bankable Scheme\" is implemented by the Gujarat Scheduled Caste Development Corporation (GSCDC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide financial assistance to scheduled caste persons for self-employment opportunities. Under this scheme, loans are provided for business, industry, or service activities, along with a subsidy of 50% of the loan amount or a maximum of ₹50,000/-. For setting up or expanding self-employment ventures in areas like animal husbandry, tailoring, groceries, beauty parlors, carpentry, RCC centering, footwear, bamboo work, embroidery, and other small-scale trades."
+    ],
+    "benefits": [
+      "Loan assistance up to ₹2,00,000/- for businesses, industries, and service activities.",
+      "Maximum loan of ₹1,00,000/- for business and ₹1,00,000/- for the industry/service sector individually.",
+      "Subsidy of 50% of the loan amount or up to ₹50,000/-, whichever is lower."
+    ],
+    "eligibility": [
+      "The applicant must be from a scheduled caste.",
+      "The applicant must be a permanent resident of Gujarat.",
+      "The applicant's age must be between 18 to 60 years.",
+      "The applicant must be unemployed.",
+      "The applicant must be capable of undertaking business activity",
+      ".",
+      "The applicant must not be a defaulter of any financial institution.",
+      "The applicant's annual income must not exceed ₹1,50,000/- (if residing in urban area) and ₹1,20,000/- (if residing in rural area)."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Visit the Gujarat Scheduled Caste Development Corporation, Gandhinagar",
+        "official website",
+        ".",
+        "Click on the \"New user (Register)\".",
+        "Fill the registration form: Email ID, Mobile Number, Password for login, Confirm Password.",
+        "Click on the \"Submit.",
+        "After successful registration, User ID and Password will be generated.",
+        "Application",
+        "Enter Username, Password, and Captcha Code.",
+        "After login, schemes applicable to your caste will be displayed.",
+        "Click on the scheme you want to apply for.",
+        "Fill out the \"Application Form\" and upload the required documents",
+        "Click Save Application. The system will generate an Application Number.",
+        "Click Print Application."
+      ]
+    },
+    "documents_required": [
+      "Bank Passbook/Cancelled Cheque",
+      "Income Certificate",
+      "Passport-size Photo",
+      "Ration Card",
+      "Election Card",
+      "Caste Certificate",
+      "Notarized Bahedhari Patrak",
+      "Quotation",
+      "School Leaving Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": []
+}

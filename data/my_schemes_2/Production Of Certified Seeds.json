@@ -1,0 +1,96 @@
+{
+  "scheme_name": "Production Of Certified Seeds",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pocs",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Production Of Certified Seeds",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Production Of Certified Seeds” by the Agriculture-Farmers Welfare Department, Tamil Nadu, aims to support farmers through offering subsidies to farmers for producing certified seeds of Pulses. It provides financial assistance to eligible farmers to enhance seed quality and increase production."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "A subsidy of ₹,1000/- per quintal."
+    ],
+    "eligibility": [
+      "The beneficiary should be a Farmer.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should raise seed farms with Pulses crops."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Collect the application form from the nearest Agricultural Office.",
+        "Step 2:",
+        "Fill out the application form with the required details and attach mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the form to the concerned office:",
+        "Village Level:",
+        "Submit the application to the Assistant Agricultural Officer.",
+        "Block Level:",
+        "Submit to the Agricultural Officer or Deputy Agricultural Officer.",
+        "District Level:",
+        "Submit to the Joint Director of Agriculture."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card, Voter ID)",
+      "Land ownership documents or lease agreement.",
+      "Certification of seed production.",
+      "Bank account details.",
+      "Caste certificate (if applicable).",
+      "Women farmer group registration documents (if applicable).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Production Of Certified Seeds” scheme?",
+      "answer": "The \"Production of Certified Seeds\" scheme, offers a subsidy to farmers for producing certified seeds of Pulses."
+    },
+    {
+      "question": "What is the subsidy amount offered under this scheme?",
+      "answer": "Farmers receive a subsidy of ₹1,000/- per quintal of certified seeds produced."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "All farmers growing Pulses for seed production are eligible to apply."
+    },
+    {
+      "question": "Are there any special provisions for SC/ST farmers or women?",
+      "answer": "Yes, 24% of the benefits are reserved for SC/ST farmers and 20% for farm women."
+    },
+    {
+      "question": "How does a farmer apply for the scheme?",
+      "answer": "Farmers must submit their application to the relevant Agricultural Officer at the Village, Block, or District level."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Farmers must provide proof of identity, land ownership or lease documents, and certification of seed production."
+    },
+    {
+      "question": "Is there an age limit to apply for this scheme?",
+      "answer": "No, there is no age restriction for this scheme."
+    },
+    {
+      "question": "Which crops are eligible under this scheme?",
+      "answer": "The scheme is focused on the production of Pulses seeds."
+    },
+    {
+      "question": "Do farmers need to meet any income criteria to apply?",
+      "answer": "There are no specific income criteria to apply for the scheme."
+    },
+    {
+      "question": "Can other crops besides Pulses be included in this scheme?",
+      "answer": "No, the scheme is exclusively for the production of certified Pulses seeds."
+    },
+    {
+      "question": "How can a farmer check the status of their application?",
+      "answer": "Farmers can inquire about their application status by contacting the Agricultural Officer at the Village or Block level."
+    }
+  ]
+}

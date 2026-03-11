@@ -1,0 +1,84 @@
+{
+  "scheme_name": "State Fisheries Input Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sfis",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "State Fisheries Input Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"State Fisheries Input Scheme\" was launched by the Department of Fisheries, Government of Uttarakhand. The scheme aims to aims to enhance the productivity and income of fish farmers by providing financial support in the form of subsidies on essential fishery inputs such as hand nets, hapa, nets, mini kits, etc."
+    ],
+    "benefits": [
+      "Fish farmers who are already engaged in fish farming are provided a 50% subsidy on the total cost of essential fishery inputs such as fish feed, medicines, etc.",
+      "A subsidy of 1 quintal of fish feed is provided for a 100 square meter pond, and 6 quintals of fish feed for ponds ranging from 500 to 2000 square meters.",
+      "A grant of 7 quintals of fish feed is provided for RAS/Biofloc systems.",
+      "A subsidy of 10 quintals of fish feed is provided for trout farming.",
+      "A 50% subsidy is provided on the total market rate cost of essential input materials for fisheries such as hand nets, hapas, nets, and minikits.",
+      "A 50% subsidy is admissible for one hand net/hapa/net and one minikit per fish farmer."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must be currently engaged in fish farming.",
+      "The applicant may belong to any caste category, including General, Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), or be a woman."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail the benefits of the scheme (for pond feed, medicines, and other inputs), the applicant must submit an application to the Assistant Director of Fisheries or the District Fisheries In-charge Office at the district level.",
+        "The application should be submitted along with the following documents: Aadhaar card, land records, permanent residence certificate, caste certificate, bank account details, mobile number, and pond details.",
+        "In the future, the application process will be made available online through the",
+        "Apuni Sarkar Portal",
+        ".",
+        "After submission, fisheries inspectors/field personnel will conduct a field survey and prepare a proposal in consultation with the beneficiary. Once the proposal is prepared, it will be approved by the concerned district officer. The fish farmer will then purchase seeds, feed, and medicines from the market and submit the bills to the field personnel. After verification of the bills, the field personnel will forward the details to the district officer, who will arrange for disbursement of 50% of the total cost as subsidy directly into the fish farmer’s bank account."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Records (proof of pond ownership or lease)/ Copy of Khasra / Khatoni",
+      "Permanent Residence Certificate",
+      "Caste Certificate (If applicable)",
+      "Bank Account Details (copy of passbook)",
+      "Mobile Number",
+      "Details of Pond Related Documents (size, location, and ownership status)",
+      "Original Bills/Invoices of procured items (Feed, Medicines, Hand nets, etc.)",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 248)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "All working fishermen of Uttarakhand belonging to Scheduled Tribes, Other Backward Classes, General Category, and women fish farmers engaged in fish farming are eligible."
+    },
+    {
+      "question": "What type of financial assistance is provided under this scheme?",
+      "answer": "Eligible fish farmers receive a 50% subsidy on the total cost of fishery inputs such as fish feed, medicines, hand nets, hapas, and minikits."
+    },
+    {
+      "question": "How much subsidy is provided for fish feed for small ponds?",
+      "answer": "A subsidy of 1 quintal of fish feed is provided for a 100 square meter pond."
+    },
+    {
+      "question": "How much fish feed subsidy is given for larger ponds?",
+      "answer": "Fish farmers with ponds ranging from 500 to 2000 square meters receive a subsidy of 6 quintals of fish feed."
+    },
+    {
+      "question": "Is there a provision for RAS/Biofloc systems under the scheme?",
+      "answer": "Yes, fish farmers using RAS (Recirculatory Aquaculture System) or Biofloc systems are eligible for a grant of 7 quintals of fish feed."
+    },
+    {
+      "question": "What subsidy is available for trout farming?",
+      "answer": "Fish farmers involved in trout farming are eligible for a subsidy of 10 quintals of fish feed."
+    },
+    {
+      "question": "Where should the applicant submit the application?",
+      "answer": "Applicants must submit their application to the Assistant Director of Fisheries or the District Fisheries In-charge Office at the district level."
+    },
+    {
+      "question": "What happens after submitting the application?",
+      "answer": "After submission, fisheries inspectors or field personnel will conduct a field survey, prepare a proposal in consultation with the applicant, and submit it to the District Officer for approval."
+    }
+  ]
+}

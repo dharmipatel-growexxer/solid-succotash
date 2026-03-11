@@ -1,0 +1,87 @@
+{
+  "scheme_name": "Flower Area Expansion",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/faeuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Flower Area Expansion",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Flower Area Expansion” scheme is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to promote and expand flower cultivation by providing cultivators in Uttarakhand access to quality flower planting material at a subsidized cost, thereby increasing flower production and enhancing farmers’ income."
+    ],
+    "benefits": [
+      "To encourage flower production, flower planting material (bulbs, plants, and seeds) is provided to cultivators at a 50% subsidy on the total cost, applicable for a maximum area of 4 hectares, as follows:",
+      "For open flowers, planting material worth up to ₹20,000/- per hectare is provided.",
+      "For stalked flowers, planting material worth up to ₹50,000/- per hectare is provided.",
+      "For bulbous flowers, planting material worth up to ₹75,000/- per hectare is provided.",
+      "(For example, if 1 kg of marigold seeds costs ₹200/-, the cultivator pays ₹100/- at the Horticulture Mobile team Center, while the government provides a subsidy of ₹100/-, allowing the cultivator to obtain the seeds for ₹100/-.)"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer and hold a Udhyan Card.",
+      "The farmer must either own agricultural land or have land on lease."
+    ],
+    "application_process": {
+      "offline": [
+        "Application forms can be obtained from the officers or staff at the Horticulture Mobile team Centre. Forms are also available for download from the department’s website:",
+        "https://shm.uk.gov.in",
+        ".",
+        "For winter planting, applications must be submitted between September and October, and for rainy season planting, applications must be submitted between April and June. Applicants are required to submit land-related documents, such as Khasra and Khatauni, along with the application form. For leased land, additional documents including the lease certificate, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number are required.",
+        "Currently, the application process is offline. Farmers must submit their completed application along with the required documents to the respective Horticulture Mobile team Centre. The application format also serves as a proposal. If a farmer faces any difficulty in filling out the form, the staff at the respective centres are responsible for providing assistance.",
+        "For applications under centrally-sponsored schemes, once the proposal is submitted, the Horticulture Mobile team Centre forwards it to the district level. From there, applications are sent to the state level, and then to the Government of India. After the action plan is approved by the Government of India, targets are communicated back to the district level through the Directorate.",
+        "For state-sponsored schemes, applications are sent from the Horticulture Mobile team Centre to the district level, and then to the Directorate. Once the Directorate approves the farmers’ proposals, approval or work orders are issued to the districts as per the Government Order.",
+        "Once a farmer's proposal is approved, the district officer issues an acceptance letter and informs the farmer via phone. The farmer can then purchase flower planting material (bulbs, plants, or seeds) from the relevant Horticulture Mobile team Centre at a 50% subsidy. Beneficiaries are selected on a first-come, first-served basis, subject to budget availability."
+      ]
+    },
+    "documents_required": [
+      "Land-related documents, such as Khasra and Khatauni (lease certificate, in case of leased land)",
+      "Aadhaar Card",
+      "PAN Card",
+      "Udhyan Card",
+      "Bank account details",
+      "Mobile Number",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 213)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Farmers in Uttarakhand who own land or cultivate on leased land and hold a valid Udhyan Card are eligible."
+    },
+    {
+      "question": "What types of flower planting material are provided under the scheme?",
+      "answer": "The scheme provides bulbs, plants, and seeds for open flowers, stalked flowers, and bulbous flowers."
+    },
+    {
+      "question": "What is the subsidy offered under this scheme?",
+      "answer": "The scheme provides a 50% subsidy on the cost of flower planting material."
+    },
+    {
+      "question": "Is there a maximum area for which the subsidy is applicable?",
+      "answer": "Yes, the subsidy is applicable for a maximum of 4 hectares per cultivator."
+    },
+    {
+      "question": "Where can application forms be obtained?",
+      "answer": "Forms can be obtained from officers or staff at the Horticulture Mobile Squad Centre or downloaded from department's website."
+    },
+    {
+      "question": "When should applications be submitted?",
+      "answer": "For winter planting, submit between September and October. For the rainy season, submit between April and June."
+    },
+    {
+      "question": "How are centrally funded scheme applications processed?",
+      "answer": "Applications are sent from the Horticulture Mobile Squad Centre to the district level, then to the state level, and onward to the Government of India. After approval, targets are communicated back to the districts."
+    },
+    {
+      "question": "How are state-sponsored scheme applications processed?",
+      "answer": "Applications are sent from the Horticulture Mobile Squad Centre to the district, then to the Directorate. After approval, a work order is issued to the districts as per the Government Order."
+    },
+    {
+      "question": "How will a farmer know if their application is approved?",
+      "answer": "Once approved, the district officer sends an acceptance letter and informs the farmer over the phone."
+    }
+  ]
+}

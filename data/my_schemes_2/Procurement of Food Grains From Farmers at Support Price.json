@@ -1,0 +1,103 @@
+{
+  "scheme_name": "Procurement of Food Grains From Farmers at Support Price",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pfgfsp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Procurement of Food Grains From Farmers at Support Price",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Procurement of Food Grains From Farmers at Support Price” scheme was launched by the Department of Food, Civil Supplies and Consumer Protection, Government of Madhya Pradesh. The scheme aims to ensure fair and assured prices for farmers by enabling direct government procurement of wheat, paddy, maize, and jowar from registered farmers at the centrally declared Minimum Support Price (MSP) along with any applicable state bonus during the designated procurement period."
+    ],
+    "benefits": [
+      "Farmers receive assured and fair prices for their crops at the Minimum Support Price (MSP) fixed by the government.",
+      "The scheme ensures direct procurement from farmers through government centers."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should be a landholding farmer.",
+      "The applicant should register for procurement (Uparjan Registration) before selling crops.",
+      "The applicant should sell only Fair Average Quality (FAQ) grains that meet the specified standards."
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Registration e-Uparjan Scheme",
+        "Step 1:",
+        "Farmer Registration",
+        "Visit the official",
+        "E-Uparjan Portal",
+        "Click on the “Farmer Registration” option",
+        "Enter your Aadhaar Number, District, Village Panchayat, Khasra Number, and Crop Details.",
+        "After filling in all the required details, click Submit.",
+        "Once registered, you will receive a Registration Number for future reference.",
+        "Step 2:",
+        "Slot Booking",
+        "After registration, log in to your account through the E-Uparjan Portal or Mobile App.",
+        "Select the “Slot Booking” option.",
+        "Choose the date and time slot for selling your crops at the procurement center.",
+        "A Slot Booking Receipt will be generated for the farmer.",
+        "Step 3:",
+        "Crop Procurement",
+        "On the scheduled date, visit the Procurement Center with your Slot Receipt, Aadhaar Card, and relevant crop documents.",
+        "The crop will be weighed and quality tested.",
+        "After successful procurement, you will receive a Procurement Receipt.",
+        "Step 4:",
+        "Transportation of Grains",
+        "The purchased grains are then transported from the procurement center to the warehouse.",
+        "The entire transportation process is monitored through the E-Uparjan system.",
+        "Step 5:",
+        "Storage in Warehouse",
+        "The transported grains are properly recorded and stored in the designated warehouses.",
+        "This storage process is digitally monitored to ensure transparency.",
+        "Step 6:",
+        "Payment to Farmer",
+        "After successful procurement and verification, the payment amount is directly credited to the farmer’s Aadhaar-linked bank account."
+      ]
+    },
+    "documents_required": [
+      "Land Rights Book",
+      "Loan Journal Part-1,2",
+      "Bank Pass Book",
+      "Mobile Number",
+      "Aadhaar Card"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Which crops are covered under the scheme?",
+      "answer": "Crops are wheat, paddy, maize, and jowar."
+    },
+    {
+      "question": "Who is eligible to apply?",
+      "answer": "All registered landholding farmers in Madhya Pradesh."
+    },
+    {
+      "question": "Is there any registration fee?",
+      "answer": "No, registration is completely free."
+    },
+    {
+      "question": "How can farmers register?",
+      "answer": "Farmers register through mpeuparjan.nic.in, MP Online kiosks, or Citizen Service Centers. Fair Average Quality standards for grains set by the government to ensure quality."
+    },
+    {
+      "question": "How are payments made to farmers?",
+      "answer": "Payments are made directly to the farmer’s registered bank account."
+    },
+    {
+      "question": "Can farmers sell crops without registration?",
+      "answer": "No, registration is mandatory to sell crops at procurement centers."
+    },
+    {
+      "question": "Is the scheme applicable in both urban and rural areas?",
+      "answer": "Yes, it covers farmers across Madhya Pradesh."
+    },
+    {
+      "question": "What authority handles grievances?",
+      "answer": "The grievances handle by District Collector or Sub-Divisional Officer (SDO)."
+    }
+  ]
+}

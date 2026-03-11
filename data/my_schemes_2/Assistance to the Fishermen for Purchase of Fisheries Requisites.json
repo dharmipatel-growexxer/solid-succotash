@@ -1,0 +1,78 @@
+{
+  "scheme_name": "Assistance to the Fishermen for Purchase of Fisheries Requisites",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/afpfribm",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Assistance to the Fishermen for Purchase of Fisheries Requisites",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Assistance to the Fishermen for Purchase of Fisheries Requisites” has been implemented by the Department of Fisheries, UT Administration of Dadra & Nagar Haveli and Daman & Diu. The scheme aims to provide one-time financial assistance in the form of a subsidy for the purchase of essential fisheries-related equipment, including support for the installation of IBM engines, procurement of electrical or solar equipment, and the purchase of insulated ice boxes for fish storage."
+    ],
+    "benefits": [
+      "Installation of Inboard Motor (IBM) Engine through Bank Loan",
+      "For engine cost up to ₹1,00,000/-: 20% subsidy, a maximum of ₹20,000/-.",
+      "For engine cost up to ₹3,00,000/-: 15% subsidy, a maximum of ₹45,000/-.",
+      "The subsidy is applicable only when the IBM engine is installed through a bank loan.",
+      "Electrical or Solar Equipment",
+      "For equipment cost up to ₹40,000/-: 50% subsidy, a maximum of ₹20,000/-.",
+      "Insulated Ice Boxes for Fish Storage",
+      "For fisherwomen: 75% subsidy, a maximum of ₹6,000/-.",
+      "For boat owners: 50% subsidy, a maximum of ₹15,000/-."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of the Union Territory of Dadra & Nagar Haveli and Daman & Diu.",
+      "The applicant must be a fisherman."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant should contact the respective District Panchayat/Fisheries Department, UT Administration of Dadra & Nagar Haveli and Daman & Diu to avail the benefits under the scheme."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Passport size photograph",
+      "Residence proof",
+      "Bank account details",
+      "Any other documents (As per requirement)"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Notification (Page No. 3)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "The scheme provides financial assistance to fishermen, fisherwomen, and boat owners for the purchase of fisheries requisites."
+    },
+    {
+      "question": "Who implements the scheme?",
+      "answer": "The scheme is implemented by the Fisheries Department."
+    },
+    {
+      "question": "Where should applicants contact for applying to the scheme?",
+      "answer": "Applicants should contact the District Panchaya."
+    },
+    {
+      "question": "What assistance is available for installation of an Inboard Motor (IBM) engine?",
+      "answer": "Subsidy is provided for the installation of an IBM engine through a bank loan, subject to prescribed cost limits and subsidy ceilings."
+    },
+    {
+      "question": "What is the maximum subsidy available for an IBM engine costing up to ₹1,00,000/-?",
+      "answer": "A subsidy of 20% of the cost is available, subject to a maximum of ₹20,000/-."
+    },
+    {
+      "question": "What subsidy is provided for electrical or solar equipment?",
+      "answer": "A subsidy of 50% of the cost is available, subject to a maximum of ₹20,000/- for equipment costing up to ₹40,000/-."
+    },
+    {
+      "question": "What benefit is available for insulated ice boxes for fish storage?",
+      "answer": "Subsidy is provided for insulated ice boxes for fish storage for eligible beneficiaries."
+    },
+    {
+      "question": "Is there any special benefit for fisherwomen under the scheme?",
+      "answer": "Yes, fisherwomen are eligible for a higher subsidy of 75% for insulated ice boxes, subject to a maximum of ₹6,000/-."
+    }
+  ]
+}

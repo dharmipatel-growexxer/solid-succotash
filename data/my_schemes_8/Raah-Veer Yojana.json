@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Raah-Veer Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rvy",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Raah-Veer Yojana",
+  "scraped_at": "2026-03-10 05:26:36 UTC",
+  "sections": {
+    "details": [
+      "The “Raah-Veer Yojana” was launched by the Home Department, Government of Madhya Pradesh. It aims to encourage the general public to help road accident victims during emergencies and save innocent lives during the critical Golden Hour by rewarding citizens who voluntarily take accident victims to a hospital for treatment. The scheme promotes civic responsibility and compassion among citizens by recognizing their bravery and humanitarian actions.",
+      "Scheme Implementation",
+      "It is implemented by the Office of the Transport Commissioner, Bhopal, Madhya Pradesh, under the supervision of the State and District-Level Evaluation Committees and monitored by the Home Department."
+    ],
+    "benefits": [
+      "Tangible Benefits",
+      "Provides a cash reward of ₹25,000 to individuals (“Rah-Veers”) who save the life of an accident victim by taking them to a hospital within the Golden Hour.",
+      "Selected “Rah-Veers” may be nominated for national-level awards by the Ministry of Road Transport and Highways (MoRTH).",
+      "The MoRTH Evaluation Committee selects the top 10 Rah-Veers nationwide, each awarded ₹1,00,000, a certificate, and a trophy at the National Road Safety Mission (NRSM) in New Delhi.",
+      "Each individual can be awarded a maximum of 5 times per year under this scheme.",
+      "Mode of Disbursement",
+      "The payment is made online directly to the beneficiary’s bank account through the Public Financial Management System (PFMS).",
+      "Frequency of Disbursement",
+      "One-time per eligible instance, up to a maximum of 5 instances per year.",
+      "Expected Time of Disbursement",
+      "The payment is processed within 1 month after the District Evaluation Committee’s approval."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should be any individual (citizen or resident) who voluntarily assists a road accident victim in a motor vehicle-related accident.",
+      "The applicant must have helped the victim reach a hospital within the Golden Hour, ensuring the victim’s survival."
+    ],
+    "application_process": {
+      "offline": [
+        "Incident Reporting by the Applicant:",
+        "The Rah-Veer informs the police first, the police will verify details with the attending doctor and issue an official acknowledgment slip containing the Rah-Veer’s name, mobile number, address, location, date, time, and details of assistance.",
+        "A copy of this slip is sent to the District Evaluation Committee and one to the Rah-Veer.",
+        "Direct Hospital Assistance:",
+        "If the Rah-Veer takes the victim directly to the hospital, the hospital must inform the local police station.",
+        "The police then issue the acknowledgment slip as above.",
+        "District-Level Evaluation Committee:",
+        "Composed of the District Magistrate, Superintendent of Police (SSP), Chief Medical Officer (CMOH), and Regional Transport Officer (RTO).",
+        "Reviews and approves the cases on a monthly basis.",
+        "State-Level Monitoring:",
+        "Headed by the Principal Secretary (Home) with members including the Commissioner (Health), ADGP (Traffic and Road Safety), and Commissioner (Transport) as Member Secretary.",
+        "Conducts quarterly reviews to ensure smooth implementation.",
+        "Disbursement:",
+        "After approval, the Transport Commissioner, Bhopal, processes the payment directly into the Rah-Veer’s bank account through PFMS.",
+        "The Ministry of Road Transport and Highways (MoRTH) provides monthly reimbursement to the State Transport Department.",
+        "National-Level Recognition:",
+        "Each year, up to three exceptional Rah-Veers are nominated for national awards."
+      ]
+    },
+    "documents_required": [
+      "Acknowledgment Slip from Police Station (Issued on official letterhead, containing details of the Rah-Veer, date, time, location, and assistance provided)",
+      "Verification Report from the Hospital/Doctor (Confirming that the victim was brought for treatment within the Golden Hour)",
+      "Identity Proof",
+      "Bank Account Details",
+      "Mobile Number",
+      "Address Proof"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can benefit under this scheme?",
+      "answer": "Any individual who saves an accident victim by providing timely medical help."
+    },
+    {
+      "question": "What is the reward amount?",
+      "answer": "₹25,000 per recognized act of assistance."
+    },
+    {
+      "question": "How many times can a person receive the award in a year?",
+      "answer": "A person receives the award up to 5 times per year."
+    },
+    {
+      "question": "What is the “Golden Hour”?",
+      "answer": "The first hour after a road accident when prompt medical aid can save a victim’s life."
+    },
+    {
+      "question": "How can someone apply for recognition?",
+      "answer": "Through police verification and submission of acknowledgment and hospital reports."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Police acknowledgment, hospital verification, ID proof, and bank details."
+    },
+    {
+      "question": "Who verifies the Rah-Veer’s actions?",
+      "answer": "The local police, the attending doctor, and the District Evaluation Committee."
+    },
+    {
+      "question": "Who approves the final list?",
+      "answer": "The District Evaluation Committee forwards approved names to the Transport Commissioner."
+    },
+    {
+      "question": "How is the payment made?",
+      "answer": "Through online transfer via the Public Financial Management System (PFMS)."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, the process is completely free."
+    },
+    {
+      "question": "Can the Rah-Veer remain anonymous?",
+      "answer": "No, anonymous individuals cannot receive the award."
+    },
+    {
+      "question": "Can Rah-Veers be nominated for national awards?",
+      "answer": "Yes, up to 3 Rah-Veers from each state can be nominated for national-level recognition."
+    }
+  ]
+}

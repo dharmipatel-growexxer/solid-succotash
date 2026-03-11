@@ -1,0 +1,104 @@
+{
+  "scheme_name": "Kisan Samriddhi Yojana Jharkhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ksyj",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Kisan Samriddhi Yojana Jharkhand",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Kisan Samriddhi Yojana\" by the Department of Agriculture, Animal Husbandry & Cooperative, Government of Jharkhand, aims to promote solar energy-powered irrigation systems to reduce dependency on fossil fuels and lower agricultural costs. Through this scheme, farmers receive up to 90% subsidy for solar irrigation units, enhancing their income and fostering sustainable agricultural practices."
+    ],
+    "benefits": [
+      "Farmers receive a 90% subsidy on solar-powered irrigation units, reducing their agricultural costs.",
+      "Two types of solar units are available: 5 HP fixed and 2 HP portable, catering to varied irrigation needs.",
+      "Solar units eliminate the need for electricity or diesel, ensuring year-round irrigation.",
+      "The portable 2 HP unit is mobile, making it suitable for multi-location usage.",
+      "Reduced maintenance costs for solar-powered systems.",
+      "Encourages sustainable energy use, contributing to environmental conservation."
+    ],
+    "eligibility": [
+      "The applicant should be a farmer, self-help group, cooperative, or farmer producer organization registered in Jharkhand.",
+      "The applicant must have a valid Aadhaar card and Aadhaar-linked mobile number.",
+      "A registered office of the group/organization must be located in Jharkhand.",
+      "The applicant must own or have access to land near a water source.",
+      "Only one member per family is eligible for benefits.",
+      "The applicant should be aged 18 years or above."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Step-1:",
+        "The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step-2:",
+        "The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.",
+        "Step-3:",
+        "The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Applicants must link their ration card with Aadhaar for e-KYC verification.",
+        "Pay the 10% contribution fee as per the unit cost.",
+        "Group Registration Process:",
+        "The applicant may visit the official website \"",
+        "Kisan Samriddhi Yojna",
+        "\"",
+        "Click on \"Group Registration\" and fill the details like: Group Type, Group Name, Enter Group Name, Registration Number, GST/PAN/TAN Number, Registration Date etc.",
+        "Click on \"Submit\""
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Ration Card (Aadhaar-linked).",
+      "Proof of Ownership/Access to Land and Water Source.",
+      "Group/Organization Registration Certificate (if applicable).",
+      "Mobile Number (Aadhaar-linked).",
+      "Bank Account Details (Aadhaar-linked)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Farmers, self-help groups, cooperatives, and farmer producer organizations registered in Jharkhand with access to a water source and Aadhaar-linked mobile numbers are eligible."
+    },
+    {
+      "question": "How much subsidy is provided under this scheme?",
+      "answer": "The government provides up to 90% subsidy on the cost of solar-powered irrigation units, with farmers contributing only 10%."
+    },
+    {
+      "question": "What are the types of irrigation units available under this scheme?",
+      "answer": "The scheme offers two types: 5 HP fixed solar pump sets for large-scale irrigation and 2 HP portable solar pump sets for smaller, mobile usage."
+    },
+    {
+      "question": "Can an individual benefit from the scheme more than once?",
+      "answer": "No, individual beneficiaries can avail of the scheme only once. Groups benefiting from the scheme must wait five years before reapplying."
+    },
+    {
+      "question": "Is there any age limit for applicants?",
+      "answer": "Yes, the applicant must be 18 years or older to apply for the scheme."
+    },
+    {
+      "question": "Can a farmer without land access to a water source apply?",
+      "answer": "No, the farmer must own or have access to land near a water source to qualify for the scheme."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applications are submitted online through the Jharkhand Agriculture Department portal, with Aadhaar-based e-KYC verification."
+    },
+    {
+      "question": "Is the scheme applicable across Jharkhand?",
+      "answer": "Yes, the scheme is implemented in all 24 districts of Jharkhand."
+    },
+    {
+      "question": "What happens if the land details provided are incorrect?",
+      "answer": "Applications with incorrect or unverifiable land details will be rejected during the inspection."
+    },
+    {
+      "question": "What is the irrigation capacity of the units provided?",
+      "answer": "The 5 HP solar pump can irrigate up to 5 acres, while the 2 HP unit is suitable for 1 acre."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "scheme_name": "Jharkhand Mukhyamantri Shramik Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jmsy",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Jharkhand Mukhyamantri Shramik Yojana",
+  "scraped_at": "2026-03-10 09:09:17 UTC",
+  "sections": {
+    "details": [
+      "The \"Mukhyamantri Shramik Yojana\" scheme by the Urban Development & Housing Department, Government of Jharkhand aims to provide guaranteed employment to unskilled workers residing in urban areas. Under this scheme, eligible beneficiaries receive up to 100 days of employment per financial year in various urban development projects."
+    ],
+    "benefits": [
+      "Guaranteed wage employment for a maximum of 100 days per financial year.",
+      "Improvement in living standards of urban poor families.",
+      "Employment opportunities in urban development projects like housing, sanitation, and road construction.",
+      "Ensuring social security for urban workers.",
+      "Contribution to urban cleanliness and green city initiatives.",
+      "Job Card Issuance:",
+      "Job cards can be obtained online, through community resource persons, urban local body offices, or ward-level camps.",
+      "Job card valid for 3 years with provisions for member addition/removal.",
+      "Job Allocation Process:",
+      "Workers can demand work online or through community resource persons.",
+      "Employment is assigned within 15 working days.",
+      "Job allocation details are sent via SMS and can be accessed on the portal."
+    ],
+    "eligibility": [
+      "The applicant should be an unskilled worker willing to work in urban areas.",
+      "The applicant must be a resident of Jharkhand and living in an urban local body (own/rented/slum) since before April 1, 2015.",
+      "The applicant should be 18 years or older.",
+      "The disabled person, women in special circumstances, and senior citizens above 65 years are also eligible to apply."
+    ],
+    "application_process": {
+      "offline": [
+        "Job Card Apply Process:",
+        "Visit the official website of Mukhyamantri Shramik Yojana: msy.jharkhand.gov.in",
+        "Click on the \"Application\" link/button.",
+        "Select \"Apply for Job Card\".",
+        "Fill out the form with the required information, such as your address, Aadhaar card number, mobile number, etc.",
+        "If you need to add additional family members, click on the \"Add More\" button and fill in their details.",
+        "Accept the terms and conditions and complete the captcha verification.",
+        "Click on the \"Submit\" button.",
+        "Your job card application number will be generated and displayed.",
+        "Job Card Download Process:",
+        "Visit the official website and click on the \"Download Job Card\"",
+        "Enter your Job Card Number and Aadhaar Number.",
+        "Complete the captcha verification.",
+        "Click the \"Submit\" to download the card.",
+        "After Generated the Job Card Raise a Request for \"Demand Work\":",
+        "Click on the \"Demand Work\"",
+        "Fill Job Card Number and Aadhaar Card Number.",
+        "Fill in the Demand Days (specify the number of days for which you are demanding work).",
+        "Submit the request.",
+        "Work allocation details will be sent via SMS to the registered mobile number and will also be available on the scheme’s portal."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Voter ID",
+      "Driving License",
+      "Electricity Bill",
+      "Bank Passbook Copy",
+      "Residential Certificate (issued by a competent authority)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any unskilled worker residing in an urban area of Jharkhand since before April 1, 2015, and aged 18 years or above can apply."
+    },
+    {
+      "question": "How many days of employment does the scheme guarantee?",
+      "answer": "The scheme provides a maximum of 100 days of guaranteed wage employment per financial year."
+    },
+    {
+      "question": "How will I receive work allocation details?",
+      "answer": "Work allocation details will be sent via SMS to the registered mobile number and will also be available on the scheme’s portal."
+    },
+    {
+      "question": "What types of jobs are provided under this scheme?",
+      "answer": "Jobs related to urban development projects such as sanitation, road construction, and housing projects are offered."
+    },
+    {
+      "question": "How will I receive my wages?",
+      "answer": "Wages will be transferred directly to the bank account linked to the job card."
+    },
+    {
+      "question": "What happens if I do not get work within 15 days of application?",
+      "answer": "If employment is not provided within 15 working days, applicants may raise a grievance through the portal or at the urban local body office."
+    },
+    {
+      "question": "Is there any fee for applying?",
+      "answer": "No, the application process is free of cost."
+    },
+    {
+      "question": "Can I apply if I am already employed in another job?",
+      "answer": "No, this scheme is only for unskilled workers who are unemployed and seeking temporary employment."
+    },
+    {
+      "question": "Where can I apply for the Mukhyamantri Shramik Yojana?",
+      "answer": "Applicant can apply online through msy.jharkhand.gov.in or offline through the community resource persons or NULM Cell in your urban local body."
+    },
+    {
+      "question": "Can more than one person from a family apply?",
+      "answer": "Yes, all adult members (18 years and above) of a family can apply separately."
+    },
+    {
+      "question": "Is there any provision for senior citizens and disabled persons?",
+      "answer": "Yes, special provisions will be introduced later for disabled individuals, women in special circumstances, and senior citizens above 65 years."
+    },
+    {
+      "question": "What if I lose my job card?",
+      "answer": "In case of loss, a duplicate job card can be issued by applying at the urban local body office with proper documentation."
+    }
+  ]
+}

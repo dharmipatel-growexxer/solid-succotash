@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Pradhan Mantri Matsya Sampada Yojana: Accident Insurance Scheme - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ais",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pradhan Mantri Matsya Sampada Yojana: Accident Insurance Scheme - Uttarakhand",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Accident Insurance Scheme\", a sub-component of the Pradhan Mantri Matsya Sampada Yojana, is implemented by the Department of Fisheries, Government of Uttarakhand. The scheme aims to provide financial security to fish farmers in the event of accidental death, permanent disability, or hospitalization."
+    ],
+    "benefits": [
+      "Under this scheme, an annual insurance coverage is provided as follows:",
+      "₹5,00,000/- in case of accidental death or total permanent disability.",
+      "₹2,50,000/- for partial disability (such as loss of limbs, fingers, or partial loss of vision/hearing/speech, etc.).",
+      "₹50,000/- for hospitalization expenses due to accidents.",
+      "The fish farmer is not required to pay any insurance premium. The entire premium amount is borne by the Department."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must be engaged in fish production or fishing as a profession.",
+      "The applicant may belong to any caste category, including General, Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), or be a woman.",
+      "The applicant’s age must be between 18 and 70 years at the time of enrollment."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail of the benefits under the scheme, eligible beneficiaries can obtain the insurance application form through the field personnel of the Fisheries Department.",
+        "The duly filled application form must be submitted along with the fisherman’s Aadhaar card, bank account details, birth certificate, permanent residence certificate, nominee details, and Aadhaar card. The insurance premium is paid by the department. After the fisherman is insured, the department will issue the relevant insurance certificate.",
+        "In the event of an accident, death, or hospitalization, the beneficiary’s family must immediately inform the field personnel/officers of the Fisheries Department in the concerned area.",
+        "In case of an accident, the claim form along with the necessary documents, such as a medical certificate, death certificate, hospitalization certificate, and insurance certificate, must be submitted. The claim amount will then be disbursed accordingly."
+      ]
+    },
+    "documents_required": [
+      "Application Document",
+      "Aadhaar Card of the fisherman",
+      "Bank Account Details",
+      "Proof of age",
+      "Permanent Residence Certificate",
+      "Nominee Details (Name, Relationship, Aadhaar Card)",
+      "Claim Document",
+      "Insurance Certificate (issued after enrollment)",
+      "Recent Passport Size Photograph",
+      "Claim Form (in case of accident, hospitalization, or death)",
+      "Medical Certificate (in case of partial disability/hospitalization)",
+      "Death Certificate (in case of fatal accident)",
+      "Hospital Admission/Discharge Certificate (in case of hospitalization)"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 249)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this insurance scheme?",
+      "answer": "Fish farmers/fishermen aged 18–70 years from Uttarakhand."
+    },
+    {
+      "question": "Is the scheme limited to a specific caste or group?",
+      "answer": "No, it is open to all caste groups including SC, ST, OBC, and General."
+    },
+    {
+      "question": "Is there any fee for enrollment?",
+      "answer": "No, the entire insurance premium is paid by the government."
+    },
+    {
+      "question": "Can women fish farmers apply?",
+      "answer": "Yes, the scheme is open to women beneficiaries as well."
+    },
+    {
+      "question": "How is the claim amount disbursed?",
+      "answer": "Directly into the beneficiary’s or nominee’s bank account."
+    },
+    {
+      "question": "What if the insured person dies in an accident?",
+      "answer": "The nominee must submit a claim form and required documents."
+    },
+    {
+      "question": "How can a fisherman apply for the insurance scheme?",
+      "answer": "Eligible beneficiaries can obtain the insurance application form through the field personnel of the Fisheries Department and submit it along with the required documents."
+    },
+    {
+      "question": "What happens after the submission of the application form?",
+      "answer": "After verification, the Fisheries Department processes the insurance and issues an insurance certificate to the fisherman."
+    },
+    {
+      "question": "Who processes the claim after submission?",
+      "answer": "The Department of Fisheries, in coordination with the insurance agency, verifies the claim documents and facilitates the disbursement of the claim amount."
+    }
+  ]
+}

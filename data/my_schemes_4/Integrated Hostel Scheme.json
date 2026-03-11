@@ -1,0 +1,105 @@
+{
+  "scheme_name": "Integrated Hostel Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ihs",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Integrated Hostel Scheme",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "\"Integrated Hostel Scheme\" by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh, provides free residential facilities, meals, and basic amenities to SC/ST/OBC students studying in classes 1st to 12th and also to the students pursuing college education."
+    ],
+    "benefits": [
+      "The hostel provides free residential facilities, including accommodation, electricity, water, meals, furniture, bedding, library, coaching, and basic amenities."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Madhya Pradesh.",
+      "The applicant should belong to the Other Backward Castes, Scheduled Castes, Scheduled Tribes category.",
+      "The applicant should be studying in a government school in Madhya Pradesh.",
+      "The applicant should be studying in class 1 to 12 or college-level classes.",
+      "The applicant should reside in a remote rural area (priority given).",
+      "The applicant's school should be within a maximum distance of 3 km for girls or 8 km for boys.",
+      "The applicant should not have any income restrictions."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System",
+        "MPTAAS portal.",
+        "Step 2:",
+        "Click on \"New Beneficiary Profile",
+        ".\"",
+        "Step 3:",
+        "Fill in all the required details. Fields marked with * are mandatory. Complete the form by entering all necessary information.",
+        "Step 4:",
+        "Upload all required documents, such as ID proof and other relevant certificates.",
+        "Step 5:",
+        "After completing the form and uploading the documents, click \"Submit\".",
+        "Step 6:",
+        "After successful payment and submission, you will receive a registration number.",
+        "Application",
+        "Enter your user ID, password, and captcha code, then click \"Login.\"",
+        "Choose the scheme you wish to apply for to avail the benefits.",
+        "Enter all required information and upload the necessary documents as prompted.",
+        "Finally, click on \"Submit Application\" to complete the process."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste certificate",
+      "Previous class passing certificate/marksheet",
+      "Samagra ID",
+      "Bank account details/Bank Passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Integrated Hostel Scheme?",
+      "answer": "It is a scheme that provides free residential facilities and basic amenities to SC/ST/OBC students for education from class 1 to 12 and college levels in Madhya Pradesh."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Students from Scheduled Caste, Scheduled Tribe, or Other Backward Class categories who are natives of Madhya Pradesh and studying in government schools or colleges."
+    },
+    {
+      "question": "What facilities are provided in the hostel?",
+      "answer": "Facilities include accommodation, electricity, water, meals, furniture, bedding, library access, coaching, and other basic amenities."
+    },
+    {
+      "question": "Is there an income restriction for admission?",
+      "answer": "No, there is no income restriction for admission to the hostel."
+    },
+    {
+      "question": "What is the distance criterion for admission?",
+      "answer": "Girls’ schools should be within 3 km, and boys’ schools within 8 km of the hostel."
+    },
+    {
+      "question": "Are students from rural areas given preference?",
+      "answer": "Yes, students from remote rural areas are given priority for admission."
+    },
+    {
+      "question": "Does the scheme cover college students?",
+      "answer": "Yes, the scheme is available for college students along with school students."
+    },
+    {
+      "question": "Can students studying in private schools apply?",
+      "answer": "No, only students studying in government schools or colleges are eligible."
+    },
+    {
+      "question": "What is the age limit for hostel admission?",
+      "answer": "There is no specific age limit mentioned, but students must be studying in class 1 to 12 or in college-level courses."
+    },
+    {
+      "question": "How can students apply for the hostel facilities?",
+      "answer": "Students can apply through the Tribal Welfare and Scheduled Caste Department of Madhya Pradesh or their respective school/college."
+    }
+  ]
+}

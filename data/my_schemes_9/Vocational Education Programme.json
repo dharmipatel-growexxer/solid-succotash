@@ -1,0 +1,64 @@
+{
+  "scheme_name": "Vocational Education Programme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/vep",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Vocational Education Programme",
+  "scraped_at": "2026-03-10 09:09:17 UTC",
+  "sections": {
+    "details": [
+      "The “Vocational Education Programme” is a scheme under the Samagra Shiksha Programme, implemented by the Secondary Education Department, Government of Uttarakhand. The scheme aims to impart vocational education alongside academic learning to students of classes 9 to 12 in selected government secondary schools."
+    ],
+    "benefits": [
+      "Under the programme, 08 sectors approved by the Government of India are being implemented under NSQF to provide vocational education alongside academic education for students of classes 9 to 12 in selected schools, where they receive both vocational education and training."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be studying in classes 9 to 12 in one of the 200 selected government secondary schools of Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "All students studying in classes 9 to 12 in government secondary schools where vocational education is conducted can take admission in the sectors operated under this programme.",
+        "If a student from another school wishes to study the vocational education curriculum, they must take admission in a school where the vocational education curriculum is being conducted.",
+        "Students already studying in such schools can choose vocational education as one of their subjects like other subjects. For this, no separate application is required.",
+        "There is also no need to submit any documents for the selection of vocational education subject."
+      ]
+    },
+    "documents_required": [
+      "No documents are required for selecting vocational education as a subject."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 82)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Which classes are covered under this programme?",
+      "answer": "Students studying in classes 9 to 12 are covered under this programme."
+    },
+    {
+      "question": "Who is eligible for vocational education under this scheme?",
+      "answer": "All students studying in classes 9 to 12 in selected government secondary schools of Uttarakhand are eligible."
+    },
+    {
+      "question": "What are the sectors offered under the programme?",
+      "answer": "There are 08 sectors approved by the Government of India under NSQF where students receive vocational education and training."
+    },
+    {
+      "question": "How many schools are selected under this scheme?",
+      "answer": "The programme is being implemented in 200 selected government secondary schools across Uttarakhand."
+    },
+    {
+      "question": "Can students from other schools apply for vocational courses?",
+      "answer": "Yes. However, they must take admission in a government secondary school where vocational education courses are offered."
+    },
+    {
+      "question": "Is there a separate application process for vocational education?",
+      "answer": "No. Students can choose vocational education as a subject like any other subject. No separate application is required."
+    },
+    {
+      "question": "Are any documents required for opting for vocational education?",
+      "answer": "No. Students do not need to submit any additional documents to select vocational education as a subject."
+    }
+  ]
+}

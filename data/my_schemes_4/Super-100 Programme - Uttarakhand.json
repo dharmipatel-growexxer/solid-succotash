@@ -1,0 +1,60 @@
+{
+  "scheme_name": "Super-100 Programme - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/s100puk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Super-100 Programme - Uttarakhand",
+  "scraped_at": "2026-03-10 09:21:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Super-100 Programme” is implemented under the Samagra Shiksha Programme by the Secondary Education Department, Government of Uttarakhand. The scheme aims to identify and support the brightest Class 12 Science stream students by providing them with high-quality coaching and guidance for engineering and medical entrance examinations. The programme is a unique state-level initiative approved by the Government of India."
+    ],
+    "benefits": [
+      "Under this programme, 100 Science students were prepared for engineering and medical entrance examinations in 2023–24. Faculty members were selected from reputed coaching institutes based on their interviews and experience."
+    ],
+    "eligibility": [
+      "The applicant must be a Class 12 Science stream student studying in Uttarakhand.",
+      "One top-performing student from each block, along with the highest-scoring students from the SC, ST, and OBC categories, will be considered eligible under this programme.",
+      "A total of 100 Class 12 Science stream students will be selected for the programme."
+    ],
+    "application_process": {
+      "offline": [
+        "From each block, Class 12 Science stream students were selected who had secured the first position in Class 10 within their respective development block."
+      ]
+    },
+    "documents_required": [
+      "Educational qualification certificate",
+      "Caste certificate (if applicable)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 56)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How many students are selected under the programme?",
+      "answer": "A total of 100 students of Class 12 Science stream are selected every academic session."
+    },
+    {
+      "question": "How are students selected for the Super-100 Programme?",
+      "answer": "Students are selected based on their academic performance. From each block, one Class 12 Science student is chosen who had secured the first position in Class 10 in their development block."
+    },
+    {
+      "question": "Are there reservations for SC, ST, and OBC students?",
+      "answer": "Yes, apart from one student per block, one student each scoring the highest marks from SC, ST, and OBC categories is also selected."
+    },
+    {
+      "question": "Which class students are eligible for this programme?",
+      "answer": "Only Class 12 Science stream students are eligible for selection."
+    },
+    {
+      "question": "What kind of coaching is provided under the programme?",
+      "answer": "High-level coaching is provided for engineering and medical entrance examination."
+    },
+    {
+      "question": "How are faculty members selected for this programme?",
+      "answer": "Faculty are selected from reputed and experienced coaching institutes through interviews and evaluation of their expertise."
+    }
+  ]
+}

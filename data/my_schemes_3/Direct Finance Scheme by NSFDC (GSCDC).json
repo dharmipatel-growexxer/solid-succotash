@@ -1,0 +1,99 @@
+{
+  "scheme_name": "Direct Finance Scheme by NSFDC (GSCDC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dfsbnsfdc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Direct Finance Scheme by NSFDC (GSCDC)",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The “Direct Finance Scheme by NSFDC (GSCDC)” scheme was launched by the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide concessional credit facilities to Scheduled Caste persons for self-employment opportunities. Under this scheme, loans are provided at subsidized rates of interest ranging from 1% to 5%, enabling beneficiaries to start their own income-generating ventures."
+    ],
+    "benefits": [
+      "Provide a loan for self-employment to a scheduled caste person at a low interest rate of just 1% to 5%."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must belong to the Scheduled Caste (SC) community.",
+      "The applicant must be unemployed.",
+      "The applicant’s annual family income should not exceed ₹3,00,000."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Visit the Gujarat Scheduled Caste Development Corporation, Gandhinagar",
+        "official website",
+        ".",
+        "Click on the \"New user (Register)\".",
+        "Fill the registration form: Email ID, Mobile Number, Password for login, Confirm Password.",
+        "Click on the \"Submit.",
+        "After successful registration, User ID and Password will be generated.",
+        "Login and Application Process:",
+        "Enter User Name, Password, and Captcha Code.",
+        "After login, schemes applicable to your caste will be displayed.",
+        "Click on the scheme you want to apply for.",
+        "Fill out the \"Application Form\" and upload the required documents",
+        "Click Save Application. The system will generate an Application Number.",
+        "Click Print Application."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Business Address Proof",
+      "Certificate of Income in prescribed format as per Annexure-ll of the Resolution",
+      "Income Certificate",
+      "Passport-size Photos",
+      "School Leaving",
+      "Bank Pass Book/Cancelled Cheque",
+      "Caste Certificate",
+      "Copy of License",
+      "Notarized Bahedhari Patrak",
+      "Ration Card"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Scheduled Caste persons with family income up to ₹3,00,000."
+    },
+    {
+      "question": "What is the rate of interest on loans under this scheme?",
+      "answer": "Loans are available at concessional rates between 1% to 5%."
+    },
+    {
+      "question": "What is the purpose of the loan?",
+      "answer": "The purpose for self-employment and business ventures."
+    },
+    {
+      "question": "Can salaried individuals apply for this scheme?",
+      "answer": "No, only unemployed SC persons seeking self-employment are eligible."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Aadhaar card, caste certificate, income certificate, bank details, and business-related documents."
+    },
+    {
+      "question": "Where can I apply for this scheme?",
+      "answer": "The apply online at https://gscdconline.gujarat.gov.in/."
+    },
+    {
+      "question": "Is there an offline application process?",
+      "answer": "No, applications are accepted only online."
+    },
+    {
+      "question": "Is there any fee to apply?",
+      "answer": "No, the application form and services are completely free."
+    },
+    {
+      "question": "What is Bahedhari Patrak?",
+      "answer": "A notarized surety document is required for loan sanction."
+    },
+    {
+      "question": "Where can I get more information?",
+      "answer": "More details are available on https://sje.gujarat.gov.in/ddcw and the https://gscdconline.gujarat.gov.in/."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "scheme_name": "Mukhyamantri Nijee Nalkup Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mnny",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Nijee Nalkup Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Mukhyamantri Nijee Nalkup Yojana” launched by the Minor Water Resources Department, Bihar, aims to provide financial support to farmers for borewell construction and motor pump installation to ensure water availability for irrigation purposes. It focuses on helping farmers in underprivileged regions with limited irrigation infrastructure."
+    ],
+    "benefits": [
+      "Subsidy for Borewell Construction:",
+      "Category",
+      "Subsidy Amount (Per Meter)",
+      "Depth Allowed",
+      "General",
+      "₹600/-",
+      "15-70 meters",
+      "Backward/Most Backward Classes",
+      "₹840/-",
+      "Scheduled Caste/Tribe Category",
+      "₹900/-",
+      "Subsidy for Motor Pump Installation:",
+      "The amount of subsidy will be payable to General Category, Backward/Extremely Backward Classes and Scheduled Caste/Tribe Classes at the rate of 50%, 70% and 80% respectively on the cost of 2HP, 3HP, 5HP motor pump at the rate of maximum ₹20000/-, ₹25000/- and ₹30,000/- respectively."
+    ],
+    "eligibility": [
+      "Farmers identified under the Saat Nischay-2 \"Irrigation Water to Every Field\" after a joint technical survey are eligible.",
+      "Farmers must own at least 0.40 acre (40 decimal) of land. Priority will be given to small and marginal farmers.",
+      "There should not be an existing borewell at the site.",
+      "No previous grants or financial assistance have been taken for borewell construction at the same site by the Farmer.",
+      "The grant is valid for one borewell and one motor pump set per farmer.",
+      "Borewell must be dug to a depth of 15-70 meters and with 4-6 inch diameter to qualify for the grant."
+    ],
+    "application_process": {
+      "online": [
+        "Application Process:",
+        "Step 1:",
+        "Visit the",
+        "application page",
+        ".",
+        "Step 2:",
+        "After entering your personal information, verify your mobile number and Aadhaar number.",
+        "Step 3:",
+        "Upload relevant documents (in JPEG/PNG format).",
+        "Step 4:",
+        "Read the declaration given below carefully and tick the points.",
+        "Step 5:",
+        "Once the application is submitted, no changes will be made.",
+        "Claim Process:",
+        "After approval, it will be mandatory for the farmer to dig a borewell at the applied site within 60 days and upload the subsidy claim on the",
+        "portal",
+        "Notes:",
+        "Beneficiary farmers can claim for boring and motor pumps as per their convenience on different dates or on a single date within the prescribed period.",
+        "Before digging the boring, during digging and after digging the boring, the farmer will have to take photographs of the site where water is flowing, which will be mandatory to upload on the portal at the time of submitting the claim.",
+        "Photos of the installation of the motor pump and of the water flow after the installation of the pump must be uploaded on the portal.",
+        "Only after physical verification and depth measurement with the representatives of the department, the work of installation of the motor pump will be done by the farmer and the photo will be uploaded on the portal.",
+        "All the materials used in the tube-well should be manufactured in the country and their quality should be as per Indian standards."
+      ]
+    },
+    "documents_required": [
+      "For Application:",
+      "Aadhaar Card",
+      "Land Holding Certificate (LPC) which is not earlier than 01/01/2023.",
+      "Caste certificate issued by the competent authority.",
+      "Photograph (of self and the marked location).",
+      "Declaration Form",
+      ".",
+      "For Claim:",
+      "GST voucher of the motor pump.",
+      "GST Voucher of Pipe."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Declaration Form",
+      "Physical Verification Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the “Mukhyamantri Nijee Nalkoop Yojana”?",
+      "answer": "The scheme provides financial assistance to support farmers in ensuring water availability through borewell construction and motor pump installation."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Farmers identified under the Saat Nischay-2 \"Irrigation Water to Every Field\" scheme, after a joint technical survey, are eligible."
+    },
+    {
+      "question": "Are applications from over-exploited or critical blocks considered?",
+      "answer": "No, applications from over-exploited or critical blocks/panchayats identified by the Central Ground Water Board will not be considered."
+    },
+    {
+      "question": "What is the minimum landholding required to apply for the grant?",
+      "answer": "Farmers must own at least 0.40 acre (40 decimal) of land to be eligible for the scheme."
+    },
+    {
+      "question": "Do small and marginal farmers get any priority under the scheme?",
+      "answer": "Yes, priority will be given to small and marginal farmers."
+    },
+    {
+      "question": "Is there any condition regarding an existing borewell at the proposed site?",
+      "answer": "Yes, the farmer must declare that there is no existing borewell at the proposed site."
+    },
+    {
+      "question": "Can farmers apply if they have previously received grants for boring?",
+      "answer": "No, farmers who have already received grants or financial assistance from the Agriculture Department or other institutions for boring at the same site are not eligible."
+    },
+    {
+      "question": "How many borewells and motor pumps are allowed per farmer under this scheme?",
+      "answer": "The grant is valid for only 1 borewell and 1 motor pump set per farmer."
+    },
+    {
+      "question": "What is the minimum depth required for the borewell to qualify for the grant?",
+      "answer": "The borewell must be constructed to a minimum depth of 15 meters to qualify for the grant."
+    },
+    {
+      "question": "Can farmers from critical areas apply for the scheme?",
+      "answer": "No, farmers from sites located in critical or over-exploited blocks identified by the Central Ground Water Board are not eligible."
+    },
+    {
+      "question": "Is the grant applicable for both boring and motor pump installation?",
+      "answer": "Yes, the grant covers both the boring process and the installation of a motor pump set."
+    }
+  ]
+}

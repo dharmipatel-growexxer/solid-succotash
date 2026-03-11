@@ -1,0 +1,76 @@
+{
+  "scheme_name": "Supply of Fodder Minikit",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sofmg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Supply of Fodder Minikit",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Supply of Fodder Minikit\" scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. Under this scheme, improved variety of fodder seeds are provided to beneficiaries for wide spread publicity, demonstration and adaptation by farmers."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Minimum Time Limit(In Year) for Reclaiming Benefits",
+      "Supply of Fodder Minikit under General People, Schedule Caste People and Schedule Tribe People.",
+      "Free",
+      "1 Year"
+    ],
+    "eligibility": [
+      "All farmers belonging to the General, Scheduled Caste (SC), and Scheduled Tribe (ST) categories are eligible.",
+      "The applicant must own agricultural land."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The beneficiary must visit the nearest Veterinary Dispensary, First Aid Veterinary Centre, or Intensive Cattle Development Programme Office.",
+        "Step 2:",
+        "Obtain and submit the physical application form along with the required documents.",
+        "Step 3:",
+        "The concerned authority will verify eligibility and distribute the fodder minikits accordingly."
+      ]
+    },
+    "documents_required": [
+      "7/12 and 8-a Certificate",
+      "Scheduled Caste and Scheduled Tribe cast Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Supply of Fodder Minikit\" scheme?",
+      "answer": "This scheme provides free fodder minikits to eligible beneficiaries, including General category, Scheduled Caste (SC), and Scheduled Tribe (ST) farmers."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Farmers belonging to the General, Scheduled Caste (SC), and Scheduled Tribe (ST) categories who own agricultural land are eligible to apply."
+    },
+    {
+      "question": "Is there any cost associated with receiving the fodder minikit under this scheme?",
+      "answer": "No, the fodder minikits are provided free of cost to eligible beneficiaries."
+    },
+    {
+      "question": "Can a farmer reapply for the scheme if they have already received a minikit?",
+      "answer": "Yes, a farmer can reapply, but only after a period of one year from the last benefit received."
+    },
+    {
+      "question": "What type of fodder seeds are provided through this scheme?",
+      "answer": "The scheme provides improved varieties of fodder seeds that promote better livestock nutrition and higher yields."
+    },
+    {
+      "question": "Where should an applicant submit the application for this scheme?",
+      "answer": "The applicant must visit the nearest Veterinary Dispensary, First Aid Veterinary Centre, or Intensive Cattle Development Programme Office to apply."
+    },
+    {
+      "question": "What documents must an applicant provide when applying for the scheme?",
+      "answer": "The applicant must submit land ownership proof (7/12 and 8-A Certificate) and a caste certificate if applying under the SC or ST category."
+    },
+    {
+      "question": "Where can an applicant find more information regarding the scheme?",
+      "answer": "Applicants can visit the Veterinary dispensary or First Aid Veterinary Centre and Intensive Cattle Development Programme office for more details."
+    }
+  ]
+}

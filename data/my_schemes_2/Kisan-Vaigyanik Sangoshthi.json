@@ -1,0 +1,53 @@
+{
+  "scheme_name": "Kisan-Vaigyanik Sangoshthi",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/f-ss",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Kisan-Vaigyanik Sangoshthi",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Kisan-Vaigyanik Sangoshthi” is implemented by the Uttarakhand Council for Biotechnology under the Department of Agriculture, Government of Uttarakhand. The scheme aims to guide farmers and youth in biotechnology-based farming and animal husbandry by providing technical training and solutions to enhance self-employment and income generation."
+    ],
+    "benefits": [
+      "Through Kisan-Vaigyanik Sangoshthi, the Council provides technical guidance from subject matter experts to the state’s farmers, helping to address challenges in biotechnology-based agriculture and animal husbandry. The Council also continuously works to improve farmers’ livelihoods and promote self-employment by sharing technical knowledge on hydroponics, soilless farming, kiwifruit cultivation, fish farming, beekeeping, vegetable production, and floriculture."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a youth, a farmer, a member of a self-help group, or a livestock farmer."
+    ],
+    "application_process": {
+      "online": [
+        "Such seminars are organized by the Council from time to time. For participation, farmers, youth, and students associated with agriculture from different areas are informed through brochures, leaflets, and other social media channels. Interested candidates are then registered, after which the training or seminar is conducted."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the guidelines of the Uttarakhand Council for Biotechnology for participation in the seminars."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 125)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can participate in the scheme?",
+      "answer": "Participation is open to youth, farmers, members of self-help groups, and livestock farmers from Uttarakhand."
+    },
+    {
+      "question": "How are participants informed about the seminars?",
+      "answer": "Participants are informed through brochures, leaflets, and social media channels."
+    },
+    {
+      "question": "How are participants registered?",
+      "answer": "Interested candidates are registered after receiving information about the seminars, either online or through designated registration centers."
+    },
+    {
+      "question": "What topics are covered in the seminars?",
+      "answer": "Seminars cover hydroponics, soilless farming, kiwifruit cultivation, fish farming, beekeeping, vegetable production, floriculture, and other biotechnology-based agriculture and animal husbandry techniques."
+    },
+    {
+      "question": "Can students participate in these seminars?",
+      "answer": "Yes, students associated with agriculture or biotechnology can also participate in the seminars."
+    }
+  ]
+}

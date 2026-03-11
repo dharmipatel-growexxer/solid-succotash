@@ -1,0 +1,140 @@
+{
+  "scheme_name": "Pradhan Mantri Matsya Sampada Yojana - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmmsyuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pradhan Mantri Matsya Sampada Yojana - Uttarakhand",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Pradhan Mantri Matsya Sampada Yojana” is a centrally sponsored scheme implemented by the Department of Fisheries, Government of Uttarakhand. The scheme aims to promote the growth of the fisheries sector by providing financial assistance and technical support for modern fisheries activities, thereby increasing fish production, improving livelihood opportunities, and encouraging the adoption of advanced fisheries infrastructure among eligible beneficiaries."
+    ],
+    "benefits": [
+      "A 60% subsidy is provided to SC/ST and Women beneficiaries for pond construction, trout units, rearing units, RAS, biofloc units, cage culture, cold storage, motorcycles with ice boxes, fish kiosks, ornamental fisheries, feed mills, hatcheries, and similar activities. A 40% subsidy is provided for all other categories, and a 20% subsidy is provided specifically for large RAS units.",
+      "Table-1:",
+      "Activity/Item",
+      "Unit Cost per Hectare",
+      "Grant (General Category)",
+      "Grant (Women/SC/ST)",
+      "Maximum Limit/Grant Limit",
+      "Construction and investment of new ponds",
+      "₹11 lakh (per hectare)",
+      "₹4,40,000/-",
+      "₹6,60,000/-",
+      "Maximum 2 hectares individual & 20 hectares society/group etc.",
+      "Trout Raceways and Investment (Nos.) 50 sq.m. per unit",
+      "₹5,50,000/-",
+      "₹2,20,000/-",
+      "₹3,30,000/-",
+      "Maximum 4 units individual & 20 units society/group etc.",
+      "Large RAS (8 tanks)/Large Biofloc Unit (50 tanks)",
+      "₹50,00,000/-",
+      "₹10,00,000/-",
+      "₹12,50,000/-",
+      "Maximum 1 Unit",
+      "Medium RAS (6 tanks)/Medium Biofloc Unit (25 tanks)",
+      "₹25,00,000/-",
+      "₹15,00,000/-",
+      "Small RAS (1 tank) / Small Biofloc Unit (7 tanks)",
+      "₹7,50,000/-",
+      "₹3,00,000/-",
+      "₹4,50,000/-",
+      "Establishment of Trout Fish Hatcheries",
+      "₹20,00,000/-",
+      "₹30,00,000/-",
+      "Cold Water RAS Unit",
+      "₹8,00,000/-",
+      "₹12,00,000/-",
+      "Fish Kiosk",
+      "₹4,00,000/-",
+      "₹6,00,000/-",
+      "Table-2:",
+      "Unit Cost",
+      "Motor cycle with Ice Box",
+      "₹75,000/-",
+      "₹30,000/-",
+      "₹45,000/-",
+      "Three wheeler with Ice Box",
+      "₹1,20,000/-",
+      "₹1,80,000/-",
+      "Refrigerated/Insulated Vehicles",
+      "Cold Storage Capacity 10 Tons",
+      "₹40,00,000/-",
+      "₹16,00,000/-",
+      "₹24,00,000/-",
+      "Establishment of Cage",
+      "₹3,000/- per cubic meter",
+      "₹1,200/-",
+      "₹1,800/-",
+      "Maximum 1800 cubic meters for individual & 7200 cubic meters for society/group etc.",
+      "Backyard Ornamental Unit",
+      "Maximum 4 units for individual and 20 units for society/group etc.",
+      "Feed Mill Capacity 2 Tons Per Day Production",
+      "₹18,00,000/-"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant may belong to any caste category, including General, Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), or be a woman.",
+      "The applicant must have availability of land and a water supply source."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail the benefits of the scheme, the applicant must submit an application to the office of the Assistant Director of Fisheries/District Fisheries In-charge at the district level. The application should be submitted along with the following documents: Aadhaar card, land records, permanent residence certificate, caste certificate, bank account details, and mobile number.",
+        "In the future, the application process will be made available online through the",
+        "Apuni Sarkar Portal",
+        ".",
+        "After the application is submitted, a survey is conducted by the Fisheries Inspector/field personnel, and a proposal is prepared in consultation with the beneficiary. Once the proposal is finalized, the concerned district officer approves the work. Field personnel then supervise the implementation and provide technical assistance to ensure timely completion. Subsequently, the subsidy is transferred directly to the beneficiary’s bank account through DBT."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Land records",
+      "Permanent residence certificate",
+      "Caste certificate",
+      "Bank account details",
+      "Mobile number",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 248)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply under scheme?",
+      "answer": "General, SC, ST, OBC, Women, and other eligible individuals who have access to land and a water supply source can apply."
+    },
+    {
+      "question": "What types of fisheries activities are supported under this scheme?",
+      "answer": "The scheme supports pond construction, trout sewage units, rearing units, RAS, biofloc units, cage culture, cold storage, motorcycles with ice boxes, fish kiosks, ornamental fisheries, feed mills, hatcheries, and more."
+    },
+    {
+      "question": "What is the subsidy amount provided to SC/ST/Women beneficiaries?",
+      "answer": "SC/ST/Women beneficiaries receive 60% subsidy on the approved project cost."
+    },
+    {
+      "question": "What subsidy is available for General category beneficiaries?",
+      "answer": "General category beneficiaries receive 40% subsidy on the project cost."
+    },
+    {
+      "question": "Is there a separate subsidy rate for large RAS units?",
+      "answer": "Yes, large Recirculatory Aquaculture System (RAS) units receive a 20% subsidy."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "The application must be submitted to the office of the Assistant Director of Fisheries or District Fisheries In-charge at the district level."
+    },
+    {
+      "question": "Will the application process be available online?",
+      "answer": "Yes. In the future, applications will be processed online through the Apuni Sarkar Portal."
+    },
+    {
+      "question": "Who approves the final proposal?",
+      "answer": "The relevant district officer reviews and approves the proposal."
+    },
+    {
+      "question": "How is the subsidy provided to the beneficiary?",
+      "answer": "After verification, the subsidy is transferred directly to the beneficiary’s bank account through Direct Benefit Transfer (DBT)."
+    }
+  ]
+}

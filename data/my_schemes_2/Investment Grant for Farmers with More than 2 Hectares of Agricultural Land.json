@@ -1,0 +1,78 @@
+{
+  "scheme_name": "Investment Grant for Farmers with More than 2 Hectares of Agricultural Land",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/igfhaluk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Investment Grant for Farmers with More than 2 Hectares of Agricultural Land",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Investment Grant for Farmers with More than 2 Hectares of Agricultural Land” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to farmers owning more than 2 hectares of agricultural land who suffer crop losses due to natural disasters."
+    ],
+    "benefits": [
+      "Under this scheme:",
+      "₹8,500/- per hectare for unirrigated areas.",
+      "₹17,000/- per hectare for areas with assured irrigation.",
+      "₹22,500/- per hectare for all types of evergreen crops.",
+      "In cases where crop damage exceeds 33%, assistance will be provided only up to a maximum limit of 2 hectares per farmer."
+    ],
+    "eligibility": [
+      "The applicant must be a resident farmer of Uttarakhand engaged in agricultural activities within the state.",
+      "The financial assistance will be applicable only for the area actually sown with crops."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+      ]
+    },
+    "documents_required": [
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 306)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to receive benefits under this scheme?",
+      "answer": "Farmers owning more than 2 hectares of agricultural land who have suffered crop damage due to a recognized natural disaster are eligible."
+    },
+    {
+      "question": "What type of financial assistance is provided under this scheme?",
+      "answer": "The scheme provides an investment grant per hectare based on the type of land and crop cultivated."
+    },
+    {
+      "question": "What is the rate of assistance for unirrigated areas?",
+      "answer": "For unirrigated areas, financial assistance of ₹8,500/- per hectare is provided."
+    },
+    {
+      "question": "What is the rate of assistance for areas with assured irrigation?",
+      "answer": "For areas with assured irrigation, financial assistance of ₹17,000/- per hectare is provided."
+    },
+    {
+      "question": "What is the rate of assistance for evergreen crops?",
+      "answer": "For evergreen crops, farmers receive ₹22,500/- per hectare as investment support."
+    },
+    {
+      "question": "Is there a maximum limit of land area for which assistance is payable?",
+      "answer": "Yes. Even if a farmer owns more than 2 hectares, assistance will be payable only up to a maximum of 2 hectares per farmer."
+    },
+    {
+      "question": "Is assistance given for all types of land or only sown areas?",
+      "answer": "Assistance is payable only for the sown area where the crop loss has occurred."
+    },
+    {
+      "question": "Who is responsible for verifying the crop damage?",
+      "answer": "The concerned Patwari verifies the crop damage in affected areas and records the details in the P-20 form."
+    },
+    {
+      "question": "What is the process after the Patwari’s verification?",
+      "answer": "After the Patwari verifies and records the damage, the report is verified by the Tehsildar and then by the Sub-Divisional Magistrate (SDM) for further approval."
+    },
+    {
+      "question": "Who gives the final approval for disbursing relief funds?",
+      "answer": "The District Magistrate (DM) provides the final approval for releasing relief funds to the eligible beneficiaries."
+    }
+  ]
+}

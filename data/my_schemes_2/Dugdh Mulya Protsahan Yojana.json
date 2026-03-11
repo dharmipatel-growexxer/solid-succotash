@@ -1,0 +1,56 @@
+{
+  "scheme_name": "Dugdh Mulya Protsahan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dmpy",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Dugdh Mulya Protsahan Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Dugdh Mulya Protsahan Yojana” was launched by the Department of Dairy Development, Government of Uttarakhand. The scheme aims to encourage milk production and ensure fair remuneration to cattle farmers by providing financial incentives based on the quality of milk supplied to cooperative societies."
+    ],
+    "benefits": [
+      "Under this scheme, in addition to paying the price of milk to cattle farmers who supply milk to milk cooperative societies, an incentive of ₹4.00 per litre or ₹3.00 per litre is also paid, as per the prescribed standards."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a member of a milk-producing cooperative society supplying milk to the society."
+    ],
+    "application_process": {
+      "offline": [
+        "Members who supply milk to the cooperative society are paid ₹3.00 per litre for the prescribed standard (7.50% to 7.99% fat-free solids) and ₹4.00 per litre for 8.00% or higher fat-free solids.",
+        "The incentive is credited to the milk society members through Direct Benefit Transfer (DBT) into their bank accounts. For this purpose, milk suppliers must provide their bank account details to the cooperative society."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Bank account details",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 241)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Cattle farmers who are members of milk-producing cooperative societies and supply milk to these societies are eligible for the incentives."
+    },
+    {
+      "question": "What is the incentive provided under this scheme?",
+      "answer": "Members supplying milk receive an additional incentive of ₹3.00 per litre for milk with 7.50% to 7.99% fat-free solids and ₹4.00 per litre for milk with 8.00% or higher fat-free solids."
+    },
+    {
+      "question": "How is the incentive paid to the farmers?",
+      "answer": "The incentive is directly transferred to the bank accounts of the milk suppliers through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Are there any quality standards for milk to be eligible for the incentive?",
+      "answer": "Yes. Milk with 7.50% to 7.99% fat-free solids qualifies for ₹3.00/litre, and milk with 8.00% or higher fat-free solids qualifies for ₹4.00/litre."
+    },
+    {
+      "question": "Can non-members of milk cooperative societies receive the incentive?",
+      "answer": "No."
+    }
+  ]
+}

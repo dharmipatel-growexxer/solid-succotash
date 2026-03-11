@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Male Pig Distribution Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mpds",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "Male Pig Distribution Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Male Pig Distribution Scheme\", implemented by the Animal Husbandry Department, Government of Chhattisgarh, provides financial assistance to beneficiaries from the Scheduled Caste (SC) and Scheduled Tribe (ST) categories for purchasing one male pig of an improved breed (Middle White Yorkshire).",
+      "The beneficiary can purchase one breeding male pig of Middle White Yorkshire breed, aged 6 months to 1 year, from a government pig rearing project or locally."
+    ],
+    "benefits": [
+      "90% of the unit cost (purchase price) or a maximum subsidy of ₹3,500/-, whichever is lower (for Scheduled Caste (SC) and Scheduled Tribe (ST) category)."
+    ],
+    "eligibility": [
+      "The applicant should belong to the Scheduled Caste / Scheduled Tribe category.",
+      "The applicant should be a resident of Chhattisgarh.",
+      "The beneficiary should purchase a male pig of the improved breed (Middle White Yorkshire).",
+      "The pig should be between the 6th months the 1st year of age.",
+      "The purchase should be made from a Government-rearing project or a local authorized source."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The eligible beneficiary should fill out the prescribed application form, including mandatory details like bank account information, and submit it to the Gram Panchayat for recommendation.",
+        "Step 2:",
+        "The recommended application should be sent to the Janpad Panchayat for approval and then forwarded to the District Panchayat (Agriculture Standing Committee) for final approval.",
+        "Step 3:",
+        "After approval, the District Officer should direct the selected beneficiary to purchase the breeding male pig from a government pig rearing center or locally.",
+        "Step 4:",
+        "The purchase should be physically verified by the Sarpanch, Urban Councillor, local Veterinary Assistant Surgeon, and Assistant Veterinary Field Officer. The verified bill and Panchayat fee receipt (if applicable) should be submitted to the District Officer.",
+        "Step 5:",
+        "Upon successful verification, the District Officer should transfer the prescribed grant amount to the beneficiary’s bank account and notify the beneficiary."
+      ]
+    },
+    "documents_required": [
+      "ID proof",
+      "Bank Account Details.",
+      "Caste Certificate",
+      "Any Other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Male Pig Distribution Scheme?",
+      "answer": "The scheme provides financial assistance to SC/ST beneficiaries in Chhattisgarh for purchasing a male pig of an improved breed (Middle White Yorkshire)."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "The applicant should belong to the Scheduled Caste (SC) or Scheduled Tribe (ST) category and be a resident of Chhattisgarh."
+    },
+    {
+      "question": "What financial assistance is provided under the scheme?",
+      "answer": "Beneficiaries receive a subsidy of 90% of the unit cost or a maximum of ₹3,500, whichever is lower."
+    },
+    {
+      "question": "What type of pig can be purchased under the scheme?",
+      "answer": "The beneficiary can purchase a breeding male pig of the Middle White Yorkshire breed, aged between 6 months and 1 year."
+    },
+    {
+      "question": "Where can the pig be purchased from?",
+      "answer": "The pig should be purchased from a government pig rearing project or a locally authorized source."
+    },
+    {
+      "question": "What is the age requirement for the pig to be purchased?",
+      "answer": "The pig should be between 6 months to 1 year old at the time of purchase."
+    },
+    {
+      "question": "How is the application approved?",
+      "answer": "After recommendation by the Gram Panchayat, the application is sent to the Janpad Panchayat and then to the District Panchayat (Agriculture Standing Committee) for final approval."
+    },
+    {
+      "question": "How will the beneficiary receive the subsidy?",
+      "answer": "After verification, the subsidy amount will be directly transferred to the beneficiary’s bank account through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Who verifies the purchase of the pig?",
+      "answer": "The purchase is verified by the Sarpanch, Urban Councillor, local Veterinary Assistant Surgeon, and Assistant Veterinary Field Officer."
+    },
+    {
+      "question": "Is there a deadline to apply for the scheme?",
+      "answer": "There may be specific timelines for applications, depending on government notifications. It is best to check with the Animal Husbandry Department for the latest updates."
+    }
+  ]
+}

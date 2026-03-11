@@ -1,0 +1,110 @@
+{
+  "scheme_name": "Incentive Scheme for Sericulture Reelers",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/isfsr",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Incentive Scheme for Sericulture Reelers",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The \"Incentive Scheme for Sericulture Reelers\" was launched by the Minorities Welfare Department, Government of Karnataka, and is implemented by the Karnataka Minorities Development Corporation. The scheme aims to improve the financial condition of minority communities involved in silk reeling and spinning by providing financial assistance through loans and subsidies. This support is intended to enhance working capital, improve basic infrastructure, and promote better productivity and economic stability."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Silk reeling/spinning workers can receive a loan of up to ₹2,00,000/-, with 50% of the loan amount being provided as a subsidy."
+    ],
+    "eligibility": [
+      "The applicant should belong to the religious minority category of the state.",
+      "The applicant should be a permanent resident of the state.",
+      "The applicant's age should be between 18 to 55 years.",
+      "The family income from all sources should not exceed more than ₹6,00,000/-",
+      "No member of the applicant's family should be a State/Central Government employee.",
+      "The applicant or his family members should not have availed of any loan/subsidy facility from the Corporation in the last 5 years except the Arivu education loan and Foreign Education Loan Scheme.",
+      "The applicant should not be a sustainer of the corporation."
+    ],
+    "application_process": {
+      "online": [
+        "Step-01:",
+        "Applicant need to visits the Karnataka Minorities Development Corporation",
+        "official website",
+        ".",
+        "Step-02:",
+        "Click",
+        "\"Apply Online\"",
+        "and Enter \"Mobile Number\" and \"Submit\".",
+        "Step-03:",
+        "Enter \"Aadhaar Number\" Fill in the \"Captcha\" and Select \"Next\".",
+        "Step-04:",
+        "Applicant will get OTP in his/her Aadhaar Linked Mobile Number.",
+        "Step-05:",
+        "Enter \"OTP\" and select \"Continue\", After that Allow the official notice.",
+        "Step-06:",
+        "After verifying the Aadhaar again fill in the \"OTP\" and Submit.",
+        "Step-07:",
+        "Select the scheme \"Sikhligar’s Community Development Scheme\" and fill in the basic details father's name, gender, qualification detail",
+        "Step-08:",
+        "Select \"Next\" Fill in the address detail and again select \"Next\".",
+        "Step-09:",
+        "Upload the required document passport-size photo, educational document, income certificate, etc.",
+        "Step-10:",
+        "Click \"Proceed\" and Select \"Submit Application\" and get an Application ID."
+      ]
+    },
+    "documents_required": [
+      "Photo of the Applicant.",
+      "Minority Certificate (issued by the competent authority).",
+      "Income Certificate (issued by the competent authority).",
+      "Copy of Aadhaar as Residential Proof.",
+      "Copy of Bank Passbook.",
+      "Project Report.",
+      "Applicants Self-Declaration."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Login & Apply",
+      "Track Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Financial Assistance Scheme for Silk Reeling/Spinning Workers?",
+      "answer": "It is a scheme to provide loans and subsidies to minority individuals involved in silk reeling and spinning."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Minority community members aged 18-55 who are permanent residents of Karnataka and involved in silk reeling/spinning."
+    },
+    {
+      "question": "What financial assistance does the scheme provide?",
+      "answer": "A loan of up to ₹2,00,000/- with 50% of this amount as a subsidy."
+    },
+    {
+      "question": "Can government employees apply for this scheme?",
+      "answer": "No, the applicant or their family members should not be State or Central Government employees."
+    },
+    {
+      "question": "Can I apply if I have availed of a KMDC loan in the past?",
+      "answer": "No, unless it was an Arivu Education Loan or Foreign Education Loan in the last 5 years."
+    },
+    {
+      "question": "Do I need to submit a project report?",
+      "answer": "Yes, a project report detailing the usage of the loan is required."
+    },
+    {
+      "question": "Is there an application fee?",
+      "answer": "Check with KMDC for information on any applicable fees."
+    },
+    {
+      "question": "Can I use the loan for purposes other than silk reeling/spinning?",
+      "answer": "No, the loan must be used specifically for silk reeling/spinning operations."
+    },
+    {
+      "question": "What happens if I fail to use the funds as intended?",
+      "answer": "Misuse of funds can result in penalties, including repayment of the subsidy."
+    },
+    {
+      "question": "Can I apply for this scheme if I am already a sustainer of KMDC?",
+      "answer": "No, applicants should not be sustainers of the corporation."
+    }
+  ]
+}

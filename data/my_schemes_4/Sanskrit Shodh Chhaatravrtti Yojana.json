@@ -1,0 +1,80 @@
+{
+  "scheme_name": "Sanskrit Shodh Chhaatravrtti Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/srss",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Sanskrit Shodh Chhaatravrtti Yojana",
+  "scraped_at": "2026-03-10 09:21:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Sanskrit Shodh Chhaatravrtti Yojana” is implemented by the Uttarakhand Sanskrit Academy, Haridwar, under the Department of Sanskrit Education, Government of Uttarakhand. The aim of the scheme is to encourage and support high-quality research in Sanskrit by providing financial assistance to meritorious Ph.D. students across state universities."
+    ],
+    "benefits": [
+      "A research scholarship of ₹40,000/- per year is awarded to 20 students registered for a Ph.D. in Sanskrit at universities across Uttarakhand.",
+      "The scholarship is provided for a period of three years at ₹40,000/- per year and must be renewed by submitting an application each year/semester."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a student registered for a Ph.D. in Sanskrit at any university in Uttarakhand.",
+      "The applicant must belong to the General, Scheduled Caste, Scheduled Tribe, and Economically Weaker Section.",
+      "A total of 20 research scholars are eligible for the scholarship, including 10 from the General category, 5 from Scheduled Castes and Scheduled Tribes, and 5 from Economically Weaker Section (EWS) certificate holders.",
+      "Selection will be based on the highest marks obtained in the NET examination."
+    ],
+    "application_process": {
+      "offline": [
+        "Applications for research scholarships are invited annually through advertisements published in daily newspapers and on the Academy's website.",
+        "Applicants must submit their applications along with all required documents, including Aadhaar card, NET examination mark sheet, academic certificates, Ph.D. registration certificate, and bank account details.",
+        "After evaluation by a selection committee, eligible research scholars are awarded annual scholarships to support their research in Sanskrit."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "NET Examination Marksheet",
+      "Academic Certificates",
+      "Ph.D. Registration Certificate",
+      "Bank Account Details",
+      "Caste Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 91)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How many students are selected annually?",
+      "answer": "A total of 20 Ph.D. students are selected every year."
+    },
+    {
+      "question": "What is the annual scholarship amount?",
+      "answer": "The financial assistance of ₹40,000/- per year."
+    },
+    {
+      "question": "Is the scholarship amount renewable each year?",
+      "answer": "Yes, students must reapply annually for renewal."
+    },
+    {
+      "question": "Who is eligible to apply for this scholarship?",
+      "answer": "Ph.D. students registered in Sanskrit subject in recognized universities in the state."
+    },
+    {
+      "question": "Is NET qualification mandatory?",
+      "answer": "Yes, NET score is used as the basis for selection."
+    },
+    {
+      "question": "What categories are covered under this scheme?",
+      "answer": "General, Scheduled Caste, Scheduled Tribe, and Economically Weaker Sections."
+    },
+    {
+      "question": "When are the applications invited?",
+      "answer": "Annually, usually through public advertisements."
+    },
+    {
+      "question": "What is the total duration of the scheme?",
+      "answer": "The scholarship is awarded for a total duration of 3 years."
+    },
+    {
+      "question": "Who verifies the application?",
+      "answer": "The selection committee shortlists eligible candidates based on NET exam scores and category-based reservations."
+    }
+  ]
+}

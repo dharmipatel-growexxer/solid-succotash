@@ -1,0 +1,96 @@
+{
+  "scheme_name": "Pradhan Mantri Kisan Samman Nidhi",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pm-kisan",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Pradhan Mantri Kisan Samman Nidhi",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "Objective",
+      "The scheme aims to supplement the financial needs of all landholding farmers’ families by procuring various inputs to ensure proper crop health and appropriate yields, commensurate with the anticipated farm income as well as for domestic needs. Under the scheme an amount of ₹ 6000/- per year is released by the Central Government online directly into the bank accounts of the eligible farmers under Direct Benefit Transfer mode, subject to certain exclusions."
+    ],
+    "benefits": [
+      "Financial benefit of",
+      "Rs. 6000 per annum per family",
+      "payable in three equal installments of",
+      "Rs 2000 each",
+      ", every four months."
+    ],
+    "eligibility": [
+      "All landholding farmers' families, which have cultivable land holding in their names are eligible to get benefit under the scheme."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Step 1: The following are the prerequisites for the enrollment process:",
+        "Aadhaar Card",
+        "Landholding paper",
+        "Savings bank account",
+        "Step 2: The VLE will fill in the complete details of farmer registration details like State, district, subdistrict block, and village, key in the Aadhaar number, Name of the beneficiary, category, Bank detail, Land Registration ID, and Date of birth as printed on Aadhaar card for authentication..",
+        "Step 3: The VLE will fill in the Land details like Survey/ Kahta No., Khasra no., and area of land as mentioned in land holding papers.",
+        "Step 4: Upload the supporting documents like Land, Aadhar, and Bank passbook.",
+        "Step 5: Self-declaration accept and save the application form.",
+        "Step 6: After saving the application form make payment through CSC ID.",
+        "Step 7: Check the Beneficiary status through the Aadhaar number."
+      ]
+    },
+    "documents_required": [
+      "Indicative Documents",
+      "Aadhaar Card",
+      "Landholding papers",
+      "Savings Bank Account."
+    ],
+    "sources_and_references": [
+      "Processes Of E-KYC",
+      "New Farmer Registration Form",
+      "Know Your Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Whether the benefits of the scheme are admissible to only Small & Marginal Farmers' (SMF) families?",
+      "answer": "No. The Scheme for all farmer families irrespective of the size of their landholdings"
+    },
+    {
+      "question": "Will any individual or farmer family owning more than 2 hectare of cultivable land get any benefit under the scheme?",
+      "answer": "Yes. The ambit of the scheme has been extended to cover all farmer families, irrespective of the size of their land holdings."
+    },
+    {
+      "question": "What are the benefit of the scheme?",
+      "answer": "Under the PM-KISAN scheme, all landholding farmers' families shall be provided the financial benefit of Rs.6000 per annum per family payable in three equal installments of Rs.2000 each, every four months."
+    },
+    {
+      "question": "How many times the benefit will be given in a year?",
+      "answer": "All landholding farmers' families shall be provided the financial benefit of Rs.6000/- per annum per family payable in three equal installments of Rs.200O/- each, every four months."
+    },
+    {
+      "question": "How the beneficiaries under the Scheme will be identified and shortlisted for payment of intended benefit?",
+      "answer": "The responsibility of identifying the eligible farmers' families for benefit under the scheme is entirely of the State/UT Governments"
+    },
+    {
+      "question": "Who are eligible to get benefits under the Scheme?",
+      "answer": "All landholding farmers' families, which have cultivable land holding in their names are eligible to get benefit under the scheme"
+    },
+    {
+      "question": "I am a Professional, am I eligible for PM Kisan?",
+      "answer": "No, You are not eligible for the scheme."
+    },
+    {
+      "question": "I am a member of Lok sabha/ Rajya sabha/ state Legislative Assemblies/ State Legislative councils, former and present Mayors of Municipal corporations, former and present Chairpersons of District Panchayats, Am I eligible for the scheme??",
+      "answer": "No, You are not eligible for the scheme"
+    },
+    {
+      "question": "My Family Member are income Tax Payer, am I Eligible for the scheme?",
+      "answer": "No, You are not eligible for the scheme."
+    },
+    {
+      "question": "Is an income tax payee farmer or his / her spouse eligible to get benefit under the scheme?",
+      "answer": "No. if any member of the family is income tax payee in last assessment year is not eligible."
+    },
+    {
+      "question": "What will happen if the beneficiary gives incorrect declaration for the implementation of the Scheme?",
+      "answer": "In case of incorrect declaration, the beneficiary shall be liable for recovery of transferred financial benefit and other penal actions as per law."
+    }
+  ]
+}

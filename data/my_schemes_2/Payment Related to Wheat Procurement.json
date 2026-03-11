@@ -1,0 +1,122 @@
+{
+  "scheme_name": "Payment Related to Wheat Procurement",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/prtwp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Payment Related to Wheat Procurement",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Payment Related to Wheat Procurement” scheme was launched by the Department of Food, Civil Supplies and Consumer Protection, Government of Madhya Pradesh. The scheme aims to ensure timely and transparent payment to farmers who sell their wheat at government-operated procurement centers."
+    ],
+    "benefits": [
+      "Ensures timely online payment to farmers selling wheat at government procurement centers.",
+      "Payment is made directly into the farmer’s registered bank account through the JIT system.",
+      "Farmers receive the Minimum Support Price (MSP) fixed by the government every year."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should be a landholding farmer.",
+      "The applicant should have sold wheat at a government-operated procurement center during the notified procurement period."
+    ],
+    "application_process": {
+      "online": [
+        "Registration e-Uparjan Scheme",
+        "Step 1:",
+        "Farmer Registration",
+        "Visit the official",
+        "E-Uparjan Portal",
+        "Click on the “Farmer Registration” option",
+        "Enter your Aadhaar Number, District, Village Panchayat, Khasra Number, and Crop Details.",
+        "After filling in all the required details, click Submit.",
+        "Once registered, you will receive a Registration Number for future reference.",
+        "Step 2:",
+        "Slot Booking",
+        "After registration, log in to your account through the E-Uparjan Portal or Mobile App.",
+        "Select the “Slot Booking” option.",
+        "Choose the date and time slot for selling your crops at the procurement center.",
+        "A Slot Booking Receipt will be generated for the farmer.",
+        "Step 3:",
+        "Crop Procurement",
+        "On the scheduled date, visit the Procurement Center with your Slot Receipt, Aadhaar Card, and relevant crop documents.",
+        "The crop will be weighed and quality tested.",
+        "After successful procurement, you will receive a Procurement Receipt.",
+        "Step 4:",
+        "Transportation of Grains",
+        "The purchased grains are then transported from the procurement center to the warehouse.",
+        "The entire transportation process is monitored through the E-Uparjan system.",
+        "Step 5:",
+        "Storage in Warehouse",
+        "The transported grains are properly recorded and stored in the designated warehouses.",
+        "This storage process is digitally monitored to ensure transparency.",
+        "Step 6:",
+        "Payment to Farmer",
+        "After successful procurement and verification, the payment amount is directly credited to the farmer’s Aadhaar-linked bank account.",
+        "NOTE:",
+        "The payment is automatically transferred online to the farmer’s registered bank account.",
+        "The entire process is free of charge; no service or processing fee is applicable.",
+        "The payment must be completed within 7 working days after the sale.",
+        "Appeal Process:",
+        "For any issues or disputes, the farmer may appeal to the District Collector or Sub-Divisional Officer (SDO)."
+      ]
+    },
+    "documents_required": [
+      "Landholding Certificate",
+      "Bank Passbook",
+      "Mobile Number"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who are the beneficiaries?",
+      "answer": "Registered landholding farmers who sell wheat at designated procurement centers."
+    },
+    {
+      "question": "What is the mode of payment?",
+      "answer": "Online payment through the Just-In-Time (JIT) system directly to the farmer’s bank account."
+    },
+    {
+      "question": "What is the time limit for payment?",
+      "answer": "Payment is made within 7 working days of the crop sale."
+    },
+    {
+      "question": "Is registration required?",
+      "answer": "Yes, farmers must register on the E-Uparjan portal before selling their crops."
+    },
+    {
+      "question": "What is the official website for registration?",
+      "answer": "The applicant visit the website at http://mpeuparjan.nic.in."
+    },
+    {
+      "question": "Is there any application or service fee?",
+      "answer": "No, the process is completely free of cost."
+    },
+    {
+      "question": "What is the Minimum Support Price (MSP)?",
+      "answer": "The MSP is the price fixed by the government every year for wheat procurement."
+    },
+    {
+      "question": "Who ensures payment disbursement?",
+      "answer": "District Manager (MPSCSC) and District Marketing Officer (DMO, MARKFED)."
+    },
+    {
+      "question": "Can a farmer check payment status?",
+      "answer": "Yes, through the E-Uparjan portal or SMS alerts on their registered mobile number."
+    },
+    {
+      "question": "What if the payment is delayed?",
+      "answer": "The farmer can contact the concerned District Manager or file an appeal to the District Collector."
+    },
+    {
+      "question": "Is the scheme applicable in both urban and rural areas?",
+      "answer": "Yes, it covers all eligible farmers across Madhya Pradesh."
+    },
+    {
+      "question": "What is JIT?",
+      "answer": "JIT stands for Just-In-Time payment system, which ensures direct and timely digital payments to farmers."
+    }
+  ]
+}

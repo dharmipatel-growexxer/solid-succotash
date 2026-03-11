@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Assistance for Digitization of Business Processes and Adoption of eCommerce",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/adbpae",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Assistance for Digitization of Business Processes and Adoption of eCommerce",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Assistance for Digitization of Business Processes and Adoption of eCommerce\" was introduced under the Rajasthan MSME Policy 2024 by the Department of Industries and Commerce, Government of Rajasthan, aims to promote digital transformation and enhance the eCommerce capabilities of MSMEs in the state. This scheme will remain in force until 31st March 2029.",
+      "Objective",
+      "MSMEs are provided financial assistance for adopting software, equipment for digitization, and for registering on eCommerce platforms.",
+      "Scheme Implementation",
+      "This scheme component will be implemented through the concerned DICC under the aegis of Department of Industries & Commerce. Office of the Commissioner, Industries & Commerce will be the nodal agency for the implementation and supervision of the scheme at the state level."
+    ],
+    "benefits": [
+      "Financial Reimbursement for Digitization Equipment:",
+      "MSMEs are eligible for a one-time reimbursement of 75% of the cost incurred for purchasing software or equipment used in digitization of business process (such as POS systems, barcode scanners machine, inventory management software, etc.).",
+      "Maximum Limit: ₹50,000/- per MSME.",
+      "Financial Reimbursement for eCommerce Platform Fee:",
+      "Reimbursement of 75% of the total fee (excluding shipping fees) charged by eCommerce platform.",
+      "Note:",
+      "Assistance would only be eligible for one eCommerce platform per MSME."
+    ],
+    "eligibility": [
+      "The enterprise should be a Micro, Small, or Medium Enterprise (MSME) in production.",
+      "The enterprise should be located in Rajasthan.",
+      "The applicant should possess a valid Udyam Registration Certificate at the time of application.",
+      "The applicant should have incurred expenses on digitization (software/equipment) after notification of Rajasthan MSME Policy 2024.",
+      "The applicant should have registered on an eCommerce platform after the notification of Rajasthan MSME Policy 2024.",
+      "MSME enterprise will only be eligible for benefits once for each component."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 1:",
+        "The interested applicant downloads the application form",
+        "(Annexure 6.1)",
+        "from the official website.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the respective General Manager, District Industries & Commerce Centre (DICC).",
+        "Post Application Process:",
+        "Application will be evaluated by the GM, DICC and presented before the District Level Task Force Committee (DLTFC).",
+        "Upon approval, an official approval letter will be issued by GM, DICC.",
+        "The approved amount will be disbursed to the authorized bank account of the enterprise."
+      ]
+    },
+    "documents_required": [
+      "Copy of Udyam Registration (UR) Certificate",
+      "Invoices for purchased software/Equipment for digitization along with payment proofs",
+      "Documentary proof for registration on eCommerce Platform for reimbursement of eCommerce fee",
+      "Certificate of Incorporation/Partnership Deed/Firm Registration or equivalent document related to incorporation of the enterprise",
+      "Board Resolution/Power of attorney in the name of Authorized Signatory",
+      "Proof of regular Commercial Production (Recent Sale Bill)",
+      "Bank account details/Copy of cancelled cheque and PAN Card",
+      "CA certificate of details of Expenditure incurred (in original)",
+      "Annexure 6.2",
+      "Undertaking/Declaration on non-judicial stamp paper as per",
+      "Annexure 6.3"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 46)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "MSMEs in production with Udyam Registration and who adopt digitization or eCommerce post-policy notification."
+    },
+    {
+      "question": "What assistance is provided under the scheme?",
+      "answer": "Up to ₹50,000 for digitization equipment and up to ₹50,000 for eCommerce platform fees."
+    },
+    {
+      "question": "Can a unit apply for both digitization and eCommerce reimbursement?",
+      "answer": "Yes, but only once for each component."
+    },
+    {
+      "question": "What kind of digitization expenses are covered?",
+      "answer": "Expenses for POS systems, bar code scanners, inventory management software, etc."
+    },
+    {
+      "question": "What is excluded from the eCommerce fee reimbursement?",
+      "answer": "Shipping fees are excluded."
+    },
+    {
+      "question": "Where should I submit my application?",
+      "answer": "At the office of the General Manager, District Industries and Commerce Centre (DICC)."
+    },
+    {
+      "question": "Who approves the application?",
+      "answer": "The District Level Task Force Committee (DLTFC)."
+    },
+    {
+      "question": "How will the assistance amount be received?",
+      "answer": "It will be directly transferred to the applicant's bank account."
+    },
+    {
+      "question": "Can an MSME apply if it registered on an eCommerce platform before the policy?",
+      "answer": "No, only post-policy registrations are eligible."
+    },
+    {
+      "question": "Can I get reimbursement from multiple eCommerce platforms?",
+      "answer": "No, assistance is allowed for only one platform per MSME."
+    },
+    {
+      "question": "What is the role of DICC in this scheme?",
+      "answer": "DICC manages application processing, approvals, and disbursements at the district level."
+    }
+  ]
+}

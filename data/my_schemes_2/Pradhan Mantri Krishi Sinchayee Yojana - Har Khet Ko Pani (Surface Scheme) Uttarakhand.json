@@ -1,0 +1,88 @@
+{
+  "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana - Har Khet Ko Pani (Surface Scheme) Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmksy-hkkp",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pradhan Mantri Krishi Sinchayee Yojana - Har Khet Ko Pani (Surface Scheme) Uttarakhand",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Pradhan Mantri Krishi Sinchayee Yojana – Har Khet Ko Pani (Surface Irrigation Scheme)” is implemented by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide every farmer with reliable surface irrigation facilities by developing sustainable irrigation infrastructure, ensuring that every field receives adequate water to improve agricultural productivity. This scheme is a centrally sponsored scheme with a funding pattern of 90% Central share and 10% State share."
+    ],
+    "benefits": [
+      "Under this scheme, farmers are provided with free irrigation facilities. The following works are carried out to ensure irrigation support:",
+      "Pipelines / Gool (water channels)",
+      "Storage tanks / Geo-lined tanks",
+      "Solar pump sets",
+      "Small gated weirs"
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary must be a farmer engaged in agricultural activities.",
+      "As per the guidelines issued by the Government of India:",
+      "For the construction of collective irrigation schemes, clusters will be formed within a radius of 5 km from the proposed village, with a command area of 20 hectares or more.",
+      "In the case of an individual scheme, the command area should be 10 hectares or more.",
+      "The cost of the scheme must not exceed ₹4.00 lakh per hectare.",
+      "The benefit-cost ratio of the scheme must be greater than 1.0."
+    ],
+    "application_process": {
+      "offline": [
+        "For construction of the project, project's proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared.",
+        "After examination by the departmental TAC, the DPR is forwarded to the headquarters. Thereafter, following approval by the State-level Technical Advisory Committee, the proposals are forwarded to the State Level Sanctioning Committee, chaired by the Chief Secretary of the Government of Uttarakhand. Upon approval, the DPR is forwarded to the Government of India for financial sanction. The construction work of the projects is initiated after receiving financial approval from the Government of India."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the department’s guidelines prescribed for this scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 245)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What types of irrigation works are covered under this scheme?",
+      "answer": "The scheme supports construction of pipelines/gools (water channels), storage tanks/geo-lined tanks, solar pump sets, and small gated weirs."
+    },
+    {
+      "question": "What is the funding pattern of the scheme?",
+      "answer": "The scheme is funded with 90% Central share and 10% State share."
+    },
+    {
+      "question": "Do farmers have to pay any cost for irrigation facilities under this scheme?",
+      "answer": "No. Irrigation facilities are provided free of cost to eligible farmers."
+    },
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "Any resident farmer of Uttarakhand engaged in agricultural activities can apply."
+    },
+    {
+      "question": "What is the minimum command area required for a collective irrigation scheme?",
+      "answer": "A collective irrigation scheme must have a command area of 20 hectares or more, with clusters formed within a radius of 5 km from the proposed village."
+    },
+    {
+      "question": "What is the minimum command area required for a single irrigation scheme?",
+      "answer": "A single-scheme proposal must cover at least 10 hectares of command area."
+    },
+    {
+      "question": "Is there any cost limit for project execution?",
+      "answer": "Yes. The cost of the project must not exceed ₹4.00 lakh per hectare."
+    },
+    {
+      "question": "What is the required benefit-cost ratio for approval?",
+      "answer": "The scheme must have a benefit-cost ratio greater than 1.0."
+    },
+    {
+      "question": "How proposals can be submitted?",
+      "answer": "Proposals can be submitted through the Gram Sabha, Gram Panchayat, District Panchayat, Block office, Sub-division office, or other departmental offices."
+    },
+    {
+      "question": "What happens after a proposal is submitted?",
+      "answer": "A field inspection is conducted to assess suitability, after which a Detailed Project Report (DPR) is prepared."
+    },
+    {
+      "question": "When does the construction of irrigation facilities begin?",
+      "answer": "Construction begins after receiving financial approval from the Government of India."
+    }
+  ]
+}

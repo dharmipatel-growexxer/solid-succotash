@@ -1,0 +1,65 @@
+{
+  "scheme_name": "Krishak Utpadak Kshati Sahayata Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kuksy",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Krishak Utpadak Kshati Sahayata Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Krishak Utpadak Kshati Sahayata Yojana” is implemented by the Uttarakhand Agricultural Production & Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide financial assistance and compensation to farmers in the event of loss or damage to crops, livestock, or agricultural land caused by fire, flood, or heavy rains in the notified areas of the state."
+    ],
+    "benefits": [
+      "Damage caused by fire accidents to standing crops, harvested crops in the field, crops stored in barns for threshing, or residual produce in the notified market areas of Uttarakhand State, as well as damage to property and livestock due to fire in the farmer’s house, and damage to agricultural land due to floods or rain-induced soil erosion, all such losses make farmers eligible to receive compensation under this scheme."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a minimum of 18 years of age to submit and receive a claim."
+    ],
+    "application_process": {
+      "offline": [
+        "For reporting fire or flood accidents, the affected farmer/producer must submit an application in the prescribed format (available free of cost at the Mandi Samiti office) to the Secretary, Chairman, Administrator, or Tehsildar of the concerned Mandi Samiti area within seven days of the incident.",
+        "The received claim will be investigated by the Secretary of the Market Committee, and the inquiry must be completed within one week. The final report shall be submitted to the Chairman/Administrator of the Mandi Committee in the prescribed format attached to the claim form. In areas where the Mandi Committee does not have an office, the concerned Tehsildar will conduct the inquiry and forward it to the respective Mandi Committee.",
+        "After thorough scrutiny of the claim form by the Mandi Samiti office, the payment process will be initiated with the approval of the Chairman/Administrator of the Mandi Samiti.",
+        "All the above proceedings should be completed within two months, and in special circumstances, the Chairman/Administrator of the Mandi Committee may extend the time period as required.",
+        "For the payment of assistance claims, the Mandi Board will prepare a bank draft of the sanctioned amount in the name of the claimant and send it to the Secretary of the concerned Mandi Committee for disbursement."
+      ]
+    },
+    "documents_required": [
+      "Documents are required in accordance with the Mandi Committee/ Mandi Board for claiming the compensation under the scheme."
+    ],
+    "sources_and_references": [
+      "Guideline (at Page 170)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "All resident farmers and agricultural producers of Uttarakhand who suffer damage to crops, livestock, or agricultural property due to fire, flood, or heavy rains in the notified market areas can benefit from this scheme."
+    },
+    {
+      "question": "What types of damages are covered under the scheme?",
+      "answer": "The scheme covers: Fire damage to standing crops, harvested crops, or crops kept in barns for threshing. Damage to property and livestock due to fire in the farmer’s house. Damage to agricultural land due to floods or rain-induced soil erosion. Fire damage to standing crops, harvested crops, or crops kept in barns for threshing. Damage to property and livestock due to fire in the farmer’s house. Damage to agricultural land due to floods or rain-induced soil erosion."
+    },
+    {
+      "question": "Is there any age limit to apply for compensation?",
+      "answer": "Yes, the minimum age to apply for compensation under the scheme is 18 years."
+    },
+    {
+      "question": "Where can farmers get the application form?",
+      "answer": "Farmers can obtain the application form free of cost from the concerned Mandi Samiti office."
+    },
+    {
+      "question": "Within how many days must the incident be reported?",
+      "answer": "The affected farmer or producer must report the incident within 7 days of its occurrence by submitting the application form."
+    },
+    {
+      "question": "To whom should the application be submitted?",
+      "answer": "The application should be submitted to the Secretary, Chairman, Administrator, or Tehsildar of the concerned Mandi Samiti area."
+    },
+    {
+      "question": "How is the compensation amount paid to the farmer?",
+      "answer": "The Mandi Board prepares a bank draft in the name of the claimant and sends it to the Secretary of the concerned Mandi Committee for disbursement to the farmer."
+    }
+  ]
+}

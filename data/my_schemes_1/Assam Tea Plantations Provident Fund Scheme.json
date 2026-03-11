@@ -1,0 +1,111 @@
+{
+  "scheme_name": "Assam Tea Plantations Provident Fund Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/atppfs",
+  "location_name": "Assam",
+  "location_type": "state",
+  "page_title": "Assam Tea Plantations Provident Fund Scheme",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Assam Tea Plantations Provident Fund Scheme\" is a Social Security Scheme for the Plantation Workers in Assam. The scheme was launched by the Assam Tea Employees Provident Fund Organization, Government of Assam. The scheme aims to provide compulsory savings and social security to tea garden workers and employees in Assam against contingencies like old age, death, and invalidity. The scheme provides a provident fund where both the employee and employer contribute 12% of wages, which accumulates interest at a rate declared by the Board. The applicant must be a daily wage worker or an employee of a plantation or tea factory earning up to ₹6,500/- per month. The scheme is implemented by the Assam Tea Employees Provident Fund Organization and administered by a Board of Trustees. The applications for claims are accepted through the employer or garden management."
+    ],
+    "benefits": [
+      "Provident Fund Accumulation:",
+      "Members receive credit for their own contribution of 12% of wages and an equal 12% contribution from the employer.",
+      "Interest:",
+      "The accumulated deposits earn interest at a rate declared by the Board every year.",
+      "Final Settlement:",
+      "The total credit balance with interest is paid to the member or nominee upon retirement, resignation, death, or invalidity.",
+      "Refundable Advances:",
+      "Members can avail advances up to 25% of the balance or nine months' pay (whichever is less) for marriage, death ceremonies, medical treatment, or children's higher education.",
+      "Housing Advance:",
+      "A non-refundable advance is available for constructing or purchasing a dwelling house, equal to 24 months' wage, total contribution, or housing cost, whichever is less.",
+      "Hardship Relief:",
+      "A non-refundable advance is granted in cases of hardship due to natural calamities or the closure of a plantation."
+    ],
+    "eligibility": [
+      "The applicant must be employed in a tea plantation or a tea factory in Assam.",
+      "The applicant must receive a monthly salary of up to ₹6,500/-.",
+      "The applicant must be a daily wage worker (eligible from the first day of work)."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant furnishes their Bank Account Number, Name of the Banker, Branch, and IFS code to the tea garden Manager.",
+        "Step 2:",
+        "The applicant submits a claim application for Provident Fund settlement or advances through their employer.",
+        "Step 3:",
+        "The employer verifies the claim and forwards it to the Inspectorate, Zonal Office, or Head Office for settlement.",
+        "Step 4:",
+        "Upon approval, the Board credits the payment directly into the beneficiary's bank account if the amount is ₹5,000/- or above."
+      ]
+    },
+    "documents_required": [
+      "Bank Account Details:",
+      "A Bank Passbook or official bank document containing the Bank Account Number, Name of the Banker, Branch Name, and IFS Code.",
+      "Proof of Employment:",
+      "An Employment Identity Card or Service Certificate issued by the Tea Garden Manager to substantiate that the applicant is an employee of a plantation or tea factory.",
+      "Proof of Wages:",
+      "A Wage Slip or Salary Certificate to substantiate that the applicant's monthly salary is up to ₹6,500/- or that they are a daily wage worker.",
+      "Nomination Details:",
+      "A Nomination Form or Declaration of Family Members to designate a beneficiary for the release of funds in the event of the member's death.",
+      "Death Certificate:",
+      "A Death Certificate of the member (Required only for Family Pension or Deposit Linked Insurance claims by a nominee).",
+      "Medical Certificate:",
+      "A Medical Certificate issued by a competent authority (Required only for Invalid Pension claims due to accident or invalidity)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "As a daily wage worker in a tea garden, when do I become eligible to join the Provident Fund scheme?",
+      "answer": "You are eligible to become a member of the scheme and entitled to benefits from the very first day of your work."
+    },
+    {
+      "question": "What is the maximum monthly salary limit for an employee to be eligible for membership in this Provident Fund scheme?",
+      "answer": "Employees receiving a monthly salary of up to ₹6,500/- are eligible to become members of the scheme."
+    },
+    {
+      "question": "How much of my wages must be contributed to the Provident Fund, and does the employer also contribute?",
+      "answer": "You contribute 12% of your wages, and the employer matches this with an equal contribution of 12%."
+    },
+    {
+      "question": "Can I withdraw money from my Provident Fund account to pay for the construction or purchase of a house?",
+      "answer": "Yes, a non-refundable advance is granted equivalent to 24 months' wages, your total contribution, or the cost of the house, whichever is less."
+    },
+    {
+      "question": "What happens to the money I deposit into the Provident Fund account over the years of my employment?",
+      "answer": "Your deposits are credited with interest at a rate declared by the Board every year until you withdraw the amount."
+    },
+    {
+      "question": "Is it possible to get an advance from my Provident Fund balance for my children's higher education expenses?",
+      "answer": "Yes, you may be granted an advance of up to 25% of your credit balance or nine months' pay, whichever is less."
+    },
+    {
+      "question": "What financial support is available from the fund if I face hardship due to a natural calamity?",
+      "answer": "A non-refundable advance is granted to members facing hardship due to natural calamities or the closure of a plantation."
+    },
+    {
+      "question": "Am I allowed to take an advance from my Provident Fund for expenses related to a marriage or death ceremony?",
+      "answer": "Yes, you can avail an advance up to 25% of your balance or nine months' pay for such ceremonies."
+    },
+    {
+      "question": "How is the \"wages\" calculated for the purpose of the 12% deduction for the Provident Fund contribution?",
+      "answer": "Wages include dearness allowances, the value of food concessions, and amounts received for plucking tea leaves."
+    },
+    {
+      "question": "What information must I provide to ensure that my Provident Fund payments are credited directly to me?",
+      "answer": "You must furnish your Bank Account Number, Name of the Banker, and Branch with IFS code to your garden manager."
+    },
+    {
+      "question": "How will I receive the payment if my Provident Fund claim amount is more than ₹5,000/-?",
+      "answer": "Payments of ₹5,000/- and above are made directly to your individual Bank Account."
+    },
+    {
+      "question": "What happens to my Provident Fund balance if I resign or retire from my service at the tea garden?",
+      "answer": "In the event of retirement or resignation, the Board pays back the entire amount standing at your credit with interest."
+    }
+  ]
+}

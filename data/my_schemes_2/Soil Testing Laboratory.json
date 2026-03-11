@@ -1,0 +1,77 @@
+{
+  "scheme_name": "Soil Testing Laboratory",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/stl",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Soil Testing Laboratory",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "Description",
+      "Soil Testing Lab - For analysing soil samples preceding the application of fertilizer in the correct dosage in farmers' field.",
+      "Objectives",
+      "The analysis is free of cost of soil samples preceding application of fertilizers/ liming etc. for farmers along with distribution of Soil Health Card (SHC).",
+      "Mode of Selection of Beneficiary(s)",
+      "Bonafide farmers have sufficient available cultivable land on a first come first served basis."
+    ],
+    "benefits": [
+      "To provide soil testing services for farmers free of cost.",
+      "Soil Health Card (SHC)."
+    ],
+    "eligibility": [
+      "Bonafide farmers engaged in Agriculture"
+    ],
+    "application_process": {
+      "offline": [
+        "Bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/Agriculture Circle."
+      ]
+    },
+    "documents_required": [
+      "Farmer’s Photo.",
+      "Verification Form by the Agriculture Development Officer of a CD Block/Agriculture Circle.",
+      "Bank Details (Account No., IFSC Code) of the applicant.",
+      "Aadhaar Number (or alternative identification documents."
+    ],
+    "sources_and_references": [
+      "Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is Soil Testing Laboratory scheme ?",
+      "answer": "For analysing soil samples preceding application of fertilizer in correct dosage in farmers field."
+    },
+    {
+      "question": "What is the benefits of this scheme ?",
+      "answer": "To provide soil testing services for farmers free of cost and Distribution of Soil Health cards, Irrigation Water Quality testing."
+    },
+    {
+      "question": "What is the eligibility for the scheme ?",
+      "answer": "Bonafide farmers engaged in Agriculture."
+    },
+    {
+      "question": "How to avail the benefits of the scheme ?",
+      "answer": "Bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/Agriculture Circle."
+    },
+    {
+      "question": "What is the mode of selection of Beneficiary ?",
+      "answer": "Bonafide farmers have sufficient available cultivable land on a first come first served basis."
+    },
+    {
+      "question": "Is there any fee or charges for the scheme ?",
+      "answer": "No, there are no charges."
+    },
+    {
+      "question": "Is there any age Restriction ?",
+      "answer": "No, there is no age restriction."
+    },
+    {
+      "question": "Whom to contact regarding this scheme ?",
+      "answer": "1. District Agriculture Officers of the concerned districts. 2. Sub-Divisional Agricultural Officers of the concerned sub-divisions. 3. District Training Officers, Tura/Shillong. 4. Agricultural Development Officers of the concerned Community and Rural Development Blocks."
+    },
+    {
+      "question": "Is there any priority Female applicants ?",
+      "answer": "No, its a first come first served basis."
+    }
+  ]
+}

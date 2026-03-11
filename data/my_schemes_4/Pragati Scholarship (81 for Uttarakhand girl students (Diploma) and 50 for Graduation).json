@@ -1,0 +1,75 @@
+{
+  "scheme_name": "Pragati Scholarship (81 for Uttarakhand girl students (Diploma) and 50 for Graduation)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/psgsdgl",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pragati Scholarship (81 for Uttarakhand girl students (Diploma) and 50 for Graduation)",
+  "scraped_at": "2026-03-10 09:21:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Pragati Scholarship” is implemented by the Department of Technical Education, Government of Uttarakhand. The scheme aims to encourage higher education among girl students of the state by providing financial assistance in the form of a scholarship. Under this scheme, scholarships are awarded to 81 girl students enrolled in Diploma courses and 50 girl students enrolled in Graduation courses in Uttarakhand."
+    ],
+    "benefits": [
+      "Financial assistance of ₹50,000/- per annum is provided for girl students at the Diploma and Graduation levels."
+    ],
+    "eligibility": [
+      "The applicant must be a girl student.",
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant’s annual family income must not exceed ₹8,00,000/-.",
+      "A maximum of two girl children are allowed per family to avail of this scholarship."
+    ],
+    "application_process": {
+      "online": [
+        "These scholarships are administered by the All India Council for Technical Education (AICTE). Under the AICTE scheme, applications are invited through the",
+        "National Scholarship Portal",
+        "(NSP) between September and December, and scholarships are awarded based on merit. Applicants are required to submit their high school and intermediate mark sheets and certificates, along with an income certificate.",
+        "For the Pragati Yojana, scholarships can be sanctioned to two girl students per institute, for which an income certificate is mandatory. For all AICTE schemes, students must first apply online through the institute where they are studying. The application is then verified by the Principal of the institute, followed by verification by the State Level Officer (S.L.O.), and finally forwarded to the AICTE, New Delhi for approval."
+      ]
+    },
+    "documents_required": [
+      "High School and Intermediate mark sheets and certificates",
+      "Income certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 99)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "The scholarship is only for girl students who are permanent residents of Uttarakhand and pursuing Diploma or Graduation courses."
+    },
+    {
+      "question": "How many scholarships are available under this scheme?",
+      "answer": "There are 81 scholarships for Diploma students and 50 scholarships for Graduation students in Uttarakhand."
+    },
+    {
+      "question": "What is the annual financial assistance provided?",
+      "answer": "The scholarship provides ₹50,000 per annum for both Diploma and Graduation levels."
+    },
+    {
+      "question": "Is there an income limit to be eligible?",
+      "answer": "Yes, the annual family income should not exceed ₹8 lakh."
+    },
+    {
+      "question": "Can more than one girl from the same family apply?",
+      "answer": "Yes, but the scholarship can be sanctioned to a maximum of two girls per family."
+    },
+    {
+      "question": "Through which portal are applications submitted?",
+      "answer": "Applications are submitted online through the National Scholarship Portal (NSP). https://scholarships.gov.in/"
+    },
+    {
+      "question": "When is the application period?",
+      "answer": "Applications are invited between September and December each year."
+    },
+    {
+      "question": "On what basis are scholarships awarded?",
+      "answer": "Scholarships are awarded by the AICTE based on merit."
+    },
+    {
+      "question": "What is the application procedure?",
+      "answer": "Students must apply online through the institute where they are studying. The application is then verified by the Principal, followed by the State Level Officer (S.L.O.), and forwarded to AICTE, New Delhi."
+    }
+  ]
+}

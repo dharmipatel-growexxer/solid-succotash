@@ -1,0 +1,96 @@
+{
+  "scheme_name": "Mukhyamantri Balika Protsahan Yojana (Intermediate Pass)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mbpyip",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Balika Protsahan Yojana (Intermediate Pass)",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "The \"Mukhyamantri Balika (Intermediate Pass) Protsahan Yojana\", a component of the \"Mukhyamantri Kanya Utthan Yojana\", launched by the Education Department, Bihar, focuses on the socio-economic upliftment of girls in Bihar. The scheme provides monetary incentives to unmarried girls who have cleared their intermediate examinations from recognized schools or madrasas within Bihar."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹10,000/- for girls passing intermediate in 2021; ₹25,000/- in 2022 and later."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Bihar.",
+      "The applicant must be an unmarried girl.",
+      "She must have passed the intermediate examination from a recognized school, madrasa, or institution in Bihar.",
+      "The examination must have been conducted in 2021 or later.",
+      "The applicant must have a valid bank account."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "Visit the Registration",
+        "page",
+        ".",
+        "Step 2:",
+        "Scroll down below and click on \"Students Click Here To Apply\".",
+        "Step 3:",
+        "Read the instructions and click on the check-boxes. Click on \"Continue\".",
+        "Step 4:",
+        "Enter all the mandatory details and create a new password. Validate the Captcha code.",
+        "Step 5:",
+        "Click on “Submit” to generate the login ID and Password.",
+        "Application Process:",
+        "Visit the Login",
+        "Enter all the mandatory details and upload all the required documents.",
+        "Recheck all entries before final submission, no modifications can be made in the application after final submission.",
+        "Click on “Submit” and take a printout of a copy of the submitted application.",
+        "Check application Details:",
+        "Click",
+        "Here",
+        "Payment Done Information:",
+        "Helpdesk:",
+        "For technical problems: Click"
+      ]
+    },
+    "documents_required": [
+      "Intermediate Marksheet.",
+      "Birth Certificate or School Transfer Certificate (for age proof).",
+      "Bank Account Details (Account Number, IFSC Code, Bank Name, and Branch).",
+      "Aadhaar Card.",
+      "Mobile Number and Email ID."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the the \"Mukhyamantri Balika (Intermediate Pass) Protsahan Yojana\"?",
+      "answer": "The scheme aims to promote girl child education, reduce child marriages, lower fertility rates, and empower girls to become self-reliant."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Unmarried girls who have passed their intermediate (Class 12) examinations from recognized schools or madrasas within Bihar are eligible for the scheme."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Eligible girls are provided ₹10,000/- if they have passed the intermediate examination in 2021 and ₹25,000 for those who have passed in 2022 or later."
+    },
+    {
+      "question": "How will the financial assistance be provided?",
+      "answer": "The financial assistance is directly transferred to the beneficiary's bank account through the Direct Benefit Transfer (DBT) system."
+    },
+    {
+      "question": "Can married girls apply for the scheme?",
+      "answer": "No, only unmarried girls are eligible for the scheme."
+    },
+    {
+      "question": "Are students from private schools eligible?",
+      "answer": "Only students from recognized government or government-aided schools, madrasas, or project schools in Bihar are eligible."
+    },
+    {
+      "question": "Can an applicant apply more than once?",
+      "answer": "No, the scheme benefits can be availed only once."
+    },
+    {
+      "question": "Is there any fee for registration or application?",
+      "answer": "No, the registration and application process for the scheme is free of cost."
+    }
+  ]
+}

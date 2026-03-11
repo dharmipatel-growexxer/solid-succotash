@@ -1,0 +1,103 @@
+{
+  "scheme_name": "Farmers Accidental Insurance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fais",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Farmers Accidental Insurance Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Farmers Accidental Insurance Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to the successors of registered farmers in case of accidental death or disability. The scheme does not cover natural or suicidal deaths."
+    ],
+    "benefits": [
+      "Particular",
+      "Benefit (₹)",
+      "1. Accidental death/ 100% permanent Disability",
+      "₹2,00,000/-",
+      "2. In case of Accidently Loss of two eyes or two limbs or Hand and leg",
+      "3. In case of Accidently Loss of one eye and one limb",
+      "4. In case of Accidently Loss of one eye or one limb"
+    ],
+    "eligibility": [
+      "The applicant or their parent must have a registered land record before the date of the accident.",
+      "The death or disability must be caused by an accident.",
+      "The deceased/disabled person must be the registered farmer, their spouse, or any legal heir (son/daughter).",
+      "The applicant must possess a valid driving license in case of death/injury (For vehicular accident).",
+      "The beneficiary must be between 5 to 70 years of age (For accidental death or permanent disability).",
+      "Application should be made in the office of the concerned District Agriculture Officer within 150 days."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The successor of the deceased or disabled farmer must submit an application within 150 days of the accident.",
+        "Step 2:",
+        "The application must be submitted to the concerned",
+        "District Agriculture Officer",
+        ".",
+        "Contact Us:",
+        "Click here"
+      ]
+    },
+    "documents_required": [
+      "Application in prescribed form Annexure -1, 2,3, 3(A),4,5",
+      "Copy of 7/12, 8-A & hack Patrak (Form no: 6).",
+      "Copy of Post Mortem report",
+      "I.R & spot Panchami Police Inquest Report or Court Order",
+      "Proof of death (Death Certificate) & age from competent authority as the case may be.",
+      "Disability certificate form competent authority, in the case of disablement.",
+      "Sub Divisional Magistrate report and Police tapas report",
+      "Baydhari patrak in prescribe Performa.",
+      "Valid driving licence (in case deceaseddrive the vehicle)",
+      "In case of first legal heir (son/daughter) Death or disability produce Registered farmer’s (his father or mother) Pedhinamu or successive generations proof."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme aims to provide financial assistance to the families of registered farmers in the event of accidental death or disability. The scheme covers the registered farmer, their spouse, and their legal heirs."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any registered farmer in Gujarat, their spouse, or their legal heir (son or daughter) is eligible to apply if they meet the scheme's criteria."
+    },
+    {
+      "question": "What type of deaths are covered under this scheme?",
+      "answer": "The scheme covers only accidental deaths. Natural deaths and suicidal deaths are not covered."
+    },
+    {
+      "question": "What is the maximum financial assistance provided under the scheme?",
+      "answer": "The maximum financial assistance provided is ₹2,00,000 in cases of accidental death or 100% permanent disability."
+    },
+    {
+      "question": "What benefits are provided for partial disabilities?",
+      "answer": "₹2,00,000/- for the loss of both eyes, both limbs, or one hand and one leg. ₹2,00,000/- for the loss of one eye and one limb. ₹1,00,000/- for the loss of one eye or one limb."
+    },
+    {
+      "question": "What is the time limit for applying for benefits under the scheme?",
+      "answer": "The application must be submitted within 150 days from the date of the accident."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "The application should be submitted to the concerned District Agriculture Officer."
+    },
+    {
+      "question": "Can the benefit be claimed by multiple heirs?",
+      "answer": "No, the benefit is provided to a single legal heir as per the succession laws."
+    },
+    {
+      "question": "What happens if the first legal heir is deceased or disabled?",
+      "answer": "If the first legal heir is deceased or disabled, another eligible legal heir can claim the benefit as per the Indian Succession Act."
+    },
+    {
+      "question": "Who can claim the benefit in case of the registered farmer’s death?",
+      "answer": "The legal heir of the deceased registered farmer, which includes the spouse (husband or wife) or children (son or daughter), can claim the benefit."
+    },
+    {
+      "question": "Is it mandatory to have a valid driving license in case of a vehicular accident?",
+      "answer": "Yes, if the accidental death or disability occurred due to a vehicular accident, the deceased or injured person must have possessed a valid driving license at the time of the accident."
+    }
+  ]
+}

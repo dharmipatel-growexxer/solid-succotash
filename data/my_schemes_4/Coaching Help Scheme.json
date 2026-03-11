@@ -1,0 +1,115 @@
+{
+  "scheme_name": "Coaching Help Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/chs",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Coaching Help Scheme",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "The \"Coaching Help Scheme\" introduced by the Social Justice and Empowerment Department, Gujarat, offers an annual incentive to eligible students for tuition classes outside their school/college. The aim is to help academically bright students continue their studies without financial constraints."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹15,000/- per year for coaching expenses outside the school/college."
+    ],
+    "eligibility": [
+      "The applicant must belong to a non-reserved category.",
+      "The applicant must have scored 70% or more in Standard 10th.",
+      "The applicant must be currently studying in the science stream in Standard 11th or Standard 12th.",
+      "The applicant’s annual family income should not exceed ₹4,50,000/-.",
+      "Note:",
+      "The applicant can avail of the assistance only once per academic year."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "Go to the Corporation's",
+        "official website",
+        "and navigate to the \"Gujarat Unreserved Education and Economical Development Corporation\" section under the Corporation menu.",
+        "Step 2:",
+        "Click on \"Coaching Help Scheme\" and then Apply Now.",
+        "Step 3:",
+        "Click on \"New User? Please Register Here\".",
+        "Step 4:",
+        "Enter the required details and click Register.",
+        "Application Process:",
+        "Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Read the scheme details carefully and click OK.",
+        "If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5:",
+        "If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6:",
+        "Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status:",
+        "Click here",
+        ".",
+        "Post Online Application Procedure:",
+        "After submitting the online application, the applicant must take a printout of the application, sign it, and submit it along with all uploaded documents (certificates, mark sheets, etc.) to the concerned Deputy Director (Non-Reserved Category) or the District Social Welfare Officer through courier, post, or by visiting in person.",
+        "Contact Us:"
+      ]
+    },
+    "documents_required": [
+      "Application form in the prescribed format.",
+      "Marriage certificate (if applicable).",
+      "Non-Reserved Category Certificate.",
+      "Income Certificate.",
+      "Proof of Residence.",
+      "Copy of Aadhaar Card.",
+      "Letter of Admission to School/College (Bona Fide).",
+      "Admission Letter.",
+      "Copy of LC (Leaving Certificate).",
+      "Copy of Std-10 Marksheet.",
+      "Receipt of Tuition Fee.",
+      "Copy of Bank Passbook."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Students who are studying in the science stream of Standard-11 and Standard-12 are eligible for the Tuition Assistance Scheme."
+    },
+    {
+      "question": "What is the minimum percentage required to avail of the Tuition Assistance?",
+      "answer": "To be eligible for this scheme, a student must have secured 70% or more marks in Standard-10."
+    },
+    {
+      "question": "What is the annual family income limit for this scheme?",
+      "answer": "The annual family income of the applicant should be less than ₹4,50,000/- to qualify for this scheme."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "Under this scheme, eligible students will receive a financial assistance amount of ₹15,000/- per year."
+    },
+    {
+      "question": "What proof is required for tuition assistance?",
+      "answer": "Students applying for tuition assistance must provide a receipt of the tuition fee payment as proof."
+    },
+    {
+      "question": "What proof is needed to show that the student is enrolled in tuition classes?",
+      "answer": "To prove enrollment in tuition classes, the student must submit a certificate from the tuition class or coaching institute."
+    },
+    {
+      "question": "Which authority issues a valid income certificate for this scheme?",
+      "answer": "The valid income certificate for this scheme can be issued by the Taluka Development Officer (TDO), Mamlatdar, or the Chief Officer."
+    },
+    {
+      "question": "Where can the Non-Reserved Category Certificate be obtained?",
+      "answer": "The Non-Reserved Category Certificate can be obtained from the Taluka Development Officer (TDO), Mamlatdar, District Social Welfare Officer (Non-Reserved Category), or the Deputy Director (Non-Reserved Category)."
+    },
+    {
+      "question": "What should be done after submitting the online application?",
+      "answer": "After submitting the online application, the applicant must take a printout of the application, sign it, and submit it along with all uploaded documents (certificates, mark sheets, etc.) to the concerned Deputy Director (Non-Reserved Category) or the District Social Welfare Officer through courier, post, or by visiting in person."
+    },
+    {
+      "question": "What happens if the hard copy of the application is not submitted after the online application?",
+      "answer": "If the hard copy of the application is not submitted after completing the online application, the application will not be considered valid and will be rejected."
+    }
+  ]
+}

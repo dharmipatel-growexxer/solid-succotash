@@ -1,0 +1,68 @@
+{
+  "scheme_name": "Virasat Loan Scheme of NMDFC",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/vls-nmdfc",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Virasat Loan Scheme of NMDFC",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "This scheme is part of the Term Loan scheme and is implemented with the objective to meet Working Capital and Fixed Capital for purchase of equipment/tools/machineries/raw material. Maximum loan of upto Rs.10.00 lacs can be availed under Credit Line-1 & 2. Simple interest of 5% p.a. is charged under Credit Line-1 and at 6% p.a. from Male Artisan under Credit line- 2. Concession of 1% is provided to Female Artisan under both the Credit Lines."
+    ],
+    "benefits": [
+      "Concessional Credit to the beneficiaries among minority communities."
+    ],
+    "eligibility": [
+      "a) The applicant must be Indian and belong to one of the six notified minority communities: Muslim, Christian, Sikh, Buddhist, Parsi, or Jain.",
+      "b) The annual family income of the applicant shall not exceed:",
+      "Rs. 3.00 lakh per annum under Credit Line–1.",
+      "Rs. 8.00 lakh per annum under Credit Line–2.",
+      "c) The applicant must be an artisan or craftsperson engaged in a traditional occupation (such as handloom, handicraft, metalwork, leatherwork, embroidery, pottery, etc.).",
+      "d) The applicant should have basic skills or certification in the relevant craft or trade, verified by a competent authority or local body.",
+      "e) The loan shall be used for procurement of tools, equipment, raw materials, or working capital to enhance production and market linkage.",
+      "f) Preference shall be given to women artisans and occupational clusters in minority-dominated areas.",
+      "g) The applicant should not be a beneficiary of any other similar artisan financing scheme at the time of application.",
+      "h) The beneficiary must possess a valid Aadhaar-linked bank account and minority certificate."
+    ],
+    "application_process": {
+      "offline": [
+        "NMDFC implements its schemes & programs through State Channelizing Agencies (SCA list: www.nmdfc.org/SCA ) nominated by the respective State Governments & Banking Partners (Presently through Canara Bank & Punjab Grameen Bank)."
+      ]
+    },
+    "documents_required": [
+      "Filled Application Form (individual artisan).",
+      "Recent Photograph of the applicant.",
+      "Proof of Minority Status (certificate or self-declaration).",
+      "Income Certificate issued by competent authority.",
+      "Proof of Residence: Aadhaar card, voter ID, ration card, or similar.",
+      "Identity Proof: Aadhaar card/PAN card.",
+      "Proof of Occupation/Skill: Artisan ID card from Development Commissioner (Handicrafts/Handlooms) or Certificate from local artisan cooperative/society/panchayat.",
+      "Project Proposal or Requirement List (tools, machinery, raw materials, etc.).",
+      "Quotation/Estimate from supplier(s).",
+      "Bank Account Proof: Aadhaar-linked bank passbook.",
+      "No Dues Certificate (if previously assisted).",
+      "Affidavit/Self-declaration confirming non-benefit from other similar artisan loan schemes."
+    ],
+    "sources_and_references": [
+      "NMDFC Lending Policy"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Virasat Scheme, and who can apply for it?",
+      "answer": "The Virasat Scheme supports artisans and craftspersons from minority communities by providing credit for working capital and fixed capital requirements, such as purchasing tools, machinery, and raw materials."
+    },
+    {
+      "question": "What is the maximum loan amount and interest rate under this scheme?",
+      "answer": "Under both Credit Lines, artisans can avail up to Rs. 10.00 lakh. Under Credit Line–1, interest rates are 5% for male beneficiaries and 4% for female beneficiaries. Under Credit Line–2, interest rates are 6% for male beneficiaries and 5% for female beneficiaries."
+    },
+    {
+      "question": "What is the repayment period and moratorium?",
+      "answer": "A six-month moratorium is allowed, followed by repayment over a period of five years."
+    },
+    {
+      "question": "What documents or proof of skill are required to apply?",
+      "answer": "Applicants must provide proof of artisan status, such as an Artisan ID Card issued by the Development Commissioner (Handicrafts/Handlooms), certificate from local craft societies, or evidence of traditional occupation."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "scheme_name": "Term Loan Scheme (GNDTDC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/tlgntdnt",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Term Loan Scheme (GNDTDC)",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Term Loan Scheme\" is implemented by the Gujarat Nomadic and Denotified Tribes Development Corporation (GNDTDC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to promote self-employment among individuals from the Nomadic and Denotified Tribes communities by providing financial assistance for agriculture and allied activities, small-scale businesses, craftsmanship & traditional occupations as well as service-based businesses/trades. Under this scheme, beneficiaries can avail loans at concessional interest rates to purchase equipment, raw materials, or working capital."
+    ],
+    "benefits": [
+      "Loan Amount Details:",
+      "Loan Amount:",
+      "Up to ₹20,00,000/-.",
+      "Interest Rate:",
+      "6% per annum.",
+      "Loan Contribution:",
+      "85% will be from the National Corporation, 10% from the State Government, 5% from the beneficiary.",
+      "Repayment:",
+      "The total loan amount, including interest, must be repaid in 60 equal monthly instalments."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to the Nomadic Tribe or Denotified Tribe.",
+      "The applicant's family's annual income should not exceed ₹3,00,000/-.",
+      "The applicant's age should be between 21 to 50 years on the date of application.",
+      "The applicant must have experience in the proposed trade/business.",
+      "The applicant will have to provide suitable collateral to get the loan.",
+      "Note:",
+      "At least 50% of the total loan amount under this scheme will be specifically allocated to families with an annual income of up to ₹1,50,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Visit the Official Portal",
+        "Go to the",
+        "Official Website",
+        "Gujarat Nomadic and Denotified Tribes Development Corporation.",
+        "Scroll down on the homepage, find the \"Term Loan\" and click on \"Apply Now\".",
+        "You will be directed to the application form.",
+        "Step 2: Access and Fill Out the Application Form",
+        "Complete all sections under \"Applicant information,\" including full name, father/husband's name, gender, complete address details, contact numbers, Aadhaar No., parents/husband/guardian occupation and income details. Also provide Date of Birth, Age, Caste, and Subspecies. Also, if you are disabled and provide a percentage.",
+        "If you have taken a past loan, select \"Yes\" or \"No\". If you selected \"Yes\", provide loan details (date, amount, paid, remaining) and your account number.",
+        "Provide bank account number, bank name, branch name, name as per account, account type (Saving/Current), MICR code, and IFSC code.",
+        "Step 3: Upload Documents",
+        "Go to \"Upload Photo\" in the menu, then upload your photograph and signature (each file less than 15 KB). Click \"Save Photo and Signature\"",
+        "Navigate to \"Upload Document\" in the menu and upload all required files (PDF, JPG, JPEG, PNG only).",
+        "Step 4: Review and Final Submission",
+        "Carefully review each module. Use the preview option to examine the application before final submission. Fill out the provided \"CAPTCHA\" and Click on “Submit”.",
+        "Track and Review Status",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.",
+        "Scroll down and locate the Know App Status. Click on \"Know App Status\".",
+        "Select the Scheme name, Enter App No., and Birth Date. Fill out the Captcha and click on Submit."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Age Proof",
+      "Experience Certificate",
+      "Collateral Documents",
+      "Photograph",
+      "Any other document as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main purpose of the scheme?",
+      "answer": "This scheme provides financial assistance in the form of loan for agriculture and related activities, small-scale industries, artisanal and traditional professions, and service-type businesses or occupations."
+    },
+    {
+      "question": "What kind of activities can I use this loan for?",
+      "answer": "You can use this loan for agriculture and related activities, small-scale industries, artisanal and traditional professions, and service-type businesses or occupations."
+    },
+    {
+      "question": "What is the minimum age requirement to apply for this loan?",
+      "answer": "You must be at least 21 years old as of the date of application to be eligible."
+    },
+    {
+      "question": "Do I need to have any specific experience to get this loan?",
+      "answer": "Yes, applicant must have experience in the proposed trade/business."
+    },
+    {
+      "question": "What is the interest rate for this scheme?",
+      "answer": "The interest rate for this scheme will be 6% per annum."
+    },
+    {
+      "question": "Is collateral required to get this loan?",
+      "answer": "Yes, you will have to provide suitable collateral to get the loan."
+    },
+    {
+      "question": "How is the loan amount funded?",
+      "answer": "85% of the loan amount will be from the National Corporation, 10% from the State Government, and 5% from the beneficiary, will have to contribute."
+    },
+    {
+      "question": "What is my personal contribution percentage to the loan amount?",
+      "answer": "Your personal contribution as the beneficiary will be 5% of the total loan amount."
+    },
+    {
+      "question": "How do I repay the loan amount?",
+      "answer": "The loan amount, including interest, will have to be repaid in 60 equal monthly installments."
+    },
+    {
+      "question": "How can I correct or edit my application after submitting it?",
+      "answer": "To make changes, you need to click on \"Edit Application\" and enter your Scheme, Confirmation No., and Birth Date, then click Submit."
+    }
+  ]
+}

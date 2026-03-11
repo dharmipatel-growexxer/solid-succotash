@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Scheme for Assistance on Purchase of Smartphone by the Farmers",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sapsf",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme for Assistance on Purchase of Smartphone by the Farmers",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Scheme for Assistance on Purchase of Smartphone by the Farmers\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by providing financial assistance to farmers for purchasing smartphones. Through this scheme, farmers can access weather reports, rainfall predictions, disease and pest control measures, and modern farming techniques. Additionally, smartphones help them apply for agricultural schemes and stay informed about government assistance programs."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Scheme for assistance on Purchase of Smartphone by the farmers",
+      "40% assistance on the purchase price of smartphone or ₹6,000/- whichever is less",
+      "only once"
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant should own a land.",
+      "The applicant must belong to the Gujarat state.",
+      "Note:",
+      "Under this scheme, even if the tenant farmer has more than one account, the assistance will be availed only once.",
+      "In case of joint account, the farmers will be entitled to benefit from only one of the tenants mentioned in 8-A of their land."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Land Ownership Documents (8-A Record).",
+      "Bank Passbook.",
+      "Domicile Certificate.",
+      "Recent Passport Size Photograph.",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "This scheme provides financial assistance to farmers for purchasing smartphones, enabling them to access agricultural technology, weather updates, pest control techniques, and government assistance programs."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any farmer who owns agricultural land in the state is eligible to apply for the scheme."
+    },
+    {
+      "question": "What is the financial assistance provided under this scheme?",
+      "answer": "The scheme provides 40% assistance on the purchase price of a smartphone or ₹6,000/-, whichever is lower."
+    },
+    {
+      "question": "Can a farmer apply for the scheme more than once?",
+      "answer": "No, a farmer can avail of the assistance only once under this scheme."
+    },
+    {
+      "question": "Are tenant farmers eligible for this scheme?",
+      "answer": "Yes, tenant farmers are eligible, but only one tenant per landholding can avail of the benefit."
+    },
+    {
+      "question": "If a farmer owns multiple land accounts, can they avail multiple benefits?",
+      "answer": "No, even if a farmer has multiple land accounts, the assistance can be availed only once."
+    },
+    {
+      "question": "Can a joint landowner apply for the scheme?",
+      "answer": "Yes, but in the case of joint land ownership, only one of the tenants listed in the 8-A document is eligible to apply."
+    },
+    {
+      "question": "Can farmers from other states apply for this scheme?",
+      "answer": "No, only farmers who own agricultural land within the state are eligible for the scheme."
+    },
+    {
+      "question": "How can a farmer apply for the scheme?",
+      "answer": "A farmer can apply online through the i-Khedut Portal using a Public Service Center, Cyber Café, or personal device."
+    },
+    {
+      "question": "Where can a farmer get more information about the scheme?",
+      "answer": "Farmers can contact the Gramsevak, Extension Officer, or District Agriculture Officer for more details."
+    }
+  ]
+}

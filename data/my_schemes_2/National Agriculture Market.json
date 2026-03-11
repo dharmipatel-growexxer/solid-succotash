@@ -1,0 +1,204 @@
+{
+  "scheme_name": "National Agriculture Market",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/e-nam",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "National Agriculture Market",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "Launched on 14th April 2016 by the Prime Minister of India, the e-National Agriculture Market (e-NAM) is a pan-India electronic trading portal designed to integrate existing APMC (Agricultural Produce Market Committee) mandis across the country into a unified online platform, enabling “One Nation One Market” for agricultural commodities. Implemented by the Small Farmers Agribusiness Consortium (SFAC) under the Ministry of Agriculture and Farmers’ Welfare, Government of India, the platform streamlines agricultural marketing by offering single-window services such as commodity arrivals, AI-based quality assaying, e-bidding, and direct e-payment to farmers. It aims to enhance transparency, efficiency, and competitiveness in agricultural trade while expanding market access for farmers and reducing information asymmetry. In Jammu & Kashmir, 11 mandis, including Narwal (Jammu) and Parimpora (Srinagar), have been integrated with e-NAM since May 2020.",
+      "Key Objectives:",
+      "Facilitate nationwide integration of markets through a common e-platform for agricultural trade.",
+      "Standardize marketing and transaction procedures across all APMC mandis.",
+      "Expand farmers’ access to buyers and markets for better price discovery and reduced information gaps.",
+      "Promote quality-based bidding through the establishment of assaying systems.",
+      "Ensure stable pricing and availability of quality produce to consumers."
+    ],
+    "benefits": [
+      "For Farmers:",
+      "Access to Pan-India Markets through a digital trading platform.",
+      "Real-time Price Discovery based on demand and supply.",
+      "Transparency in auction and payment processes.",
+      "Better Prices through wider buyer participation.",
+      "Online Payment directly to farmers' bank accounts.",
+      "Free Quality Testing (Assaying) of produce in markets.",
+      "Reduced Information Asymmetry—farmers can see prices and make informed decisions.",
+      "For Markets (APMCs/RMCs):",
+      "One-time Grant of up to ₹30 lakh per market for hardware, internet, assaying labs, etc.",
+      "Free e-NAM Software is provided with customization for each state.",
+      "Support Staff (1 person per market) provided for 1 year at no cost.",
+      "Provision to use Cold Storages & Warehouses as market sub-yards.",
+      "Infrastructure Support for setting up:",
+      "e-auction halls.",
+      "assaying labs.",
+      "electronic weighbridges.",
+      "training facilities.",
+      "For State Governments / UTs:",
+      "Eligibility for Central Funding upon adopting key APMC Act reforms:",
+      "Single trading license for the state.",
+      "Single-point market fee.",
+      "Legal provision for e-trading.",
+      "Support for Soil Testing Labs (STLs) under related schemes (NMSA/RKVY).",
+      "Training, Dispute Resolution Mechanism, and linking more markets to e-NAM."
+    ],
+    "eligibility": [
+      "The applicant State/UT must allow a single trading license valid across the State, issued through suitable legislation or executive orders.",
+      "The process should be liberal, without barriers like high deposits, quantity restrictions, or mandatory purchase centers.",
+      "The applicant State/UT must ensure single-point levy of market fee, applicable only at the first wholesale transaction.",
+      "No additional charges should be levied on subsequent wholesale transactions of the same produce.",
+      "The applicant State/UT must provide legal and infrastructural support for e-auction/e-trading, through relevant amendments or executive provisions.",
+      "The applicant must submit proposals in the prescribed format and fulfill all three core reforms above to be eligible for the one-time grant for infrastructure setup (hardware, internet, assaying equipment, etc.).",
+      "The applicant must commit to:",
+      "Trading 100% of selected commodities through e-NAM in the proposed markets.",
+      "Providing or linking markets to Soil Testing Laboratories (STLs).",
+      "Covering extra implementation costs beyond the sanctioned amount.",
+      "Bearing costs of software maintenance after 5 years.",
+      "Registering the implementing agency on the PFMS portal and submitting necessary bank details to the Department.",
+      "The applicant State/UT, if lacking an APMC Act or not enforcing it, must:",
+      "Identify an appropriate institution/organization.",
+      "Frame enforceable guidelines to enable e-trading, including trader registration, transaction norms, and infrastructure provisioning.",
+      "The applicant private market, if applying, must:",
+      "Be recommended by the concerned authority.",
+      "Provide all necessary infrastructure and services (e.g., analyst, assaying facilities) at its own expense."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Guidelines for farmers:",
+        "Users can register by Clicking",
+        "here",
+        ".",
+        "Select “Registration Type” as “Farmer” and select the desired “APMC”.",
+        "Provide a valid email ID, as you will receive your Login ID and Password on it.",
+        "Once successfully registered, you will receive a login ID and a temporary password at the given email.",
+        "Log in to the dashboard by clicking the icon on",
+        "www.enam.gov.in/web",
+        "You will see a flashing message on the dashboard: “Click here to register with APMC.”",
+        "Click on the flashing link, which will redirect you to the registration page for filling or updating details.",
+        "Your application will be sent for approval to your selected APMC after KYC is completed.",
+        "After successfully logging in to your dashboard, you will be able to see all APMC address details.",
+        "After successful submission, the user will receive an email confirming that the application has been submitted to the concerned APMC, with the status shown as Submitted, In Progress, Approved, or Rejected.",
+        "Once approved by the APMC, you will receive your eNAM Farmer Permanent Login ID (e.g., HR866F00001) and password for complete access to the e-NAM platform at your registered email address.",
+        "Alternatively, you can contact your respective Mandi/APMC for the same.",
+        "Registration Guidelines for Trades:",
+        "Users will have to register by visiting",
+        "http://enam.gov.in/NAMV2/home/other_register.html",
+        "Select “Registration Type” as “Trader” and choose the appropriate “APMC” or State Level option.",
+        "Provide your passport-size photograph and correct email ID to receive your login ID and password at the same address.",
+        "After successful registration, you will receive your login ID and a temporary password at your provided email ID.",
+        "www.enam.gov.in",
+        "Then you will see a flashing message on the dashboard: “Click here to register with APMC.”",
+        "Your application will be submitted for approval to your selected APMC or SAMB (in case of a Unified License).",
+        "After successfully logging in to your dashboard, you will be able to see the arrivals and trade activities happening in the APMC for notified commodities in eNAM.",
+        "You will see a flashing message on the dashboard: “Click on the link.”",
+        "It will redirect you to the registration page to submit your license and KYC details as a trader.",
+        "Your details will be submitted for approval by your selected APMC.",
+        "Once successfully submitted, you will receive an email confirming the status of the application as Submitted, In Progress, Approved, or Rejected.",
+        "Its status can be viewed by logging in to the dashboard, as explained earlier.",
+        "For a permanent login ID (e.g., HR866T00001) and password, visit your respective Mandi/APMC and verify your license number.",
+        "After successful approval by the APMC, eNAM Trader/CA IDs and passwords will be sent to the provided email address.",
+        "Trader/CA users can participate in online trade using the provided login ID and password.",
+        "For FPOs/FPCs:",
+        "FPOs/FPCs can register on e-NAM Portal via the website (",
+        ") or mobile app or provide following details at the nearest e-NAM mandi:",
+        "Name of your FPOs/FPCs.",
+        "Name, address, email ID, and contact number of the authorized person (MD/CEO/Manager).",
+        "Bank account details (Name of bank, branch, account number, IFSC code).",
+        "For Mandi Board:",
+        "States (State Agricultural Marketing Boards) interested in integrating their mandis with NAM are required to carry out the following reforms in their APMC Act:",
+        "Provide for a single (unified) trading license valid across the state.",
+        "Implement a single-point levy of market fees across the state.",
+        "Include provisions for e-auction/e-trading as modes of price discovery."
+      ]
+    },
+    "documents_required": [
+      "For Farmers:",
+      "Aadhaar Card",
+      "Passport-size Photograph",
+      "Bank Account Details (Passbook copy or Cancelled Cheque)",
+      "Mobile Number and Email ID",
+      "Land Ownership Certificate or Farmer ID Card (if required by APMC)",
+      "For Traders:",
+      "Valid Trade License / Business Registration Certificate",
+      "PAN Card",
+      "Aadhaar Card / Other Government ID",
+      "GST Registration Certificate (if applicable)",
+      "Bank Account Details (Cheque or Passbook Copy)",
+      "Address Proof (Electricity Bill, Rent Agreement, etc.)",
+      "Email ID and Mobile Number",
+      "Existing License Number issued by APMC",
+      "KYC Documents (as per APMC requirements)",
+      "For FPOs / FPCs:",
+      "Certificate of Incorporation / Registration",
+      "PAN Card of the FPO/FPC",
+      "Bank Account Details",
+      "List of Members / Shareholders",
+      "Name, ID, and Address of Authorized Person",
+      "Mobile Number and Email of Authorized Person",
+      "Memorandum of Association (MoA) & Articles of Association (AoA) or Bye-laws",
+      "Aadhaar / Government ID of Authorized Signatory",
+      "For State Agriculture Marketing Boards / APMCs:",
+      "Proposal in prescribed format (Annexure-I)",
+      "Copy of amended APMC Act / Executive Order",
+      "State Government Resolution or Notification",
+      "Project Implementation Plan",
+      "Assaying Lab Plan / Soil Testing Lab provision",
+      "Estimated Budget with Detailed Breakdown",
+      "Undertaking regarding e-trading volume and future costs",
+      "Bank Details of Implementing Agency (Registered on PFMS Portal)",
+      "Authorization Letter of Nodal Officer",
+      "MoU with SFAC or Service Provider (if any)",
+      "Infrastructure Readiness Details",
+      "Inspection Report of Mandis (if applicable)",
+      "For Private Markets (if applicable):",
+      "Letter of Recommendation by State/UT",
+      "Self-arranged: Mandi Analyst, Hardware, Assaying Equipment, Internet, and Support Staff"
+    ],
+    "sources_and_references": [
+      "Guideline",
+      "Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of this online trading platform for agricultural markets?",
+      "answer": "It is designed to integrate existing markets across the country into a single online system, enabling unified trading for agricultural commodities and promoting “One Nation One Market.”"
+    },
+    {
+      "question": "How does this platform improve price discovery for farmers?",
+      "answer": "It enables real-time price discovery through e-auctions and e-trading based on demand and supply, helping farmers secure better prices."
+    },
+    {
+      "question": "How does the system ensure transparency in agricultural trade?",
+      "answer": "It offers clear, online auction processes, quality testing results, and direct electronic payments, reducing the scope for manipulation or hidden charges."
+    },
+    {
+      "question": "What services are provided to farmers through this platform?",
+      "answer": "Farmers get single-window services including commodity arrival details, quality assaying, e-bidding for price discovery, and direct e-payment to their bank accounts."
+    },
+    {
+      "question": "How does quality testing work on this platform?",
+      "answer": "Free assaying (quality testing) is offered at markets to help ensure standardized pricing based on the quality of produce."
+    },
+    {
+      "question": "What advantages does wider buyer participation offer to farmers?",
+      "answer": "It increases competition among buyers, which helps farmers get better prices for their commodities."
+    },
+    {
+      "question": "What role do assaying labs and electronic weighbridges play?",
+      "answer": "They help standardize and verify quality and quantity, making trading more reliable for both farmers and buyers."
+    },
+    {
+      "question": "How are market committees or boards supported for integration?",
+      "answer": "They receive infrastructure support like e-auction halls, assaying labs, electronic weighbridges, internet, and training facilities to enable online trading."
+    },
+    {
+      "question": "Is software support provided to markets joining the platform?",
+      "answer": "Yes, free software with state-level customization and support staff is provided to help markets manage online trading."
+    },
+    {
+      "question": "How does this system reduce information gaps for farmers?",
+      "answer": "By showing arrival data, auction prices, and quality testing results online, farmers can make more informed selling decisions."
+    }
+  ]
+}

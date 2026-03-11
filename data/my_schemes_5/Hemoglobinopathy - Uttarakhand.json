@@ -1,0 +1,56 @@
+{
+  "scheme_name": "Hemoglobinopathy - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/huk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Hemoglobinopathy - Uttarakhand",
+  "scraped_at": "2026-03-10 08:21:04 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Hemoglobinopathy” is an initiative under the National Health Mission (NHM) implemented by the Department of Medical Health and Family Welfare, Government of Uttarakhand. The scheme aims to provide comprehensive care, support, and treatment to patients suffering from Thalassemia and Hemophilia in Uttarakhand."
+    ],
+    "benefits": [
+      "Under this scheme, free blood filters, chelators, and blood are provided to patients suffering from Thalassemia. Free haemophilia factors (life-saving medicines) are provided to patients suffering from Haemophilia."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be suffering from Thalassemia or Haemophilia."
+    ],
+    "application_process": {
+      "offline": [
+        "Patients suffering from Thalassemia must get themselves registered by visiting the DEIC Centres established at Sub-District Hospital Roorkee, Base Hospital Almora, Base Hospital Nainital, and District Hospital Rudrapur (Udham Singh Nagar). For registration, patients are required to provide their Aadhaar card, mobile number, and a medical certificate confirming the disease issued by a qualified doctor. After registration, patients can avail of free blood filters, chelators, and blood transfusion facilities.",
+        "Patients suffering from Haemophilia can obtain free haemophilia factors from their nearest government medical unit after registering with the Haemophilia Society by submitting a doctor’s diagnostic prescription and Aadhaar card. They can also complete their registration by contacting the 104 Helpline (toll-free) or directly through the Haemophilia Society."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Mobile number",
+      "Medical certificate confirming the disease issued by a qualified doctor"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 133)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to benefit under this scheme?",
+      "answer": "All residents of Uttarakhand who are diagnosed with Thalassemia or Hemophilia are eligible to avail benefits under this scheme."
+    },
+    {
+      "question": "What facilities are provided to Thalassemia patients?",
+      "answer": "Thalassemia patients receive free blood filters, chelators, and blood transfusions under this scheme."
+    },
+    {
+      "question": "What facilities are provided to Hemophilia patients?",
+      "answer": "Hemophilia patients are provided with free haemophilia factors (life-saving medicines) from designated government medical units."
+    },
+    {
+      "question": "Is registration mandatory to avail of the benefits?",
+      "answer": "Yes, registration is mandatory for both Thalassemia and Hemophilia patients to receive free treatment under the scheme."
+    },
+    {
+      "question": "Where can Thalassemia patients register?",
+      "answer": "Thalassemia patients can register at the DEIC Centres located in: Sub-District Hospital, Roorkee Base Hospital, Almora Base Hospital, Nainital District Hospital, Rudrapur (Udham Singh Nagar) Sub-District Hospital, Roorkee Base Hospital, Almora Base Hospital, Nainital District Hospital, Rudrapur (Udham Singh Nagar)"
+    }
+  ]
+}

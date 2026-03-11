@@ -1,0 +1,58 @@
+{
+  "scheme_name": "Rural Sports and Health Promotion Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rsahps",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Rural Sports and Health Promotion Scheme",
+  "scraped_at": "2026-03-10 08:21:04 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Rural Sports and Health Promotion Scheme\" was launched by the Department of Youth Welfare and prantiy rakshak dal (PRD), Government of Uttarakhand. The scheme aims to promote physical fitness and well-being among rural youth by establishing open gyms in village communities."
+    ],
+    "benefits": [
+      "Under this scheme, an amount of ₹17,960/- is allocated to Mangal Dals for setting up community fitness equipment (open gym) in each Gram Panchayat to promote the health and fitness of the youth."
+    ],
+    "eligibility": [
+      "All Gram Panchayats in Uttarakhand are eligible."
+    ],
+    "application_process": {
+      "offline": [
+        "At the Gram Panchayat level, a site is selected for the construction of an open gym.",
+        "The proposal is approved by the Gram Sabha and then submitted to the regional Youth Welfare and PRD officer.",
+        "Once verified and approved, the allocated amount is disbursed to the Mangal Dal associated with the Gram Panchayat."
+      ]
+    },
+    "documents_required": [
+      "Submission of documents is required in accordance with the department's guidelines to avail the benefits of the scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 106)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much financial support is provided?",
+      "answer": "The amount is ₹17,960/- allocated to the per Gram Panchayat."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Every Gram Panchayat in Uttarakhand is eligible."
+    },
+    {
+      "question": "Is the grant recurring?",
+      "answer": "No, it is a one-time grant."
+    },
+    {
+      "question": "Who receives the fund?",
+      "answer": "The responsible Mangal Dal is associated with the Gram Panchayat."
+    },
+    {
+      "question": "What is the process for applying?",
+      "answer": "The proposal is approved by the Gram Sabha and then submitted to the regional Youth Welfare and PRD officer."
+    },
+    {
+      "question": "Who verifies the proposals?",
+      "answer": "The Regional Youth Welfare and Provincial Rakshak Dal Officer."
+    }
+  ]
+}

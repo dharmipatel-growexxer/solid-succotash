@@ -1,0 +1,68 @@
+{
+  "scheme_name": "Udhyan Card",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ucuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Udhyan Card",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Udhyan Card” is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to create a unified identification system for farmers engaged in horticulture activities, enabling them to access all horticulture-related schemes and benefits provided by the Government of Uttarakhand."
+    ],
+    "benefits": [
+      "The Udhyan Card is mandatory to avail the benefits of all schemes of the Department of Horticulture."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer who wishes to undertake horticulture activities.",
+      "The applicant must have their own or leased land."
+    ],
+    "application_process": {
+      "offline": [
+        "The Udhyan Card is issued through the Horticulture Mobile team Centre. To obtain the Udhyan Card, the farmer must collect the application form from the Horticulture Mobile team Centre. The farmer is required to fill in complete details related to his family and horticulture activities, attach copies of the Aadhaar card, ration card, and land documents, and get the form certified by the village head. The completed form must then be submitted at the same centre. After submission, the Horticulture Mobile team Centre staff issues the Udhyan Card to the concerned farmer.",
+        "Horticulture Mobile team",
+        "Centre",
+        "- These centres operate at the development-block level to provide information about various schemes and to distribute inputs and seeds to farmers. Senior Horticulture Inspectors, Horticulture Inspectors, and Assistant Development Officers are appointed at these centres, and they regularly address farmers’ issues. A total of 319 Horticulture Mobile team Centres have been established across all districts of the state."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Land Documents",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 211)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is the Udhyan Card mandatory?",
+      "answer": "Yes. The Udhyan Card is mandatory to avail benefits under all schemes of the Department of Horticulture."
+    },
+    {
+      "question": "Who is eligible to apply for the Udhyan Card?",
+      "answer": "All farmers of Uttarakhand who wish to undertake horticulture activities and have their own or leased land are eligible."
+    },
+    {
+      "question": "Where can farmers apply for the Udhyan Card?",
+      "answer": "Applications are made at the Horticulture Mobile Squad Centre located at the development-block level."
+    },
+    {
+      "question": "From where can the Udhyan Card form be obtained?",
+      "answer": "The application form must be obtained from the Horticulture Mobile Squad Centre."
+    },
+    {
+      "question": "What details are required in the application form?",
+      "answer": "The farmer must provide complete information about his family and horticulture activities."
+    },
+    {
+      "question": "After completing the form, where should it be submitted?",
+      "answer": "The completed form must be submitted at the same Horticulture Mobile Squad Centre."
+    },
+    {
+      "question": "Who issues the Udhyan Card after submission?",
+      "answer": "The personnel of the Horticulture Mobile Squad Centre issue the card."
+    }
+  ]
+}

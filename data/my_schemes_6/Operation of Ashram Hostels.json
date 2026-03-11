@@ -1,0 +1,109 @@
+{
+  "scheme_name": "Operation of Ashram Hostels",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/oahr",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Operation of Ashram Hostels",
+  "scraped_at": "2026-03-10 08:44:28 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Operation of Ashram Hostels\" was launched by the Department of Tribal Area Development, Government of Rajasthan. It aims to ensure continued education for tribal students who lack access to nearby higher-level schools due to the poor economic condition of their families. Under this scheme, free accommodation, nutritious meals, educational materials, uniforms, personal hygiene items, and other facilities are provided to Scheduled Tribe (ST) students residing in ashram hostels operated by the Tribal Area Development Department."
+    ],
+    "benefits": [
+      "Students are provided with the following annually and monthly benefits:",
+      "Annually (per student):",
+      "School uniform with stitching",
+      "Shoes, socks, towel, and warm sweater",
+      "Monthly (per student):",
+      "Nutritious breakfast and meals",
+      "Hair oil",
+      "Bathing and washing soap",
+      "Hair cutting service",
+      "Laundry for bed linen (sheet, pillow cover, blanket)",
+      "Electricity and water facilities",
+      "Newspapers and magazines"
+    ],
+    "eligibility": [
+      "The applicant should be a native of Rajasthan.",
+      "The applicant should belong to the Scheduled Tribe community.",
+      "Scheduled Tribe students are eligible if there is no primary school within 1.5 km, no upper primary school within 3 km, and no secondary/higher secondary school within 5 km of their residence.",
+      "The parents/guardians should not be an income tax payee.",
+      "The applicant's family should not own more than 400 square yards of urban land.",
+      "The applicant's family should not own more than 15 bighas of agricultural land.",
+      "The student should pass the current academic year to continue enrollment in the next year.",
+      "The student should be a resident of the same district in which the hostel application has been made.",
+      "Notes:",
+      "All new admissions will be made on the basis of merit.",
+      "Admission to hostels in specific tribal areas will be given only to tribal students belonging to the same area.",
+      "Re-admission in the next academic year will be granted only if the student passes the annual examination."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Step 1:",
+        "The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2:",
+        "The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.",
+        "Step 3:",
+        "The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4:",
+        "Keep the receipt or acknowledgment form for future reference.",
+        "Note:",
+        "All new admissions will be made on the basis of merit.",
+        "Admission to hostels in specific tribal areas will be given only to tribal students belonging to the same area.",
+        "Re-admission in the next academic year will be granted only if the student passes the annual examination."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Education Qualification Marksheet/Certificate",
+      "Income Certificate",
+      "Jan Aadhar/Bhamashah Card"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Only Scheduled Tribe (ST) students who meet the eligibility criteria can apply."
+    },
+    {
+      "question": "What are the main benefits provided under the scheme?",
+      "answer": "Students receive free food, school uniforms, shoes, toiletries, grooming services, electricity, water, and access to newspapers/ magazines."
+    },
+    {
+      "question": "Is there any income limit for eligibility?",
+      "answer": "Yes, the applicant’s parents/guardians must not be income tax payers, and land ownership must be within the prescribed limits."
+    },
+    {
+      "question": "What is the admission criteria for new applicants?",
+      "answer": "Merit-based admission is followed for all new applications."
+    },
+    {
+      "question": "Is there any fee for applying to this scheme?",
+      "answer": "No, the application is completely free of cost."
+    },
+    {
+      "question": "Is this scheme available for students of other castes?",
+      "answer": "No, it is exclusively for Scheduled Tribe (ST) students."
+    },
+    {
+      "question": "Can students from other states apply for this scheme?",
+      "answer": "No, only permanent residents of Rajasthan are eligible to apply."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "The applicant needs to submit a caste certificate, educational marksheet/certificate, income certificate, and jan aadhaar or bhamashah card."
+    },
+    {
+      "question": "What is the mode of application?",
+      "answer": "Applications must be submitted online via e-Mitra kiosks or the official scheme website https://tad.rajasthan.gov.in ."
+    },
+    {
+      "question": "Can students from urban areas apply?",
+      "answer": "Yes, but only if their family does not own more than 400 square yards of urban land."
+    }
+  ]
+}

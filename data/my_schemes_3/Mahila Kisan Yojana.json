@@ -1,0 +1,128 @@
+{
+  "scheme_name": "Mahila Kisan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mkyh",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Mahila Kisan Yojana",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mahila Kisan Yojana\" is an economic empowerment scheme by the Scheduled Castes Finance and Development Corporation, Government of Haryana. Through this scheme, loans are provided to the eligible women from Scheduled Castes for the betterment of their economic status through self-employment activities in the Agriculture and Allied Sector. The Corporation in collaboration with NSFDC provide loan for various economic development schemes having unit cost upto ₹ 50,000/-. The Corporation provides margin money @ 10% of the project cost."
+    ],
+    "benefits": [
+      "Loan for various economic development schemes having unit cost up to ₹50,000/-.",
+      "Margin Money at 10% of the project cost.",
+      "Subsidy at 50% of the total project cost (max. ₹10,000/-)."
+    ],
+    "eligibility": [
+      "The applicant should be a female.",
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should be from a 'Scheduled Caste'.",
+      "The applicant's annual family income should not exceed the Below Poverty Line (BPL).",
+      "The applicant's name should be present in the BPL survey list.",
+      "The income ceiling is at least 50% of the beneficiaries having annual family income upto ₹1,50,000/- and balance 50% of the beneficiaries having annual family income upto ₹3,00,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the official website of the \"",
+        "Antyodaya SARAL",
+        "\" Portal.",
+        "Step 2:",
+        "In the \"SIGN IN HERE\" section, click \"New user? Register here\".",
+        "Step 3:",
+        "The registration form will open in a new window of the browser. Fill in all the mandatory fields of the form. Create a strong password. The password should be at least '9' characters with at least one special character(!@#$%^&*), one numeric, one small case and one upper case letter (i.e ADmin@357). Fill in the captcha code and click \"Submit\".",
+        "Step 4:",
+        "An OTP will be sent to the email ID and the Mobile Number provided in the registration form. The OTP received will be for single use only and will be valid for 15 minutes from the time of request. The verification link received over email will be valid for 48 hours from the time of request. On successfully validating the Email ID and Mobile Number via OTP, the following message will be displayed to the user: \"You have successfully registered on https://saralharyana.gov.in/. Please login to the application using your email ID and password\".",
+        "Step 5:",
+        "\" Portal. In the \"SIGN IN HERE\" section, log in using your Login ID and Password.",
+        "Step 6:",
+        "On the next screen, in the left pane, click on ‘Apply for Service’, then click \"View All Available Services\".",
+        "Step 7:",
+        "You will be shown a list of schemes/services. Click on the scheme you intend to apply for. You will be taken to its online application form.",
+        "Step 8:",
+        "In the application form, fill in all the mandatory details, click on ‘Self-Declaration’. Enter the verification code/Captcha and click on the ‘Submit’ button.",
+        "Step 9:",
+        "Preview all the filled details and click on ‘Attach Annexure’. Upload all the mandatory documents and click on ‘Save Annexure’.",
+        "Step 10:",
+        "After verifying all the details, click on the ‘Submit’ button. Take a printout of the generated ‘Acknowledgement Receipt’ for future reference.",
+        "Track Your Application/ Appeal",
+        "Through Portal",
+        "Visit the SARAL Portal at https://status.saralharyana.nic.in/",
+        "Click \"Tracking Feature\".",
+        "Select the department and service from the dropdown menu.",
+        "Enter your Appeal/ Application Reference ID (provided to you when you applied for the service) and click on \"CHECK STATUS\".",
+        "Through SMS",
+        "From your registered mobile number, send the following SMS to 7738299899:",
+        "SARAL<space>Application ID",
+        "SARAL Helpline",
+        "0172-3968400 (7:00 AM to 8:00 PM; Monday to Saturday, excluding Govt Holidays)",
+        "saral.haryana@gov.in",
+        "User Manual for Application",
+        "https://saralharyana.gov.in/resources/homePage/6/pdf/Using%20Saral.pdf"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Ration Card.",
+      "Caste Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What type of assistance shall be provided by The Corporation in collaboration with NSFDC for a single unit cost upto ₹50,000/-?",
+      "answer": "The Corporation in collaboration with NSFDC can provide loan for various economic development schemes having unit cost upto ₹50,000/-."
+    },
+    {
+      "question": "What percentage of the project cost does the Corporation provide as margin money?",
+      "answer": "The Corporation provides margin money at 10% of the project cost."
+    },
+    {
+      "question": "How much subsidy does the HSFDC corporation provide, and what is the maximum amount of subsidy one can receive for a project?",
+      "answer": "The corporation (HSFDC) provide subsidy at 50% and maximum amount of subsidy is ₹10,000/- of the total project cost."
+    },
+    {
+      "question": "Which department/ organisation is the management authority for this scheme?",
+      "answer": "The Scheme is being implemented and monitored by the Haryana Scheduled Castes Finance and Development Corporation."
+    },
+    {
+      "question": "What process will be followed by the corporation for the administration of this scheme?",
+      "answer": "The concerned officials of the corporation shall verify, administer and sanction loans for assistance under this Scheme within their respective jurisdiction on the basis of criteria as decided by the corporation ."
+    },
+    {
+      "question": "What measures are in place to prevent misuse of this scheme?",
+      "answer": "In case of any misrepresentation of facts or furnishing false information by an applicant, all his/ her claims under the scheme shall be revoked by the corporation."
+    },
+    {
+      "question": "Is there any application fee is applicable?",
+      "answer": "No, however ₹10/- may be applicable as service charges."
+    },
+    {
+      "question": "How to track the applications?",
+      "answer": "After submitting the application you will be getting an Application Reference ID which you can enter on the homepage to check the status of your application. Also SMS will be sent to you at each step of the application after submitting."
+    },
+    {
+      "question": "I do not remember my password, what should I do?",
+      "answer": "In case you do not remember your password please click on forgot password and enter your email id and an email will be sent to you for next steps."
+    },
+    {
+      "question": "Will I receive any SMS, Email on completing the application?",
+      "answer": "After each step you will sent an SMS and an Email notifying you of the status and next steps that require any appointment or verification."
+    },
+    {
+      "question": "Can I save my application and submit again after that?",
+      "answer": "Yes, you can save the application in middle and you can see the application in the view incomplete applications and you can proceed from their."
+    },
+    {
+      "question": "How to apply offline? Are there any centres at district, Tehsil, Village level?",
+      "answer": "The schemes will be available at District, Tehsil and sub division level at Antyodaya Kendra/ SARAL Kendra/ Antyodaya-Saral Kendra. Also this schemes will be available at CSC centres as well."
+    },
+    {
+      "question": "Can I pay through the portal itself?",
+      "answer": "Yes, all the intermediary payment steps can be made through the portal itself and acknowledge slip will be generated."
+    }
+  ]
+}

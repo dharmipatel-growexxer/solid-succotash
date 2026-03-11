@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Handicapped Students Stipend Mizoram",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/hssm",
+  "location_name": "Mizoram",
+  "location_type": "state",
+  "page_title": "Handicapped Students Stipend Mizoram",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "The Handicapped Students Stipend scheme was launched by the Social Welfare & Tribal Affairs Department, Government of Mizoram. Under this scheme, provide financial support to differently-abled students for purchasing essential items like books and uniforms. Students enrolled in both government and private schools are eligible to receive a monthly stipend."
+    ],
+    "benefits": [
+      "Upto Class 4th - ₹30/- per month per student (360/- per annum)",
+      "Class 5th to Class 7th - ₹40/- per month per student (480/- per annum)",
+      "Class 8th to Class 12th - ₹85/- per month per student (1020/- per annum)"
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Mizoram.",
+      "The applicant should be a disabled person.",
+      "The applicant should be a student enrolled in government or private school.",
+      "The applicant should be from the Below Poverty Line (BPL) family."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant writes the application on plain paper.",
+        "Step 2:",
+        "In the application form attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application along with the documents to the District Social Welfare Office",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "UDID/Disability Certificate",
+      "Proof of BPL Status (Family Ration Card)",
+      "Photocopy of Bank Passbook (first page showing account holder's name and account number)",
+      "Qualification Document"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Handicapped Students Stipend Scheme?",
+      "answer": "The scheme provides a stipend to students with disabilities for educational needs."
+    },
+    {
+      "question": "What is the stipend amount for each class level?",
+      "answer": "Up to Class IV: ₹30/month; Class V-VII: ₹40/month; Class VIII-XII: ₹85/month."
+    },
+    {
+      "question": "Can students from private schools apply?",
+      "answer": "Yes, both government and private school students are eligible."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Students with disabilities, with a valid disability certificate and BPL status, residing in Mizoram."
+    },
+    {
+      "question": "Is there a specific quota per district?",
+      "answer": "Yes, there is a district-specific quota for the stipend."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Submit the application to the District Social Welfare Office (DSWO)."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Passport-size photo, Disability Certificate, BPL proof, and Bank Passbook."
+    },
+    {
+      "question": "Can students apply if they have received a stipend from another scheme?",
+      "answer": "Confirm with DSWO as it depends on specific guidelines."
+    },
+    {
+      "question": "Who can assist with the application if needed?",
+      "answer": "The DSWO and Social Welfare Department staff are available for assistance."
+    },
+    {
+      "question": "How often is the stipend distributed?",
+      "answer": "Monthly, based on the student's class level."
+    }
+  ]
+}

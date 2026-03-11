@@ -1,0 +1,119 @@
+{
+  "scheme_name": "Food Bill Assistance",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fbs",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Food Bill Assistance",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "The \"Food Bill Assistance\" introduced by the Social Justice and Empowerment Department, Gujarat, aims to support students who are required to live away from their families due to the unavailability of educational facilities in their home taluka. The scheme is being implemented by the Gujarat Unreserved Education and Economical Development Corporation."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹1,500/- per month for 10 months."
+    ],
+    "eligibility": [
+      "The applicant must belong to a non-reserved category.",
+      "The applicant must be pursuing a graduate-level course in Medical, Dental, Technical, or Para-Technical fields.",
+      "The applicant must be staying in a government/non-aided hostel outside their home taluka.",
+      "If the applicant is a girl studying in Std. 9 to 12, she must be staying in a hostel run by a society, trust, or institution.",
+      "The applicant’s annual family income must be ₹4,50,000/- or less."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "Go to the Corporation's",
+        "official website",
+        "and navigate to the \"Gujarat Unreserved Education and Economical Development Corporation\" section under the Corporation menu.",
+        "Step 2:",
+        "Click on \"Food Bill Assistance\" and then Apply Now.",
+        "Step 3:",
+        "Click on \"New User? Please Register Here\".",
+        "Step 4:",
+        "Enter the required details and click Register.",
+        "Application Process:",
+        "Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Read the scheme details carefully and click OK.",
+        "If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5:",
+        "If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6:",
+        "Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status:",
+        "Click here",
+        ".",
+        "Post Online Application Procedure:",
+        "After submitting the online application, the applicant must take a printout of the application, sign it, and submit it along with all uploaded documents (certificates, mark sheets, etc.) to the concerned Deputy Director (Non-Reserved Category) or the District Social Welfare Officer through courier, post, or by visiting in person.",
+        "Contact Us:"
+      ]
+    },
+    "documents_required": [
+      "Application form in the prescribed format.",
+      "Marriage certificate (if applicable).",
+      "Non-Reserved Category Certificate.",
+      "Income Certificate.",
+      "Proof of Residence.",
+      "Copy of Aadhaar Card.",
+      "Letter of Admission to School/College (Bona Fide).",
+      "Admission Letter.",
+      "Copy of LC (Leaving Certificate).",
+      "Copy of Std-10 Marksheet.",
+      "Receipt of Tuition Fee.",
+      "Copy of Bank Passbook.",
+      "Any other documents if required."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Which students are eligible for food bill assistance?",
+      "answer": "The students who are pursuing graduate-level courses in Medical, Dental, Technical, or Para-Technical fields are eligible for food bill assistance."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "The eligible students will receive financial assistance of ₹1,200 per month for a total of 10 months."
+    },
+    {
+      "question": "What proof is required to avail of food bill assistance?",
+      "answer": "The applicant must provide a certificate from the hostel confirming that they are paying for meals at the hostel."
+    },
+    {
+      "question": "What is the annual family income limit for eligibility?",
+      "answer": "The annual family income of the applicant's family must be less than ₹4,50,000/- to be eligible for this scheme."
+    },
+    {
+      "question": "How much financial assistance is provided annually under this scheme?",
+      "answer": "Under this scheme, eligible students will receive a total annual financial assistance of ₹12,000/-."
+    },
+    {
+      "question": "Is it necessary to apply for food bill assistance every year?",
+      "answer": "Yes, the applicant must submit a fresh application for food bill assistance every year."
+    },
+    {
+      "question": "If the hostel receives a grant, is the student still eligible for food bill assistance?",
+      "answer": "No, if the hostel in which the student is staying receives a grant, then the student is not eligible for food bill assistance."
+    },
+    {
+      "question": "Which authority’s income certificate is considered valid for the scheme?",
+      "answer": "The income certificate issued by the Taluka Development Officer (TDO), Mamlatdar, or Chief Officer is considered valid for this scheme."
+    },
+    {
+      "question": "From where can students obtain a non-reserved category certificate?",
+      "answer": "The non-reserved category certificate can be obtained from the Taluka Development Officer (TDO), Mamlatdar, District Social Welfare Officer (Non-Reserved), or Deputy Director (Non-Reserved)."
+    },
+    {
+      "question": "What should be done after submitting the online application?",
+      "answer": "After submitting the online application, the applicant must take a printout of the application form, sign it, and send it along with attested copies of all required documents, such as certificates and mark sheets, to the Deputy Director (Non-Reserved) or District Social Welfare Officer of the district where they are studying. The documents can be sent via courier, post, or submitted in person."
+    },
+    {
+      "question": "What happens if the hard copy of the application is not submitted after the online application?",
+      "answer": "If the hard copy of the application is not submitted along with the required documents after completing the online application, the application will not be considered valid."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Compensation in Animal Death",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ciad",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Compensation in Animal Death",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Compensation in Animal Death\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, supports livestock owners whose animals die due to natural disasters such as floods, droughts, earthquakes, or cyclones; diseases like anthrax and bird flu, poisoning, including food poisoning, snake bites, and chemical poisoning. The compensation is provided through Direct Benefit Transfer (DBT) to eligible beneficiaries."
+    ],
+    "benefits": [
+      "Details of Animal",
+      "Compensation Per Animal",
+      "Compensation Limit For One Family",
+      "Large Dairy animals (Cow/Buffalo/Camel)",
+      "₹37,500/-",
+      "maximum for 3 animals",
+      "Small Dairy animals (Sheep/Goat)",
+      "₹4,000/-",
+      "maximum for 30 animals",
+      "Large Non-milch Animals (Horse, Camel, Bullock)",
+      "₹32,000/-",
+      "Small non-milch animals (Calf, Buffalo calf, Heifer, Donkey)",
+      "₹20,000/-",
+      "Poultry-Ducks (Adult)",
+      "₹100/-",
+      "maximum for 100 birds (within a limit of ₹10,000/-)"
+    ],
+    "eligibility": [
+      "The applicant must be a registered livestock owner or breeder.",
+      "The animal’s death must be due to natural disasters such as floods, droughts, earthquakes, or cyclones; diseases like anthrax and bird flu; poisoning, including food poisoning, snake bites, and chemical poisoning."
+    ],
+    "application_process": {
+      "offline": [
+        "Contact the nearest Veterinary Dispensaries and attach the documents as per the instruction of the Veterinary Officer."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card or other identity proof of the applicant.",
+      "Bank account details for DBT.",
+      "Any other documents as specified by the Veterinary Officer."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Compensation in Animal Death\" scheme?",
+      "answer": "The \"Compensation in Animal Death\" scheme aims to provide financial assistance to animal breeders who suffer livestock losses due to natural disasters, diseases, or poisoning."
+    },
+    {
+      "question": "Who is eligible to apply for the \"Compensation in Animal Death\" scheme?",
+      "answer": "All categories of animal breeders whose animals have died due to natural disasters, diseases, poisoning, etc. are eligible to apply."
+    },
+    {
+      "question": "What is the compensation amount for large dairy animals such as cows, buffaloes, and camels?",
+      "answer": "The compensation for large dairy animals (cow, buffalo, camel) is ₹37,500/- per animal, with a maximum limit of 3 animals per family."
+    },
+    {
+      "question": "How much compensation is provided for small dairy animals like sheep and goats?",
+      "answer": "The scheme provides ₹4,000/- per animal for small dairy animals such as sheep and goats, with a maximum limit of 30 animals per family."
+    },
+    {
+      "question": "What is the compensation amount for large non-milch animals like horses, camels, and bullocks?",
+      "answer": "Large non-milch animals, including horses, camels, and bullocks, are eligible for ₹32,000/- per animal, with a maximum limit of 3 animals per family."
+    },
+    {
+      "question": "How much compensation is given for small non-milch animals like calves and donkeys?",
+      "answer": "Small non-milch animals such as calves, buffalo calves, heifers, and donkeys receive ₹20,000/- per animal, with a maximum limit of 3 animals per family."
+    },
+    {
+      "question": "Is compensation available for poultry birds?",
+      "answer": "Yes, poultry owners can receive ₹100/- per adult duck or bird, with a maximum limit of 100 birds per family and a total compensation limit of ₹10,000/-."
+    },
+    {
+      "question": "How will the compensation be provided to the beneficiaries?",
+      "answer": "The compensation amount will be transferred directly to the beneficiary’s bank account through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Where can an applicant submit the application for this scheme?",
+      "answer": "The applicant need to contact nearest Veterinary Dispensaries and attach the documents as per the instruction of the veterinary officer."
+    },
+    {
+      "question": "What documents are required to apply for compensation?",
+      "answer": "The applicant need to attach the documents as per the instruction of the Veterinary Officer."
+    }
+  ]
+}

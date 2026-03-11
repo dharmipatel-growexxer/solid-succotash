@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Solar Water Pumping System",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sswps",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Solar Water Pumping System",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Solar Water Pumping System\" by the Renewable Energy Department, Government of Haryana, aims to encourage farmers and agriculture-based community groups to adopt clean and sustainable energy for irrigation by offering subsidized solar water pumping systems. It helps in improving agricultural productivity, reducing dependency on grid electricity or diesel, and promoting water-use efficiency through integration with micro-irrigation systems. Beneficiaries are eligible for a 75% subsidy on the installation of solar pumps."
+    ],
+    "benefits": [
+      "Subsidy Amount:",
+      "A 75% subsidy is provided on the cost of solar water pumps."
+    ],
+    "eligibility": [
+      "Any Haryana Resident family with Pariwar Pahichan Patra (PPP).",
+      "Farmers of Haryana with no electric agricultural connection in his/her name.",
+      "Water User Associations, Gaushalas, and community/cluster-based irrigation systems.",
+      "The beneficiaries who have not been covered under the solar pump scheme in past."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Note:",
+        "Govt. Charges:",
+        "No Fee",
+        "Service Charges:",
+        "₹10/-",
+        "Atal Seva Kendra Service Charges:"
+      ]
+    },
+    "documents_required": [
+      "Parivar Pehchan Patra.",
+      "Zamabandi of the Agriculture land.",
+      "Details of Micro irrigation / underground pipeline (UGPL) system installed/undertaking to install micro-irrigation system/UGPL before installation of the pump."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Solar Water Pumping System\"?",
+      "answer": "The objective of the \"Solar Water Pumping System\" is to promote the adoption of solar-powered irrigation among farmers and agricultural communities in Haryana by providing solar water pumps at a subsidized rate, thereby reducing their dependence on electricity or diesel-based pumping solutions and encouraging the use of clean, renewable energy."
+    },
+    {
+      "question": "Who is responsible for implementing the \"Solar Water Pumping System\" in Haryana?",
+      "answer": "The \"Solar Water Pumping System\" is implemented by the Renewable Energy Department of the Government of Haryana."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Applicants eligible to apply under the \"Solar Water Pumping System\" must be residents of Haryana possessing a valid Parivar Pehchan Patra (PPP). Farmers without any existing electric agricultural connection in their name are also eligible."
+    },
+    {
+      "question": "Are organizations other than individual farmers eligible to apply under the scheme?",
+      "answer": "Yes, organizations such as Water User Associations, Gaushalas (cow shelters), and community or cluster-based irrigation systems are also eligible to apply under the \"Solar Water Pumping System\" provided they meet the required conditions."
+    },
+    {
+      "question": "What kind of financial assistance is provided under this scheme?",
+      "answer": "Under the \"Solar Water Pumping System\", beneficiaries are provided with solar-powered irrigation pumps at a 75% subsidy on the total cost, thereby requiring them to contribute only the remaining 25%."
+    },
+    {
+      "question": "Can a farmer who already has an electric agricultural connection in his or her name apply for this scheme?",
+      "answer": "No, a farmer who already possesses an electric agricultural connection in his or her name is not eligible to apply under the \"Solar Water Pumping System\" as the scheme is meant for those who do not have any such connection."
+    },
+    {
+      "question": "What is the process for applying to the \"Solar Water Pumping System\"?",
+      "answer": "The applicants may visit the Antyodaya-SARAL Portal to apply for the scheme."
+    },
+    {
+      "question": "What is the offline process for applying the scheme?",
+      "answer": "To apply for the \"Solar Water Pumping System\", the applicant may visit the nearest Atal Seva Kendra (Common Service Centre)."
+    },
+    {
+      "question": "Is there any fee applicable for applying under this scheme through Atal Seva Kendra (Common Service Centre)?",
+      "answer": "Yes, a nominal service fee of ₹10/- is charged by the Common Service Centre for the application."
+    },
+    {
+      "question": "Is it possible to avail the scheme benefits more than once?",
+      "answer": "No, a beneficiary who has already received a solar pump under any previous iteration of the solar pump scheme is not eligible to avail the benefits again under the \"Solar Water Pumping System\"."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "scheme_name": "Mill Gate Price Subsidy Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mgpss",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Mill Gate Price Subsidy Scheme",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2007, the \"Mill Gate Price Subsidy Scheme\", implemented by the Commissioner of Cottage and Rural Industries, Industries & Mines Department, Government of Gujarat, aims to provide quality yarn at subsidized rates to handloom weavers, ensuring affordability and improved product quality. The scheme offers freight reimbursement (1–8.5% based on yarn type and region) and a 15% subsidy on yarn purchases from NHDC-recognized depots. Eligible beneficiaries include handloom cooperatives, NGOs, and development centers. The scheme is implemented through District Industries Centers (DICs) and aims to sustain employment for economically weak weavers, especially from Scheduled Castes."
+    ],
+    "benefits": [
+      "Yarn Purchase Subsidy",
+      "15% subsidy on yarn bought from NHDC-recognized depots.",
+      "Freight Reimbursement",
+      "Non-Silk/Jute Yarn: Plain Area: 1.00%, Hills/Remote: 1.75%, North-East: 3.00%",
+      "Silk Yarn: Plain Area: 1.00%, Hills/Remote: 1.25%, North-East: 1.50%",
+      "Jute/Jute Blended Yarn: Plain Area: 7.00%, Hills/Remote: 8.00%, North-East: 8.50%",
+      "*Additional 2.5% depot operating charges.",
+      "Disbursement Mode",
+      "15% subsidy credited via RTGS/e-payment.",
+      "Freight reimbursement is processed separately."
+    ],
+    "eligibility": [
+      "The applicant must be a handloom cooperative society, NGO, or development center.",
+      "The applicant must purchase yarn from NHDC-recognized depots (e.g., Gujarat State Handloom & Handicrafts Development Corporation)."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should first purchase the yarn from NHDC-recognized depots (e.g., 12 depots in Surendranagar, 1 in Ahmedabad).",
+        "Step 2:",
+        "Visit the District Industries Centre (DIC) of his district, and request the hard copy of the prescribed format of the application form from the designated staff.",
+        "Step 3:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the designated staff at the DIC.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned staff to whom the application has been submitted."
+      ]
+    },
+    "documents_required": [
+      "Purchase Invoices From NHDC-recognized Depots.",
+      "Proof of Registration (for Cooperatives/NGOs).",
+      "Freight Receipts (for Reimbursement Claims).",
+      "Bank Details for Subsidy Disbursement."
+    ],
+    "sources_and_references": [
+      "Guidelines [Commissioner Of Cottage & Rural Industries]",
+      "Incentives For Cottage And Rural Industries",
+      "List Of District Industries Centres",
+      "Time Limit For Benefit Sanction, And Details Of The Implementing Officer"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the yarn subsidy under this scheme?",
+      "answer": "Handloom cooperative societies, NGOs, and development centers purchasing yarn from NHDC-recognized depots can apply."
+    },
+    {
+      "question": "What percentage of subsidy is provided on yarn purchases?",
+      "answer": "A 15% subsidy is offered on yarn purchased from NHDC-recognized depots."
+    },
+    {
+      "question": "From which depots must the yarn be purchased to qualify for the subsidy?",
+      "answer": "Yarn must be purchased from NHDC-recognized depots like Gujarat State Handloom & Handicrafts Development Corporation."
+    },
+    {
+      "question": "Is there any freight reimbursement available under this scheme?",
+      "answer": "Yes, freight reimbursement ranging from 1% to 8.5% is provided based on yarn type and region."
+    },
+    {
+      "question": "How is the freight reimbursement percentage determined?",
+      "answer": "It varies by yarn type (non-silk/jute, silk, jute/jute blended) and region (plain, hills/remote, North-East)."
+    },
+    {
+      "question": "What additional charges are applicable for depot operations?",
+      "answer": "An extra 2.5% is charged for depot operating expenses."
+    },
+    {
+      "question": "How is the 15% subsidy amount disbursed to beneficiaries?",
+      "answer": "The subsidy is transferred directly to beneficiaries' accounts through RTGS or e-payment."
+    },
+    {
+      "question": "Is the freight reimbursement processed along with the yarn subsidy?",
+      "answer": "No, freight reimbursement is processed separately from the yarn subsidy."
+    },
+    {
+      "question": "What documents are required to claim the yarn purchase subsidy?",
+      "answer": "Applicants need purchase invoices from NHDC-recognized depots and bank details for disbursement."
+    },
+    {
+      "question": "What proof is needed for freight reimbursement claims?",
+      "answer": "Freight receipts must be submitted along with the reimbursement application."
+    },
+    {
+      "question": "Do applicants need to submit registration proof?",
+      "answer": "Yes, cooperative societies and NGOs must provide their registration documents."
+    },
+    {
+      "question": "Are individual weavers eligible for this subsidy?",
+      "answer": "No, the scheme is only for handloom cooperatives, NGOs, and development centers."
+    }
+  ]
+}

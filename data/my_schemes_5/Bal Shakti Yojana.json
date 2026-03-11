@@ -1,0 +1,73 @@
+{
+  "scheme_name": "Bal Shakti Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bsymp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Bal Shakti Yojana",
+  "scraped_at": "2026-03-10 08:21:04 UTC",
+  "sections": {
+    "details": [
+      "The “Bal Shakti Yojana” was launched by the Department of Public Health and Medical Education, Government of Madhya Pradesh. It aims to reduce child mortality caused by severe malnutrition among children below 5 years of age. The scheme provides free medical care, nutrition rehabilitation, diet, and transport through 315 Nutrition Rehabilitation Centres (NRCs) across the state."
+    ],
+    "benefits": [
+      "Free institutional management and treatment for severely malnourished and sick children at Nutrition Rehabilitation Centres (NRCs).",
+      "Free balanced diet",
+      "Free medical check-up, medicines, and diagnostic services for enrolled children.",
+      "Free transport facility.",
+      "Counselling and training sessions.",
+      "Nutritional awareness."
+    ],
+    "eligibility": [
+      "The child should be a resident of Madhya Pradesh.",
+      "The applicant should be a child below 5 years of age.",
+      "The child must be severely malnourished or sick and meet at least one of the following criteria:",
+      "Mid-Upper Arm Circumference (MUAC) less than 11.5 cm.",
+      "Weight-for-height Z-score less than -3 SD (standard deviation).",
+      "Bilateral pitting oedema (swelling on both feet)."
+    ],
+    "application_process": {
+      "offline": [
+        "The child is identified by health workers (ANM/ASHA/AWW) during community surveys or health check-ups.",
+        "Eligible children are referred to the nearest Nutrition Rehabilitation Centre (NRC).",
+        "On arrival, the child undergoes medical examination and anthropometric assessment to confirm eligibility.",
+        "Upon meeting admission criteria, the child and mother/caregiver are admitted free of cost."
+      ]
+    },
+    "documents_required": [
+      "No documents are required to avail the benefits of this scheme. The child is identified by health workers (ANM/ASHA/AWW) during community surveys or health check-ups."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who are the beneficiaries?",
+      "answer": "Severely malnourished and sick children under 5 years of age."
+    },
+    {
+      "question": "What facilities are provided under the scheme?",
+      "answer": "Free diet, medicines, medical care, transport, and counselling for the mother."
+    },
+    {
+      "question": "What are the criteria for admission to NRC?",
+      "answer": "MUAC less than 11.5 cm, weight-for-height below -3 SD, or presence of bilateral oedema."
+    },
+    {
+      "question": "How many NRCs are currently operational in Madhya Pradesh?",
+      "answer": "A total of 315 NRCs are functional across the state."
+    },
+    {
+      "question": "Is the service completely free?",
+      "answer": "Yes, all services including treatment, stay, and food are provided free of cost."
+    },
+    {
+      "question": "Who can refer a child to the NRC?",
+      "answer": "Health workers such as ASHA, ANM, or a government doctor."
+    },
+    {
+      "question": "Are urban children eligible for the scheme?",
+      "answer": "Yes, the scheme covers both urban and rural areas."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "scheme_name": "Pashu Bima Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pby",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Pashu Bima Yojana",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Pashu Bima Yojana\" by the Directorate of Dairy Development, Government of Bihar aims to provide financial security to livestock owners against losses due to serious diseases like Lumpy Skin Disease, HSBQ, and other causes of cattle death. Through this scheme, insurance coverage of up to ₹60,000 per dairy cattle is provided to livestock owners of all categories, with the government providing a 75% subsidy on the premium amount. The scheme is implemented by the District Dairy Development Officers across all districts of Bihar."
+    ],
+    "benefits": [
+      "The maximum price per milch cattle has been fixed at ₹60,000/-.",
+      "The total amount of insurance at the rate of 3.5 percent will be ₹2,100/-.",
+      "The insurance company will insure milch cattle for 01 year.",
+      "The insurance company will fit the data ear tags in the milch cattle.",
+      "NOTE 1:",
+      "75% amount of ₹1,575/- will be paid by the state government as a grant and the remaining 25% amount of ₹525/- will be paid by the cattle farmers to the insurance company.",
+      "NOTE 2:",
+      "The responsibility for the safety of milch cattle will be on the beneficiary."
+    ],
+    "eligibility": [
+      "The applicant should be a farmer of milch cattle.",
+      "The applicant should be a member of the \"Milk Producer Cooperation Committee\".",
+      "The milch cattle of the farmer should be healthy and certified by a veterinary doctor at the time of insurance."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "Visit the registration page:",
+        "https://misdairy.bihar.gov.in/Registration/Register",
+        "Step 2:",
+        "Provide the below details for the registration",
+        "Full name.",
+        "Father's name or husband's name (as applicable).",
+        "Select date of birth.",
+        "Choose gender from the dropdown menu.",
+        "Select your district from the available options.",
+        "Enter your valid Aadhaar number in the designated field.",
+        "Step 3:",
+        "Form Submission via mobile OTP:",
+        "Provide your active mobile phone number.",
+        "An OTP (One-Time Password) will be sent to your phone. Enter the received OTP in the designated field.",
+        "After entering the OTP, submit the completed registration form.",
+        "Step 4:",
+        "Upon successful registration, a password will be sent to the applicant's registered mobile number. This password will be used for future logins.",
+        "Application",
+        "Visit the login page:",
+        "https://misdairy.bihar.gov.in",
+        "/ and do login with the following details:",
+        "Enter the registered mobile number.",
+        "Use the password received during registration to log in.",
+        "Complete the captcha verification.",
+        "Applicant Details (Pre-populated):",
+        "The portal will automatically display your pre-registered information, including mobile number, district, block, and PIN code. You cannot edit this information.",
+        "Provide the following details:",
+        "Enter the full name of the proposer.",
+        "Select the proposer's occupation from the provided options.",
+        "Choose the proposer's qualification from the available list.",
+        "Supporting Documents Upload:",
+        "Upload a scanned copy of your Milk Producer Society membership receipt.",
+        "Upload a passport-sized photograph of the proposer.",
+        "Step 5:",
+        "Submission:",
+        "After completing all sections, click the \"Submit\" button."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Milk Producer Society Membership Receipt.",
+      "Proposer's Photo."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the main diseases covered under the livestock insurance scheme?",
+      "answer": "The main objective of the scheme is to provide financial security to livestock farmers against the economic loss caused by the death of milch animals due to serious diseases such as chronic skin disease, HSBQ, and other reasons."
+    },
+    {
+      "question": "What is the maximum value per milch animal under this scheme?",
+      "answer": "The maximum value per milch animal under this scheme is ₹60,000."
+    },
+    {
+      "question": "Is there a preference given to members of milk producer cooperatives?",
+      "answer": "Yes, preference is given to members of milk producer cooperatives for insuring their milch animals."
+    },
+    {
+      "question": "Are only healthy animals eligible for insurance under this scheme?",
+      "answer": "Only healthy animals with a health certificate issued by a veterinarian are eligible for insurance under this scheme."
+    },
+    {
+      "question": "Who is responsible for implementing the scheme at the district level?",
+      "answer": "The implementation of the scheme is done at the district level by the District Livestock Development Officer."
+    },
+    {
+      "question": "How can interested applicants apply for livestock insurance?",
+      "answer": "Interested applicants can apply for livestock insurance online through the website of the Livestock Development Directorate."
+    },
+    {
+      "question": "Can farmers insure animals other than milch animals?",
+      "answer": "No, this scheme specifically covers only milch animals."
+    },
+    {
+      "question": "Is there any penalty for late application submission?",
+      "answer": "Penalties for late application submission may vary depending on the guidelines of the scheme and the discretion of the implementing authority."
+    },
+    {
+      "question": "Are there any specific long-term goals aimed at through this scheme?",
+      "answer": "Long-term goals aimed at through this scheme include sustainable livestock rearing practices and rural economic development."
+    },
+    {
+      "question": "How long is the insurance period for milch animals?",
+      "answer": "Milch animals are insured for a period of 1 years under this scheme."
+    },
+    {
+      "question": "Are there any exemptions or discounts for certain categories of farmers?",
+      "answer": "Exemptions or discounts for certain categories of farmers may be provided based on the specific guidelines of the scheme."
+    }
+  ]
+}

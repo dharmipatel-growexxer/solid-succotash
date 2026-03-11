@@ -1,0 +1,152 @@
+{
+  "scheme_name": "Pradhan Mantri Matsya Kisan Samridhi Sah-yojana (PM-MKSSY): COMPONENT 1B: One-Time Incentive for the Adoption of Aquaculture Insurance",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmmkssy-1b",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Pradhan Mantri Matsya Kisan Samridhi Sah-yojana (PM-MKSSY): COMPONENT 1B: One-Time Incentive for the Adoption of Aquaculture Insurance",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana\" is a Central Sector Sub-scheme under the Pradhan Mantri Matsya Sampada Yojana (PMMSY). It is administered by the Department of Fisheries, Ministry of Fisheries, Animal Husbandry and Dairying, Government of India. The scheme aims to formalise the fisheries sector and incentivise fisheries-based microenterprises and entrepreneurs to access institutional finance.",
+      "Under Component 1B, the scheme provides a one-time incentive to eligible applicants who have availed institutional credit for fisheries-related activities. The objective is to encourage formal credit adoption and support the repayment capacity of fisheries microenterprises. To be eligible, the applicant must be registered on the National Fisheries Digital Platform (NFDP) and must have availed credit through a recognised financial institution. The scheme is implemented by the Department of Fisheries through the NFDP, and the application process is online."
+    ],
+    "benefits": [
+      "Financial assistance is provided as a one-time incentive to applicants who have successfully availed institutional credit for fisheries and aquaculture-related activities.",
+      "Frequency of Disbursement",
+      "The incentive is one-time and non-recurring.",
+      "The incentive can only be availed once per eligible activity and applicant, and no repeated claims are permitted under Component 1-B.",
+      "Criteria for Disbursement",
+      "The incentive is not linked to any performance benchmarks beyond initial loan sanction and disbursement.",
+      "Funds are released after successful validation and approval of the application by the Project Management Unit (PMU), Department of Fisheries.",
+      "Mode of Disbursement",
+      "The incentive is transferred directly to the verified bank account of the beneficiary through the Direct Benefit Transfer (DBT) mechanism."
+    ],
+    "eligibility": [
+      "The applicant must be a fisheries microenterprise or an individual engaged in fisheries or aquaculture-related activities.",
+      "The applicant must be registered on the National Fisheries Digital Platform (NFDP).",
+      "The applicant must have availed institutional credit from a recognised financial institution.",
+      "The applicant must possess a valid Aadhaar-seeded bank account for DBT purposes.",
+      "The applicant must submit documentary proof of loan sanction and disbursement.",
+      "The applicant must consent to the verification and validation process undertaken by the Department of Fisheries."
+    ],
+    "application_process": {
+      "online": [
+        "The application process for availing benefits under Component 1-B of the PM-MKSSY is completely online and facilitated through the National Fisheries Digital Platform (NFDP).",
+        "The individual interested in applying to this scheme must have already availed of an institutional loan.",
+        "The application to this component can be made only once per applicant per eligible activity.",
+        "The detailed and sequential steps involved in the application process is given below:",
+        "Step 1:",
+        "Visit the Official Website of the \"National Fisheries Digital Platform (NFDP)\"",
+        "The applicant must visit",
+        "the official website of NFDP",
+        "using any web browser. Click on “Register” for new registration or “Login” if already registered.",
+        "Step 2:",
+        "Complete the Registration Process on NFDP",
+        "If the applicant is not already registered, they must click on the “Register” button. Select the relevant applicant category (Individual / Organisation). The system will prompt for entering the mobile number with the country code (+91) followed by One-Time Password (OTP) verification. Post successful OTP authentication, the applicant must create a password in accordance with the portal’s password policy.",
+        "Step 3:",
+        "Fill in Profile Information",
+        "After login, the applicant must proceed to complete the registration form by filling in the following details:",
+        "Name as per Aadhaar, Aadhaar Number, Bank Account Number, IFSC Code, Category of enterprise (individual/organisation), Nature of activity (fisheries/aquaculture-related), Contact details and address.",
+        "Step 4:",
+        "Upload Mandatory Documents",
+        "The applicant must upload clear, legible, and valid copies of the required documents, such as:",
+        "Aadhaar Card, Bank Passbook or Statement, Loan Sanction Letter, Loan Disbursement Proof, Depository Account Statement (if applicable), Self-Declaration Form, NFDP Registration, Acknowledgement/Certificate.",
+        "Each uploaded document must conform to the specified file format (PDF/JPEG) and size limits as mentioned on the portal.",
+        "Step 5:",
+        "System-Based Validation and Data Integration",
+        "Upon submission of the application, the data entered by the applicant will undergo system-based checks and integration with other government databases to ensure authenticity. If any discrepancies or incomplete information are detected, the applicant will be notified to make necessary corrections.",
+        "Step 6:",
+        "Credit Facilitation Support Application",
+        "Once the profile is validated, the applicant must navigate to the “Apply for Financial Assistance – Component 1-B” section on the NFDP. Here, the applicant must fill out the form specifying: Bank Name, Loan Amount, Loan Disbursement Date, Purpose of loan and intended fisheries activity, Upload all relevant loan documents. Upon completion, the application must be submitted for further processing.",
+        "Step 7:",
+        "Application Review and Sanction",
+        "The submitted application is reviewed by Credit Intermediaries and the designated team at the Department of Fisheries. Verified and validated applications are approved by the PMU for disbursement. The application is sanctioned and marked for DBT processing.",
+        "Step 8:",
+        "Disbursement of Financial Assistance",
+        "After approval, the Project Management Unit (PMU) in the Department of Fisheries, Government of India, will initiate the transfer of funds directly to the applicant’s verified bank account via the DBT mechanism."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card (For identity verification and DBT)",
+      "Bank Passbook or Statement (Aadhaar-seeded bank account)",
+      "Loan Sanction Letter (From a recognised financial institution)",
+      "Loan Disbursement Proof (Transaction statement showing credit)",
+      "Depository Account Statement (Where applicable)",
+      "NFDP Registration Acknowledgement",
+      "Self-Declaration Form (As prescribed by the scheme)",
+      "Any other document as requested during validation"
+    ],
+    "sources_and_references": [
+      "PM-MKSSY Scheme Guidelines",
+      "NFDP Portal",
+      "New User Registration",
+      "Components Of PM-MKSSY"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is registration on the National Fisheries Digital Platform mandatory to apply for this benefit?",
+      "answer": "Yes, applicants must be registered on the NFDP to be eligible for the one-time incentive under Component 1B."
+    },
+    {
+      "question": "What type of financial assistance is provided under this component of the scheme?",
+      "answer": "A one-time incentive is provided to beneficiaries who have availed institutional credit for fisheries/aquaculture activities, transferred via Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Can I apply for this incentive if I haven’t taken a loan from a recognised financial institution?",
+      "answer": "No, only applicants who have availed institutional credit for fisheries-related activities are eligible."
+    },
+    {
+      "question": "Is there a requirement for the bank account to be linked with Aadhaar for receiving the incentive?",
+      "answer": "Yes, the applicant must have a valid Aadhaar-seeded bank account for DBT disbursement."
+    },
+    {
+      "question": "What documents are needed to prove loan sanction and disbursement?",
+      "answer": "You must submit the loan sanction letter and proof of disbursement (e.g., bank transaction statement) from the financial institution."
+    },
+    {
+      "question": "Who is eligible to apply for the one-time incentive under this fisheries support scheme?",
+      "answer": "The applicant must be a fisheries microenterprise or an individual engaged in fisheries/aquaculture activities, registered on the National Fisheries Digital Platform (NFDP), and must have availed institutional credit from a recognised financial institution."
+    },
+    {
+      "question": "Is this incentive a recurring benefit or a one-time payment?",
+      "answer": "This is a non-recurring, one-time incentive and cannot be claimed repeatedly for the same activity."
+    },
+    {
+      "question": "How is the financial incentive transferred to beneficiaries?",
+      "answer": "The amount is directly credited to the beneficiary’s verified bank account through the Direct Benefit Transfer (DBT) mechanism."
+    },
+    {
+      "question": "Can applicants under Component 1A (small grants) also avail benefits under Component 1B?",
+      "answer": "Yes, the incentives under Component 1B are distinct and independent of Component 1A benefits."
+    },
+    {
+      "question": "What is the purpose of providing this one-time incentive?",
+      "answer": "The scheme aims to encourage formal credit adoption and support repayment capacity for fisheries microenterprises."
+    },
+    {
+      "question": "Is there any performance benchmark required to receive the incentive?",
+      "answer": "No, the incentive is linked only to loan sanction and disbursement, not to post-disbursement performance."
+    },
+    {
+      "question": "What is the first step to apply for the incentive on the NFDP portal?",
+      "answer": "New applicants must register on the NFDP website by providing their mobile number, verifying via OTP, and setting a password."
+    },
+    {
+      "question": "What personal details are required during the NFDP registration process?",
+      "answer": "You must provide your name (as per Aadhaar), Aadhaar number, bank account details, enterprise type, contact information, and address."
+    },
+    {
+      "question": "Which documents must be uploaded during the application process?",
+      "answer": "Required documents include Aadhaar card, bank passbook, loan sanction letter, disbursement proof, NFDP registration acknowledgment, and a self-declaration form."
+    },
+    {
+      "question": "Who reviews and approves the submitted applications?",
+      "answer": "Applications are verified by Credit Intermediaries and the Department of Fisheries, with final approval by the Project Management Unit (PMU)."
+    },
+    {
+      "question": "How can I track the status of my application after submission?",
+      "answer": "Log in to the NFDP portal and check the \"My Applications\" section for updates (e.g., Submitted/Under Review/Approved/Rejected/Disbursed)."
+    }
+  ]
+}

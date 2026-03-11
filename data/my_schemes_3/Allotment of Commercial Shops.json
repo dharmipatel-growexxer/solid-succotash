@@ -1,0 +1,67 @@
+{
+  "scheme_name": "Allotment of Commercial Shops",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/acsuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Allotment of Commercial Shops",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Allotment of Commercial Shops” is implemented by the Uttarakhand Agricultural Production & Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote ease of doing business for licensed traders by providing them with well-located commercial shops in market yards (mandis)."
+    ],
+    "benefits": [
+      "The scheme facilitates ease of doing business for traders by allotting them with commercial shops."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must hold a valid trader’s license issued by the Mandi Committee."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Upon receiving information regarding shop allotment (through notices published in newspapers and displayed at public places), the applicant must obtain the application form from the committee office by paying the prescribed fee.",
+        "Complete the form with the required information and submit it to the committee office within the stipulated time.",
+        "Selection Process:",
+        "Allotment of commercial shops is carried out by the Shop Allotment Committee.",
+        "Traders are selected based on the available shops and the applications received, giving priority in descending order to those who have deposited the highest market fees in the last three years."
+      ]
+    },
+    "documents_required": [
+      "Valid trader’s license issued by the Mandi Committee",
+      "Other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 167)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Only traders who are residents of Uttarakhand and hold a valid trader’s license issued by the Mandi Committee are eligible."
+    },
+    {
+      "question": "What is the main objective of the scheme?",
+      "answer": "The scheme aims to promote ease of doing business for licensed traders by providing them commercial shops in regulated market yards (mandis)."
+    },
+    {
+      "question": "How will I know when shops are available for allotment?",
+      "answer": "Information is published through notices in newspapers and displayed at public places in the mandi area."
+    },
+    {
+      "question": "How can I obtain the application form?",
+      "answer": "The form can be obtained from the committee office upon paying the prescribed fee."
+    },
+    {
+      "question": "What is the process to submit the application?",
+      "answer": "Fill in the required details in the application form and submit it to the committee office within the specified timeframe."
+    },
+    {
+      "question": "Who selects traders for shop allotment?",
+      "answer": "The Shop Allotment Committee is responsible for allotting commercial shops."
+    },
+    {
+      "question": "How are traders selected for shops?",
+      "answer": "Traders are selected in descending order based on the highest market fees they have deposited in the last three years."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ignwps",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Indira Gandhi National Widow Pension Scheme",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "Indira Gandhi National Widow Pension Scheme (IGNWPS) is implemented by Ministry of Rural Development, Government of India. It is a non-contributory pension scheme to provide social security to widows of poor family (BPL) of the society."
+    ],
+    "benefits": [
+      "A pension of Rs.300/- per month is provided to Widows between 40 years and 79 years. For persons who are 80 years and above the pension is Rs.500/- per month."
+    ],
+    "eligibility": [
+      "The eligibility criteria under Indira Gandhi National Widow Pension Scheme (IGNWPS) is:-",
+      "The applicant must be a widow in the age group of 40-79 years.",
+      "The applicant should belong to a household living below the poverty line according to the criteria prescribed by the Govt. of India"
+    ],
+    "application_process": {
+      "offline": [
+        "One can download UMANG App or visit website",
+        "https://web.umang.gov.in/web_new/home",
+        "The citizen can login using mobile number and OTP.",
+        "Once logged In, citizen can search for NSAP.",
+        "Click on “Apply Online”",
+        "Fill the basic details, choose the mode of payment of pension, upload photo and click on “Submit”."
+      ]
+    },
+    "documents_required": [
+      "Death Certificate of husband – With the name of the surviving wife(widow).",
+      "BPL Card.",
+      "Age Proof - For age, the birth certificate or school certificate may be relied on. In their absence ration card and EPIC may be considered. If there is no valid document, any Medical Officer of any government hospital may be authorized to issue the age certificate."
+    ],
+    "sources_and_references": [
+      "NSAP FAQs",
+      "NSAP Guidelines",
+      "IGNWPS Office Memorandum Dated 08th Nov 2012",
+      "IGNWPS Office Memorandum Dated 30th Jun 2011",
+      "IGNWPS Office Memorandum Dated 30th Sep 2009"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are different modes of receiving Pension?",
+      "answer": "One can receive pension amount in Bank Account, Post Office Account, Postal Money Order or in hand cash."
+    },
+    {
+      "question": "Who will disburse in hand cash?",
+      "answer": "In hand cash will be disbursed by Pension Disbursement Authority of respective Sub District/Municipal Area. One can select the pension disbursement authority while filling online application form on UMANG."
+    },
+    {
+      "question": "What Is The Eligibility For Getting Pension Under IGNWPS?",
+      "answer": "The eligibility criteria under Indira Gandhi National Widow Pension Scheme (IGNWPS) is:- 1. The applicant must be a widow in the age group of 40-79 years. 2. The applicant should belong to a household living below the poverty line according to the criteria prescribed by the Govt. of India"
+    }
+  ]
+}

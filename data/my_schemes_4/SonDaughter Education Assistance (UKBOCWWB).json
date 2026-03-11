@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Son/Daughter Education Assistance (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/easukbocwwb",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Son/Daughter Education Assistance (UKBOCWWB)",
+  "scraped_at": "2026-03-10 09:21:06 UTC",
+  "sections": {
+    "details": [
+      "The “Son/Daughter Education Assistance” scheme is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme provides financial assistance to the children of registered building and construction workers pursuing education from Class I up to higher education or professional courses."
+    ],
+    "benefits": [
+      "Financial assistance for education will be provided to the children of construction workers at the following rates:",
+      "Sl. No.",
+      "Class/Course",
+      "Financial Assistance (Yearly)",
+      "1",
+      "Class 1 to 5",
+      "₹1,800/-",
+      "2",
+      "Class 6 to 10",
+      "₹2,400/-",
+      "3",
+      "Class 11 to 12",
+      "₹3,000/-",
+      "4",
+      "Graduation/Post Graduation or its equivalent",
+      "₹10,000/-",
+      "5",
+      "ITI, Polytechnic courses or higher education",
+      "The course fee will be payable to the Government Institutions / College."
+    ],
+    "eligibility": [
+      "The two (2) children of a construction worker registered with the Uttarakhand Building and Other Construction Workers Welfare Board will be eligible to avail benefits under this scheme.",
+      "Applications must be submitted between November of the same financial year in which admission is taken (from Class 1 to Post Graduation) and June of the next academic session. Applications received after this period will not be considered by the Board.",
+      "Financial assistance for education is provided on an annual basis."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Construction workers have to apply online through Shramik Suvidha Kendras.",
+        "During the application process, the following documents must be attached: Shramik Card, Aadhaar Card of the worker, mobile number, bank account details, Aadhaar Card of the children, attested copy of the children’s last year’s mark sheet (not required for Class 1), certificate of enrollment from the educational institution, self-declaration form, and a certificate confirming that no financial assistance has been received from any other department or government for this purpose.",
+        "After submission, the department will conduct a verification. If the information is found correct, financial assistance for the entire academic session will be credited in one installment to the worker’s account."
+      ]
+    },
+    "documents_required": [
+      "Shramik/Labour Card",
+      "Aadhar Card of the worker",
+      "Mobile number",
+      "Bank account details",
+      "Aadhar Card of the children",
+      "Attested copy of the previous year's mark sheet of the children (not required for Class 1)",
+      "Certificate of enrollment from the educational institution",
+      "Self-declaration form",
+      "Certificate stating that no assistance has been received from any other department or government scheme in this regard"
+    ],
+    "sources_and_references": [
+      "Scheme Details (Page No. 53)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "The children of registered construction workers under UKBOCWWB are eligible. Only two children per worker can avail benefits."
+    },
+    {
+      "question": "What is the educational coverage of the scheme?",
+      "answer": "The scheme covers education from Class I to postgraduate levels, including professional courses such as ITI, Polytechnic, and other higher education programs."
+    },
+    {
+      "question": "How is the assistance calculated for professional courses like ITI or Polytechnic?",
+      "answer": "For professional courses, the course fees are reimbursed as per the fees applicable in Government institutions/colleges."
+    },
+    {
+      "question": "When can applications be submitted?",
+      "answer": "Applications can be submitted from November of the academic year in which admission is taken up to June of the following academic year."
+    },
+    {
+      "question": "Will applications received after June be considered?",
+      "answer": "No, applications received after June will not be considered by the Board."
+    },
+    {
+      "question": "Is this financial aid given once or annually?",
+      "answer": "Financial aid is provided on an annual basis."
+    },
+    {
+      "question": "How will the assistance be transferred?",
+      "answer": "The approved assistance is directly transferred to the bank account of the worker or guardian."
+    }
+  ]
+}

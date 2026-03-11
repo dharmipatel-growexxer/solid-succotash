@@ -1,0 +1,102 @@
+{
+  "scheme_name": "Mukhymantri Sarthi Yojana - Jharkhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mmsy-j",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Mukhymantri Sarthi Yojana - Jharkhand",
+  "scraped_at": "2026-03-10 09:09:17 UTC",
+  "sections": {
+    "details": [
+      "The \"Mukhymantri Sarthi Yojana\" was launched by the Department of Labour, Employment, Training and Skill Development, Government of Jharkhand. The scheme aims to provide industry-relevant skill development training for youth in Jharkhand, aligning with NSQF standards. Implemented by JSDMS across all 24 districts, it offers free training to enhance employability and self-employment opportunities. The scheme ensures quality training with a focus on marginalized communities, including SC/ST, women, PwD, and transgender individuals."
+    ],
+    "benefits": [
+      "Free Training:",
+      "Industry-aligned, high-quality skill development training at no cost.",
+      "Holistic Development:",
+      "Includes soft skills and IT training for better employability.",
+      "Essential Materials Provided:",
+      "Uniforms, participant handbooks, and required tools for free.",
+      "Financial Support:",
+      "Rozgar Protsahan Bhatta ₹1,000/month for boys and ₹1,500/month for girls, transgender, and PwD for one year if unemployed after training.",
+      "₹1,000/month transport allowance for non-residential trainees."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Jharkhand.",
+      "The applicant's age should be 18-35 years.",
+      "The applicant must belong to one of the priority groups (SC/ST, women, PwD, transgender)."
+    ],
+    "application_process": {
+      "online": [
+        "Candidate registration by TSP:",
+        "The candidate visits the nearest",
+        "Training Service Provide Center",
+        "for registration under the \"Mukhymantri Sarthi Yojna\" scheme.",
+        "NOTE:",
+        "Candidate registration would be Aadhaar-based & hence Aadhaar number at the time of candidate registration would be mandatory."
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph.",
+      "Aadhaar Card.",
+      "Bank Passbook."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is Mukhymantri Sarthi Yojna?",
+      "answer": "It is a skill development scheme to provide free NSQF-aligned training for employability."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Residents of Jharkhand aged 18-35 years (50 years for SC/ST under BIRSA)."
+    },
+    {
+      "question": "Is the training free of cost?",
+      "answer": "Yes, the training is completely free of cost."
+    },
+    {
+      "question": "What is Rozgar Protsahan Bhatta?",
+      "answer": "An allowance of ₹1000/month for boys and ₹1500/month for girls, transgender, and PwD for one year if unemployed."
+    },
+    {
+      "question": "What type of training is provided?",
+      "answer": "Industry-relevant, NSQF-aligned training, including soft skills and IT."
+    },
+    {
+      "question": "How is attendance tracked?",
+      "answer": "Through Aadhar-enabled Biometric Attendance System (AEBAS)."
+    },
+    {
+      "question": "Are there residential facilities?",
+      "answer": "Yes, both residential and non-residential training centers are available."
+    },
+    {
+      "question": "Can non-residential trainees get transport allowance?",
+      "answer": "Yes, ₹1000/month is provided through DBT."
+    },
+    {
+      "question": "What are the materials provided?",
+      "answer": "Uniforms, participant handbooks, and other essentials."
+    },
+    {
+      "question": "How to apply for the scheme?",
+      "answer": "Visit your district training center and fill out the application with required documents."
+    },
+    {
+      "question": "What happens if I remain unemployed after the training?",
+      "answer": "You will receive Rozgar Protsahan Bhatta for up to one year."
+    },
+    {
+      "question": "What is the role of NSDC?",
+      "answer": "NSDC accredits training centers under SMART measures for quality assurance."
+    },
+    {
+      "question": "Is IT training mandatory for all courses?",
+      "answer": "Yes, IT training is included to enhance holistic development."
+    }
+  ]
+}

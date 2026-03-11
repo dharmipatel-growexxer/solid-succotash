@@ -1,0 +1,72 @@
+{
+  "scheme_name": "Scheme for Fencing in Gardens",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sfguk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Scheme for Fencing in Gardens",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Scheme for Fencing in Gardens” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to protect fruit plants, horticultural crops, and orchards from wild animals by providing financial assistance for fencing."
+    ],
+    "benefits": [
+      "The scheme provides financial support for fencing gardens to protect fruit plants, horticultural crops, and orchards from wild animals, offering a subsidy of 50% of the total cost, up to a maximum of ₹1.00 lakh per hectare."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer and must hold a valid Udhyan Card."
+    ],
+    "application_process": {
+      "offline": [
+        "Applications for garden fencing must be submitted to the officers or staff at the Horticulture Mobile team Centres. The application should include land-related documents such as Khasra and Khatauni, Aadhaar card, PAN card, Udhyan card, bank account details, and mobile number. Currently, the application process is offline.",
+        "If a farmer faces difficulty in filling out the application, personnel at the respective Horticulture Mobile team Centre will provide assistance. Once submitted, the application is forwarded by the Centre to the district level, which then sends it to the Directorate. Upon approval of the farmer’s proposal by the Directorate, a government order is issued, authorizing the district to grant approval/work orders accordingly.",
+        "Upon acceptance, the district officer sends the farmer an approval letter and informs them via phone. The fencing is then carried out in the presence of departmental officials, followed by an on-site inspection. After verification, the subsidy is disbursed directly into the farmer’s account."
+      ]
+    },
+    "documents_required": [
+      "Land-related documents such as Khasra and Khatauni",
+      "Aadhaar Card",
+      "PAN Card",
+      "Udhyan Card",
+      "Bank Account Details",
+      "Mobile Number"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 220)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Farmers holding a valid Udhyan Card are eligible to apply for the scheme."
+    },
+    {
+      "question": "What is the subsidy provided under the scheme?",
+      "answer": "The scheme provides 50% of the total fencing cost, up to a maximum of ₹1.00 lakh per hectare."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Applications must be submitted to the officers or staff at the Horticulture Mobile Squad Centres."
+    },
+    {
+      "question": "What assistance is provided if a farmer has difficulty filling the application?",
+      "answer": "Personnel at the Horticulture Mobile Squad Centre will assist farmers in completing their applications."
+    },
+    {
+      "question": "What is the process after submission of the application?",
+      "answer": "The Horticulture Mobile Squad Centre forwards the application to the district level, which then forwards it to the Directorate for approval."
+    },
+    {
+      "question": "How is approval granted?",
+      "answer": "After review, the Directorate issues a government order, which authorizes the district to approve and implement the fencing work."
+    },
+    {
+      "question": "How will the farmer know about the approval?",
+      "answer": "The district officer sends an approval letter to the farmer and also informs them over the phone."
+    },
+    {
+      "question": "How is the subsidy disbursed?",
+      "answer": "The subsidy is disbursed directly into the farmer’s bank account after verification of the fencing work."
+    }
+  ]
+}

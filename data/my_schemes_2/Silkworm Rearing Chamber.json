@@ -1,0 +1,74 @@
+{
+  "scheme_name": "Silkworm Rearing Chamber",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Silkworm Rearing Chamber",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Silkworm Rearing Chamber” was launched by the Department of Sericulture, Government of Uttarakhand. The scheme aims to promote sericulture and enhance silk production among farmers by providing financial assistance for establishing dedicated silkworm rearing chambers."
+    ],
+    "benefits": [
+      "Under this scheme, financial assistance of ₹1,00,000/- is provided for the construction of a silkworm rearing chamber on an 80:10:10 cost-sharing basis. The farmer contributes ₹10,000/- for completing the foundation of the chamber, while the state government provides ₹90,000/- as a subsidy in two equal installments."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary must have availed assistance under the Silk Tree Plantation Scheme.",
+      "The beneficiary must have at least 300 mulberry plants available for silkworm rearing."
+    ],
+    "application_process": {
+      "offline": [
+        "Under the Silk Samagra Yojana, farmers are selected in cluster mode. A departmental committee conducts a field inspection, and the scheme is implemented based on the suitability of the area. The required documents are compiled to prepare the farmer’s Project Implementation Sheet (PIS).",
+        "For the construction of the rearing chamber, the farmer builds the foundation using their own funds. Based on the progress of the construction and the recommendations of the cluster in-charge, the government subsidy is released into the farmer’s account in accordance with the scheme guidelines."
+      ]
+    },
+    "documents_required": [
+      "Voter ID/Ration Card",
+      "Bank Account Detail",
+      "Details of construction of rearing chamber",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 244)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the total financial assistance?",
+      "answer": "The total financial assistance provided under the scheme is ₹1,00,000 distributed in an 80:10:10 pattern."
+    },
+    {
+      "question": "How much subsidy is given?",
+      "answer": "The state government provides ₹90,000 as subsidy to the selected farmers."
+    },
+    {
+      "question": "How much must the farmer contribute?",
+      "answer": "The farmer must contribute ₹10,000 from their own resources towards the foundation construction."
+    },
+    {
+      "question": "Who can apply?",
+      "answer": "Farmers who have at least 300 mulberry trees and have already received silk tree plantation assistance are eligible."
+    },
+    {
+      "question": "How are funds released?",
+      "answer": "Funds are released directly into the farmer’s bank account in two equal installments."
+    },
+    {
+      "question": "When is the first installment given?",
+      "answer": "The first installment is given after the farmer completes the foundation construction using their own contribution."
+    },
+    {
+      "question": "Who certifies the construction?",
+      "answer": "The construction progress is certified by the cluster in-charge along with departmental officials."
+    },
+    {
+      "question": "Where can farmers apply?",
+      "answer": "Farmers can apply at their district sericulture office or through their designated cluster."
+    },
+    {
+      "question": "Is land required?",
+      "answer": "Yes, the farmer must have suitable land both for mulberry plantation and for constructing the rearing chamber."
+    }
+  ]
+}

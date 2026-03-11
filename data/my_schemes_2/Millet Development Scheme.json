@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Millet Development Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mds",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Millet Development Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Millet Development Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to encourage farmers to adopt millet cultivation. The scheme includes various promotional events, expos, processing units, and financial assistance for demonstration activities. Special preference is given to SC/ST, OBC, and women farmers."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Millet Demonstration",
+      "₹6,000/- per Ha, Maximum up to 1 Ha",
+      "One time in a Year"
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must have his own bank account.",
+      "Note:",
+      "All categories will benefit from the scheme.",
+      "Priority will be given to SC/ST, OBC, and women farmers."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Voter ID/ Ration card/ Aadhaar card/ Passport as identity proof (Mandatory).",
+      "Land records details (Mandatory).",
+      "Bank account details (Mandatory).",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Millet Development Scheme\"?",
+      "answer": "The \"Millet Development Scheme\" aims to promote millet cultivation in Gujarat by organizing promotional activities, expos, processing units, seed/input kit demonstrations, and taluka-level melas. The scheme intends to increase the cultivation area and enhance farmers’ income by boosting the value of millet crops."
+    },
+    {
+      "question": "Who is eligible to apply for the \"Millet Development Scheme\"?",
+      "answer": "Any farmer in Gujarat can apply for the scheme. However, priority is given to SC/ST, OBC, and women farmers."
+    },
+    {
+      "question": "What financial assistance is provided under this scheme?",
+      "answer": "Farmers receive ₹6,000/- per hectare for millet demonstration, up to a maximum of 1 hectare."
+    },
+    {
+      "question": "What documents are required for application?",
+      "answer": "Farmers must submit land records, identity proof (Voter ID, Ration Card, Aadhaar Card, or Passport), and bank account details."
+    },
+    {
+      "question": "How is the financial assistance provided to the beneficiary?",
+      "answer": "The financial assistance is directly transferred to the farmer’s registered bank account."
+    },
+    {
+      "question": "What is the time limit for reclaiming benefits under the scheme?",
+      "answer": "Farmers can avail the benefits of the scheme once per year as per the Government Resolution."
+    },
+    {
+      "question": "How can farmers apply for the scheme?",
+      "answer": "Farmers must apply online through the iKhedut portal at https://ikhedut.gujarat.gov.in"
+    }
+  ]
+}

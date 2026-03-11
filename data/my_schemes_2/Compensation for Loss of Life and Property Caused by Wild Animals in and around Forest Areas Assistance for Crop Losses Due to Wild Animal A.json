@@ -1,0 +1,75 @@
+{
+  "scheme_name": "Compensation for Loss of Life and Property Caused by Wild Animals in and around Forest Areas: Assistance for Crop Losses Due to Wild Animal Attacks",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cllpwaafadcebnbds",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Compensation for Loss of Life and Property Caused by Wild Animals in and around Forest Areas: Assistance for Crop Losses Due to Wild Animal Attacks",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Assistance for Crop Losses Due to Wild Animal Attacks” is a sub-component of the umbrella scheme “Compensation for Loss of Life and Property Caused by Wild Animals in and Around Forest Areas”, which is implemented by the Department of Forest, Government of Uttarakhand. The scheme aims to provide financial assistance to farmers for crop losses caused by wild animals in forest areas and their surrounding regions, thereby mitigating economic losses and supporting farmers’ livelihoods."
+    ],
+    "benefits": [
+      "At present, the following compensation amounts are provided in the event of crop damage caused by wild animal attacks:",
+      "Type of Agricultural Crop",
+      "Total Amount Payable (per Acre)",
+      "Share of Human Wildlife Conflict Relief Distribution Fund",
+      "Sugarcane (Entire Crop)",
+      "₹25,000/- per acre",
+      "Paddy/Wheat/Oilseeds (Entire Crop)",
+      "₹15,000/- per acre",
+      "In case of damage to all types of crops other than those mentioned above (Entire Crop)",
+      "₹8,000/- per acre"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The compensation is applicable for crop damage caused by wild elephants, wild boars, nilgai, kakar, sambar, chital, and monkeys."
+    ],
+    "application_process": {
+      "offline": [
+        "The information must be submitted in writing to the local forest officer within two days of the incident. Following this, the Tehsildar/Patwari and the local forest officer of the area will jointly verify and assess the crop damage. The investigation report will then be forwarded to the concerned Assistant Conservator of Forests/Wildlife Warden through the Range Officer.",
+        "The Assistant Conservator of Forests/Wildlife Warden is required to submit the final investigation report to the Divisional Forest Officer/Deputy Director within two months of the incident. Upon receiving the final report, the Divisional Forest Officer/Deputy Director has full authority to approve and disburse the ex-gratia compensation. The Divisional Forest Officer/Deputy Director will also ensure that complete details of the case are communicated to the Chief Wildlife Warden.",
+        "Note: The Forest Department has issued a toll-free number – 1800-890-9715. Anyone can use this number to report wildlife incidents, including accidents involving humans or the presence of wildlife in populated areas anywhere in the state."
+      ]
+    },
+    "documents_required": [
+      "Identity proof of applicant/farmer",
+      "Crop damage assessment report",
+      "Bank account details of the applicant",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 252)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for compensation under this scheme?",
+      "answer": "Any farmer who is a resident of Uttarakhand and owns or cultivates land affected by wild animal attacks can apply."
+    },
+    {
+      "question": "Which animals are covered under this scheme?",
+      "answer": "Compensation is provided for damage caused by wild elephants, wild boars, nilgai (blue bulls), peacocks, sambar, chital, barking deer, monkeys, and kakar."
+    },
+    {
+      "question": "What is the range of compensation provided?",
+      "answer": "The compensation ranges from a minimum of ₹8,000/- per acre to a maximum of ₹25,000/- per acre, depending on the extent of crop damage."
+    },
+    {
+      "question": "How should a farmer report crop damage?",
+      "answer": "The damage must be reported in writing to the local forest officer within two days of the incident."
+    },
+    {
+      "question": "Who assesses the crop damage?",
+      "answer": "The Tehsildar/Patwari and the local forest officer of the area jointly verify and assess the damage."
+    },
+    {
+      "question": "Who prepares the investigation report?",
+      "answer": "The investigation report is prepared by the local forest officer and made available to the Assistant Conservator of Forests/Wildlife Warden through the Range Officer."
+    },
+    {
+      "question": "Who approves the compensation amount?",
+      "answer": "The Divisional Forest Officer/Deputy Director receives the final investigation report and has full authority to approve and disburse the ex-gratia compensation."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "scheme_name": "Aromatic Plants Cultivation - Centre for Aromatic Plants",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/apccap",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Aromatic Plants Cultivation - Centre for Aromatic Plants",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Aromatic Plants Cultivation” scheme is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. The scheme aims to encourage farmers to grow aromatic plants by providing them with free seeds, planting materials, and technical support, helping them increase their income and promote aromatic farming in Uttarakhand."
+    ],
+    "benefits": [
+      "Under this scheme, the following support is provided:",
+      "Free seeds and planting materials are provided to farmers.",
+      "Seeds and planting materials for up to 5 Nali (0.1 hectare) per farmer are delivered to the farmer’s nearest motorable road or CAP office.",
+      "Free technical assistance, consultation, and continuous support are offered to the farmers."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer.",
+      "The farmer must either legally own agricultural land or have leased land for a minimum period of 10 years.",
+      "The farmer must be interested in aromatic plant cultivation."
+    ],
+    "application_process": {
+      "offline": [
+        "During the awareness program, the farmer will write an application for cultivation addressed to the Director, Aromatic Plant Center, or visit the headquarters in person to submit the application. Land records, Aadhaar card, and mobile number must be attached to the application. After that, CAP's field personnel will conduct a field inspection of the applicant’s land and, after selecting the suitable crop based on the agricultural climate of the area, will submit a recommendation to the Director, CAP. The Director, CAP, will then instruct the District Coordinator of the concerned applicant to provide seeds and planting material.",
+        "The District Coordinator prepares a consolidated demand for all farmers in the district and sends it to the Director. Based on the recommendation, quality seeds and planting material are procured for the farmers and delivered to the nearest motorable road to the farmer’s selected land."
+      ]
+    },
+    "documents_required": [
+      "Land records documents",
+      "Aadhaar card",
+      "Mobile number",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 230)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Farmers who have agricultural land in their name or have taken land on lease for at least 10 years and are interested in aromatic farming can apply."
+    },
+    {
+      "question": "What type of support is provided under this scheme?",
+      "answer": "Farmers are provided with free seeds and planting materials for up to 5 Nali (0.1 hectare) per farmer, along with free technical consultation, field monitoring, and ongoing support."
+    },
+    {
+      "question": "How are seeds and planting materials delivered to farmers?",
+      "answer": "Seeds and planting materials are delivered to the nearest motorable road or CAP office of the concerned farmer."
+    },
+    {
+      "question": "How can a farmer apply for the scheme?",
+      "answer": "During awareness programs or by visiting the CAP headquarters, the farmer can submit an application addressed to the Director, Aromatic Plant Center, along with required documents."
+    },
+    {
+      "question": "What happens after the farmer submits the application?",
+      "answer": "After receiving the application, CAP field personnel visit the farmer’s land to inspect it and recommend a suitable aromatic crop based on the local climate."
+    }
+  ]
+}

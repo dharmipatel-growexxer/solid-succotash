@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Motorcycle Taxi Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mcty",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Motorcycle Taxi Yojana",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Motorcycle Taxi Yojana” was introduced by the Cooperative Department, Government of Uttarakhand. The scheme aims to promote self-employment among the residents of Uttarakhand by providing interest-free loans for purchasing motorcycles or scooters to operate as motorcycle taxis, thereby enhancing tourism connectivity and generating livelihood opportunities in the state."
+    ],
+    "benefits": [
+      "The applicant will be provided an interest-free loan for a period of 2 years to purchase scooters or motorcycles for transporting tourists/travelers from one place to another at major tourist destinations.",
+      "The loan will cover 75% of the total cost or ₹1.75 lakh per scooter/motorcycle, whichever is lower. The remaining 25% of the amount must be arranged by the applicant.",
+      "An applicant can purchase a maximum of 10 scooters/motorcycles."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must be at least 18 years old and not more than 55 years old.",
+      "The applicant must possess a valid license issued by the Transport Department.",
+      "The applicant must not be a defaulter of any financial or cooperative institution.",
+      "The applicant must have a minimum CIBIL (Credit Information Bureau India Limited) score of 700 or above."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant will obtain the application form from the cooperative bank in their area to purchase a scooter or motorcycle.",
+        "Along with the application form, the following documents must be attached and submitted to the concerned bank: Aadhar card, birth certificate, bank account details, permanent residence certificate, quotation and ex-showroom price of the scooter/motorcycle, driving license, and details of two sureties.",
+        "After submission, the applications will be scrutinized and then sent to the District Level Committee constituted under the chairmanship of the District Magistrate/Chief Development Officer. The applications will be presented before the committee for selection.",
+        "The applications of applicants selected by the committee will be forwarded to the concerned bank branches through the District Cooperative Bank Head Office. After completing the prescribed formalities, the bank will issue a loan sanction letter, and the sanctioned loan amount will be sent directly to the institution or firm from which the scooter or motorcycle is to be purchased.",
+        "The maximum period of the loan will be 3 years. The loan will be recovered in 35 equal monthly installments, starting one month after the date of disbursement."
+      ]
+    },
+    "documents_required": [
+      "Aadhar Card",
+      "Birth Certificate",
+      "Bank Account Details",
+      "Permanent Residence Certificate",
+      "Quotation and Ex-Showroom Price of the Scooter/Motorcycle",
+      "Driving License",
+      "Details of two guarantors",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 189)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Applicants must be permanent residents of Uttarakhand, aged between 18 and 55 years, possess a valid Transport Department license, not be defaulters of any financial or cooperative institution, and have a minimum CIBIL score of 700."
+    },
+    {
+      "question": "What financial assistance is provided under the scheme?",
+      "answer": "An interest-free loan of 75% of the total cost or ₹1.75 lakh, whichever is lower, per scooter/motorcycle, is provided for a period of two years."
+    },
+    {
+      "question": "What is the applicant’s contribution under the scheme?",
+      "answer": "The applicant must contribute the remaining 25% of the cost of the scooter or motorcycle from their own resources."
+    },
+    {
+      "question": "How many scooters or motorcycles can one applicant purchase?",
+      "answer": "An applicant can purchase a maximum of 10 scooters/motorcycles under this scheme."
+    },
+    {
+      "question": "Where can the application form be obtained?",
+      "answer": "The application form can be obtained from the cooperative bank of the applicant’s area."
+    },
+    {
+      "question": "How are applications processed?",
+      "answer": "After submission and scrutiny, applications are sent to the District Level Committee chaired by the District Magistrate/Chief Development Officer for selection."
+    },
+    {
+      "question": "How are selected applications forwarded?",
+      "answer": "Applications recommended by the committee are sent to the concerned bank branches through the District Cooperative Bank Head Office."
+    },
+    {
+      "question": "How is the loan disbursed?",
+      "answer": "After completing the formalities and issuing the loan sanction letter, the sanctioned loan amount is sent directly to the institution or dealer from which the scooter/motorcycle is purchased."
+    },
+    {
+      "question": "What is the maximum loan period?",
+      "answer": "The maximum period of the loan is 3 years."
+    },
+    {
+      "question": "How will the loan be repaid?",
+      "answer": "The loan will be recovered in 35 equal monthly installments, starting one month after the date of loan disbursement."
+    }
+  ]
+}

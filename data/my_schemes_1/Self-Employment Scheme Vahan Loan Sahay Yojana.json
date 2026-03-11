@@ -1,0 +1,128 @@
+{
+  "scheme_name": "Self-Employment Scheme: Vahan Loan Sahay Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/vlsy",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Self-Employment Scheme: Vahan Loan Sahay Yojana",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "\"Vahan Loan Sahay Yojana\" is a component under the \"Self-Employment Scheme\" introduced by the Social Justice and Empowerment Department, Gujarat. Under this scheme, self-employed individuals can avail of financial assistance as on-road unit cost for purchasing vehicles such as rickshaws, loading rickshaws, Maruti cars, jeep taxis, etc. The scheme is being implemented by the Gujarat Unreserved Education and Economical Development Corporation."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "On-road unit cost for vehicles like rickshaws, loading rickshaws, Maruti, jeep-taxi, etc."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must belong to the unreserved category.",
+      "The applicant's age should be between 18 years and 50 years.",
+      "The applicant must have a valid driving license.",
+      "The vehicle purchased under the scheme must be mortgaged (hypothecated) to the corporation.",
+      "The applicant must be willing to repay the loan in equal monthly installments over 5 years.",
+      "The annual income limit of the family should be ₹6,00,000/- or less.",
+      "Note",
+      ":",
+      "The interest rate on the loan will be 5 percent simple interest per annum and 4 percent for women.",
+      "The simple interest will be calculated based on the amount of the loan given per year.",
+      "Only 1 person from a family can avail of the scheme benefits.",
+      "A maximum of 5 beneficiaries per village will be selected."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "Go to the Corporation's",
+        "official website",
+        "and navigate to the \"Gujarat Unreserved Education and Economical Development Corporation\" section under the Corporation menu.",
+        "Step 2:",
+        "Click on \"Vahan Loan Sahay Yojana\" under \"Self-Employment Scheme\" and then Apply Now.",
+        "Step 3:",
+        "Click on \"New User? Please Register Here\".",
+        "Step 4:",
+        "Enter the required details and click Register.",
+        "Application Process:",
+        "Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Read the scheme details carefully and click OK.",
+        "If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5:",
+        "If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6:",
+        "Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status",
+        ":",
+        "Click here",
+        ".",
+        "Post Online Application Procedure:",
+        "After submitting the online application, the applicant must take a printout of the application, sign it, and submit it along with all uploaded documents (certificates, mark sheets, etc.) to the concerned Deputy Director (Non-Reserved Category) or the District Social Welfare Officer through courier, post, or by visiting in person.",
+        "Contact Us:"
+      ]
+    },
+    "documents_required": [
+      "Application form in the prescribed format for self-employment",
+      "Bank statement",
+      "Non-deposit certificate",
+      "Income certificate",
+      "Proof of residence",
+      "Copy of Aadhaar card",
+      "Proof of age",
+      "Educational qualification",
+      "Copy of L.C.",
+      "Driving license",
+      "Business proposal",
+      "Bank passbook copy."
+    ],
+    "sources_and_references": [
+      "Guidelines 1",
+      "Guidelines 2",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the Vahan Loan Sahay Yojana?",
+      "answer": "Any self-employed individual with a valid driving license is eligible to apply for the scheme."
+    },
+    {
+      "question": "What types of vehicles are covered under this scheme?",
+      "answer": "The scheme covers vehicles such as rickshaws, loading rickshaws, Maruti cars, and jeep taxis."
+    },
+    {
+      "question": "How are beneficiaries selected for the loan scheme?",
+      "answer": "Beneficiaries are selected through a computerized draw system to ensure fairness and transparency."
+    },
+    {
+      "question": "Can more than one member of a family apply for the scheme?",
+      "answer": "No, only one person from a family is eligible to avail of the benefits under this scheme."
+    },
+    {
+      "question": "Is there any preference given to women applicants?",
+      "answer": "Yes, at least 10% of the selected beneficiaries will be women applicants."
+    },
+    {
+      "question": "How will an applicant be notified if they are selected?",
+      "answer": "Selected applicants will receive notifications via email and SMS regarding their application status."
+    },
+    {
+      "question": "What happens if an applicant fails to submit the required documents on time?",
+      "answer": "If an applicant fails to submit the necessary documents within the stipulated timeframe, their application will be rejected."
+    },
+    {
+      "question": "What is the repayment period for the loan?",
+      "answer": "The loan must be repaid in equal monthly installments over a period of five years."
+    },
+    {
+      "question": "Is it mandatory to mortgage the vehicle under this scheme?",
+      "answer": "Yes, the acquired vehicle must be hypothecated to the corporation as per the scheme guidelines."
+    },
+    {
+      "question": "What is the maximum number of beneficiaries selected per village?",
+      "answer": "A maximum of five beneficiaries from a single village can be selected under this scheme."
+    },
+    {
+      "question": "Where must the final documents be submitted after receiving approval?",
+      "answer": "After approval, the applicant must submit the required documents to the office of the District Manager in their respective district."
+    }
+  ]
+}

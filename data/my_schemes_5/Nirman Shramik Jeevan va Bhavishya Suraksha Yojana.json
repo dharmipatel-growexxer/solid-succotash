@@ -1,0 +1,119 @@
+{
+  "scheme_name": "Nirman Shramik Jeevan va Bhavishya Suraksha Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nsjbsy",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Nirman Shramik Jeevan va Bhavishya Suraksha Yojana",
+  "scraped_at": "2026-03-10 08:21:04 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2016, the scheme \"Nirman Shramik Jeevan va Bhavishya Suraksha Yojana\" (Construction Workers Life and Future Security Scheme) by the Building and Other Construction Workers Welfare Board, Government of Rajasthan aims to provide financial security and social protection through insurance and pension benefits to the registered construction workers and their families. Through this scheme, benefits under the Pradhan Mantri Suraksha Bima Yojana, Pradhan Mantri Jeevan Jyoti Bima Yojana, and Atal Pension Yojana are provided to eligible registered construction workers. This comprehensive scheme complements other initiatives like the Construction Workers Tools/Toolkit Assistance Scheme, Construction Workers Education and Skill Development Scheme, and Construction Workers Sulabh Yojana."
+    ],
+    "benefits": [
+      "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+      "100% reimbursement of annual premium amount (₹12)",
+      "Premium amount is fully reimbursed through electronic transfer",
+      "No partial reimbursement option is available",
+      "Beneficiary must show proof of premium deduction in bank passbook",
+      "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+      "50% reimbursement of the annual premium amount",
+      "Total premium: ₹330",
+      "Reimbursement amount: ₹165",
+      "Remaining ₹165 to be borne by the beneficiary",
+      "Must provide proof of full premium deduction from bank account",
+      "Atal Pension Yojana (APY)",
+      "50% reimbursement of the annual contribution amount",
+      "Specifically for the ₹1,000 monthly pension plan",
+      "Reimbursement is calculated based on the average annual contribution",
+      "Beneficiary must continue paying their share to maintain scheme validity",
+      "Must show proof of contribution deduction from bank account"
+    ],
+    "eligibility": [
+      "1. The applicant must be registered as a beneficiary with the Building and Other Construction Workers Welfare Board.",
+      "2. The applicant must have a savings bank account in their name.",
+      "3. The applicant must be eligible for membership under the following schemes:",
+      "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+      "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+      "Atal Pension Yojana (APY)",
+      "4. The applicant must provide consent to their bank for the deduction of premium/contribution from their savings account.",
+      "5. The applicant must have gotten the annual premium/contribution amount deducted from their savings account."
+    ],
+    "application_process": {
+      "online": [
+        "REGISTRATION",
+        "Step 1:",
+        "Visit the",
+        "Official Portal",
+        "of Rajasthan Single Signon, and click \"",
+        "Register Here",
+        "\".",
+        "Step 2:",
+        "In the online registration form, fill in all the mandatory fields, verify your Mobile Number via OTP, and click \"Register\".",
+        "APPLICATION",
+        "After successful registration, log in to the SSO Portal, you will be able to browse the various Departmental Portals of the Government of Rajasthan.",
+        "Click on the “Labour Department Management System (LDMS)” icon. The system will ask whether you are already registered with LDMS.",
+        "Step 2.1:",
+        "If you are already registered with LDMS, click ‘Yes’. You will be asked to provide your LDMS Login ID & Password for mapping with SSO ID.",
+        "*This is a one-time activity, thereafter, in subsequent sessions upon entering the SSO ID & selecting the LDMS portal, the user will automatically come to the respective screen in the LDMS portal.",
+        "Step 2.2:",
+        "If you are NOT already registered with LDMS, click ‘No’. You will be asked to update your profile by providing the following details: District, House No./Plot No., Street/Locality, Village/Town/City, and PIN Code.",
+        "Step 3:",
+        "After submitting the form, you will automatically come to the dashboard of the LDMS portal.",
+        "Step 4:",
+        "Select \"Welfare Schemes\" from the side menu, then select \"BOCW Welfare Board\", then click \"Apply for Scheme\".",
+        "Step 5:",
+        "In the next page, all the schemes of the Rajasthan Shramik Card will be displayed. From the list, select the scheme you intend to apply for.",
+        "Step 6:",
+        "You will be taken to the online application form of the scheme. In the form, fill in all the mandatory fields of the Application Form and upload all the mandatory documents in the specified format and size. Finally, click \"Submit\"."
+      ]
+    },
+    "documents_required": [
+      "Copy of Beneficiary Registration Identity Card.",
+      "Copy of Bank Passbook First Page (showing beneficiary's name, account number, and IFSC code).",
+      "Copy of Bank Passbook Page Showing Premium/Contribution Deduction Details.",
+      "Copy of Aadhaar Card and Bhamashah Card (Optional)."
+    ],
+    "sources_and_references": [
+      "Guidelines [Labour Department]",
+      "Guidelines [Directorate Of Specially Abled Person]"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Nirman Shramik Jeevan Bhavishya Suraksha Yojana (NSJBSY)?",
+      "answer": "These schemes are provided by the Government of Rajasthan in case of death or injury due to normal or accidental death or injury to the beneficiaries of workers registered in the unorganized sector."
+    },
+    {
+      "question": "Is there a Caste-related Eligibility Criteria in this scheme?",
+      "answer": "No ,Is there a Caste-related Eligibility Criteria in this scheme"
+    },
+    {
+      "question": "Is there an application fee?",
+      "answer": "No, there an no application fee."
+    },
+    {
+      "question": "Who is eligible to benefit from the NSJBSY?",
+      "answer": "Eligibility typically includes construction workers, including those working in both organized and unorganized sectors, who are registered under the scheme."
+    },
+    {
+      "question": "What are the main benefits provided under the NSJBSY?",
+      "answer": "The scheme offers various benefits such as life insurance, accidental insurance, disability coverage, health insurance, and pension benefits to registered construction workers and their families."
+    },
+    {
+      "question": "How can applicant apply online ?",
+      "answer": "By logging in to the SSO portal of Rajasthan, an online application for the Yojana can be made by visiting the LDMS option."
+    },
+    {
+      "question": "Is this scheme for the people of Rajasthan?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What documents are required while submitting the application form?",
+      "answer": "1 Copy of the beneficiary's registration identity card. 2 Copy of the first page of the beneficiary's bank account passbook (which contains the beneficiary'sname, bank account number and IFSC code). 3.The relevant page of the passbook of the beneficiary's bank account, on which the details of deduction of contribution/premium amount of the said schemes are mentioned. 4.Copy of Aadhar Card and Bhamashah Card of the beneficiary (optional)."
+    },
+    {
+      "question": "How many times the applicant can avail of the benefits of the scheme?",
+      "answer": "Only ones. What documents are required 1. Copy of the beneficiary's registration certificate. 2. Copy of the beneficiary's Aadhaar card and Bhamashah card. 3. Copy of the first page of the beneficiary's savings bank account passbook (showing the beneficiary's name, bank account number, and IFSC code). 4. Certificate of the beneficiary being a construction worker for the last 12 months. 5. Filled application form of the scheme. 6. Relevant page of the beneficiary's bank passbook, showing the details of the contribution/premium amount deducted for the said schemes."
+    }
+  ]
+}

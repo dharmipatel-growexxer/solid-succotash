@@ -1,0 +1,141 @@
+{
+  "scheme_name": "Mukhyamantri Gramin Street Vendor Rin Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mgsvry",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Gramin Street Vendor Rin Yojana",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Mukhyamantri Gramin Street Vendor Rin Yojana\" was launched by the Department of Panchayat and Rural Development, Government of Madhya Pradesh. The scheme aims to make low-cost equipment or working capital available as a loan through banks to poor-class migrant workers/small traders in the rural sector of the state. The scheme provides loan access only for existing businesses in the rural area and for the establishment of new enterprises by migrant workers, who must also undergo Entrepreneurship Development Programme (EDP) training through Rural Self Employment Training Institutes (RSETI) for new business establishment. The applications for this scheme are accepted online via the Street Vendor Portal."
+    ],
+    "benefits": [
+      "Provision of low-cost equipment.",
+      "Provision of working capital (Karyasheela Punji).",
+      "Provision of loan (Rin) through banks.",
+      "Provision of Entrepreneurship Development Programme (EDP) training through Rural Self Employment Training Institutes (RSETI).",
+      "Conditions",
+      "The loan is made available from banks following the training.",
+      "The benefit is only for existing businesses (old enterprises) in the rural area.",
+      "The benefit is for establishing new businesses for migrant workers.",
+      "Rural migrant workers establishing a new business must undergo Entrepreneurship Development Programme (EDP) training through Rural Self Employment Training Institutes (RSETI)."
+    ],
+    "eligibility": [
+      "The applicant must reside in Madhya Pradesh.",
+      "The applicant must reside in a rural area.",
+      "The applicant must be between 18 and 55 years of age.",
+      "The applicant must belong to the poor class.",
+      "The applicant must be a migrant worker or a small trader (Street Vendor).",
+      "The applicant must be applying for a loan for an existing enterprise located in a rural area.",
+      "The applicant must be a migrant worker establishing a new enterprise."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Accessing the Official Portal",
+        "The applicant must navigate to the",
+        "\"Gramin Kamgar Setu\" portal",
+        ". Click on the option labeled \"पंजीयन करे\". Enter your mobile number and the provided Captcha code, and then click \"OTP प्राप्त करें\" to receive the OTP.",
+        "Enter the OTP, select the district (जिला), development block (विकास खंड), and choose \"पथ विक्रता\" (Path Vikreta) under employment (रोजगार). Click \"Submit\".",
+        "Step 2:",
+        "Aadhaar Verification (e-Know Your Customer/e-KYC)",
+        "Enter Aadhaar Number and Captcha code on the subsequent screen and click the checkbox to verify e-KYC status.",
+        "Once the e-KYC is successfully verified, the complete details associated with the applicant's Aadhaar will appear on the screen.",
+        "The applicant is required to confirm the accuracy of these details before proceeding by clicking the Next button.",
+        "Step 3:",
+        "Entering Samagra Details and Identifying Family Members",
+        "On the next screen, enter your Samagra ID and click “गेट मेंबर्स” (Get Members), which will display all the associated family information.",
+        "From the family details received via Samagra, the applicant must select those members who assist in the applicant's business.",
+        "Step 4:",
+        "Providing Business Information and Final Submission",
+        "The applicant must provide additional details about their desired business by selecting their option from the dropdown menu.",
+        "After reviewing all the filled information, the applicant must tick all the \"declaration points\" (घोषणा के बिन्दुओ). Click \"Submit\" for final confirmation.",
+        "Step 5:",
+        "Receiving Acknowledgement",
+        "Upon submitting the application, the applicant will receive an acknowledgement receipt (पावती) that should be printed or screenshotted and kept safe. Additionally, an SMS notification containing the application number (आवेंदन क्रमांक) will be received on the mobile phone.",
+        "Post-Application Processes",
+        "Application Verification by the Rural Development Department",
+        "The application submitted by the applicant will undergo verification by the concerned Gramin Vikas Vibhag (Rural Development Department).",
+        "If any inconsistency (विसंगति) is found during the verification process, the applicant will be provided one opportunity to make necessary corrections.",
+        "The notification regarding this opportunity will be delivered via SMS.",
+        "Making Corrections on the Portal",
+        "If a correction is needed, the applicant must use the \"अपडेट करे\" (Update Kare) option on the portal.",
+        "The applicant needs to enter their mobile number, verify with an OTP, and then make the required modifications.",
+        "Issuance of Identification and Certificate",
+        "If the submitted information is confirmed to be correct, the applicant will be issued an Identification Card (परिचय पत्र) and a Certificate (प्रमाण पत्र).",
+        "Notification regarding the issuance of both documents will be sent via SMS.",
+        "Document Download",
+        "The SMS notification regarding the issuance of the Identification Card and Certificate will also include a link.",
+        "The Street Vendor can use this link to download both documents themselves."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Number.",
+      "Mobile Number (Aadhaar-linked).",
+      "Samagra Number.",
+      "Bank Account Number & IFSC."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "User Manual - Application Process"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What specific type of financial assistance is made available to applicants under this scheme to help them conduct their business activities?",
+      "answer": "The scheme aims to make low-cost equipment or working capital (Karyasheela Punji) available to the eligible beneficiary in the form of a loan provided through banks."
+    },
+    {
+      "question": "If a migrant worker is intending to establish a completely new enterprise, is there a mandatory requirement regarding specialized training?",
+      "answer": "Yes, rural migrant workers establishing a new business must mandatorily undergo Entrepreneurship Development Programme (EDP) training conducted by Rural Self Employment Training Institutes (RSETI)."
+    },
+    {
+      "question": "What specific bank details related to my financial institution must I gather and submit when filling out the online registration form?",
+      "answer": "You must provide your Bank Account Number (Bank Khata Kramank) and the Bank's Indian Financial System Code (IFSC) during the application process."
+    },
+    {
+      "question": "Upon the successful verification of all my submitted information by the department, what official documents will be issued to me?",
+      "answer": "If the information is confirmed as correct, the applicant will be issued an Identification Card (Parichay Patra) and an official Certificate (Praman Patra)."
+    },
+    {
+      "question": "Must the location where I currently operate my business and reside necessarily be within the defined rural boundaries of the state?",
+      "answer": "Yes, the scheme is specifically targeted towards supporting the economic activities of people residing and operating their businesses in the rural sector (Gramin Kshetra) of the state."
+    },
+    {
+      "question": "What is the minimum required age that an individual must have reached in order to be considered eligible to apply for registration under this initiative?",
+      "answer": "The applicant must be at least 18 years of age to fulfill the eligibility criteria for participating in this loan scheme."
+    },
+    {
+      "question": "If I discover that my current mobile number is not currently connected to my Aadhaar details, how can I still complete the verification step?",
+      "answer": "If your mobile number is not linked, you have the option to complete the Aadhaar verification (e-Know Your Customer/e-KYC) using a biometric machine at any nearby kiosk."
+    },
+    {
+      "question": "Which specific segment of the rural population, relating to their occupation and economic status, is primarily intended to receive benefits from this program?",
+      "answer": "The benefits are intended for poor class migrant workers (Pravasi Shramik) and small traders (Laghu Vyapari) who operate as street vendors (Path Vikreta) in the rural area."
+    },
+    {
+      "question": "If I am not a migrant worker, what requirement must my current business satisfy to be considered eligible for receiving the financial loan?",
+      "answer": "If you are not a migrant worker, the loan benefit is only applicable for existing businesses (Purane Udhyam) already operating within the designated rural area."
+    },
+    {
+      "question": "Where should an interested applicant who wants to register for the scheme go to begin the official registration procedure?",
+      "answer": "You must visit the official Street Vendor Portal, which is the Gramin Kamgar Setu portal (http://kamgarsetu.mp.gov.in/), and select the option labeled \"पंजीयन करे\" (Panchikaran Kare) to start registration."
+    },
+    {
+      "question": "Is it absolutely necessary for my mobile phone number to be actively linked with my Aadhaar number to complete the online registration process?",
+      "answer": "Yes, you must provide your Aadhaar Number and the Aadhaar-linked mobile number to complete the verification (e-KYC) step using a One-Time Password (OTP)."
+    },
+    {
+      "question": "When can I actually expect the bank to provide me with the business loan needed for setting up or enhancing my enterprise?",
+      "answer": "The banks will make the loan available for business establishment only after the completion of the required Entrepreneurship Development Programme (EDP) training."
+    },
+    {
+      "question": "Besides the mandatory Aadhaar details, is there another specific government identification number that must be provided during the application process?",
+      "answer": "Yes, after successful Aadhaar verification, the applicant is required to input their Samagra Number (Samagra ID) to retrieve their associated family members' details."
+    },
+    {
+      "question": "What is the highest age limit an applicant can be to ensure they remain eligible for submission of their application for the scheme's benefits?",
+      "answer": "The maximum age permitted for an applicant during the time of registration for the scheme is 55 years."
+    }
+  ]
+}

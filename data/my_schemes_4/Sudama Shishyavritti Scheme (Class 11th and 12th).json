@@ -1,0 +1,83 @@
+{
+  "scheme_name": "Sudama Shishyavritti Scheme (Class 11th and 12th)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/scymp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Sudama Shishyavritti Scheme (Class 11th and 12th)",
+  "scraped_at": "2026-03-10 09:21:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Sudama Shishyavritti Scheme (Class 11th and 12th)\" was launched by the School Education Department, Government of Madhya Pradesh, to motivate students from lower economic backgrounds and support them economically. Under this scheme, scholarships are provided to Class 11 and 12 students in government schools who reside in hostels, have an annual family income of less than ₹1,00,000/-, and belong to the Below Poverty Line (BPL) category."
+    ],
+    "benefits": [
+      "Under this scheme, the girl student will get a scholarship of ₹5250/- and boy student will get a scholarship of ₹5000/- per year."
+    ],
+    "eligibility": [
+      "The applicant should be a student.",
+      "The student should be a resident of Madhya Pradesh.",
+      "The student should have passed the Class 10th board exam with a first division and be currently enrolled in 11th or 12th grade, residing in a hostel.",
+      "The student should be studying in a government school located at the district or development block headquarters within the state.",
+      "The applicant should belong to the Below Poverty Line (BPL) category.",
+      "The applicant's family income from all sources should be less than ₹1,00,000/- per year.",
+      "The applicant should have passed the previous year's class with first division."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail of the benefits under this scheme, eligible students can contact the Principal of their respective government schools.",
+        "Note: The student's profile is entered on the education portal",
+        "https://shikshaportal.mp.gov.in/",
+        "by the teacher of the educational institution as per the record/certificate provided by the student."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "BPL category certificate/Ration card",
+      "Previous class marksheet",
+      "Income certificate",
+      "Samagra ID",
+      "Bank Passbook",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Guidelines (Page No. 28)",
+      "Online Shiksha Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the benefits of the scheme?",
+      "answer": "Under this scheme, girl students receive a scholarship of ₹5250/- per year, and boy students receive ₹5000/- per year."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Students studying in class 11th and 12th standards in government schools are eligible for the scheme."
+    },
+    {
+      "question": "What is the income limit for guardians of applicants?",
+      "answer": "The guardian's annual income must be less than ₹1 lakh."
+    },
+    {
+      "question": "Do students need to belong to any specific category?",
+      "answer": "Yes, students must belong to the Below Poverty Line (BPL) category."
+    },
+    {
+      "question": "What academic performance is required for eligibility?",
+      "answer": "Students must have qualified their previous class with a first division."
+    },
+    {
+      "question": "Is there an online application option available?",
+      "answer": "Yes, applications can be submitted online through the Shiksha Portal at http://shikshaportal.mp.gov.in."
+    },
+    {
+      "question": "Where should students submit their application?",
+      "answer": "Students must submit a single application to the concerned government school they are studying in."
+    },
+    {
+      "question": "How can students apply for the scheme?",
+      "answer": "Eligible students can apply by contacting the Principal of their respective government schools. The school’s teacher will enter the student's profile on the education portal based on the records or certificates provided by the student."
+    }
+  ]
+}

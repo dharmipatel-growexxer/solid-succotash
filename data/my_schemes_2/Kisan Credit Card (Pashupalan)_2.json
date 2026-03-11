@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Kisan Credit Card (Pashupalan)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kccp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Kisan Credit Card (Pashupalan)",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Kisan Credit Card (Pashupalan)\" scheme is launched by the Animal Husbandry and Dairy Department, Government of Madhya Pradesh. The schheme provides short-term working capital loans to livestock farmers at subsidized interest rates. Eligible livestock farmers, dairy producers, and members of primary agricultural credit cooperative societies can avail financial support for operational purposes through banks."
+    ],
+    "benefits": [
+      "Short-term working capital loan for livestock activities through the Kisan Credit Card system.",
+      "Interest subsidy is provided on loans sanctioned under the scheme.",
+      "Expected Time of Disbursement: Typically within 15 days of application approval."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must be a livestock farmer or a member of a primary agricultural credit cooperative society.",
+      "The applicant should require short-term working capital for livestock activities, including dairy production."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration Process",
+        "Visit the Official Website:",
+        "Go to",
+        "https://samast.mponline.gov.in/portal/",
+        "Create Your Profile:",
+        "Click on “",
+        "Create Profile",
+        ".”",
+        "Fill in the required basic details such as Name, Mobile Number, Gender, Email ID, Date of Birth, etc.",
+        "Click on “Next.”",
+        "Verify Basic Details:",
+        "Re-enter your Date of Birth and Mobile Number.",
+        "Enter the Captcha Code and click on “Profile Banaye.”",
+        "An OTP will be sent to your registered mobile number. Enter the OTP to verify your profile.",
+        "Complete Aadhaar e-KYC:",
+        "Enter your Aadhaar Number, Registered Mobile Number, and Captcha Code.",
+        "Click on “Send OTP” and verify using the Aadhaar OTP to complete the e-KYC process.",
+        "Application Fill Process",
+        "Fill Application Form:",
+        "Select the \"Scheme Name\"",
+        "Enter your Samagra ID, Mobile Number, Address, and Business/Personal Details.",
+        "Upload the required documents.",
+        "Click on “Save & Next.”",
+        "Pay Application Fee:",
+        "Proceed to Online Payment and complete the fee payment securely.",
+        "Submit & Print:",
+        "After successful submission, note down your Application ID.",
+        "Download and print the Application Form for future reference."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof (Voter ID card/Driving License/PAN card/Aadhaar card/Passport/Self-attested copy of photo identity issued by a government institution)",
+      "Proof of Residence (Latest telephone / electricity bill / property tax receipt (not older than two months) / Voter ID card / Aadhaar card / Passport / Certificate issued by a government institution / local panchayat / municipal body, etc.",
+      "Bank Related Information (Name of the applicant's bank and branch / Account number / IFSC code. If the applicant already has a KCC, then self-attested copies of documents related to the KCC account number and bank & branch name)",
+      "Two Recent photographs of the applicant (not older than six months)",
+      "Land Related Documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Livestock farmers, dairy producers, and members of primary agricultural credit cooperative societies in both urban and rural areas."
+    },
+    {
+      "question": "How can a farmer apply for the scheme?",
+      "answer": "Applications can be submitted online via samast.mponline.gov.in or offline at banks, district nodal officers, or veterinary institutions."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "Yes, online applications cost ₹30 if done directly, and ₹100 if applied through kiosks."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Identity proof, residence proof, bank account details, photographs, and land documents if applicable."
+    },
+    {
+      "question": "What is the processing time for the loan?",
+      "answer": "Loans are generally sanctioned within 15 days of application approval."
+    },
+    {
+      "question": "Is the loan interest-free?",
+      "answer": "The scheme provides interest subsidy, not complete waiver, on sanctioned loans."
+    },
+    {
+      "question": "Can online applications be submitted via mobile?",
+      "answer": "Yes, applications can be submitted through the M.P. Online portal using computers or kiosks."
+    },
+    {
+      "question": "Whom to contact for more information?",
+      "answer": "Applicants can contact the nearest bank branch, district nodal officer, or veterinary institution for assistance."
+    },
+    {
+      "question": "Is this scheme available for urban farmers?",
+      "answer": "Yes, both urban and rural livestock farmers are eligible."
+    },
+    {
+      "question": "What is the main objective of the scheme?",
+      "answer": "To provide interest-subsidized operational loans for animal husbandry and dairy activities."
+    }
+  ]
+}

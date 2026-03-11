@@ -1,0 +1,62 @@
+{
+  "scheme_name": "Grid Connected Rooftop Solar Power Plant Scheme - Uttarakhand Renewable Energy Development Agency",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/gcrsppsureda",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Grid Connected Rooftop Solar Power Plant Scheme - Uttarakhand Renewable Energy Development Agency",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Grid Connected Rooftop Solar Power Plant Scheme” is implemented by the Uttarakhand Renewable Energy Development Agency (UREDA) under Department of Energy, Government of Uttarakhand. The scheme aims to promote the adoption of rooftop solar energy among domestic consumers in Uttarakhand by providing financial support and enabling them to generate clean, renewable electricity, reduce their electricity bills through net metering."
+    ],
+    "benefits": [
+      "Under the scheme, eligible beneficiaries are provided financial support by the State Government at the rate of ₹17,000/- per kW for plants with capacities ranging from 1 kW to 3 kW, and a fixed grant of ₹51,000/- for plants with capacities from 3 kW to 10 kW.",
+      "The electricity generated from the installed rooftop solar power plants will be credited to the consumer’s electricity bill by UPCL through net metering."
+    ],
+    "eligibility": [
+      "All domestic electricity consumers across Uttarakhand who have applied on the MNRE national portal (",
+      "https://solarrooftop.gov.i",
+      "n) under the \"Grid Connected Rooftop Solar Power Plant Scheme\" and whose Central Financial Assistance (CFA) for the installation of the solar plant has been approved or released are eligible."
+    ],
+    "application_process": {
+      "offline": [
+        "The state electricity consumers who have received a subsidy from MNRE, Government of India, must submit the approval documents, along with their Aadhaar card and bank account details, to the district UREDA office. After verification, the subsidy will be provided as per the guidelines of the Government of Uttarakhand."
+      ]
+    },
+    "documents_required": [
+      "Approval/ sanction letter from MNRE, Government of India",
+      "Aadhaar card",
+      "Bank account details",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 175)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Domestic electricity consumers across Uttarakhand who have applied on the MNRE national portal and received approval for Central Financial Assistance (CFA) are eligible."
+    },
+    {
+      "question": "What is the state subsidy for the scheme?",
+      "answer": "For plants of 1 kW to 3 kW, ₹17,000/- per kW is provided as state support. For plants of 3 kW to 10 kW, a fixed grant of ₹51,000/- is provided."
+    },
+    {
+      "question": "How will the electricity generated be utilized?",
+      "answer": "The electricity generated from the rooftop solar plant will be credited to the consumer’s electricity bill by UPCL through net metering."
+    },
+    {
+      "question": "Where do I apply for this scheme?",
+      "answer": "Applications are submitted on the MNRE national portal: https://solarrooftop.gov.in."
+    },
+    {
+      "question": "Is central financial assistance mandatory for state subsidy?",
+      "answer": "Yes, beneficiaries must have received CFA approval from MNRE to be eligible for the state subsidy in Uttarakhand."
+    },
+    {
+      "question": "Where should the documents be submitted?",
+      "answer": "Documents must be submitted to the district office of UREDA in Uttarakhand."
+    }
+  ]
+}

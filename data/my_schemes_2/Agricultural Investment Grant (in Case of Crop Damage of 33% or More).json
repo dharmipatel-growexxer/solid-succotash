@@ -1,0 +1,76 @@
+{
+  "scheme_name": "Agricultural Investment Grant (in Case of Crop Damage of 33% or More)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/aiguk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Agricultural Investment Grant (in Case of Crop Damage of 33% or More)",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Agricultural Investment Subsidy (in Case of Crop Damage of 33% or More)” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to farmers who suffer crop losses of 33% or more due to natural calamities such as floods, heavy rainfall, drought, hailstorms, or other notified disasters."
+    ],
+    "benefits": [
+      "Under this scheme:",
+      "₹8,500/- per hectare is provided for Agriculture, Horticulture, and Annual Crops in unirrigated areas. A minimum of ₹1,000/- is payable.",
+      "₹17,000/- per hectare is provided for Areas with Assured Irrigation. The minimum amount of assistance payable to any farmer will be ₹2,000/-.",
+      "For Evergreen Crops - ₹22,500/- per hectare is admissible for all types of evergreen crops. The minimum amount payable is ₹2,500/-.",
+      "₹6,000/- per hectare is payable to Sericulture Farmers.",
+      "₹7,000/- per hectare is payable for eri, mulberry and tussar crops.",
+      "A minimum assistance of ₹1,000/- is payable for Munga crops."
+    ],
+    "eligibility": [
+      "The applicant must be a resident farmer of Uttarakhand engaged in agricultural activities within the state.",
+      "The financial assistance will be applicable only for the area actually sown with crops."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+      ]
+    },
+    "documents_required": [
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 305)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "The applicant must be a resident farmer of Uttarakhand engaged in agricultural activities within the state."
+    },
+    {
+      "question": "What is the minimum crop damage required for eligibility?",
+      "answer": "Farmers must have suffered a minimum crop loss of 33% or more to be eligible for financial assistance under this scheme."
+    },
+    {
+      "question": "Is the assistance available for all types of crops?",
+      "answer": "Yes, assistance is available for agriculture, horticulture, evergreen crops, and sericulture crops, as per the prescribed rates."
+    },
+    {
+      "question": "What is the rate of assistance for unirrigated areas?",
+      "answer": "Farmers in unirrigated areas receive ₹8,500 per hectare for agriculture, horticulture, and annual crops, with a minimum assistance of ₹1,000."
+    },
+    {
+      "question": "What is the rate of assistance for irrigated areas?",
+      "answer": "In areas with assured irrigation, farmers receive ₹17,000 per hectare, with a minimum assistance of ₹2,000."
+    },
+    {
+      "question": "Is the assistance applicable for all farmland owned by the farmer?",
+      "answer": "No, the assistance is payable only for the sown area where the crop damage has occurred."
+    },
+    {
+      "question": "How is the extent of crop damage determined?",
+      "answer": "Crop damage information is collected from various sources and verified by the concerned Patwari, who records the details in the P-20 form."
+    },
+    {
+      "question": "Who gives final approval for disbursement of assistance?",
+      "answer": "The District Magistrate (DM) provides the final approval for the disbursement of financial assistance to eligible farmers."
+    },
+    {
+      "question": "How are the relief funds distributed to beneficiaries?",
+      "answer": "After approval from the District Magistrate, relief funds are disbursed at the Tehsil level to the concerned beneficiaries."
+    }
+  ]
+}

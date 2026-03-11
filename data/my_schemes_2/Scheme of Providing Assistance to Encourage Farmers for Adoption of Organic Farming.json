@@ -1,0 +1,99 @@
+{
+  "scheme_name": "Scheme of Providing Assistance to Encourage Farmers for Adoption of Organic Farming",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/spafof",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme of Providing Assistance to Encourage Farmers for Adoption of Organic Farming",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Scheme of Providing Assistance to Encourage Farmers for Adoption of Organic Farming\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to encourage farmers to adopt organic farming by offering financial incentives for certification, registration, and input costs. It helps maintain soil fertility, supports biological input management, and promotes traditional knowledge."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Registration/ Certification",
+      "Assistance for Certification/Registration fees 75% from GOPCA and 50% assistance in Certification fees with other certifying Body; Upto Maximum ₹2,000/- per Hectare",
+      "Every year",
+      "Input",
+      "Input subsidy of ₹5,000/- per Hectare for Certified farm",
+      "Residue testing",
+      "Per sample Assistance upto ₹1,0000/-"
+    ],
+    "eligibility": [
+      "The applicant must be an Individual farmer or farmers group.",
+      "The applicant should have an interest in practicing certified organic farming system."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Bank Passbook.",
+      "Land ownership proof.",
+      "Organic certification documents (if available).",
+      "Recent Passport Size Photograph.",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "This scheme aims to promote organic farming by providing financial assistance to farmers for certification, input subsidies, and residue testing."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Any individual farmer or a group of farmers practicing or willing to practice certified organic farming is eligible to apply for the scheme."
+    },
+    {
+      "question": "What types of financial assistance are provided under this scheme?",
+      "answer": "The scheme provides assistance for certification and registration fees (up to ₹2,000 per hectare), input subsidies (₹5,000 per hectare annually), and residue testing (up to ₹10,000 per sample per year)."
+    },
+    {
+      "question": "Can a farmer avail multiple benefits under this scheme?",
+      "answer": "Yes, a farmer can apply for certification assistance, input subsidies, and residue testing support simultaneously."
+    },
+    {
+      "question": "Is there any application fee to apply for the scheme?",
+      "answer": "No, there is no fee required to apply for this scheme."
+    },
+    {
+      "question": "Can a farmer submit an application offline?",
+      "answer": "No, applications are accepted only through the I-Khedut portal: https://ikhedut.gujarat.gov.in/"
+    },
+    {
+      "question": "What documents are required for the application process?",
+      "answer": "The required documents include an Aadhaar card, land ownership proof, bank account details, organic certification documents (if available) etc."
+    },
+    {
+      "question": "How can a farmer check the status of their application?",
+      "answer": "A farmer can check the application status on the I-Khedut portal using their registration details: https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+    }
+  ]
+}

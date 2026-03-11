@@ -1,0 +1,75 @@
+{
+  "scheme_name": "Soil Health Card Scheme - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/shc",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Soil Health Card Scheme - Uttarakhand",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Soil Health Card Scheme” is implemented by the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide Soil Health Cards to all farmers in the state, helping them understand the nutrient composition of their soil and the type and quantity of fertilizers suitable for their crops."
+    ],
+    "benefits": [
+      "To provide Soil Health Cards to all farmers in the state.",
+      "The soil of each farmer’s field is tested at soil testing laboratories, which are operational in all 13 districts.",
+      "Farmers receive detailed information about the nutrient content of their soil, along with recommendations on the type and quantity of fertilizers best suited for their crops.",
+      "Soil testing is provided free of cost to farmers.",
+      "In hilly areas, a Soil Health Card is issued for agricultural land up to 2.5 hectares, while in plain areas, it is issued for land up to 10 hectares. Each card is valid for three years."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer.",
+      "The farmer must own agricultural land in the state and be actively engaged in farming activities."
+    ],
+    "application_process": {
+      "offline": [
+        "First, the farmer must collect a soil sample from his or her field. The process is as follows: The farmer should identify six locations in his or her field from which he or she wishes to collect samples. He or she should clean the area from which the sample is to be taken, such as removing the grass on top of the soil. Dry soil is used for soil testing. If the collected soil sample is moist, it should be dried in the shade to allow it to air dry.",
+        "To collect a sample, dig a V-shaped pit 6 inches deep, 6 inches long, and 4 inches wide with a shovel or hoe. Collect approximately 1–2 inches of soil from the top to the bottom along the edge of the pit. Remove this collected soil and place it in a clean area. Collect soil from six locations in this manner. Once the soil is collected, mix it thoroughly and remove any pebbles, stones, grass, or roots. Divide the thoroughly mixed soil into four equal parts, discarding two, and retain the remaining two. Mix the remaining two parts thoroughly again, then divide them into four equal parts, discarding two. Repeat this process until you have half a kilogram of soil left. Half a kilogram of soil is a suitable sample for testing.",
+        "This half-kilogram soil sample should be kept in a clean bag, and a slip should be put in the bag in which the farmer’s name, complete address, Khasra number, mobile number, and information about the crop he or she wants to grow are mentioned. Along with the sample, the Aadhar card, residence certificate, and mobile number should also be included.",
+        "Farmers can submit this sample to the soil testing laboratory of their district themselves or through the Assistant Agriculture Officer of their Panchayat. After submission, when this sample is tested, the farmer is provided with his or her soil health card, according to which he or she can carry out farming and use manure and fertilizers. If a farmer in a remote district is unable to reach the headquarters, he or she can avail of the soil testing facility by contacting the in-charge of the Agriculture Department of his or her Panchayat, and the Aadhar card, residence certificate, and mobile number will be required."
+      ]
+    },
+    "documents_required": [
+      "Aadhar card",
+      "Residence certificate",
+      "Mobile number"
+    ],
+    "sources_and_references": [
+      "Guideline (Page No. 199)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Scheme?",
+      "answer": "All landowning farmers of Uttarakhand who are actively engaged in agricultural work are eligible."
+    },
+    {
+      "question": "Is soil testing free under this scheme?",
+      "answer": "Yes, soil sample testing is free for all farmers under the scheme."
+    },
+    {
+      "question": "What is the validity of a Soil Health Card?",
+      "answer": "The Soil Health Card is valid for three years from the date of issue."
+    },
+    {
+      "question": "How much land is covered under the scheme?",
+      "answer": "In hilly areas, soil health cards are issued for agricultural land up to 2.5 hectares, and in plain areas, up to 10 hectares."
+    },
+    {
+      "question": "Where can farmers get their soil tested?",
+      "answer": "Soil testing laboratories are available in all 13 districts of Uttarakhand. Farmers can submit samples directly to these labs or through their Panchayat’s Assistant Agriculture Officer."
+    },
+    {
+      "question": "How should farmers collect a soil sample?",
+      "answer": "Identify six locations in the field for sampling. Clear the area of grass or debris. Dig a V-shaped pit 6 inches deep, 6 inches long, and 4 inches wide. Collect 1–2 inches of soil from top to bottom along the pit’s edge. Mix soil from all six locations thoroughly, remove stones, pebbles, and roots. Reduce the mixed soil to half a kilogram for testing. Identify six locations in the field for sampling. Clear the area of grass or debris. Dig a V-shaped pit 6 inches deep, 6 inches long, and 4 inches wide. Collect 1–2 inches of soil from top to bottom along the pit’s edge. Mix soil from all six locations thoroughly, remove stones, pebbles, and roots. Reduce the mixed soil to half a kilogram for testing."
+    },
+    {
+      "question": "How should the soil sample be stored?",
+      "answer": "Place the half-kilogram soil sample in a clean bag with a slip mentioning the farmer’s name, address, Khasra number, mobile number, and crop information. Include Aadhar card and residence certificate."
+    },
+    {
+      "question": "How is the soil sample submitted?",
+      "answer": "Samples can be submitted to the district soil testing laboratory directly or through the Panchayat’s Assistant Agriculture Officer."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "scheme_name": "Rythu Bima Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rythu-bima",
+  "location_name": "Telangana",
+  "location_type": "state",
+  "page_title": "Rythu Bima Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "Rythu Bima is a social security initiative of the Government of Telangana launched on 14th August 2018, aimed at providing financial support to the families of farmers in the event of the farmer's untimely death. The main objective of the scheme to ensure financial security to the families of deceased farmers by offering life insurance coverage for both natural and accidental deaths."
+    ],
+    "benefits": [
+      "Insurance Coverage:",
+      "₹5,00,000/- per eligible farmer",
+      "Coverage Type:",
+      "Natural and accidental deaths",
+      "Claim Settlement Mode:",
+      "Direct bank transfer to the nominee’s account",
+      "Claim Process:",
+      "Entirely online, farmer families are not required to visit any office"
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a resident of Telangana.",
+      "The applicant must be aged between 18 and 59 years.",
+      "The applicant’s details should be available in the Dharani database under RoR (Record of Rights) land records.",
+      "The applicant should possess a valid Pattadar Pass Book (PPB) or a RoFR (Recognition of Forest Rights) Patta."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration Process",
+        "Step 1: Voluntary Enrolment by Farmer:",
+        "Farmer shares personal, land, and nominee details with the Agriculture Extension Officer (AEO).",
+        "Step 2: Entry into Rythu Bima Portal:",
+        "AEO enters enrolment data into the Rythu Bima online portal.",
+        "Includes uploading required documents.",
+        "Step 3: Land Record Verification",
+        "Farmer’s land details are automatically verified using the Dharani land records database.",
+        "Step 4: Authentication",
+        "Mandal Agriculture Officer (MAO) authenticates the data submitted.",
+        "Step 5: LIC ID Generation",
+        "LIC generates a unique insurance ID for the farmer.",
+        "SMS with LIC ID is sent to the farmer’s registered mobile number",
+        "Claim Process",
+        "Step 1: Intimation of Death",
+        "Nominee informs the District Nodal Officer through the Rythu Bima portal.",
+        "Step 2: Document Upload",
+        "Nominee must upload scanned copies of the following:",
+        "Death Certificate",
+        "Identity Proof of the deceased farmer",
+        "Nominee’s ID Proof",
+        "Pattadar Passbook copy",
+        "Bank details of the nominee",
+        "Other supporting documents, if required",
+        "Step 3: Online Verification",
+        "The claim is verified by designated authorities via the portal.",
+        "If found valid, the file is forwarded for processing.",
+        "Step 4: Settlement",
+        "An amount of ₹5,00,000/ is credited to the nominee’s bank account.",
+        "SMS confirmation is sent to the nominee on successful payment"
+      ]
+    },
+    "documents_required": [
+      "Death Certificate.",
+      "Identity Proof of the deceased farmer.",
+      "Nominee’s ID Proof.",
+      "Pattadar Passbook copy.",
+      "Bank details of the nominee.",
+      "Other supporting documents, if required."
+    ],
+    "sources_and_references": [
+      "Guideline",
+      "Official Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to enroll in the Rythu Bima Scheme?",
+      "answer": "Farmers aged between 18 to 59 years, residing in Telangana, and holding a Pattadar Passbook (PPB) or RoFR Patta are eligible."
+    },
+    {
+      "question": "Is enrolment under the Rythu Bima Scheme mandatory?",
+      "answer": "No, the scheme is voluntary and open to all eligible farmers."
+    },
+    {
+      "question": "Is there any premium payment required from the farmer?",
+      "answer": "No, the entire premium is paid by the Government of Telangana."
+    },
+    {
+      "question": "What is the insurance coverage provided under the scheme?",
+      "answer": "The scheme provides a life insurance cover of ₹5,00,000 for both natural and accidental death."
+    },
+    {
+      "question": "Which organization provides the insurance coverage?",
+      "answer": "The Life Insurance Corporation of India (LIC) is the insurance partner for the scheme."
+    },
+    {
+      "question": "How is registration carried out under the Rythu Bima Scheme?",
+      "answer": "Registration is facilitated through the Agriculture Extension Officer (AEO) who enters the farmer’s data into the Rythu Bima online portal."
+    },
+    {
+      "question": "What documents are required for registration?",
+      "answer": "Required documents include the Pattadar Passbook (PPB)/RoFR Patta, identity proof, and nominee details."
+    },
+    {
+      "question": "Is the claim process offline or online?",
+      "answer": "Answer not captured."
+    },
+    {
+      "question": "How are land ownership details verified during registration?",
+      "answer": "Answer not captured."
+    },
+    {
+      "question": "How is the claim amount disbursed?",
+      "answer": "Upon successful verification, the ₹5,00,000 claim amount is directly transferred to the nominee’s bank account, and an SMS confirmation is sent."
+    },
+    {
+      "question": "Is SMS notification provided during the registration and claim process?",
+      "answer": "Yes, SMS alerts are sent to the farmer or nominee at each key stage, including LIC ID generation and claim status."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "scheme_name": "Mahila Samruddhi Yojana (DAADC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/msydaadc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Mahila Samruddhi Yojana (DAADC)",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Mahila Samruddhi Yojana\" is implemented by the Dr. Ambedkar Antyodaya Development Corporation (DAADC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to promote self-employment and financial independence among women from the Antyodaya Samaj, especially from Scheduled Castes. Under this scheme, loans are provided at a concessional interest rate to eligible women for starting small-scale businesses."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "₹50,000/- provided to eligible women for starting micro or small businesses.",
+      "Interest Rate:",
+      "6% per annum.",
+      "State Government Contribution:",
+      "95% of the loan amount, i.e., ₹47,500/-, is borne by the state.",
+      "Beneficiary Contribution:",
+      "5% of the loan amount, i.e., ₹2,500/-.",
+      "Possible Monthly Installment Amount:",
+      "₹1,445/- per month.",
+      "Duration:",
+      "36 Months (3 years)"
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Gujarat.",
+      "The applicant should be a woman.",
+      "The applicant should belong to the Scheduled Caste (SC) category.",
+      "The applicant should belong to the Antyodaya Anna Yojana (AAY) family or be from the economically backward class.",
+      "The applicant’s annual family income should not exceed ₹3,00,000/-.",
+      "The applicant should be planning to start a self-employment venture or micro-enterprise."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Dr. Ambedkar Antyodaya Vikas Nigam (SC).",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Now\".",
+        "Step 3:",
+        "Click on the loan scheme name.",
+        "Step 4:",
+        "Select the loan category and fill in the loan amount.",
+        "Step 5:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 6:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 7:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 8:",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Passbook/Cancelled Cheque",
+      "Caste Certificate",
+      "Ration Card",
+      "Copy of Election Card",
+      "Widow Certificate",
+      "Age Proof",
+      "Birth Certificate",
+      "Income Certificate",
+      "School Leaving Certificate",
+      "Copy of Electricity Bill"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Scheduled Caste women from Antyodaya or economically backward families in Gujarat."
+    },
+    {
+      "question": "What is the loan amount under this scheme?",
+      "answer": "₹50,000/- is provided as a loan."
+    },
+    {
+      "question": "What is the state government’s contribution?",
+      "answer": "₹47,500 (95% of the loan) is contributed by the state government."
+    },
+    {
+      "question": "Can widows apply for this scheme?",
+      "answer": "Yes, widows are eligible."
+    },
+    {
+      "question": "What documents are needed?",
+      "answer": "Aadhaar, caste, income proof, bank details, and others."
+    },
+    {
+      "question": "How to apply for the scheme?",
+      "answer": "Apply online at https://daadconline.gujarat.gov.in ."
+    },
+    {
+      "question": "Who implements the scheme?",
+      "answer": "Dr. Ambedkar Antyodaya Development Corporation."
+    },
+    {
+      "question": "Can the loan be used for any business?",
+      "answer": "Yes, for any approved small business or self-employment purpose."
+    }
+  ]
+}

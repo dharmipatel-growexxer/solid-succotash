@@ -1,0 +1,69 @@
+{
+  "scheme_name": "Establishment of Poultry Valley",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kgsuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Establishment of Poultry Valley",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Establishment of Poultry Valley\" was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote sustainable and organized poultry farming among cooperative society members, especially women, by providing financial and technical support for poultry rearing, thereby enhancing income generation and livelihood opportunities in the state."
+    ],
+    "benefits": [
+      "Under the project, each farmer will rear 750 chicks annually in three phases. The Animal Husbandry Department will supply 500 one-day-old chicks from the state sector budget through M-PACS, while the farmer will bear the cost of the remaining 250 chicks.",
+      "The Cooperative Department will provide an interest-free loan for the construction of poultry sheds and for the care & rearing of the chicks."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a member of a Multi-Purpose Agricultural Cooperative Society (MPACS).",
+      "Preference will be given to female beneficiaries under this scheme.",
+      "The applicant must not have any outstanding loans from MPACS or any other bank.",
+      "The selected applicant must be eligible to receive Medium-Term (MT) and Short-Term (ST) loans under the Deendayal Upadhyaya Krishi Kalyan Yojana.",
+      "The applicant must own or have land on lease."
+    ],
+    "application_process": {
+      "offline": [
+        "Beneficiaries must apply through the Cooperative Department and the Veterinary Officer. The application must submit the following documents along with application form: Aadhaar card, bank account details, land records/registry/lease documents, and a certificate or affidavit from the concerned bank stating that the applicant is not a loan defaulter."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account details",
+      "Land records / Registry / Lease documents",
+      "Certificate or affidavit from any bank confirming that the applicant is not a loan defaulter"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 237)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any resident of Uttarakhand who is a member of a Multi-Purpose Agricultural Cooperative Society (MPACS) and meets the eligibility criteria can apply."
+    },
+    {
+      "question": "How many chicks are provided under the scheme?",
+      "answer": "Each farmer will raise 750 chicks annually, divided into three batches (cycles)."
+    },
+    {
+      "question": "Who provides the chicks under this project?",
+      "answer": "The Animal Husbandry Department will provide 500 day-old chicks from the state sector budget through the concerned MPACS."
+    },
+    {
+      "question": "Who bears the cost of the remaining chicks?",
+      "answer": "The beneficiary farmer will bear the cost of the final batch of 250 chicks."
+    },
+    {
+      "question": "What kind of financial assistance is provided to beneficiaries?",
+      "answer": "The Cooperative Department provides an interest-free loan to beneficiaries for constructing poultry sheds and for rearing chicks."
+    },
+    {
+      "question": "Is land ownership necessary to apply for this scheme?",
+      "answer": "Yes. The applicant must own or have land on lease suitable for poultry farming."
+    },
+    {
+      "question": "Can a beneficiary with an existing bank loan apply?",
+      "answer": "No. Applicants should not have any outstanding loans from MPACS or any other bank."
+    }
+  ]
+}

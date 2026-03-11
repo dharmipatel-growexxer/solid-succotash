@@ -1,0 +1,87 @@
+{
+  "scheme_name": "Sub-Mission on Agricultural Extension (SMAE)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/smaeuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Sub-Mission on Agricultural Extension (SMAE)",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Sub-Mission on Agricultural Extension” is implemented by the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote the adoption of modern and scientific farming practices among farmers across the state through continuous training, practical demonstrations, and exposure visits."
+    ],
+    "benefits": [
+      "Farmers are periodically trained in modern agricultural practices. Agricultural exhibitions, fairs, and farmer seminars are organized, and farmers are also taken on exposure visits to enhance their knowledge and skills. Additionally, farmer–scientist interactions are conducted to facilitate the exchange of ideas and innovations.",
+      "Farm School:",
+      "Free seeds, fertilizers, and chemicals are provided to farmers for demonstration purposes, and training is imparted to a group of 30 farmers at each Farm School.",
+      "Progressive farmers who demonstrate excellence and innovation in agriculture are recognized and rewarded. Along with a certificate, the following cash awards are given:",
+      "Block Level: ₹10,000 – Kisan Shri",
+      "District Level: ₹25,000 – Kisan Bhushan",
+      "State Level: ₹50,000 – Kisan Ratna"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer.",
+      "The farmer must have cultivable land.",
+      "The farmer’s name must be duly registered in the relevant land records."
+    ],
+    "application_process": {
+      "offline": [
+        "If a farmer wishes to participate in training programs, exposure visits, or interactions with agricultural scientists, they can apply by submitting a written request to the Nyaya Panchayat or Assistant Agriculture Officer at the district level, the Assistant Agriculture Officer at the development block level, the Agriculture and Soil Conservation Officer at the unit level, or the Chief Agriculture Officer/Project Director (ATMA) at the district level. Upon receiving the application, the department arranges training through the Krishi Vigyan Kendra or other relevant institutions in the area.",
+        "To be considered for the Kisan Award, the district Agriculture Offices publish advertisements in newspapers. After the advertisement, applications can be obtained from the ADO Agriculture, Development Block Agriculture Office, or District Level Agriculture Office. Applicants are required to submit the completed application within the stipulated period along with relevant documents, including Aadhaar card, residence certificate, bank passbook, mobile number, certificates of notable work in agriculture, training certificates, proof of visits outside the state (if any), soil health card or animal breed improvement card, Kisan Credit Card details (if held), proof of crop or animal insurance (if applicable), a self-attested passport-sized photograph, details of membership in any committee or organization (if applicable), and information regarding crop production, profits, and landholdings.",
+        "Following submission, the selection of farmers is conducted in an open meeting of the Farmers Advisory Committee at the block level, in the presence of departmental officers and public representatives. The final approval is granted in the ATMA Governing Body Meeting, which is chaired by the District Magistrate."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Residence Certificate",
+      "Bank Passbook",
+      "Mobile Number",
+      "Certificates of notable work in the agricultural sector",
+      "Training certificates",
+      "Proof of visits outside the state (if applicable)",
+      "Soil Health Card / Animal Breed Improvement Card",
+      "Kisan Credit Card details (if held)",
+      "Proof of crop/animal insurance (if applicable)",
+      "Self-attested passport-sized photograph",
+      "Details of membership in any committee/organization (if applicable)",
+      "Information on crop production, profits, and landholdings"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 196)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "All farmers who are residents of Uttarakhand, possess cultivable land, and whose names are registered in the land records are eligible."
+    },
+    {
+      "question": "What kind of training is provided under the scheme?",
+      "answer": "Farmers receive periodic training in modern agricultural practices, including crop management, soil health, irrigation techniques, and sustainable farming methods."
+    },
+    {
+      "question": "Are exposure visits part of the scheme?",
+      "answer": "Yes. Farmers are taken on exposure visits to model farms, research institutions, and other areas to learn best agricultural practices."
+    },
+    {
+      "question": "What are Farm Schools under this scheme?",
+      "answer": "Farm Schools provide practical demonstrations where free seeds, fertilizers, and chemicals are supplied. Training is conducted for groups of 30 farmers to showcase new techniques and innovations."
+    },
+    {
+      "question": "How are progressive farmers recognized?",
+      "answer": "Farmers demonstrating excellence in agriculture are rewarded with certificates and cash awards at block, district, and state levels."
+    },
+    {
+      "question": "How can a farmer apply for training or exposure visits?",
+      "answer": "A farmer can submit a written request to the Nyaya Panchayat, Assistant Agriculture Officer at district or block level, Agriculture and Soil Conservation Officer at unit level, or Chief Agriculture Officer/Project Director (ATMA) at district level."
+    },
+    {
+      "question": "How is the Kisan Award application process conducted?",
+      "answer": "Advertisements are published in newspapers by district Agriculture Offices. Applications can then be obtained from ADO Agriculture, Development Block Agriculture Office, or District Level Agriculture Office."
+    },
+    {
+      "question": "Who gives the final approval for the Kisan Award?",
+      "answer": "The final approval is given in the ATMA Governing Body Meeting, chaired by the District Magistrate."
+    }
+  ]
+}

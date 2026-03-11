@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Overseas Educational Loan Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/oels",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Overseas Educational Loan Scheme",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Overseas Educational Loan Scheme\" was launched by the Minorities Welfare Department, Government of Karnataka, and implemented by the Karnataka Minorities Development Corporation. The scheme objective is to provide financial/loan assistance to students belonging to minority communities who are pursuing graduate or postgraduate degree courses in recognized universities abroad."
+    ],
+    "benefits": [
+      "The loan amount will be provided up to ₹20,00,000/- at a zero interest rate."
+    ],
+    "eligibility": [
+      "The student should be a resident of Karnataka State.",
+      "The student should belong to a minority community (Muslim, Christian, Jain, Buddhist, Sikh and Parsi).",
+      "The student should have secured at least 60% marks in the previous year.",
+      "The student should have received an offer letter from a foreign university.",
+      "Loans will be provided only on mortgage of property (building/land) to the corporation. The value of the property should not be less than the loan amount.",
+      "The students who have not received a scholarship from the Directorate of Minorities."
+    ],
+    "application_process": {
+      "online": [
+        "Step-01: Applicant need to visits the Karnataka Minorities Development Corporation",
+        "official website",
+        ".",
+        "Step-02: Click",
+        "\"Apply Online\"",
+        "and Enter \"Mobile Number\" and \"Submit\".",
+        "Step-03: Enter \"Aadhaar Number\" Fill in the \"Captcha\" and Select \"Next\".",
+        "Step-04: Applicant will get OTP in his/her Aadhaar Linked Mobile Number.",
+        "Step-05: Enter \"OTP\" and select \"Continue\", After that Allow the official notice.",
+        "Step-06: After verifying the Aadhaar again fill in the \"OTP\" and Submit.",
+        "Step-07: Select the scheme \"Sikhligar’s Community Development Scheme\" and fill in the basic details father's name, gender, qualification detail",
+        "Step-08: Select \"Next\" Fill in the address detail and again select \"Next\".",
+        "Step-09: Upload the required document passport-size photo, educational document, income certificate, etc.",
+        "Step-10: Click \"Proceed\" and Select \"Submit Application\" and get an Application ID."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar as Residential Proof.",
+      "Caste/Minority Certificate (issued by the competent authority).",
+      "Income Certificate (issued by the competent authority).",
+      "SSLC Marks Card.",
+      "12",
+      "th",
+      "Std PU Marks Card.",
+      "SSLC Transfer Certificate.",
+      "Present Study Certificate.",
+      "College Fee Structure.",
+      "Copy of Passport.",
+      "Copy of Visa.",
+      "Sale Deeds & Mother Deed.",
+      "Khata Extract and Khata Certificate or Mutation.",
+      "Nil Encumbrance Certificate in form No.15.",
+      "Up to date Tax paid receipt.",
+      "Guidance rate from appropriate authority.",
+      "Spot inspection report of the property by the District Manager.",
+      "Valuation Report by registered valuer.",
+      "Affidavit from Applicant.",
+      "Joint Affidavit from the Beneficiary & the Guarantor.",
+      "Promissory Note along with D.P Note Delivery letter."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Login & Apply",
+      "Track Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Overseas Educational Loan Scheme?",
+      "answer": "It provides financial assistance to minority community students in Karnataka for pursuing higher education abroad."
+    },
+    {
+      "question": "Who is eligible for the Overseas Educational Loan Scheme?",
+      "answer": "Students who are Karnataka residents, belong to minority communities, have 60% marks, and meet other criteria."
+    },
+    {
+      "question": "Which minority communities are covered under this scheme?",
+      "answer": "The scheme includes Muslim, Christian, Jain, Buddhist, Sikh, and Parsi communities."
+    },
+    {
+      "question": "What is the maximum loan amount that can be availed under this scheme?",
+      "answer": "The maximum loan amount is up to ₹20,00,000/-."
+    },
+    {
+      "question": "Is there an interest rate on the loan provided under this scheme?",
+      "answer": "Loans are provided at a zero-interest rate if the family income is below ₹8,00,000/-."
+    },
+    {
+      "question": "Is it mandatory to mortgage a property to avail of this loan?",
+      "answer": "Yes, a property must be mortgaged, and its value should cover the loan amount."
+    },
+    {
+      "question": "Can students who have already received a scholarship from the Directorate of Minorities apply for this loan?",
+      "answer": "No, those who have received a scholarship are not eligible."
+    },
+    {
+      "question": "Are diploma or short-term courses eligible for this loan?",
+      "answer": "No, only degree courses are eligible under this scheme."
+    },
+    {
+      "question": "How is the loan amount disbursed to the student?",
+      "answer": "The loan amount is disbursed either to the student's account or directly to the institution."
+    },
+    {
+      "question": "What documents are required to apply for this loan?",
+      "answer": "Key documents include proof of residence, minority status, academic records, income proof, and mortgage property papers."
+    }
+  ]
+}

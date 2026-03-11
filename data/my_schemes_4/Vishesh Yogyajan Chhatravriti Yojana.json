@@ -1,0 +1,94 @@
+{
+  "scheme_name": "Vishesh Yogyajan Chhatravriti Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ssfsap",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Vishesh Yogyajan Chhatravriti Yojana",
+  "scraped_at": "2026-03-10 09:21:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Vishesh Yogyajan Chhatravriti Yojana\" scheme was launched by the Department of Social Justice and Empowerment, Government of Rajasthan. It aims to provide financial assistance to students with disabilities to support their education. Under this scheme, scholarships and tuition fee reimbursement facility are provided to specially-abled students belonging to families with an annual income not exceeding ₹2.00 lakh, who are regularly studying in government and recognized educational institutions."
+    ],
+    "benefits": [
+      "Scholarship Grant:",
+      "Financial assistance is provided as a scholarship to the students.",
+      "Tuition Fee Reimbursement:",
+      "The scheme covers the tuition fee expenses for students studying in government-recognized institutions."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Rajasthan.",
+      "The applicant should be a student.",
+      "The applicant should have at least 40% disability.",
+      "The applicant should be a regular student in a government or recognized educational institution.",
+      "The applicant’s family annual income should not exceed ₹2,00,000/-.",
+      "The applicant should have passed the previous academic year.",
+      "The applicant should not be a recipient of any other state government or NGO/trust-provided scholarship or allowance."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the Social Justice and Empowerment Department District Officer and request a copy of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Officer of the Social Justice and Empowerment Department.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Domicile Certificate",
+      "Disability Certificate",
+      "Income Certificate",
+      "Marksheet of the previous year",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Students with 40% or more disability, residing in Rajasthan, studying in government-recognized institutions, and meeting the income criteria."
+    },
+    {
+      "question": "What financial assistance is provided under this scheme?",
+      "answer": "The scheme provides scholarships and tuition fee reimbursement."
+    },
+    {
+      "question": "What if I fail in an academic year?",
+      "answer": "The student must pass the previous academic year to be eligible."
+    },
+    {
+      "question": "Can students from private institutions apply?",
+      "answer": "No, only students from government or recognized institutions are eligible."
+    },
+    {
+      "question": "Is there any reservation or relaxation for specific categories?",
+      "answer": "No additional reservation or relaxation is specified beyond the disability criterion."
+    },
+    {
+      "question": "Is there an income limit for eligibility?",
+      "answer": "Yes, the applicant’s family income should not exceed ₹2,00,000 per annum."
+    },
+    {
+      "question": "Can I apply online for this scheme?",
+      "answer": "No, the application process is offline."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "The applicant can apply at the District Social Justice & Empowerment Office in your district."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "Need a domicile certificate, disability certificate, income certificate, marksheet of previous exam, etc."
+    },
+    {
+      "question": "Can student avail of other government schemes?",
+      "answer": "No, students receiving any other scholarship from the state government or an NGO/trust are not eligible."
+    }
+  ]
+}

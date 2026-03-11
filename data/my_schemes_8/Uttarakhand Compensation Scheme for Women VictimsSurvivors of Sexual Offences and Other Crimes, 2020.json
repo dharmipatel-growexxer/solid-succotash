@@ -1,0 +1,88 @@
+{
+  "scheme_name": "Uttarakhand Compensation Scheme for Women Victims/Survivors of Sexual Offences and Other Crimes, 2020",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ucswvsscc",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Uttarakhand Compensation Scheme for Women Victims/Survivors of Sexual Offences and Other Crimes, 2020",
+  "scraped_at": "2026-03-10 05:26:36 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Uttarakhand Compensation Scheme for Women Victims/Survivors of Sexual Offences and Other Crimes, 2020” has been implemented by the Uttarakhand State Legal Services Authority, Nainital, under the Department of Law, Government of Uttarakhand. The scheme aims to provide financial assistance and compensation to women victims and survivors of sexual offences, as well as other women victims of crime in the state."
+    ],
+    "benefits": [
+      "Women victims of crime are provided financial assistance/compensation ranging from a minimum of ₹3 lakh to a maximum of ₹10 lakh.",
+      "Upon receipt of an application for compensation, the State/District Legal Services Authority may pass an order to provide immediate first aid or medical benefits free of cost to the victim/dependent, or an immediate relief amount of ₹5,000/- or ₹10,000/-, as required. This amount shall be disbursed immediately by the Member-Secretary, State Legal Services Authority or District Legal Services Authority.",
+      "If a woman is a victim of sexual violence or an acid attack and is covered under more than one offence, she will be entitled to receive a consolidated amount of compensation."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "All women of the state/their dependents, who are victims of gang rape, rape, unnatural sexual assault, pregnancy due to rape, abortion or loss of fertility resulting from violence, loss of life, disability, physical or mental injury requiring rehabilitation, burns, or acid attacks, will be eligible to receive compensation under the scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Compensation is awarded in two forms:",
+        "interim compensation and final compensation",
+        ". Interim compensation provides immediate relief to the victim after a crime, which may include an order for free medical treatment or a monetary sum of up to ₹10,000/-, as required. Final compensation offers financial assistance to the victim, ranging from ₹3 lakh to ₹10 lakh, depending on the nature of the crime.",
+        "For interim compensation,",
+        "immediately after the registration of a First Information Report (FIR), the Senior Superintendent of Police, Superintendent of Police, Circle Officer, or Station House Officer must compulsorily share its hard or soft copy with the State Legal Services Authority or District Legal Services Authority. This enables the authorities to automatically verify the facts and provide interim compensation in eligible cases. The victim or dependent may also apply directly by submitting an application along with their Aadhaar card, copy of the FIR, and medical certificates to the District or State Legal Services Authority, or they can apply online through the Victim Compensation option available on the National Legal Services Authority website.",
+        "For final compensation",
+        ", the victim, dependent, or the concerned police station in-charge can apply to the State or District Legal Services Authority. The application must include the FIR, charge sheet, medical certificate, details of the court in which the case is pending, relevant orders if the case has been disposed of, and other case-related details if the matter is still under hearing. Additionally, documents related to any interim relief received, orders, bills or receipts of treatment expenses, proof of financial loss, and supporting certificates must also be submitted. Alternatively, an online application can be made through the Victim Compensation option on the National Legal Services Authority website. Once submitted, the competent authority or committee will investigate the case and disburse the compensation to the victim or dependent.",
+        "If the victim or dependent faces difficulty in applying due to lack of legal knowledge, they may seek free legal assistance from a paralegal volunteer or a panel lawyer. A list of paralegal volunteers and panel lawyers is available on the official website of the State Legal Services Authority."
+      ]
+    },
+    "documents_required": [
+      "Document for Interim Compensation:",
+      "Aadhaar Card",
+      "Copy of FIR (First Information Report)",
+      "Medical Certificate",
+      "Document for Final Compensation:",
+      "FIR Report",
+      "Charge Sheet",
+      "Court Order or Case Status Details (if case is pending or disposed)",
+      "Previous Interim Relief Order (if interim aid already received)",
+      "Bills/Receipts of Medical or Rehabilitation Expenses",
+      "Proof of Financial Loss, if any"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 69)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible under this scheme?",
+      "answer": "All women of the state, or their dependents, who are victims of gang rape, rape, unnatural sexual assault, pregnancy due to rape, abortion or loss of fertility, loss of life, disability, physical or mental injury, burns, or acid attack are eligible."
+    },
+    {
+      "question": "What is the compensation amount under the scheme?",
+      "answer": "Compensation ranges from a minimum of ₹3 lakh to a maximum of ₹10 lakh, depending on the nature and severity of the crime."
+    },
+    {
+      "question": "In how many forms is compensation provided?",
+      "answer": "Compensation is provided in two forms: interim compensation (immediate relief) and final compensation (long-term assistance)."
+    },
+    {
+      "question": "What is interim compensation?",
+      "answer": "Interim compensation provides immediate relief after the crime, including free medical treatment or financial assistance up to ₹10,000."
+    },
+    {
+      "question": "What is final compensation?",
+      "answer": "Final compensation ranges from ₹3 lakh to ₹10 lakh, depending on the severity of the crime and the impact on the victim."
+    },
+    {
+      "question": "Who decides the amount of compensation?",
+      "answer": "The State or District Legal Services Authority determines the compensation amount based on the nature of the crime and the victim’s condition."
+    },
+    {
+      "question": "Can a victim receive compensation if she has suffered multiple offences?",
+      "answer": "Yes, if a woman is a victim of more than one offence, such as sexual violence and acid attack, she will be entitled to a consolidated amount of compensation."
+    },
+    {
+      "question": "How can a victim apply for interim compensation?",
+      "answer": "The victim or dependent can apply by submitting their Aadhaar card, copy of FIR, and medical certificates to the SLSA/DLSA, or apply online through the NALSA website."
+    },
+    {
+      "question": "Can applications be submitted online?",
+      "answer": "Yes, applications can be submitted online through the “Victim Compensation” option on the NALSA website."
+    }
+  ]
+}

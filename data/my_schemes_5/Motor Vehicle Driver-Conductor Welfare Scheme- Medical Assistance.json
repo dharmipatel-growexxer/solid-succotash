@@ -1,0 +1,112 @@
+{
+  "scheme_name": "Motor Vehicle Driver-Conductor Welfare Scheme- Medical Assistance",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mvdcws-mda",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Motor Vehicle Driver-Conductor Welfare Scheme- Medical Assistance",
+  "scraped_at": "2026-03-10 08:21:04 UTC",
+  "sections": {
+    "details": [
+      "The “Motor Vehicle Driver-Conductor Welfare Scheme- Medical Assistance” scheme has been launched by the Transport Department, Government of Madhya Pradesh. The scheme aims to provide medical assistance benefits to registered drivers, conductors, and their eligible family members to reduce the financial burden arising from illness. It also enables beneficiaries to receive assistance for high-cost treatments in case of severe diseases."
+    ],
+    "benefits": [
+      "Medical treatment benefits are provided under",
+      "Deendayal Antyodaya Upchar Yojana",
+      "through the Public Health and Family Welfare Department.",
+      "Financial assistance for serious or life-threatening diseases may be provided under the State Illness Assistance Fund, subject to eligibility and approval.",
+      "The benefit covers the registered driver or conductor and their eligible family members as defined under the scheme."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Madhya Pradesh.",
+      "The applicant should hold a valid commercial driver or conductor license issued in Madhya Pradesh.",
+      "The applicant should be registered on the Samagra Portal.",
+      "The applicant should be a registered transport vehicle driver or conductor under the scheme.",
+      "The applicant or eligible family member should require medical treatment as per scheme provisions."
+    ],
+    "application_process": {
+      "offline": [
+        "Samagra ID Registration Process:",
+        "Step 1:",
+        "Visit the official website:",
+        "samagra.gov.in",
+        ".",
+        "Step 2:",
+        "Click on the option “Register Family” or “Register Member”.",
+        "Step 3:",
+        "Enter the Aadhaar number and other required information.",
+        "Step 4:",
+        "Enter the OTP received on the registered mobile number.",
+        "Step 5:",
+        "Carefully fill in all the required details and upload the necessary documents.",
+        "Step 6:",
+        "Enter the captcha code and click on “Submit Application.”",
+        "Offline Samagra ID Registration Process:",
+        "Visit the nearest Lok Seva Kendra, MP Online Kiosk, or Common Service Center (CSC).",
+        "Provide the required documents and necessary information to complete the registration process.",
+        "After Samagra Registration:",
+        "Step 1: Step 1:",
+        "The interested applicant downloads the",
+        "application form",
+        "(Page No. 9) from the official website.",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Submit the duly filled and signed application form along with the documents to the District or Regional Transport Office."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Samagra ID",
+      "Commercial Driver or Conductor License",
+      "Proof of Residence",
+      "Medical Certificate or Hospital Prescription (In Case of Treatment)",
+      "Serious Illness Certificate (Only in Case of Critical Disease Assistance)",
+      "Identity Proof",
+      "Family Details Linked with Samagra ID"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of medical assistance?",
+      "answer": "To provide healthcare and financial medical support to registered drivers, conductors, and their families."
+    },
+    {
+      "question": "Which department launched the scheme?",
+      "answer": "The scheme was launched by the Transport Department, Government of Madhya Pradesh."
+    },
+    {
+      "question": "Who is eligible for medical assistance?",
+      "answer": "Registered drivers, conductors, and their eligible family members are eligible."
+    },
+    {
+      "question": "Which health scheme provides treatment benefits?",
+      "answer": "Treatment benefits are provided through the Deendayal Antyodaya Upchar Yojana."
+    },
+    {
+      "question": "Is assistance available for serious diseases?",
+      "answer": "Yes, assistance may be provided under the State Illness Assistance Fund."
+    },
+    {
+      "question": "Is Samagra registration mandatory?",
+      "answer": "Yes, Samagra registration is mandatory."
+    },
+    {
+      "question": "Can other states people apply for this scheme?",
+      "answer": "No, only residents of Madhya Pradesh are eligible."
+    },
+    {
+      "question": "How Can I register for Samagra ID?",
+      "answer": "The applicant visits the Samagra official website for the registration."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "The following documents are required: Samagra Family Identification Number (Samagra ID), Samagra Member Identification Number, Aadhaar Card, Proof of Residence (Madhya Pradesh), Valid Commercial Driving or Conductor License, Bank Account Details, Passport-size Photograph, etc."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "The applicant submitting the application at the District or Regional Transport Office (RTO) for verification and further processing."
+    }
+  ]
+}

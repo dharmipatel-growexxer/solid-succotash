@@ -1,0 +1,130 @@
+{
+  "scheme_name": "Individual loaning scheme: Haryana Women Development Corporation",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ilshrwcd",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Individual loaning scheme: Haryana Women Development Corporation",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Individual Loaning Scheme\" by the Haryana Women Development Corporation, Government of Haryana, aims to provide financial assistance to women for economically viable projects. Through this scheme, subsidies and loans are provided to eligible women for projects costing. The scheme is implemented by the Haryana Women Development Corporation."
+    ],
+    "benefits": [
+      "1. Financial Assistance:",
+      "For economically viable projects, the total cost of which should not exceed ₹1,50,000/-.",
+      "2. Subsidy:",
+      "25% (subject to a maximum of ₹10,000/-) for other categories.",
+      "25% (subject to a maximum of ₹25,000/-) for Scheduled Caste (SC) Categories.",
+      "Earlier, the subsidy was only 10% (subject to a maximum of ₹5,000/-) for all categories.",
+      "3. Beneficiary Share:",
+      "10% of the project cost.",
+      "4. Balance Loan Amount:",
+      "Provided by commercial/nationalised banks."
+    ],
+    "eligibility": [
+      "The applicant must be female.",
+      "The applicant must require a loan for a project not exceeding ₹1,50,000/-.",
+      "The applicant's annual income must be less than ₹1,50,000/- per annum.",
+      "The applicant's spouse or parents are not income tax payees.",
+      "The age of the prospective beneficiary should be between 18 and 60 years at the time of applying for the loan."
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details, i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Note:",
+        "Govt. Charges:",
+        "No Fee",
+        "Service Charges:",
+        "₹10/-",
+        "Atal Seva Kendra Service Charges:"
+      ]
+    },
+    "documents_required": [
+      "Parivar Pehchan Patra Number",
+      "Residence Proof (Ration Card/Parivar Pehchan Patra (PPP)/Family ID)",
+      "Affidavit Of Annual Income",
+      "Cast Certificate"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Guidelines",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The scheme aims to assist women for economically viable projects."
+    },
+    {
+      "question": "Is this scheme only for residents of Haryana?",
+      "answer": "Yes, the scheme is offered by the Government of Haryana,"
+    },
+    {
+      "question": "Do I need to be a part of a specific group or organization to apply?",
+      "answer": "The scheme is for individual women requiring a loan."
+    },
+    {
+      "question": "If my spouse is an income tax payee, am I still eligible?",
+      "answer": "No, if your spouse is an income taxpayer, you are not eligible for assistance."
+    },
+    {
+      "question": "How is the 10% beneficiary share to be paid?",
+      "answer": "The beneficiary share is 10%, and the balance loan amount comes from commercial/nationalised banks."
+    },
+    {
+      "question": "If I have an issue with my application, whom should I contact?",
+      "answer": "You can contact the Helpline at 0172-3968400 or email saral.haryana@gov.in."
+    },
+    {
+      "question": "Can I get a physical application form from the Atal Seva Kendra (CSC)?",
+      "answer": "The document mentions Atal Seva Kendra (CSC) Service Charges, implying interaction with this centre."
+    },
+    {
+      "question": "Are there any provisions for women above 60 years of age?",
+      "answer": "No, the age of the prospective beneficiary should be between 18-60 years."
+    },
+    {
+      "question": "Is the scheme open to all female residents, or are there specific demographics?",
+      "answer": "The scheme is open to female residents of Haryana whose annual income does not exceed ₹1.50 lac and whose spouse/parents are not income tax payers."
+    },
+    {
+      "question": "Are there any specific banks I need to approach for the balance loan amount?",
+      "answer": "The balance loan amount comes from commercial/nationalised banks."
+    },
+    {
+      "question": "Can I submit a photo ID other than the ones listed for residence proof?",
+      "answer": "The listed residence proofs are Ration Card, Parivar Pehchan Patra (PPP), or Family ID."
+    }
+  ]
+}

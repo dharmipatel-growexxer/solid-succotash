@@ -1,0 +1,69 @@
+{
+  "scheme_name": "Scholarship on Merit Basis",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/macuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Scholarship on Merit Basis",
+  "scraped_at": "2026-03-10 09:21:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Scholarship on Merit Basis” is implemented by Uttarakhand Sanskrit University, Haridwar, under the Department of Sanskrit Education, Government of Uttarakhand. The scheme aims to encourage meritorious students pursuing undergraduate and postgraduate studies at Uttarakhand Sanskrit University by awarding scholarships to those who secure the highest marks in the relevant course, class, or subject."
+    ],
+    "benefits": [
+      "Under this scheme, one student from each undergraduate and postgraduate class at Uttarakhand Sanskrit University is awarded a scholarship equal to the tuition fee of their respective class."
+    ],
+    "eligibility": [
+      "The applicant must be enrolled in an undergraduate or postgraduate course at Uttarakhand Sanskrit University.",
+      "The student must have secured the highest marks in the relevant course, class, or subject."
+    ],
+    "application_process": {
+      "offline": [
+        "A Scholarship Cell has been established at the university level to manage the scholarship process. The cell provides application forms to students, who must complete the forms and submit them along with their high school certificate, Aadhaar card, grade sheet, and bank account details.",
+        "After scrutinizing the applications, the cell prepares a list of eligible students. Upon administrative and financial approval, the scholarship funds are transferred directly to the bank accounts of the eligible students."
+      ]
+    },
+    "documents_required": [
+      "High School Certificate",
+      "Aadhaar Card",
+      "Mark Sheet of the respective Class",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 92)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scholarship?",
+      "answer": "Students enrolled in undergraduate or postgraduate courses at Uttarakhand Sanskrit University who secure the highest marks in their respective course/class/subject are eligible."
+    },
+    {
+      "question": "How many scholarships are awarded under this scheme?",
+      "answer": "One student per undergraduate and postgraduate class is awarded a scholarship."
+    },
+    {
+      "question": "What is the value of the scholarship?",
+      "answer": "The scholarship amount is equal to the tuition fee of the respective class."
+    },
+    {
+      "question": "Who manages the scholarship process?",
+      "answer": "A Scholarship Cell has been established at the university level to manage the application, scrutiny, and disbursement process."
+    },
+    {
+      "question": "How can students apply for the scholarship?",
+      "answer": "Students must obtain the application form from the Scholarship Cell, complete it, and submit it along with the required documents."
+    },
+    {
+      "question": "Where should the completed application form be submitted?",
+      "answer": "The completed application, along with supporting documents, should be submitted to the university’s Scholarship Cell."
+    },
+    {
+      "question": "How are applications evaluated?",
+      "answer": "The Scholarship Cell scrutinizes all applications and prepares a list of eligible students based on merit."
+    },
+    {
+      "question": "How is the scholarship amount disbursed?",
+      "answer": "After approval, the scholarship funds are transferred directly to the bank accounts of eligible students."
+    }
+  ]
+}

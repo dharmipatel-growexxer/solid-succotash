@@ -1,0 +1,117 @@
+{
+  "scheme_name": "Integrated Fisheries Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ifs",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Integrated Fisheries Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Integrated Fisheries Scheme\" by the Fisheries Division, Department of Agriculture, Animal Husbandry & Cooperation, Government of Jharkhand, aims to promote fish-duck farming and enhance the income of fish farmers. Under this scheme, financial assistance covering up to 80% of the project cost is provided to Scheduled Tribes, Scheduled Castes, and women beneficiaries, while other categories receive up to 70% assistance.",
+      "Objective:",
+      "Support for constructing duck houses and procuring ducklings.",
+      "Preference is given to one-acre or larger water bodies.",
+      "Encouragement for cluster-based implementation to enhance productivity.",
+      "Special priority for previously selected beneficiaries from 2022-23 who couldn't receive grants due to unforeseen reasons."
+    ],
+    "benefits": [
+      "Financial assistance of up to ₹1,22,680 for SC/ST/women beneficiaries.",
+      "Financial assistance of ₹1,07,345 for other beneficiaries.",
+      "Financial assistance is provided in three installments:",
+      "The first installment is released after approval.",
+      "The second after verification of project setup.",
+      "The third upon successful implementation and monitoring of the fish-duck farming unit.",
+      "NOTE:",
+      "Financial assistance is disbursed in three installments via Direct Benefit Transfer (DBT)."
+    ],
+    "eligibility": [
+      "The applicant should be a fish farmer.",
+      "The proposed site should be near a population center.",
+      "The applicant should own or lease a pond (minimum one acre) for at least three years.",
+      "Preference is given to applicants closer to district headquarters for better monitoring.",
+      "The applicant near RFF (Resource Fisheries Facilities) should have an active bank account and be part of a functional beneficiary group.",
+      "Applicants who were selected in 2022-23 but did not receive grants will be prioritized."
+    ],
+    "application_process": {
+      "offline": [
+        "Apply after the advertisement is published:",
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Secured Deposit Determination Committee and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Secured Deposit Determination Committee.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Land Ownership or Lease Agreement (minimum three years)",
+      "Bank Account Details",
+      "Caste Certificate (if applicable)",
+      "Residence Certificate",
+      "Declaration of cluster-based project implementation (if applicable)"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Fish farmers with a minimum one-acre pond (owned or leased for three years) can apply. Special preference is given to SC/ST beneficiaries, women, and those near RFF facilities."
+    },
+    {
+      "question": "What financial support does the scheme provide?",
+      "answer": "The scheme offers up to ₹1,22,680 for SC/ST/women and ₹1,07,345 for others to support fish-duck farming. ming."
+    },
+    {
+      "question": "How will I receive financial assistance?",
+      "answer": "Funds will be disbursed in three DBT installments based on the progress of the project."
+    },
+    {
+      "question": "Can I apply if I already received approval last year but didn't get funds?",
+      "answer": "Yes, priority will be given to previously selected beneficiaries from 2022-23 who couldn’t receive funds due to unforeseen reasons."
+    },
+    {
+      "question": "Is there any preference given to location?",
+      "answer": "Yes, applicants near district headquarters or RFF centers will be prioritized for ease of monitoring."
+    },
+    {
+      "question": "Do I need a bank account for this scheme?",
+      "answer": "Yes, a functional bank account is mandatory for DBT transactions."
+    },
+    {
+      "question": "Where can I apply for the Integrated Fisheries Scheme?",
+      "answer": "Applications can be submitted at the district fisheries office after the official advertisement is released."
+    },
+    {
+      "question": "Where can I find more details about this scheme?",
+      "answer": "Detailed information is available on the official website: www.jharkhandfisheries.org."
+    },
+    {
+      "question": "What components are covered under financial assistance?",
+      "answer": "Assistance includes expenses for duck house construction, purchasing ducklings, and starter feed/medicines."
+    },
+    {
+      "question": "How is the selection process conducted?",
+      "answer": "Applications are reviewed by the district-level Secured Deposit Determination Committee, which includes fisheries officers and veterinary representatives."
+    },
+    {
+      "question": "Can I receive support for more than one unit?",
+      "answer": "Each applicant is eligible for one unit (160 ducklings), with RFF locations eligible for a maximum of two units."
+    },
+    {
+      "question": "What happens if my ducks do not survive?",
+      "answer": "The second and third installments are disbursed only if ducks survive for at least two months."
+    },
+    {
+      "question": "What is the monitoring process for the scheme?",
+      "answer": "Monitoring is done in three stages by fisheries supervisors, district fisheries officers, and directorate-level officers through field inspections."
+    },
+    {
+      "question": "Will I receive training for fish-duck farming?",
+      "answer": "Yes, training will be provided under the Fisheries Directorate’s extension programs."
+    }
+  ]
+}

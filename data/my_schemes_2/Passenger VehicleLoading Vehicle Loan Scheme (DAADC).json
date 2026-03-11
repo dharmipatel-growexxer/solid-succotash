@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Passenger Vehicle/Loading Vehicle Loan Scheme (DAADC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pvlvls",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Passenger Vehicle/Loading Vehicle Loan Scheme (DAADC)",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Passenger Vehicle/Loading Vehicle Loan Scheme\" introduced by the Social Justice and Empowerment Department, Gujarat, aims to provide financial assistance in the form of loans to unemployed individuals belonging to Scheduled Caste Antyodaya families, enabling them to purchase passenger or freight vehicles and thereby create self-employment opportunities in the transport sector. The scheme is being implemented by the Dr. Ambedkar Antyodaya Development Corporation."
+    ],
+    "benefits": [
+      "Financial assistance in the form of a loan."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must belong to the Scheduled Caste (SC) category.",
+      "The applicant must be unemployed.",
+      "The applicant must belong to an Antyodaya family.",
+      "The applicant must have a family income not exceeding ₹3,00,000/- per annum."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the official",
+        "DAADC",
+        "online portal.",
+        "Step 2:",
+        "Register/log in using your credentials.",
+        "Step 3:",
+        "Fill out the application form with accurate personal and scheme-specific details.",
+        "Step 4:",
+        "Upload the required documents and submit."
+      ]
+    },
+    "documents_required": [
+      "Aadhar Card.",
+      "Ration Card.",
+      "Copy of First Page of Bank Passbook.",
+      "Income Certificate.",
+      "Caste Certificate.",
+      "Abstract Of Driving Licence.",
+      "School Leaving Certificate / Birth Certificate / Medical Officer or Civil Surgeon Certificate.",
+      "Driving License."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main purpose of the \"Passenger Vehicle/Loading Vehicle Loan Scheme\"?",
+      "answer": "The main purpose of the \"Passenger Vehicle/Loading Vehicle Loan Scheme\" is to provide financial assistance in the form of loans to unemployed individuals belonging to Scheduled Caste Antyodaya families, enabling them to purchase passenger or freight vehicles and thereby create self-employment opportunities in the transport sector."
+    },
+    {
+      "question": "Who is eligible to apply for this transport vehicle loan scheme in Gujarat?",
+      "answer": "The scheme is specifically designed for unemployed persons who belong to the Scheduled Caste category, are members of Antyodaya families, are residents of Gujarat, and have a total annual family income that does not exceed ₹3,00,000."
+    },
+    {
+      "question": "What types of vehicles are covered under this loan scheme?",
+      "answer": "The scheme provides financial support for the purchase of both passenger vehicles (used for public transport) and freight or loading vehicles (used for transportation of goods), aimed at generating sustainable livelihoods in the transport sector."
+    },
+    {
+      "question": "Is it mandatory for the applicant to have a driving license while applying for the scheme?",
+      "answer": "Yes, it is mandatory for the applicant to possess a valid driving license at the time of application, as it is one of the essential documents required under the scheme guidelines."
+    },
+    {
+      "question": "What is the maximum income an applicant’s family can have to be considered eligible?",
+      "answer": "To be considered eligible for this scheme, the total annual income of the applicant’s family must not exceed ₹3,00,000/-, ensuring that the benefit reaches the economically weaker sections."
+    },
+    {
+      "question": "Is the scheme available to applicants residing outside Gujarat?",
+      "answer": "No, the scheme is exclusively available to residents of Gujarat, and applicants must provide valid proof of residence within the state to be considered for assistance."
+    },
+    {
+      "question": "Is there any age limit for applicants?",
+      "answer": "No. There is no specific age limit mentioned in the guidelines."
+    },
+    {
+      "question": "Through which platform or portal can an applicant submit their application for this scheme?",
+      "answer": "All applications for the Passenger Vehicle / Loading Vehicle Loan Scheme must be submitted online through the official DAADC portal, which can be accessed at: https://daadconline.gujarat.gov.in ."
+    },
+    {
+      "question": "What are the key documents that an applicant must submit to complete the application?",
+      "answer": "The applicant is required to submit several documents, including an Aadhaar card, caste certificate, income certificate, school leaving certificate, election card, driving license, birth certificate or age proof, bank details, etc."
+    },
+    {
+      "question": "Is there any fee that an applicant needs to pay for applying under this scheme?",
+      "answer": "No, there is no application fee required for applicants who wish to apply for financial assistance under this scheme, making the process accessible and free of cost for all eligible individuals."
+    }
+  ]
+}

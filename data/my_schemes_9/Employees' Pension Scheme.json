@@ -1,0 +1,187 @@
+{
+  "scheme_name": "Employees' Pension Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/eps",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Employees' Pension Scheme",
+  "scraped_at": "2026-03-10 09:09:17 UTC",
+  "sections": {
+    "details": [
+      "Launched on 16th November 1995, the \"Employees' Pension Scheme\" is a social security initiative by the Government of India, implemented under the Employees' Provident Funds and Miscellaneous Provisions Act, 1952. The scheme ensures financial security for employees post-retirement, disability, or to their families in case of death. Key benefits include superannuation pension, early pension, and family pension. Eligible employees must be members of the Employees' Provident Fund Scheme, 1952, and their pay should not exceed ₹15,000/- per month. The scheme is implemented by the Employees' Provident Fund Organisation (EPFO). Applications for this scheme are accepted both online and offline through EPFO portals and regional offices."
+    ],
+    "benefits": [
+      "Superannuation Pension:",
+      "Payable to members who retire at 58 years with at least 10 years of eligible service. Calculated as (Pensionable Salary × Pensionable Service) / 70.",
+      "Early Pension:",
+      "Reduced pension for members retiring between 50-58 years, with a 4% reduction per year below 58. Payable if the member has rendered eligible service of 10 years or more.",
+      "Monthly Member's Pension:",
+      "Calculated as (Pensionable Salary × Pensionable Service) / 70.",
+      "Minimum Pension:",
+      "₹1,000 per month, subject to deductions for commutation or early pension.",
+      "Widow Pension:",
+      "50% of the member's pension or ₹450/month, whichever is higher.",
+      "Children Pension:",
+      "25% of widow pension per child (max 2 children).",
+      "Orphan Pension:",
+      "75% of the widow pension if no surviving spouse (max 2 orphans).",
+      "Permanent Total Disablement Pension:",
+      "Minimum ₹250/- per month if the member is permanently disabled during service.",
+      "Withdrawal Benefit:",
+      "For members who exit before completing 10 years of service, calculated as per Table D.",
+      "Disbursement Conditions",
+      "Pension starts from the date following the member's retirement, disablement, or death.",
+      "Early pension is reduced by 4% for each year the age falls short of 58 years.",
+      "Deferred pension increases by 4% for each year beyond 58 years, up to 60 years.",
+      "Family pension ceases on widow's remarriage or death.",
+      "Mode of Disbursement:",
+      "Through Post Office, Nationalised Banks, or electronic transfer."
+    ],
+    "eligibility": [
+      "The applicant must be a member of the Employees' Provident Fund Scheme, 1952, or an exempted establishment under Section 17 of the Act.",
+      "The applicant's pay must not exceed ₹15,000/month (unless contributing additional 1.16% above this limit).",
+      "The applicant must have a minimum of 10 years of eligible service for pension.",
+      "The applicant must have contributed to the Employees' Pension Fund.",
+      "For Superannuation Pension",
+      "The applicant must be 58 years or above in age.",
+      "The applicant must have rendered at least 10 years of eligible service.",
+      "For Early Pension",
+      "The applicant must opt for early pension between 50 and 58 years of age.",
+      "For Family Pension",
+      "The applicant must be the spouse or child of a deceased member who met the eligibility criteria.",
+      "The applicant must provide proof of the relationship and the member's death.",
+      "The deceased member must have contributed for at least one month.",
+      "Post-Selection Conditions",
+      "The applicant must submit the required documents for verification.",
+      "The applicant must comply with EPFO guidelines for pension disbursement.",
+      "*International workers are eligible under specific social security agreements."
+    ],
+    "application_process": {
+      "online": [
+        "For Registration",
+        "Step 1: Activate UAN (Universal Account Number)",
+        "Visit the",
+        "EPFO Unified Portal",
+        ". Click \"For Employees\" > \"Member UAN/Online Services (OCS/OTCP)\". Enter UAN, mobile number, and CAPTCHA code. Click \"Request OTP\". Enter the OTP received on your registered mobile and click \"Validate OTP\". You will be redirected to the UAN activation page.",
+        "Step 2: Set Password & Complete KYC",
+        "Create a password (8-12 characters, including 1 uppercase, 1 number, and 1 special character). Under \"Manage\", select \"KYC\" and upload documents (Aadhaar, PAN, bank details). KYC status will show as \"Approved\" after verification (takes 3-5 working days).",
+        "For Application",
+        "Step 1: Login to the EPFO Portal",
+        "Go to",
+        ". Click \"Member e-Sewa\" > Enter UAN, password, and CAPTCHA. Click \"Sign In\". You will land on the member dashboard.",
+        "Step 2: Navigate to Pension Claim",
+        "Under \"Online Services\", select \"Pension on Superannuation/Retirement (Form 10D)\". The pension application form will open. Fill in all the mandatory fields. Click \"Save & Preview\" to review entries.",
+        "Step 3: Upload Documents",
+        "Upload scanned copies (PDF/JPEG/PNG, max 2MB each). Click \"Submit\" to proceed to OTP verification.",
+        "Step 4: OTP Verification & Final Submission",
+        "Enter the OTP sent to your registered mobile and email. Click \"Validate OTP & Submit\". A success message with an acknowledgement number will appear. Save the acknowledgement number and screenshot of submission confirmation for future reference.",
+        "C. Application Status Tracking",
+        "Method 1:",
+        "EPFO Portal > \"Track Claim Status\" (using UAN + acknowledgement number).",
+        "Method 2:",
+        "SMS \"EPFOHO <UAN> ENG\" to 7738299899.",
+        "D. Help & Support / Grievance Redressal",
+        "EPFO Helpline:",
+        "1800-118-005 (8:00 AM–8:00 PM).",
+        "Email:",
+        "epfigms@epfindia.gov.in.",
+        "Online Grievance Portal:",
+        "EPFiGMS",
+        "(or visit the nearest office for grievances)."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof (Aadhaar/Passport/Voter ID)",
+      "Bank Account Details (Cancelled cheque/passbook copy)",
+      "Proof of Date of Birth (Birth certificate/School leaving certificate)",
+      "Death Certificate (for family pension)",
+      "relationship proof (for family pension)",
+      "Disability Certificate, from EPFO-approved doctors (for disablement pension)",
+      "Service Proof (EPF passbook/employment records)"
+    ],
+    "sources_and_references": [
+      "Employees' Pension Scheme, 1995 (Original Notification)",
+      "Amendment Dated 14.06.2024",
+      "EPF Act, 1952 (Parent Legislation)",
+      "EPFO Unified Member Portal",
+      "Form 10D (Pension Claim Form)",
+      "EPFiGMS (Grievance Portal)",
+      "FAQ On EPS",
+      "SMS Service For Claim Tracking",
+      "Social Security Agreements (International Workers)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the minimum years of service required to be eligible for pension benefits under this scheme?",
+      "answer": "The applicant must have completed a minimum of 10 years of contributory service under the Employees' Provident Fund to qualify for pension benefits."
+    },
+    {
+      "question": "How is the monthly member's pension calculated under this scheme?",
+      "answer": "The pension amount is calculated using the formula: (Pensionable Salary × Pensionable Service) / 70. The result determines the monthly payout."
+    },
+    {
+      "question": "What is the minimum pension amount guaranteed under this scheme?",
+      "answer": "The minimum pension provided is ₹1,000 per month, subject to deductions for commutation or early pension adjustments."
+    },
+    {
+      "question": "Who is eligible to receive a family pension after the member's death?",
+      "answer": "The deceased member's spouse is eligible for 50% of the pension, while children receive 25% each, up to a maximum of two children."
+    },
+    {
+      "question": "What happens if a member exits the scheme before completing 10 years of service?",
+      "answer": "Members who exit before 10 years receive a withdrawal benefit, calculated as per Table D of the scheme's provisions."
+    },
+    {
+      "question": "At what age does the superannuation pension become payable under this scheme?",
+      "answer": "The superannuation pension is payable once the member attains 58 years of age, provided they have at least 10 years of service."
+    },
+    {
+      "question": "Can a member claim an early pension before reaching 58 years of age?",
+      "answer": "Yes, early pension can be claimed between 50 and 58 years, but it is reduced by 4% for each year below 58."
+    },
+    {
+      "question": "What documents are required to apply for a family pension after a member's death?",
+      "answer": "The applicant must submit the member's death certificate along with proof of relationship, such as a marriage or birth certificate."
+    },
+    {
+      "question": "How is the pension amount adjusted if a member delays claiming it beyond 58 years?",
+      "answer": "For each year deferred beyond 58, the pension increases by 4%, up to a maximum of 60 years of age."
+    },
+    {
+      "question": "What is the orphan pension, and who is eligible to receive it?",
+      "answer": "Orphan pension is 75% of the widow's pension, payable if there is no surviving spouse and only dependent children."
+    },
+    {
+      "question": "What is the pension benefit for a member who becomes permanently disabled during service?",
+      "answer": "A minimum of ₹250 per month is provided as a permanent total disablement pension if disability occurs during employment."
+    },
+    {
+      "question": "How can a member track the status of their pension application online?",
+      "answer": "The status can be checked on the EPFO portal using the UAN and acknowledgement number or via the SMS service."
+    },
+    {
+      "question": "What is the process for activating the Universal Account Number (UAN) for online services?",
+      "answer": "Visit the EPFO Unified Portal, enter UAN and mobile details, validate OTP, and set a password to activate the UAN."
+    },
+    {
+      "question": "What are the password requirements for accessing the EPFO member portal?",
+      "answer": "The password must be 8-12 characters long, with at least 1 uppercase letter, 1 number, and 1 special character."
+    },
+    {
+      "question": "What is the maximum file size allowed for document uploads during online application?",
+      "answer": "Scanned documents must be in PDF, JPEG, or PNG format, with a maximum size of 2 MB per file."
+    },
+    {
+      "question": "What should an applicant do if their pension claim is delayed beyond the expected timeline?",
+      "answer": "Delays beyond 20 working days incur a 12% penal interest, and grievances can be raised via EPFiGMS or helpline."
+    },
+    {
+      "question": "What is the validity period of the OTP used during the online application process?",
+      "answer": "The OTP sent for verification remains valid for 10 minutes before expiring."
+    },
+    {
+      "question": "Is there a helpline available for assistance regarding pension-related queries?",
+      "answer": "Yes, the EPFO helpline (1800-118-005) operates from 8:00 AM to 8:00 PM for support and grievance redressal."
+    }
+  ]
+}

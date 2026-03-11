@@ -1,0 +1,96 @@
+{
+  "scheme_name": "Feed Based Fisheries Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fbfs",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Feed Based Fisheries Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Feed Based Fisheries Scheme\" by the Agriculture, Animal Husbandry & Cooperation Department, Government of Jharkhand aims to enhance fish production through feed-based fisheries. Under this scheme, financial support in the form of grants for floating fish feed is provided to fish farmers to increase fish production in various districts like Ranchi, Ramgarh, Koderma, Bokaro, Dhanbad, and Seraikela."
+    ],
+    "benefits": [
+      "Floating Fish Feed Subsidy:",
+      "Fish farmers receive a grant of 50% of the cost or a maximum of ₹22 per kg for fish feed with a minimum 24% protein content.",
+      "Support for Cage Fish Farmers:",
+      "Fish farmers using cage systems, Recirculatory Aquaculture Systems (RAS), or Biofloc tanks are eligible for feed subsidies.",
+      "Support for Biofloc Pond Farmers:",
+      "Farmers utilizing Biofloc ponds receive subsidies for fish feed, with a maximum of 2000 kg per pond."
+    ],
+    "eligibility": [
+      "The applicant should be a fisherman.",
+      "The applicant must be an active fish farmer involved in cage fish farming, Recirculatory Aquaculture Systems (RAS), or Biofloc systems.",
+      "The applicant should have at least one year of previous crop records.",
+      "The applicant should not be enrolled in other overlapping schemes for the same purpose."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Fisheries Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof",
+      "Address Proof",
+      "Bank Account Details",
+      "GST Bill/Invoice for Feed Purchase",
+      "Previous Crop Records",
+      "Certificate from District Fisheries Office"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Fish farmers who are actively involved in cage fish farming, Recirculatory Aquaculture Systems (RAS), or Biofloc systems are eligible to apply."
+    },
+    {
+      "question": "How much subsidy is provided under the scheme?",
+      "answer": "Fish farmers are eligible for a subsidy of 50% of the feed cost, with a maximum of ₹22 per kg of fish feed."
+    },
+    {
+      "question": "Can I apply if I do not have GST billing for the feed purchase?",
+      "answer": "No, GST billing is mandatory for feed purchased from the open market. The subsidy will only be disbursed upon verifying the GST invoice."
+    },
+    {
+      "question": "How is the grant disbursed to the applicants?",
+      "answer": "The grant is disbursed through Direct Benefit Transfer (DBT) directly to the applicant’s bank account."
+    },
+    {
+      "question": "Can the feed be purchased from any supplier?",
+      "answer": "The feed can be purchased from recognized suppliers who meet the scheme’s quality standards and have GST invoicing."
+    },
+    {
+      "question": "Is the scheme available in all districts of Jharkhand?",
+      "answer": "Yes, the scheme is available in districts like Ranchi, Ramgarh, Koderma, Bokaro, Dhanbad, and Seraikela."
+    },
+    {
+      "question": "What is the maximum quantity of feed I can get under the subsidy?",
+      "answer": "The subsidy covers up to 700 kg of feed for each beneficiary, depending on the size of the fish farm."
+    },
+    {
+      "question": "What if I am running a Biofloc pond or tank?",
+      "answer": "You are eligible for a subsidy on feed, with specific limits based on the size of your pond or tank."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "The applicant can apply by visiting the District Fisheries Office and submitting the filled application form along with the necessary documents."
+    },
+    {
+      "question": "How is the subsidy amount determined?",
+      "answer": "The subsidy is based on the actual amount spent by the beneficiary, up to a maximum of ₹18 per kg for factory-produced feed."
+    },
+    {
+      "question": "How can I track the progress of my application?",
+      "answer": "Applicants can track their application status by contacting the District Fisheries Officer or by visiting the official website."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "scheme_name": "Jal Hauj",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jh",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Jal Hauj",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "A Jal Hauj scheme under the Agriculture Department of Rajasthan Provides the benefit of subsidy on Jal Hauj. According to this scheme, farmers have to construct a Jal Hauj on the elevated part of their land. Which can be filled with borewell water overnight and in the morning crops can be irrigated with the water collected in the Hauj. The department is providing financial assistance to the farmers. After filling the Jal Hauj with water, farmers can easily irrigate their crops through the pipeline.",
+      "Important points",
+      "The department will do spot verification before and after the construction of the water tank.",
+      "The grant amount will be deposited directly into the farmer's account."
+    ],
+    "benefits": [
+      "Grant for all farmers: 60% of the cost or max ₹90,000/-"
+    ],
+    "eligibility": [
+      "The applicant must be a native of Rajasthan.",
+      "The applicant should be a Farmer.",
+      "The farmer should have a minimum cultivable land of half a hectare on his name.",
+      "The applicant should be a source and means of irrigation.",
+      "Water tank size should be 100 cubic meters or one lakh liter capacity"
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step-1:",
+        "Applicant have to visit the",
+        "official portal",
+        ".",
+        "Step-2:",
+        "Click on the option “",
+        "Register",
+        "”.",
+        "Step-3:",
+        "Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step-4:",
+        "Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,",
+        "Select your name, the name of the head of the family and all the other members and",
+        "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and",
+        "Click on the ‘Verify OTP’ button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the ‘Next’ button,",
+        "Enter the password.",
+        "A new link appear on screen, now click on the new SSO link.",
+        "SSO id will appear on the screen, now create the password.",
+        "Enter Mobile number, click on registration.",
+        "Step-5",
+        ": Submit.",
+        "Apply",
+        "After login,"
+      ]
+    },
+    "documents_required": [
+      "Copy of Aadhar Card / Janadhar Card",
+      "Jamabandi",
+      "Bank Account Number",
+      "Identification Proof"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Registration",
+      "Login"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is this scheme about ?",
+      "answer": "The objective of the Jal Hauj scheme is to promote sustainable water management practices and address water scarcity issues by facilitating the construction of water harvesting structures."
+    },
+    {
+      "question": "What benefits are provided under the scheme ?",
+      "answer": "Financial benefits are provided under the scheme."
+    },
+    {
+      "question": "How much financial benefits/grant will be provided ?",
+      "answer": "Grant of 60% of the total cost. What is the minimum eligible size of the water tank. Water tank size of 100 cubic meters or one lakh liter capacity."
+    },
+    {
+      "question": "What is the eligibility criteria ?",
+      "answer": "1. The farmer should have a minimum cultivable land of half a hectare on his name. 2. The applicant should be a source and means of irrigation How to get the scheme benefits 1. Applicant need to register them self on the official portal. 2. Complete the profile and fil out the application form."
+    },
+    {
+      "question": "What documents are provided ?",
+      "answer": "1. Copy of Aadhar Card / Janadhar Card 2. Jamabandi. 3. Bank Account Number. 4. Identification Proof."
+    },
+    {
+      "question": "What will the maximum amount covered under 60%?",
+      "answer": "Maximum amount covered under will be ₹90,000/-."
+    },
+    {
+      "question": "What is official website for registration and apply ?",
+      "answer": "Applicant need to visit the following link. URL : https://sso.rajasthan.gov.in/signin"
+    },
+    {
+      "question": "Can anyone other than farmers get the benefit of this scheme?",
+      "answer": "No, this is only for farmer."
+    }
+  ]
+}

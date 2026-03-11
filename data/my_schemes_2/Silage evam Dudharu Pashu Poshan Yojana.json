@@ -1,0 +1,62 @@
+{
+  "scheme_name": "Silage evam Dudharu Pashu Poshan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sedpy",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Silage evam Dudharu Pashu Poshan Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Silage evam Dudharu Pashu Poshan Yojana” was launched by the Department of Dairy Development, Government of Uttarakhand. The scheme aims to improve the nutrition of dairy animals and enhance milk production by providing subsidized silage and feed to members of milk cooperative societies."
+    ],
+    "benefits": [
+      "Under this scheme, members of milk cooperative societies in hilly and plain rural areas are provided with quality mineral mixtures and probiotics at current rates, receive a 75% subsidy on silage including an upfront subsidy of ₹2.00 per kg.",
+      "Compact feed blocks are available at a 50% subsidy, costing the beneficiary ₹8.00 per kg."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a member of a milk-producing cooperative society supplying milk to the society."
+    ],
+    "application_process": {
+      "offline": [
+        "The porer member who supplies milk to the societies must submit an application for fodder, addressed to the Secretary of the society. Based on the requirement verified by the concerned society Secretary, the demand is forwarded to the District Milk Union, and the animal nutrition feed is provided to the member through the milk cooperative society itself."
+      ]
+    },
+    "documents_required": [
+      "Documents required as per the directions of the concerned milk cooperative society."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 241)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who are the beneficiaries of this scheme?",
+      "answer": "Members of milk-producing cooperative societies in Uttarakhand, particularly those in hilly and plain rural areas, are eligible to benefit from this scheme."
+    },
+    {
+      "question": "What types of feed are provided under this scheme?",
+      "answer": "The scheme provides silage, compact feed blocks, quality mineral mixtures, and probiotics to eligible members."
+    },
+    {
+      "question": "What is the subsidy provided on silage?",
+      "answer": "Members receive a 75% subsidy on silage, including an upfront subsidy of ₹2.00 per kg."
+    },
+    {
+      "question": "What is the subsidy on compact feed blocks?",
+      "answer": "Compact feed blocks are available at a 50% subsidy, costing the beneficiary ₹8.00 per kg."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Applicants must be residents of Uttarakhand and members of a milk-producing cooperative society supplying milk to the society."
+    },
+    {
+      "question": "How does a member apply for fodder under the scheme?",
+      "answer": "The member must submit an application for fodder, addressed to the Secretary of their milk cooperative society."
+    },
+    {
+      "question": "How is the fodder demand processed?",
+      "answer": "The Committee Secretary verifies the requirement and forwards the demand to the District Milk Union. The animal nutrition feed is then provided to the member through the cooperative society."
+    }
+  ]
+}

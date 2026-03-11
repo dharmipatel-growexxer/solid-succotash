@@ -1,0 +1,77 @@
+{
+  "scheme_name": "Post-Harvest Management",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/phm",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Post-Harvest Management",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Post-Harvest Management” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote the development of modern post-harvest infrastructure by supporting farmers and entrepreneurs in setting up facilities such as pack houses, pre-cooling units, cold rooms, cold storage units, and ripening chambers, thereby reducing post-harvest losses and improving the quality, value, and marketability of horticultural produce."
+    ],
+    "benefits": [
+      "For setting up units such as Pack Houses (9 m / 6 m), Pre-Cooling Units (6 MT capacity), Mobile Pre-Cooling Units (5 MT capacity), Cold Rooms (30 MT capacity), Cold Storage Units, Refer Vans/Containers (6 MT capacity), and Ripening Chambers (300 MT capacity), a subsidy of 35% to 50% is provided through a bank-linked, loan-based subsidy mechanism."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an interested entrepreneur or farmer.",
+      "The applicant must either own the land or have it on lease for a period of 25 to 30 years."
+    ],
+    "application_process": {
+      "offline": [
+        "Application forms must be obtained from officers or staff working at the Horticulture Mobile team Centres, or they can be downloaded from the department's website:",
+        "https://shm.uk.gov.in",
+        ". The application form/proposal must include land-related documents, such as Khasra and Khatauni, a lease certificate for leased land, Aadhaar card, PAN card, bank account details, mobile number, and training certificate. Currently, the application process is offline.",
+        "In case of difficulty in completing the application proposal, personnel at the relevant Horticulture Mobile team Centre will provide assistance. The completed application form must be submitted to this office. Simultaneously, the concerned entrepreneur/farmer must apply for a bank loan. Personnel at the Horticulture Mobile team Centre forward the proposal to the district level, which then forwards it to the Directorate. After the Directorate approves the proposal, the district issues an order granting the required approval/work order.",
+        "Once a farmer’s proposal is approved, the district officer sends an approval letter to the farmer/entrepreneur and informs them by phone. During this period, the farmer/entrepreneur must obtain loan approval with the assistance of departmental officials. After the loan is approved, the information must be provided to the department. Post-harvest management is carried out with the technical assistance and supervision of departmental officials. Upon completion, a joint team of departmental officials conducts an inspection, and the appropriate government assistance or subsidy is disbursed to the farmer's loan account."
+      ]
+    },
+    "documents_required": [
+      "Land-related documents, such as Khasra and Khatauni,",
+      "Lease certificate for leased land",
+      "Aadhaar Card",
+      "PAN Card",
+      "Bank Account Details (account number, branch, etc.)",
+      "Mobile Number",
+      "Training Certificate",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 217)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Interested entrepreneurs or farmers who are residents of Uttarakhand and either own agricultural land or have land on lease for 25 to 30 years."
+    },
+    {
+      "question": "What types of units can be set up under this scheme?",
+      "answer": "Units include Pack Houses (9 m × 6 m), Pre-Cooling Units (6 MT capacity), Mobile Pre-Cooling Units (5 MT capacity), Cold Rooms (30 MT capacity), Cold Storage Units, Reefer Vans/Containers (6 MT capacity), and Ripening Chambers (300 MT capacity)."
+    },
+    {
+      "question": "What is the financial assistance provided under the scheme?",
+      "answer": "The scheme provides 35% to 50% of the unit cost as a subsidy, which is released through a loan-based bank system."
+    },
+    {
+      "question": "How can one obtain the application form?",
+      "answer": "Application forms can be obtained from officers/staff at Horticulture Mobile Squad Centres or downloaded from the department's website."
+    },
+    {
+      "question": "Where should the completed application be submitted?",
+      "answer": "The completed application form must be submitted to the concerned Horticulture Mobile Squad Centre office."
+    },
+    {
+      "question": "How is the application processed?",
+      "answer": "The Horticulture Mobile Squad Centre forwards the proposal to the district level, which then sends it to the Directorate for approval. Once approved, the district issues an official order for implementation."
+    },
+    {
+      "question": "How will I know if my proposal is approved?",
+      "answer": "The district officer sends an approval letter to the applicant and informs them over the phone."
+    },
+    {
+      "question": "How is the subsidy released?",
+      "answer": "After completion of the unit, a joint inspection is conducted by departmental officials, and the approved government assistance/subsidy is credited to the farmer's loan account."
+    }
+  ]
+}

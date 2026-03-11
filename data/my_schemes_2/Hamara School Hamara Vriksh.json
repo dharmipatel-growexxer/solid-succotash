@@ -1,0 +1,59 @@
+{
+  "scheme_name": "Hamara School Hamara Vriksh",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/hshv",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Hamara School Hamara Vriksh",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Hamara School Hamara Vriksh” has been launched by the Department of Forest, Government of Uttarakhand. The aim of the scheme is to encourage tree plantation and environmental awareness among students by providing free saplings to all government and non-government schools for planting within their premises."
+    ],
+    "benefits": [
+      "Under this scheme, free saplings are provided for tree plantation in all government and non-government schools, and after the plantation, certificates are issued to the schools by the Forest Department."
+    ],
+    "eligibility": [
+      "All government and non-government schools in Uttarakhand are eligible to avail the benefits under the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "The school manager/principal shall apply to the Divisional Forest Officer in the prescribed form (available at the office of the Forest Range Officer) along with details of the trees previously planted or or currently available in the school and information about the area available for new plantation.",
+        "The Forest Department purchases saplings from Mahila Nurseries, horticulture department nurseries, etc., and distributes them free of charge to schools."
+      ]
+    },
+    "documents_required": [
+      "Details of trees already planted or existing within the school premises",
+      "Details of the area available for new plantation",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 251)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to participate in the scheme?",
+      "answer": "All government and non-government schools in Uttarakhand are eligible to participate and avail the benefits of the scheme."
+    },
+    {
+      "question": "What kind of assistance is provided under the scheme?",
+      "answer": "Under the scheme, the Forest Department provides free saplings to schools for plantation within their premises."
+    },
+    {
+      "question": "Are schools required to pay any fees to get the saplings?",
+      "answer": "No. The saplings are distributed free of cost by the Forest Department to all participating schools."
+    },
+    {
+      "question": "How can a school apply under the scheme?",
+      "answer": "The school manager or principal needs to apply to the Divisional Forest Officer (DFO) in the prescribed form available from the Forest Range Officer’s office."
+    },
+    {
+      "question": "From where does the Forest Department obtain the saplings?",
+      "answer": "The Forest Department purchases saplings from women’s nurseries, garden department nurseries, and other approved sources before distributing them to schools."
+    },
+    {
+      "question": "Can private schools also apply under this scheme?",
+      "answer": "Yes. Both government and private (non-government) schools are eligible to participate in the scheme."
+    }
+  ]
+}

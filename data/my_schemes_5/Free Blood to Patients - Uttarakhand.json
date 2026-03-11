@@ -1,0 +1,53 @@
+{
+  "scheme_name": "Free Blood to Patients - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fbpuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Free Blood to Patients - Uttarakhand",
+  "scraped_at": "2026-03-10 08:21:04 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Free Blood to Patients” is an initiative under the National Health Mission (NHM) implemented by the Department of Medical Health and Family Welfare, Government of Uttarakhand. The scheme aims to ensure the availability of blood free of cost to all patients admitted in government hospitals across the state."
+    ],
+    "benefits": [
+      "Under the scheme, free blood is provided to all patients admitted to government hospitals."
+    ],
+    "eligibility": [
+      "All patients admitted to government hospitals in Uttarakhand who require blood are eligible."
+    ],
+    "application_process": {
+      "offline": [
+        "In case of a blood requirement, patients admitted to government hospitals are provided blood free of cost by government blood banks. The free blood facility is available in a total of 23 medical units across the state, namely:",
+        "1. District Hospital, Almora, 2. Sub-District Hospital, Ranikhet 3. District Hospital, Bageshwar 4. District Hospital, Chamoli, 5. District Hospital, Champawat, 6. Doon Hospital, 7. Government Medical College, Dehradun, 8. Sub-District Hospital, Rishikesh, 9. District Hospital, Haridwar, 10. Sub-District Hospital, Roorkee, 11. District Hospital, Nainital, 12. Base Hospital, Haldwani, 13. Sushila Tiwari Government Medical College, Haldwani, 14. District Hospital, Pauri, 15. Base Hospital, Kotdwar, 16. Government Medical College, Srinagar, 17. District Hospital, Pithoragarh, 18. District Hospital, Rudraprayag, 19. District Hospital, Tehri, 20. District Hospital, Udham Singh Nagar, 21. District Hospital, Kashipur, 22. Sub-District Hospital, Khatima, 23. District Hospital, Uttarkashi"
+      ]
+    },
+    "documents_required": [
+      "The required documents should be submitted in accordance with the guidelines prescribed by the respective medical unit."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 132)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "All patients admitted to government hospitals in Uttarakhand who require blood during treatment are eligible to receive free blood."
+    },
+    {
+      "question": "Is this scheme available for patients admitted to private hospitals?",
+      "answer": "No."
+    },
+    {
+      "question": "How can a patient avail of the free blood facility?",
+      "answer": "When a blood transfusion is required, the treating doctor or hospital staff arranges blood from the nearest government blood bank under the scheme, without any charge to the patient."
+    },
+    {
+      "question": "From where is the blood provided under this scheme?",
+      "answer": "Blood is provided free of cost by government blood banks associated with designated medical units across the state."
+    },
+    {
+      "question": "How many medical units in Uttarakhand are covered under this scheme?",
+      "answer": "The free blood facility is available in 23 medical units across Uttarakhand."
+    }
+  ]
+}

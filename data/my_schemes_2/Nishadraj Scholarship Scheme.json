@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Nishadraj Scholarship Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nss",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Nishadraj Scholarship Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Nishadraj Scholarship Scheme” was launched by the Fisheries Welfare and Fisheries Development Department, Government of Madhya Pradesh. The scheme aims to support the higher education of children belonging to fisher families working in the Federation reservoirs. Under this scheme, scholarships for technical and non-technical courses are provided to meritorious students from fisher households to help them continue professional and academic studies."
+    ],
+    "benefits": [
+      "Scholarship up to ₹20,000 or the actual expenditure (whichever is lower) for technical courses such as Medical, Engineering, CLAT-based Law courses, and equivalent technical programs.",
+      "Scholarship up to ₹10,000 or the actual expenditure (whichever is lower) for non-technical courses such as B.A., B.Sc., B.Com., B.C.A., B.F.F.C., B.Sc. Agriculture, Law, and similar parallel courses.",
+      "NOTE:",
+      "Scholarship amount is transferred through Direct Benefit Transfer (DBT)."
+    ],
+    "eligibility": [
+      "The applicant should be a child of a fisher family working in the federation’s reservoirs.",
+      "The applicant should be a student.",
+      "The student must belong to General, Other Backward Classes (OBC), Scheduled Castes (SC), Scheduled Tribes (ST), Minority communities, or Below Poverty Line (BPL) categories.",
+      "The applicant should be enrolled in a recognized technical course (Medical, Engineering, CLAT-based Law, etc.) or a non-technical course (B.A., B.Com., B.Sc., Agriculture, etc.).",
+      "The applicant should be pursuing higher education at the time of application."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Regional Manager, Fisheries Federation Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Fisheries Federation Office."
+      ]
+    },
+    "documents_required": [
+      "Student Identity Proof",
+      "Address Proof",
+      "Caste Certificate",
+      "BPL Certificate (if applicable)",
+      "Bank Account Details",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Students who are children of fisher families working in federation reservoirs."
+    },
+    {
+      "question": "What is the maximum scholarship amount?",
+      "answer": "Up to ₹20,000 for technical courses and ₹10,000 for non-technical courses."
+    },
+    {
+      "question": "Which technical courses are covered?",
+      "answer": "Medical, Engineering, and CLAT-based Law courses."
+    },
+    {
+      "question": "Which non-technical courses are eligible?",
+      "answer": "B.A., B.Sc., B.Com., B.C.A., Agriculture, and similar parallel courses."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, the application process is free of cost."
+    },
+    {
+      "question": "Where can I apply for the scholarship?",
+      "answer": "The applicant should apply to the Fisheries Federation Office."
+    },
+    {
+      "question": "Who verifies the application?",
+      "answer": "The application is verified by the Regional Manager, Fisheries Federation."
+    },
+    {
+      "question": "How will the scholarship amount be paid?",
+      "answer": "The scholarship is transferred through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Is this scheme available in both rural and urban areas?",
+      "answer": "Yes, it covers Urban and Rural regions."
+    },
+    {
+      "question": "Does the scheme cover hostel or other expenses?",
+      "answer": "It covers expenses up to the maximum scholarship limit or actual expenditure."
+    }
+  ]
+}

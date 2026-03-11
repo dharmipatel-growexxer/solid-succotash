@@ -1,0 +1,105 @@
+{
+  "scheme_name": "Distribution of Soil Health Card",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/doshc",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Distribution of Soil Health Card",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "Under the “Distribution of Soil Health Card” scheme, by the Agriculture-Farmers Welfare Department, Tamil Nadu, Soil health cards will be distributed to all the farmers who have offered the soil sample for testing by paying a prescribed fee of ₹5/- each for Macro and Micronutrient testing."
+    ],
+    "benefits": [
+      "Soil Health Cards to farmers."
+    ],
+    "eligibility": [
+      "The beneficiary should be a Farmer.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should have provided soil samples for testing.",
+      "The beneficiary should have paid the prescribed fee ₹5/- each for Macro and Micronutrient testing."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Collect the application form from the nearest Agricultural Office.",
+        "Step 2:",
+        "Fill out the application form with the required details and attach mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the form to the concerned office:",
+        "Village Level:",
+        "Submit the application to the Assistant Agricultural Officer.",
+        "Block Level:",
+        "Submit to the Agricultural Officer or Deputy Agricultural Officer.",
+        "District Level:",
+        "Submit to the Joint Director of Agriculture."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity (Aadhar Card, Voter ID, etc.).",
+      "Proof of Land Ownership.",
+      "Proof of soil sample submission and payment.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Distribution of Soil Health Card” scheme?",
+      "answer": "Under the “Distribution of Soil Health Card” scheme, Soil health cards will be distributed to all the farmers who have offered the soil sample for testing by paying a prescribed fee of ₹5/- each for Macro and Micronutrient testing."
+    },
+    {
+      "question": "Who is eligible to receive a Soil Health Card?",
+      "answer": "Any farmer who submits a soil sample for testing and pays the prescribed fee is eligible to receive a Soil Health Card."
+    },
+    {
+      "question": "What is the fee for soil testing under this scheme?",
+      "answer": "The fee for soil testing is ₹5/- each for macro and micronutrient analysis."
+    },
+    {
+      "question": "What information is provided on the Soil Health Card?",
+      "answer": "The Soil Health Card provides detailed information on the soil's nutrient content, along with recommendations for appropriate fertilizer use."
+    },
+    {
+      "question": "How can a farmer apply for this scheme?",
+      "answer": "A farmer can apply by submitting a soil sample to a designated testing center and paying the required fee."
+    },
+    {
+      "question": "What documents are required to avail of this scheme?",
+      "answer": "The required documents include identity proof, land ownership proof, and the receipt for the soil sample submission."
+    },
+    {
+      "question": "Are there any age or income requirements for eligibility?",
+      "answer": "There are no age or income requirements for eligibility under this scheme."
+    },
+    {
+      "question": "What benefits does a farmer receive from the Soil Health Card?",
+      "answer": "The benefits include insights into soil nutrients and guidance on the optimal use of fertilizers to improve crop yields."
+    },
+    {
+      "question": "How does the Soil Health Card help in improving crop yields?",
+      "answer": "By providing accurate nutrient information, the card helps farmers apply the correct amount of fertilizers, which leads to better crop productivity."
+    },
+    {
+      "question": "Where can a farmer submit their soil sample for testing?",
+      "answer": "Soil samples can be submitted at designated soil testing centers within the region."
+    },
+    {
+      "question": "Is this scheme available to all farmers?",
+      "answer": "Yes, the scheme is available to all farmers who meet the eligibility criteria."
+    },
+    {
+      "question": "Will the Soil Health Card include recommendations for specific fertilizers?",
+      "answer": "Yes, the card provides specific fertilizer recommendations based on the nutrient status of the soil."
+    },
+    {
+      "question": "What is the validity of the information on the Soil Health Card?",
+      "answer": "The validity of the Soil Health Card is linked to the current condition of the soil, though periodic testing is recommended for ongoing accuracy."
+    },
+    {
+      "question": "Does the scheme offer any financial assistance for the soil testing fee?",
+      "answer": "No, the scheme does not provide financial assistance for the soil testing fee; farmers are required to pay the nominal fee themselves."
+    }
+  ]
+}

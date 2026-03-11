@@ -1,0 +1,88 @@
+{
+  "scheme_name": "Vats Palan Protsahan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/vppy",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Vats Palan Protsahan Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Vats Palan Protsahan Yojana\" scheme was launched by the Animal Husbandry Department, Government of Madhya Pradesh. The scheme aims to improve indigenous Indian high-yielding cattle breeds and encourage the conservation and proper care of calves born from these superior breeds. Under this scheme, financial incentives and monthly support for calf feed and medicines are provided to eligible livestock farmers to ensure the growth and maintenance of genetically superior calves."
+    ],
+    "benefits": [
+      "One-time incentive of ₹5,000 for cows whose milk production is at least 30% higher than the breed average.",
+      "Monthly support of ₹500 per calf for feed and medicines, from 0–4 months up to two years of age."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must be a livestock farmer owning Indian high-yielding indigenous cows.",
+      "The cow’s milk production must be at least 30% higher than the breed average.",
+      "The calf must be born through artificial insemination or natural insemination using genetically superior Indian bulls.",
+      "Both urban and rural farmers are eligible.",
+      "Both male and female calves receive support up to two years of age."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the nearest Animal Husbandry Department office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Animal Husbandry Department office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the Animal Husbandry Department office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Residence Proof",
+      "Livestock Ownership Proof",
+      "Bank Account Passbook"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "No, calves from both artificial and natural insemination using superior bulls are eligible."
+    },
+    {
+      "question": "What type of calves are eligible?",
+      "answer": "Calves born through artificial or natural insemination using genetically superior Indian bulls."
+    },
+    {
+      "question": "Is the scheme for urban farmers as well?",
+      "answer": "Yes, both urban and rural livestock farmers are eligible."
+    },
+    {
+      "question": "What financial support is provided?",
+      "answer": "A one-time incentive of ₹5,000 for cows and ₹500 per month for each calf for feed and medicines."
+    },
+    {
+      "question": "For how long is the monthly calf support provided?",
+      "answer": "The monthly calf support provided from birth up to two years of age."
+    },
+    {
+      "question": "Are male calves eligible?",
+      "answer": "Yes, both male and female calves are eligible."
+    },
+    {
+      "question": "Where to apply for the scheme?",
+      "answer": "Applications can be submitted at the nearest Animal Husbandry Department office."
+    },
+    {
+      "question": "Which documents are required?",
+      "answer": "Aadhaar card, residence proof, livestock ownership proof, bank passbook, etc."
+    },
+    {
+      "question": "Can farmers with non-indigenous cows apply?",
+      "answer": "No, only cows of Indian high-yielding indigenous breeds are eligible."
+    },
+    {
+      "question": "Is artificial insemination mandatory?",
+      "answer": "No, calves from both artificial and natural insemination using superior bulls are eligible."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "scheme_name": "Goat Rearing Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/grsguj",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Goat Rearing Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Goat Rearing Scheme\" by the Tribal Development Department, Government of Gujarat, aims to increase the income of tribal women beneficiaries and improve their living standards. Under the State's Scheduled Tribe Sub-Scheme, an assistance scheme for setting up goat units (10 goats + 1 male goat) for tribal women beneficiaries is in effect, in which assistance is paid to the beneficiaries' bank accounts through DBT for purchasing goat units for tribal women. The scheme is implemented by the Development Support Agency of Gujarat (D-SAG)."
+    ],
+    "benefits": [
+      "Financial assistance is provided for setting up goat units, specifically 10 goats and 1 male goat.",
+      "The assistance amount is 50% of the total unit cost or a maximum of ₹45,000/-, whichever is less."
+    ],
+    "eligibility": [
+      "The applicant must be a tribal woman beneficiary.",
+      "The applicant's age must be between 18 and 60 years.",
+      "The applicant must be a tribal woman livestock keeper residing in Scheduled Areas, Pockets, and Clusters within tribal districts.",
+      "The applicant must be a Below Poverty Line (BPL) tribal woman livestock keeper with a BPL score between 0 and 20.",
+      "Only one person per family will receive the benefit under this scheme.",
+      "The scheme's benefit is ration card-based, meaning only one woman beneficiary per ration card can receive the benefit.",
+      "The applicant can avail the benefit of this scheme again after 10 years.",
+      "Preference/Priority/Reservation/Relaxation",
+      "The following priority order will be given for beneficiary selection:",
+      "Primitive Tribal Group (PVTG) livestock keeper women beneficiaries.",
+      "Tribal livestock keeper women beneficiaries holding Forest Rights Act (FRA) entitlement letters.",
+      "Other tribal livestock keeper women beneficiaries, with the following sub-priority:",
+      "Disabled tribal women.",
+      "Widowed or divorced tribal women.",
+      "BPL tribal women livestock keeper beneficiaries with the lowest score among those with a 0 to 20 BPL score."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website of",
+        "Development Support Agency of Gujarat (D-SAG)",
+        ",",
+        "Tribal Development Department",
+        ".",
+        "Step 2:",
+        "Click on Beneficiary Registration. A",
+        "new page",
+        "will appears. Select \"New beneficiary registration\" if you are registering for the first time.",
+        "Step 3:",
+        "Register by entering your Ration Card Number and Mobile Number, then click GET OTP.",
+        "Step 4:",
+        "Enter the One Time Password (OTP) received on your mobile number and click Register.",
+        "Step 5:",
+        "Upon successful registration, a Success pop-up will appear.",
+        "Step 6:",
+        "Select your Applicant Type from the available options: Livestock Keeper, Farmer and Livestock Keeper, or Student/Trainee. Click Save.",
+        "Step 7:",
+        "Fill in the General Details, Personal Details, Bank Details, as required, and click the Proceed button. Confirm by clicking OK on the pop-up.",
+        "Step 8:",
+        "Upload the required documents by clicking Choose File and then Upload File.",
+        "Step 9:",
+        "After uploading all documents, a window will appear. Click View to check each document. If any document was uploaded incorrectly, click Delete and re-upload it.",
+        "Step 10:",
+        "Once all documents are verified, click the Proceed button. Confirm by clicking OK on the pop-up.",
+        "Step 11:",
+        "After completing these steps, your profile will be created, and the portal dashboard will be displayed.",
+        "Tracking Process",
+        "official website",
+        "of Development Support Agency of Gujarat (D-SAG), Tribal Development Department.",
+        "Click on \"Application Status\". A pop-up window will appear.",
+        "Select the \"Scheme name\" from the options provided.",
+        "Enter your application number in the designated field.",
+        "Click on \"Application Status\" again to view the status of your application."
+      ]
+    },
+    "documents_required": [
+      "Passport Size Photo",
+      "Below Poverty Line (BPL) Score 0 to 20 Certificate",
+      "Aadhaar Card copy",
+      "Caste Certificate",
+      "Ration Card copy",
+      "Husband's Death Certificate (if the applicant is a widow)",
+      "Proof of Divorce (if the applicant is divorced)",
+      "Medical Certificate (for disabled applicants)",
+      "Bank Passbook copy",
+      "Copy of Entitlement Letter (if land is allotted under the Forest Rights Act)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application Website",
+      "Registration Link",
+      "Application User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the primary objective of this scheme?",
+      "answer": "This scheme aims to increase the income and improve the living standards of tribal women beneficiaries."
+    },
+    {
+      "question": "Which government entity is responsible for launching and managing this scheme?",
+      "answer": "This scheme is managed by the Tribal Development Department of the State Government."
+    },
+    {
+      "question": "What type of assistance does this scheme provide to beneficiaries?",
+      "answer": "This scheme assists in establishing goat units."
+    },
+    {
+      "question": "What does a complete goat unit consist of under this scheme?",
+      "answer": "A complete goat unit under this scheme consists of 10 goats and 1 male goat."
+    },
+    {
+      "question": "How will the support from this scheme be provided to my bank account?",
+      "answer": "The support from this scheme will be provided through Direct Benefit Transfer (DBT) to your bank account."
+    },
+    {
+      "question": "What is the age requirement for tribal women who wish to apply for this scheme?",
+      "answer": "Tribal women must be between 18 and 60 years of age to be eligible for this scheme."
+    },
+    {
+      "question": "Where must I reside to be considered an eligible tribal woman livestock keeper for this scheme?",
+      "answer": "You must reside in Scheduled Areas, Pockets, and Clusters located within tribal districts to be eligible."
+    },
+    {
+      "question": "Is there a specific economic standard I need to meet to qualify for this scheme?",
+      "answer": "Yes, you must be a Below Poverty Line (BPL) tribal woman livestock keeper with a BPL score between 0 and 20."
+    },
+    {
+      "question": "Are there any specific tribal groups that receive preference during the beneficiary selection process?",
+      "answer": "Yes, Primitive Tribal Group (PVTG) livestock keeper women beneficiaries receive priority."
+    },
+    {
+      "question": "Do tribal women who have received land under the Forest Rights Act get any special consideration?",
+      "answer": "Yes, tribal livestock keeper women beneficiaries holding Forest Rights Act (FRA) entitlement letters are given priority."
+    },
+    {
+      "question": "If I have received land under the Forest Rights Act, what specific document should I include?",
+      "answer": "You should include a copy of your Entitlement Letter if land was allotted to you under the Forest Rights Act."
+    },
+    {
+      "question": "Is there any fee or cost associated with submitting the application for this scheme?",
+      "answer": "No, there is no application form cost; the application is free of charge."
+    }
+  ]
+}

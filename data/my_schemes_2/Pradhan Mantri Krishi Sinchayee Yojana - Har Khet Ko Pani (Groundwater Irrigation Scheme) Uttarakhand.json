@@ -1,0 +1,80 @@
+{
+  "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana - Har Khet Ko Pani (Groundwater Irrigation Scheme) Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmksyhkkpgws",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pradhan Mantri Krishi Sinchayee Yojana - Har Khet Ko Pani (Groundwater Irrigation Scheme) Uttarakhand",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Pradhan Mantri Krishi Sinchayee Yojana – Har Khet Ko Pani (Groundwater Irrigation Scheme)” is implemented by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide assured and sustainable irrigation to every farm by developing groundwater-based irrigation facilities for farmers. This scheme is a centrally sponsored scheme with a funding pattern of 90% Central share and 10% State share."
+    ],
+    "benefits": [
+      "Under the scheme, farmers are provided with free irrigation facilities. Collective irrigation projects or individual groundwater irrigation projects are constructed. The works carried out under the scheme include:",
+      "Solar-powered pumpsets",
+      "Electrically operated pumpsets"
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary must be a farmer engaged in agricultural activities.",
+      "As per the guidelines issued by the Government of India:",
+      "For the construction of collective irrigation projects, a command area of 5 hectares must be available.",
+      "According to the report of the Central Ground Water Board, Government of India, the command area must be classified under the safe category."
+    ],
+    "application_process": {
+      "offline": [
+        "For construction of the project, project's proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared.",
+        "After examination by the departmental TAC, the DPR is forwarded to the headquarters. Thereafter, following approval by the State-level Technical Advisory Committee, the proposals are forwarded to the State Level Sanctioning Committee, chaired by the Chief Secretary of the Government of Uttarakhand. Upon approval, the DPR is forwarded to the Government of India for financial sanction. The construction work of the projects is initiated after receiving financial approval from the Government of India."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the department’s guidelines prescribed for this scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 245)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What type of irrigation facilities are provided under the scheme?",
+      "answer": "Farmers receive free irrigation facilities through collective or individual groundwater irrigation projects."
+    },
+    {
+      "question": "What is the funding pattern of the scheme?",
+      "answer": "The scheme follows a 90% Central share and 10% State share funding pattern."
+    },
+    {
+      "question": "What works are undertaken in the irrigation projects?",
+      "answer": "The key works include: • Installation of solar-powered pumpsets • Installation of electrically operated pumpsets"
+    },
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "All farmers in Uttarakhand who require groundwater-based irrigation facilities can benefit, subject to eligibility criteria and suitability of the proposed site."
+    },
+    {
+      "question": "Is there a minimum land requirement for collective irrigation projects?",
+      "answer": "Yes. A minimum command area of 5 hectares is required for constructing collective irrigation projects."
+    },
+    {
+      "question": "What is the groundwater requirement for eligibility?",
+      "answer": "According to the Central Ground Water Board, the proposed command area must fall under the safe category of groundwater availability."
+    },
+    {
+      "question": "How can farmers submit proposals under the scheme?",
+      "answer": "Proposals can be submitted to the Block, Sub-division, or any other departmental office through Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels."
+    },
+    {
+      "question": "Who reviews and approves the DPR at the state level?",
+      "answer": "The DPR is reviewed and approved by the State-level Technical Advisory Committee."
+    },
+    {
+      "question": "When is the proposal sent to the Government of India?",
+      "answer": "After approval by the SLSC, the proposal is forwarded to the Government of India for financial sanction."
+    },
+    {
+      "question": "When does the construction of irrigation facilities begin?",
+      "answer": "Construction begins after receiving financial approval from the Government of India."
+    }
+  ]
+}

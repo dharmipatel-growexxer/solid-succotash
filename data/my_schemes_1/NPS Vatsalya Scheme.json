@@ -1,0 +1,182 @@
+{
+  "scheme_name": "NPS Vatsalya Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/npsvs",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "NPS Vatsalya Scheme",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "“NPS Vatsalya” Scheme was announced by the Hon’ble Finance Minister in the Union Budget for FY 2024-25 as a plan for contributions by parents and guardians for minors to be converted into a normal NPS account on the attainment of majority.",
+      "Under this scheme, parents or guardians can open an NPS account for their children and contribute an amount every month or year till the child reaches 18 years. The minimum contribution is ₹ 1,000 per year, and there is no limit on the maximum contribution. This scheme allows parents to open accounts for their children and contribute towards their retirement savings.",
+      "The NPS Vatsalya Scheme offers the following:",
+      "Investment Choices:",
+      "Default Choice:",
+      "Moderate Lifecycle Fund - LC-50 (50% equity).",
+      "Auto Choice:",
+      "Aggressive Lifecycle Fund - LC-75 (75% equity), Moderate Lifecycle Fund - LC-50 (50% equity), or Conservative Lifecycle Fund: LC-25 (25% equity).",
+      "Active Choice:",
+      "Parents can actively decide the allocation of funds across equity (up to 75%), government securities (up to 100%), corporate debt (up to 100%), and alternate assets (up to 5%).",
+      "Contribution:",
+      "Account Opening contribution: Min. ₹ 1,000/- and Max no limit.",
+      "Subsequent contribution: Min. ₹ 1,000/- p.a. and Max no limit.",
+      "Upon Attainment of the age of 18 Years:",
+      "Seamless shift to NPS Tier-I (All Citizen) fresh KYC of the minor within three months from the date of attaining 18 years.",
+      "Exit and withdrawal from the account:",
+      "For education of the subscriber, treatment of specified illnesses, disability more than 75%, or the reasons as may be specified by PFRDA in the interest of the minor subscriber under the regulations, the guardian shall be allowed to partially withdraw up to 25% of subscribers’ contribution excluding returns thereon after minimum 3 years from the date of opening of the account, for maximum three times till the subscriber attains 18 years of age. Such facility shall be made available on a declaration basis.",
+      "In the case of the death of the minor subscriber, the entire accumulated pension wealth is to be paid to the guardian.",
+      "In case of the guardian's death registered under the account, another guardian is to be registered on behalf of the minor subscriber by submitting the KYC documents as specified by the PFRDA from time to time.",
+      "In case of the death of both parents, the legally appointed guardian may continue the account with or without making contributions to the account, and upon attainment of 18 years of age by the subscriber, the subscriber shall have the option to continue or exit from the scheme.",
+      "The subscriber shall be allowed to exit only upon attainment of 18 years. On such exit, at least eighty percent of accumulated pension wealth available in the account shall be utilized for the purchase of an annuity, and the remaining balance shall be paid in a lump sum. In case, the accumulated pension wealth available in the account is equal to or less than ₹ 2,50,000/-, or the purchase of annuity is not available from empanelled Annuity Service Providers (‘ASPs’), the subscriber shall have the option to withdraw the entire accumulated pension wealth.",
+      "The exits and withdrawals under the scheme shall be governed by the provisions of the Pension Fund Regulatory and Development Authority (Exits and Withdrawals under the National Pensions System) Regulations, 2015 and amendments thereof."
+    ],
+    "benefits": [
+      "Opening an NPS Vatsalya account provides the child with a head start on saving for retirement and offers valuable financial lessons from an early age. It instills the importance of financial planning and discipline. which can benefit the child throughout their life.",
+      "Upon reaching 18 years, the account automatically transitions into a regular NPS Tier I account, maintaining investment continuity with no additional administrative steps.",
+      "For the purpose of education of the subscriber, treatment of specified illnesses, disability more than 75%, or the reasons as may be specified by PFRDA in the interest of the minor subscriber under the regulations, the guardian shall be allowed to partially withdraw up to 25% of subscribers’ contribution excluding returns thereon, after a minimum of 3 years from the date of opening of account, for maximum three times till the subscriber attains 18 years of age. Such facility shall be made available on a declaration basis."
+    ],
+    "eligibility": [
+      "Any minor who is a Citizen of India is eligible for opening account under the scheme, until attaining the age of eighteen years.",
+      "The account should be opened by a natural or legal guardian in the minor's name, as they will operate the account exclusively for the benefit of the minor.",
+      "If the guardian is court-appointed, they must submit a copy of the court order confirming the guardianship and KYC documents.",
+      "The guardian must comply with KYC norms as per the Pension Fund Regulatory and Development Authority (PFRDA) requirements."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Visit the",
+        "NPS Trust Website",
+        "https://npstrust.org.in",
+        "Step 2:",
+        "On the home page click, “Open NPS Vatsalya”",
+        "Step 3:",
+        "Subscriber will be directed to the page where the choice of any of the three CRAs can be made.",
+        "Step 4:",
+        "On selecting the CRA, subscriber needs to enter the basic details of the Minor and the Guardian and complete OTP authentication.",
+        "Step 5:",
+        "KYC details of the guardian such as Name, Date of Birth, Gender, Address, and Photo will be fetched from UIDAI database or CERSAI database and rest of the details to be filled. Proof of Date of Birth of minor should be uploaded.",
+        "Step 6:",
+        "FATCA details and declaration to be entered and the choice of Investment Option should be made.",
+        "Step 7:",
+        "Details to be verified through OTP authentication through email and mobile number.",
+        "Step 8:",
+        "Initial contribution amount of Min Rs 1000/- to be made",
+        "Step 9",
+        ": PRAN will be generated after successful payment."
+      ]
+    },
+    "documents_required": [
+      "The Aadhaar Card / PAN Card / Driving License of the guardian.",
+      "Date of Birth Proof of Minor (i.e., Birth certificate of the minor, School leaving certificate / Marksheet issued by Higher Secondary Board of respective states, ICSE, CBSE etc and Passport of the minor etc).",
+      "Guardian Signature.",
+      "Scanned Copy of Passport (Applicable only for NRI Subscribers).",
+      "Scanned copy of Foreign Address Proof (Applicable only for OCI Subscribers).",
+      "Scanned copy of Bank Proof (Applicable only for NRI/OCI Subscribers)."
+    ],
+    "sources_and_references": [
+      "PFRDA Website",
+      "Guideline",
+      "Scheme Flyers",
+      "FAQs",
+      "NPS Trust Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is NPS Vatsalya?",
+      "answer": "NPS Vatsalya is a contributory pension system under the National Pension System (NPS). Its objective is to create a pension society and encourage the empowerment of children by inculcating the habit of saving for retirement from an early age."
+    },
+    {
+      "question": "Who can subscribe to NPS Vatsalya?",
+      "answer": "NPS Vatsalya is open to all citizens of India who are under the age of eighteen years. The account will be opened and operated by the guardian on behalf of the minor."
+    },
+    {
+      "question": "What are the benefits of opening a NPS Vatsalya account?",
+      "answer": "Opening an NPS Vatsalya account provides the child with a head start on saving for retirement and offers valuable financial lessons from an early age. It instils the importance of financial planning and discipline, which can benefit the child throughout their life."
+    },
+    {
+      "question": "How is the NPS Vatsalya account operated?",
+      "answer": "The account is opened by the natural or legal guardian in the name of the minor. The minor is the sole beneficiary of the account. A unique Permanent Retirement Account Number (PRAN) is issued in the minor's name. The account is operated by the guardian for the exclusive benefit of the minor until they reach the age of majority (18 years)."
+    },
+    {
+      "question": "What is the procedure for opening a NPS Vatsalya account?",
+      "answer": "The NPS Vatsalya account can be opened through: Points of Presence (POPs) registered with PFRDA (Major banks, India Post and Pension Funds etc), either online or in physical mode, directly or through Retirement Advisors/Pension Agents. The online platform (eNPS) of NPS Trust."
+    },
+    {
+      "question": "What are the KYC requirements for opening a NPS Vatsalya account?",
+      "answer": "The KYC norms applicable to the guardian must be in accordance with the standards stipulated by PFRDA. In the case of a court-appointed legal guardian, a copy of the court order regarding the appointment of the Legal Guardian must be submitted along with the KYC documents."
+    },
+    {
+      "question": "What documents of the minor are required for opening a NPS Vatsalya account?",
+      "answer": "For the minor, proof of date of birth is required. Acceptable documents include: Birth certificate of the minor School leaving certificate / Matriculations issued by Higher Secondary Board of respective states, ICSE, CBSE, etc. Passport of the minor PAN"
+    },
+    {
+      "question": "Is a bank account required for opening a NPS Vatsalya account?",
+      "answer": "The bank account details of the minor or a joint account with the minor are not mandatory for opening the account for Indian residents but will be required at the time of partial withdrawal or exit before the age of 18. For non-residents, details of NRE or NRO account are mandatory."
+    },
+    {
+      "question": "What happens when the minor attains the age of 18 years?",
+      "answer": "The account will continue to be operational and will be seamlessly transitioned into a NPS -Tier 1 Account under the All Citizen Model. Upon transitioning, the features, benefits, and exit norms of the NPS-Tier I for All Citizen Model will apply. A fresh KYC of the subscriber must be carried out within three months of reaching majority. Contributions to the NPS Tier1 Account will be allowed after the submission of fresh KYC."
+    },
+    {
+      "question": "Can an NRI or OCI open a NPS Vatsalya account?",
+      "answer": "The minor must be a citizen of India. The guardian can be a Non-Resident Indian (NRI) or Overseas Citizen of India (OCI). A separate form is applicable for guardians who are NRIs or OCIs. A bank account (NRE or NRO) is mandatory when the guardian is an NRI or OCI."
+    },
+    {
+      "question": "Is it required to furnish a nomination while joining the scheme?",
+      "answer": "No, the guardian becomes the nominee under the scheme."
+    },
+    {
+      "question": "How many NPS Vatsalya accounts can I open?",
+      "answer": "The guardian can open a single account (per child) for the minor."
+    },
+    {
+      "question": "Can a guardian who is a NPS subscriber open a NPS Vatsalya account for a minor?",
+      "answer": "Yes, a guardian who is an NPS subscriber can open an NPS Vatsalya account in the name of the minor."
+    },
+    {
+      "question": "What are the minimum and maximum contributions for Accumulation Phase under the NPS Vatsalya account?",
+      "answer": "The minimum contribution is ₹ 1000 per annum, with no upper limit on the maximum contribution. The initial contribution required for enrollment under the scheme is ₹ 1000."
+    },
+    {
+      "question": "What are the modes of contribution available for Accumulation Phase under NPS Vatsalya?",
+      "answer": "A subscriber can contribute through any of the following modes: Physical mode: By visiting any registered service provider (PoP) and depositing a cheque/cash along with the NPS contribution slip. Online mode: o Online facility provided by PoPs. o eNPS platform of NPS Trust."
+    },
+    {
+      "question": "What choices do I need to exercise for Accumulation Phase under NPS Vatsalya?",
+      "answer": "All choices available under the NPS All Citizen model are also available for NPS Vatsalya, including: Choice of CRA (Central Recordkeeping Agency): From the registered CRAs with PFRDA. Choice of Pension Fund (PF): From the registered PFs with PFRDA. Choice of Allocation of Funds: o Auto Choice:  Conservative Life Cycle Fund (LC25)  Moderate Life Cycle Fund (LC50) – Default  Aggressive Life Cycle Fund (LC75) o Active Choice:  Equity (E) – Maximum 75%  Corporate Bonds (C) – Up to 100%  Government Securities (G) – Up to 100%  Alternate Assets (A) – Maximum 5%"
+    },
+    {
+      "question": "How are the contributions for Accumulation Phase invested in NPS Vatsalya?",
+      "answer": "The contributions made by the subscriber are invested according to the choices (Pension Fund and Asset allocation) exercised and recorded with CRA, in line with the investment guidelines prescribed by PFRDA for each asset class: Asset Class E – Equity shares of Top 200 companies under NSE/BSE in terms of market capitalisation. Asset Class C – Corporate Bonds/Debentures that are listed and rated not below A. Asset Class G – Government securities and State Development Loans. Asset Class A – Alternate Assets. For detailed investment guidelines, refer to the Circulars Section of the PFRDA website."
+    },
+    {
+      "question": "How do I know about the performance of my NPS investments under Accumulation Phase?",
+      "answer": "The performance of your NPS investments is available in the Statement of Transactions, which can be accessed online through the subscriber web login or mobile app. Periodic statements are sent by the CRA to the registered email ID of the subscriber, and a physical statement for the financial year is sent to the correspondence address of the subscriber."
+    },
+    {
+      "question": "What happens if I don’t make the minimum contribution under Accumulation Phase? Will my account be closed?",
+      "answer": "If the minimum contribution is not received, the account is categorized as 'frozen' and will be activated upon contributing to the account. The NPS account will be closed only when a subscriber submits a request (physical or online) for exit from NPS to a service provider (PoP)."
+    },
+    {
+      "question": "How do I access my NPS account under Accumulation Phase?",
+      "answer": "Subscribers can access their Pension Account through: Physical mode: By visiting their service provider (PoP). Online mode: Using the login credentials provided by CRA in the Account Opening Kit."
+    },
+    {
+      "question": "Can I partially withdraw money from the NPS Vatsalya account before 18 years?",
+      "answer": "Partial withdrawals from your NPS Vatsalya account are allowed to address contingency situations. The reasons/conditions for partial withdrawal include: o Education of the minor subscriber o Treatment of specified illnesses of the minor subscriber o Disability of more than 75% of the minor subscriber A maximum amount of up to 25% of contributions (excluding returns) can be partially withdrawn. This facility is available on a declaration basis after a minimum of 3 years from the date of account opening. The Partial withdrawal can be made a maximum of three times till the subscriber attains 18 years of age."
+    },
+    {
+      "question": "What are the exit options under the scheme?",
+      "answer": "The subscriber can exit on attainment of the age of 18 years. On such exit, at least eighty percentage of the accumulated corpus available in the account must be utilized for the purchase of an annuity and the remaining balance shall be paid in a lump sum. In case, the accumulated pension wealth available in the account is equal to or less than two lakh fifty thousand, or the purchase of annuity is not available from empanelled Annuity Service Providers (‘ASPs’), the subscriber shall have the option to withdraw the entire accumulated pension wealth."
+    },
+    {
+      "question": "What happens in case of death before 18 years?",
+      "answer": "In the event of the minor subscriber's death, the entire accumulated corpus is to be paid to the guardian. If the guardian registered under the account dies during the account's subsistence, another guardian must be registered on behalf of the minor subscriber by submitting the KYC documents as specified by the PFRDA from time to time. In case of the death of both parents, the legally appointed guardian can continue the account with or without making contributions to the account, and upon attainment of 18 years of age, the subscriber can exit from the scheme."
+    },
+    {
+      "question": "Whom should I approach if I have a complaint /grievance?",
+      "answer": "-For resolving subscriber grievances, the Authority has notified the PFRDA (Redressal of Subscriber Grievance) Regulations, 2015 and an online platform ‘Central Grievance Management System (CGMS)’ has been hosted for subscribers to lodge grievances online by logging into his/her NPS account. - A complaint/grievance has to be resolved by the intermediary concerned as early as possible within a maximum period of 30 days of the receipt of the complaint. - If a subscriber is not satisfied with the resolution provided, he/she can escalate his grievance to the next higher level for resolution and the escalation matrix is as under:"
+    }
+  ]
+}

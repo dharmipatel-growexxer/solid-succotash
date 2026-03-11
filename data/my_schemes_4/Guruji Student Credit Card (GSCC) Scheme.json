@@ -1,0 +1,147 @@
+{
+  "scheme_name": "Guruji Student Credit Card (GSCC) Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/gsccs",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Guruji Student Credit Card (GSCC) Scheme",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "The Guruji Student Credit Card (GSCC) Scheme was launched by the Department of Higher and Technical Education, Government of Jharkhand. The scheme aims to provide financial support to students pursue higher education without financial constraints. Under this scheme, eligible students can avail education loans up to ₹15 lakhs at a subsidized 4% simple interest rate, with additional benefits for female students."
+    ],
+    "benefits": [
+      "Education loans up to ₹15,00,000/- at a subsidized 4% interest rate.",
+      "Long Repayment Term: Maximum repayment tenure of up to 15 years.",
+      "No Processing Fees: No additional fees for loan processing, sanctioning, or disbursement."
+    ],
+    "eligibility": [
+      "The applicant should be a student.",
+      "The student should be an Indian national.",
+      "The student should have completed class 10th to pursue a diploma and class 10th and 12th to pursue undergraduate or higher courses from a recognized school in Jharkhand.",
+      "The student should have secured admission in institutions like IITs, IIMs, IIESTs, ISIs, NLUs, AIIMSs, NITs, XLRI, IISCs, BITS, SPA, NID, IIFTs, ICFAI Business School etc within and outside of the state (within India) which are ranked up to 200 in the overall list or ranked up to 100 in their respective individual category of NIRF Rankings or have been accredited grade either “A\" or above by NAAC.",
+      "The student should not be aged more than 40 (forty) years at the time of application for loan.",
+      "The student should not be a prior beneficiary of the scheme.",
+      "The student should not have availed education loan from any State Co-operative Banks, Central Co-operative Banks, District Central Co-operative Banks, or any Public or Private sector Banks for the course in which he/she is applying for a loan under the Scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Interested candidate visits the official website GSCCS: Student Credit Card Scheme – Jharkhand",
+        "Click on “Registration” and fill name, email id, captcha, verify the OTP.",
+        "After verification, you get a registration number via SMS.",
+        "Login Process:",
+        "Enter user ID, Password and captcha",
+        "Click on “Login”, after that fill the application form basic detail, address",
+        "Upload profile photo and signature",
+        "Click on “Submit” and you will get application id",
+        "Loan Process:",
+        "Student MLI (Member lending institution) Selection: Student selects an MLI from the onboarded list for loan processing.",
+        "Loan Approval by MLI: MLI reviews and approves/rejects the loan application, specifying loan amount and disbursement timeline.",
+        "Loan Details Upload by MLI: MLI uploads loan details including amount, duration, and repayment period, along with the sanction letter.",
+        "Interest Subvention Block by Corpus Bank: Corpus Bank blocks the required interest subvention amount based on the disbursed loan.",
+        "Course Fee Disbursement by MLI: MLI disburses the institutional expense to the institution’s account as per the student's payment schedule.",
+        "Interest Subvention Payment to MLI: The portal auto-pays the MLI the interest subvention amount at the agreed frequency.",
+        "Repayment Schedule Upload by MLI: MLI uploads the repayment schedule and raises an interest subvention request to DHTE.",
+        "Loan Status Validation by Portal: The portal auto-validates the loan status for all stakeholders, showing interest payment updates.",
+        "Interest Disbursement by Corpus Bank: DHTE sends a request to Corpus Bank for disbursement of interest subvention to the MLI."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Colour Passport-size Photograph.",
+      "Admission Document/Letter.",
+      "Ration Card.",
+      "Resident Certificate.",
+      "Income Certificate.",
+      "Caste Certificate.",
+      "Bank Passbook.",
+      "Birth Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Guruji Student Credit Card Scheme?",
+      "answer": "The scheme provides financial support for Jharkhand students to pursue higher education with education loans up to ₹15,00,000/- at a subsidized 4% interest rate."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Students who completed their 10th and 12th grades in Jharkhand and secured admission to recognized institutions for diploma, undergraduate, or higher courses are eligible."
+    },
+    {
+      "question": "Is there an age limit for applying?",
+      "answer": "Yes, applicants must be 40 years or younger at the time of application."
+    },
+    {
+      "question": "Which courses are covered under this scheme?",
+      "answer": "Courses such as engineering, medical, law, and research at reputed institutions like IITs, IIMs, and AIIMS are covered."
+    },
+    {
+      "question": "What is the maximum loan amount I can get?",
+      "answer": "Students can avail up to ₹15,00,000/- as an education loan."
+    },
+    {
+      "question": "How is the interest rate calculated?",
+      "answer": "A 4% simple interest rate applies, and an additional 0.5% reduction is available for female students."
+    },
+    {
+      "question": "Are collateral or guarantees required?",
+      "answer": "No collateral is required; however, a co-obligation from parents or legal guardians is necessary."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Register on the GSCC web portal, fill out the application form, and submit necessary documents like admission letters and fee schedules."
+    },
+    {
+      "question": "Can I choose any bank for the loan?",
+      "answer": "You must select a Member Lending Institution (MLI) from the onboarded banks listed on the portal."
+    },
+    {
+      "question": "What expenses does the loan cover?",
+      "answer": "The loan covers institutional fees, hostel expenses, and a portion for non-institutional costs like travel, rent, and study materials."
+    },
+    {
+      "question": "How much of the loan can be used for non-institutional expenses?",
+      "answer": "Up to 30% of the loan can be allocated for non-institutional expenses."
+    },
+    {
+      "question": "What happens if I don’t use the non-institutional advance?",
+      "answer": "Any unused amount can be rolled over to the next semester."
+    },
+    {
+      "question": "Is there a moratorium period for repayment?",
+      "answer": "Yes, there’s a one-year repayment holiday after course completion or employment, whichever is earlier."
+    },
+    {
+      "question": "What if I can’t repay the loan on time?",
+      "answer": "Loans not repaid in time may invoke the Public Demand Recovery Act after notifying the student."
+    },
+    {
+      "question": "How is the loan disbursed to institutions?",
+      "answer": "Institutional fees are directly paid to the institution’s bank account as per the payment schedule."
+    },
+    {
+      "question": "Is there a processing fee for the loan?",
+      "answer": "No processing fees are charged by the lending bank for sanctioning or disbursement."
+    },
+    {
+      "question": "What documentation is required?",
+      "answer": "Documents like admission letters, academic records, Aadhaar, and parent/legal guardian's co-obligation are needed."
+    },
+    {
+      "question": "Is insurance required for this loan?",
+      "answer": "Yes, students must have life insurance up to the loan amount, with premiums debited from the loan account."
+    },
+    {
+      "question": "How can I track my loan status?",
+      "answer": "Students can monitor their application, disbursement, and repayment status on their personal dashboard on the GSCC web portal."
+    },
+    {
+      "question": "Who can I contact for support?",
+      "answer": "A dedicated helpline by the Web Portal Development Agency is available for scheme-related and technical queries."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "scheme_name": "Kisan Suryoday Yojana (KSY)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ksyg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Kisan Suryoday Yojana (KSY)",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Kisan Suryoday Yojana (KSY)\" was launched by the Energy and Petro Chemicals Department, Gujarat, in 2020-2021 with the goal of providing daytime electricity to farmers for agricultural activities. This innovative scheme aims to address the power demands of farmers by supplying electricity from 5:00 am to 9:00 pm. By maximizing the use of solar and non-conventional energy sources, the scheme ensures a reliable and eco-friendly power supply. The KSY is being implemented in phases, aligned with the operationalization of solar and alternative energy generation plants."
+    ],
+    "benefits": [
+      "Daytime Electricity Supply:",
+      "Ensures uninterrupted electricity for agricultural activities during the day from 5:00 am to 9:00 pm.",
+      "Sustainable Energy:",
+      "Promotes the use of solar and non-conventional energy sources, reducing dependency on conventional power."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must be a farmer or engaged in agricultural activities."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Visit the nearest electricity board office.",
+        "Step 2:",
+        "Obtain the application form for the scheme.",
+        "Step 3:",
+        "Fill out the form with accurate details and attach the required documents.",
+        "Step 4:",
+        "Submit the application online or at the designated office.",
+        "Step 5:",
+        "Upon verification, receive updates on the approval status and the power connection schedule."
+      ]
+    },
+    "documents_required": [
+      "Identity proof (Aadhaar card, Voter ID, or equivalent).",
+      "Proof of land ownership.",
+      "Recent passport-sized photographs.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Kisan Suryoday Yojana\"?",
+      "answer": "The Kisan Suryoday Yojana is a scheme launched by the Gujarat government to provide daytime electricity to farmers for agricultural purposes."
+    },
+    {
+      "question": "When was the scheme implemented?",
+      "answer": "It was implemented in the year 2020-2021."
+    },
+    {
+      "question": "Who can apply for the \"Kisan Suryoday Yojana\"?",
+      "answer": "Farmers residing in Gujarat who own or cultivate agricultural land are eligible to apply."
+    },
+    {
+      "question": "What are the benefits of this scheme?",
+      "answer": "The scheme provides daytime electricity, promotes renewable energy, and supports efficient agricultural practices."
+    },
+    {
+      "question": "What are the operational hours for electricity supply under the scheme?",
+      "answer": "Electricity is supplied from 5:00 am to 9:00 pm."
+    },
+    {
+      "question": "What type of energy is used in this scheme?",
+      "answer": "The scheme maximizes the use of solar and non-conventional energy sources."
+    },
+    {
+      "question": "Is the scheme available throughout Gujarat?",
+      "answer": "Yes, the scheme is being implemented across Gujarat in phases."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Identity proof, land ownership documents, application form, bank details, and photographs are required."
+    },
+    {
+      "question": "How does the scheme support sustainable farming?",
+      "answer": "By providing renewable energy, the scheme reduces reliance on conventional energy and promotes eco-friendly farming practices."
+    },
+    {
+      "question": "Where can farmers apply for the Kisan Suryoday Yojana?",
+      "answer": "Applications can be submitted at designated electricity board offices."
+    }
+  ]
+}

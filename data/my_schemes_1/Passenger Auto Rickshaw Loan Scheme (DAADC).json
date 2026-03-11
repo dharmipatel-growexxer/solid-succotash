@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Passenger Auto Rickshaw Loan Scheme (DAADC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/parls",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Passenger Auto Rickshaw Loan Scheme (DAADC)",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Passenger Auto Rickshaw Loan Scheme\" introduced by the Social Justice and Empowerment Department, Gujarat, aims to provide financial assistance in the form of loans to Scheduled Caste individuals from Antyodaya families to purchase passenger auto rickshaws, enabling them to generate sustainable income through transport services. The scheme is being implemented by the Dr. Ambedkar Antyodaya Development Corporation."
+    ],
+    "benefits": [
+      "Financial assistance in the form of a loan."
+    ],
+    "eligibility": [
+      "The Applicant must be a permanent resident of Gujarat.",
+      "The Applicant must belong to a Scheduled Caste (SC) community.",
+      "The Applicant must be from an Antyodaya family.",
+      "The Applicant’s family income must not exceed ₹3,00,000/- per annum."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the official",
+        "DAADC",
+        "online portal.",
+        "Step 2:",
+        "Register/log in using your credentials.",
+        "Step 3:",
+        "Fill out the application form with accurate personal and scheme-specific details.",
+        "Step 4:",
+        "Upload the required documents and submit."
+      ]
+    },
+    "documents_required": [
+      "Aadhar Card.",
+      "Ration Card.",
+      "Copy of First Page of Passbook.",
+      "Income Certificate.",
+      "Caste Certificate.",
+      "School Leaving Certificate / Birth Certificate / Medical Officer or Civil Surgeon Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Passenger Auto Rickshaw Loan Scheme (DAADC)\" scheme?",
+      "answer": "The objective of the \"Passenger Auto Rickshaw Loan Scheme (DAADC)\" scheme is to offer financial assistance in the form of loans to Scheduled Caste individuals from Antyodaya families to purchase passenger auto rickshaws and enhance their livelihood opportunities."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Individuals who belong to the Scheduled Caste (SC) category, are part of an Antyodaya family, and have a total annual family income not exceeding ₹3,00,000/- are considered eligible to apply for the Passenger Auto Rickshaw Loan Scheme administered by the Dr. Ambedkar Antyoday Development Corporation in Gujarat."
+    },
+    {
+      "question": "What kind of assistance is provided under this scheme?",
+      "answer": "Under this scheme, the Government of Gujarat provides financial assistance in the form of a loan that enables eligible Scheduled Caste Antyodaya beneficiaries to purchase passenger auto rickshaws as a means of self-employment and income generation."
+    },
+    {
+      "question": "What is the maximum permissible family income for an applicant to be considered eligible?",
+      "answer": "To be eligible under this scheme, the applicant’s total family income from all sources must not exceed ₹3,00,000/- per annum, as verified by a valid income certificate."
+    },
+    {
+      "question": "What type of vehicle is allowed to be purchased through the financial assistance provided under this scheme?",
+      "answer": "The financial assistance offered under the scheme is strictly intended for the purchase of passenger auto rickshaws, which are to be used by the beneficiary as a means of livelihood and self-employment."
+    },
+    {
+      "question": "Is the scheme available to residents of all districts within the state of Gujarat?",
+      "answer": "Yes, the Passenger Auto Rickshaw Loan Scheme is applicable across the entire state of Gujarat and can be availed by eligible residents from any district within the state."
+    },
+    {
+      "question": "Is there any age limit for applicants?",
+      "answer": "No. There is no specific age limit mentioned in the guidelines."
+    },
+    {
+      "question": "Through which platform or portal can an applicant submit their application for this scheme?",
+      "answer": "All applications for the Passenger Vehicle / Loading Vehicle Loan Scheme must be submitted online through the official DAADC portal, which can be accessed at: https://daadconline.gujarat.gov.in ."
+    },
+    {
+      "question": "What are the key documents that an applicant must submit to complete the application?",
+      "answer": "The applicant is required to submit several documents, including an Aadhaar card, caste certificate, income certificate, school leaving certificate, election card, birth certificate or age proof, bank details, etc."
+    },
+    {
+      "question": "Is there any fee that an applicant needs to pay for applying under this scheme?",
+      "answer": "No, there is no application fee required for applicants who wish to apply for financial assistance under this scheme, making the process accessible and free of cost for all eligible individuals."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "scheme_name": "Education Loan Scheme of NMDFC",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/els-nmdfc",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Education Loan Scheme of NMDFC",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "Under this scheme of NMDFC, loan is available for job oriented 'technical and professional courses' of durations not exceeding five years. Loan of upto Rs. 20 lacs for domestic courses & Rs. 30 lacs for courses abroad under Credit Line-1 and Credit line -2 is extended to beneficiaries belong to minority communities at 3% p.a. & 8% p.a respectively. Further, concession of 3% is extended to women beneficiaries under Credit Line-2."
+    ],
+    "benefits": [
+      "Concessional Credit to the beneficiaries among minority communities."
+    ],
+    "eligibility": [
+      "a) The applicant must be Indian and belong to one of the six notified minority communities (Muslim, Christian, Sikh, Buddhist, Parsi, Jain).",
+      "b) The annual family income limit is:",
+      "Up to Rs. 3.00 lakh per annum under Credit Line-1.",
+      "Up to Rs. 8.00 lakh per annum under Credit Line–2.",
+      "c) The applicant must have secured admission to a recognized institution in India or abroad through a merit-based selection or entrance test.",
+      "d) The course must be technical or professional, with a duration not exceeding 5 years.",
+      "e) The applicant must not have availed financial support for the same course under any other Government scheme.",
+      "f) The loan is admissible for tuition fees, hostel charges, books, equipment, and travel (for abroad studies).",
+      "g) The applicant must have a co-borrower (parent/guardian) with a verified income certificate.",
+      "h) Preference shall be given to female students and candidates from economically weaker sections."
+    ],
+    "application_process": {
+      "offline": [
+        "NMDFC implements its schemes & programs through State Channelizing Agencies (SCA list: www.nmdfc.org/SCA ) nominated by the respective State Governments & Banking Partners on refinance mode (Presently through Canara Bank & Punjab Grameen Bank)."
+      ]
+    },
+    "documents_required": [
+      "Duly filled Education Loan Application Form.",
+      "Photographs of student and co-borrower (parent/guardian).",
+      "Proof of Minority Status (certificate or self-declaration).",
+      "Income Certificate of the family issued by competent authority.",
+      "Proof of Residence: Aadhaar card, voter ID, ration card, or utility bill.",
+      "Admission Letter from recognized college/university in India or abroad.",
+      "Fee Structure or estimate from the educational institution.",
+      "Mark Sheets/Certificates of qualifying examinations (Class X, XII, Graduation, etc.).",
+      "Bank Account Proof: Aadhaar-linked bank passbook copy.",
+      "Valid Passport and Visa (for studies abroad).",
+      "Proof of age (DOB Certificate/10th Certificate).",
+      "Affidavit/Undertaking confirming that no other education loan has been availed under a government scheme.",
+      "PAN Card of student and co-borrower."
+    ],
+    "sources_and_references": [
+      "NMDFC Lending Policy"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of NMDFC’s Education Loan Scheme?",
+      "answer": "The Education Loan Scheme aims to provide concessional credit to minority students for pursuing professional and technical courses in India and abroad to promote employability and skill development."
+    },
+    {
+      "question": "What is the maximum amount of education loan that can be availed?",
+      "answer": "Under both Credit Lines, loans are available up to Rs. 20.00 lakh for professional or job-oriented degree courses in India and up to Rs. 30.00 lakh for courses abroad."
+    },
+    {
+      "question": "What are the interest rates applicable to Education Loans?",
+      "answer": "Under Credit Line–1, the interest rate is 3% per annum. Under Credit Line–2, the rate is 8% per annum for male students and 5% per annum for female students."
+    },
+    {
+      "question": "When does the repayment period begin, and how long is it?",
+      "answer": "Repayment begins six months after completion of the course or upon obtaining employment, whichever is earlier, and must be completed within five years."
+    }
+  ]
+}

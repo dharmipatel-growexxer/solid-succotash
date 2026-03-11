@@ -1,0 +1,111 @@
+{
+  "scheme_name": "Kayaka Spoorthi Scheme Karnataka",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kssk",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Kayaka Spoorthi Scheme Karnataka",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The \"Kayaka Spoorthi Scheme\" aims to provide financial assistance to women Self-Help Groups (SHGs) engaged in the leather industry. The goal is to promote self-sufficiency and economic independence by enabling these women to start or expand business activities related to leatherwork. A group of 10 members receives financial support under this scheme."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹2,50,000/- per SHG with 10 members.",
+      "NOTE:",
+      "Each member gets ₹15,000/- as a subsidy and ₹10,000/- as a loan from the corporation.",
+      "33% representation for women artisans and 5% for physically challenged individuals."
+    ],
+    "eligibility": [
+      "A Self-Help Group must have at least 10 female artisans to be eligible.",
+      "The applicant should belongs to sub-castes Arundathiyar, Chammadiya, Chamar, Chambar, Chamagar, Madar, Madig, Madiga, Mini Madig, Jambavalu, Haralayya, Machigar, Mochigar, Mochi, muchi, Telugu Mochi, kamaati mocha, Rohidas, Dhor, kakkayya, Kankayya, Samagara, Samagar, Aadhi Anddra, Aadhi Dravida, Aadhi Karnataka among schedule castes.",
+      "The age of the applicant should be 18 years.",
+      "The applicant's annual family income should not exceed ₹30,000/- in rural areas and ₹25,000/- in urban areas.",
+      "The applicant or their family members must not have received benefits from other schemes, except training programs.",
+      "The applicant's family members should not be employed in government or semi-government organizations."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step-01:",
+        "Visit the official",
+        "Seva Sindhu Portal",
+        ".",
+        "Step-02:",
+        "Choose \"New Users Register Here\" and fill in your Aadhaar Number and the Captcha code.",
+        "Step-03:",
+        "An OTP will be sent to your Aadhaar-linked mobile number. Enter the OTP to continue.",
+        "Step-04:",
+        "Once your DigiLocker account is created, click \"Allow\" to proceed.",
+        "Step-05:",
+        "Fill out your email ID, mobile number, create a password, and enter the captcha, then click \"Submit\".",
+        "Step-06:",
+        "You will receive OTPs on both your email and mobile number. Enter both OTPs and select \"Validate\".",
+        "Step-07:",
+        "Once validated, a confirmation message will indicate your registration is successful.",
+        "Applying for a Scheme::",
+        "Go to",
+        "and select \"Department & Services\".",
+        "Select department \"Social Welfare Department\" and click on the scheme \"Kayaka Spoorthi Scheme\"",
+        "Click \"Apply Online\" and enter your registered email ID/mobile number and the OTP.",
+        "Select the scheme and provide your personal, address, and banking details as required.",
+        "Once submitted, you will receive an Application ID. You can use this ID to track your application status on the portal."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph of the Applicant and Spouse.",
+      "Aadhaar Card.",
+      "Caste certificate with RD number.",
+      "Income Certificate.",
+      "Ration Card.",
+      "E-Shram Card (for cobblers/shoemakers).",
+      "First Page of the SHG Bank Passbook.",
+      "Detailed Project Report (for self-employment programs).",
+      "Loan Documents."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the Kayaka Spoorthi Scheme?",
+      "answer": "To provide financial assistance to women SHGs for business activities related to the leather industry."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "A group of 10 women receives ₹2,50,000/- in total, with each member receiving ₹15,000 as a subsidy and ₹10,000 as a loan."
+    },
+    {
+      "question": "Who is eligible for the Kayaka Spoorthi Scheme?",
+      "answer": "Women SHGs consisting of at least 10 members from specified leather artisan sub-castes."
+    },
+    {
+      "question": "Is there a reservation for women artisans?",
+      "answer": "Yes, 33% of the seats are reserved for female artisans."
+    },
+    {
+      "question": "How can one apply for this scheme?",
+      "answer": "Applications can be submitted online through the Suvidha or Seva Sindhu portals."
+    },
+    {
+      "question": "Can SHGs with less than 10 members apply?",
+      "answer": "No, the scheme requires a minimum of 10 female artisans in a Self-Help Group."
+    },
+    {
+      "question": "Who verifies the applications?",
+      "answer": "The District Co-Ordinator verifies the applications before submitting them to the District Level Selection Committee."
+    },
+    {
+      "question": "What happens after the application is approved?",
+      "answer": "Once approved, the list of beneficiaries will be displayed on the respective notice boards after administrative approval."
+    },
+    {
+      "question": "Is there any reservation for physically challenged candidates?",
+      "answer": "Yes, 5% of the seats are reserved for physically challenged candidates."
+    },
+    {
+      "question": "Can SHGs avail benefits from other schemes?",
+      "answer": "No, applicants or their families should not have received benefits from other corporation schemes, except Training/Paaduke kuteera schemes."
+    }
+  ]
+}

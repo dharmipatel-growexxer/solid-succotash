@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Mukhyamantri Uchcha Shiksha Shodh Protsahan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cmherps",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Uchcha Shiksha Shodh Protsahan Yojana",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mukhyamantri Uchcha Shiksha Shodh Protsahan Yojana\" was launched by the Department of Higher Education, Government of Uttarakhand. The scheme aims to promote high-quality, interdisciplinary research in higher education institutions across the state. The broad subject areas for research include Science, Arts and Humanities, Home Science, and Commerce & Management, while proposals in interdisciplinary subject areas are also encouraged."
+    ],
+    "benefits": [
+      "The maximum research grant provided by the state government is ₹15 lakh, which may be increased up to ₹18 lakh in special circumstances."
+    ],
+    "eligibility": [
+      "The regular professors working in state government colleges and state university campuses of Uttarakhand, as well as students and research scholars enrolled in regular programs at recognized institutions within the state, are eligible to apply.",
+      "A research proposal may also include a co-investigator alongside the principal investigator.",
+      "The broad subject areas for research include Science, Arts and Humanities, Home Science, and Commerce & Management, while interdisciplinary subjects will also be accepted.",
+      "Research related to the state that proves to be productive and useful in social, economic, contemporary, or other areas of special importance will be encouraged.",
+      "Priority will be given to problem-oriented, solution-driven, and action-based research topics (Problem and Action-Based Research Programme).",
+      "Research proposals may also be invited based on requests for specific issues raised by any department of the state government.",
+      "A maximum period of two years will be allowed for completing the research work, which may be extended by one additional year under special circumstances.",
+      "Only one research project will be permitted for any teacher or research scholar at a time."
+    ],
+    "application_process": {
+      "online": [
+        "Researchers must submit their research proposals online through the Samarth portal (",
+        "https://uttarakhand.samarth.ac.in/index/site/login",
+        ").",
+        "During the application process, the proposal must be uploaded and forwarded by the institution’s Principal or Registrar within fifteen days of submission; otherwise, it will automatically move to the next level.",
+        "The proposal will then be evaluated by the Evaluation Committee, and the research grant will be released in three installments via DBT to the institution’s Research and Development Cell account.",
+        "Upon the written request of the Principal Investigator, the Principal or Registrar must make the grant available to the Principal Investigator or Researcher within three days. If this is not done, the State Research and Development Cell Committee must be informed through the Director of Education with clear written reasons, and the final decision will rest with the Secretary, Higher Education/Committee.",
+        "The first installment, amounting to 50% of the grant, will be released upon approval of the research proposal.",
+        "The second installment, amounting to 30%, will be released only after submission of the utilization certificate.",
+        "The third and final installment, amounting to 20%, will be released upon completion of the research work.",
+        "The research must be original and in accordance with UGC standards.",
+        "A Research Assistant will receive a stipend of ₹5,000 per month from the release of the first installment until the completion of the research work."
+      ]
+    },
+    "documents_required": [
+      "All required documents must be submitted in accordance with the guidelines specified for the research proposal by the concerned institution."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 87)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Regular faculty members, students, and research scholars in government colleges or state university campuses in Uttarakhand."
+    },
+    {
+      "question": "What is the maximum research grant available?",
+      "answer": "Up to ₹15,00,000, extendable to ₹18,00,000 in special circumstances."
+    },
+    {
+      "question": "Is there a monthly stipend for research assistants?",
+      "answer": "Yes, ₹5,000 per month from the start to the completion of the research."
+    },
+    {
+      "question": "What is the duration of the research project?",
+      "answer": "Up to 2 years, extendable by 1 year in special cases."
+    },
+    {
+      "question": "How is the grant disbursed?",
+      "answer": "In three installments: 50% upon approval, 30% after utilization certificate, and 20% upon completion."
+    },
+    {
+      "question": "Can interdisciplinary research proposals be submitted?",
+      "answer": "Yes, interdisciplinary proposals are accepted."
+    },
+    {
+      "question": "Can multiple researchers apply jointly?",
+      "answer": "Yes, a co-investigator can be included in the proposal."
+    },
+    {
+      "question": "What happens if the principal/registrar doesn't forward the application in 15 days?",
+      "answer": "The application will automatically move to the next level."
+    },
+    {
+      "question": "What if the research is not completed in the stipulated time?",
+      "answer": "An extension of up to 1 year may be granted in special cases."
+    },
+    {
+      "question": "Where can I get more information or assistance?",
+      "answer": "Visit the Higher Education Department's website: https://he.uk.gov.in/ or the Samarth Portal ."
+    }
+  ]
+}

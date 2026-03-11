@@ -1,0 +1,97 @@
+{
+  "scheme_name": "Training to Farmers",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ttf",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Training to Farmers",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Training to Farmers” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, offers training to maize-growing farmers in 18 selected districts of the State. The program covers the costs of the training for up to two days, with financial assistance of ₹300/- per farmer. The training helps farmers adopt better practices to improve yield and farm sustainability."
+    ],
+    "benefits": [
+      "Financial Assistance: ₹300/- for attending a two-day training session.",
+      "Training Program: Training covers modern maize cultivation techniques, improving crop yield and reducing input costs."
+    ],
+    "eligibility": [
+      "The beneficiary should be a Farmer.",
+      "The beneficiary should be a resident of any of the following districts of Tamil Nadu: Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal, Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli, and Thoothukudi.",
+      "The beneficiary should grow maize."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Collect the application form from the nearest Agricultural Office.",
+        "Step 2:",
+        "Fill out the application form with the required details and attach mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the form to the concerned office:",
+        "Village Level:",
+        "Submit the application to the Assistant Agricultural Officer.",
+        "Block Level:",
+        "Submit to the Agricultural Officer or Deputy Agricultural Officer.",
+        "District Level:",
+        "Submit to the Joint Director of Agriculture."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card, Voter ID).",
+      "Land ownership documents or lease agreement.",
+      "Caste Certificate (for SC/ST applicants).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of this scheme?",
+      "answer": "The scheme provides training to maize farmers across various districts, aiming to enhance farming practices and increase productivity."
+    },
+    {
+      "question": "Who is eligible for the training under this scheme?",
+      "answer": "All maize-growing farmers in the specified districts are eligible."
+    },
+    {
+      "question": "How much financial support is provided for attending the training?",
+      "answer": "Farmers receive ₹300/- for attending a two-day training session."
+    },
+    {
+      "question": "Which districts are covered under this scheme?",
+      "answer": "The scheme covers the districts of Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal, Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli, and Thoothukudi."
+    },
+    {
+      "question": "Are there any preferences for specific groups of farmers?",
+      "answer": "Yes, the scheme prioritizes small/marginal farmers, SC/ST farmers, and women farmers."
+    },
+    {
+      "question": "How can farmers apply for this scheme?",
+      "answer": "Applications can be submitted to the Assistant Agricultural Officer at the village level or the Deputy Agricultural Officer at the block level. Alternatively, farmers can approach the Assistant Director of Agriculture or the Joint Director of Agriculture at the district level."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Applicants need to provide identity proof, proof of land ownership, caste certificate (if applicable), and proof of gender (for women beneficiaries)."
+    },
+    {
+      "question": "What topics are covered in the training?",
+      "answer": "The training focuses on modern maize cultivation techniques and best farming practices to improve productivity and reduce costs."
+    },
+    {
+      "question": "Can women farmers apply for the scheme?",
+      "answer": "Yes, 20% of the total beneficiaries are reserved for women or women’s groups."
+    },
+    {
+      "question": "What is the duration of the training program?",
+      "answer": "The training program is conducted over two days."
+    },
+    {
+      "question": "Is there any age limit for farmers to apply?",
+      "answer": "There is no specific age limit mentioned in the scheme."
+    },
+    {
+      "question": "Where is the training conducted?",
+      "answer": "The training sessions are organized locally within the respective districts where the farmers are based."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "scheme_name": "Chief Minister's Self Employment Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cmses",
+  "location_name": "Sikkim",
+  "location_type": "state",
+  "page_title": "Chief Minister's Self Employment Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Chief Minister's Self Employment Scheme\" was launched by the Department of Personnel, and Reforms, Training, Public Grievances, Government of Sikkim. The scheme aims to provide loan to unemployed youth who belong below the poverty line. The Chief Minister's Self Employment Scheme shall be a link program for all those unemployed youth who are trained in the Constituency wise Livelihood schools across the State, irrespective of their educational qualification and age to start up self-employment ventures in business, service and industrial activities."
+    ],
+    "benefits": [
+      "Loans up to ₹3,00,000/- per individual.",
+      "Loans are interest-free for 2 years, followed by a 6% simple interest rate.",
+      "Note:",
+      "In case of the death of a loan recipient, the co-applicant shall be liable for a refund of the outstanding loan. The co-applicant is liable for a refund of only the principal amount to be paid within a period not exceeding one year."
+    ],
+    "eligibility": [
+      "The applicant should be unemployed.",
+      "The applicant's age should be between 22 to 35 years.",
+      "The applicant should have passed the 10th class.",
+      "The applicant's family annual income should not exceed ₹2,50,000/-.",
+      "Only one member per family shall be considered for the benefit, except in the case of Below Poverty Line (BPL) families."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Sikkim Industrial Development & Investment Corporation and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Sikkim Industrial Development & Investment Corporation.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the Sikkim Industrial Development & Investment Corporation to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Income Certificate (certified by the District Collector).",
+      "Affidavit of unemployment and no outstanding dues.",
+      "Project Feasibility Certification."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Chief Minister's Self Employment Scheme (CMSES)?",
+      "answer": "Sikkim Subject Certificate/Certificate of Identification holders and their descendants aged 22 to 35 years, who have passed Class X and are unemployed, are eligible."
+    },
+    {
+      "question": "What is the income limit for eligibility under the CMSES?",
+      "answer": "The gross income of the applicant's parents from all sources should not exceed Rs. 2.50 lakhs annually, as certified by the District Collector."
+    },
+    {
+      "question": "How many members of a family can benefit from the CMSES?",
+      "answer": "Only one member per family is eligible, except for families Below Poverty Line (BPL), where more than one member can benefit."
+    },
+    {
+      "question": "Are children of government or public sector employees eligible for CMSES?",
+      "answer": "Yes, children of government or public sector employees are eligible, provided they meet all other eligibility criteria."
+    },
+    {
+      "question": "What is the maximum loan amount that can be sanctioned under CMSES?",
+      "answer": "The maximum loan amount that can be sanctioned under the scheme is ₹3.00 lakhs per individual."
+    },
+    {
+      "question": "Is there any processing fee for the loan application?",
+      "answer": "Yes, a processing fee of 1% of the sanctioned amount is charged to cover administrative expenses."
+    },
+    {
+      "question": "What happens in the case of the loanee's death?",
+      "answer": "In the event of the loanee's death, the co-applicant is liable for refunding the outstanding loan, ideally limited to the principal amount, within a period not exceeding one year."
+    },
+    {
+      "question": "Which agency is responsible for accepting and disbursing loan applications?",
+      "answer": "The Sikkim Industrial Development & Investment Corporation (SIDICO) is the prescribed agency for accepting and disbursing loan applications under the scheme."
+    },
+    {
+      "question": "How often are loans disbursed under CMSES?",
+      "answer": "Loans under the scheme are disbursed on a quarterly basis after final approval by the government."
+    },
+    {
+      "question": "What criteria are used to assess loan applications?",
+      "answer": "Loan applications are assessed based on the genuineness of the request, the candidate’s ability to establish and run the project, and their capacity to repay the loan. Preference is given to those with higher/specialized training in the relevant field."
+    },
+    {
+      "question": "How is the loan amount divided among districts?",
+      "answer": "The total amount of the loan is proportionately divided among the four districts based on their population percentage."
+    },
+    {
+      "question": "What follow-up actions does SIDICO undertake after disbursing loans?",
+      "answer": "SIDICO monitors the performance of the beneficiaries to ensure the self-employment venture is successful and meets the government’s objectives."
+    },
+    {
+      "question": "What is the procedure for recovering loans under the CMSES?",
+      "answer": "SIDICO prepares a repayment schedule for each individual case and takes necessary steps, including legal action if required, to recover loans in case of chronic and intentional defaults."
+    }
+  ]
+}

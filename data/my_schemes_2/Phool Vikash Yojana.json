@@ -1,0 +1,127 @@
+{
+  "scheme_name": "Phool Vikash Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fvy",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Phool Vikash Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The “Phool Vikash Yojana” launched by the Department of Agriculture, Bihar, aims to support farmers in 15 districts of the state by offering financial assistance for marigold flower cultivation. The scheme provides a 50% subsidy for up to 4 hectares."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "50% subsidy on ₹80,000/- per hectare for marigold cultivation."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Bihar.",
+      "The applicant should be a farmer.",
+      "The applicant must have agricultural land a minimum of 0.25 acres (0.1 ha) and a maximum of 10 acres (4 ha).",
+      "The applicant must be registered on the DBT portal Agriculture Department.",
+      "Note 1:",
+      "The benefits of this scheme can be taken by ryot farmers on the basis of land documents and non-ryot farmers on the basis of contract form.",
+      "Note 2:",
+      "Beneficiaries will be selected on first come first serve basis."
+    ],
+    "application_process": {
+      "online": [
+        "DBT Registration Process:",
+        "Step 1:",
+        "Visit the",
+        "registration page",
+        "of the DBT portal.",
+        "Step 2:",
+        "Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.",
+        "Step 3:",
+        "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.",
+        "Step 4:",
+        "Enter the OTP. Click on “Validate OTP”.",
+        "Step 5:",
+        "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.",
+        "Step 6:",
+        "In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.",
+        "Step 7:",
+        "Validate with OTP. Click on “Register” to generate the Registration Id.",
+        "Note:",
+        "After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.",
+        "Online Application of the Scheme:",
+        "Visit the official",
+        "website",
+        ".",
+        "Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”.",
+        "In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”.",
+        "Fill in the required details i.e. Address, Land Details, etc, and upload documents.",
+        "Confirm the checkbox and then click on “Submit”.",
+        "An “Application Number” will be generated. Keep this for future reference.",
+        "Printout of the filled in application also can be taken using the Print option."
+      ]
+    },
+    "documents_required": [
+      "For DBT Registration Process:",
+      "Aadhaar Details (Should be linked with mobile number).",
+      "Passport Size Photo.",
+      "Farmer details.",
+      "Land information.",
+      "Bank account.",
+      "For the Online Application of the Scheme:",
+      "Contract form",
+      "( for non-ryot farmers).",
+      "Land Possession Certificate (LPC)/ revenue receipt (If applicable).",
+      "Note:",
+      "If the applicant's name is not clear in the land-ownership/ revenue receipt, it will be mandatory to attach the genealogy along with the land-ownership/ revenue receipt."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the “Ful Vikash Yojana”?",
+      "answer": "The “Ful Vikash Yojana” is a government initiative designed to provide financial assistance to farmers for cultivating marigold flowers in selected districts of the state."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Farmers from the 15 operational districts are eligible, provided they own land or have a valid land agreement for cultivation."
+    },
+    {
+      "question": "What subsidy is provided under the scheme?",
+      "answer": "The scheme offers a 50% subsidy on the unit rate of ₹80,000/- per hectare of land used for marigold cultivation."
+    },
+    {
+      "question": "What is the minimum and maximum land size allowed under the scheme?",
+      "answer": "Farmers can apply for a subsidy on a minimum of 0.1 hectares and a maximum of 4 hectares of land."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "The required documents include a Land Possession Certificate (LPC), an updated revenue receipt, and a genealogy document if the applicant's name is unclear on the ownership/revenue receipt."
+    },
+    {
+      "question": "Can farmers without land avail the scheme benefits?",
+      "answer": "Yes, farmers without land can avail benefits by submitting a land agreement in the prescribed format, which can be downloaded from the provided link."
+    },
+    {
+      "question": "Which districts are covered under this scheme?",
+      "answer": "The scheme is operational in Arwal, Bhojpur, Buxar, Gopalganj, Jehanabad, Kaimur, Lakhisarai, Madhepura, Nawada, Saran, Sheikhpura, Shivhar, Sitamarhi, Siwan, and Supaul."
+    },
+    {
+      "question": "How is the subsidy amount disbursed to the farmers?",
+      "answer": "The subsidy is directly disbursed to the farmers based on the unit rate of ₹80,000/- per hectare, with 50% of the amount provided as financial assistance."
+    },
+    {
+      "question": "What should a farmer do if their name is unclear in the land ownership documents?",
+      "answer": "If the applicant's name is unclear in the land ownership or revenue receipt, they are required to attach a genealogy document to verify their eligibility."
+    },
+    {
+      "question": "Are scheme benefits provided to all applicants?",
+      "answer": "No, the scheme benefits are distributed on a first-come, first-served basis, so early application is recommended."
+    },
+    {
+      "question": "Can farmers apply for more than 4 hectares of land under the scheme?",
+      "answer": "No, the maximum land area eligible for the subsidy is limited to 4 hectares per farmer."
+    },
+    {
+      "question": "Is the scheme applicable to crops other than marigolds?",
+      "answer": "No, the benefits under this scheme are exclusively for the cultivation of marigold flowers."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "scheme_name": "Reservoir Fisheries Development Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rfds",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Reservoir Fisheries Development Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Reservoir Fisheries Development Scheme\" by the Department of Fisheries, Government of Jharkhand, aims to enhance fish production and support fishermen's livelihoods. Through this scheme, fish fingerlings are provided, along with subsidized boats and nets, to registered fisheries cooperative societies. The scheme is implemented by the Directorate of Fisheries and focuses on utilizing water resources like reservoirs, check dams, coal pits, and other water bodies."
+    ],
+    "benefits": [
+      "Supply of 530 lakh fish fingerlings annually to various reservoirs.",
+      "Subsidy of ₹1,000/- or 50% of the cost per member for fishing nets (whichever is lower).",
+      "Provision of ₹10,000/- or 50% of the cost for one boat per cooperative society (whichever is lower).",
+      "Encouragement for cage culture in water bodies.",
+      "Enhanced fish production in 1,06,000 hectares of water bodies.",
+      "Livelihood support for members of registered fisheries cooperative societies.",
+      "Focused implementation in mining-affected water bodies."
+    ],
+    "eligibility": [
+      "The applicant must be a member of a registered fisheries cooperative society.",
+      "The cooperative society should be actively involved in fisheries activities.",
+      "The water body must be a stable water resource such as a reservoir, check dam, coal pit, or similar areas affected by mining.",
+      "The water body should have a minimum size to qualify for stocking and development."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Fisheries Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Cooperative Society Registration Certificate",
+      "Membership Proof of the Applicant",
+      "Water Body Inspection Report",
+      "Cost Estimates for Nets and Boats",
+      "Bank Account Details for Subsidy Transfer",
+      "Declaration of Adherence to Fisheries Guidelines"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How can fisheries cooperatives benefit from this scheme?",
+      "answer": "Fisheries cooperatives receive fish fingerlings, subsidies for fishing nets and boats, and support for cage culture to improve fish production and livelihoods."
+    },
+    {
+      "question": "Are there specific water bodies eligible for this scheme?",
+      "answer": "Yes, stable water bodies like reservoirs, check dams, coal pits, and other mining-affected areas are eligible."
+    },
+    {
+      "question": "What is the subsidy amount for fishing nets?",
+      "answer": "Active cooperative members receive ₹1,000 or 50% of the cost of fishing nets, whichever is lower."
+    },
+    {
+      "question": "What documents are needed to apply for the scheme?",
+      "answer": "Applicants must submit cooperative society registration proof, membership records, inspection reports, cost estimates, and bank details."
+    },
+    {
+      "question": "Who supervises the implementation of this scheme?",
+      "answer": "The Directorate of Fisheries supervises implementation, with district fisheries officers monitoring local execution."
+    },
+    {
+      "question": "What is cage culture, and how does it benefit fishermen?",
+      "answer": "Cage culture involves fish farming in controlled cage setups within reservoirs, enhancing productivity and providing an additional livelihood source."
+    },
+    {
+      "question": "How are subsidies disbursed to beneficiaries?",
+      "answer": "Subsidies are directly transferred via bank accounts or through cheques issued to cooperative societies."
+    },
+    {
+      "question": "What is the financial allocation for this scheme?",
+      "answer": "A total of ₹400 lakh has been allocated for fish fingerlings, boats, nets, and administrative costs."
+    },
+    {
+      "question": "Can non-members of fisheries cooperatives avail of this scheme?",
+      "answer": "No, only registered members of fisheries cooperative societies are eligible for benefits."
+    },
+    {
+      "question": "How can grievances related to the scheme be addressed?",
+      "answer": "Grievances can be addressed through the District Fisheries Office or the Directorate of Fisheries, Jharkhand."
+    },
+    {
+      "question": "Are mining-affected areas prioritized in this scheme?",
+      "answer": "Yes, the scheme focuses on mining-affected water bodies to rehabilitate and utilize them effectively for fish production."
+    }
+  ]
+}

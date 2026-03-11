@@ -1,0 +1,125 @@
+{
+  "scheme_name": "Krishi Input Anudan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kiay",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Krishi Input Anudan Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "“Krishi Input Anudan Yojana” launched by the Department of Agriculture, Bihar, is designed to offer agricultural input subsidies in areas affected by rising water levels in rivers such as the Ganga and Kosi. Assistance are provided for crop damage more than 33% caused by heavy rainfall and flooding."
+    ],
+    "benefits": [
+      "Subsidy Amounts per Hectare:",
+      "Non-irrigated (year-dependent) crop areas: ₹8,500/-.",
+      "Irrigated crop areas: ₹17,000/-.",
+      "Perpetual/ perennial crops: ₹22,500/-.",
+      "Minimum Subsidy Amounts to Farmers:",
+      "Non-irrigated (year-dependent) crop areas: ₹1,000/-.",
+      "Irrigated crop areas: ₹2,000/-.",
+      "Perpetual/ perennial crops: ₹2,500/-."
+    ],
+    "eligibility": [
+      "The applicant should be a farmer.",
+      "The applicant should belong to the reported Panchayats of the identified blocks in the specified districts.",
+      "The applicant must be registered on the DBT portal.",
+      "Applicant's bank account must be linked with the Aadhaar number,",
+      "Note: Farmers cultivating on others' land will be identified and verified as \"actual cultivators\" through joint certification by the Agriculture Coordinator and Farmer Advisor. This process ensures that only genuine cultivators receive subsidy benefits."
+    ],
+    "application_process": {
+      "online": [
+        "DBT Registration Process:",
+        "Step 1:",
+        "Visit the",
+        "registration page",
+        "of the DBT portal.",
+        "Step 2:",
+        "Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.",
+        "Step 3:",
+        "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.",
+        "Step 4:",
+        "Enter the OTP. Click on “Validate OTP”.",
+        "Step 5:",
+        "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.",
+        "Step 6:",
+        "In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.",
+        "Step 7:",
+        "Validate with OTP. Click on “Register” to generate the Registration Id.",
+        "Note:",
+        "After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.",
+        "Online Application of the Scheme:",
+        "Visit the official",
+        "website",
+        ".",
+        "Click on the “'Apply Online” from the menu bar.",
+        "Select “Agricultural Input Subsidy Scheme-2024 for crop damage caused by floods due to unexpected rise in the water level of Ganga, Kosi, and other rivers due to rainfall in the month of September of Kharif 2024” from the dropdown list.",
+        "Now enter the 13-digit registration number and fill in the required details.",
+        "Enter Captcha. Click on “GET OTP”. Verify the OTP.",
+        "Upload the required documents then click on “Submit”.",
+        "Application number will be sent to the registered mobile number through SMS.",
+        "Check application Details:",
+        "Click",
+        "here",
+        "to know.",
+        "Helpdesk:"
+      ]
+    },
+    "documents_required": [
+      "For DBT Registration Process:",
+      "Aadhaar Details (Should be linked with mobile number).",
+      "Passport Size Photo.",
+      "Farmer details.",
+      "Land information.",
+      "Bank account.",
+      "For the Online Application of the Scheme:",
+      "Police station number.",
+      "Account number.",
+      "Khesra number.",
+      "Land document (Receipt / Jamabandi) or Land Possession Certificate (LPC).",
+      "Details of Crop Damaged by the flood.",
+      "Details of two adjacent farmers and verified documents (Applicant’s) with their signatures.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is \"Krishi Input Anudan Yojana\"?",
+      "answer": "\"Krishi Input Anudan Yojana\" is a scheme launched by the Department of Agriculture, Bihar, to provide agricultural input subsidies to farmers in areas affected by heavy rainfall, flooding, and rising water levels in rivers like the Ganga and Kosi."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Farmers who belong to the reported Panchayats of the identified blocks in the specified districts and are registered on the DBT portal are eligible."
+    },
+    {
+      "question": "What subsidy amounts are provided under the scheme?",
+      "answer": "₹8,500/- per hectare for non-irrigated (year-dependent) crop areas. ₹17,000/- per hectare for irrigated crop areas. ₹22,500/- per hectare for perpetual/perennial crops."
+    },
+    {
+      "question": "What is the minimum subsidy amount a farmer can receive?",
+      "answer": "₹1,000/- for non-irrigated (year-dependent) crop areas. ₹2,000/- for irrigated crop areas. ₹2,500/- for perpetual/perennial crops."
+    },
+    {
+      "question": "Is there a maximum area limit for receiving the subsidy?",
+      "answer": "Yes, the subsidy is payable for a maximum of two hectares per farmer."
+    },
+    {
+      "question": "How can farmers apply for the scheme?",
+      "answer": "Farmers must register themselves on the DBT portal and submit the required details online."
+    },
+    {
+      "question": "What percentage of crop damage is required to qualify for assistance?",
+      "answer": "The scheme provides assistance for crop damage exceeding 33%."
+    },
+    {
+      "question": "Which areas are covered under the scheme?",
+      "answer": "The scheme covers the reported Panchayats of the identified blocks in the specified districts of Bihar affected by flooding and heavy rainfall."
+    },
+    {
+      "question": "How is the subsidy amount disbursed to the farmers?",
+      "answer": "The subsidy amount is directly transferred to the registered bank accounts of farmers through the DBT system."
+    }
+  ]
+}

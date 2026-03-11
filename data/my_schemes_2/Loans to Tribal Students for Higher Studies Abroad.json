@@ -1,0 +1,123 @@
+{
+  "scheme_name": "Loans to Tribal Students for Higher Studies Abroad",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ltshsa",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Loans to Tribal Students for Higher Studies Abroad",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Loans to Tribal Students for Higher Studies Abroad\" scheme was launched by the Tribal Development Department, Government of Gujarat. The scheme aims to provide financial assistance to tribal students who wish to pursue higher education in foreign universities. Through this scheme, eligible Scheduled Tribe (ST) students can avail a loan at a concessional interest rate of 4% per annum."
+    ],
+    "benefits": [
+      "Monetary Benefit:",
+      "Loan of up to ₹15,00,000 or the actual cost of study/training abroad, whichever is lower.",
+      "Interest Rate:",
+      "4% per annum.",
+      "Penalty Interest:",
+      "2.5% per annum for late repayment.",
+      "Beneficiary Contribution:",
+      "No contribution is required from the beneficiary.",
+      "Repayment Terms:",
+      "Repayment to be made in 60 monthly installments.",
+      "Repayment starts 6 months after completion of studies.",
+      "Early repayment is permitted."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must be a student.",
+      "The applicant must belong to the Scheduled Tribe (ST) category.",
+      "The applicant must have secured special merit in Matriculation, Higher Secondary, Indian School Certificate, or its equivalent examination.",
+      "The applicant must have secured admission to a recognized foreign university for higher education.",
+      "The applicant must have passed the Higher Secondary Certificate (HSC) or equivalent examination."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process",
+        "Visit the Gujarat Tribal Development Corporation",
+        "official website",
+        ".",
+        "Click on the \"",
+        "APPLY FOR LOAN",
+        "\".",
+        "Select the scheme name \"Foreign Study\".",
+        "Fill the registration form: Full Name (as per Aadhaar Card), Gender, Date of Birth, Aadhaar Number, Mobile Number, Uder name, Password for login, Confirm Password.",
+        "Click on the \"Sign Up.",
+        "After successful registration, User ID and Password will be generated.",
+        "Login and Application Process",
+        "Enter User ID, Password, and Captcha Code.",
+        "After login, schemes applicable to your caste will be displayed.",
+        "Click on the scheme you want to apply for.",
+        "Fill the \"Application Form\" and upload the required documents",
+        "Click Save Application. The system will generate an Application Number.",
+        "Click Print Application."
+      ]
+    },
+    "documents_required": [
+      "7/12 Certificate",
+      "Affidavit",
+      "Birth Certificate",
+      "Certificate of Professional Course",
+      "Identity Card",
+      "Marksheet of 12th Class",
+      "Post Graduate Marksheet",
+      "Receipt of Fee Paid",
+      "Self-attested copy of Passport",
+      "Aadhaar Card",
+      "Bank Passbook/Cancelled Cheque",
+      "Caste Certificate",
+      "Graduate Marksheet",
+      "Marksheet",
+      "Passport-size Photos",
+      "Ration Card",
+      "School Leaving"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 6)",
+      "Scheme Details",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Only Scheduled Tribe (ST) students from Gujarat who have secured admission to a foreign university."
+    },
+    {
+      "question": "What is the maximum loan amount available?",
+      "answer": "₹15,00,000 or the actual cost of education abroad, whichever is lower."
+    },
+    {
+      "question": "Is there any income limit for applying?",
+      "answer": "No, there is no income limit."
+    },
+    {
+      "question": "Is there any penalty for late repayment?",
+      "answer": "Yes, 2.5% penalty interest is charged on delayed repayments."
+    },
+    {
+      "question": "Is the applicant required to contribute financially?",
+      "answer": "No, there is no beneficiary contribution required."
+    },
+    {
+      "question": "Where can applications be submitted?",
+      "answer": "On the Gujarat Tribal Development Corporation’s online portal ."
+    },
+    {
+      "question": "Can students from non-tribal categories apply?",
+      "answer": "No, only Scheduled Tribe (ST) students are eligible."
+    },
+    {
+      "question": "Does the scheme cover all courses abroad?",
+      "answer": "Yes, it covers higher education courses at recognized foreign universities."
+    },
+    {
+      "question": "Can the applicant repay the loan earlier?",
+      "answer": "Yes, early repayment is allowed."
+    },
+    {
+      "question": "What documents are mandatory for application?",
+      "answer": "Aadhaar, Caste Certificate, Admission Proof, Fee Receipt, Passport, Educational Certificates, among others."
+    }
+  ]
+}

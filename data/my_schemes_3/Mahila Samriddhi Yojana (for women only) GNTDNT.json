@@ -1,0 +1,114 @@
+{
+  "scheme_name": "Mahila Samriddhi Yojana (for women only) GNTDNT",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/msygntdnt",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Mahila Samriddhi Yojana (for women only) GNTDNT",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mahila Samriddhi Yojana\" by the Social Justice and Empowerment Department, Government of Gujarat, aims to create a microfinance scheme for women of target groups and women entrepreneurs doing independent business to create self-employment for women of nomadic and denotified castes. Under this scheme, women beneficiaries will be able to pursue a business/occupation of their choice. Gujarat Nomadic and Denotified Castes Development Corporation implement the scheme."
+    ],
+    "benefits": [
+      "The maximum loan limit will be up to ₹1,25,000/-.",
+      "The interest rate will be 4% per annum.",
+      "Under this scheme, 100% loan of the business/occupation amount is provided.",
+      "The loan amount will consist of 95% National Corporation contribution, 5% State Government contribution and zero beneficiary contribution.",
+      "Repayment:",
+      "The loan amount will have to be repaid in 48 equal monthly instalments, including interest."
+    ],
+    "eligibility": [
+      "The applicant must be a woman from a Nomadic or Denotified Caste.",
+      "The annual income limit of the family for income eligibility will be up to ₹3,00,000/- with effect from 1/4/2018. At least 50 percent of the total loan amount will be allocated for families having an annual income of up to ₹1,50,000/-.",
+      "The applicant's age should be at least 21 years and not more than 50 years as on the date of application.",
+      "The applicant must have experience in a technical and skilled trade/business.",
+      "The applicant will have to provide suitable collateral to get the loan."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Visit the Official Portal",
+        "Go to the",
+        "Official Website",
+        "Gujarat Nomadic and Denotified Tribes Development Corporation.",
+        "Scroll down on the homepage, find the \"Mahila Samriddhi Yojana\" and click on \"Apply Now\".",
+        "You will be directed to the application form.",
+        "Step 2: Access and Fill Out the Application Form",
+        "Complete all sections under \"Applicant information,\" including full name, father/husband's name, gender, complete address details, contact numbers, Aadhaar No., parents/husband/guardian occupation and income details. Also provide Date of Birth, Age, Caste, and Subspecies. Also, if you are disabled and provide a percentage.",
+        "If you have taken a past loan, select \"Yes\" or \"No\". If you selected \"Yes\", provide loan details (date, amount, paid, remaining) and your account number.",
+        "Provide bank account number, bank name, branch name, name as per account, account type (Saving/Current), MICR code, and IFSC code.",
+        "Step 3: Upload Documents",
+        "Go to \"Upload Photo\" in the menu, then upload your photograph and signature (each file less than 15 KB). Click \"Save Photo and Signature\"",
+        "Navigate to \"Upload Document\" in the menu and upload all required files (PDF, JPG, JPEG, PNG only).",
+        "Step 4: Review and Final Submission",
+        "Carefully review each module. Use the preview option to examine the application before final submission. Fill out the provided \"CAPTCHA\" and Click on “Submit”.",
+        "Track and Review Status",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.",
+        "Scroll down and locate the Know App Status. Click on \"Know App Status\".",
+        "Select the Scheme name, Enter App No., and Birth Date. Fill out the Captcha and click on Submit."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate.",
+      "Income Certificate.",
+      "Age Proof.",
+      "Experience Certificate.",
+      "Collateral Documents.",
+      "Photograph.",
+      "Signature."
+    ],
+    "sources_and_references": [
+      "Official Guidelines",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main purpose of the scheme?",
+      "answer": "The main purpose is to create self-employment for women of Nomadic and Denotified Castes and to support women entrepreneurs doing independent business."
+    },
+    {
+      "question": "Am I eligible for this loan if I am a woman from a Nomadic or Denotified Caste?",
+      "answer": "Yes, the applicant must be a woman from a Nomadic or Denotified Caste to be eligible for this loan."
+    },
+    {
+      "question": "What is the maximum age limit to apply for this scheme?",
+      "answer": "The applicant's age should not be more than 50 years as on the date of application."
+    },
+    {
+      "question": "What is the minimum age required to apply for the Mahila Samriddhi Yojana?",
+      "answer": "The applicant's age should be at least 21 years as on the date of application."
+    },
+    {
+      "question": "Is collateral required to get a loan under this scheme?",
+      "answer": "Yes, the applicant will have to provide suitable collateral to get the loan."
+    },
+    {
+      "question": "Do I need any specific experience to be eligible for the loan?",
+      "answer": "Yes, the applicant must have experience in a technical and skilled trade or business."
+    },
+    {
+      "question": "What is the annual interest rate for this loan scheme?",
+      "answer": "The interest rate will be 4% per annum."
+    },
+    {
+      "question": "Does the scheme cover the full amount of my business or occupation?",
+      "answer": "Yes, under this scheme, 100% loan of the business/occupation amount is provided."
+    },
+    {
+      "question": "What is my contribution to the loan amount?",
+      "answer": "There is zero beneficiary contribution to the loan amount."
+    },
+    {
+      "question": "How is the loan amount funded by different entities?",
+      "answer": "The loan amount consists of 95% National Corporation contribution and 5% State Government contribution."
+    },
+    {
+      "question": "Where can I find the application form for the scheme?",
+      "answer": "You can find the application form by visiting the Official Website of Gujarat Nomadic and Denotified Tribes Development Corporation at https://gndcdconline.gujarat.gov.in/ and clicking on \"Apply Now\" under \"Mahila Samriddhi Yojana.\""
+    },
+    {
+      "question": "How can I track the status of my application after submission?",
+      "answer": "You will receive an Application ID/Reference Number, which you can use to track the status by visiting the Official Website and clicking on \"Know App Status.\""
+    }
+  ]
+}

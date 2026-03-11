@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Free Legal Aid under the Legal Services Authority Act 1987",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/flalsac",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Free Legal Aid under the Legal Services Authority Act 1987",
+  "scraped_at": "2026-03-10 05:26:36 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Free Legal Aid under the Legal Services Authority Act, 1987” has been implemented by the Uttarakhand State Legal Services Authority, Nainital, under the Department of Law, Government of Uttarakhand. The scheme aims to provide free legal aid to all eligible persons in Uttarakhand who intend to file a case, have already filed a case, or need to defend a case under the provisions of the Legal Services Authority Act, 1987."
+    ],
+    "benefits": [
+      "Under this scheme, eligible persons who intend to file a case, have already filed a case, or need to defend a case shall be entitled to receive free legal services from the State Authority, the High Court Legal Services Committee, the District Legal Services Authority, or the Taluk Legal Services Committee, as the case may be under the Act."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand state.",
+      "The following persons shall be eligible for free legal aid:",
+      "All citizens belonging to Scheduled Castes (SC) and Scheduled Tribes (ST).",
+      "Persons subjected to human trafficking, abuse, or forced labour, as defined under Article 23 of the Constitution of India.",
+      "All women and children.",
+      "All persons with disabilities and persons with mental illness.",
+      "Persons affected by natural calamities or disasters, including mass destruction, caste violence, caste atrocities, floods, earthquakes, industrial disasters, etc.",
+      "All workers employed in the industrial sector.",
+      "All persons detained in jail, prison, protection homes, juvenile homes, psychiatric hospitals, or nursing homes.",
+      "Ex-servicemen.",
+      "Persons belonging to the transgender community.",
+      "Senior citizens.",
+      "Persons infected with HIV/AIDS.",
+      "All other persons whose annual income from all sources is less than ₹3,00,000/-.",
+      "Note: There is no income limit for persons mentioned in serial numbers 1 to 11."
+    ],
+    "application_process": {
+      "offline": [
+        "To provide free legal aid, the High Court Legal Services Committee has been established at the Hon’ble Uttarakhand High Court, District Legal Services Authorities have been set up in all districts, and Legal Services Committees have been constituted at the Tehsil level.",
+        "An E-Seva Kendra has been established within the premises of the Hon’ble High Court (Gate No. 7), where legal aid and advice can be availed by submitting a form and contacting the High Court Legal Services Committee, Nainital, at telephone number 09412979696. Additionally, the legal aid helpline number 15100 and toll-free number 1800 180 4000 are operational at the front office of the State Authority, where legal aid and advice can be obtained by calling.",
+        "For free legal aid, if any senior citizen, woman, or child is unable to visit the concerned office or submit the online form, Legal Volunteers deployed across urban and rural areas of the state can provide assistance. The list of Legal Volunteers, including their names and mobile numbers, is available on the website:",
+        "https://slsa.uk.gov.in",
+        "At the district level, each District Legal Services Authority has a front office where legal aid and consultation can be availed either in person or by submitting a form. Applicants can also apply for free legal aid online at:",
+        "https://nalsa.gov.in/lsams/nologin/applicationFiling.action?requestLocale=en",
+        ". The offline application form can be downloaded from the website of the State Legal Services Authority, Uttarakhand:",
+        "The eligible beneficiary will need the following documents to submit the form: Aadhaar Card, mobile number, caste certificate if belonging to SC/ST, disability certificate issued by the State Government or District Administration for persons with disabilities or mental illness, and income certificate or BPL certificate for those whose annual income from all sources is ₹3,00,000/- or less."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Mobile number",
+      "Caste certificate if belonging to SC/ST",
+      "Disability certificate issued by the State Government or District Administration for persons with disabilities or mental illness",
+      "BPL certificate/Income certificate for those whose annual income from all sources is ₹3,00,000 /-or less."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 67)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for free legal aid under this scheme?",
+      "answer": "Eligible persons include SC/ST citizens, women, children, persons with disabilities, ex-servicemen, senior citizens, persons affected by natural calamities, workers in the industrial sector, persons in jail or institutional care, HIV/AIDS-infected persons, and persons whose annual income is less than ₹3,00,000."
+    },
+    {
+      "question": "What types of cases are covered under this scheme?",
+      "answer": "The scheme covers civil, criminal, and other legal cases where the eligible person is filing, has filed, or needs to defend a case."
+    },
+    {
+      "question": "Where can one avail free legal aid in Uttarakhand?",
+      "answer": "Free legal aid can be availed from the State Authority, High Court Legal Services Committee, District Legal Services Authority, or Taluk Legal Services Committee, depending on the case."
+    },
+    {
+      "question": "Where is the E-Seva Kendra located?",
+      "answer": "The E-Seva Kendra is located at Gate No. 7 of the Hon’ble Uttarakhand High Court, Nainital."
+    },
+    {
+      "question": "How can one find the list of Legal Volunteers?",
+      "answer": "The list of Legal Volunteers, including names and mobile numbers, is available on https://slsa.uk.gov.in ."
+    },
+    {
+      "question": "How can one avail free legal aid at the district level?",
+      "answer": "Each District Legal Services Authority has a front office where legal aid can be obtained in person or by submitting an application form."
+    },
+    {
+      "question": "What is the role of the Taluk Legal Services Committee?",
+      "answer": "It provides free legal aid and advice at the Tehsil level to eligible persons."
+    },
+    {
+      "question": "Can one avail legal aid for both civil and criminal matters?",
+      "answer": "Yes, the scheme covers both civil and criminal legal cases."
+    }
+  ]
+}

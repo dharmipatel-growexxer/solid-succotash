@@ -1,0 +1,108 @@
+{
+  "scheme_name": "Pradhan Mantri Vanbandhu Kalyan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmvky",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Pradhan Mantri Vanbandhu Kalyan Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Pradhan Mantri Vanbandhu Kalyan Yojana\" was launched by the Ministry of Tribal Affairs, Government of India. The scheme aims to address the unique challenges faced by tribal communities by focusing on their holistic development and the preservation of their cultural heritage and identity. The scheme provides comprehensive support through six key components, including integrated village development under Pradhan Mantri Adi Adarsh Gram Yojana, development of Particularly Vulnerable Tribal Groups, support to Tribal Research Institutes, and Pre-Matric and Post-Matric Scholarships. The applicant must belong to a Scheduled Tribe or reside in an identified village with a significant tribal population to avail of specific benefits."
+    ],
+    "benefits": [
+      "Village Development",
+      "Provision of ₹20,38,000/- per village under the Pradhan Mantri Adi Adarsh Gram Yojana to bridge gaps in eight sectors including road connectivity, telecom connectivity, schools, Anganwadi Centres, health sub-centres, drinking water facilities, drainage, and solid waste management.",
+      "PVTG Development",
+      "Financial assistance under the Pradhan Mantri PVTG Development Mission for essential amenities such as secure housing, clean drinking water, sanitation, improved access to education, health, nutrition, and road and telecom connectivity.",
+      "Pre-Matric Scholarship",
+      "Financial assistance for Scheduled Tribe students studying in Standard IX and X.",
+      "Post-Matric Scholarship",
+      "Financial assistance for Scheduled Tribe students studying in Class XI and above.",
+      "Tribal Research",
+      "Financial assistance to State Governments and Union Territories for Tribal Research Institutes to facilitate research, documentation, and preservation of tribal cultural heritage.",
+      "Livelihood Support",
+      "Procurement of Minor Forest Produces at Minimum Support Price and value addition training programs through Van Dhan Vikas Kendras under the Pradhan Mantri Janjatiya Vikas Mission.",
+      "Residential Education",
+      "Access to quality education for students from Class VI to XII through Eklavya Model Residential Schools in blocks with more than 50% ST population and at least 20,000 tribal persons."
+    ],
+    "eligibility": [
+      "For Pre-Matric Scholarship",
+      "The applicant must belong to a Scheduled Tribe.",
+      "The applicant must be studying in Standard IX or X.",
+      "The applicant's parental annual income must be up to ₹2,50,000/-.",
+      "For Post-Matric Scholarship",
+      "The applicant must be studying in Class XI or above.",
+      "For Pradhan Mantri Adi Adarsh Gram Yojana (Village Eligibility)",
+      "The village must have at least 50% tribal population.",
+      "The village must have a total population of at least 500 Scheduled Tribes.",
+      "For PVTG Development",
+      "The beneficiary must belong to a Particularly Vulnerable Tribal Group (PVTG) family or habitation.",
+      "For Eklavya Model Residential Schools",
+      "The applicant must be a Scheduled Tribe student seeking admission in Class VI to XII."
+    ],
+    "application_process": {
+      "online": [
+        "Application for Scholarships (Pre-Matric and Post-Matric)",
+        "Step 1:",
+        "The applicant must access the National Scholarship Portal or the respective State Scholarship Portal designated by the State Government.",
+        "Step 2:",
+        "The applicant must register on the portal by providing basic details such as name, date of birth, and mobile number to generate login credentials.",
+        "Step 3:",
+        "The applicant must log in to the portal and fill out the specific application form for the Pre-Matric or Post-Matric Scholarship for ST students.",
+        "Step 4:",
+        "The applicant must upload the scanned copies of the required documents, such as the Caste Certificate, Income Certificate, and Mark Sheets, in the prescribed format and size.",
+        "Step 5:",
+        "The applicant must review the entered details and submit the application form online before the specified deadline.",
+        "Application for PVTG and Village Development Components",
+        "The State Governments and Union Territory administrations must prepare proposals based on the specific needs of the identified villages and PVTG habitations.",
+        "The State Governments must submit these proposals to the Ministry of Tribal Affairs for approval and financial assistance.",
+        "Upon approval, the funds are released to the State Governments for the implementation of development activities such as housing, infrastructure, and connectivity."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate (to prove Scheduled Tribe status).",
+      "Income Certificate (to prove parental annual income is up to ₹2,50,000/-).",
+      "Mark Sheet of the last qualifying examination.",
+      "Student Identity Card or bonafide certificate from the educational institution.",
+      "Aadhaar Card or proof of identity.",
+      "Bank Account Details (Account Number and IFSC Code for Direct Benefit Transfer).",
+      "Passport Size Photograph.",
+      "Domicile Certificate or Proof of Residence."
+    ],
+    "sources_and_references": [
+      "PIB Press Release 1",
+      "PIB Press Release 2",
+      "PIB Press Release 3"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "I am a student currently enrolled in class nine or ten and belong to a Scheduled Tribe; am I eligible to receive financial assistance for my education under this initiative?",
+      "answer": "Yes, you are eligible for the Pre-Matric Scholarship if you are studying in Standard IX or X, provided your parental annual income falls within the prescribed limits."
+    },
+    {
+      "question": "What is the maximum annual income limit for parents or guardians to enable their wards to qualify for the pre-matric or post-matric scholarship benefits?",
+      "answer": "The parental annual income must be up to ₹2,50,000/- for a student to be eligible for financial assistance under the Pre-Matric and Post-Matric Scholarship schemes."
+    },
+    {
+      "question": "Does the government provide financial support for students who have completed their secondary education and wish to pursue higher studies beyond class ten?",
+      "answer": "Yes, the Post-Matric Scholarship scheme covers all Scheduled Tribe students studying in Class XI and above to support their continued academic advancement."
+    },
+    {
+      "question": "What specific demographic criteria regarding population must a village meet to be selected for integrated development and funding for infrastructure gaps?",
+      "answer": "A village must have at least a 50% tribal population and a total of at least 500 Scheduled Tribes to be identified for development activities under the Pradhan Mantri Adi Adarsh Gram Yojana."
+    },
+    {
+      "question": "How much financial assistance is allocated per village to address critical gaps in sectors like connectivity, health, and education under the village development component?",
+      "answer": "Each identified village is eligible to receive ₹20,38,000/- to bridge gaps in prominent sectors such as road connectivity, schools, health sub-centres, and drinking water facilities."
+    },
+    {
+      "question": "Who are the intended beneficiaries of the specific mission launched to improve socio-economic conditions through the provision of secure housing and basic amenities?",
+      "answer": "The Pradhan Mantri PVTG Development Mission specifically targets Particularly Vulnerable Tribal Group families and habitations to provide essential amenities like safe housing, clean drinking water, and sanitation."
+    },
+    {
+      "question": "Which specific academic levels are covered for quality education under the residential school initiative designed for students in remote tribal areas?",
+      "answer": "The Eklavya Model Residential Schools are established to provide quality education to Scheduled Tribe students from Class VI to Class XII."
+    }
+  ]
+}

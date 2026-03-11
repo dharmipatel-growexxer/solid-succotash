@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Loan for Small Businesses (DAADC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sbsdaadc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Loan for Small Businesses (DAADC)",
+  "scraped_at": "2026-03-10 05:35:19 UTC",
+  "sections": {
+    "details": [
+      "The \"Loan for Small Businesses\" scheme is implemented by the Dr. Ambedkar Antyodaya Development Corporation (DAADC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to promote self-employment among Scheduled Caste (SC) individuals belonging to Antyodaya Anna Yojana (AAY) families by providing financial assistance for starting small businesses or self-employment ventures. Under this scheme, eligible beneficiaries are provided a loan of up to ₹1,25,000 at a concessional interest rate."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "Up to ₹1,25,000/-",
+      "Interest Rate",
+      ":",
+      "4% per annum",
+      "Loan Tenure:",
+      "60 months (5 years)",
+      "Guarantors Required:",
+      "Two guarantors",
+      "State Government Contribution:",
+      "100% (no beneficiary share required)",
+      "Approximate Installment Amount:",
+      "₹2,302/- per month (maximum)"
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to the Scheduled Caste (SC) category.",
+      "The applicant should belong to an Antyodaya Anna Yojana (AAY) family.",
+      "The applicant’s annual family income should not exceed ₹3,00,000/-.",
+      "The applicant should intend to start or expand a small business or occupation.",
+      "The applicant should be able to provide two guarantors."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Dr. Ambedkar Antyodaya Vikas Nigam (SC).",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Now\".",
+        "Step 3:",
+        "Click on the loan scheme name.",
+        "Step 4:",
+        "Select the loan category and fill in the loan amount.",
+        "Step 5:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 6:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 7:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 8:",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate",
+      "School Leaving",
+      "Copy of Electricity Bill",
+      "Age Proof",
+      "Caste Certificate",
+      "Ration Card",
+      "Copy of Election Card"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Scheduled Caste (SC) individuals belonging to Antyodaya Anna Yojana (AAY) families residing in Gujarat."
+    },
+    {
+      "question": "What is the repayment period for the loan?",
+      "answer": "The loan must be repaid within 60 months (5 years)."
+    },
+    {
+      "question": "Are there any guarantor requirements?",
+      "answer": "Yes, 2 guarantors are mandatory."
+    },
+    {
+      "question": "Is there any income limit?",
+      "answer": "Yes, annual family income must be ₹3,00,000 or less."
+    },
+    {
+      "question": "What is the contribution of the State Government?",
+      "answer": "The State Government contributes 100% towards the interest subsidy on the loan."
+    },
+    {
+      "question": "How much is the monthly installment?",
+      "answer": "The maximum monthly installment is approximately ₹2,302."
+    },
+    {
+      "question": "Are women eligible for this loan scheme?",
+      "answer": "Yes, eligible SC women from AAY families can also apply under this scheme."
+    },
+    {
+      "question": "Can a person from another state apply for this scheme?",
+      "answer": "No, only residents of Gujarat are eligible to apply for the Scheme."
+    }
+  ]
+}

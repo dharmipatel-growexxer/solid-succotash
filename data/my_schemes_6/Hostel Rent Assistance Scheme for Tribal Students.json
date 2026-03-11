@@ -1,0 +1,123 @@
+{
+  "scheme_name": "Hostel Rent Assistance Scheme for Tribal Students",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/hrasfts",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Hostel Rent Assistance Scheme for Tribal Students",
+  "scraped_at": "2026-03-10 08:44:28 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Hostel Rent Assistance Scheme for Tribal Students\" was introduced by the Tribal Area Development Department, Government of Rajasthan, aims to encourage tribal students (both boys and girls) of Rajasthan to pursue higher education in undergraduate and postgraduate courses. Under this scheme, hostel rent assistance is provided for a maximum period of five years to Scheduled Tribe students studying in government colleges who reside in rented accommodation for the purpose of regular studies. The scheme is applicable only to students from Scheduled Areas of Rajasthan enrolled in government colleges."
+    ],
+    "benefits": [
+      "Students receive the following rental assistance as a cash benefit:",
+      "Sl. No",
+      "Location",
+      "Duration",
+      "Rate per month per student (₹)",
+      "Amount (for 10 months) (₹)",
+      "1",
+      "Divisional Headquarters",
+      "Up to 10 months",
+      "500",
+      "5000",
+      "2",
+      "District Headquarters",
+      "400",
+      "4000",
+      "3",
+      "Other Areas",
+      "300",
+      "3000",
+      "Mode of Disbursement:",
+      "The amount is transferred directly to the beneficiary's bank account linked with the Bhamashah card.",
+      "Validity of Benefit:",
+      "Up to a maximum of 5 academic years per student."
+    ],
+    "eligibility": [
+      "The applicant should be studying regularly a undergraduate or postgraduate course in a government college.",
+      "The student should belong to a Scheduled Tribe community residing in the Scheduled Areas of Rajasthan.",
+      "The applicant should be a native of Rajasthan.",
+      "The applicant should be studying in a government college.",
+      "The applicant should not be residing in a government-run hostel.",
+      "The applicant's parents/guardian/husband should not be an income tax payer.",
+      "The applicant should not have any academic gap (break) after passing the last board examination.",
+      "The applicant should possess a valid Bhamashah card and an Aadhaar card."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Eligible students must fill out the prescribed application form online via the",
+        "official portal",
+        ".",
+        "Step 2:",
+        "Navigate to the “ONLINE PORTAL FOR TAD EDUCATIONAL INCENTIVE SCHEMES” on the homepage.",
+        "Step 3:",
+        "Upload the application form along with the required documents before the notified deadline.",
+        "Post Application Process:",
+        "The college will verify the online applications and forward them to the respective sanctioning authorities (TAD Project Officer / CEO, Zila Parishad).",
+        "Sanctioning authorities will approve the verified applications online. Incomplete applications, if any, will be returned for correction.",
+        "Approved applications will be sent to the district treasury office for disbursement.",
+        "Step 4:",
+        "The sanctioned amount will be transferred directly to the student's bank account linked with their Bhamashah card."
+      ]
+    },
+    "documents_required": [
+      "Income Tax Non-Assessee Declaration Certificate (certified by a competent authority)",
+      "Self-Attested Rent Agreement / House Rent Receipt",
+      "Bhamashah Card/Aadhaar Card",
+      "Proof of Admission in a Government College",
+      "Note:",
+      "The self-declaration of income verified by a competent authority confirming that the student's parents/guardian/husband/caretaker are not income taxpayers."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Scheduled Tribe students residing in Scheduled Areas of Rajasthan who are enrolled in undergraduate or postgraduate courses in government colleges."
+    },
+    {
+      "question": "What is the duration of assistance under the scheme?",
+      "answer": "Assistance is provided for a maximum of 5 academic years."
+    },
+    {
+      "question": "What is the mode of payment?",
+      "answer": "Direct bank transfer to the beneficiary’s account linked with the Bhamashah card."
+    },
+    {
+      "question": "Can private college students apply for this scheme?",
+      "answer": "No, only students studying in government colleges are eligible."
+    },
+    {
+      "question": "Is this scheme applicable to students living in government hostels?",
+      "answer": "No, students residing in government hostels are not eligible."
+    },
+    {
+      "question": "Is an Aadhaar card necessary?",
+      "answer": "Yes, a valid Aadhaar card is mandatory."
+    },
+    {
+      "question": "What is the official portal to apply online?",
+      "answer": "Applications must be submitted via www.tad.rajasthan.gov.in ."
+    },
+    {
+      "question": "Who approves the applications?",
+      "answer": "TAD Project Officer or CEO of the District Zila Parishad."
+    },
+    {
+      "question": "Can boy and girl students both apply?",
+      "answer": "Yes, both boy and girl tribal students are eligible."
+    },
+    {
+      "question": "Can a student apply if their parent is an income tax payer?",
+      "answer": "No, students whose parents/guardians pay income tax are not eligible."
+    },
+    {
+      "question": "When is the amount disbursed?",
+      "answer": "After application verification and approval, amount is disbursed annually within the academic year."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "scheme_name": "Fishermen Accident Relief Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fars",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Fishermen Accident Relief Scheme",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Fishermen Accident Relief Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial assistance to the families of deceased fishermen in Gujarat in case of death in Pakistan Jail, lost in the sea, or accidental death while fishing at sea. The financial assistance varies based on the cause of death and is meant to help the legal heirs cope with the loss."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Death in Pakistan Jail",
+      "₹4,00,000/-",
+      "Only once, after dead or lost declared as per rules.",
+      "Lost in Sea",
+      "₹2,00,000/-",
+      "Accidental death while fishing at sea"
+    ],
+    "eligibility": [
+      "The applicant must be a legal heir of the deceased fisherman.",
+      "The deceased must have been an active fisherman from Gujarat."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The legal heir of the deceased fisherman must collect and fill out the application form.",
+        "Step 2:",
+        "The application along with the necessary documents should be submitted to the concerned district office.",
+        "Step 3:",
+        "Upon verification, financial assistance will be provided to the eligible beneficiary."
+      ]
+    },
+    "documents_required": [
+      "Identity of resident of Gujarat State.",
+      "Legal Heir Affidavit.",
+      "Copy of Boat Call, License, and Movement Book.",
+      "Inquest Panchnama & FIR.",
+      "Copy of Post-Mortem Report.",
+      "Copy of Death Certificate.",
+      "Copy of Bank Passbook of Legal Heir."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Fishermen Accident Relief Scheme\"?",
+      "answer": "The \"Fishermen Accident Relief Scheme\" aims to provide financial assistance to the families of deceased fishermen in Gujarat in case of accidental death, loss in the sea, or death in a Pakistani jail."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "The legal heir of a deceased active fisherman from Gujarat is eligible to apply for the scheme."
+    },
+    {
+      "question": "What financial assistance is provided under this scheme?",
+      "answer": "The scheme provides ₹4,00,000/- for death in a Pakistan jail and ₹2,00,000/- for accidental death while fishing at sea or loss in the sea."
+    },
+    {
+      "question": "Can a fisherman’s family apply for the scheme if the deceased was not a resident of Gujarat?",
+      "answer": "No, only the families of active fishermen who were residents of Gujarat are eligible for financial assistance."
+    },
+    {
+      "question": "How will the financial assistance be disbursed to the beneficiary?",
+      "answer": "The financial assistance will be directly transferred to the legal heir’s bank account."
+    },
+    {
+      "question": "Can the family of a fisherman apply if the cause of death is not related to fishing activities?",
+      "answer": "No, financial assistance is only provided for accidental death at sea, loss in the sea, or death in a Pakistan jail."
+    },
+    {
+      "question": "Is there any application fee for applying to this scheme?",
+      "answer": "No, there is no application fee for availing of benefits under this scheme."
+    },
+    {
+      "question": "Can the application be submitted online?",
+      "answer": "Currently, the application must be submitted offline at the concerned district office."
+    },
+    {
+      "question": "Who can be contacted for more information about the scheme?",
+      "answer": "The applicant can visit the concerned district office for further details and assistance."
+    }
+  ]
+}

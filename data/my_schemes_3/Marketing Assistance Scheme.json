@@ -1,0 +1,69 @@
+{
+  "scheme_name": "Marketing Assistance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mas",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Marketing Assistance Scheme",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The \"Marketing Assistance Scheme\" was implemented by Karnataka Leather Industries Development Corporation Ltd, Govt of Karnataka. The scheme aims to empower SC leather artisans by enabling them to market their products through Lidkar Leather Emporia under the Lidkar brand. It helps artisans avoid exploitation by private dealers and provides regular procurement of their products based on demand.",
+      "Objective:",
+      "Regular procurement of products (once every 1-2 months) based on showroom demand.",
+      "Branding and marketing through Lidkar Leather Emporia."
+    ],
+    "benefits": [
+      "Financial assistance of ₹50,000/- to ₹1,00,000/- worth of procurement from each artisan."
+    ],
+    "eligibility": [
+      "The applicant should be leather artisans.",
+      "The applicant should belongs to sub-castes Arundathiyar, Chammadiya, Chamar, Chambar, Chamagar, Madar, Madig, Madiga, Mini Madig, Jambavalu, Haralayya, Machigar, Mochigar, Mochi, muchi, Telugu Mochi, kamaati mocha, Rohidas, Dhor, kakkayya, Kankayya, Samagara, Samagar, Aadhi Anddra, Aadhi Dravida, Aadhi Karnataka among schedule castes.",
+      "The age of the applicant should be 18 years.",
+      "The applicant's annual family income should not exceed ₹30,000/- in rural areas and ₹25,000/- in urban areas.",
+      "The applicant or their family members must not have received benefits from other schemes, except training programs.",
+      "The applicant's family members should not be employed in government or semi-government organizations."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step-01:",
+        "Visit the official",
+        "Seva Sindhu Portal",
+        ".",
+        "Step-02:",
+        "Choose \"New Users Register Here\" and fill in your Aadhaar Number and the Captcha code.",
+        "Step-03:",
+        "An OTP will be sent to your Aadhaar-linked mobile number. Enter the OTP to continue.",
+        "Step-04:",
+        "Once your DigiLocker account is created, click \"Allow\" to proceed.",
+        "Step-05:",
+        "Fill out your email ID, mobile number, create a password, and enter the captcha, then click \"Submit\".",
+        "Step-06:",
+        "You will receive OTPs on both your email and mobile number. Enter both OTPs and select \"Validate\".",
+        "Step-07:",
+        "Once validated, a confirmation message will indicate your registration is successful.",
+        "Applying for a Scheme:",
+        "Go to",
+        "and select \"Department & Services\".",
+        "Select department \"Social Welfare Department\" and click on the scheme \"Marketing Assistance Scheme\"",
+        "Click \"Apply Online\" and enter your registered email ID/mobile number and the OTP.",
+        "Select the scheme and provide your personal, address, and banking details as required.",
+        "Once submitted, you will receive an Application ID. You can use this ID to track your application status on the portal."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Caste Certificate with RD number.",
+      "Annual Income Certificate.",
+      "Ration Card.",
+      "Passport-size Photograph of the applicant and his/her spouse.",
+      "Bank Passbook.",
+      "Detailed Project Report.",
+      "Profession Certificate/Skill Test Certificate (issued by the Technical section committee of the Corporation)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": []
+}

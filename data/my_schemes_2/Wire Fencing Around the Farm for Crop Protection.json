@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Wire Fencing Around the Farm for Crop Protection",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wfafcp",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Wire Fencing Around the Farm for Crop Protection",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Wire Fencing Around the Farm for Crop Protection\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to farmers to install wire fencing, helping prevent damage to crops from wild and stray animals. This initiative ensures minimal agricultural produce wastage and supports sustainable farming practices."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Wire Fencing",
+      "Per Running Meter ₹200/- or 50% of the actual expenditure incurred, whichever is less",
+      "Once in lifetime"
+    ],
+    "eligibility": [
+      "The applicant must be a landholding farmer or a farmer group",
+      "The applicant must have a minimum of 2 hectares (ha) of land in a cluster.",
+      "Note:",
+      "Only one of the holders mentioned in 8-A land records per account is eligible for benefits with the consent of other holders.",
+      "A farmer is eligible for assistance for a maximum of one account."
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Land Ownership Proof (8-A land record).",
+      "Aadhaar Card.",
+      "Bank Account Details.",
+      "Consent Letter from other land account holders (if applicable).",
+      "Van Adhikar Patra or Sanad (for farmers in forest areas).",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this Scheme?",
+      "answer": "The objective of this scheme is to protect farmers' crops from damage caused by wild and stray animals, thereby preventing the wastage of agricultural produce."
+    },
+    {
+      "question": "Who is eligible to apply for this Scheme?",
+      "answer": "Any landholding farmer or farmer group with a minimum of 2 hectares in a cluster is eligible to apply for the scheme."
+    },
+    {
+      "question": "What type of financial assistance is provided under this scheme?",
+      "answer": "Under this scheme, farmers receive financial assistance of ₹200/- per running meter or 50% of the actual expenditure incurred, whichever is lower."
+    },
+    {
+      "question": "How many times can a farmer avail of the benefits under this scheme?",
+      "answer": "A farmer can avail of the benefits only once in a lifetime for a single land account."
+    },
+    {
+      "question": "Can a farmer from a forest area apply for this scheme?",
+      "answer": "Yes, a farmer from a forest area can apply, but they must submit the Van Adhikar Patra or Sanad as proof."
+    },
+    {
+      "question": "Can multiple farmers owning the same land apply for this scheme?",
+      "answer": "No, only one account holder from an 8-A land record can apply, provided they have the consent of the other landholders."
+    },
+    {
+      "question": "Can a farmer who has already received benefits under the Solar Fencing Scheme apply for this scheme?",
+      "answer": "No, a farmer who has already availed of benefits under the Solar Fencing Scheme is not eligible for this scheme."
+    },
+    {
+      "question": "What percentage of the total fencing cost is covered under the scheme?",
+      "answer": "The scheme covers 50% of the actual expenditure incurred or ₹200/- per running meter, whichever is lower."
+    },
+    {
+      "question": "Can a farmer with less than 2 hectares of land apply for this scheme?",
+      "answer": "No, the scheme requires a minimum landholding of 2 hectares in a cluster for eligibility."
+    },
+    {
+      "question": "Where can a farmer apply for the scheme?",
+      "answer": "A farmer can apply online through the i-Khedut portal at https://ikhedut.gujarat.gov.in."
+    }
+  ]
+}

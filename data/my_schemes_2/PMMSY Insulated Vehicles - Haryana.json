@@ -1,0 +1,128 @@
+{
+  "scheme_name": "PMMSY: Insulated Vehicles - Haryana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ivs",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "PMMSY: Insulated Vehicles - Haryana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Insulated Vehicle\" scheme was launched by the Ministry Of Fisheries, Animal Husbandry & Dairying, Government of India, under the umbrella scheme \"Pradhan Mantri Matsya Sampada Yojana\". It aims to promote efficient and hygienic fish transportation systems. Under this scheme, a financial grant is provided to the beneficiaries for purchasing insulated (reefer) vehicles used in fish transportation. It seeks to minimize post-harvest losses, improve fish value chains, and enhance earnings of fish farmers by enabling cold-chain logistics."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Financial grant of up to ₹20,00,000/- per unit for the purchase of an insulated (reefer) vehicle.",
+      "Grant Limits:",
+      "40% of the unit cost for general category beneficiaries.",
+      "60% of the unit cost for Scheduled Caste (SC) and women beneficiaries.",
+      "Note",
+      "Subsidy is applicable for one vehicle per beneficiary only.",
+      "Central assistance is released only after initiating fishery activity.",
+      "The applicant should agree that any losses in procurement, operation, or maintenance are their own responsibility, and not that of the Government of India or Haryana."
+    ],
+    "eligibility": [
+      "The applicant should be a fish farmer.",
+      "The applicant must possess a Family Identity Card (Parivar Pehchan Patra).",
+      "The applicant must ensure that the fish transportation facility is maintained in working condition.",
+      "The applicant must not have availed a grant for a similar insulated (reefer) vehicle earlier."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Note:",
+        "Govt. Charges:",
+        "No Fee",
+        "Service Charges:",
+        "₹10/-",
+        "Atal Seva Kendra Service Charges:"
+      ]
+    },
+    "documents_required": [
+      "Agreement 1 (Agreement deed between the beneficiary and the fisheries department)",
+      "Birth Certificate (Voting Card/Birth Certificate/Aadhar Card/Matriculation Certificate)",
+      "Caste Certificate (Caste certificate from a first-class magistrate (Tehsildar))",
+      "Training Certificate of the beneficiary",
+      "Land Record (Land record from Tehsil (own land-Jamabandi, Nakal Akshizra, Farad) or registered lease deed of minimum 7 years)",
+      "Bills/Receipts/Vouchers",
+      "Photographs of insulated vehicles with beneficiary",
+      "Bank Account Detail",
+      "Pan Card",
+      "Detailed Project Report (DPR)/ Self Contained Proposal (SCP) (as per PMMSY guidelines)",
+      "Driving Licence of the beneficiary/driver and insurance of the vehicle"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply?",
+      "answer": "Any fishery activity practitioner with a valid Family ID card who has not previously availed such a grant."
+    },
+    {
+      "question": "What is the maximum grant provided?",
+      "answer": "₹20,00,000 per unit (subject to subsidy percentage)."
+    },
+    {
+      "question": "Can I apply for more than one vehicle?",
+      "answer": "No, only one insulated vehicle is allowed per beneficiary."
+    },
+    {
+      "question": "Will I receive the subsidy before starting fisheries activity?",
+      "answer": "No, the subsidy is released after the initiation of the fishery activity."
+    },
+    {
+      "question": "Are there any government liabilities if the vehicle gets damaged?",
+      "answer": "No, all risks are borne by the beneficiary."
+    },
+    {
+      "question": "What is the application processing time?",
+      "answer": "The application process takes approximately 40 days."
+    },
+    {
+      "question": "Are the service charges fixed?",
+      "answer": "Yes, ₹10 for department service and ₹10 for Atal Seva Kendra."
+    },
+    {
+      "question": "Where can I apply for this scheme?",
+      "answer": "The applicant can apply at the local District Fisheries Office or the Antyodaya SARAL portal ."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Attached: Birth Certificate, Caste Certificate (For SC beneficiaries, issued by First Class Magistrate or Tehsildar), Agreement Form, Fisheries Training Certificate (Proof of having undergone training in fisheries-related activities), Bill/Receipt/Voucher, Bank Account Details (Copy of Passbook) and PAN Card, etc."
+    },
+    {
+      "question": "Is a driving license compulsory?",
+      "answer": "Yes, a copy of the driving license must be provided."
+    }
+  ]
+}

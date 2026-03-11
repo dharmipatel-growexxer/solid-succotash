@@ -1,0 +1,68 @@
+{
+  "scheme_name": "Admission Process in All Government and Non-Government Schools of the State",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/apiaguk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Admission Process in All Government and Non-Government Schools of the State",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "The \"Admission Process in All Government and Non-Government Schools of the State\" scheme is implemented by the Basic Education Department under the Department of Education, Government of Uttarakhand. The scheme aims to provide free and accessible education for children from Class 1 to 8 by offering free education and essential learning materials, including books, shoe-bags, and meals, across all government and non-government schools in the state."
+    ],
+    "benefits": [
+      "After admission in all Government and Non-Government schools of the state, children from Class 1 to 8 receive free education, meals, books, and shoe-bags."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant (child) must be 6 years old to get admission in Class 1.",
+      "The applicant (student) must be currently registered in Anganwadi Bal Vatika to be eligible for admission to Class 1."
+    ],
+    "application_process": {
+      "offline": [
+        "Admission to Class 1 in government and private schools begins every year in April.",
+        "For the admission process, any one of the following documents can be submitted as proof of the student’s age: the child’s hospital/ANM record, Anganwadi record, village/family register, or a declaration by the guardian/parents regarding the child’s age.",
+        "In case the student is transferring from another school, the school leaving/transfer certificate (TC) from the previous school is mandatory."
+      ]
+    },
+    "documents_required": [
+      "Record From the Child’s Hospital/ANM (Auxiliary Nurse Midwife) Register",
+      "Anganwadi Record",
+      "Village Register/Family Register",
+      "Declaration By Guardian/Parents Regarding Child’s Age",
+      "School Leaving Transfer Certificate (mandatory if the applicant comes from another school)"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 72)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for admission under this scheme?",
+      "answer": "Children who are 6 years old and currently registered in Anganwadi Bal Vatika are eligible for admission to Class 1."
+    },
+    {
+      "question": "What benefits are provided after admission?",
+      "answer": "Students from Class 1 to 8 receive free education, meals, books, and shoe-bags."
+    },
+    {
+      "question": "When does admission to Class 1 start?",
+      "answer": "Admission in government and private schools starts every year in April."
+    },
+    {
+      "question": "Up to which class does this scheme provide education?",
+      "answer": "The scheme covers students from Class 1 to 8."
+    },
+    {
+      "question": "What is the minimum age requirement for Class 1 admission?",
+      "answer": "The student must be 6 years old at the time of admission."
+    },
+    {
+      "question": "What if the student is transferring from another school?",
+      "answer": "The school leaving/transfer certificate (TC) from the previous school is mandatory."
+    },
+    {
+      "question": "Is the scheme applicable to private schools as well?",
+      "answer": "Yes, the scheme applies to both government and non-government (private) schools in Uttarakhand."
+    }
+  ]
+}

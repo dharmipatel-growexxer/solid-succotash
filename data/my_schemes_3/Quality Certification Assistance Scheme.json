@@ -1,0 +1,96 @@
+{
+  "scheme_name": "Quality Certification Assistance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/qcas",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Quality Certification Assistance Scheme",
+  "scraped_at": "2026-03-10 06:16:53 UTC",
+  "sections": {
+    "details": [
+      "The Quality Certification Assistance Scheme, launched by the Industries and Commerce Department, Government of Haryana, is designed to help MSMEs in the state meet global quality standards. In today's competitive environment, adopting quality management systems is essential to improving productivity, market reach, and credibility. This scheme supports enterprises by reimbursing a part of the expenditure incurred in acquiring nationally and internationally recognized certifications.",
+      "The scheme is applicable to MSMEs operating anywhere in Haryana that are in commercial production and registered with the District Industries Centre. Eligible units must submit an online application within three months from the date of obtaining the certification."
+    ],
+    "benefits": [
+      "The scheme offers 75% reimbursement of the cost, up to a maximum of ₹1,00,000/- for certifications approved by the Quality Council of India. These include ISO, HACCP, BSI, WHO-GMP, ZED, TS, and Hallmark certifications. The financial assistance is over and above the support already provided by the Government of India."
+    ],
+    "eligibility": [
+      "The unit should not have been placed in the restrictive list as notified by the State government from time to time.",
+      "The unit should have obtained NOC/CLU from competent Authority if applicable.",
+      "The unit should be in commercial production.",
+      "The unit should be in regular production at the time of disbursement and the subsidy shall not be released to the closed unit."
+    ],
+    "application_process": {
+      "online": [
+        "Log in to the Industries & Commerce Department,",
+        "Haryana portal",
+        ".",
+        "Navigate to the District Industries Centre (DIC) section or relevant MSME schemes menu.",
+        "Locate the “Quality Certification Assistance Scheme” form.",
+        "Complete the online form and upload required documents.",
+        "Track and respond to deficiency notices as per the scheme’s timelines:",
+        "Deficiencies identified within 10 working days.",
+        "Refinement window of 6 weeks.",
+        "Final approval within 60 working days."
+      ]
+    },
+    "documents_required": [
+      "Acknowledgement of EM Part-II/UAM registration.",
+      "Certificate of Incorporation/ Partnership deed.",
+      "Board resolution/ Power of attorney.",
+      "ISO/ HACCP/ BSI/ WHO-GMP/ZED/TS/Hallmark Certification.",
+      "Change of Land Use (CLU)/ NOC from competent authority, if applicable.",
+      "Undertaking/Declaration on non-judicial stamp paper(",
+      "Annexure-II",
+      ")",
+      "CA certificate of details of Expenditure incurred (in original) (",
+      "Annexure-III"
+    ],
+    "sources_and_references": [
+      "Guideline",
+      "Application Portal",
+      "Required Documents"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Quality Certification Assistance Scheme?",
+      "answer": "It is a scheme by the Government of Haryana to provide financial assistance to MSMEs for obtaining quality certifications like ISO, HACCP, WHO-GMP, BSI, ZED, TS, and Hallmark."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "All Micro, Small, and Medium Enterprises (MSMEs) located in Haryana, registered under Udyog Aadhaar Memorandum (UAM) or EM Part-II, and engaged in commercial production are eligible."
+    },
+    {
+      "question": "What is the financial benefit provided under this scheme?",
+      "answer": "The scheme provides 75% reimbursement of the total certification cost, subject to a maximum of ₹1,00,000."
+    },
+    {
+      "question": "Which certifications are covered under this scheme?",
+      "answer": "Eligible certifications include ISO, HACCP, BSI, WHO-GMP, ZED, TS, and Hallmark certifications that are approved by the Quality Council of India."
+    },
+    {
+      "question": "What is the time limit for applying after obtaining the certification?",
+      "answer": "Applicants must apply within 3 months from the date of acquiring the certification."
+    },
+    {
+      "question": "Where can I apply for this scheme?",
+      "answer": "You can apply online through the Industries & Commerce Department, Haryana portal ."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Key documents include: Certification copy (ISO/HACCP/etc.) CA Certificate of Expenditure (Annexure-III) Udyog Aadhaar or EM Part-II Declaration/Undertaking (Annexure-II) CLU/NOC if applicable Bills and Receipts for certification cost Certification copy (ISO/HACCP/etc.) CA Certificate of Expenditure (Annexure-III) Udyog Aadhaar or EM Part-II Declaration/Undertaking (Annexure-II) CLU/NOC if applicable Bills and Receipts for certification cost"
+    },
+    {
+      "question": "Who sanctions the subsidy under this scheme?",
+      "answer": "The Additional Director, Industries & Commerce, Haryana is the competent authority for approval and sanctioning of assistance."
+    },
+    {
+      "question": "What if my application is rejected due to document deficiencies?",
+      "answer": "You will be notified online and given 8 weeks to address deficiencies. Claims can be reopened within 30 days of rejection with appropriate justification."
+    },
+    {
+      "question": "What are the consequences of false claims?",
+      "answer": "If an applicant is found to have submitted false information, they must repay the assistance with 12% compound interest, and may face legal action and debarment from future government incentives."
+    }
+  ]
+}

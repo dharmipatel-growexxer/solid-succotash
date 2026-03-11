@@ -1,0 +1,69 @@
+{
+  "scheme_name": "Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan Yojana (PM-KUSUM) - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pm-kusumuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan Yojana (PM-KUSUM) - Uttarakhand",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan Yojana (PM-KUSUM)” is implemented by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to promote clean and affordable irrigation by replacing diesel pump sets with solar-powered pump sets, reducing farmers’ irrigation costs, enhancing energy security, and increasing farmers’ income through sustainable and efficient use of solar energy. The scheme follows a funding pattern of 50% Central share, 30% State share, and 20% farmer share."
+    ],
+    "benefits": [
+      "Under the scheme, farmers receive an 80% subsidy on the cost of a solar pump set from the Government of India and the State Government, while the remaining 20% of the cost is borne by the farmer.",
+      "The scheme allows individual farmers to convert their diesel pump sets into solar pump sets of up to 7.5 HP capacity, which helps reduce expenditure on diesel and lowers production costs, thereby increasing farmers’ income."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary must be a farmer engaged in agricultural activities.",
+      "As per the guidelines of MNRE, Government of India:",
+      "The farmer must agree to contribute 20% of the cost of the solar pump set as the farmer’s share.",
+      "The farmer must have his own borewell.",
+      "The farmer should currently be using a diesel pump set for irrigation.",
+      "A farmer who wishes to install a USPC along with the solar pump set must agree to make 100% payment for the said work."
+    ],
+    "application_process": {
+      "offline": [
+        "The interested farmer must submit the application form along with all relevant documents to the Block/Sub-Division Office of the department in the district. After the survey, if found suitable, the farmer will deposit 20% of the cost as their contribution for the solar pump set in the concerned office.",
+        "After receiving the farmer’s contribution, a work order is issued to the firms empanelled/selected by the department for the installation of the solar pump set. Following the site survey, the solar pump is installed."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the department’s guidelines prescribed for this scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 246)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much subsidy is provided to farmers?",
+      "answer": "Farmers receive an 80% subsidy on the cost of the solar pump set from the Central and State governments."
+    },
+    {
+      "question": "How much does the farmer have to pay?",
+      "answer": "The farmer contributes 20% of the total cost of the solar pump set."
+    },
+    {
+      "question": "What type of pump sets can be converted under this scheme?",
+      "answer": "Diesel pump sets used by individual farmers can be converted into solar pump sets of up to 7.5 HP capacity."
+    },
+    {
+      "question": "Where should farmers submit their applications?",
+      "answer": "Applications must be submitted to the Block/Sub-Division Office of the Department of Minor Irrigation in the district."
+    },
+    {
+      "question": "What happens after the application is submitted?",
+      "answer": "A site survey is conducted to determine suitability for installing a solar pump set."
+    },
+    {
+      "question": "When does the farmer deposit their share of 20%?",
+      "answer": "If the site is found suitable after the survey, the farmer deposits 20% of the pump cost at the concerned office."
+    },
+    {
+      "question": "How is the installation carried out?",
+      "answer": "After the farmer’s contribution is received, the department issues a work order to its listed/selected firms, which then conduct a final site survey and install the solar pump."
+    }
+  ]
+}

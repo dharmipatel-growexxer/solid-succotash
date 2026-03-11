@@ -1,0 +1,128 @@
+{
+  "scheme_name": "Dr. Bhimrao Ambedkar Kamdhenu Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dbaky",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Dr. Bhimrao Ambedkar Kamdhenu Yojana",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The \"Dr. Bhimrao Ambedkar Kamdhenu Yojana\" scheme was launched by the Department of Animal Husbandry, Government of Madhya Pradesh. The scheme aims to provide business opportunities in the dairy sector, especially to unemployed youths, increase milk production, strengthen economic conditions, and enable farmers will get economic benefits even in adverse circumstances."
+    ],
+    "benefits": [
+      "Loan will be disbursed in four stages (Amount in Lakhs)",
+      "Stages of Payment",
+      "Time Period",
+      "Component Description",
+      "Indigenous Breed (₹ in Lakh)",
+      "Crossbred/Hybrid/ Buffalo (₹ in Lakh)",
+      "First installment",
+      "1st Month",
+      "Shed Construction",
+      "11,00,000",
+      "11,40,000",
+      "Second installment",
+      "4th Month",
+      "Animal Purchase + Insurance + Transport",
+      "9,00,000",
+      "Third installment",
+      "10th Month",
+      "8,00,000",
+      "9,80,000",
+      "18th Month",
+      "Total",
+      "36,00,000",
+      "42,00,000",
+      "Financial assistance for the construction of cattle sheds, the purchase of high-yielding milch cattle, cattle insurance, and transportation costs.",
+      "Each unit consists of 25 cattle (either all crossbred cows, indigenous cows, or buffaloes of similar breeds).",
+      "A beneficiary can avail up to 8 units (200 cattle) depending on landholding and repayment record.",
+      "Loan amount ranges from ₹36,00,000 (for indigenous breed units) to ₹42,00,000 (for crossbred cows/buffalo units).",
+      "The scheme ensures insurance coverage for cattle, sheds, and transit risks.",
+      "Tagging of purchased animals is mandatory and registered on the Bharat Pashudhan App.",
+      "Preference is given to farmers already supplying milk to milk unions or located along milk collection routes.",
+      "The disbursement occurs over an 18-month period in stages.",
+      "The beneficiary becomes eligible for another unit after 2 years, provided the earlier loan is regularly repaid."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must be at least 21 years of age.",
+      "The applicant must be a livestock farmer.",
+      "The applicant belongs to all categories: SC, ST, and others are eligible to apply.",
+      "The applicant must possess a minimum of 3.5 acres of agricultural land per unit (25 cattle).",
+      "The applicant can apply for up to 8 units, with land requirement increasing proportionately.",
+      "The applicant’s family’s collective landholding can be considered; in such cases, there will be co-borrowers.",
+      "For scattered landholdings, at least half an acre must be in one location.",
+      "The applicant must hold a training certificate from a reputed institute/organization in dairy management."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of \"Dr. Bhimrao Ambedkar Kamdhenu Yojana\", and click \"Sign-up\".",
+        "Step 2:",
+        "In the online registration form, fill the following mandatory fields: Email ID, Mobile Number. Create a password and confirm. Finally, click \"Submit\" to complete the registration.",
+        "Step 3:",
+        "After successful registration, the User ID and Password will be generated.",
+        "Application",
+        "of \"Dr. Bhimrao Ambedkar Kamdhenu Yojana\", and click \"Sign-In\". Sign in using your Username and Password created during registration.",
+        "Navigate to the online form of the scheme. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Click \"Save Application\". You'll receive a confirmation message upon successful submission of the application, along with an \"application number\". Click \"Print Application\" to print the application."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof",
+      "Residence Proof",
+      "Land Records",
+      "Training Certificate",
+      "Bank Account Details",
+      "Other Necessary Documents, if required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply under the DBAKY?",
+      "answer": "Any resident livestock farmer of Madhya Pradesh aged 21 years or above."
+    },
+    {
+      "question": "What is the minimum land requirement per unit?",
+      "answer": "3.5 acres of agricultural land per unit (25 cattle)."
+    },
+    {
+      "question": "How many animals are there in one unit?",
+      "answer": "One unit comprises 25 milch animals of a single breed type."
+    },
+    {
+      "question": "Can a farmer mix different breeds in one unit?",
+      "answer": "No, all 25 animals in one unit must belong to the same breed category."
+    },
+    {
+      "question": "What is the maximum number of units a farmer can apply for?",
+      "answer": "The maximum is up to 8 units (200 cattle in total)."
+    },
+    {
+      "question": "Is animal insurance mandatory under this scheme?",
+      "answer": "Yes, insurance of cattle, shed, and transit is compulsory."
+    },
+    {
+      "question": "How is the loan disbursed?",
+      "answer": "The loan was disbursed in four stages over 18 months."
+    },
+    {
+      "question": "What are the approved cattle breeds under the scheme?",
+      "answer": "Sahiwal, Gir, Tharparkar, Red Sindhi, Kankrej (indigenous); HF, Jersey (crossbred); Murrah, Bhadawari, Nili-Ravi, Jafarabadi, Surti, Mehsana (buffaloes)."
+    },
+    {
+      "question": "What is the selection method for beneficiaries?",
+      "answer": "Online selection on a first-come, first-served basis."
+    },
+    {
+      "question": "Can animals be purchased locally?",
+      "answer": "No, animals are to be purchased from outside the state or from certified breeding tracts."
+    }
+  ]
+}

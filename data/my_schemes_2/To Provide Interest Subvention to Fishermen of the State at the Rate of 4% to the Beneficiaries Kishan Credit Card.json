@@ -1,0 +1,89 @@
+{
+  "scheme_name": "To Provide Interest Subvention to Fishermen of the State at the Rate of 4% to the Beneficiaries Kishan Credit Card",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/tpfkcc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "To Provide Interest Subvention to Fishermen of the State at the Rate of 4% to the Beneficiaries Kishan Credit Card",
+  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"To Provide Interest Subvention to Fishermen of the State at the Rate of 4% to the Beneficiaries Kishan Credit Card\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide interest subvention to fishermen who avail short-term loans under the Kisan Credit Card scheme. If the loan is repaid on time, the beneficiaries receive a 4% interest relief, which helps reduce their financial burden and support sustainable fisheries-based livelihoods. The benefit can be claimed once per financial year."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Year) for Reclaiming Benefits)",
+      "To provide interest subvention to fishermen of the state at the rate of 4% to the beneficiaries Kishan Credit Card.",
+      "4% interest subvention on timely repayment of short-term loans taken by animal husbandry up to ₹2,00,000/-.",
+      "only once in a financial year"
+    ],
+    "eligibility": [
+      "The applicant must be a fisherman.",
+      "The applicant must have taken a short-term loan from any of the following during the financial year:",
+      "Primary Agricultural Credit Cooperative Society",
+      "District Central Cooperative Bank",
+      "Nationalized Bank",
+      "Gramin Bank",
+      "Private Bank",
+      "The applicant must have repaid the loan on time."
+    ],
+    "application_process": {
+      "offline": [
+        "The bank from which the short term loan has been availed by the fisherman has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar."
+      ]
+    },
+    "documents_required": [
+      "Kisan Credit Card (KCC) details.",
+      "Loan sanction and repayment statement.",
+      "Identity Proof (Aadhaar, Voter ID, etc.).",
+      "Proof of fishing activity.",
+      "Bank account details.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The objective of this scheme is to offer a 4% interest relief on short-term loans taken under the Kisan Credit Card (KCC) scheme by fishermen who repay their loans on time."
+    },
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Only fishermen from Gujarat who have taken a short-term KCC loan and repaid it within the due time are eligible to receive the interest subvention benefit."
+    },
+    {
+      "question": "What is the maximum loan amount eligible under this scheme?",
+      "answer": "Under this scheme, interest subvention is provided on short-term KCC loans of up to ₹2,00,000/-."
+    },
+    {
+      "question": "How often can a fisherman avail this benefit?",
+      "answer": "A fisherman can avail the interest subvention benefit only once in a financial year."
+    },
+    {
+      "question": "Is an individual application required to avail the benefit?",
+      "answer": "No, individual applications are not required. The bank from which the fisherman has taken the loan submits a consolidated interest subvention proposal to the Registrar, Co-operative Societies."
+    },
+    {
+      "question": "Which financial institutions are covered under this scheme?",
+      "answer": "The scheme covers loans taken from Primary Agricultural Credit Cooperative Societies, District Central Cooperative Banks, Nationalized Banks, Gramin Banks, and Private Banks."
+    },
+    {
+      "question": "What documents are required to claim the benefit?",
+      "answer": "Documents such as the KCC loan sanction letter, proof of timely loan repayment, identity proof, address proof, and bank account details are required to process the benefit."
+    },
+    {
+      "question": "Who is responsible for processing the interest subvention?",
+      "answer": "The Registrar, Co-operative Societies, Gujarat State, Gandhinagar, is responsible for processing the interest subvention after receiving proposals from banks."
+    },
+    {
+      "question": "Can a farmer who is not a fisherman avail this scheme?",
+      "answer": "No, this scheme is specifically designed for fishermen and does not apply to farmers engaged in other agricultural activities."
+    },
+    {
+      "question": "Where can one find more details about this scheme?",
+      "answer": "More information about the scheme can be obtained from the bank where the loan was taken or from the office of the Registrar, Co-operative Societies, Gujarat State."
+    }
+  ]
+}

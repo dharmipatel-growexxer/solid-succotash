@@ -1,0 +1,102 @@
+{
+  "scheme_name": "Free Education Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fes",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Free Education Scheme",
+  "scraped_at": "2026-03-10 08:21:17 UTC",
+  "sections": {
+    "details": [
+      "The \"Free Education Scheme\" launched on 7th May, 2012, by the Backward Classes, Most Backward Classes and Minorities Welfare Department, Tamil Nadu, is designed to support Backward Classes (BC), Most Backward Classes (MBC), and De-notified Communities (DNC) students in pursuing higher education without the burden of fees. It covers all special fees, non-refundable compulsory fees, and examination fees for students enrolled in 3-year undergraduate programs (B.A., B.Sc., B.Com.) in Government and Government Aided Arts and Science Colleges."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Special fees and other non-refundable compulsory fees are paid as prescribed by Government and examination fee in full."
+    ],
+    "eligibility": [
+      "The beneficiary should be a student.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should belong to the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC).",
+      "The beneficiary should be studying 3-year undergraduate degree (B.A., B.Sc., B.Com.).",
+      "The beneficiary should be enrolled in a Government or Government Aided Arts and Science College."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should collect the application form from the concerned educational institute.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the institution.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card or any other document as directed by the authority).",
+      "Caste certificate.",
+      "Admission letter or proof of enrollment (Government or Government Aided Arts and Science College).",
+      "Bank account details for fee reimbursement.",
+      "Previous academic records (as required by the college).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines-1",
+      "Guidelines-2"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Free Education Scheme\" scheme?",
+      "answer": "The scheme provides financial support to Backward, Most Backward Classes, and Denotified Communities students pursuing 3-year undergraduate courses (B.A., B.Sc., B.Com.) in Government and Government Aided Arts and Science Colleges."
+    },
+    {
+      "question": "Who is eligible for the Free Education Scheme?",
+      "answer": "Students belonging to the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC) who are enrolled in 3-year undergraduate courses at Government or Government Aided Arts and Science Colleges."
+    },
+    {
+      "question": "What courses are covered under the scheme?",
+      "answer": "The scheme covers 3-year undergraduate degree programs such as B.A., B.Sc., and B.Com."
+    },
+    {
+      "question": "Are there any income restrictions to avail of this scheme?",
+      "answer": "As per the guidelines, there are no income restrictions for this scheme."
+    },
+    {
+      "question": "Does the scheme apply to students studying in private colleges?",
+      "answer": "No, the scheme is only applicable to students enrolled in Government or Government Aided Arts and Science Colleges."
+    },
+    {
+      "question": "What fees are covered by the scheme?",
+      "answer": "The scheme covers special fees, non-refundable compulsory fees, and full examination fees."
+    },
+    {
+      "question": "Is there an age limit to be eligible for this scheme?",
+      "answer": "As per the guidelines, there is no age limit under this scheme."
+    },
+    {
+      "question": "What documents are required for the application process?",
+      "answer": "Students need to submit their community certificate, proof of admission, bank account details, and previous academic records."
+    },
+    {
+      "question": "When was the Free Education Scheme introduced?",
+      "answer": "The scheme was introduced on May 7, 2012."
+    },
+    {
+      "question": "Is the examination fee fully covered?",
+      "answer": "Yes, the full examination fee is covered under this scheme."
+    },
+    {
+      "question": "Are students in professional courses eligible for the scheme?",
+      "answer": "No, the scheme is limited to students pursuing Arts and Science undergraduate courses."
+    },
+    {
+      "question": "Does the scheme cover hostel or accommodation fees?",
+      "answer": "No, hostel or accommodation fees are not covered by the scheme."
+    },
+    {
+      "question": "For how long will students receive benefits under the scheme?",
+      "answer": "Students will receive benefits for the full duration of their 3-year undergraduate degree course."
+    }
+  ]
+}

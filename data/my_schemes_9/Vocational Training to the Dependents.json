@@ -1,0 +1,102 @@
+{
+  "scheme_name": "Vocational Training to the Dependents",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/vtd",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "Vocational Training to the Dependents",
+  "scraped_at": "2026-03-10 09:09:17 UTC",
+  "sections": {
+    "details": [
+      "The \"Vocational Training to the Dependents\" was launched by the A.P. Building & Other Construction Workers Welfare Board provides a residential skill training program for 15,000 dependents of registered construction workers and covers the training cost, boarding, and lodging, with no financial burden on the government. The program focuses on enhancing the employability of dependents through training in various trades. The training is conducted by APMES Society under the Employment & Training Department and includes placement-linked support."
+    ],
+    "benefits": [
+      "Cost of training to each trainee ₹15,000/-.",
+      "Free boarding and lodging for trainees.",
+      "Placement-linked training, ensuring better job prospects."
+    ],
+    "eligibility": [
+      "The applicant should be a dependent (spouse or adolescent child) of a registered construction worker.",
+      "The worker should be registered with the A.P. Building & Other Construction Workers Welfare Board."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should visit (during office hours) the A.P. Building & Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Assistant Labour Officer/Assistant Commissioner of Labour.",
+        "Step-4:",
+        "Request a receipt or acknowledgement from the Assistant Labour Officer/Assistant Commissioner of Labour to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of the Applicant & Worker.",
+      "Registration Certificate with the Welfare Board.",
+      "Bank Account Details.",
+      "Any Other Documents if required."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the training program?",
+      "answer": "Dependents (spouse or adolescent children) of registered construction workers are eligible."
+    },
+    {
+      "question": "Is the training free of cost?",
+      "answer": "Yes, the training, along with boarding and lodging, is provided free of cost."
+    },
+    {
+      "question": "What trades are included in the training?",
+      "answer": "Various vocational and trade skills are covered, depending on the program offered by the Vocational Training Providers (VTPs)."
+    },
+    {
+      "question": "How is the placement linked to the training?",
+      "answer": "The program guarantees 70% placement for trainees upon completing the course."
+    },
+    {
+      "question": "What is the duration of the training?",
+      "answer": "The duration varies based on the trade, with costs calculated at Rs. 30 per hour per candidate."
+    },
+    {
+      "question": "Who conducts the training?",
+      "answer": "Training is conducted by APMES Society in collaboration with registered Vocational Training Providers (VTPs)."
+    },
+    {
+      "question": "What are the boarding and lodging charges?",
+      "answer": "The program provides boarding and lodging at Rs. 300 per candidate per day, covered by the Welfare Board."
+    },
+    {
+      "question": "Is there any cost involved for the construction worker’s family?",
+      "answer": "No, the training, boarding, and lodging are fully funded by the Welfare Board."
+    },
+    {
+      "question": "How can dependents apply for the scheme?",
+      "answer": "Dependents are identified through Vocational Training Providers (VTPs), and batches are assigned based on their verification."
+    },
+    {
+      "question": "What is the verification process for dependents?",
+      "answer": "A Joint Committee at the district level verifies the dependent status before allotting training batches."
+    },
+    {
+      "question": "What is the budget allocated for this program?",
+      "answer": "The total budget allocated for the program is ₹25.67 crores."
+    },
+    {
+      "question": "Is there a tracking mechanism for placement after training?",
+      "answer": "Yes, 20% of the payment to VTPs is withheld until placement tracking is completed within 6 months."
+    },
+    {
+      "question": "What happens if a trainee is not placed after completing the course?",
+      "answer": "The program strives for 70% placement, but VTPs must track and report placements for fund release."
+    },
+    {
+      "question": "How is the training monitored?",
+      "answer": "Training is monitored by a Joint Committee consisting of officials from the Labour Department and Government ITIs to ensure quality and adherence to guidelines."
+    }
+  ]
+}
