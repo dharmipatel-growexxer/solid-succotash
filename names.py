@@ -10,7 +10,7 @@ from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://www.myscheme.gov.in"
 DEFAULT_CATEGORY_URL = (
-    "https://www.myscheme.gov.in/search/category/Agriculture,Rural%20&%20Environment"
+    "https://www.myscheme.gov.in/search/category/Science,%20IT%20&%20Communications"
 )
 
 

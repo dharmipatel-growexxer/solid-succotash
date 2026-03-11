@@ -1,17 +1,120 @@
 {
   "scheme_name": "Scheme of Assistance for Common Environment Infrastructure: Financial Assistance for Common Environmental Infrastructure Facilities",
   "scheme_url": "https://www.myscheme.gov.in/schemes/saceieif",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme of Assistance for Common Environment Infrastructure: Financial Assistance for Common Environmental Infrastructure Facilities",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters.",
+      "The component “Financial Assistance for Common Environmental Infrastructure Facilities” aims to support industries and organizations in establishing and upgrading environmental management infrastructure. It provides financial aid for projects that promote pollution control, waste management, and environmental sustainability."
+    ],
+    "benefits": [
+      "General Projects:",
+      "Up to 40% financial assistance, with a maximum limit of ₹50,00,00,000/-.",
+      "Government Projects:",
+      "Assistance up to 80% for Government Departments, Agencies, PSUs, and Boards, with a ₹50,00,00,000/-.",
+      "Co-Funding with GoI:",
+      "Total assistance from GoI + GoG is limited to 75%, with 25% contribution from the institution."
+    ],
+    "eligibility": [
+      "Industries association / Any Enterprise (except for captive use) or firm which is registered under Societies Act, Trust Act or under the Companies Act.; or GIDC/Board/ Corporations / Special Purpose Vehicle (SPV) / PSU / Municipal Corporation / Nagarpalika / Urban Development Authority etc.",
+      "The project must comply with Ministry of Environment, Forest and Climate Change (MoEF) & Gujarat Pollution Control Board (GPCB)",
+      "regulations",
+      ".",
+      "The project must remain operational for a minimum of 5 years post-completion."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Prepare a Detailed Project Report (DPR).",
+        "Step 2:",
+        "Fill out the",
+        "prescribed application form",
+        ".",
+        "Step 3:",
+        "Submit the application with the required documents to the",
+        "Industries Commissionerate",
+        "Step 4:",
+        "Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress.",
+        "Helpdesk",
+        ":",
+        "Contact Here"
+      ]
+    },
+    "documents_required": [
+      "Copy of legal status of applicant such as memorandum and article of association and company registration certificate or registration under society act or trust act, and list of directors/members with addresses.",
+      "Proof that land for project is in possession, like land allotment letter of GIDC with copies of 7/12 utaara, N.A. permission, approved plan, and construction permission by competent authority.",
+      "Copy of GPCB NOC/CCA for establishing project (if not applicable, then give justification on letterhead).",
+      "Copy of Environment Clearance (if not applicable, then give justification on letterhead).",
+      "Detailed project report covering all details mentioned in application form.",
+      "List of beneficiaries in format as per",
+      "Annexure-A1",
+      "for each beneficiary on letterhead.",
+      "Process diagram of proposed project signed by authorized signatory.",
+      "Financial and technical appraisal of project from Bank/FI/other institution as approved by SLEC.",
+      "Copy of any other financial assistance granted by GoG and/or GoI for the same component or project.",
+      "Copy of sanction/consent letter from Financial Institution, if loan is sanctioned.",
+      "Affidavits for outstanding government dues and any pending court case against Govt.",
+      "Declaration/resolution as per application."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Scheme of Assistance for Common Environment Infrastructure\"?",
+      "answer": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance."
+    },
+    {
+      "question": "What is the objective of the \"Financial Assistance for Common Environmental Infrastructure Facilities\" component?",
+      "answer": "The scheme aims to provide financial support for the establishment and upgradation of environmental infrastructure to promote pollution control, waste management, and sustainable industrial practices."
+    },
+    {
+      "question": "Who can apply for financial assistance under this scheme?",
+      "answer": "Industries, industrial associations, government agencies, public sector undertakings (PSUs), and other eligible institutions involved in environmental management can apply for assistance."
+    },
+    {
+      "question": "What types of projects are eligible for assistance under this scheme?",
+      "answer": "Eligible projects include Common Effluent Treatment Plants (CETPs), waste recycling plants, hazardous waste incinerators, solvent recovery units, environmental monitoring systems, and other approved environmental infrastructure projects."
+    },
+    {
+      "question": "What is the maximum financial assistance available under this scheme?",
+      "answer": "The scheme provides assistance of up to 40% of the eligible fixed capital investment, with a maximum limit of ₹50,00,00,000/-. For government projects, assistance can go up to 80%, subject to approval."
+    },
+    {
+      "question": "Can a project receive financial assistance from both the State Government and the Central Government?",
+      "answer": "Yes, if a project qualifies for assistance under a Central Government scheme, the total assistance (GoI + GoG) is limited to 75%, with the remaining 25% to be borne by the applicant."
+    },
+    {
+      "question": "What kind of expenses are considered eligible for financial assistance?",
+      "answer": "Expenses incurred on fixed capital investment such as land, plant, machinery, technology upgradation, automation, and infrastructure development are eligible for assistance under this scheme."
+    },
+    {
+      "question": "Are there any restrictions on availing assistance under other state government schemes?",
+      "answer": "Yes, projects receiving assistance under this scheme cannot avail incentives from any other state government scheme for the same component unless specified otherwise. However, they can receive incentives under schemes of the Government of India or other institutions."
+    },
+    {
+      "question": "What happens if an applicant fails to comply with environmental regulations?",
+      "answer": "If an institution violates environmental laws or conditions set by the Gujarat Pollution Control Board (GPCB), the government may take over the project, restructure the board, or recover the financial assistance as arrears of land revenue with an 8% interest rate."
+    },
+    {
+      "question": "How long does an approved project need to remain operational?",
+      "answer": "The project must remain operational for a minimum of 5 years after its commencement to ensure sustainable environmental benefits."
+    },
+    {
+      "question": "What are the reporting requirements for an approved project?",
+      "answer": "Institutions must submit quarterly progress reports, data on project operations, and utilization certificates for the assistance disbursed by the government."
+    },
+    {
+      "question": "Is it mandatory for an institution to obtain ISO-14001 certification?",
+      "answer": "Yes, the institution must obtain ISO-14001 certification within two years after project completion and ensure its periodic renewal."
+    },
+    {
+      "question": "How is the financial assistance disbursed?",
+      "answer": "Up to 95% of the sanctioned amount is reimbursed based on eligible expenditure and assets created, while the remaining 5% is disbursed after submission of a project completion certificate and ISO-14001 certification."
+    }
+  ]
 }

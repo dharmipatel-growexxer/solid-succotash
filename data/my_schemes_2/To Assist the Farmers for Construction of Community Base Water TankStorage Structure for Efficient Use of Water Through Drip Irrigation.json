@@ -1,17 +1,125 @@
 {
   "scheme_name": "To Assist the Farmers for Construction of Community Base Water Tank/Storage Structure for Efficient Use of Water Through Drip Irrigation",
   "scheme_url": "https://www.myscheme.gov.in/schemes/afccdwt",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "To Assist the Farmers for Construction of Community Base Water Tank/Storage Structure for Efficient Use of Water Through Drip Irrigation",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"To Assist the Farmers for Construction of Community Base Water Tank/Storage Structure for Efficient Use of Water Through Drip Irrigation\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers in protecting their crops from losses due to irregular rainfall and increasing the state's irrigated area. By constructing water tanks, farmers can optimize water usage, enhance irrigation efficiency, and boost agricultural production."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Water Tank",
+      "50% of the cost or ₹9,80,000/- whichever is less",
+      "Once in a lifetime"
+    ],
+    "eligibility": [
+      "For Individual Farmers:",
+      "The applicant must be a farmer.",
+      "The applicant must belong to the Gujarat state.",
+      "The water tank must be constructed on the applicant’s own farmland.",
+      "The farmer must have adopted the",
+      "Micro Irrigation System (MIS)",
+      ".",
+      "The farmer must cover at least one hectare of land per 75 cubic meters of water tank under MIS.",
+      "For Group of Farmers:",
+      "The group must consist of two or more farmers.",
+      "The group must belong to the Gujarat state.",
+      "The group must select one farmer as the leader, who will submit the application on behalf of the group.",
+      "The water tank must be constructed on the land of one of the farmers in the group.",
+      "Each member of the group must have adopted the",
+      "The group must cover at least one hectare of land per 75 cubic meters of water tank under MIS.",
+      "Note:",
+      "No separate registration is required for the group; they only need to submit a mutual consent certificate.",
+      "The benefit is available only once in a lifetime (For both Individual and Group of Farmers)."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Note:",
+        "Application will be accepted on the principle of first come, first serve bases within the target limits.",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Land ownership documents.",
+      "Bank passbook copy.",
+      "Micro Irrigation System (MIS) adoption proof.",
+      "Certificate of group formation (if applying as a group).",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The objective of the scheme is to provide financial assistance to farmers for constructing water tanks to protect crops from losses due to irregular rainfall. The scheme aims to promote efficient water use through micro-irrigation systems, expand the irrigated area in the state, and increase agricultural productivity."
+    },
+    {
+      "question": "Who is eligible to apply for the this scheme?",
+      "answer": "Any farmer from the state, either individually or as part of a group, is eligible to apply for the scheme."
+    },
+    {
+      "question": "What is the financial assistance provided under this scheme?",
+      "answer": "The scheme provides financial assistance of 50% of the total cost or up to ₹9,80,000/-, whichever is lower."
+    },
+    {
+      "question": "Can a group of farmers apply for the scheme?",
+      "answer": "Yes, a group of two or more farmers can apply together, but the water tank must be constructed on the land of one of the group members."
+    },
+    {
+      "question": "What is the minimum land requirement to be eligible for the scheme?",
+      "answer": "The applicant must cover at least one hectare of land per 75 cubic meters of water tank under the Micro Irrigation System (MIS)."
+    },
+    {
+      "question": "Is it necessary for farmers to adopt the Micro Irrigation System (MIS) to avail the scheme’s benefits?",
+      "answer": "Yes, only farmers who have adopted the Micro Irrigation System (MIS) are eligible for the scheme."
+    },
+    {
+      "question": "How many times can a farmer avail of this scheme’s benefits?",
+      "answer": "The assistance under this scheme is available only once in a lifetime."
+    },
+    {
+      "question": "Is separate registration required for a group of farmers?",
+      "answer": "No, separate registration is not required, but the group must submit a mutual consent certificate."
+    },
+    {
+      "question": "Where can an eligible farmer apply for the scheme?",
+      "answer": "Farmers can apply online through the official website: https://ikhedut.gujarat.gov.in."
+    },
+    {
+      "question": "On what basis are applications accepted under the scheme?",
+      "answer": "Applications are accepted on a first-come, first-serve basis within the target limits."
+    },
+    {
+      "question": "Whom should an applicant contact for further details about the scheme?",
+      "answer": "Farmers can contact their local agriculture department or visit the official website for more information."
+    }
+  ]
 }

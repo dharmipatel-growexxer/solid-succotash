@@ -3,15 +3,65 @@
   "scheme_url": "https://www.myscheme.gov.in/schemes/mfs-nmdfc",
   "location_name": "",
   "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "page_title": "Micro Finance Scheme of NMDFC",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "Under this Scheme of NMDFC, credit is extended to the members of the Self Help Groups (SHGs), predominantly comprising of the minority women scattered in remote villages and urban slums, who are not able to take advantage of the formal banking credit. Under the scheme, an amount of Rs. 1 lacs under credit Line-1 & upto Rs. 1.5 lacs under Credit Line-2 is extended to each member of SHG at interest rate of 7% & 10% respectively. Concession of 2% is extended to women beneficiaries under Credit Line-2."
+    ],
+    "benefits": [
+      "Concessional Credit to the beneficiaries among minority communities."
+    ],
+    "eligibility": [
+      "a) The scheme is implemented through Self Help Groups (SHGs) or Thrift and Credit Groups (TCGs) comprising members of minority communities.",
+      "b) At least 75% of the members of each SHG/TCG must belong to notified minority communities. The remaining up to 25% may belong to weaker sections, including Scheduled Castes, Scheduled Tribes, Other Backward Classes, or Persons with Disabilities.",
+      "In exceptional cases, groups with minimum 60% minority members may also be considered.",
+      "c) The annual family income of each beneficiary must not exceed:",
+      "Rs. 3.00 lakh under Credit Line–1.",
+      "Rs. 8.00 lakh under Credit Line–2.",
+      "d) The SHG should have a satisfactory record of thrift and credit activity for at least six months.",
+      "e) The beneficiaries should not be defaulters under any other loan scheme.",
+      "f) Loans shall be used for income-generating activities such as petty trade, handicrafts, food processing, and service enterprises.",
+      "g) Preference shall be given to women SHGs and groups operating in rural and minority-concentrated areas."
+    ],
+    "application_process": {
+      "offline": [
+        "NMDFC implements its schemes & programs through State Channelizing Agencies (SCA list: www.nmdfc.org/SCA ) nominated by the respective State Governments & Banking Partners (Presently through Canara Bank & Punjab Grameen Bank)."
+      ]
+    },
+    "documents_required": [
+      "Group Resolution authorizing loan availed under NMDFC scheme.",
+      "List of Group Members with minority status and Aadhaar numbers.",
+      "Photographs of all members.",
+      "Minority Certificate/Self-declaration for each minority member.",
+      "Income Certificate for each member issued by competent authority.",
+      "Proof of Residence: Aadhaar card, voter ID, or ration card.",
+      "Bank Account Proof: SHG group account (Aadhaar linked) and individual passbooks.",
+      "Record of thrift and credit activity (for at least six months).",
+      "Meeting Register, Savings Ledger, and Loan Ledger maintained by SHG.",
+      "Business Activity Plan or list of proposed income-generating activities.",
+      "Affidavit/Self-declaration that no other microfinance assistance is being received."
+    ],
+    "sources_and_references": [
+      "NMDFC Lending Policy"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can benefit from the Micro-Finance Scheme?",
+      "answer": "The scheme benefits members of Self Help Groups (SHGs), primarily minority women, who are engaged in small trade or income-generating activities and have limited access to formal banking systems."
+    },
+    {
+      "question": "How much loan can a member or group avail under this scheme?",
+      "answer": "Under Credit Line–1, each member can avail up to Rs. 1.00 lakh, and up to Rs. 20.00 lakh per SHG group (20 members). Under Credit Line–2, each member can avail up to Rs. 1.50 lakh, and up to Rs. 30.00 lakh per group (20 members)."
+    },
+    {
+      "question": "What are the interest rates and repayment period under this scheme?",
+      "answer": "Under Credit Line–1, the rate is 7% per annum. Under Credit Line–2, the rate is 10% for male beneficiaries and 8% for female beneficiaries. The repayment period is three years, with a moratorium of three months."
+    },
+    {
+      "question": "What are the eligibility conditions for SHGs under the scheme?",
+      "answer": "At least 75% of SHG members must belong to minority communities. The remaining 25% may belong to other weaker sections (SC/ST/OBC/Persons with Disabilities). SHGs must have maintained savings and credit activities for at least six months before availing the loan."
+    }
+  ]
 }

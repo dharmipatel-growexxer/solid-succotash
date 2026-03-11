@@ -1,17 +1,93 @@
 {
   "scheme_name": "Assistance for Power Driven Chaff Cutter scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/afpdccs",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Assistance for Power Driven Chaff Cutter scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Assistance for Power Driven Chaff Cutter Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to reduce fodder wastage (25-30%) in dairy farming. By using a power-driven chaff cutter, farmers can efficiently chop green and dry fodder, ensuring better utilization and increased profitability."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Minimum Time Limit(In Year) for Reclaiming Benefits",
+      "Assistance for Power Driven Chaff Cutter scheme under General People, Schedule Caste People and Schedule Tribe People.",
+      "Assistance up to 75% of the purchase cost or ₹18,000/- whichever is less is given to beneficiary.",
+      "5 Year"
+    ],
+    "eligibility": [
+      "The scheme is applicable to General, Scheduled Caste (SC), and Scheduled Tribe (ST) individuals.",
+      "The applicant must be engaged in dairy farming."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Bank Passbook copy or cancelled cheque.",
+      "Ration card (Having Bar code).",
+      "Aadhaar card copy.",
+      "Caste Certificate (Schedule Caste and Schedule Tribe applicants)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Assistance for Power Driven Chaff Cutter Scheme\"?",
+      "answer": "The Assistance for Power Driven Chaff Cutter Scheme aims to reduce fodder wastage (25-30%) in dairy farming. By using a power-driven chaff cutter, farmers can efficiently chop green and dry fodder, ensuring better utilization and increased profitability."
+    },
+    {
+      "question": "Who is eligible to apply for the \"Assistance for Power Driven Chaff Cutter Scheme\"?",
+      "answer": "The scheme is available to dairy farmers belonging to the General, Scheduled Caste (SC), and Scheduled Tribe (ST) categories who are residents of Gujarat."
+    },
+    {
+      "question": "What type of financial assistance is provided under this scheme?",
+      "answer": "Beneficiaries can receive up to 75% of the purchase cost or ₹18,000, whichever is lower, as financial assistance for purchasing a power-driven chaff cutter."
+    },
+    {
+      "question": "Can an applicant reapply if they have already availed of this scheme in the past?",
+      "answer": "No, an applicant who has already availed of this scheme within the last 5 years is not eligible to reapply."
+    },
+    {
+      "question": "Does the beneficiary need to repay the subsidy amount?",
+      "answer": "No, the financial assistance provided under this scheme is a subsidy, not a loan, and does not need to be repaid."
+    },
+    {
+      "question": "Is a caste certificate mandatory for all applicants?",
+      "answer": "No, a caste certificate is required only for applicants from the Scheduled Caste (SC) and Scheduled Tribe (ST) categories. General category applicants do not need to submit a caste certificate."
+    },
+    {
+      "question": "Where can an applicant apply for this scheme?",
+      "answer": "Applications must be submitted online through the iKhedut portal."
+    },
+    {
+      "question": "Where can an applicant find more details or assistance regarding the scheme?",
+      "answer": "Additional details can be found on the iKhedut portal or by contacting the local agriculture department."
+    }
+  ]
 }

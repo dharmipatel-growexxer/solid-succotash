@@ -1,17 +1,122 @@
 {
   "scheme_name": "Swayam Saksham Yojana (GBCDC)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sssgbcdc",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Swayam Saksham Yojana (GBCDC)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Swayam Saksham Yojana\" is implemented by the Gujarat Backward Classes Development Corporation (GBCDC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to inculcate the spirit of self-reliance among socially and educationally backward class youth who have received vocational or professional training. Under this scheme, low-interest loans are provided to educated unemployed youth for setting up self-employment ventures like clinics, law offices, engineering units, and more. The initiative focuses on empowering beneficiaries to start independent businesses with financial assistance, promoting economic inclusion and entrepreneurship."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "Up to ₹5,00,000/- per applicant.",
+      "Interest Rate:",
+      "6% per annum.",
+      "Loan Share:",
+      "Under the scheme, the loan will be distributed in a unit cost ratio where-",
+      "85% will be covered by a national corporation",
+      "10% by State Government",
+      "5% contribution by the beneficiary",
+      "Repayment Terms:",
+      "This loan will have to be repaid in 60 equal monthly installments including interest."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to the Socially and Educationally Backward Classes (SEBC).",
+      "The applicant should be between 18 and 35 years of age on the date of application.",
+      "The applicant should be unemployed but professionally educated (e.g., doctor, engineer, lawyer, CA, etc.).",
+      "The total annual family income of the applicant should not exceed ₹3,00,000/-.",
+      "The applicant should have completed a professional course (degree or diploma).",
+      "The applicant should intend to start a professional business such as clinics, nursing homes, physiotherapy clinics, biomedical labs, legal offices, medical stores, architect offices, engineering units, C.A. offices, etc."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Gujarat Backwards Caste Development Corporation.",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Online\".",
+        "Step 3:",
+        "If you’re a new user, click on \"New Registration\" Enter personal details (name, mobile number, email, aadhaar number, etc.), create a password, and complete OTP verification.",
+        "Step 4:",
+        "Use your registered credentials (User ID and password) to log in.",
+        "Step 5:",
+        "Click on “New Application”. Select “Swayam Saksham Yojana” from the list of available schemes.",
+        "Step 6:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 7:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 8:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 9:",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhar Card",
+      "Bank Passbook/Cancelled Cheque",
+      "Business Address Proof",
+      "Certificate of Professional Course",
+      "Income Certificate",
+      "Passport Size Photos",
+      "Quotations",
+      "True Copy of Election Card",
+      "Age Proof/Birth Certificate",
+      "Caste Certificate",
+      "Graduate Mark sheet/Mark sheet",
+      "Post Graduate Mark sheet",
+      "School Leaving certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Application Portal"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Youth from Socially and Educationally Backward Classes (SEBC) with professional education and annual family income under ₹3,00,000."
+    },
+    {
+      "question": "What is the age limit for applicants?",
+      "answer": "18 to 35 years on the date of application."
+    },
+    {
+      "question": "What professions are eligible for the scheme?",
+      "answer": "Doctors, engineers, lawyers, architects, physiotherapists, CAs, etc."
+    },
+    {
+      "question": "What kind of business can be started using this loan?",
+      "answer": "Clinics, labs, medicine shops, architect/law/CA offices, and similar professional units."
+    },
+    {
+      "question": "Can existing businesses apply for loan expansion?",
+      "answer": "No. The scheme is intended for first-time business setups."
+    },
+    {
+      "question": "Can an applicant from another state apply?",
+      "answer": "No. The scheme is applicable within Gujarat only."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "The applicant visits the Gujarat Backward Caste Development Corporation portal."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "Aadhaar Card, Caste Certificate, Income Certificate, Educational Certificates, etc."
+    },
+    {
+      "question": "Is there any subsidy or contribution from the government?",
+      "answer": "Yes. 85% loan from National Corporation, 10% by State Government, and 5% by the applicant."
+    }
+  ]
 }

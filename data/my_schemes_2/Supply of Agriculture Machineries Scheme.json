@@ -1,17 +1,85 @@
 {
   "scheme_name": "Supply of Agriculture Machineries Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sams",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Supply of Agriculture Machineries Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Supply of Agriculture Machineries Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya for the distribution and sale of Agriculture Machineries such as Power Tillers, etc. to farmers at a subsidized rate."
+    ],
+    "benefits": [
+      "Pattern of Assistance:",
+      "Subsidy on Power tillers, Reapers, Harvesters, etc.",
+      "Type of Assistance and Entitlement (If Any):",
+      "50% subsidy sale."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Meghalaya.",
+      "The applicant should be a bonafide farmer engaged in agriculture."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 01:",
+        "The eligible bonafide farmer can apply/write an application on plain paper.",
+        "Step 02:",
+        "Along with the application, attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 03:",
+        "Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle.",
+        "Mode of Selection of Beneficiary(s):",
+        "The bonafide farmers shall be selected on a first come first serve basis.",
+        "Whom to Contact:",
+        "District Agriculture Officers of the concerned districts",
+        "Sub-divisional Officers of the concerned sub-divisions",
+        "Agriculture Development Officers of the concerned Community and Rural Development Blocks",
+        "Assistant Agriculture Engineer (Mechanical) of the concerned districts"
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph",
+      "Identity Proof",
+      "Bank passbook/account details",
+      "Documents proof of being a farmer",
+      "Any other document as required"
+    ],
+    "sources_and_references": [
+      "Official Website"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The objective of the scheme is to distribute and sale of Agricultural machinery such as Power Tillers, etc. to farmers at a subsidized rate."
+    },
+    {
+      "question": "Which department has launched this scheme?",
+      "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya"
+    },
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "The bonafide farmers of Meghalaya engaged in agriculture are eligible to apply under the scheme."
+    },
+    {
+      "question": "What is the pattern of assistance?",
+      "answer": "Subsidy on Power tillers, Reapers, Harvesters etc."
+    },
+    {
+      "question": "What is the type of assistance/service?",
+      "answer": "50% subsidy sale."
+    },
+    {
+      "question": "How to apply for the scheme?",
+      "answer": "The bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/ Agriculture Circle."
+    },
+    {
+      "question": "What is the beneficiaries’ selection procedure?",
+      "answer": "The bonafide farmers shall be selected on a first come first served basis."
+    },
+    {
+      "question": "Whom to contact?",
+      "answer": "1. District Agriculture Officers of the concerned districts. 2. Sub-divisional Officers of the concerned sub-divisions. 3. Agriculture Development Officers of the concerned Community and Rural Development Blocks. 4. Assistant Agriculture Engineer (Mechanical) of the concerned districts."
+    }
+  ]
 }

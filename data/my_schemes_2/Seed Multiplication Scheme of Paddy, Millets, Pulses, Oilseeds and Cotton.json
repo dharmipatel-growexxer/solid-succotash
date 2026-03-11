@@ -1,17 +1,100 @@
 {
   "scheme_name": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
   "scheme_url": "https://www.myscheme.gov.in/schemes/smsopm",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds, and Cotton” by the Agriculture-Farmers Welfare Department, Tamil Nadu, offers subsidies to farmers to produce seeds under contract with the Department of Agriculture. Farmers receive training, source seeds, and guidelines for maintaining seed quality. After quality checks and processing, farmers are paid based on the quality of seeds produced. A 90% Minimum Support Price payment is made during processing, with the remainder settled after quality certification."
+    ],
+    "benefits": [
+      "Premium:",
+      "On seeds ranges from ₹1/- to ₹3/- per kg.",
+      "Foundation Class Seeds:",
+      "The premium is between 7.5% to 30% over the Local Market Rate per kg, depending on the type of oil seed.",
+      "For Certified Class Seeds:",
+      "The premium is between 5% to 20% over the Local Market Rate per kg, based on the specific oil seed.",
+      "Training:",
+      "The farmer so desirous of enrolling himself/herself will be given a training by the authorities concerned at the beginning of each year"
+    ],
+    "eligibility": [
+      "The beneficiary should be a Farmer.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should produce and supply seeds for the Department of Agriculture on a contract basis.",
+      "The seed Farms should be registered by the Seed Producer viz., the Assistant Director of Agriculture of the respective Blocks.",
+      "Field Run Produce has to satisfy the standards of physical/genetic purity, moisture levels and germination percentage as prescribed in the Certification standards."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Collect the application form from the nearest Agricultural Office.",
+        "Step 2:",
+        "Fill out the application form with the required details and attach mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the form to the concerned office:",
+        "Village Level:",
+        "Submit the application to the Assistant Agricultural Officer.",
+        "Block Level:",
+        "Submit to the Agricultural Officer or Deputy Agricultural Officer.",
+        "District Level:",
+        "Submit to the Joint Director of Agriculture."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card, Voter ID).",
+      "Land ownership documents or lease agreement.",
+      "Proof of Seed production and supply to the Department of Agriculture on Contract basis.",
+      "Seed Farm Registration Details.",
+      "Certification Tag issued by the Department of Seed Certification.",
+      "Caste Certificate (for SC/ST applicants).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the “Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton” Scheme?",
+      "answer": "The “Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds, and Cotton” offers subsidies to farmers to produce seeds under contract with the Department of Agriculture."
+    },
+    {
+      "question": "Who is eligible to enroll and register their seed farms under this program?",
+      "answer": "All farmers who produce and supply seeds to the Department of Agriculture on a contract basis are eligible. Preference is given to farm women groups, farmers Interest Groups, and separate allocation is provided to SC/ST seed growers."
+    },
+    {
+      "question": "What is the process for enrolling in this seed farm program?",
+      "answer": "Interested farmers must enroll themselves at the beginning of each year. They will receive training from the authorities concerned."
+    },
+    {
+      "question": "How can farmers obtain the source seed required for their farms?",
+      "answer": "The Department of Agriculture will supply the source seed through Agricultural Extension Centres upon payment of the seed cost as per the fixed sale price."
+    },
+    {
+      "question": "What should farmers do to ensure the quality of their seeds?",
+      "answer": "Farmers must follow the guidelines provided by field-level functionaries or Seed Certification officers to maintain quality."
+    },
+    {
+      "question": "How are seed farms registered?",
+      "answer": "Seed farms should be registered by the Assistant Director of Agriculture of the respective blocks upon payment of the requisite fees."
+    },
+    {
+      "question": "What is the “Field Run Produce” and how is it assessed?",
+      "answer": "“Field Run Produce” is the seed produce that meets the field standards during the crop period. It must satisfy standards of physical/genetic purity, moisture levels, and germination percentage as prescribed in the certification standards."
+    },
+    {
+      "question": "What happens after the seed is moved to the Seed Processing Unit?",
+      "answer": "The seed is processed in the presence of the Seed Certification Officer. Samples are drawn and sent to a Seed Testing Lab for quality testing."
+    },
+    {
+      "question": "What if the seed lot fails to meet the certification standards?",
+      "answer": "If the seed lot fails, the farmer must repay the entire advance paid to them before getting back their stock."
+    },
+    {
+      "question": "Who bears the transport cost for moving the seed to the Seed Processing Unit?",
+      "answer": "The farmer is responsible for the transport cost to the Seed Processing Unit."
+    }
+  ]
 }

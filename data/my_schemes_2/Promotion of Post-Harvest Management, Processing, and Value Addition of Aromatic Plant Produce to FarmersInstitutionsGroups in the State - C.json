@@ -1,17 +1,83 @@
 {
   "scheme_name": "Promotion of Post-Harvest Management, Processing, and Value Addition of Aromatic Plant Produce to Farmers/Institutions/Groups in the State - Centre for Aromatic Plants",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ppmpvaappfigs",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Promotion of Post-Harvest Management, Processing, and Value Addition of Aromatic Plant Produce to Farmers/Institutions/Groups in the State - Centre for Aromatic Plants",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Promotion of Post-Harvest Management, Processing, and Value Addition of Aromatic Plant Produce to Farmers/Institutions/Groups in the State” scheme is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. The scheme aims to encourage and support farmers, institutions, and groups engaged in aromatic plant cultivation to establish post-harvest management and processing facilities."
+    ],
+    "benefits": [
+      "Under this scheme, the following support is provided:",
+      "A grant of up to ₹10 lakh is available for setting up necessary machinery, equipment, distillation units, etc., for drying, storage, and processing of aromatic plants. The grant is provided through Direct Benefit Transfer (DBT) at the rate of 75% in hilly areas and 50% in plain areas.",
+      "Establishment of distillation (processing) facilities to serve other farmers within the cluster.",
+      "Development of entrepreneurship among farmers."
+    ],
+    "eligibility": [
+      "The beneficiary must be a farmer, organization, or group belonging to Uttarakhand.",
+      "The farmer, organization, or group must be registered with the Centre for Aromatic Plants (CAP), Selaqui, Dehradun.",
+      "The cluster must have plants, machinery, and equipment as per the capacity and requirements of the aromatic cultivated area."
+    ],
+    "application_process": {
+      "offline": [
+        "For post-harvest processing, farmers first obtain an application form for setting up a distillation (processing) plant from the",
+        "CAP website",
+        "or field personnel. The application form must be accompanied by a photograph, land records/lease certificates, a CAP registration certificate, and a description of the distillation plant.",
+        "The farmer, organization, or group will submit the application form in the prescribed format to the Director of the Centre for Aromatic Plants or provide it to a field worker. The District Coordinator then conducts a site inspection and provides a recommendation. Following the inspection, the Director of CAP grants written permission to the farmer to establish a distillation plant. The farmer will then establish their distillation plant at their own expense, as per the details attached to the CAP permission letter.",
+        "The prescribed application form for disbursing the subsidy after the plant is established can be obtained from the CAP website or from field workers. The application form, along with the bill, a photo of the farmer, a photo of the distillation plant, land documents, and bank account details, will be submitted to the Director of CAP, along with the recommendation of the Master Trainer/Technical Assistant.",
+        "An evaluation committee constituted at the Director level then conducts a site inspection. Following the committee's report and the District Coordinator's recommendation, the Director of CAP disburses the lump-sum subsidy to the farmer's account."
+      ]
+    },
+    "documents_required": [
+      "Photograph of the farmer/applicant",
+      "Land records documents or lease certificates",
+      "CAP registration certificate",
+      "Description/details of the distillation (processing) plant",
+      "Bill/invoice of machinery or equipment",
+      "Photograph of the distillation plant",
+      "Land documents (for verification)",
+      "Bank account details of the applicant",
+      "Recommendation from the Master Trainer/Technical Assistant",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 232)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply under this scheme?",
+      "answer": "Farmers, registered organizations, and groups engaged in aromatic plant cultivation in Uttarakhand are eligible to apply."
+    },
+    {
+      "question": "Is registration with CAP mandatory for applicants?",
+      "answer": "Yes. The farmer, organization, or group must be registered with the Centre for Aromatic Plants (CAP), Selaqui, Dehradun."
+    },
+    {
+      "question": "What kind of financial assistance is provided under the scheme?",
+      "answer": "A grant of up to ₹10 lakh is provided for setting up machinery, equipment, and distillation units for drying, storage, and processing of aromatic plants."
+    },
+    {
+      "question": "What is the subsidy rate under this scheme?",
+      "answer": "A subsidy of 75% of the expenditure is provided in hilly areas, and 50% in plain areas, through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "What types of facilities are supported?",
+      "answer": "Facilities for drying, storage, distillation, and processing of aromatic plants are supported under this scheme."
+    },
+    {
+      "question": "How can a farmer apply for setting up a distillation plant?",
+      "answer": "Farmers can obtain the application form from the CAP website or through field personnel and submit it to the Director of CAP or via a field worker in the prescribed format."
+    },
+    {
+      "question": "What is the process after application submission?",
+      "answer": "After submission, the District Coordinator conducts a site inspection and provides a recommendation. Based on this, the Director of CAP issues written permission to establish the distillation plant."
+    },
+    {
+      "question": "When can the applicant apply for the subsidy disbursement?",
+      "answer": "After establishing the distillation plant as per CAP’s permission, the applicant can apply for subsidy disbursement using the prescribed form available on the CAP website or through field workers."
+    }
+  ]
 }

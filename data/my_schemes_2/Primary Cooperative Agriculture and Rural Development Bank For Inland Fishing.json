@@ -1,17 +1,89 @@
 {
   "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Inland Fishing",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pcardbif",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Primary Cooperative Agriculture and Rural Development Bank: For Inland Fishing",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Primary Cooperative Agriculture and Rural Development Bank: For Inland Fishing\" scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to support farmers interested in inland fishing by providing financial assistance up to ₹3,30,000/- per hectare. The loan has an interest rate of 11% - 12%, which is subject to change. This financial aid aims to empower farmers to establish or expand inland fishing operations and increase their income."
+    ],
+    "benefits": [
+      "Access to Loan:",
+      "₹3,30,000/- per hectare.",
+      "Interest Rate:",
+      "11% to 12% (subject to change)."
+    ],
+    "eligibility": [
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should be a farmer.",
+      "The beneficiary should be engaged in inland fishing.",
+      "The beneficiary should be interested in availing the loan for Inland Fishing.",
+      "The beneficiary should have the intention to use the loan specifically for Inland Fishing activities."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should collect the application form by visiting the Primary Cooperative Agriculture and Rural Development Bank.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof (Aadhaar, PAN card, etc.).",
+      "Address proof.",
+      "Proof of land ownership or lease documents for the land used in inland fishing.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme offers loans to farmers for inland fishing projects, with a loan amount of up to ₹3,30,000 per hectare at an interest rate between 11% and 12%."
+    },
+    {
+      "question": "What is the maximum loan amount available under this scheme?",
+      "answer": "The scheme provides a loan of up to ₹3,30,000/- per hectare."
+    },
+    {
+      "question": "What is the interest rate for the loan under this scheme?",
+      "answer": "The interest rate ranges from 11% to 12%, subject to change."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Eligible applicants are farmers who are residents of Tamil Nadu and engaged in inland fishing."
+    },
+    {
+      "question": "Is there an age requirement for this scheme?",
+      "answer": "There is no specified age requirement for this loan scheme."
+    },
+    {
+      "question": "Are there any income criteria for eligibility?",
+      "answer": "No income criteria are specified for this scheme."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "Required documents include identity proof, address proof, proof of land ownership etc. to apply for this scheme."
+    },
+    {
+      "question": "Where can an eligible farmer apply for the loan?",
+      "answer": "Eligible farmers can apply at the Primary Cooperative Agriculture and Rural Development Bank."
+    },
+    {
+      "question": "Can the loan be used for purposes other than inland fishing?",
+      "answer": "No, the loan must be used exclusively for inland fishing activities."
+    },
+    {
+      "question": "Does the scheme offer any subsidies or preferential rates for specific groups?",
+      "answer": "The scheme does not specify any subsidies; the interest rates apply uniformly to all eligible farmers."
+    }
+  ]
 }

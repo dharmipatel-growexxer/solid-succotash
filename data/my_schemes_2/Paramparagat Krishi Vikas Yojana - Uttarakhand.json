@@ -1,17 +1,73 @@
 {
   "scheme_name": "Paramparagat Krishi Vikas Yojana - Uttarakhand",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pkvyuk",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Paramparagat Krishi Vikas Yojana - Uttarakhand",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Paramparagat Krishi Vikas Yojana” is implemented by the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote organic farming among Uttarakhand farmers by providing financial support for purchasing organic inputs."
+    ],
+    "benefits": [
+      "This scheme promotes organic farming by providing farmers with an incentive of ₹9,000/- per hectare for purchasing organic inputs such as seeds, compost, green manure, biofertilizers, biopesticides, neem oil, PROM, Burmese compost, waste decomposers, and other materials required for organic farming."
+    ],
+    "eligibility": [
+      "The applicant must be a native of Uttarakhand.",
+      "The applicant must be a farmer.",
+      "The farmer must own agricultural land within the state.",
+      "The farmer’s name must be recorded in the land revenue records."
+    ],
+    "application_process": {
+      "online": [
+        "To avail the benefits of this scheme, farmers are selected through open meetings of the Gram Sabhas in the presence of departmental officers and Hon’ble public representatives.",
+        "The farmer can submit a proposal during the Gram Panchayat meeting, and if the proposal is approved, the public representative informs the department. After departmental scrutiny and once the farmer purchases organic inputs such as fertilizers and seeds from the Krishi Nivesh Kendras, the financial assistance is provided.",
+        "To receive the benefit, farmers must submit a permanent/original residence certificate, identity card, Aadhaar card, mobile number, ration card, birth certificate, Khasra/Khatauni of agricultural land, and a passport-size photograph along with the proposal."
+      ]
+    },
+    "documents_required": [
+      "Permanent/original residence certificate",
+      "Identity card",
+      "Aadhaar card",
+      "Mobile number",
+      "Ration card",
+      "Birth certificate",
+      "Khasra/Khatauni of agricultural land",
+      "Passport-size photograph",
+      "All documents to be submitted along with the proposal."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 203)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "All native farmers of Uttarakhand who own agricultural land and whose names are listed in the land revenue records are eligible to apply."
+    },
+    {
+      "question": "What is the financial assistance provided under this scheme?",
+      "answer": "Farmers receive an incentive of ₹9,000 per hectare for purchasing organic inputs such as seeds, compost, green manure, biofertilizers, biopesticides, neem oil, PROM, Burmese compost, and waste decomposers."
+    },
+    {
+      "question": "How are farmers selected for this scheme?",
+      "answer": "Farmers are selected through open meetings of the Gram Sabhas in the presence of departmental officers and Hon’ble public representatives."
+    },
+    {
+      "question": "How can a farmer submit a proposal for this scheme?",
+      "answer": "The farmer can submit a proposal during the Gram Panchayat meeting. Once approved, the public representative informs the Department of Agriculture for further processing."
+    },
+    {
+      "question": "Where should farmers purchase organic inputs from?",
+      "answer": "Farmers should purchase organic inputs from the authorized Krishi Nivesh Kendras."
+    },
+    {
+      "question": "Can farmers apply online?",
+      "answer": "Yes, farmers can apply online at https://pgsindia-ncof.gov.in . All mandatory documents must be uploaded during online application."
+    },
+    {
+      "question": "When is the subsidy paid to the farmers?",
+      "answer": "After the farmer makes the required investment in organic inputs and the documents are verified, the subsidy amount is directly credited to the farmer’s bank account."
+    }
+  ]
 }

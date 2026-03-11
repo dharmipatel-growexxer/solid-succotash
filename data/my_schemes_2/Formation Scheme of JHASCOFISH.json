@@ -1,17 +1,99 @@
 {
   "scheme_name": "Formation Scheme of JHASCOFISH",
   "scheme_url": "https://www.myscheme.gov.in/schemes/fsjhascofish",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Formation Scheme of JHASCOFISH",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Formation Scheme of JHASCOFISH” by the Department of Animal Husbandry and Fisheries, Government of Jharkhand, aims to support fishermen cooperatives and enhance fish production in the state. Under this scheme, financial aid, technical support, and welfare measures are provided to fishermen cooperatives to strengthen their operations and improve their socio-economic status."
+    ],
+    "benefits": [
+      "Financial Aid:",
+      "₹48,00,000/- allocated as grants to assist cooperative societies.",
+      "Administrative Support:",
+      "Funds for machinery, equipment, seminars, publicity, and office expenses.",
+      "Infrastructure Development:",
+      "₹5,00,000/- for maintenance and renovation of facilities.",
+      "Marketing Support:",
+      "Assists in providing fair prices for fish and improving marketing strategies.",
+      "Fishermen Welfare:",
+      "Welfare programs designed to enhance the socio-economic status of fishermen.",
+      "New Vehicle Purchase:",
+      "₹6,00,000/- for purchasing new vehicles for operational use."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Jharkhand.",
+      "The applicant should be a member of a registered fishermen cooperative society.",
+      "The cooperative society must be affiliated with JHASCOFISH.",
+      "The society should actively participate in fish production or related activities.",
+      "Societies with pending legal cases or misuse of prior funds are not eligible."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the JHASCOFISH office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the JHASCOFISH office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the JHASCOFISH office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Proof of Registration of Cooperative Society",
+      "Membership List of the Cooperative Society",
+      "Recent Audit Reports of the Society",
+      "Bank Account Details of the Cooperative Society",
+      "Identity Proof of the Applicant",
+      "Project Proposal Document (if applicable)"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main objective of the JHASCOFISH scheme?",
+      "answer": "The scheme aims to support fishermen cooperatives in Jharkhand by providing financial aid, technical support, and welfare measures to enhance fish production and improve socio-economic conditions."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Only registered fishermen cooperative societies affiliated with JHASCOFISH and operating in Jharkhand can apply."
+    },
+    {
+      "question": "Are individual fishermen eligible for benefits under this scheme?",
+      "answer": "No, only registered fishermen cooperative societies can apply for assistance under the scheme."
+    },
+    {
+      "question": "What is the total budget allocated for this scheme?",
+      "answer": "The total budget allocated for the financial year 2012-13 is ₹80 lakh."
+    },
+    {
+      "question": "How much financial assistance is provided as grants?",
+      "answer": "₹48,00,000/- is allocated for grants to fishermen cooperative societies."
+    },
+    {
+      "question": "What kind of support is provided for infrastructure development?",
+      "answer": "Funds are allocated for maintenance, renovation, and purchase of necessary equipment to enhance the cooperative’s operations."
+    },
+    {
+      "question": "Can the funds be used for purposes other than those specified?",
+      "answer": "No, funds must be utilized strictly for the approved purposes. Any deviation may result in penalties."
+    },
+    {
+      "question": "How are the applications reviewed?",
+      "answer": "Applications are reviewed by the Board of Directors of JHASCOFISH, and approval is granted based on eligibility and compliance."
+    },
+    {
+      "question": "What is the mode of fund disbursement?",
+      "answer": "Funds are directly transferred to the bank account of the cooperative society."
+    },
+    {
+      "question": "Is there a deadline for submitting applications?",
+      "answer": "Applications must be submitted within the financial year to avail the benefits."
+    }
+  ]
 }

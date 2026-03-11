@@ -1,17 +1,117 @@
 {
   "scheme_name": "Scheme for the Welfare of Schedule Caste Families in Fisheries Sector: Subsidy on 2nd Year to 5th Year Lease Money",
   "scheme_url": "https://www.myscheme.gov.in/schemes/so2yt5ylm",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Scheme for the Welfare of Schedule Caste Families in Fisheries Sector: Subsidy on 2nd Year to 5th Year Lease Money",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Subsidy on 2nd Year to 5th Year Lease Money” is a scheme component under the Scheme for the Welfare of Scheduled Caste Families in the Fisheries Sector, launched by the Fisheries Department, Government of Haryana. The objective of the scheme is to provide full-time employment to individuals from Scheduled Caste families in the fisheries sector and uplift their economic status by promoting fish farming through financial assistance for leasing Panchayati ponds or watershed areas. Under this scheme, a subsidy is provided to Scheduled Caste beneficiaries to partially cover the lease amount for Panchayati ponds or watershed areas from the second year to the fifth year, thereby reducing long-term operational costs and facilitating the continuation of pond lease arrangements."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "40% of the actual lease amount OR ₹40,000/- per hectare, whichever is less.",
+      "The subsidy is applicable for a maximum of 4 hectares per beneficiary.",
+      "Note:",
+      "Subsidy will be provided on lease money from 2nd to 5th year of lease."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should have a valid Family ID Card (Parivar Pehchan Patra).",
+      "The applicant should belong to a Scheduled Caste category.",
+      "The applicant's age should be 18 years or above.",
+      "Subsidy will be provided on lease money from 2nd to 5th year of lease.",
+      "The maximum area eligible for subsidy is 4 hectares per applicant.",
+      "The subsidy is applicable only on Panchayati ponds and government water sheds."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Fees For Service:",
+        "Government Charges: ₹0 (No Fee)",
+        "Service Charges: ₹10",
+        "Atal Seva Kendra Charges: ₹10"
+      ]
+    },
+    "documents_required": [
+      "Agreement 1 - Agreement deed between fish farmer and Fisheries Department",
+      "Agreement 2 - Agreement deed between fish farmer and panchayat for fish culture",
+      "Date of Birth Certificate - Birth Certificate/Matriculation Certificate/PAN Card/Voter Card/Driving License",
+      "Identity Proof – Ration Card/Aadhar Card/PAN Card/Voter Card",
+      "Caste Certificate - Caste Certificate issued by 1st Class Magistrate",
+      "Training Certificate – Fisheries Training from any Govt. Institute",
+      "Lease deed - (Panchayat Resolution and receipt no.4 of Panchayat).",
+      "Receipt of Fish Seed (purchased from government/national fish seed farms)",
+      "Photographs of the Pond Site"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Scheme Details (Page No. 3)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Scheduled Caste fish farmers who have completed the first year of pond lease in Haryana."
+    },
+    {
+      "question": "What is the financial assistance amount?",
+      "answer": "₹40,000/- per hectare or 40% of actual lease cost, whichever is less, up to 4 hectares."
+    },
+    {
+      "question": "Is this subsidy available in the first year?",
+      "answer": "No, this scheme covers years 2 to 5 only."
+    },
+    {
+      "question": "Can private ponds be leased under this scheme?",
+      "answer": "No, only Panchayati ponds/watersheds are eligible."
+    },
+    {
+      "question": "Is there any age restriction?",
+      "answer": "Yes, the applicant must be 18 years or older."
+    },
+    {
+      "question": "What is the maximum area eligible for the grant?",
+      "answer": "Up to 4 hectares per beneficiary."
+    },
+    {
+      "question": "Where can I apply?",
+      "answer": "At the District Fisheries Office or Atal Seva Kendra (ASK)."
+    },
+    {
+      "question": "Are photographs necessary?",
+      "answer": "Yes, site-related photographs must be submitted."
+    }
+  ]
 }

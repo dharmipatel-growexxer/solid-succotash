@@ -1,17 +1,109 @@
 {
   "scheme_name": "Saksham Scheme for Backward Classes",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ssbc",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Saksham Scheme for Backward Classes",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Saksham Scheme for Backward Classes\" is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under the scheme, loans of up to ₹10,00,000/- are provided to young professionals for setting up Doctors' Clinics, Nursing Homes, Physiotherapy Clinics, Bio-Medical Labs, Lawyers' Offices, Engineering Units, Chemist Shops, Architect Offices, and similar establishments. Applicants must be between 18 and 35 years old, permanent residents of Haryana, and belong to the Backward Class."
+    ],
+    "benefits": [
+      "Under the scheme, loans of up to ₹10,00,000/- are provided to young professionals for setting up Doctors' Clinics, Nursing Homes, Physiotherapy Clinics, Bio-Medical Labs, Lawyers' Offices, Engineering Units, Chemist Shops, Architect Offices, etc."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should be between 18 and 35 years old.",
+      "The applicant should belong to the Backward Class Category.",
+      "The applicant's annual family income should not exceed ₹3,00,000/- in both rural and urban areas.",
+      "The applicant should have professional and academic training."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 01:",
+        "The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal.",
+        "https://saralharyana.gov.in/",
+        "Step 02:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 03:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 04:",
+        "Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to apply for the scheme:",
+        "To avail the benefits of the scheme, visit the Official",
+        "Antyodaya-SARAL Portal",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’",
+        "Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.",
+        "Step 05:",
+        "Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 06:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 07:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 08:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track their applications through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "1. Identity/Citizenship Proof (Any one of the following):",
+      "• Aadhaar Card",
+      "2. Age Proof (Any one of the following):",
+      "3. Resident Proof/Address Proof/Ownership Proof (Any one of the following):",
+      "• Ration Card",
+      "• Haryana Domicile Certificate",
+      "4. Caste/Religion Proof (Any one of the following):",
+      "• Caste Certificate for reserved category",
+      "5. Photo of Applicant",
+      "6. Bank account details",
+      "7. Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Official Website",
+      "Antyodaya-SARAL Portal"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the maximum loan amount provided under the Scheme?",
+      "answer": "The maximum loan amount provided under the scheme is ₹10,00,000/-."
+    },
+    {
+      "question": "What types of establishments can be set up under the scheme?",
+      "answer": "The scheme supports the establishment of Doctors' Clinics, Nursing Homes, Physiotherapy Clinics, Bio-Medical Labs, Lawyers' Offices, Engineering Units, Chemist Shops, Architect Offices, and similar professional setups."
+    },
+    {
+      "question": "What is the age limit for applicants of the scheme?",
+      "answer": "Applicants must be between 18 and 35 years old."
+    },
+    {
+      "question": "What is the income criterion for eligibility?",
+      "answer": "The annual family income of the applicant should not exceed ₹3,00,000/-."
+    },
+    {
+      "question": "How can applicants apply for the scheme?",
+      "answer": "Applicants can apply through the official Antyodaya-SARAL Portal. https://saralharyana.gov.in/"
+    },
+    {
+      "question": "How can applicants track their application status?",
+      "answer": "Pplicants can track their applications through the Official Antyodaya-SARAL Portal by entering their Department Name, Scheme Name, and Application Reference ID at SARAL Haryana. https://status.saralharyana.nic.in/"
+    },
+    {
+      "question": "Is there any training required to apply for the Saksham Scheme?",
+      "answer": "Yes, applicants should have relevant professional and academic training to be eligible."
+    },
+    {
+      "question": "Can applicants from outside Haryana apply for the Saksham Scheme?",
+      "answer": "No, only permanent residents of Haryana are eligible to apply."
+    }
+  ]
 }

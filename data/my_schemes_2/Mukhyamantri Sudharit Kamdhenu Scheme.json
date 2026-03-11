@@ -1,17 +1,191 @@
 {
   "scheme_name": "Mukhyamantri Sudharit Kamdhenu Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/msks",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Sudharit Kamdhenu Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Mukhyamantri Sudharit Kamdhenu Scheme\" was launched by the Department of Animal Husbandry & Veterinary Services, Government of Goa. The scheme aims to help the farmers to get financial assistance for the purchase of cross bred cows, improved she buffaloes and cows of indigenous breeds namely Sahiwal, Gir, Red Sindhi, Rathi and Tharparkar for their Dairy Unit, to promote self employment in the Dairy Sector, and to boost the milk production in the State and to make the State self sufficient. The scheme provides subsidy on the cost of the animal, where the unit cost is limited to ₹70,000/- per animal, which is expected to yield 2,700 liters of milk per lactation for the purpose of subsidy release. Beneficiaries can purchase cross bred cows, improved she buffaloes, and indigenous breed cows (Sahiwal, Gir, Red Sindhi, Rathi, and Tharparkar) in one or more phases. The applications for this scheme are accepted through area Assistant Director/Veterinary Officer in a prescribed application form, along with a non-refundable processing fee."
+    ],
+    "benefits": [
+      "Subsidy for Milch Animals",
+      "For the purchase of 1 to 10 animals, the subsidy is 90% of the unit cost (up to ₹63,000/-) per animal, based on a unit cost of ₹70,000/-.",
+      "For applicants who were issued orders previously under the Infrastructure Component of Kamdhenu Scheme (Sudharit) Amended 2021 or whose orders lapsed due to the Lumpy Skin Disease outbreak:",
+      "Purchases of 1 to 10 animals receive 90% subsidy (up to ₹63,000/-).",
+      "Purchases of 11 to 20 animals receive 75% subsidy (up to ₹52,500/-).",
+      "Purchases of 21 to 100 animals receive 50% subsidy (up to ₹35,000/-).",
+      "Transportation Incentive",
+      "Incentives towards transportation of animals are reimbursed at the rate of ₹2,000/- per animal or the actual cost of transportation, whichever is less.",
+      "Insurance Premium Reimbursement",
+      "The Department will reimburse the Comprehensive Insurance Policy premium up to a maximum of ₹16,625/- per animal.",
+      "Infrastructure Financial Assistance",
+      "A subsidy of 80% of the construction cost is provided for a cattle shed unit of 10 milch animals.",
+      "The construction cost is calculated at ₹6,000/- per square meter for a shed area of 5.4 square meters per animal, totaling ₹3,24,000/- for a 54 square meter shed.",
+      "The maximum infrastructure subsidy provided is ₹2,59,200/-.",
+      "Infrastructure subsidy release is linked to the number of milch animals purchased (minimum 50% of the unit strength @ ₹25,920/- per animal).",
+      "Disbursal",
+      "The eligible subsidy shall be credited to the Bank account of the beneficiary through the Electronic Clearance System (ECS) of the concerned financing institution.",
+      "Incentives towards transportation shall be reimbursed to the beneficiary’s Bank account through ECS along with the subsidy amount.",
+      "Infrastructure subsidy shall be released after the purchase of animals.",
+      "The insurance premium amount (maximum of ₹16,625/- per animal) shall be reimbursed directly to the financing institution along with the subsidy amount.",
+      "Post-Selection Obligations",
+      "The animals purchased under the scheme must not be disposed off for a minimum period of 3½ years (42 months).",
+      "The beneficiary must ensure the animals are compulsorily insured by the financial institution and the beneficiary within 7 days of their arrival in the farm.",
+      "The beneficiary must properly maintain the animals in good health, ensuring proper arrangements for shelter, feed, and fodder, and maintaining proper records of milk, etc.",
+      "The Mukhyamantri Sudharit Kamdhenu Scheme Infrastructure Unit must not be closed down for a period of 5 years from the date of subsidy release.",
+      "In case of default in maintaining the animals for 3½ years, the Government shall recover the subsidy amount paid, Insurance premium, and transportation cost on a “pro-rata basis”.",
+      "If the animal dies within one month of purchase, the beneficiary must report it in writing to the Area Officer within 24 hours.",
+      "The farmer must produce a letter from the financing institution having an Electronic Clearance System (ECS), willing to finance him for the purchase of milch animals or for the Infrastructure Component of the scheme."
+    ],
+    "eligibility": [
+      "The applicant must be a bonafide resident of Goa for at least 15 years.",
+      "The applicant must possess a pucca cattle shed with cement flooring for housing the animals proposed to be reared.",
+      "The applicant must undertake to strictly stall feed the animals and not allow open grazing except in open paddock surrounding the cattle shed.",
+      "The applicant must have knowledge or experience in Cattle or Buffaloes farming or trained by the Department.",
+      "New applicants must compulsorily undergo dairy training as decided by the Department of Animal Husbandry & Veterinary Services (AH & VS) at the designated training centre.",
+      "The applicant must have the cattle shed constructed on their own land.",
+      "The applicant must ensure only one cowshed is permitted under one survey number having area of less than 400 square meters.",
+      "The applicant must be a member of the Local Dairy Society/Bachat Gat/Self help groups, unless they are interested in branding their dairy products without membership of local milk unions.",
+      "The applicant must obtain prior written permission well in advance from the Department before undertaking purchases through a registered dealer.",
+      "If the applicant's spouse is a Government employee, the applicant must submit a declaration on their behalf stating the Department of the spouse, designation, place of posting, and mobile number.",
+      "If the applicant has more than 25 cattle, the applicant (owner of the cattle shed) must apply for and produce the consent of the Goa State Pollution Control Board.",
+      "Criteria Specific to Previous Beneficiaries/Lapsed Orders",
+      "The applicant (Farmer or their family) who had availed the benefit of animal purchase under the earlier Kamdhenu Scheme but has not exceeded the purchase of more than 10 milch animals is eligible to avail the benefit of the scheme for remaining milch animals.",
+      "Applicants whose sanctioned orders lapsed after August 2, 2022 due to the Lumpy Skin Disease (LSD) outbreak must submit a request letter for revalidation and can purchase animals after revalidation of their earlier order within 6 months of the issue of the order of revalidation.",
+      "The applicant desiring revalidation of a lapsed order must apply within one month after the publication of the Gazette.",
+      "Criteria Specific to Infrastructure Component",
+      "The applicant must ensure the cattle shed is not constructed in a low lying area, near river banks, or large sources of water which are prone to water logging and flooding due to heavy rainfall.",
+      "The applicant must ensure the cattle shed is not constructed in areas prone to water scarcity.",
+      "The applicant must ensure the cattle shed is constructed on own land having clear title in the name of the applicant on Form I & XIV document or Sale Deed document.",
+      "The applicant must submit an Approved cattle shed plan from a Government Authorized Engineer/Architect.",
+      "The applicant must have a License from the Panchayat/Municipality for the construction of the cattle shed.",
+      "The applicant must obtain Town and Country Planning (TCP) clearance for the construction of the cattle shed.",
+      "Preference/Priority/Conditions for Multiple Applicants",
+      "If multiple applicants are permitted to avail the scheme in the same survey number, the share of undivided land/area must be more than 400 square meters.",
+      "If multiple applicants apply on the same survey number, the No Objection Certificate (NOC) of co-applicants must be obtained.",
+      "The applicant must ensure the distance between the two cattle sheds is not less than 5 meters on all sides, and each cow shed must have an individual drainage system and roofing."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration and Application Process",
+        "Step 1:",
+        "The farmers interested in availing this facility will have to apply in a",
+        "prescribed application form",
+        "obtained through the Area Assistant Director/Veterinary Officer.",
+        "Step 2:",
+        "The applicant must fill the application form completely, including all required details, and submit the application in triplicate (Original plus 2 photocopies) along with all the supporting documents mentioned in the scheme guidelines.",
+        "Step 3:",
+        "A non-refundable processing fee of ₹200/- (Rupees Two hundred only) for General Category/Other Backward Classes (OBC) or ₹25/- (Rupees Twenty five only) for Schedule Caste (SC)/Schedule Tribe (ST)/Dhangar Category shall be collected at the time of accepting the application at the respective Government Dispensary or Hospital.",
+        "Step 4:",
+        "On processing the cases (within 15 days), the Assistant Director/Veterinary Officer of the respective Hospital/Dispensary shall submit the application of all eligible farmers under the scheme to the Director of Animal Husbandry and Veterinary Services for sanction by the Department.",
+        "Step 5:",
+        "The eligible applicant should purchase the sanctioned animals within one year of sanction of the approval order, ensuring that prior written permission is obtained from the Department well in advance before undertaking purchases through a registered dealer.",
+        "Post-Application Processes",
+        "The supplier must insure the animals for Transit Insurance. Additionally, the animals must be compulsorily insured by the financial institution and beneficiary within 7 days of their arrival in the farm.",
+        "Upon purchase, the Officer must submit the health certificate, purchase statement, purchase receipt, and transport receipt to the financial institution for insuring the animals (within a week after purchase) and completing other formalities. These documents must be duly certified by the Assistant Director/Area Veterinary Officer along with the farmer and Bank Officials.",
+        "The financial institution must submit the purchase statement and related documents to the Head Office within 2 weeks of effecting the purchase to enable the release of subsidy. The farmer must also submit a xerox copy of the passbook within a month through the Area Officer along with the required documents.",
+        "Subsidy will then be released as per the pattern of the scheme. The eligible subsidy, transportation incentives, and insurance premium reimbursement shall be credited to the Bank account of the beneficiary through the Electronic Clearance System (ECS) of the concerned financing institution.",
+        "Application Fees",
+        "₹200/- for General Category/Other Backward Classes (OBC).",
+        "₹25/- for Schedule Caste (SC)/Schedule Tribe (ST)/Dhangar Category.",
+        "The fee is non-refundable and collected at the time of application submission.",
+        "Application Deadlines",
+        "The applicant desiring revalidation of a lapsed order must apply within one month after the publication of the Gazette.",
+        "The applicant should purchase the sanctioned animals within one year of sanction of the approval order."
+      ]
+    },
+    "documents_required": [
+      "Documents Required at Application/Eligibility Stage",
+      "Residence Certificate From Mamlatdar/Sarpanch Of Minimum 15 Years.",
+      "Consent For Seeding And Authentication Of Aadhar/Unique Identification (UID) Number.",
+      "Affidavit In Prescribed Format Regarding Ownership Of Cattle Shed.",
+      "Caste Certificate Of Schedule Caste (SC)/Schedule Tribe (ST)/Dhangar.",
+      "Letter From Financing Institution Having Electronic Clearance System (ECS) Willing To Finance The Beneficiary.",
+      "Passport Size Photograph Of The Applicant.",
+      "Self Declaration Where The Applicant’s Spouse Is A Government Employee.",
+      "Certificate Of 7 Days Training In Dairy Management By Department Of Animal Husbandry & Veterinary Services (AH & VS)/Indian Council Of Agricultural Research (ICAR) (For New Entrants).",
+      "Copy Of Bank Passbook/Mandate Form From Financial Institution.",
+      "Documents Required for Infrastructure Component (At Application Stage)",
+      "Copy Of Land Ownership Document.",
+      "Form I & XIV Document.",
+      "Survey Site Plan.",
+      "Approved Cattle Shed Plan From Government Authorized Engineer/Architect.",
+      "License From The Panchayat/Municipality For The Construction Of Cattle Shed.",
+      "Town And Country Planning (TCP) Clearance.",
+      "Documents Required for Subsidy Release (Post-Purchase/Completion)",
+      "The Prescribed Purchase Statement (Certified And Stamped By The Area Veterinary Officer/Assistant Director And Official Of The Financing Institution And Signed By The Beneficiary).",
+      "Purchase And Transport Receipt (Attested With A Stamp By The Area Veterinary Officer/Assistant Director And Official Of The Financing Institution And Beneficiary).",
+      "Proof Of Insurance.",
+      "Agreement Bond Sworn Before Notary/Magistrate On Stamp Paper As Per Rule In Force In Departmental Prescribed Format.",
+      "Xerox Copy Of The Passbook (To be submitted within a month by the farmer along with required documents).",
+      "Valuation Certificate From An Approved Valuer (For Infrastructure Component).",
+      "Occupancy Certificate From Panchayat/Municipality (For Infrastructure Component).",
+      "Receipts/Vouchers Towards Completion Of Cattle Shed (For Infrastructure Component).",
+      "Completion Certificate From Area Assistant Director/Veterinary Officer (For Infrastructure Component).",
+      "Notarized Agreement Bond In Prescribed Format (For Infrastructure Component)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the minimum length of residency required in the State of Goa for an applicant to successfully qualify for assistance under this scheme?",
+      "answer": "The applicant must be able to prove they have been a bonafide resident of Goa for a minimum of 15 years."
+    },
+    {
+      "question": "If my legal spouse is employed by the Government, what specialized documentation or verification processes must I complete for my application?",
+      "answer": "You must submit a self declaration stating the Department, designation, place of posting, and mobile number of your Government employee spouse."
+    },
+    {
+      "question": "When applying for infrastructure assistance, what specific documents are acceptable to prove clear title and ownership of the land where the cattle shed is situated?",
+      "answer": "Acceptable documents showing clear title in the name of the applicant include Form I & XIV documents or Sale Deed documents. Agreement received through Gift Deed, Forest Land, or Comunidade Land are not eligible."
+    },
+    {
+      "question": "If my family previously received assistance to purchase animals under the prior Kamdhenu Scheme, can I still apply for benefits now?",
+      "answer": "Yes, if the family has not yet purchased more than 10 milch animals in total, they are eligible to apply for the benefit for the remaining permissible milch animals."
+    },
+    {
+      "question": "For applicants seeking to revalidate a previously lapsed purchase order, what is the mandatory timeline required for submitting the revalidation request?",
+      "answer": "The applicant desiring revalidation of a lapsed order must apply within one month after the publication date of the Official Gazette notification."
+    },
+    {
+      "question": "Are there specific physical requirements mandated for the housing structure utilized for sheltering the animals intended to be purchased under this program?",
+      "answer": "Yes, the applicant must possess a pucca cattle shed, which includes essential features such as cement flooring specifically for housing the animals proposed for rearing."
+    },
+    {
+      "question": "If there are multiple cattle sheds on the same property, what minimum physical separation distance must be maintained between the structures?",
+      "answer": "The physical distance required between two cattle sheds in the same survey number should not be less than 5 meters on all sides."
+    },
+    {
+      "question": "Under what circumstances may multiple individuals apply for this scheme when using the same designated survey number for their respective dairy units?",
+      "answer": "Multiple applicants are permitted if the share of undivided land/area is more than 400 square meters, and provided that a No Objection Certificate (NOC) is obtained from the co-applicants."
+    },
+    {
+      "question": "What is the maximum number of independent cowsheds permitted to operate within a single survey number if the total designated area is less than a certain size?",
+      "answer": "Only one cowshed is permitted under a single survey number if the area is less than 400 square meters."
+    },
+    {
+      "question": "Can an applicant utilize a cattle shed facility that is currently operating under a lease agreement or rental arrangement instead of outright ownership?",
+      "answer": "No, the scheme strictly requires the farmer to have the cattle shed constructed on their own land. Land or a cattle shed held on lease or rent is not permitted for this scheme."
+    },
+    {
+      "question": "If I am applying for this financial assistance for the first time, am I required to complete any mandated instructional or educational training sessions?",
+      "answer": "New applicants are compulsorily required to undergo dairy training. This training must be decided upon and conducted by the Department of Animal Husbandry & Veterinary Services (AH & VS) at a designated training centre."
+    },
+    {
+      "question": "Regarding the feeding and rearing practices of the livestock, what are the obligations concerning grazing rights once the animals are housed on the property?",
+      "answer": "The beneficiary must strictly undertake to stall feed the animals. Open grazing is generally not allowed, except within an open paddock surrounding the cattle shed."
+    },
+    {
+      "question": "Are there environmental compliance requirements regarding pollution control based on the total quantity of cattle housed in the shed?",
+      "answer": "If the owner has more than 25 cattle, they must apply for and produce the consent of the Goa State Pollution Control Board to the Department of Animal Husbandry & Veterinary Services (AH & VS)."
+    },
+    {
+      "question": "Is preliminary authorization required from the appropriate Departmental authority before proceeding with the acquisition of the milch animals?",
+      "answer": "Yes, the applicant must obtain prior written permission well in advance from the Department before undertaking any purchases through a registered dealer."
+    }
+  ]
 }

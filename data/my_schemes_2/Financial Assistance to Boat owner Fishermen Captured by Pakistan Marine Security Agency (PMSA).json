@@ -3,15 +3,78 @@
   "scheme_url": "https://www.myscheme.gov.in/schemes/fabofpak",
   "location_name": "",
   "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "page_title": "Financial Assistance to Boat owner / Fishermen Captured by Pakistan Marine Security Agency (PMSA)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Financial Assistance to Boat owner / Fishermen Captured by Pakistan Marine Security Agency (PMSA)” has been implemented by the Department of Fisheries, UT Administration of Dadra & Nagar Haveli and Daman & Diu. The scheme aims to help the families of the fishermen affected due to captured by Pakistani Marine Security Agency. Ameliorate the hardship due to apprehension/detention of the fishing vessel, by providing one time back ended financial assistance to the registered and licensed fishing vessel owners operating from the Union Territory to re-construct/replace their fishing boat/engine etc."
+    ],
+    "benefits": [
+      "Pattern of Assistance:",
+      "Unskilled daily wages rate as notified time to time by the U. T. Administration to the families of the Fishermen those are held 1s time captive/detained by Pakistani Marine Security Agency (PMSA), having valid ID Cards and resident of U.T. of Dadra & Nagar Haveli and Daman & Diu.",
+      "T.A./D.A. to the fishermen during the repatriations from Pakistani Jail:-",
+      "Travelling Allowance (T.A.) is admissible at 2nd class Sleeper of Railways Fair.",
+      "Daily Allowance (D.A.) of ₹250/- per day per person is admissible during repatriation.",
+      "One time financial Assistance in the form of back ended subsidy to the registered boat owner of the U.T. of Dadra & Nagar Haveli and Daman & Diu to re-construct/ replace their fishing vessels by new fishing vessels @ 25% maximum up to ₹ 10.00 lakh, with waiting period of five years."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of the Union Territory of Dadra & Nagar Haveli and Daman & Diu.",
+      "The applicant must be a boat owner or fisherman captured by the Pakistan Marine Security Agency (PMSA), or a family member thereof."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant should contact the office of Fisheries Department, UT Administration of Dadra & Nagar Haveli and Daman & Diu to avail the benefits under the scheme."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Passport size photograph",
+      "Residence proof",
+      "Bank account details",
+      "Ration Card",
+      "Any other documents (As per requirement)"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Notification"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is the primary objective of this scheme intended to help?",
+      "answer": "The scheme is designed to help the families of fishermen and boat owners who are facing hardships due to being apprehended or detained by the PMSA."
+    },
+    {
+      "question": "Which specific regions must a fishing vessel owner operate from to be eligible for the back-ended financial assistance to replace a boat?",
+      "answer": "Registered and licensed fishing vessel owners must be operating specifically from the Union Territory of Dadra & Nagar Haveli and Daman & Diu."
+    },
+    {
+      "question": "What is the primary purpose of the one-time back-ended financial assistance provided to vessel owners under this scheme?",
+      "answer": "The assistance is provided to help owners reconstruct or replace their fishing boats or engines after they have been captured."
+    },
+    {
+      "question": "How much daily financial assistance is provided to the families of fishermen held captive by the Pakistani Marine Security Agency?",
+      "answer": "Unskilled daily wages rate as notified time to time by the U. T. Administration to the families of the Fishermen those are held 1s time captive/detained by Pakistani Marine Security Agency (PMSA), having valid ID Cards and resident of U.T. of Daman, Diu and DNH only."
+    },
+    {
+      "question": "Does the scheme provide any support for the actual return or repatriation of fishermen from Pakistani jails?",
+      "answer": "Yes, the scheme provides T.A. (Traveling Allowance) and D.A. (Daily Allowance) to fishermen during their repatriation from Pakistani jails."
+    },
+    {
+      "question": "What class of railway travel is covered under the Traveling Allowance for repatriated fishermen?",
+      "answer": "The scheme covers the cost of a 2nd class Sleeper railway fare for fishermen returning from Pakistani jails."
+    },
+    {
+      "question": "What is the maximum percentage of subsidy offered for the reconstruction or replacement of a fishing vessel?",
+      "answer": "The scheme offers a back-ended subsidy of 25% for the reconstruction or replacement of fishing vessels."
+    },
+    {
+      "question": "What is the maximum monetary limit or cap on the subsidy provided for a new fishing vessel?",
+      "answer": "The maximum financial assistance for a new fishing vessel is capped at a total amount of ₹10.00 lakhs."
+    },
+    {
+      "question": "Which specific regions must a fishing vessel owner operate from to be eligible for the vessel replacement subsidy?",
+      "answer": "To be eligible for the boat replacement subsidy, the registered and licensed fishing vessel owners must be operating from Union Territory of Dadra & Nagar Haveli and Daman & Diu."
+    }
+  ]
 }

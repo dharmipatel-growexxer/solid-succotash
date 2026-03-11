@@ -1,17 +1,100 @@
 {
   "scheme_name": "Balram Talab Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/bty",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Balram Talab Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Balram Talab Yojana\" was launched by the Farmer Welfare and Agricultural Development Department, Government of Madhya Pradesh. The scheme aims to support agriculture activities on a sustainable basis by conservation of rainwater in the field, enriching surface and groundwater availability. Only those farmers who have installed drip or sprinkler sets in financial year 2017-18 or thereafter and currently in operational condition will be granted approval for subsidized pond construction."
+    ],
+    "benefits": [
+      "General category farmers receive 40% of the construction cost or maximum ₹80,000/- as subsidy.",
+      "Small and marginal farmers receive 50% of the construction cost or maximum ₹80,000/- as subsidy.",
+      "Scheduled Caste or Scheduled Tribe category farmers receive 75% of the construction cost or maximum ₹1,00,000/- as subsidy.",
+      "Disbursement",
+      "The subsidy will be disbursed to the beneficiary based on the progress of pond construction.",
+      "The subsidy will be provided within 30 days based on the evaluation by the Soil Conservation Staff.",
+      "Conditions",
+      "All conditions and eligibility must be verified by the Soil Conservation Survey Officer before subsidy benefits are provided.",
+      "Before providing the benefit under this scheme, verification of the land will be conducted by the Conservation Survey Officer.",
+      "From a security perspective, it is mandatory to install a board at the pond site to prevent drowning incidents. This must be installed at the farmer's own expense. In the absence of a board, if any accident occurs, the farmer will be solely responsible."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Madhya Pradesh.",
+      "The applicant must possess agricultural land.",
+      "The applicant must have installed drip or sprinkler sets in financial year 2017-18 or thereafter, and these must be currently in operational condition, to be eligible for subsidized pond construction.",
+      "The applicant must construct the pond on their own land. Subsidy will not be provided for pond construction on leased land."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "MP DBT Agriculture Portal",
+        ". Navigate to the \"पंजीकरण\" (Registration) section. Complete Aadhaar authentication using OTP.",
+        "Step 2:",
+        "On the next screen, provide your personal details: Name, Address, Mobile Number, and Land Ownership Information. Upload the following mandatory documents: Aadhaar Card, Land Records (e.g., Khasra/Khatauni), Bank Passbook, Passport-size Photo.",
+        "Step 3:",
+        "On the next screen, a list of available schemes will be displayed. Select \"Balram Talab Yojana\" scheme from the list. You will be taken to the online form of the scheme.",
+        "Step 4:",
+        "In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:",
+        "Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Submit the application and note the application ID for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Identity Card",
+      "Permanent Residence Certificate",
+      "Bank Account Passbook",
+      "Passport Size Photograph",
+      "Khasra Document",
+      "Caste Certificate",
+      "Demand Draft Document",
+      "Registered Mobile Number"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "CM Helpline"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the maximum financial assistance available for constructing a pond on agricultural land under this government initiative for water conservation?",
+      "answer": "The maximum subsidy provided is ₹1,00,000/- for Scheduled Caste or Scheduled Tribe farmers, representing 75% of construction costs, while general category and small-marginal farmers receive up to ₹80,000/-."
+    },
+    {
+      "question": "If I belong to the Scheduled Caste category and want to build a rainwater harvesting structure, what%age of the total construction cost will the state government bear?",
+      "answer": "Farmers from Scheduled Caste or Scheduled Tribe categories receive 75% of the construction cost as subsidy, with a maximum limit of ₹1,00,000/-, for building rainwater conservation structures."
+    },
+    {
+      "question": "Is it mandatory for farmers to have any specific irrigation equipment already installed on their farmland before they can apply for assistance?",
+      "answer": "Yes, only those farmers who have installed drip or sprinkler irrigation sets in financial year 2017-18 or thereafter, and these systems are currently operational, are eligible for subsidized pond construction approval."
+    },
+    {
+      "question": "Can a farmer who has previously received benefits under this water conservation program apply again for constructing another pond on different agricultural land?",
+      "answer": "No, the benefit of this scheme is provided to each farmer only once, meaning a farmer cannot apply multiple times even if they own different parcels of agricultural land."
+    },
+    {
+      "question": "What is the minimum requirement regarding land ownership for farmers interested in participating in this rainwater harvesting scheme?",
+      "answer": "Farmers must construct the pond on their own agricultural land as subsidy will not be provided for pond construction on leased or rented land, making land ownership a mandatory requirement."
+    },
+    {
+      "question": "How much time does it typically take for the subsidy amount to be transferred to the beneficiary's bank account after the pond construction is completed?",
+      "answer": "The subsidy is provided within 30 days based on the evaluation and assessment conducted by the Soil Conservation Staff after completion of the construction work."
+    },
+    {
+      "question": "Are farmers from all social and economic categories eligible to participate in this agricultural water management program being implemented statewide?",
+      "answer": "Yes, all categories of farmers including general category, small and marginal farmers, and Scheduled Caste or Scheduled Tribe farmers are eligible to avail benefits under this scheme."
+    },
+    {
+      "question": "What happens if a farmer who has received subsidy does not install the mandatory safety signboard at the pond location as required?",
+      "answer": "In the absence of a mandatory safety board at the pond site, if any drowning or accident occurs, the farmer will be solely and completely responsible for all consequences."
+    },
+    {
+      "question": "Is there any difference in the subsidy%age provided to small and marginal category farmers compared to general category farmers under this initiative?",
+      "answer": "Yes, small and marginal farmers receive 50% of construction costs or maximum ₹80,000/-, which is higher than the 40% or maximum ₹80,000/- provided to general category farmers."
+    }
+  ]
 }

@@ -1,17 +1,128 @@
 {
   "scheme_name": "To Increase Fish Seed Production and Inland Fisheries Equipment in Tribal Areas",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ifspeta",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "To Increase Fish Seed Production and Inland Fisheries Equipment in Tribal Areas",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"To Increase Fish Seed Production and Inland Fisheries Equipment in Tribal Areas\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, is designed to boost inland fisheries by supporting Scheduled Tribes fishermen. It provides assistance for fish seed rearing, stocking, and transportation, as well as financial aid for boats, nets, and fish sale equipment. Additionally, training programs with stipends are available to enhance skills and productivity in the fisheries sector."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Fish Seed Rearing",
+      "₹90/- per 1000 spawn to fry (30% recovery); ₹260/- per 1000 fry to fingerlings (35% recovery); ₹460/- per 1000 spawn to fingerlings (12% recovery); Rearing time: 30, 60, 90 days",
+      "1 Year",
+      "Fish Seed Stocking",
+      "100% assistance for fish seed and transportation cost",
+      "Prawn Seed Stocking",
+      "100% assistance for prawn seed and transportation cost for Scheduled Caste lessees",
+      "Boat & Net",
+      "50% assistance for Tin Boat & Net (₹15,000/- or ₹7,500/-, whichever is less) (Boat ₹5,000/- + Net ₹2,500/-); 50% assistance for F.R.P Boat & Net (₹30,000/- or ₹15,000/-, whichever is less) (Boat ₹12,500/- + Net ₹2,500/-)",
+      "6 Years",
+      "Fish cage culture",
+      "60% assistance for Scheduled Tribe beneficiaries Unit cost: ₹3,00,000/-, subsidy: ₹1,80,000/- or 60% of actual cost, whichever is lower",
+      "3 Years",
+      "Training of Tribal Trainees",
+      "₹2,000/- per month for 3 months (Total ₹6,000/-) (60% minimum attendance required)",
+      "Once in a lifetime",
+      "Training Kit",
+      "₹1,250/- stipend after 10-day training; ₹125/- per day during training",
+      "Fish seed rearing by women",
+      "A kit worth ₹2,500/- given after completing 3-month training"
+    ],
+    "eligibility": [
+      "Individuals/ societies/ self-help groups/ associations/ reservoir monopolies/ private units etc. involved in inland fisheries activities can avail the benefits of inland schemes.",
+      "The applicant should be a Fisherman.",
+      "The applicant should belong to the Schedule Tribe(ST) category.",
+      "Applicant should be above 18 years of age.",
+      "The beneficiary fisherman must have his own bank account."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card.",
+      "Quotation.",
+      "Caste certificate.",
+      "Passport size photo.",
+      "Bank passbook/cancelled cheque.",
+      "Ration card."
+    ],
+    "sources_and_references": [
+      "Guidelines 1",
+      "Guidelines 2"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The purpose of the scheme is to increase fish production through inland fisheries and provide employment opportunities to Scheduled Tribe (ST) individuals involved in fish farming and fishing activities."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Individuals, societies, self-help groups, associations, reservoir monopolies, and private units engaged in inland fisheries are eligible. The applicant must belong to the Scheduled Tribe (ST) category, be at least 18 years old, and have a valid bank account."
+    },
+    {
+      "question": "Can an individual from the Scheduled Caste (SC) category apply for this scheme?",
+      "answer": "No, this scheme is exclusively for Scheduled Tribe (ST) individuals involved in inland fisheries."
+    },
+    {
+      "question": "What financial assistance is provided for fish seed rearing?",
+      "answer": "The scheme offers financial assistance for fish seed rearing as follows: ₹90/- per 1000 spawn to fry with a 30% minimum recovery. ₹260/- per 1000 fry to fingerlings with a 35% minimum recovery. ₹460/- per 1000 spawn to fingerlings with a 12% minimum recovery."
+    },
+    {
+      "question": "How much financial support is provided for fish seed rearing by women?",
+      "answer": "Women will receive ₹90/- per 1000 spawn, with a minimum 30% recovery from spawn to fry."
+    },
+    {
+      "question": "Does the scheme provide assistance for fish seed stocking?",
+      "answer": "Yes, 100% assistance is provided to Scheduled Caste (SC) beneficiaries for the cost of fish seed and transportation."
+    },
+    {
+      "question": "Is there support available for prawn seed stocking?",
+      "answer": "Yes, the scheme provides 100% assistance to Scheduled Caste (SC) lessees for the total cost of prawn seed and transportation."
+    },
+    {
+      "question": "What assistance is available for purchasing boats and nets?",
+      "answer": "50% assistance is provided for Tin Boat & Net, up to ₹7,500/-. 50% assistance is provided for F.R.P. Boat & Net, up to ₹15,000/-."
+    },
+    {
+      "question": "Are training programs available under this scheme?",
+      "answer": "Yes, Scheduled Tribe (ST)) trainees receive a scholarship of ₹2,000/- per month for three months. A trainee is eligible for the scholarship only on the basis of a minimum 60% attendance."
+    },
+    {
+      "question": "What is the minimum time limit for reclaiming benefits?",
+      "answer": "The minimum time limit varies: Fish seed rearing & stocking: 1 year. Boat & net assistance: 6 years. Fish cage culture: 3 years. Training of tribal trainees: Once in a lifetime."
+    },
+    {
+      "question": "How can an applicant apply for this scheme?",
+      "answer": "The applicant must apply online through the i-Khedut portal (https://ikhedut.gujarat.gov.in) and upload the necessary documents."
+    }
+  ]
 }

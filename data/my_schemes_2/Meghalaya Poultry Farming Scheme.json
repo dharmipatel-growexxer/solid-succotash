@@ -1,17 +1,162 @@
 {
   "scheme_name": "Meghalaya Poultry Farming Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mpfs",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Meghalaya Poultry Farming Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The",
+      "Chief Minister’s CM-ELEVATE Program",
+      "includes",
+      "the Meghalaya Poultry Farming Scheme",
+      "under the Planning Department, Government of Meghalaya. The scheme aims to employ, engage, and empower the youth and rural communities by promoting poultry entrepreneurship through easy access to credit and subsidies."
+    ],
+    "benefits": [
+      "50% of project cost supported (5% by applicant, 45% by Government)",
+      "5% EMI co-payment support for 24 months",
+      "Credit linkage through partnered banks",
+      "Technical training and capacity building",
+      "Veterinary and farm management support",
+      "Market linkage for selling output",
+      "Mentorship and business advisory"
+    ],
+    "eligibility": [
+      "Individuals",
+      "The applicant should be between 18 and 58 years of age.",
+      "The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority.",
+      "The entrepreneur should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute.",
+      "The Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking Poultry.",
+      "The entrepreneur should have access to adequate and quality feed for the birds.",
+      "The entrepreneur should have a vaccination Scheme in place for the birds.",
+      "The entrepreneur should have a plan for marketing the poulty and their products.",
+      "The entrepreneurs village should be in an area where poultry farming is feasible.",
+      "The distance between the entrepreneur’s village and the nearest market must be reasonable.",
+      "The entrepreneur should not be a credit defaulter from any bank.",
+      "Registered Entities",
+      "Any group/entity registered in Meghalaya such as Cooperatives, Farmer Producer Companies (FPC), Farmer Producer Organization (FPO) and so on",
+      "Must provide an Incorporation Certificate or a registration certificate whichever is applicable",
+      "At least two members should possess a training certificate on the sector applied for from a recognized institution, preferably from a government institute",
+      "Should possess land, either self-owned or on lease, verified by the competent authority",
+      "Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute",
+      "Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking Poultry.",
+      "The entrepreneur should have a plan for marketing the poultry & their products",
+      "The entrepreneurs village should be in an area where poultry farming is feasible",
+      "The distance between the entrepreneur’s village and the nearest market must be reasonable",
+      "The entrepreneur should not be a credit defaulter from any bank",
+      "Unregistered Entities",
+      "Traditional institutions, self help groups, producer groups and soon Eligibility certification from competent government authority like BDO/SDO/Department in case of Producer group from DPMs.",
+      "The non-registered entity should have a constitution/bylaws/framework that outline the groups structure, objectives, and procedures.",
+      "Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking Poultry",
+      "The entrepreneur should have access to adequate and quality feed for the birds",
+      "The entrepreneur should have a vaccination Scheme in place for the birds",
+      "The entrepreneur should have a plan for marketing the poultry & their products.",
+      "The entrepreneurs village must be in an area where poultry farming is feasible",
+      "The distance between the entrepreneurs village and the nearest market must be reasonable"
+    ],
+    "application_process": {
+      "online": [
+        "Citizen Registration for Member ID",
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.",
+        "Step 2:",
+        "If you are a first-time user, click on “",
+        "Registration for New User",
+        "” and complete the registration process to create your account.",
+        "Step 3:",
+        "Select your Authentication ID from the available options, such as",
+        "PDS (Ration Card)",
+        "Election Photo ID Card (EPIC).",
+        "Step 4:",
+        "Enter your card number, select your name from the displayed list, and click on “Next” to continue.",
+        "Step 5:",
+        "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.",
+        "Step 6:",
+        "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.",
+        "Step 7:",
+        "Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.",
+        "Click on",
+        "“Sign In",
+        "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.",
+        "Enter your User ID and Password, then click on “Login” to access your account.",
+        "After logging in, click on “Apply for Services/Scheme” to start your application.",
+        "Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+      ]
+    },
+    "documents_required": [
+      "Individuals",
+      "Proof of Address of Applicant (Voter ID/Passport/Driving License)",
+      "PAN Card",
+      "Latest Bank Statement (Last 6 months)",
+      "Ration Card",
+      "Training certificate",
+      "Land ownership or notarized lease certificate (if applicable)",
+      "Download",
+      "Self Declaration",
+      "Registered Entities",
+      "GST Certificate (if available)",
+      "Incorporation Certificate or Registration Certificate",
+      "Proof of Address of Applicant (Voter ID / Passport / Driving License)",
+      "Training certificates for at least 2 members",
+      "Unregistered Entities",
+      "Ration Card of Applicant"
+    ],
+    "sources_and_references": [
+      "Website:1",
+      "Website:2"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Meghalaya Poultry Farming Scheme?",
+      "answer": "It is a livelihood initiative under the CM-ELEVATE Program aimed at promoting poultry entrepreneurship among youth and rural communities through credit linkage and government subsidy support."
+    },
+    {
+      "question": "Is there any EMI support?",
+      "answer": "Yes. The Government provides 5% EMI co-payment support for 24 months."
+    },
+    {
+      "question": "How is the loan arranged?",
+      "answer": "Credit linkage is facilitated through partnered banks under the scheme."
+    },
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Individuals (18–58 years), registered entities (Cooperatives, FPCs, FPOs, etc.), and eligible unregistered groups such as SHGs and traditional institutions can apply."
+    },
+    {
+      "question": "What is the age limit for individual applicants?",
+      "answer": "Applicants must be between 18 and 58 years."
+    },
+    {
+      "question": "Is land ownership mandatory?",
+      "answer": "Yes. Applicants must possess land (self-owned or leased), verified by a competent authority."
+    },
+    {
+      "question": "Is training required before applying?",
+      "answer": "Yes. Applicants must have a training certificate in poultry farming from a recognized institution, preferably a Government institute."
+    },
+    {
+      "question": "Is prior experience in poultry farming necessary?",
+      "answer": "While not mandatory, preference is given to applicants with prior poultry experience."
+    },
+    {
+      "question": "Is market support available?",
+      "answer": "Yes. The scheme provides market linkage support for selling poultry and poultry products."
+    },
+    {
+      "question": "Can more than one member of a family apply?",
+      "answer": "No. Only one member per family is eligible under the scheme."
+    },
+    {
+      "question": "Are political organizations eligible?",
+      "answer": "No. Pressure groups and organizations primarily political in nature are not eligible."
+    },
+    {
+      "question": "Is location important for eligibility?",
+      "answer": "Yes. The village must be suitable for poultry farming and reasonably close to a market."
+    }
+  ]
 }

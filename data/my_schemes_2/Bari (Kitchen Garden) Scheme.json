@@ -1,17 +1,69 @@
 {
   "scheme_name": "Bari (Kitchen Garden) Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/bkgs",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Bari (Kitchen Garden) Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Bari (Kitchen Garden) Scheme” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to promote kitchen gardening through the free distribution of vegetable seed packets worth ₹75 to poor, small/marginal farmers and agricultural laborers living below the poverty line."
+    ],
+    "benefits": [
+      "Free Vegetable Seed Packets: Each eligible beneficiary receives a packet of vegetable seeds worth ₹75 free of cost."
+    ],
+    "eligibility": [
+      "The applicant must be a small or marginal farmer/agricultural laborer.",
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must belong to the Below the Poverty Line (BPL) category."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant should contact the District Office of the Horticulture Department."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity.",
+      "Residence Certificate.",
+      "BPL certificate",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The Bari (Kitchen Garden) Scheme is a government initiative to provide free vegetable seed packets to poor, small, and marginal farmers and agricultural laborers living below the poverty line."
+    },
+    {
+      "question": "Which department implements this scheme?",
+      "answer": "The scheme is implemented by the Horticulture and Food Processing Department, Government of Madhya Pradesh."
+    },
+    {
+      "question": "Who are eligible to apply for this scheme?",
+      "answer": "Small and marginal farmers, as well as agricultural laborers living below the poverty line, are eligible."
+    },
+    {
+      "question": "What benefit is provided under this scheme?",
+      "answer": "Each eligible beneficiary receives vegetable seed packets worth ₹75/- free of cost."
+    },
+    {
+      "question": "Is there any cost involved for the beneficiaries?",
+      "answer": "No, the vegetable seed packets are provided completely free of cost."
+    },
+    {
+      "question": "How are the seeds distributed?",
+      "answer": "Seeds are distributed as per the direction of the concerned Department."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applicants can contact the District Office of the Horticulture Department to avail of the benefits."
+    },
+    {
+      "question": "Whom should one contact for more information about the scheme?",
+      "answer": "Applicants should contact the District Office of the Horticulture Department for further details."
+    }
+  ]
 }

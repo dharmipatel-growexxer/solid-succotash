@@ -1,17 +1,89 @@
 {
   "scheme_name": "Masala Shetra Vistar Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/msvymp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Masala Shetra Vistar Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "Masala Shetra Vistar Yojana was launched by the Government of Madhya Pradesh under the Horticulture and Food Processing Department. Scheme objective is to expand the area and increase the production of selected spice crops through quality high-yielding varieties.",
+      "Selected crops",
+      "Seed spice crops.",
+      "Turmeric with rhizomes.",
+      "Ginger."
+    ],
+    "benefits": [
+      "In seed spice crops, 50% of the cost of seed, a maximum ₹10,000/- per hectare, whichever is less, will be given as a subsidy.",
+      "For the production of root and center/rhizome commercial crops garlic, turmeric, and ginger, a grant of 50% of the cost of planting material to a maximum of ₹ 50,000/- per hectare, whichever is less, will be given."
+    ],
+    "eligibility": [
+      "Those farmers are not currently cultivating spices.",
+      "This scheme will be applicable for all sections.",
+      "Farmers who have obtained forest rights certificate will also be eligible to avail the benefits.",
+      "The grant will be payable only once to a farmer.",
+      "A farmer can do farming for the first time in as much area as he wants but the grant will be payable for minimum 0.25 hectare and maximum 2.00 hectare."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Applicants have to visit the",
+        "official portal.",
+        "Step 2: Click on \"",
+        "New Registration \"",
+        ".",
+        "Step 3: Enter your mobile number and click on OTP Send.",
+        "Step 4: Now Fill in the details and upload the documents.",
+        "Step 5: After, fill in all the information and upload the document click on the submit button."
+      ]
+    },
+    "documents_required": [
+      "Photo.",
+      "Aadhaar Card.",
+      "Khasra Number/B1/Copy of Forest Patta.",
+      "Bank Passbook.",
+      "Birth Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Masala Shetra Vistar Yojana in Madhya Pradesh?",
+      "answer": "The Masala Shetra Vistar Yojana is a government initiative in Madhya Pradesh aimed at expanding the cultivation and production of spices (masalas) in the state."
+    },
+    {
+      "question": "What benefits are provided under the scheme ?",
+      "answer": "1. In seed spice crops, 50% of the cost of seed, a maximum ₹10,000/- per hectare, whichever is less, will be given as a subsidy. 2. For the production of root and center/rhizome commercial crops garlic, turmeric, and ginger, a grant of 50% of the cost of planting material to a maximum of ₹ 50,000/- per hectare, whichever is less, will be given."
+    },
+    {
+      "question": "Is there any selected crops under the scheme?",
+      "answer": "Yes, there are Selected crops Biwali spice crops and root/root turmeric and ginger."
+    },
+    {
+      "question": "Who can get the scheme benefits?",
+      "answer": "Those farmers are not currently cultivating spices."
+    },
+    {
+      "question": "Can forest rights certificate holder farmers also eligible for the scheme benefit?",
+      "answer": "Farmers who have obtained forest rights certificate will also be eligible to avail the benefits."
+    },
+    {
+      "question": "Can farmer get the scheme benefits more than once ?",
+      "answer": "No, only once."
+    },
+    {
+      "question": "What is the minimum land area a farmer must cultivate to receive the grant amount ?",
+      "answer": "The grant will be payable for minimum 0.25 hectare and maximum 2.00 hectare."
+    },
+    {
+      "question": "How to get the scheme benefits?",
+      "answer": "Step 1: Applicants have to visit the official portal. Step 2: Click on \"New Registration \". Step 3: Enter your mobile number and click on OTP Send. Step 4: Now Fill in the details and upload the documents. Step 5: After, fill in all the information and upload the document click on the submit button."
+    },
+    {
+      "question": "What documents are required ?",
+      "answer": "1. Photo. 2. Aadhaar Card. 3. Khasra Number/B1/Copy of Forest Patta. 4. Bank Passbook. 5. Birth Certificate."
+    }
+  ]
 }

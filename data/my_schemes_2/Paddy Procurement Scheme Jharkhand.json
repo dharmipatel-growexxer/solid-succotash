@@ -1,17 +1,108 @@
 {
   "scheme_name": "Paddy Procurement Scheme Jharkhand",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ppsj",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Paddy Procurement Scheme Jharkhand",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Paddy Procurement Scheme 2012-13\" by the Food, Public Distribution, and Consumer Affairs Department, Government of Jharkhand, aims to procure paddy from farmers at the Minimum Support Price (MSP) to ensure fair compensation and food security. Through this scheme, farmers receive direct procurement services at predetermined MSP rates, minimizing exploitation by middlemen and ensuring timely payments."
+    ],
+    "benefits": [
+      "MSP is set at ₹1250/- per quintal for the \"Common\" grade.",
+      "MSP is set at ₹1280/- per quintal for \"Grade A\" paddy.",
+      "NOTE:",
+      "Direct procurement of paddy from farmers at MSP.",
+      "Payment is made directly to farmers through designated agencies."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Jharkhand state.",
+      "The applicant must be a registered farmer.",
+      "The applicant must cultivate paddy in the Kharif season of 2012-13.",
+      "The applicant must possess a valid landholding certificate or proof of cultivation.",
+      "Farmers associated with Primary Agriculture Credit Societies (PACS) and Large Area Multipurpose Cooperative Societies (LAMPS) are eligible.",
+      "NOTE:",
+      "Preference is given to small and marginal farmers."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 01:",
+        "Farmers may visit the Primary Agriculture Credit Societies (PACS) or Large Area Multipurpose Cooperative Societies (LAMPS) centers in your region and obtain the application form for the \"Paddy Procurement Scheme\".",
+        "Step 02:",
+        "Fill in the required details, including personal, income, and land information.",
+        "Step 03:",
+        "Attach the necessary documents.",
+        "Step 04:",
+        "Submit the complete form to the PACS/LAMPS centers and keep the acknowledgment receipt for future reference.",
+        "Approval:",
+        "Upon approval, farmers deliver paddy to procurement centers.",
+        "Quality assessment is conducted at the procurement center.",
+        "NOTE:",
+        "Farmers register with designated cooperative societies (PACS/LAMPS) or procurement agencies."
+      ]
+    },
+    "documents_required": [
+      "Farmer Registration Certificate.",
+      "Land Ownership Proof or Cultivation Certificate.",
+      "Voter ID.",
+      "Bank Account Details (for direct payment).",
+      "Paddy Sale Receipt (if applicable).",
+      "Any additional documents as requested by the procurement agency."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible to participate in the procurement process?",
+      "answer": "All registered farmers of Jharkhand who cultivate paddy in the Kharif season of 2012-13 and possess valid landholding proof."
+    },
+    {
+      "question": "What is the Minimum Support Price (MSP) for paddy?",
+      "answer": "The MSP is ₹1250 per quintal for \"Common\" grade paddy and ₹1280 per quintal for \"Grade A\" paddy."
+    },
+    {
+      "question": "How is the payment made to farmers?",
+      "answer": "The payment is directly credited to the farmer's registered bank account after verification."
+    },
+    {
+      "question": "What happens if a farmer's paddy does not meet quality standards?",
+      "answer": "If the paddy fails the quality assessment, it may be rejected, and the farmer must make necessary improvements before re-submitting."
+    },
+    {
+      "question": "Where can farmers register for the scheme?",
+      "answer": "Farmers can register at their nearest Primary Agriculture Credit Societies (PACS) or Large Area Multipurpose Cooperative Societies (LAMPS)."
+    },
+    {
+      "question": "Are middlemen allowed in the procurement process?",
+      "answer": "No, procurement is done directly from farmers to eliminate middlemen."
+    },
+    {
+      "question": "How can farmers track their payment status?",
+      "answer": "Farmers can check payment updates through PACS/LAMPS offices or online portals if available."
+    },
+    {
+      "question": "Can tenant farmers apply for the scheme?",
+      "answer": "Yes, provided they have a valid cultivation certificate and necessary approvals."
+    },
+    {
+      "question": "What is the role of cooperative societies in this scheme?",
+      "answer": "Cooperative societies assist in registration, procurement, and ensuring smooth transactions between farmers and agencies."
+    },
+    {
+      "question": "How does the scheme benefit small and marginal farmers?",
+      "answer": "It provides them with assured MSP, eliminating market uncertainties and ensuring financial stability."
+    },
+    {
+      "question": "Can farmers apply online for registration?",
+      "answer": "As per the 2012-13 process, registration is primarily through cooperative societies; online options may not be available."
+    },
+    {
+      "question": "Is the scheme applicable to all districts of Jharkhand?",
+      "answer": "Yes, the scheme is implemented across all eligible districts in Jharkhand."
+    }
+  ]
 }

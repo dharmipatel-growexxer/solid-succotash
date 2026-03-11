@@ -1,17 +1,146 @@
 {
   "scheme_name": "Meghalaya Agriculture Warehouse Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/maws",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Meghalaya Agriculture Warehouse Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The",
+      "Meghalaya Agriculture Warehouse Scheme,",
+      "under the Chief Minister’s CM-ELEVATE Program by the Planning, Investment Promotion & Sustainable Development Department, Government of Meghalaya, focuses on enhancing agricultural infrastructure through the establishment of warehouses across the state. It aims to reduce post-harvest losses, stabilize market prices, and improve farmer incomes. The scheme offers easy credit access via partner banks and substantial government subsidies to ease entrepreneurs’ financial burden. Implemented by the Meghalaya Basin Management Agency (MBMA), it supports individuals and registered entities in creating weatherproof storage for agricultural produce, enabling value addition, market linkages, and long-term storage for the farming community."
+    ],
+    "benefits": [
+      "5% of project cost to be contributed by the entrepreneur 75% of project cost provided upfront by Government of Meghalaya as margin money support to the bank remaining 20% via bank loan.",
+      "Direct credit linkage with partner banks.",
+      "Guidance and handholding in the application process through implementing agencies.",
+      "Support in project realization for the warehouse venture.",
+      "Training and capacity building for entrepreneurs to manage post-harvest storage effectively.",
+      "Technical support for maintenance and operations of warehouses."
+    ],
+    "eligibility": [
+      "For Individuals:",
+      "The applicant should be between 18 and 58 years of age.",
+      "The applicant should be a permanent resident of Meghalaya.",
+      "The applicant should have ownership of the land where the warehouse is proposed or leased land for at least the next 10 years.",
+      "The applicant should not be a credit defaulter of any bank.",
+      "For Registered Entities:",
+      "The applicant should be based in the village where the program is being availed.",
+      "The applicant should have an active bank account and submit the bank statement of the last six months.",
+      "The applicant should have been in operation for at least two years.",
+      "The applicant should possess land, either self-owned or leased, duly verified by the competent authority."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.",
+        "Step 2:",
+        "If you are a first-time user, click on “",
+        "Registration for New User",
+        "” and complete the registration process to create your account.",
+        "Step 3:",
+        "Select your Authentication ID from the available options, such as",
+        "PDS (Ration Card)",
+        "Election Photo ID Card (EPIC).",
+        "Step 4:",
+        "Enter your card number, select your name from the displayed list, and click on “Next” to continue.",
+        "Step 5:",
+        "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.",
+        "Step 6:",
+        "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.",
+        "Step 7:",
+        "Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.",
+        "Click on",
+        "“Sign In",
+        "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.",
+        "Enter your User ID and Password, then click on “Login” to access your account.",
+        "After logging in, click on “Apply for Services/Scheme” to start your application.",
+        "Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”",
+        "Note:",
+        "Online Submission:",
+        "Apply via the CM-ELEVATE Portal with all required documents as per the eligibility criteria",
+        "Screening:",
+        "Applications will be verified based on submitted documents by the Meghalaya Basin Management Agency (MBMA). Shortlisting will be done after document verification",
+        "Interview & Inspection:",
+        "Shortlisted applicants may undergo personal interviews conducted by the State Level Evaluation Committee and a physical inspection of the proposed land to verify ownership or lease",
+        "Final Approval:",
+        "The State Level Evaluation Committee, headed by the CEO/ED of MBMA with banking partners as members, will evaluate and recommend applications for sanction."
+      ]
+    },
+    "documents_required": [
+      "Individuals",
+      "Proof of Address of Applicant (Voter ID / Passport) (If available)",
+      "Ration Card of Applicant",
+      "PAN Card",
+      "Latest Bank Statement (Last 1 Year)",
+      "Self-attested statement on land availability",
+      "Self Declaration Certificate",
+      "Registered Entities",
+      "Self-attested declaration certificate for Registered Society",
+      "Incorporation Certificate or Registration Certificate",
+      "GST Certificate (if available)",
+      "Proof of Address of Applicant (Voter ID / Passport / Driving License) - President or Secretary",
+      "Self-declaration",
+      "of President/Secretary of SHG/IVCS/FPO/Others",
+      "Self-attested",
+      "statement on land availability"
+    ],
+    "sources_and_references": [
+      "Website:1",
+      "Website:2"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Meghalaya Agriculture Warehouse Scheme?",
+      "answer": "It is a scheme to reduce post-harvest losses, stabilize market prices, and increase farmers’ incomes by supporting warehouse creation."
+    },
+    {
+      "question": "Who implements the scheme?",
+      "answer": "The scheme is implemented by the Meghalaya Basin Management Agency (MBMA)."
+    },
+    {
+      "question": "Who can benefit from the scheme?",
+      "answer": "Both individual farmers and registered entities or groups engaged in agriculture can apply."
+    },
+    {
+      "question": "How is the project cost shared?",
+      "answer": "Entrepreneurs contribute 5%, the government provides 75% upfront, and 20% is via bank loan."
+    },
+    {
+      "question": "Are government subsidies available?",
+      "answer": "Yes, substantial subsidies are provided to reduce the financial burden on entrepreneurs."
+    },
+    {
+      "question": "Is guidance provided for bank loan applications?",
+      "answer": "Yes, implementing agencies provide handholding and guidance throughout the application process."
+    },
+    {
+      "question": "Does the scheme provide technical support?",
+      "answer": "Yes, technical assistance is provided for warehouse maintenance and operations."
+    },
+    {
+      "question": "What is the age criteria for individuals?",
+      "answer": "The applicants must be 18–58 years old."
+    },
+    {
+      "question": "Do I need land to apply?",
+      "answer": "Yes, applicants must own the land or have leased it for at least 10 years."
+    },
+    {
+      "question": "Where should the entity be located?",
+      "answer": "The entity should be based in the village where the scheme is being availed."
+    },
+    {
+      "question": "Are government employees eligible?",
+      "answer": "No, state or central government employees, or pensioners, are generally excluded."
+    },
+    {
+      "question": "Can public sector employees apply?",
+      "answer": "No, employees of public sector undertakings or subsidiaries are excluded."
+    }
+  ]
 }

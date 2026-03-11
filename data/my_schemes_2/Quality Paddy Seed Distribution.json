@@ -1,17 +1,96 @@
 {
   "scheme_name": "Quality Paddy Seed Distribution",
   "scheme_url": "https://www.myscheme.gov.in/schemes/qpsd",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Quality Paddy Seed Distribution",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Quality Paddy Seed Distribution”, introduced on 22nd August 2011 by the Agriculture-Farmers Welfare Department, Tamil Nadu, offers a subsidy of ₹5/- per kg on certified paddy seeds. Farmers can avail this benefit when purchasing seeds from Agricultural Extension Centers. This initiative helps reduce the cost burden on farmers, encouraging them to use high-quality paddy seeds for improved crop yields."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹5/- per kg subsidy on certified paddy seeds."
+    ],
+    "eligibility": [
+      "The beneficiary should be a Farmer.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary must purchase certified paddy seeds from Agricultural Extension Centers."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Collect the application form from the nearest Agricultural Office.",
+        "Step 2:",
+        "Fill out the application form with the required details and attach mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the form to the concerned office:",
+        "Village Level:",
+        "Submit the application to the Assistant Agricultural Officer.",
+        "Block Level:",
+        "Submit to the Agricultural Officer or Deputy Agricultural Officer.",
+        "District Level:",
+        "Submit to the Joint Director of Agriculture."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card, Voter ID).",
+      "Land ownership documents or lease agreement.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the “Quality Paddy Seed Distribution” Scheme?",
+      "answer": "The Quality Paddy Seed Distribution Scheme provides a subsidy of ₹5 per kg on certified paddy seeds to farmers."
+    },
+    {
+      "question": "Who are the beneficiaries of the scheme?",
+      "answer": "The beneficiaries are farmers who purchase certified paddy seeds in the Agricultural Extension Centers."
+    },
+    {
+      "question": "What is the primary benefit of the scheme?",
+      "answer": "The primary benefit is a ₹5/- per kg subsidy on certified paddy seeds to reduce costs for farmers."
+    },
+    {
+      "question": "Where can the subsidized seeds be purchased?",
+      "answer": "Farmers can purchase the subsidized seeds at Agricultural Extension Centers."
+    },
+    {
+      "question": "How can farmers apply for the subsidy?",
+      "answer": "Farmers can apply for the subsidy through their Village Level Assistant Agricultural Officer, Block Level Seed Officer, or District Joint Director of Agriculture."
+    },
+    {
+      "question": "Is there an income limit to avail of the scheme?",
+      "answer": "There is no income limit to qualify for the scheme."
+    },
+    {
+      "question": "Are there any age restrictions for the scheme?",
+      "answer": "No, there are no age restrictions to avail of the scheme."
+    },
+    {
+      "question": "Are there any community or caste restrictions?",
+      "answer": "The scheme is open to farmers of all communities and castes."
+    },
+    {
+      "question": "What documents are required to apply for the subsidy?",
+      "answer": "Farmers will need proof of farming (land ownership/lease documents), identity proof, and proof of residence to apply."
+    },
+    {
+      "question": "How is the subsidy provided to farmers?",
+      "answer": "The subsidy is directly deducted from the seed price at the time of purchase."
+    },
+    {
+      "question": "When was the scheme introduced?",
+      "answer": "The scheme was introduced on August 22, 2011."
+    },
+    {
+      "question": "Who should farmers contact for more information?",
+      "answer": "Farmers should contact their Village Level Assistant Agricultural Officer or the District Joint Director of Agriculture for more details."
+    }
+  ]
 }

@@ -1,17 +1,88 @@
 {
   "scheme_name": "COP-34 Financial Assistance to Farmer for Interest Subvention (Kishan Credit Card Interest Asst.)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/fafiskc",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "COP-34 Financial Assistance to Farmer for Interest Subvention (Kishan Credit Card Interest Asst.)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"COP-34 Financial Assistance to Farmer for Interest Subvention (Kishan Credit Card Interest Asst.)\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by offering a 4% interest subvention on crop loans up to ₹3 lakh, provided the loan is repaid on time. This assistance helps farmers reduce their financial burden, improve crop yield, and enhance their income. It also encourages responsible financial practices among farmers."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Year) for Reclaiming Benefits",
+      "COP-34, Financial assistance to farmer for Interest Subvention",
+      "4% interest subvention on timely repayment of crop loan taken by farmers up to ₹3,00,000/-",
+      "only once in a financial year"
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The farmer should have taken a short-term crop loan during the Kharif season (1st April to 30th September) from any of the following:",
+      "Primary Agricultural Credit Cooperative Society",
+      "District Central Cooperative Bank",
+      "Nationalized Bank",
+      "Gramin Bank",
+      "Private Bank",
+      "The farmer should have repaid the loan on time."
+    ],
+    "application_process": {
+      "offline": [
+        "The bank from which the crop loan has been availed by the farmer has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar."
+      ]
+    },
+    "documents_required": [
+      "Kisan Credit Card (KCC) loan documents.",
+      "Proof of timely repayment.",
+      "Farmer’s identity proof (Aadhaar card, etc.).",
+      "Land ownership or cultivation document.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme provides financial assistance to farmers in the form of a 4% interest subvention on timely repayment of crop loans taken during the Kharif season."
+    },
+    {
+      "question": "Who can avail the benefits of this scheme?",
+      "answer": "Farmers who have taken short-term crop loans during the Kharif season and have repaid them on time through eligible banks can avail the benefits of this scheme."
+    },
+    {
+      "question": "What is the maximum loan amount eligible under this scheme?",
+      "answer": "Under this scheme, crop loans of up to ₹3,00,000/- are eligible for a 4% interest subvention."
+    },
+    {
+      "question": "Which banks are considered eligible for availing this scheme?",
+      "answer": "Loans taken from Primary Agricultural Credit Cooperative Societies, District Central Cooperative Banks, Nationalized Banks, Gramin Banks, and Private Banks are eligible under this scheme."
+    },
+    {
+      "question": "Can a farmer apply for the scheme directly?",
+      "answer": "No, the farmer cannot apply directly. The bank through which the crop loan was taken submits the interest subvention proposal on behalf of the farmer."
+    },
+    {
+      "question": "How often can a farmer receive the benefit of this scheme?",
+      "answer": "A farmer can avail the benefit of the scheme only once in a financial year."
+    },
+    {
+      "question": "Is the scheme applicable for loans taken during the Rabi season?",
+      "answer": "No, the scheme is only applicable for short-term crop loans taken during the Kharif season, i.e., from 1st April to 30th September."
+    },
+    {
+      "question": "What type of loan is covered under this scheme?",
+      "answer": "The scheme covers short-term crop loans taken for agricultural purposes."
+    },
+    {
+      "question": "Is the subvention given as a direct benefit transfer to the farmer’s account?",
+      "answer": "The interest subvention is generally adjusted or credited as per the process managed by the lending bank, based on government guidelines."
+    },
+    {
+      "question": "Where can a farmer get more information about this scheme?",
+      "answer": "A farmer can contact their respective bank or reach out to the Registrar, Co-operative Societies, Gujarat State, for more details about the scheme."
+    }
+  ]
 }

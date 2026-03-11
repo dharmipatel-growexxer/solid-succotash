@@ -1,17 +1,103 @@
 {
   "scheme_name": "National Mission on Edible Oil- Oil Palm: Establishment of Seed Garden",
   "scheme_url": "https://www.myscheme.gov.in/schemes/nmeoesg",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "National Mission on Edible Oil- Oil Palm: Establishment of Seed Garden",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme component \"Establishment of Seed Garden\" launched under the \"National Mission on Edible Oil–Oil Palm\" scheme by the Department of Agriculture, Farmers Welfare and Co-operation, Government of Gujarat, aims to increase the production of oil palm in Gujarat and reduce dependence on imported oil palm. The scheme provides financial assistance for establishing new seed orchards and related infrastructure to enhance seedling production capacity. It supports farmers with maintenance, input costs, and nursery development to promote self-reliance in oil palm cultivation."
+    ],
+    "benefits": [
+      "For Establishment of New Seed Orchards:",
+      "₹80,00,000/- per seed garden. Minimum area requirement is 15 hectares.",
+      "Nursery Development Assistance:",
+      "₹40,00,000/- per nursery for infrastructure and operational support."
+    ],
+    "eligibility": [
+      "The applicant should be a farmer.",
+      "The applicant should be a resident of Gujarat."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration Process:",
+        "Step 1:",
+        "The applicant may visit and apply online at the",
+        "I-Khedut",
+        "Portal.",
+        "Step 2:",
+        "Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type.",
+        "Step 3:",
+        "Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'.",
+        "Step 4:",
+        "Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'.",
+        "Login Process:",
+        "Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Now select the scheme, click on the ‘Apply’ button, and an application page will open.",
+        "Click on the \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a printout of the confirmed application.",
+        "Contact Us:",
+        "Click here"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Land Record 7-12 and 8-A.",
+      "Bank Passbook/Cancelled Cheque.",
+      "Caste Certificate (if applicable).",
+      "Disability Certificate from Competent Authority (if applicable)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Guidelines (Scheme No. 382)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main objective of the scheme \"Establishment of Seed Garden\" under the National Mission on Edible Oil – Oil Palm?",
+      "answer": "The main objective of the scheme \"Establishment of Seed Garden\" is to significantly increase the production of oil palm in Gujarat while reducing the dependence on imports by providing financial assistance for the development of seed gardens and nurseries to eligible farmers."
+    },
+    {
+      "question": "Which department is responsible for implementing the scheme \"Establishment of Seed Garden\"?",
+      "answer": "The scheme \"Establishment of Seed Garden\" is implemented by the Department of Agriculture, Government of Gujarat, which is responsible for overseeing its execution and ensuring that the intended benefits reach the targeted farmers."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme \"Establishment of Seed Garden\"?",
+      "answer": "Any farmer residing in Gujarat who is engaged in or willing to engage in oil palm cultivation is eligible to apply for the scheme \"Establishment of Seed Garden\" subject to fulfilling the specified requirements."
+    },
+    {
+      "question": "What type of financial assistance is provided for establishing a seed garden under the scheme \"Establishment of Seed Garden\"?",
+      "answer": "Under the scheme \"Establishment of Seed Garden\", a financial assistance of ₹80,00,000/- per seed garden is provided for creating the necessary infrastructure and for establishing a revolving fund to support its operational sustainability."
+    },
+    {
+      "question": "What production capacity is required for a seed garden under the scheme \"Establishment of Seed Garden\"?",
+      "answer": "A seed garden established under the scheme \"Establishment of Seed Garden\" must have the capacity to produce 10,00,000 seedlings per year in order to be eligible for the provided assistance."
+    },
+    {
+      "question": "What is the minimum area requirement for a seed garden under the scheme \"Establishment of Seed Garden\"?",
+      "answer": "The minimum area requirement for establishing a seed garden under the scheme \"Establishment of Seed Garden\" is 15 hectares, which ensures adequate space for sustainable cultivation and production."
+    },
+    {
+      "question": "What financial assistance is available for nursery development under the scheme \"Establishment of Seed Garden\"?",
+      "answer": "The scheme \"Establishment of Seed Garden\" offers financial assistance of ₹40,00,000/- for the development of a nursery, covering the necessary infrastructure and initial operational support for oil palm cultivation."
+    },
+    {
+      "question": "Can a farmer receive the benefits of the scheme \"Establishment of Seed Garden\" more than once?",
+      "answer": "The scheme \"Establishment of Seed Garden\" provides its benefits only once in a lifetime to each eligible beneficiary to ensure equitable distribution of resources among farmers."
+    },
+    {
+      "question": "How can eligible farmers apply for the scheme?",
+      "answer": "Eligible farmers can apply for the scheme by visiting the iKhedut portal, filling out the application form online, uploading the required documents, and submitting it for departmental verification."
+    },
+    {
+      "question": "What documents are required to apply for the \"Establishment of Seed Garden\" scheme?",
+      "answer": "Applicants are required to submit their Aadhaar Card, Land Records 7-12 and 8-A, Bank Passbook or Cancelled Cheque, and if applicable, a Caste Certificate or Disability Certificate issued by the competent authority."
+    }
+  ]
 }

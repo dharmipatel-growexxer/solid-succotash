@@ -1,17 +1,75 @@
 {
   "scheme_name": "Machhali Palan",
   "scheme_url": "https://www.myscheme.gov.in/schemes/fishfarminguk",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Machhali Palan",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Machhali Palan” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial support to fishermen for repairing, reconstructing, and replacing damaged boats and nets due to disasters."
+    ],
+    "benefits": [
+      "Under this scheme, the following compensation is provided to fishermen for the repair or replacement of damaged boats and nets:",
+      "₹6,000/- for the repair of partially damaged boats",
+      "₹3,000/- for the repair of partially damaged nets",
+      "₹15,000/- for the repurchase of completely damaged boats",
+      "₹4,000/- for the repurchase of completely damaged nets",
+      "An investment subsidy of ₹10,000/- per hectare is provided for fish seed farms."
+    ],
+    "eligibility": [
+      "The applicant must be a fisherman from Uttarakhand.",
+      "Fishermen are provided assistance for the repair or replacement of damaged boats and for damaged or lost nets caused by natural disasters."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+      ]
+    },
+    "documents_required": [
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 307)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible to benefit under this scheme?",
+      "answer": "Applicants must be a fishermen residing in Uttarakhand who have suffered losses due to a natural disaster."
+    },
+    {
+      "question": "What type of assistance is provided under the scheme?",
+      "answer": "Financial compensation is provided for repairing or repurchasing damaged boats and nets, along with a subsidy for fish seed farm development."
+    },
+    {
+      "question": "What is the compensation amount for a partially damaged boat?",
+      "answer": "₹6,000/- is provided for the repair of a partially damaged boat."
+    },
+    {
+      "question": "How much assistance is given for a partially damaged net?",
+      "answer": "₹3,000/- is given for the repair of a partially damaged net."
+    },
+    {
+      "question": "What is the compensation for a completely damaged boat?",
+      "answer": "₹15,000/- is provided for the repurchase of a completely damaged boat."
+    },
+    {
+      "question": "How much is given for a completely damaged net?",
+      "answer": "₹4,000/- is provided for the repurchase of a completely damaged net."
+    },
+    {
+      "question": "How is the damage verified before assistance is given?",
+      "answer": "Damage reports are verified by the concerned Patwari, who records the details in the P-20 form. The report is then verified by the Tehsildar and Sub-Divisional Magistrate (SDM)."
+    },
+    {
+      "question": "Who gives the final approval for disbursement of relief funds?",
+      "answer": "The final approval for financial assistance is given by the District Magistrate (DM)."
+    },
+    {
+      "question": "How are relief funds disbursed to beneficiaries?",
+      "answer": "Once approved by the District Magistrate, relief funds are distributed to the eligible fishermen at the Tehsil level."
+    }
+  ]
 }

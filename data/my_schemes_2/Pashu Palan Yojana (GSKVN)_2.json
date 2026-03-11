@@ -1,17 +1,110 @@
 {
   "scheme_name": "Pashu Palan Yojana (GSKVN)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ahsgskvn",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Pashu Palan Yojana (GSKVN)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme 'Pashu Palan Yojana' is implemented by the Gujarat Safai Kamdar Vikas Nigam (GSKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide loans to sanitation workers and their dependents to promote self-employment through animal husbandry and related activities."
+    ],
+    "benefits": [
+      "Loan up to ₹1,00,000/- is provided at an interest rate of 6% to sanitation workers or their dependents for initiating animal husbandry as a business or occupation."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Gujarat.",
+      "The applicant should be a sanitation worker or a dependent of a sanitation worker.",
+      "The age of the applicant (sanitation worker or dependent) should be between 18 and 50 years as on the date of application.",
+      "Only applicant who has not previously availed any loan under any scheme of this Corporation or the Government, including their family members, are eligible to apply under this scheme.",
+      "Priority will be given to applicants who are BPL (Below Poverty Line), widowed, abandoned, or persons with disabilities.",
+      "The applicant should intend to start a self-employment venture in animal husbandry or related activities."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "Visit the Social Justice & Empowerment Department website:",
+        "https://esamajkalyan.gujarat.gov.in",
+        "Step 2:",
+        "Click on “Please Register Here” on the homepage.",
+        "Step 3:",
+        "Fill in your personal details as per Aadhaar.",
+        "Step 4",
+        ": Create a password and submit the form.",
+        "Step 5:",
+        "Verify details and click “Confirm”.",
+        "Step 6:",
+        "You will receive your User ID & Password via SMS/email.",
+        "Login Process:",
+        "Go to the portal homepage.",
+        "Enter your User ID, Password, and Captcha.",
+        "Step 3",
+        ": Click “Login” to access your dashboard.",
+        "Application Process:",
+        "After login, complete your User Profile (first-time only).",
+        "Homepage will show eligible schemes – click on the one you want.",
+        "Fill out the scheme application form.",
+        "Upload the required documents.",
+        "Step 4:",
+        "Review all entries, agree to terms, and click “Save Application”.",
+        "Note your Application Number for tracking.",
+        "Track Application:",
+        "Click on “",
+        "View Application Status",
+        "”.",
+        "Enter your Application Number and Date of Birth.",
+        "Click “View Status” to check progress."
+      ]
+    },
+    "documents_required": [
+      "Applicant's Aadhaar Card",
+      "Ration card of the applicant",
+      "Election Identity Card",
+      "Proof of applicant's total annual income",
+      "Certificate of sanitation worker/dependent",
+      "Proof of residence (Electricity bill/License/Rent agreement/Electoral card/Ration card)",
+      "BPL Certificate (if BPL)",
+      "Copy of first page of bank passbook / cancelled cheque (in the name of the applicant)",
+      "A letter of undertaking stating that you have not previously availed the benefits of this scheme"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Sanitation workers or their dependents residing in Gujarat."
+    },
+    {
+      "question": "What is the benefit provided?",
+      "answer": "A loan up to ₹1,00,000/- for animal husbandry-related activities."
+    },
+    {
+      "question": "Can it be applied offline?",
+      "answer": "No. The scheme is online-only."
+    },
+    {
+      "question": "Can women apply for this scheme?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Is there any income limit?",
+      "answer": "No income limit is applicable."
+    },
+    {
+      "question": "Where can I track my application status?",
+      "answer": "On the e-Samaj Kalyan portal under “ Application Status ”."
+    },
+    {
+      "question": "Can the loan be used for other purposes?",
+      "answer": "No, the loan amount is used only for animal husbandry activities."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "The applicant visits the e-Samaj Kalyan Portal ."
+    }
+  ]
 }

@@ -1,17 +1,73 @@
 {
   "scheme_name": "Hybrid Chilli Production Program",
   "scheme_url": "https://www.myscheme.gov.in/schemes/hcpp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Hybrid Chilli Production Program",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Hybrid Chilli Production Program” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to provide financial assistance and inputs for hybrid chilli cultivation to Scheduled Caste farmers, thereby enhancing crop quality, productivity, and farmers’ income."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Under the scheme, financial assistance ranging from ₹1,400/- to ₹7,000/- is provided per beneficiary.",
+      "Free Distribution of Inputs:",
+      "Beneficiaries are provided seeds, seed treatment chemicals, organic and chemical fertilizers, and insecticidal medicines free of cost."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must belong to the Scheduled Caste category.",
+      "The applicant must belong to the Below the Poverty Line (BPL) category."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant should contact the District Office of the Horticulture Department."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity.",
+      "Residence Certificate.",
+      "BPL certificate",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The objective of the scheme is to promote hybrid chilli cultivation among Scheduled Caste farmers and increase their income through self-employment."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Scheduled Caste farmers living below the poverty line are eligible to apply."
+    },
+    {
+      "question": "What is the minimum land requirement under the scheme?",
+      "answer": "The applicant must have at least 0.1 hectare of cultivable land."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Financial assistance between ₹1,400/- and ₹7,000/- is provided depending on the area cultivated."
+    },
+    {
+      "question": "What kind of support is given to the beneficiaries?",
+      "answer": "Beneficiaries receive seeds, fertilizers, seed treatment chemicals, and insecticidal medicines free of cost."
+    },
+    {
+      "question": "Is the scheme limited to any particular caste group?",
+      "answer": "Yes, the scheme is specifically for Scheduled Caste farmers."
+    },
+    {
+      "question": "Who implements the scheme in the state?",
+      "answer": "The scheme is implemented by the Horticulture and Food Processing Department, Government of Madhya Pradesh."
+    },
+    {
+      "question": "What is the frequency of benefit distribution?",
+      "answer": "The benefit is distributed once in a year."
+    }
+  ]
 }

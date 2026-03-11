@@ -1,17 +1,97 @@
 {
   "scheme_name": "Assistance for Cultivation of Medicinal/ Aromatic Crops",
   "scheme_url": "https://www.myscheme.gov.in/schemes/afcmac",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Assistance for Cultivation of Medicinal/ Aromatic Crops",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Assistance for Cultivation of Medicinal/ Aromatic Crops\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to encourage the cultivation of medicinal and aromatic plants to promote alternative agriculture and improve farmers' income."
+    ],
+    "benefits": [
+      "Financial assistance up to 75% of the cost or ₹11,250/- per hectare, whichever is lower."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a resident of Gujarat.",
+      "Applicant must possess cultivable land ranging from 0.20 hectares to 4 hectares."
+    ],
+    "application_process": {
+      "online": [
+        "Step-1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step-2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step-3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step-4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step-5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step-6:",
+        "Once the application is done, confirm it.",
+        "Step-7:",
+        "Take a print out of the confirmed application.",
+        "Step-8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "7/12 Certificate.",
+      "Aadhaar Card.",
+      "Bank Pass Book/Cancelled Cheque."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "User Manual (Applicant Registration)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the purpose of the scheme 'Assistance for Cultivation of Medicinal/ Aromatic Crops'?",
+      "answer": "The purpose of the scheme is to provide financial assistance to farmers for cultivating medicinal and aromatic crops, thereby encouraging sustainable agriculture and enhancing farmers' income."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any farmer residing in Gujarat who owns or cultivates land between 0.20 hectare and 4.00 hectare is eligible to apply for this scheme."
+    },
+    {
+      "question": "What is the maximum financial assistance a farmer can receive under this scheme?",
+      "answer": "A farmer can receive financial assistance up to 75% of the cultivation cost or ₹11,250/- per hectare, whichever is lower."
+    },
+    {
+      "question": "What is the minimum and maximum landholding required to apply for this scheme?",
+      "answer": "The scheme applies to farmers cultivating land with a minimum area of 0.20 hectares and a maximum of 4.00 hectares."
+    },
+    {
+      "question": "Are there any income restrictions to be eligible for this scheme?",
+      "answer": "No, there are no income restrictions for individual or family income to be eligible for this scheme."
+    },
+    {
+      "question": "Can farmers belonging to any caste or social group apply for this scheme?",
+      "answer": "Yes, the scheme is open to all farmers, regardless of caste, category, or social group."
+    },
+    {
+      "question": "How is the assistance amount disbursed to the beneficiary?",
+      "answer": "After the application is verified and approved, the assistance amount is directly credited to the beneficiary’s bank account."
+    },
+    {
+      "question": "How can an applicant apply for this scheme?",
+      "answer": "Applicants can apply on the iKhedut portal to avail the benefits of the scheme."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Applicants are required to submit an Aadhaar card, 7/12 land record, and a copy of their bank passbook or a cancelled cheque."
+    },
+    {
+      "question": "Who should the applicant contact for help or more information about the scheme?",
+      "answer": "The applicant should contact the nearest agriculture office or visit the iKhedut portal for more information."
+    }
+  ]
 }

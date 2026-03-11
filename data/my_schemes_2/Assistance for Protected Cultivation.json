@@ -1,17 +1,119 @@
 {
   "scheme_name": "Assistance for Protected Cultivation",
   "scheme_url": "https://www.myscheme.gov.in/schemes/afpc",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Assistance for Protected Cultivation",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Assistance for Protected Cultivation” by the Agriculture and Co-operation Department, Government of Gujarat aims to promote modern, climate-resilient horticulture practices by providing financial support for protected cultivation infrastructure like mulching, nursery development, and plug nurseries. The scheme encourages self-employment and sustainable income generation for farmers through the use of polyhouses, shed net houses, and starter kits to improve crop productivity and resource efficiency."
+    ],
+    "benefits": [
+      "Plastic Cover (Mulching):",
+      "General Area:",
+      "₹32,000/- per hectare.",
+      "Hilly Area:",
+      "₹36,800/- per hectare.",
+      "50% of the expenditure incurred, limited to 1 hectare per beneficiary.",
+      "Self-Employment Oriented Horticulture Nursery Development Programme:",
+      "Nursery Structure:",
+      "₹3,50,000/- per unit",
+      "₹3,00,000/- per unit for 500 sq.m. area",
+      "Starter Kit:",
+      "₹50,000/- per unit",
+      "Assistance up to 65% of the cost or ₹2,27,500/-, whichever is less.",
+      "Shed Net House & Polyhouse:",
+      "Coverage:",
+      "500 sq.m to 4,000 sq.m",
+      "Assistance as per square meter cost based on empanelled company prices",
+      "Structures supported: Cylindrical, bamboo, and wooden.",
+      "Plug Nursery:",
+      "Public sector:",
+      "₹30,00,000/- per hectare for 1 hectare",
+      "Private sector:",
+      "Assistance of 50% or ₹15,00,000/- per hectare (whichever is less) for 1 hectare."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should be a farmer."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "The applicant may visit and apply online at the",
+        "I-Khedut",
+        "Portal.",
+        "Step 2:",
+        "Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type.",
+        "Step 3:",
+        "Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'.",
+        "Step 4:",
+        "Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'.",
+        "Login Process:",
+        "Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Now select the scheme, click on the ‘Apply’ button, and an application page will open.",
+        "Click on the \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a printout of the confirmed application.",
+        "Contact Us:",
+        "Click here"
+      ]
+    },
+    "documents_required": [
+      "7/12 Certificate.",
+      "Aadhaar Card.",
+      "Bank Pass Book/Cancelled Cheque."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 63)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main objective of the scheme “Assistance for Protected Cultivation”?",
+      "answer": "The primary objective of the scheme “Assistance for Protected Cultivation” is to promote sustainable and modern horticultural practices among farmers in Gujarat by providing financial assistance for constructing protected cultivation structures such as mulching, polyhouses, plug nurseries, and self-employment oriented horticulture nurseries."
+    },
+    {
+      "question": "Who is eligible to apply for benefits under the scheme “Assistance for Protected Cultivation”?",
+      "answer": "Any individual who is a resident farmer of Gujarat is eligible to apply under the scheme “Assistance for Protected Cultivation\"."
+    },
+    {
+      "question": "What types of structures or components are covered under the scheme “Assistance for Protected Cultivation”?",
+      "answer": "The scheme “Assistance for Protected Cultivation” covers several components such as plastic cover (mulching), plug nurseries, shed net houses, polyhouses, and self-employment oriented horticulture nursery structures along with starter kits, each of which has predefined unit costs and assistance limits."
+    },
+    {
+      "question": "What financial assistance is available for mulching under the scheme “Assistance for Protected Cultivation”?",
+      "answer": "Under the scheme “Assistance for Protected Cultivation,” financial assistance for mulching is provided at ₹32,000/- per hectare in general areas and ₹36,800/- per hectare in hilly areas, which amounts to 50% of the actual expenditure incurred, limited to 1 hectare per beneficiary."
+    },
+    {
+      "question": "How much financial support can a farmer receive for developing a plug nursery through the scheme “Assistance for Protected Cultivation”?",
+      "answer": "Through the scheme “Assistance for Protected Cultivation,” farmers in the public sector are eligible for up to ₹30,00,000 per hectare for plug nursery development, whereas those in the private sector can receive 50% of the cost or a maximum of ₹15,00,000 per hectare, whichever is lower."
+    },
+    {
+      "question": "What kind of assistance is offered under the Self-Employment Oriented Horticulture Nursery Development Programme of the scheme “Assistance for Protected Cultivation”?",
+      "answer": "Under the Self-Employment Oriented Horticulture Nursery Development Programme within the scheme “Assistance for Protected Cultivation,” farmers are eligible to receive assistance of ₹3,50,000 per unit for nursery structure development, ₹3,00,000 for a 500 sq.m nursery area, and ₹50,000 per unit for starter kits."
+    },
+    {
+      "question": "Is there a limit to the area that can be covered under the scheme “Assistance for Protected Cultivation” for constructing protected structures?",
+      "answer": "Yes, under the scheme “Assistance for Protected Cultivation,” the area covered for constructing polyhouses and shed net houses ranges from a minimum of 500 square meters to a maximum of 4,000 square meters per beneficiary as per the rates approved for different structural types."
+    },
+    {
+      "question": "Can a farmer apply offline for the scheme “Assistance for Protected Cultivation”?",
+      "answer": "No, the scheme “Assistance for Protected Cultivation” accepts applications only through the official iKhedut portal, and there is no provision for submitting the application through offline or manual means."
+    },
+    {
+      "question": "What documents are required to apply under the scheme “Assistance for Protected Cultivation”?",
+      "answer": "To apply for benefits under the scheme “Assistance for Protected Cultivation,” the applicant must submit a copy of the 7/12 land certificate, Aadhaar card, bank passbook or cancelled cheque, and in some cases, proof of land lease or ownership and a recent passport-size photograph."
+    },
+    {
+      "question": "Is there any cost involved in submitting the application form under the scheme “Assistance for Protected Cultivation”?",
+      "answer": "There is no cost involved for the applicant to submit the application form under the scheme “Assistance for Protected Cultivation,” as the entire application process on the iKhedut portal is free of charge."
+    }
+  ]
 }

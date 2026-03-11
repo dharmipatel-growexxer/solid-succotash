@@ -1,17 +1,119 @@
 {
   "scheme_name": "Interest Subsidy on Loans for Agriculture and Allied Activities",
   "scheme_url": "https://www.myscheme.gov.in/schemes/islaaa",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Interest Subsidy on Loans for Agriculture and Allied Activities",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "“Interest Subsidy on Loans for Agriculture and Allied Activities” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, the bonafide agriculturist, individuals of the animal husbandry sector/ fisheries sector from Goa are provided a loan of upto ₹ 5,00,000 for the purpose of Agriculture and Allied Activities. The applications are accepted only in offline mode."
+    ],
+    "benefits": [
+      "Loan of upto ₹ 5,00,000.",
+      "Interest Subsidy on Short-Term Loans: 4% to farmers who promptly repay their loans.",
+      "Interest Subsidy on Long-Term Loans: Equal to the difference between a 4% interest rate and the normal rate charged by eligible Banks, in line with their policies. The subsidy is subject to a maximum limit of 8%."
+    ],
+    "eligibility": [
+      "For Inland Fisheries",
+      "The applicant should own or lease any of the fisheries-related activities, such as pond, tank, open water bodies, raceway, hatchery, rearing unit, possess the necessary license for fish farming and fishing-related activities, and any other state-specific fisheries and allied activities.",
+      "The applicant may include fishers, fish farmers (individual & groups/partners/share/croppers/tenants/farmers), self-help groups, joint liability groups, and women groups.",
+      "For Marine Fisheries",
+      "The applicant should own or lease a registered fishing vessel/boat, possess the necessary fishing license/permission for fishing in estuaries and sea, engage in fish farming/mariculture activities in estuaries and open sea, and participate in any other state-specific fisheries and allied activities."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should request the",
+        "prescribed format",
+        "of the application form from the department.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority at the",
+        "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at",
+        "BDO Office/ Sub-Offices",
+        "of the Department of Fisheries.",
+        "Grievance Redressal",
+        "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's",
+        "Grievance Redressal Officer",
+        ". The grievance can also be lodged on the link",
+        "dir-fish.goa@nic.in",
+        ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+      ]
+    },
+    "documents_required": [
+      "Quotation Bill",
+      "Aadhaar Card of Applicant",
+      "Vessel Registration Certificate",
+      "Fishing & Net Licence Receipts",
+      "Letter From Bank to Avail Loan",
+      "Copy of Permission Letter Issued by Directorate of Fisheries to Construct Canoe/trawler/purseiner/purchase of New Net",
+      "Copy of Certificate Issued by Coastal Aquaculture Authority for Construction/renovation of Prawn Farming",
+      "Inspection Report From Fisheries Officer",
+      "Mandate Form"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Citizen's Charter"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the official website of the Department of Fisheries, Government of Goa?",
+      "answer": "The official website is www.fisheries.goa.gov.in. For detailed guidelines, refer to https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf."
+    },
+    {
+      "question": "Is there a specific format for the application form, and where can it be obtained?",
+      "answer": "The interested applicant can obtain the prescribed format of the application form from the official website: https://fisheries.goa.gov.in/schemes-services/."
+    },
+    {
+      "question": "What are the contact details for the Directorate of Fisheries, Government of Goa?",
+      "answer": "Contact the Directorate at Dayanand Bandodkar Marg, Panaji Goa. Tel: (O) 2224838, Tel: (Dir) 2227780; Email: dir-fish.goa@nic.in; Website: www.fisheries.goa.gov.in."
+    },
+    {
+      "question": "Are Persons with Disabilities (PwDs) eligible for this scheme, and are there specific criteria for them?",
+      "answer": "Yes, PwDs are eligible, and there are no specific criteria mentioned for them under the \"Interest Subsidy on Loans\" scheme."
+    },
+    {
+      "question": "What is the role of the Department's Grievance Redressal Officer, and how can complaints be lodged?",
+      "answer": "The Officer addresses dissatisfaction or complaints; complaints can be lodged at dir-fish.goa@nic.in, with responses provided within 30 days."
+    },
+    {
+      "question": "Is there any age-related criteria for individuals applying for the \"Interest Subsidy on Loans\" scheme?",
+      "answer": "No, there is no age-related criteria for applicants under this scheme."
+    },
+    {
+      "question": "How is the interest subsidy on long-term loans calculated, and what is the maximum limit?",
+      "answer": "The subsidy is the difference between a 4% interest rate and the normal rate charged by eligible banks, with a maximum limit of 8%."
+    },
+    {
+      "question": "Is there a specific deadline for submitting applications for this scheme?",
+      "answer": "No, there is no deadline for submitting applications under the \"Interest Subsidy on Loans\" scheme."
+    },
+    {
+      "question": "Could you explain the process for submitting the application form, including mandatory steps?",
+      "answer": "Interested applicants must fill the prescribed form, attach required documents, and submit it to the Directorate of Fisheries in Panaji, Goa."
+    },
+    {
+      "question": "What is the application mode for the scheme, and is there any application fee?",
+      "answer": "The application is offline, and there is no application fee for the \"Interest Subsidy on Loans\" scheme."
+    },
+    {
+      "question": "Are self-help groups eligible for the scheme, and if so, what are the criteria?",
+      "answer": "Yes, self-help groups are eligible, including fish farmers and women groups engaged in fisheries-related activities."
+    },
+    {
+      "question": "What is the criteria for eligibility in inland fisheries, specifically regarding ownership or leasing of fishing-related activities?",
+      "answer": "Eligibility requires ownership or leasing of fisheries-related activities, possession of necessary licenses, and compliance with state-specific fisheries regulations."
+    },
+    {
+      "question": "Could you clarify the interest subsidy for prompt loan repayment in the short-term category?",
+      "answer": "Farmers who promptly repay loans receive a 4% interest subsidy in the short-term category."
+    },
+    {
+      "question": "What is the maximum loan amount provided under the \"Interest Subsidy on Loans for Agriculture and Allied Activities\" scheme?",
+      "answer": "The scheme offers loans up to ₹5,00,000 for individuals in the fisheries sector."
+    }
+  ]
 }

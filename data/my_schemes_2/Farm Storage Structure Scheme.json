@@ -1,17 +1,111 @@
 {
   "scheme_name": "Farm Storage Structure Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/fsss",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Farm Storage Structure Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Farm Storage Structure Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provides financial assistance to farmers for constructing crop storage structures on their farms. It ensures protection from unforeseen weather conditions like rain and storms and enables farmers to store their produce until market prices are favorable."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Crop Storage Structure",
+      "50% of the total cost or ₹75,000/- whichever is less",
+      "Only once"
+    ],
+    "eligibility": [
+      "The applicant must be a land-holding farmer.",
+      "The applicant must belong to the Gujarat state.",
+      "Note:",
+      "In case of joint account, beneficiary farmers shall be entitled to benefit only one of the holders of their land mentioned in 8-A subject to the consent of other account holders."
+    ],
+    "application_process": {
+      "online": [
+        "Application Process:",
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Post- Application Process:",
+        "After applying, they must print the application, sign or provide a thumb impression, and keep a copy.",
+        "Approval for construction is granted based on the application.",
+        "The farmer must construct the storage structure as per government rules within the specified timeframe.",
+        "After construction, the signed application and assistance case paper must be submitted to the concerned office for financial support.",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Land Ownership Documents (8-A Record).",
+      "Bank Passbook.",
+      "Domicile Certificate.",
+      "Recent Passport Size Photograph.",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme aims to help farmers protect their harvested crops from damage due to natural calamities and store them safely for better financial returns by selling at optimal prices."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Any farmer who holds land in the state can apply for this scheme."
+    },
+    {
+      "question": "What is the maximum financial assistance provided under this scheme?",
+      "answer": "The scheme provides 50% of the total cost or up to ₹75,000/-, whichever is lower, for constructing a crop storage structure."
+    },
+    {
+      "question": "Can a farmer apply for this scheme more than once?",
+      "answer": "No, the scheme allows financial assistance only once in a lifetime per landholding (as per the 8-A document)."
+    },
+    {
+      "question": "Is prior approval required before constructing the storage structure?",
+      "answer": "Yes, farmers must obtain prior approval through the application process before starting the construction."
+    },
+    {
+      "question": "Can multiple co-owners of the same land apply separately for this scheme?",
+      "answer": "No, only one co-owner can avail the benefits, provided there is consent from the other co-holders of the land."
+    },
+    {
+      "question": "Can a farmer construct any type of storage structure under this scheme?",
+      "answer": "No, the storage structure must meet the specifications outlined by the government."
+    },
+    {
+      "question": "How can a farmer apply for this scheme?",
+      "answer": "A farmer can apply online through the i-Khedut portal, take a printout of the application, sign it, and keep a copy before proceeding with the construction."
+    },
+    {
+      "question": "Where can a farmer check the status of the application?",
+      "answer": "Answer not captured."
+    },
+    {
+      "question": "Whom should a farmer contact for further details regarding the scheme?",
+      "answer": "A farmer can contact the local agricultural office or visit the i-Khedut portal for more information."
+    }
+  ]
 }

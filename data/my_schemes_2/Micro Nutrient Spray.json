@@ -1,17 +1,92 @@
 {
   "scheme_name": "Micro Nutrient Spray",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mns",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Micro Nutrient Spray",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Micro Nutrient Spray” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, is aimed at helping farmers improve crop nutrition by providing a subsidy for micro-nutrient sprays. The scheme offers a subsidy of 50% or ₹70/- per hectare, whichever is less. All farmers are eligible to apply, with a target of 24% of the benefits flowing to SC/ST farmers and 20% to women farmers or women groups."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "50% subsidy or ₹70/- per hectare for micro-nutrient spray."
+    ],
+    "eligibility": [
+      "The beneficiary should be a Farmer.",
+      "The beneficiary should be a resident of Tamil Nadu."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Collect the application form from the nearest Agricultural Office.",
+        "Step 2:",
+        "Fill out the application form with the required details and attach mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the form to the concerned office:",
+        "Village Level:",
+        "Submit the application to the Assistant Agricultural Officer.",
+        "Block Level:",
+        "Submit to the Agricultural Officer or Deputy Agricultural Officer.",
+        "District Level:",
+        "Submit to the Joint Director of Agriculture."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card, Voter ID)",
+      "Land ownership documents or lease agreement.",
+      "Caste certificate (for SC/ST applicants).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Micro Nutrient Spray scheme?",
+      "answer": "The “Micro Nutrient Spray” scheme provides financial assistance to farmers by offering a subsidy for applying micro-nutrient spray to their crops."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "All farmers are eligible for the scheme. There is also a focus on ensuring 24% of the benefits go to SC/ST farmers and 20% to women farmers or women groups."
+    },
+    {
+      "question": "How much subsidy is offered under the scheme?",
+      "answer": "The scheme provides a subsidy of 50% or ₹70/- per hectare, whichever is less."
+    },
+    {
+      "question": "How can a farmer apply for the scheme?",
+      "answer": "Farmers can apply by submitting their application to the Assistant Agricultural Officer at the village level, or to other agricultural officers at the block or district level."
+    },
+    {
+      "question": "Are there any special provisions for certain communities?",
+      "answer": "Yes, 24% of the benefits are allocated for SC/ST farmers, and 20% for women farmers or women groups."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Farmers need to provide proof of identity, land ownership documents, a caste certificate (if applicable), proof of farming activity, and the completed application form."
+    },
+    {
+      "question": "Is there any age or income limit for this scheme?",
+      "answer": "There is no specific age or income limit for eligibility under this scheme."
+    },
+    {
+      "question": "Can women farmers benefit from the scheme?",
+      "answer": "Yes, women farmers and women groups are eligible, with 20% of the benefits reserved for them."
+    },
+    {
+      "question": "How will the subsidy be provided to the farmers?",
+      "answer": "The subsidy is provided based on the area covered by micro-nutrient spray and upon submission of the required documents."
+    },
+    {
+      "question": "Where can farmers get the application form?",
+      "answer": "Application forms can be obtained from the Assistant Agricultural Officer or the block and district-level agricultural offices."
+    },
+    {
+      "question": "Can farmers apply online for the scheme?",
+      "answer": "Currently, applications need to be submitted in person to the designated agricultural officers. There is no online application process available."
+    }
+  ]
 }

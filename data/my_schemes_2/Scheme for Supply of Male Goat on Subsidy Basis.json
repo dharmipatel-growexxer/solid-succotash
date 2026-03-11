@@ -1,17 +1,92 @@
 {
   "scheme_name": "Scheme for Supply of Male Goat on Subsidy Basis",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sfsomgosb",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Scheme for Supply of Male Goat on Subsidy Basis",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Male Goat Supply Scheme on Grant Basis\" by the Animal Husbandry Department, Government of Madhya Pradesh aims to improve the breed of indigenous/local goats throughout the state. Through this scheme, one male goat of an improved breed (Jamnapari, Barbari, or Sirohi Bakra) is provided to goat farmers of all categories on a grant basis. The applications for this scheme are processed through a multi-level approval system involving Gram Sabha, Janpad Panchayat, and District Panchayat. The scheme is implemented across all districts of the state."
+    ],
+    "benefits": [
+      "Male Goat Package",
+      "One improved breed male goat: ₹7,500/-",
+      "Insurance coverage (2.75% sum insured for one year): ₹206/-",
+      "Mineral mixture: ₹394/-",
+      "Training booklet and monitoring card: ₹200/-",
+      "Total package value: ₹8,300/-",
+      "Grant Component",
+      "Government contribution: 75% of total cost",
+      "Beneficiary contribution: 25% of total cost"
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should be actively involved in goat rearing.",
+      "The applicant must be a goat rearer of any category.",
+      "The applicant must possess a minimum of 5 goats."
+    ],
+    "application_process": {
+      "offline": [
+        "Initial Approval",
+        "by the beneficiaries in Gram Sabha.",
+        "Secondary Approval",
+        "by the Janpad Panchayat for Gram Sabha-approved beneficiaries.",
+        "Final Approval",
+        "by the Agriculture Standing Committee of the District Panchayat.",
+        "The interested applicants should contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof (Aadhaar Card, etc)",
+      "Proof of Goat Ownership",
+      "Residence/Address Proof",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The scheme aims to improve the breed of native/local goats by providing male goats of improved breeds to goat rearers."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "All categories of goat rearers residing in Madhya Pradesh are eligible, provided they fulfill the required eligibility criteria."
+    },
+    {
+      "question": "What is the subsidy provided under this scheme?",
+      "answer": "The scheme offers a 75% subsidy, and the remaining 25% is the beneficiary's share."
+    },
+    {
+      "question": "What is the total unit cost under the scheme?",
+      "answer": "The total unit cost is ₹8,300, which includes the price of the goat, insurance, mineral mixture, and training materials."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Applicants must submit proof of residence, caste certificate (if applicable), Aadhaar card, income certificate, land records (if applicable), and a passport-size photograph."
+    },
+    {
+      "question": "How are beneficiaries selected?",
+      "answer": "Beneficiaries are selected through a three-step approval process: Gram Sabha, Janpad Panchayat, and the Agriculture Standing Committee of the District Panchayat."
+    },
+    {
+      "question": "What is the process to apply for the scheme?",
+      "answer": "Eligible applicants must contact the nearest Veterinary Officer, Animal Dispensary In-charge, or Deputy Director of Veterinary Services to submit their application."
+    },
+    {
+      "question": "How many goats can be provided to a single beneficiary?",
+      "answer": "The scheme provides one male goat of an improved breed to each eligible beneficiary."
+    },
+    {
+      "question": "Is there any training provided under the scheme?",
+      "answer": "Yes, beneficiaries receive training materials such as a booklet and a monitoring card to ensure proper care and management of the goat."
+    },
+    {
+      "question": "What happens if the goat gets injured or dies?",
+      "answer": "The scheme includes an insurance component (2.75% of the cost) for one year to cover such contingencies."
+    }
+  ]
 }

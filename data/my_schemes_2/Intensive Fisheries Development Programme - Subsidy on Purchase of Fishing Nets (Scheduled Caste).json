@@ -1,17 +1,114 @@
 {
   "scheme_name": "Intensive Fisheries Development Programme - Subsidy on Purchase of Fishing Nets (Scheduled Caste)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/safpofn",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Intensive Fisheries Development Programme - Subsidy on Purchase of Fishing Nets (Scheduled Caste)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Subsidy on Purchase of Fishing Nets\" is a scheme component under the Intensive Fisheries Development Programme, introduced by the Fisheries Department, Government of Haryana. The scheme aims to provide financial assistance to individuals from Scheduled Caste families engaged in fishing activities for the purchase of fishing nets. Under this scheme, eligible beneficiaries can avail a subsidy of up to 60% on the cost of fishing nets."
+    ],
+    "benefits": [
+      "Financial Assistance is provided to Fish Farmers under the scheme:",
+      "Financial assistance of 60% subsidy on the purchase of fishing nets of amounting to ₹40,000/-.",
+      "The maximum subsidy amount is ₹24,000/-.",
+      "Note:",
+      "Subsidy is available only once in two years per beneficiary."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should possess a valid Parivar Pehchan Patra (PPP).",
+      "The applicant should belong to the Scheduled Caste (SC) category.",
+      "The applicant should be at least 18 years old.",
+      "The applicant should present a GST-paid bill for the purchase of fishing nets.",
+      "The applicant can apply only once in two years for this subsidy."
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Fees For Service:",
+        "Government Charges: ₹0 (No Fee)",
+        "Service Charges: ₹10",
+        "Atal Seva Kendra Charges: ₹10"
+      ]
+    },
+    "documents_required": [
+      "Agreement Letter-1 (Agreement letter between the farmer and the department for fisheries)",
+      "Birth Certificate (Date of birth certificate / Class ten (10th) certificate / PAN Card / Voter ID Card / Driver's License)",
+      "Identity Proof (Ration Card / Aadhaar Card / PAN Card / Voter ID Card)",
+      "Fisheries Training Certificate of the Applicant from any Government Institution",
+      "Caste Certificate (issued by a First-Class Magistrate)",
+      "GST Payment Bill/Receipt for Fishnet Purchase"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Official Website",
+      "Scheme Details (Page No. 3)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the maximum subsidy amount offered?",
+      "answer": "₹24,000 on a fishing net purchase worth ₹40,000."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "SC category residents of Haryana aged 18 years or above."
+    },
+    {
+      "question": "Is this scheme available to General Category applicants?",
+      "answer": "No, it is exclusively for Scheduled Caste beneficiaries."
+    },
+    {
+      "question": "What is the frequency of this subsidy?",
+      "answer": "Once in two years per eligible applicant."
+    },
+    {
+      "question": "What documents are needed for proof of identity and age?",
+      "answer": "Aadhaar, PAN, Voter ID, or Driving License."
+    },
+    {
+      "question": "What is the application fee?",
+      "answer": "₹10 service charge and ₹10 Atal Seva Kendra charge; no government fee."
+    },
+    {
+      "question": "Where can I apply for this scheme?",
+      "answer": "The applicant can apply through the Atal Seva Kendra or the Antyodaya SARAL portal ."
+    },
+    {
+      "question": "What kind of invoice is acceptable?",
+      "answer": "Only GST-paid purchase invoice/receipt for fishing nets."
+    }
+  ]
 }

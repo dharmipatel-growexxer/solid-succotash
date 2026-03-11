@@ -1,17 +1,88 @@
 {
   "scheme_name": "Birsa Harit Gram Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/bhgy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Birsa Harit Gram Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Birsa Harit Gram Yojana\" by the Rural Development Department, Government of Jharkhand, aims to promote afforestation and provide sustainable livelihood opportunities for marginalized communities. Under this scheme, block and linear plantation activities are conducted on common and private lands, benefiting Scheduled Castes (SC), Scheduled Tribes (ST), landless families, and other economically weaker sections. The scheme is implemented by the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) framework.",
+      "Objective:",
+      "The objectives include improving green cover, generating rural employment, and ensuring environmental sustainability through a structured three-phase plantation model."
+    ],
+    "benefits": [
+      "Plantation of fruit-bearing and fodder trees on common land and private land.",
+      "Sustainable livelihood generation for marginalized families.",
+      "Employment guarantee of 100 days under MGNREGA.",
+      "Usufruct rights over the plantation for beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant should belong to Scheduled Castes (SC), Scheduled Tribes (ST), Primitive Tribes, or be a Below Poverty Line (BPL) family.",
+      "The applicant should be a woman-headed household, a person with disabilities, or a beneficiary of the Pradhan Mantri Awas Yojana (PMAY).",
+      "The applicant should be a small or marginal farmer.",
+      "The applicant should possess a MGNREGA job card.",
+      "The applicant's livelihood should primarily depend on agriculture."
+    ],
+    "application_process": {
+      "offline": [
+        "The interested applicant may visit the local Gram Panchayat or MGNREGA office.",
+        "Submit a duly filled application form along with the required documents.",
+        "The Gram Sabha will verify and approve the eligible applications.",
+        "Upon approval, plantation work will be assigned as per the scheme phase."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof",
+      "Caste Certificate (if applicable)",
+      "BPL Certificate (if applicable)",
+      "MGNREGA Job Card"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply for the BHGY?",
+      "answer": "SC, ST, BPL families, landless farmers, and marginalized groups can apply."
+    },
+    {
+      "question": "How does this scheme provide employment?",
+      "answer": "The scheme guarantees 100 days of wage employment under MGNREGA."
+    },
+    {
+      "question": "What types of trees are planted under this scheme?",
+      "answer": "Fruit-bearing and fodder trees like mango, guava, and neem are planted."
+    },
+    {
+      "question": "How is the land for plantation selected?",
+      "answer": "Plantation is done on common land and private land of eligible beneficiaries."
+    },
+    {
+      "question": "Is there any financial assistance provided?",
+      "answer": "Wages for plantation work are provided under MGNREGA."
+    },
+    {
+      "question": "How long is the maintenance support provided?",
+      "answer": "Maintenance support is provided for three years after the plantation."
+    },
+    {
+      "question": "How are beneficiaries selected?",
+      "answer": "Beneficiaries are selected through Gram Sabha recommendations."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "Applications can be submitted at the local Gram Panchayat or MGNREGA office."
+    },
+    {
+      "question": "Is the scheme applicable in urban areas?",
+      "answer": "No, it is focused on rural areas under MGNREGA guidelines."
+    },
+    {
+      "question": "What are usufruct rights in this scheme?",
+      "answer": "Beneficiaries can use and sell the produce from the plantation."
+    }
+  ]
 }

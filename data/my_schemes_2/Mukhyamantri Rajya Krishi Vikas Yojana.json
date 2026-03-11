@@ -1,17 +1,94 @@
 {
   "scheme_name": "Mukhyamantri Rajya Krishi Vikas Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mrkvy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Rajya Krishi Vikas Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Mukhyamantri Rajya Krishi Vikas Yojana” is implemented by the Department of Sugarcane Development and Sugar Industry, Government of Uttarakhand. The scheme aims to help sugarcane farmers grow better crops, increase production, improve sugar quality, and provide support through high-quality seeds, modern techniques, mechanization, crop protection, and advanced farming practices."
+    ],
+    "benefits": [
+      "Breeder Seed Sugarcane Production Program:",
+      "The programme is proposed to be run by G.B. Pant University of Agriculture and Technology, Pantnagar, on the farms of its subordinate research centres. Under this scheme, breeder seed production of the latest sugarcane varieties will be carried out. At sugarcane research centres, 25% of breeder seed nurseries will be established in autumn and 75% in spring. As per the allocation by the Sugarcane Department, a subsidy of ₹100/- per quintal is provided to the institution for seed distribution from these nurseries. Based on the average yield of the district, 50% of the subsidy will be provided for agricultural inputs such as fertilizers and pesticides at the time of sowing in the nursery, with the remaining amount payable upon seed distribution.",
+      "Establishment of Base Nurseries:",
+      "It is proposed to establish base nurseries. A subsidy of ₹50/- per quintal will be provided for sugarcane seed distribution, with a maximum limit of ₹15,000/-.",
+      "Establishment of Primary Nurseries:",
+      "It is proposed to establish primary nurseries, under which a subsidy of ₹25/- per quintal of sugarcane seed will be provided, with a maximum limit of ₹10,000/-.",
+      "Field Demonstrations:",
+      "Demonstrations will be organized using the latest sugarcane sowing techniques. Sugarcane farmers will be provided a grant of ₹7,500 per 0.5-hectare demonstration.",
+      "Sugarcane Seed Transportation and Harvesting Loading:",
+      "A 100% subsidy on actual transportation costs will be provided to buyer-based nursery holders or the Sugarcane Development Council for transporting elite seeds produced at research farms.",
+      "Subsidy on Agricultural Equipment:",
+      "Under the Sub-Mission on Agricultural Mechanization, human-operated equipment for sugarcane cultivation will be distributed to farmers.",
+      "Sugarcane Seed Differential Price Payment:",
+      "The Department will provide a subsidy based on the actual cost of sugarcane seeds, which can be supplied from any sugarcane research center located within or outside the State.",
+      "Pest, Disease, and Weed Control:",
+      "A farmer is eligible for a subsidy of up to ₹3,000/- per hectare for crop protection and weed control. The subsidy covers 50% of the actual cost, with a maximum limit of ₹3,000/- per farmer.",
+      "Distribution of Micronutrients, Organic, and Bio-Fertilizers:",
+      "Farmers will receive a 50% subsidy, up to ₹1,000/- per hectare, on the purchase of micronutrients, organic, and bio-fertilizers to promote successful sugarcane cultivation and improve sugar recovery.",
+      "The scheme encourages farmers to adopt advanced sugarcane cultivation through publicity campaigns, soil testing, and training programs at the village and district levels."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer cultivating sugarcane.",
+      "The applicant must be a permanent member of a cooperative sugarcane development society.",
+      "The applicant must practice advanced sugarcane farming.",
+      "The applicant’s name must be registered in the land records of the state."
+    ],
+    "application_process": {
+      "offline": [
+        "To select sugarcane farmers eligible for the benefits of this scheme, the selection is carried out after discussions with public representatives in the Gram Sabha (village assembly) meeting at the village level, followed by a survey conducted by the sugarcane supervisor, and upon approval by the departmental officers (Sugarcane Development Inspector, Senior Sugarcane Development Inspector, and Assistant Sugarcane Commissioner)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Land record documents",
+      "Bank account details",
+      "Proof of membership of the concerned society",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 253)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Farmers who are permanent members of cooperative sugarcane development societies, practice advanced sugarcane cultivation, and whose names are registered in the land records of Uttarakhand are eligible."
+    },
+    {
+      "question": "Can any sugarcane farmer apply for the scheme?",
+      "answer": "No, only farmers meeting the eligibility criteria and selected through Gram Sabha discussions and surveys by sugarcane supervisors are considered."
+    },
+    {
+      "question": "How are breeder seed nurseries distributed throughout the year?",
+      "answer": "At sugarcane research centres, 25% of nurseries are established in autumn and 75% in spring."
+    },
+    {
+      "question": "What subsidy is provided for breeder seed production?",
+      "answer": "A subsidy of ₹100 per quintal is given to institutions for seed distribution. 50% of this is provided for agricultural inputs at sowing, and the remaining is paid after seed distribution."
+    },
+    {
+      "question": "Is transportation of sugarcane seeds subsidized?",
+      "answer": "Yes, 100% of the actual cost for transporting elite seeds from research centres is subsidized for buyers or the Sugarcane Development Council."
+    },
+    {
+      "question": "What is the Sugarcane Seed Differential Price Payment?",
+      "answer": "The Department provides a subsidy based on the actual cost of sugarcane seeds, whether sourced from within or outside the state."
+    },
+    {
+      "question": "What support is provided for pest, disease, and weed control?",
+      "answer": "Farmers are eligible for 50% of the actual cost, up to a maximum of ₹3,000 per hectare."
+    },
+    {
+      "question": "How are farmers selected for the scheme?",
+      "answer": "Selection is made after discussions in Gram Sabha meetings, surveys by sugarcane supervisors, and approval by departmental officers such as the Sugarcane Development Inspector."
+    },
+    {
+      "question": "Are training programs included in the scheme?",
+      "answer": "Yes, the scheme encourages training, publicity campaigns, and soil testing at village and district levels to promote advanced cultivation practices."
+    }
+  ]
 }

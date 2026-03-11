@@ -1,17 +1,115 @@
 {
   "scheme_name": "Scheme for the Welfare of Schedule Caste Families in Fisheries Sector: Subsidy on 1st Year Lease Money",
   "scheme_url": "https://www.myscheme.gov.in/schemes/so1ylm",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Scheme for the Welfare of Schedule Caste Families in Fisheries Sector: Subsidy on 1st Year Lease Money",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Subsidy on 1st Year Lease Money” is a scheme component under the Scheme for the Welfare of Scheduled Caste Families in the Fisheries Sector, launched by the Fisheries Department, Government of Haryana. The objective of the scheme is to provide full-time employment to individuals from Scheduled Caste families in the fisheries sector and to uplift these families by promoting fish farming through financial assistance for leasing Panchayati ponds or watershed areas. Under this scheme, a subsidy is provided to Scheduled Caste beneficiaries to partially cover the lease cost, thereby reducing the financial burden during the initial stages of aquaculture."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "50% of the actual lease amount OR ₹50,000/- per hectare, whichever is less.",
+      "The subsidy is applicable for a maximum of 4 hectares per beneficiary."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should possess a valid Family ID Card (Parivar Pehchan Patra).",
+      "The applicant should belong to a Scheduled Caste category.",
+      "The applicant's age should be 18 years or above.",
+      "The pond lease period should not be less than 5 years.",
+      "The maximum area eligible for subsidy is 4 hectares per applicant.",
+      "The subsidy is applicable only on Panchayati ponds and government water sheds."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Fees For Service:",
+        "Government Charges: ₹0 (No Fee)",
+        "Service Charges: ₹10",
+        "Atal Seva Kendra Charges: ₹10"
+      ]
+    },
+    "documents_required": [
+      "Agreement 1 - Agreement deed between fish farmer and Fisheries Department",
+      "Agreement 2 - Agreement deed between fish farmer and panchayat for fish culture",
+      "Date of Birth Certificate - Birth Certificate/Matriculation Certificate/PAN Card/Voter Card/Driving License",
+      "Identity Proof – Ration Card/Aadhar Card/PAN Card/Voter Card",
+      "Caste Certificate - Caste Certificate issued by 1st Class Magistrate",
+      "Training Certificate - Training from any Govt. Institute",
+      "Lease Deed - (Panchayat Resolution and receipt no. 4 of Panchayat)",
+      "Receipt of Fish Seed (purchased from the government/national fish seed farms)",
+      "Photographs of the Pond Site"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Scheme Details (Page No. 3)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Only Scheduled Caste fish farmers residing in Haryana with valid lease agreements for Panchayati ponds."
+    },
+    {
+      "question": "What is the financial assistance amount?",
+      "answer": "₹50,000 per hectare or 50% of the actual lease amount, whichever is lower."
+    },
+    {
+      "question": "Is there a maximum limit to the subsidy?",
+      "answer": "Yes, up to 4 hectares per beneficiary."
+    },
+    {
+      "question": "Can I lease private ponds?",
+      "answer": "No, the scheme covers only Panchayati ponds or watershed areas."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "At the District Fisheries Office or Atal Seva Kendra."
+    },
+    {
+      "question": "Do I need to provide a photo of the pond?",
+      "answer": "Yes, site-specific photos are mandatory."
+    },
+    {
+      "question": "What age must the applicant be?",
+      "answer": "The applicant must be 18 years or older."
+    },
+    {
+      "question": "What documents are needed for lease proof?",
+      "answer": "Panchayat’s resolution and lease receipt (number-4)."
+    }
+  ]
 }

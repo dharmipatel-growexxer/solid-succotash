@@ -1,17 +1,118 @@
 {
   "scheme_name": "Decentralized People’s Nursery",
   "scheme_url": "https://www.myscheme.gov.in/schemes/dpn",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Decentralized People’s Nursery",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Decentralized People’s Nursery\" by the Social Forestry wing of the Principal Chief Conservator of Forest & Head of the Forest Force (HoFF), Government of Gujarat, aims to augment the income of farmers and increase tree cover by promoting afforestation activities. It allows individuals and institutions interested in raising seedlings to apply for assistance. The scheme typically involves a target of 20,000 seedlings to be raised by an applicant. A key feature is that ownership of the seedlings remains with the beneficiary, who is free to sell or use them without external permission. Financial compensation is provided in installments for the plants raised. The scheme is implemented by the Forest Department."
+    ],
+    "benefits": [
+      "Financial Assistance for Raising Seedlings:",
+      "₹2.20 per seedling is provided in three installments.",
+      "Ownership of Seedlings:",
+      "The beneficiary retains full ownership of the seedlings raised and can sell or use them without requiring permission from anyone.",
+      "Income Generation:",
+      "The scheme is recognized as a \"very good income generating activity\".",
+      "Accessibility of Plants:",
+      "Decentralized people's nurseries ensure the availability of plants within a reasonable distance of villages for extensive tree plantations in both rural and urban areas.",
+      "Targeted Benefits for Scheduled Caste Community:",
+      "Under the \"Special Component Program (SCP)-Decentralised Peoples Nursery\", similar benefits are extended to beneficiaries and beneficiary groups belonging to the Scheduled Caste community."
+    ],
+    "eligibility": [
+      "The applicant must be interested in raising seedlings.",
+      "The scheme is open to all individuals.",
+      "The applicant must typically aim to raise a target of 20,000 seedlings.",
+      "Preference",
+      "An applicant who can keep a piece of land reserved for the purpose of nursery for a minimum of twelve months.",
+      "An applicant who plans to undertake the nursery activity as a commercial activity and not merely a seasonal one on that piece of land.",
+      "Specific to Decentralized School / Kisan Nursery",
+      "The interested stakeholder must submit an application in response to an advertisement in the local media.",
+      "Small and marginal farmers, Below Poverty Line (BPL) cardholder families, landless laborers, and schools can raise plants under this variant.",
+      "Specific to SCP-Decentralised Peoples Nursery",
+      "The beneficiary or beneficiary group must belong to the Scheduled Caste community."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should take a printout of the prescribed format of the",
+        "application form",
+        ".",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to -",
+        "PCCF & HOFF, Gujarat State, Block A, 1st Floor, Aranya Bhavan,Opp, St.Xaviers School,Near Ch-3 Circle, Sector-10/A, Gandhinagar.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity",
+      "Proof of Address",
+      "Land Ownership or Lease Agreement (for land reserved for nursery)",
+      "Bank Account Details (for receiving installments)",
+      "Caste Certificate (for Scheduled Caste beneficiaries)",
+      "B.P.L. (Below Poverty Line) Card (for Decentralized School / Kisan Nursery and SCP variants)"
+    ],
+    "sources_and_references": [
+      "FAQs On Social Forestry Schemes",
+      "Scheme's Page Of PCCF & HoFF",
+      "Application Form [PDF]"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What specific financial assistance amount will I receive for each seedling that I successfully raise under this scheme?",
+      "answer": "You will receive ₹2.20 for each seedling raised, which will be provided to you in three separate installments throughout the process."
+    },
+    {
+      "question": "Can I sell the seedlings I grow without taking permission from the Forest Department or any other government authority?",
+      "answer": "Yes, you retain complete ownership of all seedlings you raise and are free to sell or use them without requiring permission from anyone."
+    },
+    {
+      "question": "What is the typical target number of seedlings that an applicant is expected to raise under this program?",
+      "answer": "The standard target for seedlings to be raised by an applicant is typically 20,000 seedlings under this scheme."
+    },
+    {
+      "question": "Which specific communities are eligible to apply for benefits under the Special Component Program variant of this nursery scheme?",
+      "answer": "Under the Special Component Program Decentralised Peoples Nursery, beneficiaries or beneficiary groups must belong to the Scheduled Caste community to be eligible."
+    },
+    {
+      "question": "Who are the specific categories of people that can participate in the Decentralized School or Kisan Nursery variant?",
+      "answer": "Small and marginal farmers, Below Poverty Line cardholders, landless laborers, and schools are eligible to raise plants under this particular variant."
+    },
+    {
+      "question": "Is there any restriction on who can apply for this seedling raising scheme, or is it open to everyone?",
+      "answer": "The scheme is open to all individuals who have an interest in raising seedlings and meet the basic requirements."
+    },
+    {
+      "question": "What is the minimum duration for which I need to keep my land reserved exclusively for nursery activities?",
+      "answer": "You must be able to keep a piece of land reserved specifically for nursery purposes for a minimum period of 12 months."
+    },
+    {
+      "question": "How should I apply for the Decentralized School or Kisan Nursery variant if I belong to one of the eligible categories?",
+      "answer": "You must submit an application in response to an advertisement that will be published in the local media for this variant."
+    },
+    {
+      "question": "What type of activity approach gives preference to applicants when selecting beneficiaries for this nursery scheme?",
+      "answer": "Preference is given to applicants who plan to undertake nursery activity as a commercial venture rather than merely a seasonal activity."
+    },
+    {
+      "question": "What is the primary income generation potential that this scheme offers to participants who successfully complete the program?",
+      "answer": "This scheme is officially recognized as a very good income generating activity for those who participate and successfully raise seedlings."
+    },
+    {
+      "question": "How does this nursery program help ensure that plants are easily available for plantation activities in local areas?",
+      "answer": "Decentralized people's nurseries ensure plant availability within reasonable distance of villages for extensive tree plantations in both rural and urban areas."
+    },
+    {
+      "question": "What government department is responsible for implementing and managing this seedling raising assistance program?",
+      "answer": "The scheme is implemented and managed by the Forest Department under the Social Forestry wing of the government."
+    }
+  ]
 }

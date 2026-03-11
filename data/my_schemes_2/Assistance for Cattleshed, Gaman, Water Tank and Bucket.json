@@ -1,17 +1,101 @@
 {
   "scheme_name": "Assistance for Cattleshed, Gaman, Water Tank and Bucket",
   "scheme_url": "https://www.myscheme.gov.in/schemes/afcgwtb",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Assistance for Cattleshed, Gaman, Water Tank and Bucket",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Assistance for Cattleshed, Gaman, Water Tank and Bucket\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to farmers and cattle rearers for the construction of cattlesheds, purchasing gaman (cattle feed containers), water tanks, and buckets."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Minimum Time Limit(In Year) for Reclaiming Benefits",
+      "Assistance for Schedule Caste People of Cattleshed, Gaman, Water tank and Bucket (2 Animal)",
+      "Assistace up to ₹30,000/- for 2 Animals Catlle Shed can be availed after sanction of application and construction of cattle shed",
+      "once in a lifetime"
+    ],
+    "eligibility": [
+      "The applicant should be a farmer.",
+      "The applicant should belong to the Schedule Caste category.",
+      "The applicant must own land or have a minimum 10-year lease agreement."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Land ownership or 10-year lease agreement documents.",
+      "Copy of Ration card.",
+      "Schedule Caste Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Assistance for Cattleshed, Gaman, Water Tank and Bucket\" scheme?",
+      "answer": "The \"Assistance for Cattleshed, Gaman, Water Tank, and Bucket\" scheme provides financial aid to farmers and cattle rearers for the construction of cattlesheds, purchasing gaman (cattle feed containers), water tanks, and buckets."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Schedule Caste applicants are eligible if they are a farmer who owns land or has a minimum 10-year lease agreement for cattle rearing."
+    },
+    {
+      "question": "What type of financial assistance is provided under the scheme?",
+      "answer": "The scheme provides financial support for the construction of cattlesheds and the purchase of gaman (cattle feed containers), water tanks, and buckets."
+    },
+    {
+      "question": "Is there any income limit for applying to the scheme?",
+      "answer": "The scheme may have specific income criteria based on government guidelines, and applicants are advised to check with the concerned authorities for details."
+    },
+    {
+      "question": "Can women farmers apply for the scheme?",
+      "answer": "Yes, women farmers belonging to the Schedule Caste category are eligible to apply for the scheme."
+    },
+    {
+      "question": "Is there any fee required for applying to the scheme?",
+      "answer": "No, there is no registration fee or application charge for availing of the scheme."
+    },
+    {
+      "question": "How can an applicant apply for the scheme?",
+      "answer": "Applicants can apply online through the iKhedut Portal."
+    },
+    {
+      "question": "Can an applicant without land ownership apply for the scheme?",
+      "answer": "Yes, an applicant can apply if they have a lease agreement for at least 10 years, even if they do not own land."
+    },
+    {
+      "question": "What happens if an applicant provides false information in the application?",
+      "answer": "If false information is detected, the application will be rejected, and the applicant may face legal action or be disqualified from future benefits."
+    },
+    {
+      "question": "Who should be contacted for more details about the scheme?",
+      "answer": "Applicants can visit the official iKhedut Portal for more details about the scheme."
+    }
+  ]
 }

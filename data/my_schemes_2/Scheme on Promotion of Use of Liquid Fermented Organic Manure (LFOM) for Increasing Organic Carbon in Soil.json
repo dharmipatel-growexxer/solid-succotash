@@ -1,17 +1,99 @@
 {
   "scheme_name": "Scheme on Promotion of Use of Liquid Fermented Organic Manure (LFOM) for Increasing Organic Carbon in Soil",
   "scheme_url": "https://www.myscheme.gov.in/schemes/splfom",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme on Promotion of Use of Liquid Fermented Organic Manure (LFOM) for Increasing Organic Carbon in Soil",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Scheme on Promotion of Use of Liquid Fermented Organic Manure (LFOM) for Increasing Organic Carbon in Soil\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to encourage farmers to adopt eco-friendly agricultural practices. The scheme provides financial assistance of ₹4,000 per acre to farmers who utilize LFOM or Fermented Organic Manure (FOM) in their farming operations."
+    ],
+    "benefits": [
+      "An amount of ₹4,000/- per acre for using LFOM or FOM."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must be engaged in agricultural activities.",
+      "The applicant must be willing to adopt LFOM/FOM on their farm."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "7/12 Certificate.",
+      "Aadhaar Card.",
+      "Bank Pass Book/Cancelled Cheque.",
+      "Caste Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 463)",
+      "User Manual (Applicant Registration)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main purpose of the \"Scheme on Promotion of Use of Liquid Fermented Organic Manure (LFOM) for Increasing Organic Carbon in Soil\"?",
+      "answer": "The primary objective of this scheme is to encourage farmers in Gujarat to adopt Liquid Fermented Organic Manure (LFOM) or Fermented Organic Manure (FOM) in their farming practices in order to enhance the organic carbon content of the soil, thereby promoting sustainable and eco-friendly agricultural methods."
+    },
+    {
+      "question": "Who is eligible to apply for financial assistance under this scheme?",
+      "answer": "Any individual who is a resident of Gujarat and engaged in agricultural activities is eligible to apply for financial assistance under this scheme, provided they commit to using LFOM or FOM in their farming operations."
+    },
+    {
+      "question": "What financial support is provided to the beneficiaries under this scheme?",
+      "answer": "Under this scheme, each eligible farmer is entitled to receive a financial grant of ₹4,000 per acre as an incentive for using LFOM or FOM on their agricultural land to improve soil health and fertility."
+    },
+    {
+      "question": "Is there any limit on the maximum acreage for which a farmer can claim this benefit?",
+      "answer": "While the scheme provides ₹4,000/- per acre, the maximum number of acres for which a farmer can claim the benefit may be subject to limitations as per the specific scheme guidelines published on the iKhedut portal."
+    },
+    {
+      "question": "What type of manure is covered under this scheme and why is it promoted?",
+      "answer": "The scheme specifically promotes the use of Liquid Fermented Organic Manure (LFOM) and Fermented Organic Manure (FOM) because these natural fertilizers enhance soil organic matter, improve soil structure, and contribute to long-term soil productivity without relying on chemical inputs."
+    },
+    {
+      "question": "Is it mandatory for applicants to submit a caste certificate while applying?",
+      "answer": "Submitting a caste certificate is only mandatory for farmers who belong to Scheduled Castes (SC), Scheduled Tribes (ST), or Other Backward Classes (OBC) and wish to avail of any category-specific benefits, while it is not required for general category applicants."
+    },
+    {
+      "question": "What is the significance of the 7/12 certificate in the application process?",
+      "answer": "The 7/12 certificate serves as an official document verifying the applicant’s ownership or legal possession of agricultural land, and it is crucial for establishing the farmer’s eligibility to receive the benefit under the scheme."
+    },
+    {
+      "question": "How is the financial assistance disbursed to the approved beneficiaries?",
+      "answer": "The financial assistance provided under the scheme is generally credited directly into the bank account linked with the applicant's iKhedut profile, ensuring secure and transparent fund transfer."
+    },
+    {
+      "question": "Where and how can eligible farmers apply for this scheme?",
+      "answer": "Eligible farmers can apply for this scheme exclusively through the official iKhedut portal, where they must register or log in, fill out the application form, and upload the required documents as specified."
+    },
+    {
+      "question": "Whom should farmers contact if they face issues or need assistance with the application process?",
+      "answer": "If farmers encounter difficulties or have queries regarding the application process, they are advised to reach out to their nearest agricultural extension officer or contact the support helpline available on the iKhedut portal for guidance."
+    }
+  ]
 }

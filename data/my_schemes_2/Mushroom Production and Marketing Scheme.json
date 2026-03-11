@@ -1,17 +1,83 @@
 {
   "scheme_name": "Mushroom Production and Marketing Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mpms",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mushroom Production and Marketing Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Mushroom Production and Marketing Scheme” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote mushroom cultivation among farmers by providing subsidized inputs, training, and support for marketing, thereby increasing their income and encouraging entrepreneurship in the sector."
+    ],
+    "benefits": [
+      "Under this scheme, the following assistance is provided:",
+      "Pasteurized compost is provided at a 50% subsidy on the total cost, up to a maximum of 50 quintals per beneficiary. Similarly, mushroom spawn (seed) is provided at a 50% subsidy on the total cost, up to a maximum of 25 kg per beneficiary. No cash is given; the pasteurized compost and spawn are provided directly by the department.",
+      "Seven-day training for mushroom growers is provided (₹1,050/- per beneficiary), of which ₹700/- is transferred to the beneficiary’s account through DBT, and ₹350/- is used for training materials and related expenses.",
+      "Farmers/mushroom growers who produce mushrooms under the scheme can sell their produce in local markets or mandis."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer interested in mushroom cultivation."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail the benefits of this scheme, the applicant must first download the application form/proposal format from the department's website",
+        "https://shm.uk.gov.in/",
+        "or obtain it from the concerned Horticulture Mobile team Centre office. The applicant must then prepare the proposal in the prescribed format.",
+        "If there is any difficulty in preparing the proposal, the Horticulture Mobile team Centre personnel will assist. The application requires land documents, Aadhaar card, PAN card, bank account details, expected income from mushroom cultivation, and any previous training certificates. The completed proposal must then be submitted to the office.",
+        "If the farmer does not have sufficient funds, they may apply for a loan from the bank. The application form is then sent directly to the Horticulture Mission, where it is evaluated by a committee. Upon approval, the applicant is informed via telephone and receives an acceptance letter from the office of the Director of the Horticulture Mission or the Chief Mushroom Development Officer.",
+        "Interested farmers can obtain pasteurized compost and spawn from the relevant district office. This entire process is currently conducted offline. Eligible beneficiaries are allocated up to 50 quintals of compost and 25 kg of spawn on a first-come, first-served basis, depending on budget availability.",
+        "For training, an application must be submitted to the Horticulture Mobile team Centre. After receiving the request, the department schedules the training and informs the farmer by phone. The farmer can then attend the training on the scheduled date."
+      ]
+    },
+    "documents_required": [
+      "Land related documents",
+      "Aadhaar card",
+      "PAN card",
+      "Bank account details",
+      "Details of expected income from mushroom cultivation",
+      "Certificates of any previous training in mushroom cultivation"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 220)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "The applicant must be a resident of Uttarakhand and a farmer interested in mushroom cultivation."
+    },
+    {
+      "question": "What assistance is provided under the scheme?",
+      "answer": "The scheme provides pasteurized compost and mushroom spawn at a 50% subsidy, seven-day training for mushroom cultivation, and support for marketing the produce in local markets."
+    },
+    {
+      "question": "Is any cash provided to beneficiaries for inputs?",
+      "answer": "No cash is provided; the department directly supplies pasteurized compost and spawn to the beneficiaries."
+    },
+    {
+      "question": "What is the maximum quantity of compost and spawn provided per beneficiary?",
+      "answer": "Up to 50 quintals of compost and 25 kg of mushroom spawn per beneficiary, subject to budget availability and on a first-come, first-served basis."
+    },
+    {
+      "question": "What is the training provided under the scheme?",
+      "answer": "A seven-day training program is provided to mushroom growers. The total cost per beneficiary is ₹1,050, with ₹700 transferred through DBT and ₹350 spent on training materials."
+    },
+    {
+      "question": "Where can farmers sell the mushrooms produced under the scheme?",
+      "answer": "Farmers can sell their mushrooms in local markets or mandis."
+    },
+    {
+      "question": "How can a farmer apply for this scheme?",
+      "answer": "The application form or proposal format can be downloaded from department's website (https://shm.uk.gov.in/) or obtained from the Horticulture Mobile Squad Centre office."
+    },
+    {
+      "question": "How is the application processed?",
+      "answer": "Applications are sent to the Horticulture Mission, where they are evaluated by a committee. Approved applicants are informed via telephone and receive an acceptance letter."
+    },
+    {
+      "question": "How are inputs allocated to beneficiaries?",
+      "answer": "Inputs are allocated on a first-come, first-served basis, depending on the availability of the budget."
+    }
+  ]
 }

@@ -1,17 +1,122 @@
 {
   "scheme_name": "Mushroom Kit Vitaran",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mkvb",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Mushroom Kit Vitaran",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Mushroom Kit Vitaran” scheme launched by the Department of Agriculture, Bihar, aims to encourage farmers and individuals to engage in mushroom cultivation by providing high-quality mushroom kits at a 90% subsidy and through training programs."
+    ],
+    "benefits": [
+      "Subsidized Mushroom Kits:",
+      "Kits provided at ₹60/- each with a 90% subsidy.",
+      "High-Quality Materials:",
+      "Kits weigh 5 kg and include 100 grams of superior mushroom spawn.",
+      "Training Support:",
+      "2-days group training is provided, with a daily allowance of ₹1000/- per farmer."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Bihar.",
+      "The applicant should be a farmer.",
+      "The applicant must be registered on the DBT portal.",
+      "Farmers who have taken advantage of the scheme in the last three years (202-22, 2022-23 and 2023-24) will not be given the benefit of the scheme this year.",
+      "Note:",
+      "The benefit of this scheme will be given only once to one member of the family.",
+      "Beneficiaries will be selected on first come first serve basis."
+    ],
+    "application_process": {
+      "online": [
+        "DBT Registration Process:",
+        "Step 1:",
+        "Visit the",
+        "registration page",
+        "of the DBT portal.",
+        "Step 2:",
+        "Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.",
+        "Step 3:",
+        "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.",
+        "Step 4:",
+        "Enter the OTP. Click on “Validate OTP”.",
+        "Step 5:",
+        "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.",
+        "Step 6:",
+        "In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.",
+        "Step 7:",
+        "Validate with OTP. Click on “Register” to generate the Registration Id.",
+        "Note:",
+        "After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.",
+        "Online Application of the Scheme:",
+        "Visit the official",
+        "website",
+        ".",
+        "Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”.",
+        "In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”.",
+        "Fill in the required details i.e. Address, Land Details, etc, and upload documents.",
+        "Confirm the checkbox and then click on “Submit”.",
+        "An “Application Number” will be generated. Keep this for future reference.",
+        "Printout of the filled in application also can be taken using the Print option."
+      ]
+    },
+    "documents_required": [
+      "For DBT Registration Process:",
+      "Aadhaar Details (Should be linked with mobile number).",
+      "Passport Size Photo.",
+      "Farmer details.",
+      "Land information.",
+      "Bank account.",
+      "For the Online Application of the Scheme:"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the “Mushroom Kit Vitaran” scheme?",
+      "answer": "The Mushroom Kit Vitaran scheme is a government initiative aimed at promoting mushroom cultivation by providing farmers with highly subsidized mushroom kits and necessary training."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Farmers who have not benefited from the scheme in the last three years are eligible to apply."
+    },
+    {
+      "question": "Is it mandatory for applicants to own land to avail of this scheme?",
+      "answer": "No, land ownership is not mandatory for availing of the benefits of this scheme."
+    },
+    {
+      "question": "What is the cost of a mushroom kit under this scheme?",
+      "answer": "The unit cost of a mushroom kit is ₹60/-, and the government provides a 90% subsidy, significantly reducing the cost for farmers."
+    },
+    {
+      "question": "What is the quantity of kits an applicant can receive under the scheme?",
+      "answer": "An applicant can receive a minimum of 25 kits and a maximum of 100 kits under this scheme."
+    },
+    {
+      "question": "What are the specifications of the mushroom kits provided?",
+      "answer": "Each mushroom kit weighs 5 kg and contains 100 grams of high-quality mushroom spawn."
+    },
+    {
+      "question": "Where is the training for mushroom cultivation conducted?",
+      "answer": "Training is conducted at locations such as the Center of Excellence, Krishi Vigyan Kendras, Agricultural Universities, and Horticulture Colleges."
+    },
+    {
+      "question": "What is the duration and support provided for the training?",
+      "answer": "The training is a two-day program and a provision of ₹1,000/- per farmer per day is allocated."
+    },
+    {
+      "question": "Can more than one member of a family benefit from this scheme?",
+      "answer": "No, only one member per family is eligible to receive benefits under this scheme."
+    },
+    {
+      "question": "What percentage of subsidy is provided on mushroom kits?",
+      "answer": "The government provides a 90% subsidy on the unit cost of the mushroom kits."
+    },
+    {
+      "question": "What support does the scheme provide during the training program?",
+      "answer": "The scheme allocates ₹1,000/- per farmer per day to cover expenses related to the training program, ensuring farmers receive proper guidance and resources."
+    }
+  ]
 }

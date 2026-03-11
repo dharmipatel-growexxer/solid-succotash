@@ -3,15 +3,82 @@
   "scheme_url": "https://www.myscheme.gov.in/schemes/ftep",
   "location_name": "",
   "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "page_title": "Fisheries Training and Extension Programme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Fisheries Training and Extension Programme” scheme has been implemented by the Department of Fisheries, UT Administration of Dadra & Nagar Haveli and Daman & Diu. The scheme aims to provide financial support to fishermen attending fisheries training programmes. Through this scheme, stipend and travelling allowance or daily allowance are provided to fishermen during training programmes conducted within the district or at outstation locations."
+    ],
+    "benefits": [
+      "Stipend for Training:",
+      "₹250/- per day per fisherman for attending training at the outstation.",
+      "₹75/- per day per fisherman for attending training within the district.",
+      "Travelling Allowance and Daily Allowance:",
+      "Travelling Allowance and Daily Allowance are provided as per entitlement."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of the Union Territory of Dadra & Nagar Haveli and Daman & Diu.",
+      "The applicant must be a fisherman.",
+      "The applicant must be attending a fisheries training programme.",
+      "The applicant must attend training either within the district or at an outstation."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant should contact the respective District Panchayat/Fisheries Department, UT Administration of Dadra & Nagar Haveli and Daman & Diu to avail the benefits under the scheme."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Passport size photograph",
+      "Residence proof",
+      "Ration Card",
+      "Bank account details",
+      "Any other documents (As per requirement)"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "To provide stipend and Travelling Allowance or Daily Allowance to fishermen during fisheries training programmes conducted within the district or at outstation locations."
+    },
+    {
+      "question": "What type of support is provided under the scheme?",
+      "answer": "The scheme provides stipend and Travelling Allowance or Daily Allowance to fishermen during training."
+    },
+    {
+      "question": "Who receives the stipend under this scheme?",
+      "answer": "The stipend is provided to fishermen attending fisheries training programmes"
+    },
+    {
+      "question": "What is the stipend amount for outstation training?",
+      "answer": "A stipend of ₹250/- per day per fisherman is provided for training at the outstation."
+    },
+    {
+      "question": "What is the stipend amount for training within the district?",
+      "answer": "A stipend of ₹75/- per day per fisherman is provided for attending training within the district."
+    },
+    {
+      "question": "Does the stipend amount vary based on training location?",
+      "answer": "Yes, the stipend amount varies depending on whether the training is conducted within the district or at an outstation."
+    },
+    {
+      "question": "Are Travelling Allowance and Daily Allowance provided under the scheme?",
+      "answer": "Yes, Travelling Allowance and Daily Allowance are provided as per entitlement."
+    },
+    {
+      "question": "Is Travelling Allowance and Daily Allowance provided for both district and outstation training?",
+      "answer": "The scheme mentions that Travelling Allowance and Daily Allowance are provided as per entitlement, without specifying location-wise details."
+    },
+    {
+      "question": "Is the stipend provided on a daily basis?",
+      "answer": "Yes, the stipend is provided on a per-day basis during the training period."
+    },
+    {
+      "question": "Does the scheme specify any other benefits apart from stipend and Travelling Allowance or Daily Allowance?",
+      "answer": "No, the scheme specifies only stipend and Travelling Allowance or Daily Allowance."
+    }
+  ]
 }

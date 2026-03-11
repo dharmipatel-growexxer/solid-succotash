@@ -1,17 +1,68 @@
 {
   "scheme_name": "Gau Palan Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/gpyuk",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Gau Palan Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Gau Palan Yojana\" was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote cow rearing among eligible Scheduled Caste and Scheduled Tribe beneficiaries, enhancing their livelihood and income generation by providing financial support for cow rearing units."
+    ],
+    "benefits": [
+      "Under this scheme, a milch cow up to the fourth stage of pregnancy is provided. Of the total cost of ₹40,000/-, 90% (₹36,000/-) is borne by the state government, while 10% (₹4,000/-) is to be contributed by the beneficiary."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must belong to the General, Scheduled Caste, or Scheduled Tribe category.",
+      "The applicant must be included in the SECC (Socio-Economic and Caste Census) category.",
+      "The applicant should have an interest in cow rearing."
+    ],
+    "application_process": {
+      "offline": [
+        "Interested beneficiaries must submit their proposal in an open meeting of the Gram Sabha. Once the proposal is approved, the beneficiary shall submit it to the Veterinary Officer, Livestock Extension Officer, or Gram Panchayat Development Officer of the respective area, or the Gram Panchayat may submit it on behalf of the beneficiary.",
+        "Based on the recommendation of the village-level selection committee, the final selection is made by the development block-level committee and forwarded to the Animal Husbandry Department. After selection, the beneficiary will receive funds for purchasing the cow through Direct Benefit Transfer (DBT) within one to two months.",
+        "Applicants must submit Aadhaar card, bank account details, and caste certificate along with their proposal."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account details",
+      "Caste Certificate",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 236)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Eligible beneficiaries are from the Scheduled Caste (SC) and Scheduled Tribe (ST) communities listed in the SECC (Socio-Economic and Caste Census) database."
+    },
+    {
+      "question": "What type of support is provided under the scheme?",
+      "answer": "The scheme provides financial assistance for purchasing a milch cow up to the fourth stage of pregnancy."
+    },
+    {
+      "question": "What is the total cost of the scheme?",
+      "answer": "The total cost of purchasing a cow under the scheme is ₹40,000/-."
+    },
+    {
+      "question": "How is the cost shared between the government and the beneficiary?",
+      "answer": "The state government bears 90% (₹36,000/-) of the cost, while the beneficiary contributes 10% (₹4,000/-)."
+    },
+    {
+      "question": "How is the fund transferred to the beneficiary?",
+      "answer": "Funds are provided through Direct Benefit Transfer (DBT) at the time of cow purchase."
+    },
+    {
+      "question": "How can a beneficiary apply for the scheme?",
+      "answer": "Interested beneficiaries must submit their proposal in an open meeting of the Gram Sabha."
+    },
+    {
+      "question": "How long does it take to receive funds after selection?",
+      "answer": "Selected beneficiaries receive funds through DBT within one to two months of approval."
+    }
+  ]
 }

@@ -1,17 +1,106 @@
 {
   "scheme_name": "Greenhouse Construction",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ghc",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Greenhouse Construction",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Greenhouse Construction” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote protected cultivation of vegetables and flowers by encouraging farmers to adopt greenhouse technology through substantial financial assistance and support, thereby increasing productivity, improving crop quality, and enhancing farmers’ income."
+    ],
+    "benefits": [
+      "To promote vegetable and flower cultivation inside greenhouses, 50% to 80% of the total cost is provided as assistance for fan and pad systems, naturally ventilated polyhouses, and planting materials. The details are given below:",
+      "For protected cultivation of flowers and vegetables, 50% of the total cost is provided for fan and pad systems or naturally ventilated polyhouses.",
+      "Planting material for vegetables and flowers (seeds, flower bulbs and plants) is provided with a 50% subsidy.",
+      "For greenhouse construction, 50% of the total cost is provided for fan and pad system polyhouses and tubular structure polyhouses.",
+      "A 50% subsidy is provided for installing anti-hail nets.",
+      "Under the State Sector, an additional 25% subsidy is provided as the State share, making the total subsidy 75%.",
+      "Plastic mulching:",
+      "To retain moisture and promote microflora around the roots, 50% of the total cost is provided for covering the land with plastic sheets.",
+      "Arrangement of planting material for protected cultivation:",
+      "Planting materials under polyhouse cultivation (flower and vegetable seeds) are provided at a 50% subsidy. If the farmer purchases them from outside agencies (other than the department), 50% of the cost is reimbursed.",
+      "Support for greenhouse construction is available for an area of up to 4,000 sq. meters or 500 sq. meters as per the guidelines issued by the Government of India and the State Government. For a 500 sq. meter polyhouse, the State Government provides an additional 30% subsidy, allowing the farmer to receive a total subsidy of 80%."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer and must hold a valid Udhyan Card.",
+      "The farmer must either own agricultural land or have land on lease.",
+      "This support is not provided to applicants working in a group."
+    ],
+    "application_process": {
+      "offline": [
+        "The application form must be obtained from the officer or personnel working at the Horticulture Mobile team Centre, or it can be downloaded from the department's website at",
+        "https://shm.uk.gov.in",
+        ". Along with the application form/proposal, land-related documents such as Khasra and Khatauni, a lease certificate for leased land, Aadhaar card, PAN card, Udhyan Card, bank account details, mobile number, a copy of the family registry/ration card, and the training certificate will also be required. Currently, the application process is offline.",
+        "If there is any difficulty in filling out the application proposal, the personnel at the concerned Horticulture Mobile team Centre provide assistance. The completed application form must be submitted at the same office. The Horticulture Mobile team Centre forwards the relevant proposals to the district level. From the district level, they are sent to the Directorate, and after the Directorate approves the farmer proposals, the districts are granted approval/work orders as per the government guidelines through an issued order.",
+        "Once a farmer's proposal is approved, the district officer sends an acceptance letter and informs the farmer by telephone. A list of polyhouse manufacturing companies registered with the department is provided along with the acceptance letter. The farmer will begin construction of the greenhouse at his own expense. If the farmer does not have sufficient funds, they may obtain a loan from a bank. After the greenhouse is completed, the farmer must inform the concerned departmental officials, after which the departmental officer will conduct a site inspection and submit a report. Thereafter, the appropriate government assistance/subsidy is paid directly into the farmer's account."
+      ]
+    },
+    "documents_required": [
+      "Land-related documents such as Khasra and Khatauni",
+      "Lease certificate for leased land",
+      "Aadhaar card",
+      "PAN card",
+      "Udhyan Card",
+      "Bank account details",
+      "Mobile number",
+      "Copy of family registry or ration card",
+      "Training certificate",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 215)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "The applicant must be a resident of Uttarakhand, must be a farmer holding a valid Udhyan Card, and must either own agricultural land or have land on lease."
+    },
+    {
+      "question": "What percentage of subsidy is provided for greenhouse construction?",
+      "answer": "A subsidy of 50% of the total cost is provided for fan-and-pad system polyhouses and naturally ventilated/tubular structure polyhouses."
+    },
+    {
+      "question": "Is additional subsidy provided by the State Government?",
+      "answer": "Yes. Under the State Sector, an additional 25% subsidy is provided, making the total subsidy 75%."
+    },
+    {
+      "question": "Is any component eligible for 80% subsidy?",
+      "answer": "Yes. For a 500 sq. m. polyhouse, the State Government provides an additional 30% subsidy, enabling the farmer to receive up to 80% subsidy."
+    },
+    {
+      "question": "What is the subsidy for planting materials?",
+      "answer": "Planting materials such as vegetable seeds, flower bulbs, and plants are provided at 50% subsidy."
+    },
+    {
+      "question": "What is the permissible greenhouse area under the scheme?",
+      "answer": "Greenhouse construction is allowed up to 4,000 sq. m. or 500 sq. m., as per Government of India/State Government guidelines."
+    },
+    {
+      "question": "Is the scheme applicable to group farming?",
+      "answer": "No. Support under this scheme is not provided for group applicants; it is only for individual farmers."
+    },
+    {
+      "question": "Where can the application form be obtained?",
+      "answer": "The form can be obtained from the Horticulture Mobile Squad Centre or downloaded from the department's website: https://shm.uk.gov.in."
+    },
+    {
+      "question": "What happens after the application is submitted?",
+      "answer": "The Mobile Squad Centre forwards the proposal to the district level, which then sends it to the Directorate for approval."
+    },
+    {
+      "question": "How is the farmer informed about approval?",
+      "answer": "Once approved, the district officer sends an acceptance letter and also informs the farmer via telephone."
+    },
+    {
+      "question": "Who constructs the greenhouse after approval?",
+      "answer": "The farmer constructs the greenhouse at his own expense, using any manufacturer from the list provided by the department."
+    },
+    {
+      "question": "When is the subsidy released to the farmer?",
+      "answer": "After greenhouse construction is completed, departmental officials inspect the site. Once the report is approved, the subsidy amount is directly transferred to the farmer’s bank account."
+    }
+  ]
 }

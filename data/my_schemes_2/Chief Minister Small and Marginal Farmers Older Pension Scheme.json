@@ -1,17 +1,88 @@
 {
   "scheme_name": "Chief Minister Small and Marginal Farmers Older Pension Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/cmsmfops",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Chief Minister Small and Marginal Farmers Older Pension Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Chief Minister Small and Marginal Farmers Older Pension Scheme\" implemented by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers for their social and economic well-being."
+    ],
+    "benefits": [
+      "Pension of ₹1250/- per month."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Rajasthan.",
+      "The applicant must belong to a small and marginal farmer family.",
+      "The minimum age requirement is:",
+      "55 years or above for women.",
+      "58 years or above for men.",
+      "NOTE:",
+      "Small and marginal farmer as per the definition under the National Food Security Ordinance, 2013, and as per the Rajasthan Government's Food and Civil Supplies Department circular dated 31.8.2013."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2:",
+        "The applicant should visit the nearest E-mitra Center and complete the Biometric Verification Process.",
+        "Step 3:",
+        "The applicant should ensure that the E-mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Birth Certificate.",
+      "Income Certificate.",
+      "Domicile Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Small and marginal farmers who are permanent residents of Rajasthan and meet the age criteria."
+    },
+    {
+      "question": "What is the pension amount provided under this scheme?",
+      "answer": "The scheme provides a monthly pension of ₹1,250."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, the application process is free of charge."
+    },
+    {
+      "question": "Will I receive a pension if I move outside Rajasthan?",
+      "answer": "No, only permanent residents residing in Rajasthan are eligible."
+    },
+    {
+      "question": "Is there income limit for the scheme?",
+      "answer": "No, the income limit not available for the scheme."
+    },
+    {
+      "question": "What documents are required for application?",
+      "answer": "Birth Certificate, Income Certificate, Domicile Certificate etc."
+    },
+    {
+      "question": "Is there a deadline for applying?",
+      "answer": "No, there is no deadline mention in guidelines."
+    },
+    {
+      "question": "When will I start receiving the pension after applying?",
+      "answer": "Once the application is verified and approved, pension disbursement starts from the next payment cycle."
+    },
+    {
+      "question": "How can I apply for this scheme?",
+      "answer": "Applicant can apply by visiting the nearest E-Mitra Center with the required documents."
+    },
+    {
+      "question": "Where can I get more details about the scheme?",
+      "answer": "Visit the official website of the Social Justice and Empowerment Department, Rajasthan or the nearest E-Mitra Center."
+    }
+  ]
 }

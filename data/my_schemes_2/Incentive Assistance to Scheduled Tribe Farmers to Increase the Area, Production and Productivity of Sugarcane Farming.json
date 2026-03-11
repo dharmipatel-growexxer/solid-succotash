@@ -1,17 +1,128 @@
 {
   "scheme_name": "Incentive Assistance to Scheduled Tribe Farmers to Increase the Area, Production and Productivity of Sugarcane Farming",
   "scheme_url": "https://www.myscheme.gov.in/schemes/iastasf",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Incentive Assistance to Scheduled Tribe Farmers to Increase the Area, Production and Productivity of Sugarcane Farming",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Incentive Assistance to Scheduled Tribe Farmers to Increase the Area, Production and Productivity of Sugarcane Farming\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support Scheduled Tribe farmers by providing cash incentives for high-quality seeds, modern farming techniques, and agricultural mechanization. The scheme encourages farmers to enhance productivity and profitability."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Assistance for sugarcane Sowing",
+      "₹10,000/- per Hectare",
+      "Every year",
+      "10% assistance for excellent production",
+      "10% extra benefit per metric ton for production exceeding 70 metric Tons/Hectares.",
+      "Note:",
+      "This scheme covers a cultivation area of 500 hectares of sugarcane for Scheduled Tribe farmers."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be from Gujarat state.",
+      "The applicant must belong to the Scheduled Tribe category.",
+      "The applicant must be a householder.",
+      "The farmer must be engaged in sugarcane cultivation.",
+      "Farmers applying for the 10% incentive must demonstrate excellent production using high-quality seeds, agricultural inputs, and modern farming practices."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Printout of the online application should be, signed/thumbprinted, and necessary documents submitted at the concerned office.",
+        "Step 9:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        ".",
+        "Note:",
+        "Mandatory Registration:",
+        "In the application, the farmer must specify the name of the Sugar Co-operative Society where they want to register their sugarcane crop cultivation in their district.",
+        "Approval Process:",
+        "Applications are verified and approved by the competent authority based on eligibility.",
+        "Communication of Approval:",
+        "Selected applicants will be notified via SMS, email, or written communication.",
+        "Field Verification:",
+        "Random verification of sugarcane cultivation is conducted by District Extension Staff.",
+        "Fund Disbursement:",
+        "Once approved, the assistance amount is directly transferred to the farmer’s bank account through the nodal agency."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate.",
+      "8-A Copy (Land ownership document).",
+      "Bank Passbook and Cancelled Cheque.",
+      "Aadhaar Card Copy.",
+      "Undertaking Form (in case of joint ownership).",
+      "Physical Disability Certificate (if applicable)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The primary objective of the scheme is to enhance the area, production, and productivity of sugarcane cultivation among Scheduled Tribe farmers."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Scheduled Tribe farmers who are engaged in sugarcane cultivation are eligible to apply for this scheme."
+    },
+    {
+      "question": "What financial assistance is provided under the scheme?",
+      "answer": "Farmers receive ₹10,000/- per hectare for sugarcane cultivation. Additionally, those who produce more than 70 metric tons per hectare are eligible for an extra 10% incentive per metric ton."
+    },
+    {
+      "question": "How is the 10% incentive calculated?",
+      "answer": "Farmers who produce more than 70 metric tons per hectare receive an additional 10% incentive based on the sale price of their extra production."
+    },
+    {
+      "question": "Who verifies the farmer’s sugarcane cultivation?",
+      "answer": "The District Extension Staff conducts random field verification to ensure that sugarcane is cultivated as claimed in the application."
+    },
+    {
+      "question": "How will the farmer receive the assistance amount?",
+      "answer": "The approved amount is directly credited to the farmer’s bank account through the nodal agency."
+    },
+    {
+      "question": "What if a farmer has joint land ownership?",
+      "answer": "Farmers with joint land ownership must submit an Undertaking Form along with their application."
+    },
+    {
+      "question": "How can a farmer apply for the scheme?",
+      "answer": "Farmers must apply online through the I-Khedut portal, take a printout of the application, sign/thumbprint it, and submit it along with the required documents to the concerned office."
+    },
+    {
+      "question": "What documents are required for application?",
+      "answer": "Applicants must submit a Caste Certificate, 8-A Copy (land ownership document), Aadhaar Card, Bank Passbook, Cancelled Cheque, and an Undertaking Form (in case of joint ownership)."
+    },
+    {
+      "question": "What happens after submitting the application?",
+      "answer": "The application is verified by the concerned authorities, and eligibility is determined. Approved applications are forwarded to the Sugar Co-operative Society for further processing."
+    },
+    {
+      "question": "Where can farmers get more information about the scheme?",
+      "answer": "Farmers can visit the I-Khedut portal or contact their local agricultural office for more details regarding the scheme."
+    }
+  ]
 }

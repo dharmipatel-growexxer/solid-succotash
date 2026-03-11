@@ -1,17 +1,96 @@
 {
   "scheme_name": "National Mission on Edible Oil- Oil Palm: Drip Irrigation",
   "scheme_url": "https://www.myscheme.gov.in/schemes/nmoedp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "National Mission on Edible Oil- Oil Palm: Drip Irrigation",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme component \"Drip Irrigation\" launched under the \"National Mission on Edible Oil–Oil Palm\" scheme by the Department of Agriculture, Farmers Welfare and Co-operation, Government of Gujarat, aims to promote oil palm cultivation in Gujarat to meet domestic demand and reduce dependence on imports. The scheme facilitates the installation of drip irrigation systems for farmers, ensuring efficient water use and improved productivity. The subsidy is provided as per the norms of the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY), with differential rates for small & marginal farmers and other farmers."
+    ],
+    "benefits": [
+      "For Small & Marginal Farmers:",
+      "55% subsidy.",
+      "For Other Farmers:",
+      "45% subsidy."
+    ],
+    "eligibility": [
+      "The applicant should be a farmer.",
+      "The applicant should be a resident of Gujarat."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "The applicant may visit and apply online at the",
+        "I-Khedut",
+        "Portal.",
+        "Step 2:",
+        "Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type.",
+        "Step 3:",
+        "Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'.",
+        "Step 4:",
+        "Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'.",
+        "Login Process:",
+        "Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Now select the scheme, click on the ‘Apply’ button, and an application page will open.",
+        "Click on the \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a printout of the confirmed application.",
+        "Contact Us:",
+        "Click here"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Land Record 7-12 and 8-A.",
+      "Bank Passbook/Cancelled Cheque.",
+      "Caste Certificate (if applicable).",
+      "Disability Certificate from Competent Authority (if applicable)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Guidelines (Scheme No. 522)",
+      "PMKSY Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the primary objective of the scheme \"National Mission on Edible Oil – Oil Palm: Drip Irrigation\"?",
+      "answer": "The primary objective of the scheme \"National Mission on Edible Oil – Oil Palm: Drip Irrigation\" is to increase the production of oil palm within Gujarat and to reduce the state’s dependency on importing oil palm from other countries."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme \"National Mission on Edible Oil – Oil Palm: Drip Irrigation\"?",
+      "answer": "Any farmer in Gujarat who is engaged in oil palm cultivation and intends to install a drip irrigation system for this crop is eligible to apply for the scheme \"National Mission on Edible Oil – Oil Palm: Drip Irrigation\"."
+    },
+    {
+      "question": "What type of benefit is offered under the scheme \"National Mission on Edible Oil – Oil Palm: Drip Irrigation\"?",
+      "answer": "The scheme \"National Mission on Edible Oil – Oil Palm: Drip Irrigation\" offers a financial subsidy for the installation of drip irrigation systems, with subsidy rates determined as per the PMKSY norms for different categories of farmers."
+    },
+    {
+      "question": "What is the subsidy percentage for small and marginal farmers under the scheme \"National Mission on Edible Oil – Oil Palm: Drip Irrigation\"?",
+      "answer": "Under the scheme \"National Mission on Edible Oil – Oil Palm: Drip Irrigation\", small and marginal farmers are eligible to receive a subsidy amounting to 55% of the approved unit cost for the installation of drip irrigation systems."
+    },
+    {
+      "question": "What is the subsidy percentage for other farmers under the scheme \"National Mission on Edible Oil – Oil Palm: Drip Irrigation\"?",
+      "answer": "Under the scheme \"National Mission on Edible Oil – Oil Palm: Drip Irrigation\", farmers other than small and marginal farmers are eligible to receive a subsidy amounting to 45% of the approved unit cost for the installation of drip irrigation systems."
+    },
+    {
+      "question": "Which department is responsible for implementing the scheme?",
+      "answer": "The scheme is implemented by the Department of Agriculture, Government of Gujarat, which is responsible for overseeing its execution and ensuring that the intended benefits reach the targeted farmers."
+    },
+    {
+      "question": "How can eligible farmers apply for the scheme?",
+      "answer": "Eligible farmers can apply for the scheme by visiting the iKhedut portal, filling out the application form online, uploading the required documents, and submitting it for departmental verification."
+    },
+    {
+      "question": "What documents are required to apply for the \"Establishment of Seed Garden\" scheme?",
+      "answer": "Applicants are required to submit their Aadhaar Card, Land Records 7-12 and 8-A, Bank Passbook or Cancelled Cheque, and if applicable, a Caste Certificate or Disability Certificate issued by the competent authority."
+    }
+  ]
 }

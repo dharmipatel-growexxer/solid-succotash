@@ -1,17 +1,127 @@
 {
   "scheme_name": "Aushadhi Avam Sugandhit Fasal Shetra Vistar",
   "scheme_url": "https://www.myscheme.gov.in/schemes/aasfsv",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Aushadhi Avam Sugandhit Fasal Shetra Vistar",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The Aushadhi Avam Sugandhit Fasal Shetra Vistar is a scheme under the Horticulture and Food Processing Department of the Madhya Pradesh Government. Madhya Pradesh government provides grants to farmers under this scheme to promote the cultivation of medicinal plants. According to the scheme, farmers are given 20 to 50 percent subsidy for expanding the area of medicinal and aromatic crops suitable to the area.",
+      "Selected Crop",
+      "Amla,",
+      "Ashvagandha,",
+      "Bel,",
+      "Koliyas",
+      "Gudamaar",
+      "Kaalamegh",
+      "Saphed moosalee",
+      "Sarpagandha",
+      "Sataavar",
+      "Tulasi"
+    ],
+    "benefits": [
+      "The following subsidy is given to the beneficiary farmers on the production of medicinal and aromatic crops:",
+      "S No.",
+      "Crop",
+      "per hectare in rupees",
+      "Grant eligibility in Percentage",
+      "grant amount in rupees",
+      "1",
+      "Amla",
+      "₹65,000/-",
+      "20%",
+      "₹13,000/-",
+      "2",
+      "Ashvagandha",
+      "₹25,000/-",
+      "₹5,000/-",
+      "3",
+      "Bell",
+      "₹40,000/-",
+      "50%",
+      "₹20,000/-",
+      "4",
+      "Koliyas",
+      "₹43,000/-",
+      "₹8,600/-",
+      "5",
+      "Gudamaar",
+      "6",
+      "Kaalamegh",
+      "7",
+      "Saphed moosalee",
+      "₹3,12,500/-",
+      "₹62,500/-",
+      "8",
+      "Sarpagandha",
+      "₹31,250/-",
+      "9",
+      "Sataavar",
+      "₹12,500/-",
+      "10",
+      "Tulasi",
+      "₹30,000/-",
+      "₹6,000/-"
+    ],
+    "eligibility": [
+      "This scheme will be applicable for all sections.",
+      "Farmers who have obtained forest rights certificates to will also be eligible to avail the benefits.",
+      "The grant will be payable only once to a farmer.",
+      "A farmer can do farming for the first time in as much area as he wants but the grant will be payable for minimum 0.25 hectare and maximum 2.00 hectare."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Applicants have to visit the",
+        "official portal.",
+        "Step 2: Click on \"",
+        "New Registration \"",
+        ".",
+        "Step 3: Enter your mobile number and click on OTP Send.",
+        "Step 4: Now Fill in the details and upload the documents.",
+        "Step 5: After, fill in all the information and upload the document click on the submit button."
+      ]
+    },
+    "documents_required": [
+      "Photo.",
+      "Aadhaar Card.",
+      "Khasra Number/B1/Copy of Forest Patta.",
+      "Bank Passbook.",
+      "Birth Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is Aushadhi Avam Sugandhit Fasal Shetra Vistar?",
+      "answer": "Aushadhi Avam Sugandhit Fasal Shetra Vistar scheme to promote the cultivation of medicinal plants. According to the scheme, farmers are given 20 to 50 percent subsidy for expanding the area of medicinal and aromatic crops suitable to the area."
+    },
+    {
+      "question": "Is there any selected crops under the scheme?",
+      "answer": "Yes, there are Selected crops Bael, Sarpagandha, Kalmegh, Safed Musli, Amla, Ashwagandha, Satavar, Tulsi, Coleus Gudmar, and Stevia."
+    },
+    {
+      "question": "Can farmer get the scheme benefits more than once ?",
+      "answer": "No, only once."
+    },
+    {
+      "question": "What documents are required ?",
+      "answer": "1. Photo. 2. Aadhaar Card. 3. Khasra Number/B1/Copy of Forest Patta. 4. Bank Passbook. 5. Birth Certificate."
+    },
+    {
+      "question": "How to get the scheme benefits?",
+      "answer": "Step 1: Applicants have to visit the official portal. Step 2: Click on \"New Registration \". Step 3: Enter your mobile number and click on OTP Send. Step 4: Now Fill in the details and upload the documents. Step 5: After, fill in all the information and upload the document click on the submit button."
+    },
+    {
+      "question": "What is the minimum land area a farmer must cultivate to receive the grant amount ?",
+      "answer": "The grant will be payable for minimum 0.25 hectare and maximum 2.00 hectare."
+    },
+    {
+      "question": "Can forest rights certificate holder farmers also eligible for the scheme benefit?",
+      "answer": "Farmers who have obtained forest rights certificate will also be eligible to avail the benefits."
+    }
+  ]
 }

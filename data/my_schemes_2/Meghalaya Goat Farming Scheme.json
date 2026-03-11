@@ -1,17 +1,150 @@
 {
   "scheme_name": "Meghalaya Goat Farming Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mgfs",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Meghalaya Goat Farming Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The Chief Minister’s CM-ELEVATE Program includes the Meghalaya Goat Farming Development Scheme under the Planning Department, Government of Meghalaya. The scheme aims to employ, engage, and empower youth and rural communities by promoting goat farming entrepreneurship through easy access to credit and subsidies."
+    ],
+    "benefits": [
+      "50% of project cost supported (5% by applicant, 45% by Government)",
+      "5% EMI co-payment support for 24 months",
+      "Credit linkage through partnered banks",
+      "Technical training and capacity building",
+      "Veterinary and farm management support",
+      "Market linkage for selling output",
+      "Mentorship and business advisory"
+    ],
+    "eligibility": [
+      "Individuals",
+      "The applicant should be between 18 and 58 years of age.",
+      "The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority.",
+      "The entrepreneur should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute.",
+      "The Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking Goatery.",
+      "The entrepreneur should have access to adequate and quality feed for the goats.",
+      "The entrepreneur should have a vaccination Scheme in place for the goats.",
+      "The entrepreneur should have a plan for marketing the goats and their products.",
+      "The entrepreneurs village should be in an area where goat rearing is feasible.",
+      "The distance between the entrepreneur’s village and the nearest market must be reasonable.",
+      "The entrepreneur should not be a credit defaulter from any bank.",
+      "Registered Entities",
+      "Any group/entity registered in Meghalaya such as Cooperatives, Farmer Producer Companies (FPC), Farmer Producer Organization (FPO) and so on",
+      "Must provide an Incorporation Certificate or a registration certificate whichever is applicable",
+      "At least two members should possess a training certificate on the sector applied for from a recognized institution, preferably from a government institute",
+      "Should possess land, either self-owned or on lease, verified by the competent authority",
+      "Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute",
+      "Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking Goatery",
+      "The entrepreneur should have a vaccination Scheme in place for the goats",
+      "The entrepreneur should have a plan for marketing the goats & their products",
+      "The entrepreneurs village should be in an area where goat rearing is feasible",
+      "The distance between the entrepreneur’s village and the nearest market must be reasonable",
+      "The entrepreneur should not be a credit defaulter from any bank",
+      "Unregistered Entities",
+      "Traditional institutions, self help groups, producer groups and so on Eligibility certification from competent government authority like BDO/SDO/Department in case of Producer group from DPMs.",
+      "The non-registered entity should have a constitution/bylaws/framework that outline the groups structure,",
+      "objectives, and procedures.",
+      "The entrepreneur should have access to adequate and quality feed for the goats",
+      "The entrepreneur should have a plan for marketing the goats & their products.",
+      "The entrepreneurs village must be in an area where goat rearing is feasible",
+      "The distance between the entrepreneurs village and the nearest market must be reasonable"
+    ],
+    "application_process": {
+      "online": [
+        "Citizen Registration for Member ID",
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.",
+        "Step 2:",
+        "If you are a first-time user, click on “",
+        "Registration for New User",
+        "” and complete the registration process to create your account.",
+        "Step 3:",
+        "Select your Authentication ID from the available options, such as",
+        "PDS (Ration Card)",
+        "Election Photo ID Card (EPIC).",
+        "Step 4:",
+        "Enter your card number, select your name from the displayed list, and click on “Next” to continue.",
+        "Step 5:",
+        "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.",
+        "Step 6:",
+        "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.",
+        "Step 7:",
+        "Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.",
+        "Click on",
+        "“Sign In",
+        "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.",
+        "Enter your User ID and Password, then click on “Login” to access your account.",
+        "After logging in, click on “Apply for Services/Scheme” to start your application.",
+        "Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+      ]
+    },
+    "documents_required": [
+      "Individuals",
+      "Latest Bank Statement (Last 6 months)",
+      "PAN Card",
+      "Proof of Address of Applicant (Voter ID/Passport/Driving License)",
+      "Ration Card",
+      "Training certificate",
+      "Self Declaration",
+      "Download",
+      "Land ownership or notarized lease certificate (if applicable)",
+      "Registered Entities",
+      "GST Certificate (if available)",
+      "Proof of Address of Applicant (Voter ID / Passport / Driving License)",
+      "Ration Card of Applicant",
+      "Training certificates for at least 2 members",
+      "Incorporation Certificate or Registration Certificate",
+      "Unregistered Entities"
+    ],
+    "sources_and_references": [
+      "Website:1",
+      "Website:2"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is Meghalaya Goat Farming Development Scheme ?",
+      "answer": "Meghalaya Goat Farming Development Scheme is a credit linked scheme launched by Animal Husbandry & Veterinary Department to foster goat rearing as a significant economic activity in the state. Under this financial aid of 50% on the total project cost, training, capacity building, and mentorship is provided to help goat farmers improve their production, boost their income, and address nutritional challenges in the state. The project cost includes construction of shed; buying animals; cost associated with veterinary care and buying feed; and contingency cost."
+    },
+    {
+      "question": "How is it connected to CM -ELEVATE program?",
+      "answer": "Meghalaya Goat Farming Development Scheme is one of the 15 other bank linked schemes being launched under the CM-ELEVATE programs."
+    },
+    {
+      "question": "Who is implementing the Scheme?",
+      "answer": "Animal Husbandry & Veterinary Department is implementing the scheme at state level."
+    },
+    {
+      "question": "Can I make changes to my application after submission?",
+      "answer": "No changes will be applicable after submission. It is advisable that the applicants read and answer each question carefully and all changes should be made before submitting the application."
+    },
+    {
+      "question": "Who can apply as an individual under the scheme?",
+      "answer": "Individuals aged 18 to 58 years who own or lease land and have a training certificate in goat farming from a recognized institution."
+    },
+    {
+      "question": "Is training mandatory for the scheme?",
+      "answer": "Yes, applicants must possess a training certificate from a recognized institution, preferably a government institute."
+    },
+    {
+      "question": "What are the requirements regarding goat feed?",
+      "answer": "Applicants should have access to adequate and quality feed for their goats."
+    },
+    {
+      "question": "Where should the applicant’s village be located?",
+      "answer": "The village must be in an area suitable for goat rearing, with a reasonable distance to the nearest market."
+    },
+    {
+      "question": "Is a marketing strategy required for entities?",
+      "answer": "Yes, a clear marketing plan for goats and goat products is required."
+    },
+    {
+      "question": "What must unregistered entities provide?",
+      "answer": "A constitution/bylaws/framework outlining the group’s structure, objectives, and procedures."
+    }
+  ]
 }

@@ -1,17 +1,53 @@
 {
   "scheme_name": "Breed Multiplication Farms - Uttarakhand Livestock Development Board",
   "scheme_url": "https://www.myscheme.gov.in/schemes/bmf",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Breed Multiplication Farms - Uttarakhand Livestock Development Board",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Breed Multiplication Farms” is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to facilitate the establishment of Breed Multiplication Farms (BMFs) for making available High Genetic Merit heifers of cattle and buffaloes breeds to farmers."
+    ],
+    "benefits": [
+      "Under this scheme, a maximum subsidy of ₹50 lakh is provided by the Department of Animal Husbandry and Dairying, Government of India, for a project cost of ₹1 crore under the Rashtriya Gokul Mission."
+    ],
+    "eligibility": [
+      "The applicant must be a livestock farmer, a farmer producer company, a registered company under Section 8, or a self-help group based in Uttarakhand."
+    ],
+    "application_process": {
+      "online": [
+        "The applicant must submit the online application through the link:",
+        "https://www.nddb.coop/"
+      ]
+    },
+    "documents_required": [
+      "Applicants are required to submit all necessary documents as per the guidelines prescribed for the establishment of Breed Multiplication Farms (BMFs) under the scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 196)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who are eligible to apply under this scheme?",
+      "answer": "Eligible applicants include livestock farmers, Farmer Producer Companies (FPCs), Section 8 Registered Companies, and Self Help Groups (SHGs) engaged in animal husbandry activities."
+    },
+    {
+      "question": "What is the financial assistance available under the scheme?",
+      "answer": "A subsidy of up to ₹50 lakh is provided for a project cost of ₹1 crore, as per the guidelines of the Department of Animal Husbandry and Dairying, Government of India."
+    },
+    {
+      "question": "What is the mode of application for this scheme?",
+      "answer": "Applicants have to apply online through the official portal at https://eoi.nddb.coop /."
+    },
+    {
+      "question": "What is the purpose of setting up Breed Multiplication Farms?",
+      "answer": "The purpose is to ensure the availability of superior quality breeding stock (HGM heifers) to farmers, helping enhance milk productivity and livestock income."
+    },
+    {
+      "question": "Under which central scheme is this initiative supported?",
+      "answer": "The scheme operates under the Rashtriya Gokul Mission, a flagship programme of the Department of Animal Husbandry and Dairying, Government of India."
+    }
+  ]
 }

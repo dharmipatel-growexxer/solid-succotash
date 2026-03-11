@@ -1,17 +1,110 @@
 {
   "scheme_name": "Paddy Transplantor Machine se Dhan Ropayee par Anudan",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ptmsdrpa",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "Paddy Transplantor Machine se Dhan Ropayee par Anudan",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme was launched on December 26, 2014, The Paddy Transplanter Machine Se Dhan Ropayee Par Anudan, under the Agriculture Development and Farmer Welfare and Biotechnology Department, Chhattisgarh. The scheme aims to promote paddy transplantation using advanced technology, expand the area under transplantation, and improve efficiency in rice cultivation.",
+      "The scheme is applicable across the entire state, benefiting farmers by providing financial assistance for land preparation. A grant of ₹3,000 per acre will be given for activities such as ploughing and weeding, up to a maximum limit of 2 hectares. This assistance covers the preparation of a mat-type nursery and the transplantation of paddy using a paddy transplanter machine, ensuring improved efficiency and higher yields."
+    ],
+    "benefits": [
+      "(A) Field Preparation Expenditure per Hectare:",
+      "Field Ploughing (5 hours @ ₹700 per hour): ₹3,500/-",
+      "Field Weeding (6 hours with Rotavator @ ₹700 per hour): ₹4,200/-",
+      "Total Field Preparation Cost: ₹7,700/-",
+      "(B) Expenditure for Seedling Preparation per Hectare:",
+      "Plastic Sheet for Nursery (15 Kg @ ₹100 per Kg): ₹1,500/-",
+      "Field Weeding (6 hours with Rotavator @ ₹500 per hour): ₹3,000/-",
+      "Other Expenses (Soil, Manure, Sand, Water - arranged by the farmer): Not Included",
+      "Additional Contingencies: ₹500/-",
+      "Total Seedling Preparation Cost: ₹5,000/-",
+      "Total Expenditure per Hectare:",
+      "Field Preparation (A) + Seedling Preparation (B): ₹7,700 + ₹5,000 = ₹12,500/- per hectare",
+      "Cost per Acre: ₹5,080/-",
+      "Subsidy Details:",
+      "Subsidy Amount: 75% of the cost",
+      "Maximum Subsidy Limit: ₹3,800/- per acre"
+    ],
+    "eligibility": [
+      "The applicant should be a farmer residing in the Chhattisgarh.",
+      "The applicant should be engaged in paddy cultivation.",
+      "The applicant should be willing to use a paddy transplanter machine for transplantation.",
+      "The applicant should be preparing a mat-type nursery for paddy transplantation.",
+      "The applicant should have suitable land for ploughing and weeding.",
+      "The applicant should have a cultivable area of up to 2 hectares to be eligible for the grant."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the office of the Rural Agriculture Extension Officer and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "ID Proof",
+      "Agriculture land Document",
+      "Bank Account Details/Bank Passbook",
+      "Other Necessary Documents if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Website"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Paddy Transplanter Machine Se Dhan Ropayee Par Anudan Scheme?",
+      "answer": "The scheme provides financial assistance to farmers for paddy transplantation using advanced transplanter machines to improve efficiency and increase the area under cultivation."
+    },
+    {
+      "question": "When was the scheme launched?",
+      "answer": "The scheme was launched on December 26, 2014, under the Agriculture Development and Farmer Welfare and Biotechnology Department, Chhattisgarh."
+    },
+    {
+      "question": "What is the main objective of this scheme?",
+      "answer": "The scheme aims to promote modern technology in paddy transplantation, reduce labor dependency, and increase crop productivity."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Farmers residing in Chhattisgarh who are engaged in paddy cultivation and willing to use a paddy transplanter machine for transplantation are eligible."
+    },
+    {
+      "question": "Is there any land requirement for applying?",
+      "answer": "Yes, the farmer should have cultivable land and must be preparing a mat-type nursery for paddy transplantation."
+    },
+    {
+      "question": "What is the maximum land area eligible for subsidy?",
+      "answer": "The grant is available for land preparation up to a maximum of 2 hectares per farmer."
+    },
+    {
+      "question": "Are sharecroppers or tenant farmers eligible?",
+      "answer": "Yes, sharecroppers and tenant farmers who meet the eligibility criteria can also apply."
+    },
+    {
+      "question": "What financial assistance is provided under this scheme?",
+      "answer": "Farmers receive a grant of ₹3,000 per acre for land preparation and paddy transplantation using the paddy transplanter machine."
+    },
+    {
+      "question": "What is the maximum subsidy amount a farmer can receive?",
+      "answer": "The maximum subsidy is ₹3,800 per acre, covering 75% of the total cost per acre."
+    },
+    {
+      "question": "How is the subsidy amount calculated?",
+      "answer": "The subsidy is based on field preparation, weeding, and seedling costs, covering 75% of the total cost, with a maximum limit of ₹3,800 per acre."
+    },
+    {
+      "question": "How can farmers apply for this scheme?",
+      "answer": "Farmers can collect and submit the application form at their nearest Rural Agriculture Extension Officer’s office within the specified deadline."
+    }
+  ]
 }

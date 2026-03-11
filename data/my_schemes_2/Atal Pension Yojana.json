@@ -4,7 +4,7 @@
   "location_name": "",
   "location_type": "",
   "page_title": "Atal Pension Yojana",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
     "details": [
       "Atal Pension Yojana (APY) is an old age income security scheme for a savings account holder in the age group of",
@@ -50,7 +50,7 @@
       "The subscribers are required to contribute the prescribed contribution amount from the age of joining APY till the age of 60 years."
     ],
     "application_process": {
-      "online": [
+      "offline": [
         "Process 1:",
         "One can also open an APY account online using one's Net banking facility.",
         "The applicant can login into his/her internet banking account and search for APY on dashboard.",

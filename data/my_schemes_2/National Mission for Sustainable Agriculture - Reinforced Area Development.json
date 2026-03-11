@@ -1,17 +1,111 @@
 {
   "scheme_name": "National Mission for Sustainable Agriculture - Reinforced Area Development",
   "scheme_url": "https://www.myscheme.gov.in/schemes/nmsa-radg",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "National Mission for Sustainable Agriculture - Reinforced Area Development",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"National Mission for Sustainable Agriculture - Reinforced Area Development\" is a centrally sponsored scheme that aims to promote location-specific sustainable agriculture production by encouraging improved agronomic practices, soil health management, better rainwater utilization, judicious use of agrochemicals, crop diversification, and the progressive adoption of integrated farming systems involving crops, livestock, and trees."
+    ],
+    "benefits": [
+      "Financial Help:",
+      "Provides financial assistance to eligible farmers to adopt sustainable agricultural practices.",
+      "Improved Agronomic Practices:",
+      "Encourages the implementation of location-specific, modern, and efficient farming techniques.",
+      "Soil Health Management:",
+      "Supports initiatives for maintaining and enhancing soil fertility and health.",
+      "Enhanced Rainwater Use Efficiency:",
+      "Promotes techniques and infrastructure for optimal utilization of rainwater in agriculture.",
+      "Judicious Use of Chemicals:",
+      "Advocates for reduced and responsible application of chemical fertilizers and pesticides.",
+      "Crop Diversification:",
+      "Encourages farmers to cultivate a variety of crops, promoting resilience and better income opportunities.",
+      "Integrated Farming Systems:",
+      "Supports the adoption of integrated crop-livestock-tree farming for holistic farm management."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should be a farmer."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "The applicant may visit and apply online at the",
+        "I-Khedut",
+        "Portal.",
+        "Step 2:",
+        "Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type.",
+        "Step 3:",
+        "Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'.",
+        "Step 4:",
+        "Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'.",
+        "Login Process:",
+        "Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Now select the scheme, click on the ‘Apply’ button, and an application page will open.",
+        "Click on the \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a printout of the confirmed application.",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "7/12 Certificate.",
+      "Aadhaar Card.",
+      "Bank Pass Book/Cancelled Cheque."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 393)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main objective of the \"National Mission for Sustainable Agriculture - Reinforced Area Development\" scheme?",
+      "answer": "The main objective of the \"National Mission for Sustainable Agriculture - Reinforced Area Development\" scheme is to promote sustainable agriculture by encouraging farmers to adopt improved agronomic practices that are specific to local conditions, along with efficient use of resources such as soil and water, and the integration of crop, livestock, and tree-based farming systems."
+    },
+    {
+      "question": "Who is eligible to apply for the \"National Mission for Sustainable Agriculture - Reinforced Area Development\" scheme?",
+      "answer": "Any individual who is a practicing farmer and a resident of Gujarat is eligible to apply for the \"National Mission for Sustainable Agriculture - Reinforced Area Development\" scheme, provided that the individual possesses valid land ownership documents and is willing to adopt sustainable farming techniques promoted under the scheme."
+    },
+    {
+      "question": "3. What types of benefits are provided under the \"National Mission for Sustainable Agriculture - Reinforced Area Development\" scheme?",
+      "answer": "The \"National Mission for Sustainable Agriculture - Reinforced Area Development\" scheme provides financial assistance to farmers to implement sustainable agricultural practices, such as enhancing soil health, conserving rainwater, diversifying crops, and integrating livestock and forestry into existing agricultural activities."
+    },
+    {
+      "question": "Is there any income limit for farmers to be eligible under this scheme?",
+      "answer": "There is no income limit applicable for eligibility under the \"National Mission for Sustainable Agriculture - Reinforced Area Development\" scheme, which means that farmers from all income groups are allowed to apply."
+    },
+    {
+      "question": "Are tenant farmers or sharecroppers eligible to avail benefits under the scheme?",
+      "answer": "Only land-owning farmers are eligible to receive benefits under the \"National Mission for Sustainable Agriculture - Reinforced Area Development\" scheme, and tenant farmers or sharecroppers are not covered unless they possess ownership records like the 7/12 certificate in their name."
+    },
+    {
+      "question": "Are there any income restrictions for applying to this scheme?",
+      "answer": "There are no income restrictions or income limits imposed under the scheme; individuals from all economic backgrounds may apply if they meet the disability and residency criteria."
+    },
+    {
+      "question": "What is the geographic coverage of the scheme?",
+      "answer": "The scheme is applicable across the entire state of Gujarat and is intended to benefit eligible persons residing in any district of the state."
+    },
+    {
+      "question": "What is the process to apply for the scheme?",
+      "answer": "To apply for the scheme, the applicant must visit the iKhedut portal, fill out the online application form, upload the required documents, and submit the form electronically."
+    },
+    {
+      "question": "What documents are required while applying for the scheme?",
+      "answer": "To apply for the \"National Mission for Sustainable Agriculture - Reinforced Area Development\" scheme, farmers are required to submit documents such as their Aadhaar Card, 7/12 Certificate (land ownership proof), a copy of their Bank Pass Book, or a Cancelled Cheque."
+    },
+    {
+      "question": "Is there any fee required to apply for the scheme?",
+      "answer": "Applicants are not required to pay any fee while applying for the \"National Mission for Sustainable Agriculture - Reinforced Area Development\" scheme, as the application process is completely free of cost."
+    }
+  ]
 }

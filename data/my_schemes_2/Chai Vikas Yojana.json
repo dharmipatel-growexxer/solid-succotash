@@ -1,17 +1,141 @@
 {
   "scheme_name": "Chai Vikas Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/cvyb",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Chai Vikas Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "“Chai Vikas Yojana” launched by the Department of Agriculture, Bihar, aimed at fostering the tea industry in Bihar by expanding tea plantations in selected districts, namely in Kishanganj, Araria, Supaul, Purnia and Katihar.",
+      "Under this scheme, farmers will independently purchase planting materials, and a subsidy will be provided in two installments based on a 75:25 cost-sharing model for purchasing various horticultural machines, such as pruning machines, mechanical harvesters, plucking shears, leaf carriage vehicles, and leaf collection sheds."
+    ],
+    "benefits": [
+      "Subsidy on Planting Materials:",
+      "75% subsidy in the first year, with 25% provided in the second year if plant survival reaches 90%.",
+      "Subsidy on Machines:",
+      "Pruning Machine: 50% of the cost or ₹60,000/- (whichever is less) (Minimum Land Area: 2 acres).",
+      "Mechanical Harvester: 50% of the cost or ₹50,000/- (whichever is less) (Minimum Land Area: 2 acres).",
+      "Plucking Shears: 50% of the cost or ₹1,100/- (maximum of 20 shears) (Minimum Land Area: 2 acres).",
+      "Leaf Carriage Vehicle: 50% of the cost or ₹7,50,000/- (whichever is less) (Minimum Land Area: 10 acres).",
+      "Leaf Collection Shed: 50% of the cost or ₹37,500/- (whichever is less) (Minimum Land Area: ​​5 acres).",
+      "Note :",
+      "Women Beneficiary allocation: 30%.",
+      "Beneficiaries will be selected on first come first serve basis."
+    ],
+    "eligibility": [
+      "The applicant should be a farmer.",
+      "The applicant should belong to any of the following districts of Bihar : Kishanganj, Araria, Supaul, Purnia and Katihar.",
+      "The applicant must have a minimum land area of 2 acres.",
+      "The applicant must be registered on the DBT portal."
+    ],
+    "application_process": {
+      "online": [
+        "DBT Registration Process:",
+        "Step-1:",
+        "Visit the",
+        "registration page",
+        "of the DBT portal.",
+        "Step-2:",
+        "Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.",
+        "Step-3:",
+        "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.",
+        "Step-4:",
+        "Enter the OTP. Click on “Validate OTP”.",
+        "Step-5:",
+        "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.",
+        "Step-6:",
+        "In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.",
+        "Step-7:",
+        "Validate with OTP. Click on “Register” to generate the Registration Id.",
+        "Note:",
+        "After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.",
+        "Online Application of the Scheme:",
+        "Visit the official",
+        "website",
+        ".",
+        "Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”.",
+        "In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”.",
+        "Fill in the required details i.e. Address, Land Details, etc, and upload documents.",
+        "Confirm the checkbox and then click on “Submit”.",
+        "An “Application Number” will be generated. Keep this for future reference.",
+        "Printout of the filled in application also can be taken using the Print option."
+      ]
+    },
+    "documents_required": [
+      "For DBT Registration Process:",
+      "Aadhaar Details (Should be linked with mobile number).",
+      "Passport Size Photo.",
+      "Farmer details.",
+      "Land information.",
+      "Bank account.",
+      "For the Online Application of the Scheme:",
+      "Land-ownership/ revenue receipt (If applicable).",
+      "Any other document (if required).",
+      "Note:",
+      "If the applicant's name is not clear in the land-ownership/ revenue receipt, it will be mandatory to attach the genealogy along with the land-ownership/ revenue receipt."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of “Chai Vikas Yojana\"?",
+      "answer": "The objective of “Chai Vikas Yojana” is to promote tea cultivation and enhance productivity in the selected districts of Bihar."
+    },
+    {
+      "question": "Which districts are covered under the scheme?",
+      "answer": "The scheme covers the districts of Kishanganj, Araria, Supaul, Purnia, and Katihar."
+    },
+    {
+      "question": "Who is eligible to apply for “Chai Vikas Yojana”?",
+      "answer": "Farmers with a minimum land area of 2 acres, cultivating tea in the specified districts and meeting the minimum landholding requirements are eligible to apply for the scheme."
+    },
+    {
+      "question": "How is the planting material subsidy provided under the scheme?",
+      "answer": "The planting material subsidy is provided in two installments: 75% of the cost is paid in the first year, and 25% is paid in the second year if 90% of the plants from the previous year's plantation survive."
+    },
+    {
+      "question": "What are the minimum landholding requirements for availing subsidies?",
+      "answer": "The minimum landholding requirements vary depending on the equipment: A minimum of 2 acres is required for pruning machines, mechanical harvesters, and plucking shears. A minimum of 10 acres is required for leaf carriage vehicles. A minimum of 5 acres is required for leaf collection sheds."
+    },
+    {
+      "question": "What is the maximum subsidy available for a pruning machine?",
+      "answer": "Farmers are eligible for a subsidy of 50% of the actual cost or ₹60,000/-, whichever is less, for purchasing a pruning machine."
+    },
+    {
+      "question": "Are beneficiaries of new area expansion eligible for mechanized organ subsidies?",
+      "answer": "Beneficiaries of new area expansion under “Chai Vikas Yojana” are not eligible for mechanized organ subsidies."
+    },
+    {
+      "question": "What is the survival rate condition for receiving the second installment of the planting material subsidy?",
+      "answer": "To receive the second installment of the planting material subsidy, at least 90% of the plants from the previous year must survive."
+    },
+    {
+      "question": "How many plucking shears can a farmer receive subsidies for?",
+      "answer": "A farmer can receive subsidies for a maximum of 20 plucking shears under the scheme."
+    },
+    {
+      "question": "What is the maximum subsidy available for a mechanical harvester?",
+      "answer": "The maximum subsidy available for a mechanical harvester is 50% of the actual cost or ₹50,000, whichever is less."
+    },
+    {
+      "question": "Does the scheme provide subsidies for managing existing tea plantations?",
+      "answer": "Yes, the scheme provides subsidies for various horticultural machines to manage existing tea plantations."
+    },
+    {
+      "question": "What is the maximum subsidy provided for leaf carriage vehicles?",
+      "answer": "Farmers cultivating tea on a minimum of 10 acres can receive a subsidy of 50% of the cost or ₹7,50,000, whichever is less, for leaf carriage vehicles."
+    },
+    {
+      "question": "What is the benefit provided for leaf collection sheds under the scheme?",
+      "answer": "The scheme provides a subsidy of 50% of the actual cost or ₹37,500, whichever is less, for constructing leaf collection sheds for farmers cultivating tea on at least 5 acres."
+    },
+    {
+      "question": "What specific benefits does the scheme offer to small-scale tea farmers?",
+      "answer": "Small-scale tea farmers cultivating a minimum of 2 acres are eligible for subsidies on affordable equipment like plucking shears, pruning machines, and mechanical harvesters."
+    }
+  ]
 }

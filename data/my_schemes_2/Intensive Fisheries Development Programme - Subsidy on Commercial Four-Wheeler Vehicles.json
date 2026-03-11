@@ -1,17 +1,107 @@
 {
   "scheme_name": "Intensive Fisheries Development Programme - Subsidy on Commercial Four-Wheeler Vehicles",
   "scheme_url": "https://www.myscheme.gov.in/schemes/socfwv",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Intensive Fisheries Development Programme - Subsidy on Commercial Four-Wheeler Vehicles",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Subsidy on Commercial Four-Wheeler Vehicles\" is a scheme component under the Intensive Fisheries Development Programme, implemented by the Fisheries Department, Government of Haryana. The scheme aims to strengthen the fisheries value chain by providing transportation support to fish farmers. Under this scheme, eligible fish farmers receive a subsidy of 25% of the actual cost on the purchase of a commercial four-wheeler vehicle used for fisheries-related activities."
+    ],
+    "benefits": [
+      "Subsidy under the scheme is provided at the rate of 25% of the actual cost of the four-wheeler (₹9 lakh) or ₹2.25 lakh, whichever is lower."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should possess a valid Parivar Pehchan Patra (PPP).",
+      "The applicant should be at least 18 years of age."
+    ],
+    "application_process": {
+      "offline": [
+        "Online - via CSCs",
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Fees For Service:",
+        "Government Charges: ₹0 (No Fee)",
+        "Service Charges: ₹10",
+        "Atal Seva Kendra Charges: ₹10"
+      ]
+    },
+    "documents_required": [
+      "Agreement Letter-1 (Agreement letter between the fisheries farmer and the department)",
+      "Birth Certificate (Date of birth certificate / Class ten (10th) certificate / PAN Card / Voter ID Card / Driver's License)",
+      "Identity Proof (Ration Card / Aadhaar Card / PAN Card / Voter ID Card)",
+      "Applicant's fisheries training certificate from any government institution",
+      "GST bill/receipt/voucher/insurance of the purchased vehicle",
+      "Photograph of the vehicle purchased by the applicant",
+      "Applicant/Driver's Driving License"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Official Website"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Permanent residents of Haryana engaged in fisheries, aged 18 or above, and not working in government jobs."
+    },
+    {
+      "question": "What is the maximum subsidy amount available?",
+      "answer": "₹2,25,000 or 25% of the vehicle cost, whichever is lower."
+    },
+    {
+      "question": "What is the maximum cost of the vehicle eligible for subsidy?",
+      "answer": "The amount is ₹9,00,000/-."
+    },
+    {
+      "question": "Can a government employee apply?",
+      "answer": "No, government and semi-government employees are not eligible."
+    },
+    {
+      "question": "Is there any age restriction to apply?",
+      "answer": "Yes, the applicant must be at least 18 years old."
+    },
+    {
+      "question": "Which training certificate is required?",
+      "answer": "Fisheries training certificate issued by a recognized government institute."
+    },
+    {
+      "question": "What documents are mandatory with the application?",
+      "answer": "Identity proof, birth proof, training certificate, GST invoice, vehicle insurance, photograph, and driving license."
+    },
+    {
+      "question": "Is GST invoice necessary?",
+      "answer": "Yes, it is compulsory to submit a GST-paid invoice."
+    }
+  ]
 }

@@ -1,17 +1,96 @@
 {
   "scheme_name": "Mushroom Production",
   "scheme_url": "https://www.myscheme.gov.in/schemes/fsf",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mushroom Production",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Mushroom Production” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote and support mushroom cultivation in the state by providing financial assistance and subsidies for establishing mushroom, compost, and spawn production units, thereby enhancing both farmer income and overall mushroom production in Uttarakhand."
+    ],
+    "benefits": [
+      "Under the scheme:",
+      "To promote mushroom production, a 40% subsidy is provided to the individual sector (farmers or persons interested in mushroom cultivation).",
+      "For setting up a mushroom production unit, a 40% subsidy is provided, up to a maximum of ₹20,00,000/- per unit.",
+      "For setting up a compost production unit, a 40% subsidy is provided, up to a maximum of ₹20,00,000/- per unit.",
+      "For setting up a spawn production unit, a 40% subsidy is provided, up to a maximum of ₹15,00,000/- per unit.",
+      "For the public sector (government departments, institutions, agricultural/industrial universities, etc.), 100% subsidy is provided on the total cost."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer interested in mushroom production.",
+      "The farmer must either own land or have land on lease.",
+      "Each farmer is eligible for assistance for only one unit.",
+      "There is no provision to provide assistance or subsidy if the farmer does not take a loan."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail the benefits of this scheme, the applicant must first download the application form/proposal format from the department's website https://shm.uk.gov.in/ or obtain it from the Horticulture office of the concerned district.",
+        "The applicant must then prepare the application proposal in the prescribed format. If any difficulty arises in preparing the proposal, assistance can be sought from the departmental staff at the Dehradun and Jyolikot Indo-Dutch Mushroom Offices. Once prepared, the proposal must be submitted to the relevant office.",
+        "The interested farmer must apply for a bank loan. For this, the applicant is required to provide land documents, Aadhaar card, PAN card, bank account details, income details from mushroom farming, expenditure details, other sources of income, and any land-related documents. The bank will process the loan application and approve it following its standard procedures.",
+        "After loan approval, the farmer must submit the application to the office of the Director of Horticulture Mission/Chief Mushroom Development Officer in the prescribed format. The application must include the following documents: land records, bank loan approval letter, Aadhaar card, bank passbook, PAN card, copy of family registry/ration card, permanent residence/account khatauni, khasra and khatauni, mushroom training certificate, affidavit, lease certificate for leased land, and, in the case of owned land, an affidavit of ownership. If any required documents are missing at the time of application, the applicant may be asked to provide them verbally or in writing. The submitted proposal is then evaluated by a committee.",
+        "Upon approval of the proposal, the applicant is notified by telephone and receives a formal approval letter from the office of the Director of Horticulture Mission/Chief Mushroom Development Officer. The farmer may then begin establishing the mushroom unit. Following this, departmental personnel conduct a site inspection. Based on the inspection report, the subsidy is disbursed directly into the farmer's account in two installments. Currently, this entire process is conducted offline."
+      ]
+    },
+    "documents_required": [
+      "For applying a loan from a bank, following documents are required:",
+      "Land documents",
+      "Aadhaar card",
+      "PAN card",
+      "Bank account details",
+      "Income details from mushroom farming",
+      "Expenditure details",
+      "Details of other sources of income",
+      "Upon approval of the bank loan, the farmer needs to submit the following documents to the office of the Director of Horticulture Mission or the Chief Mushroom Development Officer:",
+      "Land records",
+      "Bank loan approval letter",
+      "Bank passbook",
+      "Copy of family registry or ration card",
+      "Permanent residence proof",
+      "Land documents (Khasra and khatauni details)",
+      "Mushroom training certificate",
+      "Affidavit",
+      "Lease certificate (if land is leased)",
+      "Affidavit of ownership (in case of round account land)",
+      "If any required documents are missing, the applicant is asked to provide them either verbally or in writing."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 213)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Farmers or individuals interested in mushroom cultivation with leased land are eligible. Each farmer can set up only one unit."
+    },
+    {
+      "question": "What types of units are supported under the scheme?",
+      "answer": "The scheme supports mushroom production units, compost production units, and spawn production units."
+    },
+    {
+      "question": "Can a farmer get multiple units under this scheme?",
+      "answer": "No, a farmer is eligible for only one unit under the scheme."
+    },
+    {
+      "question": "Is owning land mandatory for availing this scheme?",
+      "answer": "No, owning land is not mandatory, but the farmer must have leased land for mushroom cultivation."
+    },
+    {
+      "question": "Can the farmer get help in preparing the proposal?",
+      "answer": "Yes, assistance is available from the departmental staff at the Dehradun and Jyolikot Indo-Dutch Mushroom Offices."
+    },
+    {
+      "question": "Who evaluates the proposal?",
+      "answer": "A designated committee evaluates all proposals submitted under the scheme."
+    },
+    {
+      "question": "How will the applicant be informed of the approval?",
+      "answer": "The applicant is notified by telephone and receives a formal approval letter from the office of the Director of Horticulture Mission or the Chief Mushroom Development Officer."
+    },
+    {
+      "question": "How is the subsidy paid to the farmer?",
+      "answer": "The subsidy is paid directly into the farmer’s bank account in two installments after the site inspection report is approved."
+    }
+  ]
 }

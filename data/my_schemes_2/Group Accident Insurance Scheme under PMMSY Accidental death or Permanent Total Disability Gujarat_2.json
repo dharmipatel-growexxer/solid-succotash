@@ -1,17 +1,147 @@
 {
   "scheme_name": "Group Accident Insurance Scheme under PMMSY: Accidental death or Permanent Total Disability Gujarat",
   "scheme_url": "https://www.myscheme.gov.in/schemes/gaisguj1",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Group Accident Insurance Scheme under PMMSY: Accidental death or Permanent Total Disability Gujarat",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Group Accident Insurance Scheme under PMMSY\" with a component \"Accidental death or Permanent Total Disability\" is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Insurance of Fishers is one of the sub-components of the PMMSY, and it provides insurance coverage to fishers, which includes fishermen, fish workers, fish farmers, and other individuals directly involved in fishing and related activities. The sub scheme offers coverage for death, permanent total disability (PTD). The National Fisheries Development Board (NFDB) and M/s Oriental Insurance Company Limited (OICL) implement the scheme. The premium cost is shared between the Central and State Governments, with no contribution from the beneficiary. The implementing agency of the scheme is the Commissioner of Fisheries.",
+      "Objective of scheme:",
+      "To financially assist the fisherman/fisherman's family in case of death/injury."
+    ],
+    "benefits": [
+      "Sr. No.",
+      "Name of Component",
+      "Standard of assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "1.",
+      "Accidental death or Permanent Total Disability",
+      "₹5,00,000/-",
+      "Once to the legal heir after death",
+      "Mode of Disbursement:",
+      "The claim amount is deposited directly into the claimant's, nominee's, or legal heir's savings account via Direct Bank Transfer (DBT).",
+      "Expected Time of Disbursement:",
+      "The insurance company will settle the claim within 15 working days of receiving the complete claim documentation. If a claim is not settled within this period, the insurance company will pay a simple interest of 10% on the admissible claim amount from the date of document submission until the payment date."
+    ],
+    "eligibility": [
+      "The applicant must be a fisher, which includes fishermen, fish workers, fish farmers, and any other person directly involved in fishing or fisheries-related activities.",
+      "The applicant must be between 18 and 70 years old.",
+      "The insured person should not have been 71 years of age on the date of the accident.",
+      "The applicant must be approved by the State/Union Territory (UT) fisheries department.",
+      "At the time of a claim, the claimant or insured fisher must be verified and certified by an \"Appropriate Authority\".",
+      "The applicant should have registered himself in the concerned district office."
+    ],
+    "application_process": {
+      "offline": [
+        "Fishers or their legal heirs must submit the required documents to the concerned district office for assistance.",
+        "The claim details must be intimated within 90 days of the accident via one of the following recognised communication methods:",
+        "Letter to the Insurance Company/NFDB Insurance Cell/Intermediary.",
+        "Email to support@pmmsygais.com.",
+        "Through the IT & ITES platforms provided by the intermediary.",
+        "Via the NFDB Toll-Free Number (1800-425-1660).",
+        "To the \"Appropriate Authorities\".",
+        "Note:",
+        "All claim documents must be submitted within 180 days of the accident."
+      ]
+    },
+    "documents_required": [
+      "Documents (duly filled in all respects) common to all claims:",
+      "Intimation Form",
+      "Claim Form",
+      "Cancelled Cheque of claimant/insured/nominee/legal heir/s (or) copy of first page Bank Pass Book of claimant/insured/nominee/legal heir/s (or) copy of bank account statement of claimant/insured/nominee/legal heir/s duly attested by a gazetted officer along with self attestation",
+      "Certification by the Appropriate Authority",
+      "Any one of the IDs as mentioned, in the list of acceptable documents as proof of identity and proof of address from the general public in the country, by the Government of India. Any one of the acceptable IDs as proof of identity and address issued by the Government of India",
+      "With respect to the requirement/s of claim documents or certificates, the law of the land in correlation to the customs and traditions of the geography shall prevail over the documents specified in this agreement.",
+      "Other documents required for specific kinds of accidents:",
+      "Road/Railway Accident:",
+      "First Information Report (FIR) or Railway Protection Force (RPF) report, Spot Panchnama, Inquest Panchnama, Post Mortem Report, Valid Driving License (if the insured was driving), and Death Certificate.",
+      "Drowning:",
+      "First Information Report (FIR)/Police Report, Post Mortem Report, Spot Panchnama, Inquest Panchnama, Death Certificate, and statements from two witnesses.",
+      "Missing at Sea:",
+      "A declaration by the family and a certificate from an Appropriate Authority.",
+      "Fire:",
+      "First Information Report (FIR)/Police Report, Post Mortem Report, and Death Certificate. If the body is completely charred, a declaration by a family member and a certificate from an Appropriate Authority are required.",
+      "Poisonous Substances:",
+      "First Information Report (FIR)/Police Report, Post Mortem Report, Viscera Report, Forensic Lab Report, and Death Certificate.",
+      "Lightning/Electric Shock:",
+      "First Information Report (FIR)/Police Report, Post Mortem Report, Inquest Panchnama, Spot Panchnama, and Death Certificate.",
+      "Machinery:",
+      "First Information Report (FIR)/Police Report, Post Mortem Report, Spot Panchnama, Inquest Panchnama, and Death Certificate.",
+      "Murder:",
+      "First Information Report (FIR), Spot Panchnama, Inquest Panchnama, Post Mortem Report, Death Certificate, and Final Police Report (if necessary).",
+      "Falling from Heights/Naxalite Murder/Riots",
+      ": First Information Report (FIR)/Police Report, Spot Panchnama, Inquest Panchnama, Post Mortem Report, and Death Certificate.",
+      "Animal-related Injury (e.g., snake bite, rabies):",
+      "A certificate from a registered medical practitioner confirming the cause of death/disablement. If available, also include First Information Report (FIR)/Police Report, Inquest Panchnama, Post Mortem Report/Forensic Lab Report, Viscera Report (if not concluded from the Post Mortem Report), and Death Certificate.",
+      "Additional Documents for Specific Claims",
+      "Permanent Total Disability (PTD):",
+      "Original detailed discharge summary, treating doctor's certificate, copy of FIR or Medico Legal Certificate (MLC), first consultation letter, and a disability certificate with a photograph from a government hospital specialist.",
+      "Note:",
+      "Certified or true copies of the First Information Report (FIR) and Post Mortem Report are required, not the originals."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Guidelines Issued By NFDB Hyderabad"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the scheme is about?",
+      "answer": "The Group Accident Insurance Scheme (GAIS) is a component of the Pradhan Mantri Matsya Sampada Yojana (PMMSY) that provides insurance coverage to fishers, fish workers, fish farmers, and others involved in fishing-related activities"
+    },
+    {
+      "question": "What does the Accidental Death or Permanent Total Disability (PTD) benefit cover?",
+      "answer": "The scheme provides a benefit of ₹5,00,000/- for accidental death or permanent total disability."
+    },
+    {
+      "question": "What is considered a \"Permanent Total Disability\" under this scheme?",
+      "answer": "Permanent Total Disability is defined as an injury that, within 12 months of the accident, is the sole and direct cause of the insured person being permanently, totally, and absolutely disabled from engaging in any occupation or employment."
+    },
+    {
+      "question": "Who is eligible for this benefit?",
+      "answer": "Eligible individuals are men and women fishers between the ages of 18 and 70, as approved by the State/UT fisheries department. The insured person must not have completed 71 years of age on the date of the accident."
+    },
+    {
+      "question": "What is the policy's duration?",
+      "answer": "The insurance cover is valid for a period of 12 months."
+    },
+    {
+      "question": "How is the premium paid for the insurance?",
+      "answer": "The entire premium amount is paid by the Central and State Governments, with no contribution from the beneficiary."
+    },
+    {
+      "question": "How do I report a claim for accidental death or permanent total disability?",
+      "answer": "The claim must be intimated to M/s Oriental Insurance Company Limited (OICL) within 90 days from the date of the accident."
+    },
+    {
+      "question": "What documents are required to file a claim?",
+      "answer": "Common documents include the Intimation Form, Claim Form, a cancelled cheque or bank passbook copy, Certification by an Appropriate Authority, and a government-issued ID. Additional documents, such as the First Information Report (FIR) and Post Mortem Report, are required for specific accidents."
+    },
+    {
+      "question": "Where do I submit the claim documents?",
+      "answer": "All hard copies of the insurance claim documents should be sent to the Insurance Cell at the National Fisheries Development Board (NFDB) after being uploaded to the PMMSY-GAIS MIS Portal."
+    },
+    {
+      "question": "How long does it take for a claim to be settled?",
+      "answer": "The insurance company will settle a claim within 15 working days of receiving all complete documentation."
+    },
+    {
+      "question": "What happens if the insurance company delays the claim payment?",
+      "answer": "If an admissible claim is not settled within 15 days, the insurance company will pay a simple interest of 10% on the claim amount from the date of document submission until the date of payment."
+    },
+    {
+      "question": "Will the claim be paid to the family or the insured person?",
+      "answer": "The payment is made directly to the claimant, nominee, or legal heir's savings account via Direct Bank Transfer (DBT)."
+    },
+    {
+      "question": "Are there any exclusions to the accidental death or PTD coverage?",
+      "answer": "Yes, the policy does not cover death or disability resulting from suicide, self-inflicted injury, pre-existing conditions, drug or alcohol use, criminal acts, or war. Natural death is also not covered."
+    },
+    {
+      "question": "What is the role of the State/UT Fisheries Department in the claims process?",
+      "answer": "The State/UT department is responsible for identifying and verifying the fishers to be insured, forwarding claim intimations, and ensuring all claim documents are verified and submitted on time."
+    }
+  ]
 }

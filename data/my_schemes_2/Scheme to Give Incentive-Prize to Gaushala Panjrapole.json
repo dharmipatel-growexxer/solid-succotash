@@ -1,17 +1,88 @@
 {
   "scheme_name": "Scheme to Give Incentive-Prize to Gaushala/ Panjrapole",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sgipgp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme to Give Incentive-Prize to Gaushala/ Panjrapole",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Scheme to Give Incentive-Prize to Gaushala/ Panjrapole\" launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat, aims to foster healthy competition among Gaushalas and Panjrapoles in the state. By encouraging better animal management practices, the scheme provides incentive prizes to organizations that rank first, second, and third in terms of their operation and management. The prizes are awarded once every three years."
+    ],
+    "benefits": [
+      "First Rank: ₹1,50,000/- for the top-ranked Gaushala/Panjrapole.",
+      "Second Rank: ₹1,00,000/- for the second-ranked Gaushala/Panjrapole.",
+      "Third Rank: ₹50,000/- for the third-ranked Gaushala/Panjrapole.",
+      "Frequency: The incentive prizes are awarded once every 3 years."
+    ],
+    "eligibility": [
+      "Gaushalas and panjarapol must be registered under the Charity Act."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Registration certificate under the Public Charity Act.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Scheme to Give Incentive-Prize to Gaushala/ Panjrapole\" scheme?",
+      "answer": "The purpose of the scheme is to provide incentives and prizes to Gaushalas and Panjarapols for their efforts in improving the welfare of cattle and enhancing their contribution to animal care and protection."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Gaushalas and Panjarapols that are registered under the Public Charity Act are eligible to apply for this scheme."
+    },
+    {
+      "question": "What kind of incentives or prizes are offered under this scheme?",
+      "answer": "The scheme offers financial incentives, awards, and prizes to the Gaushalas and Panjarapols that meet specific criteria related to animal welfare, management practices, and contributions to cattle care."
+    },
+    {
+      "question": "How much financial incentive is given to the top-ranked Gaushala or Panjarapole?",
+      "answer": "The Gaushala or Panjarapole ranked first receives an incentive prize of ₹1,50,000/-."
+    },
+    {
+      "question": "What is the prize amount for the second-ranked institution?",
+      "answer": "The second-ranked Gaushala or Panjarapole is awarded ₹1,00,000/-."
+    },
+    {
+      "question": "How much is awarded to the third-ranked Gaushala or Panjarapole?",
+      "answer": "The third position holder receives ₹50,000/- as an incentive."
+    },
+    {
+      "question": "How frequently is the incentive prize awarded under this scheme?",
+      "answer": "The incentive prizes are distributed once every three years."
+    },
+    {
+      "question": "Where can eligible institutions apply for the scheme?",
+      "answer": "Applications must be submitted online through the iKhedut portal, followed by submission of printed applications with signatures and required documents to the board."
+    }
+  ]
 }

@@ -1,17 +1,117 @@
 {
   "scheme_name": "Subsidy Scheme on Establishment of 25 R.I.R./Kadaknath & 1000 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Tribes People of the State",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sskpf",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Subsidy Scheme on Establishment of 25 R.I.R./Kadaknath & 1000 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Tribes People of the State",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Subsidy Scheme on Establishment of 25 R.I.R./Kadaknath & 1000 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Tribes People of the State\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by subsidizing the cost of solar power units/kits for farm fencing. By installing solar fencing, farmers can prevent crop destruction, increase agricultural productivity, and ensure better utilization of resources."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Subsidy Scheme on establishment of - 25 Kadaknath / RIR birds Unit to Scheduled Tribes",
+      "75% of total Expenditure or maximum ₹6,000/- in kind (25 R.I.R. birds and poultry feed)",
+      "Benefit can be given to one member of family. After 3 years the same family can avail benefit",
+      "Stipend Scheme for Poultry farming Training for Scheduled Tribes",
+      "Maximum ₹2,000/- RTGS/NEFT (in Bank Account Direct)",
+      "Benefit can be given to one member of family",
+      "Scheme on establishment of 1000 broiler bird’s unit for scheduled tribes people of the state",
+      "90% subsidy or Maximum ₹8,15,000/- (DBT)",
+      "Benefit can be given to one member of family once in a lifetime."
+    ],
+    "eligibility": [
+      "The applicant must be from Gujarat.",
+      "The applicant must be an adult Scheduled Tribe (ST) individual.",
+      "The applicant must have completed 6 days of poultry rearing training for the 25 R.I.R./Kadaknath bird unit and stipend scheme.",
+      "The applicant must have completed any poultry rearing training for the 1000 broiler birds unit scheme.",
+      "Note:",
+      "Priority is given to females and Below Poverty Line (BPL) applicants."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        ".",
+        "Note:",
+        "Before application, beneficiaries must complete poultry training at the Intensive Poultry Development Project or District Poultry Extension Centre."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Scheduled Tribe Caste Certificate.",
+      "Proof of Residence (Ration Card/Voter ID/Utility Bill).",
+      "Bank Passbook (for NEFT/RTGS transfer).",
+      "Proof of Disability (if applicable).",
+      "Below Poverty Line (BPL) Certificate (if applicable).",
+      "Training Completion Certificate from the authorized center.",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme is designed to empower Scheduled Tribe beneficiaries in Gujarat by providing financial support for poultry farming. It includes subsidies for setting up poultry units and stipends for training programs."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "The scheme is available only to adult Scheduled Tribe (ST) individuals residing in Gujarat."
+    },
+    {
+      "question": "What type of financial assistance is provided under this scheme?",
+      "answer": "The scheme provides subsidies for poultry farming, including 75% assistance (up to ₹6,000/-) for a 25 R.I.R./Kadaknath birds unit and 90% subsidy (up to ₹8,15,000/-) for a 1000 broiler birds unit. Additionally, a stipend of up to ₹2,000 is given for poultry training."
+    },
+    {
+      "question": "Is it mandatory to complete poultry training before applying?",
+      "answer": "Yes, poultry training is required. A 6-day training is mandatory for those applying for the 25 R.I.R./Kadaknath birds unit and stipend scheme, while any poultry training is acceptable for the 1000 broiler birds unit scheme."
+    },
+    {
+      "question": "Where can the applicant receive the required poultry training?",
+      "answer": "The required poultry training can be obtained from the Intensive Poultry Development Project or District Poultry Extension Centre in Gujarat."
+    },
+    {
+      "question": "Can more than one family member apply for the scheme?",
+      "answer": "No, only one member of a family is eligible to receive benefits at a time."
+    },
+    {
+      "question": "How often can an applicant avail of this scheme?",
+      "answer": "1. For the 25 R.I.R./Kadaknath birds unit, an applicant can reapply after three years. 2. For the 1000 broiler birds unit, the benefit can be availed only once in a lifetime."
+    },
+    {
+      "question": "How is the subsidy amount provided to the beneficiaries?",
+      "answer": "1. For the 25 R.I.R./Kadaknath birds unit, the benefit is given in kind (birds and poultry feed). 2. For the 1000 broiler birds unit, the subsidy is transferred through Direct Benefit Transfer (DBT) to the beneficiary’s bank account. 3. The training stipend is transferred via RTGS/NEFT directly to the beneficiary’s bank account."
+    },
+    {
+      "question": "Will priority be given to certain applicants?",
+      "answer": "Yes, female applicants and Below Poverty Line (BPL) beneficiaries will be given priority under this scheme."
+    },
+    {
+      "question": "How can an applicant submit an application for this scheme?",
+      "answer": "Applications must be submitted online through the iKhedut portal at https://ikhedut.gujarat.gov.in."
+    }
+  ]
 }

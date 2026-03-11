@@ -3,15 +3,67 @@
   "scheme_url": "https://www.myscheme.gov.in/schemes/fafnc",
   "location_name": "",
   "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "page_title": "Financial Assistance to Fishermen Affected by Natural Calamities / Accident",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Financial Assistance to Fishermen Affected by Natural Calamities/Accidents” scheme has been implemented by the Department of Fisheries, UT Administration of Dadra & Nagar Haveli and Daman & Diu. The scheme aims to provide financial support to fishermen and their families in cases of death due to natural calamities or accidents, or in situations where fishermen are held captive by Pakistani authorities. The assistance is provided either as a one-time financial support or as a daily allowance, depending on the circumstances faced by the fisherman."
+    ],
+    "benefits": [
+      "One-time financial assistance of ₹50,000/- is provided in case of the death of a fisherman due to natural calamities or accidents.",
+      "Financial assistance of ₹100/- per day is provided to fishermen held captive by the Pakistani Authority. The assistance is payable till the release of the fisherman (fishermen detained more than once are not eligible)."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of the Union Territory of Dadra & Nagar Haveli and Daman & Diu.",
+      "The applicant must be a family member or dependent of the deceased or detained fisherman.",
+      "The fisherman detained more than once is not eligible for assistance under the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant should contact the respective District Panchayat/Fisheries Department, UT Administration of Dadra & Nagar Haveli and Daman & Diu to avail the benefits under the scheme."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Passport size photograph",
+      "Residence proof",
+      "Ration Card",
+      "Bank account details",
+      "Any other documents (As per requirement)"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Notification"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The scheme provides financial assistance to fishermen and their families affected by natural calamities, accidents, or detention."
+    },
+    {
+      "question": "What assistance is provided in case of death of a fisherman?",
+      "answer": "A one-time financial assistance of ₹50,000/- is provided in case of the death of a fisherman."
+    },
+    {
+      "question": "Is the death assistance provided more than once?",
+      "answer": "No, the assistance in case of death is provided as a one-time benefit."
+    },
+    {
+      "question": "What assistance is provided to fishermen held captive by the Pakistani Authority?",
+      "answer": "Financial assistance of ₹100/- per day is provided to fishermen held captive by the Pakistani Authority."
+    },
+    {
+      "question": "For how long is the daily assistance for detention provided?",
+      "answer": "The assistance is provided till the release of the fisherman."
+    },
+    {
+      "question": "Are fishermen detained more than once eligible for detention assistance?",
+      "answer": "No, fishermen detained more than once are not eligible for detention-related assistance."
+    },
+    {
+      "question": "Who can apply for assistance under this scheme?",
+      "answer": "Fishermen or family members of deceased fishermen affected by natural calamities, accidents, or detention can apply."
+    }
+  ]
 }

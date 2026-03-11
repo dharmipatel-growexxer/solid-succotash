@@ -1,17 +1,107 @@
 {
   "scheme_name": "Package for strengthening to sugar co-operatives as may be policy decided by the State Government",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pfssco",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Package for strengthening to sugar co-operatives as may be policy decided by the State Government",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Package for strengthening to sugar co-operatives as may be policy decided by the State Government\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to sugar co-operative societies for projects such as modernization, upgradation, tissue culture labs, molasses-based distilleries, storage system improvements, and cost reduction initiatives. It also offers direct assistance to farmers for the sale of bio-compost, phospho-compost, and vermicompost."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "A project to provide direct assistance to farmers' accounts by sugar cooperatives against sale of bio-compost by sugar cooperatives.",
+      "₹100/- per metric ton against the total metric ton sales of bio compost volume. or a maximum of ₹20,00,000/- whichever is less",
+      "A project to provide direct assistance to the account of farmers through sugar cooperative societies against the sale of 50 kg bags of phospho compost by sugar cooperative societies.",
+      "₹100/- per bag against the sale of a total bag of 50 kg of phosphor compost. or a maximum of ₹20,00,000/- whichever is less",
+      "A project to provide direct assistance to farmers' accounts by sugar cooperatives against purchase/sale of produce of 50 kg bags of vermicompost by sugar cooperatives.",
+      "₹50/- per bag against the sale of a total bag of 50 kg of vermin Compost or maximum ₹6,50,000/- whichever is less.",
+      "Project for setting up of new tissue culture labs by sugar co-operative societies",
+      "50% of the project cost or a maximum of ₹40,00,000/- whichever is less",
+      "Project for extension of existing labs (other than civil works) to sugar cooperatives having tissue culture labs.",
+      "50% of the project cost or a maximum of ₹20,00,000/- whichever is less",
+      "Installation of electricity motor instead of turbine, construction of new tank for molasses/rectified spirit storage, mechanization in sugar harvesting, distillery capacity upgradation, increase in ethanol storage capacity, new godown construction, steam economy project, boiler modification, 3 MW turbine etc. Among all these projects, any one project to be done by the organization considering the priority",
+      "25 % of project cost Or a maximum of ₹1,00,00,000/- whichever is less"
+    ],
+    "eligibility": [
+      "Sugar Co-operative Societies, Members/Farmers of Sugar Co-operative Societies will be eligible for this scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "The concerned sugar co-operative societies who are eligible, should send the proposal through the District Registrar of the concerned district to the Director of Sugar, Gujarat State, Gandhinagar.",
+        "Office Address and Contact Details of District Registrar:",
+        "Click here",
+        ".",
+        "Office Address and Contact Details of Director Of Sugar:",
+        "Director of sugar",
+        "Address:",
+        "Dr.Jivraj Mehta bhavan, Block No.8 ,2nd floor, Gandhinagar",
+        "Phone:",
+        "232-53437",
+        "Email Us:",
+        "directorsugar[at]gmail[dot]com"
+      ]
+    },
+    "documents_required": [
+      "Project-related details",
+      "Name of the project for financial assistance",
+      "Unit under the project to increase sugarcane production and productivity (show separate quantities for each unit and single IB)",
+      "Expected number of beneficiaries (Bio Vermi, Horho, Tyru, and Single IB)",
+      "Is the land owned? Copy of 7/12 land record extract",
+      "Is it obtained or on lease?",
+      "Sale price per unit shown under the agricultural project",
+      "Technical opinion from Agricultural University and an authenticated certificate – certified copy",
+      "For infrastructure-based technical projects, has the government-approved engineer’s report been prepared with planning, design, and technical authentication? If yes, a certified copy of the approved engineer’s license is required.",
+      "Expected benefits of the project (Increase in production, productivity, expansion, technical reasons, potential employment growth, possible increase in state revenue).",
+      "Any other documents if required."
+    ],
+    "sources_and_references": [
+      "Guidelines 1",
+      "Guidelines 2"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main objective of this scheme?",
+      "answer": "The scheme aims to modernize sugar co-operatives, improve infrastructure, enhance productivity, and provide financial assistance for bio-compost, phospho-compost, and vermicompost sales."
+    },
+    {
+      "question": "Who is eligible to apply for financial assistance under this scheme?",
+      "answer": "Only registered sugar co-operative societies and their farmer members are eligible to apply for financial assistance under this scheme."
+    },
+    {
+      "question": "What types of financial assistance are available under this scheme?",
+      "answer": "The scheme provides financial assistance for compost sales, modernization projects, infrastructure development, tissue culture labs, and cost reduction initiatives in sugar co-operatives."
+    },
+    {
+      "question": "What is the maximum financial assistance provided for compost sales?",
+      "answer": "1. ₹100/- per metric ton for bio-compost sales (maximum ₹20,00,000/-). 2. ₹100/- per 50 kg bag of phospho-compost (maximum ₹20,00,000/-). 3. ₹50/- per 50 kg bag of vermicompost (maximum ₹6,50,000/-)."
+    },
+    {
+      "question": "Is financial assistance available for setting up tissue culture labs?",
+      "answer": "Yes, the scheme provides financial assistance of up to ₹40,00,000/- for setting up new tissue culture labs and up to ₹20,00,000/- for expanding existing labs."
+    },
+    {
+      "question": "Can a sugar co-operative society apply for assistance for multiple projects?",
+      "answer": "Yes, a sugar co-operative society can apply for multiple projects, but only one project will be considered based on priority and funding availability."
+    },
+    {
+      "question": "How is financial assistance disbursed to the beneficiaries?",
+      "answer": "For compost-related projects, financial assistance is transferred directly to the farmers’ accounts. For other projects, funds are allocated to the sugar co-operative societies."
+    },
+    {
+      "question": "How can a sugar co-operative society apply for this scheme?",
+      "answer": "The sugar co-operative society must submit a proposal through the District Registrar of the concerned district, which will then be forwarded to the Director of Sugar, Gujarat State, Gandhinagar, for approval."
+    },
+    {
+      "question": "Can an individual farmer apply directly for this scheme?",
+      "answer": "No, individual farmers cannot apply directly. Only sugar co-operative societies can apply on behalf of their members."
+    },
+    {
+      "question": "Where can applicants get more information about the scheme?",
+      "answer": "Applicants can contact the District Registrar of their respective district or the Director of Sugar, Gujarat State, Gandhinagar, for more information."
+    }
+  ]
 }

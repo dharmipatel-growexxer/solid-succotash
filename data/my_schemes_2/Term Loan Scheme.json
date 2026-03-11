@@ -1,17 +1,108 @@
 {
   "scheme_name": "Term Loan Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/tls",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Term Loan Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Term Loan Scheme\" by the Department of Social Justice & Special Assistance, Government of Maharashtra and funded by the National Scheduled Castes Finance and Development Corporation (NSFDC), aims to uplift economically disadvantaged members of the Charmakar community (Dhor, Chambhar, Holar, Mochi, etc.). The scheme focuses on their educational, economic, and social advancement, helping them secure a respectable place in society. It also supports the production of various types of footwear and leather goods for supply to government departments and sale in the open market."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "NSFDC provides Term Loans ranging from ₹1,00,000 to ₹2,50,000 for various schemes, with separate limits for vehicle loans.",
+      "Project Financing:",
+      "NSFDC finances 75% of the project cost. The corporation provides 20% as a Seed Loan. ₹10,000 is provided as a subsidy.",
+      "The remaining 5% of the project cost is contributed by the beneficiary.",
+      "Interest Rates:",
+      "For Loans up to ₹5,00,000:",
+      "NSFDC charges 7% per annum. The corporation charges 4% per annum.",
+      "For Loans above ₹5,00,000:",
+      "NSFDC charges 8% per annum. The corporation charges 4% per annum.",
+      "Repayment Terms",
+      ": Loan instalments are payable monthly over a period of up to 60 months.",
+      "This structure ensures clear and concise information about the Term Loan Scheme for potential beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Maharashtra.",
+      "The applicant should belong to the Charmakar Community.",
+      "The applicant's age should be between 18 and 50 years.",
+      "For the 50% Subsidy Scheme and Margin Money, the applicant's annual income should be below the poverty line.",
+      "The applicant should be able to provide an Income and Caste Certificate from an authorized government officer.",
+      "The applicant should have knowledge of the business for which they are applying for the loan.",
+      "For the NSFDC Scheme:",
+      "Income should be below ₹98,000 for rural areas.",
+      "Income should be below ₹1,20,000 for urban areas."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Office of the Leather Industries Development Corporation of Maharashtra (LIDCOM), and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Caste Certificate",
+      "Annual Income Certificate.",
+      "Ration Card.",
+      "Passport-size Photograph of the applicant and his/her spouse.",
+      "Bank Passbook.",
+      "Detailed Project Report.",
+      "Loan Documents."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Term Loan Scheme?",
+      "answer": "The Term Loan Scheme provides financial assistance to economically disadvantaged members of the Charmakar Community for various business purposes."
+    },
+    {
+      "question": "Who is eligible to apply for the Term Loan Scheme?",
+      "answer": "Applicants must belong to the Charmakar Community, be aged 18-50, and meet specific income requirements."
+    },
+    {
+      "question": "What is the maximum loan amount provided under this scheme?",
+      "answer": "NSFDC provides loans ranging from ₹1,00,000 to ₹2,50,000 for various business schemes."
+    },
+    {
+      "question": "What is the interest rate on the term loan?",
+      "answer": "NSFDC charges 7% interest per annum, while the Corporation charges 4% on the term loan."
+    },
+    {
+      "question": "Are there different interest rates for loans above ₹5,00,000?",
+      "answer": "Yes, NSFDC charges an 8% interest rate for loans above ₹5,00,000, with a 4% rate from the Corporation."
+    },
+    {
+      "question": "How is the loan amount structured?",
+      "answer": "75% of the project cost is covered by NSFDC, 20% by the Corporation as a seed loan, ₹10,000 as a subsidy, and 5% is the beneficiary's contribution."
+    },
+    {
+      "question": "Is there a subsidy component in this scheme?",
+      "answer": "Yes, a subsidy of ₹10,000 is included in the loan amount to support beneficiaries."
+    },
+    {
+      "question": "What are the repayment terms for the loan?",
+      "answer": "The loan installments are payable monthly, with a repayment period of up to 60 months."
+    },
+    {
+      "question": "What types of business activities are covered by this scheme?",
+      "answer": "The scheme covers various business purposes, including footwear and leather production, and also has specific provisions for vehicle loans."
+    },
+    {
+      "question": "Do applicants need to reside in Maharashtra?",
+      "answer": "Yes, applicants must be permanent residents of Maharashtra."
+    }
+  ]
 }

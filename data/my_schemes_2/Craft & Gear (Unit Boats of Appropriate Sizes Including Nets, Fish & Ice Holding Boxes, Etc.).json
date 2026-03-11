@@ -1,17 +1,118 @@
 {
   "scheme_name": "Craft & Gear (Unit: Boats of Appropriate Sizes Including Nets, Fish & Ice Holding Boxes, Etc.)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/cg-ubasnfihbe",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Craft & Gear (Unit: Boats of Appropriate Sizes Including Nets, Fish & Ice Holding Boxes, Etc.)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Craft & Gear (Unit: Boats of Appropriate Sizes Including Nets, Fish & Ice Holding Boxes, Etc.)” was introduced by the Directorate of Fisheries, Government of Goa. The scheme aims to uplift the sizeable community of traditional Fishermen by providing them financial help in the form of a subsidy for carrying out fishing activities in inland waters of Goa. The subsidy amount shall be disbursed directly into the applicant’s bank account."
+    ],
+    "benefits": [
+      "Financial Assistance/Subsidy",
+      "Financial assistance is provided for the purchase or construction of New Fiberglass Reinforced Plastic or wooden canoes below 26 feet, including nets, accessories, and insulated fish and ice holding boxes.",
+      "For the General Category, financial assistance is up to 40% of the unit cost, limited to ₹40,000/-.",
+      "For Scheduled Caste, Scheduled Tribes, Women, and their Co-operatives, financial assistance is up to 60% of the unit cost, limited to ₹60,000/-.",
+      "The unit cost considered for the Craft & Gear (Unit: Boats of appropriate sizes including nets, fish & ice holding boxes etc.) is ₹1,00,000/-.",
+      "Disbursement",
+      "The subsidy amount shall be disbursed in favor of the applicant in his or her Bank account.",
+      "Conditions",
+      "The fishing canoe must be registered under the Captain of Ports Department.",
+      "The nets and its accessories purchased through the scheme must be duly registered with the Directorate of Fisheries under the Goa, Daman and Diu Fisheries Rules, 1981.",
+      "The beneficiary shall not sell, mortgage, or transfer the Fishing canoe, nets, accessories, or insulated ice holding boxes purchased through the scheme for a period of five years from the date of its purchase."
+    ],
+    "eligibility": [
+      "The applicant must be a fisherman.",
+      "The applicant must possess the No Objection Certificate issued by the Directorate of Fisheries for the purchase or construction of a wooden or Fiberglass Reinforced Plastic Fishing Craft of below 26 feet, including fishing net and ice holding boxes.",
+      "The applicant must produce the original Goods and Services Tax bill from the authorized dealer towards the purchase or construction of the new canoe, gill net and its accessories, and insulated fish and ice holding box to claim the subsidy.",
+      "The applicant must not be a fishing trawler owner.",
+      "The applicant must not be a defaulter of the Department.",
+      "Reservation/Priority:",
+      "Scheduled Caste, Scheduled Tribes, Women, and their Co-operatives are eligible for a higher rate of assistance (60% of unit cost, limited to ₹60,000/-).",
+      "Relaxation:",
+      "The Government is empowered to relax all or any of the clauses provided in this scheme if found deemed fit, for reasons to be recorded."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should request the prescribed format of the application form from the Directorate of Fisheries / Block Development Offices (BDO) / Village Panchayat and Head Office.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority at the",
+        "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at",
+        "BDO Office/ Sub-Offices",
+        "of the Department of Fisheries."
+      ]
+    },
+    "documents_required": [
+      "No Objection Certificate (Issued By The Directorate Of Fisheries)",
+      "Original Goods And Services Tax Bill (From Authorized Dealer).",
+      "Bank Account Details (For Subsidy Disbursal).",
+      "Registration Certificate Of Fishing Canoe (Registered Under Captain Of Ports Department).",
+      "Registration Certificate Of Nets And Accessories (Registered With The Directorate Of Fisheries Under The Goa, Daman And Diu Fisheries Rules, 1981)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "If I am purchasing or constructing a new fishing craft, what are the mandatory requirements regarding its size and construction material?",
+      "answer": "The craft must be a New Fiberglass Reinforced Plastic or wooden canoe, and its size must be strictly below 26 feet in length."
+    },
+    {
+      "question": "Which specific community of people is this financial assistance program intended to support for their day-to-day work?",
+      "answer": "The scheme is introduced to uplift the sizeable community of traditional Fishermen by providing financial help in the form of a subsidy for carrying out their activities."
+    },
+    {
+      "question": "Is there any restriction regarding past financial history with the Department that would disqualify me from submitting an application?",
+      "answer": "Yes, an applicant shall not be categorized as a defaulter of the Department responsible for administering this particular scheme."
+    },
+    {
+      "question": "What specific reservation groups (including gender) are eligible to receive a higher rate of financial assistance under the scheme provisions?",
+      "answer": "Scheduled Caste, Scheduled Tribes, Women, and their Co-operatives are eligible for assistance covering 60% of the unit cost, limited to ₹60,000/-."
+    },
+    {
+      "question": "Does the governing body retain the authority to make discretionary changes or exceptions to the established scheme rules if necessary?",
+      "answer": "Yes, the Government is empowered to relax all or any of the clauses provided in this scheme if it is found deemed fit, provided reasons are recorded."
+    },
+    {
+      "question": "After acquiring the required unit (canoe, nets, and boxes), what specific type of invoice documentation is required to claim the approved subsidy amount?",
+      "answer": "You must produce the original Goods and Services Tax bill from the authorized dealer towards the purchase or construction of the new canoe, gill net, and accessories."
+    },
+    {
+      "question": "After receiving the new fishing canoe, is there a mandatory requirement for registering this particular craft with any specific governmental authority?",
+      "answer": "Yes, the fishing canoe purchased or constructed under the scheme must be legally registered under the Captain of Ports Department."
+    },
+    {
+      "question": "For the purpose of calculating the subsidy percentage and the maximum limit, what is the fixed unit cost utilized by the scheme?",
+      "answer": "The unit cost considered for the entire Craft & Gear unit, including nets and insulated fish and ice holding boxes, is fixed at ₹1,00,000/-."
+    },
+    {
+      "question": "If an applicant currently owns a large marine vessel used for fishing, such as a deep-sea trawler, are they still eligible for this subsidy program?",
+      "answer": "No, an essential requirement for eligibility is that the applicant shall not be a fishing trawler owner."
+    },
+    {
+      "question": "What mandatory certificate must the applicant possess from the state's Fishery governing body before applying for the purchase or construction subsidy?",
+      "answer": "You must possess the No Objection Certificate issued by the Directorate of Fisheries for the construction or purchase of the wooden or Fiberglass Reinforced Plastic fishing craft, net, and ice holding boxes."
+    },
+    {
+      "question": "Once I have purchased the unit using the government subsidy, for what duration am I restricted from transferring or selling the equipment?",
+      "answer": "The beneficiary shall not sell, mortgage, or transfer the subsidized fishing canoe, nets, accessories, or insulated ice holding boxes for a period of five years from the date of its purchase."
+    },
+    {
+      "question": "Are there any geographical restrictions on where the fishing activities must be conducted using the subsidized craft and gear?",
+      "answer": "Yes, the fishing activities must be carried out in the inland waters of Goa using the subsidized craft and equipment."
+    },
+    {
+      "question": "Besides the primary craft, must the fishing nets and related accessories acquired through the scheme also be formally registered?",
+      "answer": "Yes, the nets and their accessories must be duly registered with the Directorate of Fisheries under the Goa, Daman and Diu Fisheries Rules, 1981."
+    },
+    {
+      "question": "How exactly will the approved financial subsidy amount be remitted to the successful applicant upon the successful verification of documents?",
+      "answer": "The entire subsidy amount sanctioned shall be directly disbursed in favor of the applicant into his or her personal Bank account."
+    }
+  ]
 }

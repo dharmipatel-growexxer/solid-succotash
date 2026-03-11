@@ -1,17 +1,159 @@
 {
   "scheme_name": "Meghalaya Dairy Development Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mdds",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Meghalaya Dairy Development Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The",
+      "Chief Minister’s CM-ELEVATE Program",
+      "includes",
+      "the Meghalaya Dairy Development Scheme",
+      "under the Planning Department, Government of Meghalaya. The scheme aims to employ, engage, and empower the youth and rural communities by promoting Dairy related entrepreneurship through easy access to credit and subsidies."
+    ],
+    "benefits": [
+      "Credit linkage through partnered banks",
+      "5% EMI co-payment support for 24 months",
+      "Veterinary and farm management support",
+      "Mentorship and business advisory",
+      "50% of project cost supported (5% by applicant, 45% by Government)",
+      "Market linkage for selling output",
+      "Technical training and capacity building"
+    ],
+    "eligibility": [
+      "Individuals",
+      "The applicant should be between 18 and 58 years of age.",
+      "The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority.",
+      "The entrepreneur should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute.",
+      "The Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking dairy.",
+      "The entrepreneur should have access to adequate and quality feed for the cattle.",
+      "The entrepreneur should have a vaccination Scheme in place for the cattle.",
+      "The entrepreneur should have a plan for marketing the dairy products.",
+      "The entrepreneurs village should be in an area where dairy farming is feasible.",
+      "The distance between the entrepreneur’s village and the nearest market must be reasonable.",
+      "The entrepreneur should not be a credit defaulter from any bank.",
+      "Registered Entities",
+      "Any group/entity registered in Meghalaya such as Cooperatives, Farmer Producer Companies (FPC), Farmer Producer Organization (FPO) and so on",
+      "Must provide an Incorporation Certificate or a registration certificate whichever is applicable",
+      "At least two members should possess a training certificate on the sector applied for from a recognized institution, preferably from a government institute",
+      "Should possess land, either self-owned or on lease, verified by the competent authority",
+      "Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute",
+      "Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking dairy.",
+      "The entrepreneur should have access to adequate and quality feed for the cattle",
+      "The entrepreneur should have a plan for marketing the dairy products",
+      "The entrepreneurs village should be in an area where dairy farming is feasible",
+      "The distance between the entrepreneur’s village and the nearest market must be reasonable",
+      "The entrepreneur should not be a credit defaulter from any bank",
+      "Unregistered Entities",
+      "Traditional institutions, self help groups, producer groups and soon Eligibility certification from competent government authority like BDO/SDO/Department in case of Producer group from DPMs.",
+      "The non-registered entity should have a constitution/bylaws/framework that outline the groups structure, objectives, and procedures.",
+      "The entrepreneurs village must be in an area where dairy farming is feasible",
+      "The distance between the entrepreneurs village and the nearest market must be reasonable"
+    ],
+    "application_process": {
+      "online": [
+        "Citizen Registration for Member ID",
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.",
+        "Step 2:",
+        "If you are a first-time user, click on “",
+        "Registration for New User",
+        "” and complete the registration process to create your account.",
+        "Step 3:",
+        "Select your Authentication ID from the available options, such as",
+        "PDS (Ration Card)",
+        "Election Photo ID Card (EPIC).",
+        "Step 4:",
+        "Enter your card number, select your name from the displayed list, and click on “Next” to continue.",
+        "Step 5:",
+        "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.",
+        "Step 6:",
+        "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.",
+        "Step 7:",
+        "Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.",
+        "Click on",
+        "“Sign In",
+        "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.",
+        "Enter your User ID and Password, then click on “Login” to access your account.",
+        "After logging in, click on “Apply for Services/Scheme” to start your application.",
+        "Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+      ]
+    },
+    "documents_required": [
+      "Individuals",
+      "PAN Card",
+      "Latest Bank Statement (Last 6 months)",
+      "Ration Card",
+      "Training certificate",
+      "Proof of Address of Applicant (Voter ID/Passport/Driving License)",
+      "Land ownership or notarized lease certificate (if applicable)",
+      "Download",
+      "Self Declaration",
+      "Registered Entities",
+      "Proof of Address of Applicant (Voter ID / Passport / Driving License)",
+      "GST Certificate (if available)",
+      "Incorporation Certificate or Registration Certificate",
+      "Ration Card of Applicant",
+      "Training certificates for at least 2 members",
+      "Unregistered Entities"
+    ],
+    "sources_and_references": [
+      "Website:1",
+      "Website:2"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Meghalaya Dairy Development Scheme?",
+      "answer": "It is a flagship initiative under the CM-ELEVATE Program aimed at promoting dairy entrepreneurship in Meghalaya by providing financial assistance, subsidies, technical training, and market support."
+    },
+    {
+      "question": "What is the main objective of the scheme?",
+      "answer": "The scheme aims to employ, engage, and empower youth and rural communities by supporting sustainable dairy farming and dairy-based businesses."
+    },
+    {
+      "question": "Who can apply under this scheme?",
+      "answer": "Individuals aged 18–58 years, registered entities like Cooperatives, FPOs/FPCs, and eligible unregistered groups such as SHGs and producer groups can apply."
+    },
+    {
+      "question": "What financial support is provided?",
+      "answer": "The Government supports 50% of the project cost (45% Government subsidy + 5% beneficiary contribution). The remaining amount is arranged through bank credit linkage."
+    },
+    {
+      "question": "Is there any EMI support?",
+      "answer": "Yes. The scheme provides 5% EMI co-payment support for 24 months to ease the repayment burden."
+    },
+    {
+      "question": "Are banks involved in the scheme?",
+      "answer": "Yes. Credit linkage is facilitated through partnered banks to provide loans to eligible applicants."
+    },
+    {
+      "question": "Is training mandatory for applicants?",
+      "answer": "Yes. Applicants must possess a training certificate in the dairy sector from a recognized institution, preferably a Government institute."
+    },
+    {
+      "question": "Is prior experience in dairy required?",
+      "answer": "Prior experience is preferred and may give applicants priority in loan approval."
+    },
+    {
+      "question": "What is required for unregistered entities?",
+      "answer": "They must provide eligibility certification from a competent authority and have a constitution/bylaws outlining structure and objectives."
+    },
+    {
+      "question": "How much contribution is required from the applicant?",
+      "answer": "The applicant must contribute 5% of the total project cost."
+    },
+    {
+      "question": "Is there age relaxation for applicants?",
+      "answer": "The age limit is strictly between 18 and 58 years for individuals."
+    },
+    {
+      "question": "Can multiple members from the same village apply?",
+      "answer": "Yes, provided each applicant meets eligibility criteria and project feasibility requirements."
+    }
+  ]
 }

@@ -1,17 +1,122 @@
 {
   "scheme_name": "Financial Assistance to Mussel Culture and Oyster Farming in Goa",
   "scheme_url": "https://www.myscheme.gov.in/schemes/famcofg",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Financial Assistance to Mussel Culture and Oyster Farming in Goa",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "“Financial Assistance to Mussel Culture and Oyster Farming in Goa” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for setting up units in estuarine waters, and in open sea. The applications are accepted only in offline mode."
+    ],
+    "benefits": [
+      "Setting Up of Unit in Estuarine Waters",
+      "50% subsidy limited to ₹ 25,000 per unit, maximum for 2 units. Each unit in the estuarine water will be of size 4 meters x 4 meters.",
+      "Setting Up of Unit in Open Sea",
+      "50% limited to ₹ 40,000 per unit, maximum for 2 units. Each unit in the Open sea will be of size 6 meters x 6 meters."
+    ],
+    "eligibility": [
+      "The applicant should be a Fish Farmer/ Individual/ Registered Self Help Groups/ Societies/ Associations, interested in setting up the Mussel Culture/ Oyster Farming Unit in Goa.",
+      "The applicant should be a resident of Goa for the last fifteen years.",
+      "The applicant should have undergone a training programme on Mussel Culture/ Oyster Farming organized by the Fisheries Department/ MPEDA/ ICAR/ any other institute."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should take print of the",
+        "prescribed format",
+        "of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority at the",
+        "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at",
+        "BDO Office/ Sub-Offices",
+        "of the Department of Fisheries.",
+        "Grievance Redressal",
+        "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's",
+        "Grievance Redressal Officer",
+        ". The grievance can also be lodged on the link",
+        "dir-fish.goa@nic.in",
+        ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+      ]
+    },
+    "documents_required": [
+      "1. Proof of Identity.",
+      "2. Photographs (2 nos.).",
+      "3. Documents for the Proof of Availability of Land (if applicable).",
+      "A. For Owners",
+      "(i) Copy of the Land Deed.",
+      "(ii) Form 1 & Form 14.",
+      "B. For Lessee",
+      "(i) NOC from the Land Owner.",
+      "(ii) Registered Lease Agreement.",
+      "4. Proof of Availability of Finance.",
+      "5. Detailed Project Report.",
+      "6. Estuarine Unit in River/Open Sea: NOC from Concerned Authority.",
+      "7. Certificate of Experience.",
+      "8. Expenditure Details.",
+      "9. Design/Layout of Unit.",
+      "10. Mandate Form."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Citizen's Charter",
+      "Application Form"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What steps are taken to verify the authenticity of training programs attended by applicants?",
+      "answer": "Applicants must submit certificates from recognized institutions, and the Fisheries Department may cross-verify with training organizers."
+    },
+    {
+      "question": "Can the subsidy be availed for units exceeding the specified sizes in estuarine waters and open sea?",
+      "answer": "No, the subsidy is limited to ₹25,000 and ₹40,000 per unit for specified sizes in estuarine waters and open sea, respectively."
+    },
+    {
+      "question": "Are there any exceptions to the fifteen-year residency requirement for applicants?",
+      "answer": "No exceptions are mentioned; applicants must be residents of Goa for the last fifteen years."
+    },
+    {
+      "question": "What specific training programs on Mussel Culture/Oyster Farming are recognized by the Fisheries Department for eligibility?",
+      "answer": "Training programs organized by the Fisheries Department, MPEDA, ICAR, or any other recognized institute are accepted."
+    },
+    {
+      "question": "What is the role of the Directorate of Fisheries in this scheme?",
+      "answer": "The Directorate oversees the application process and serves as the contact point for applicants."
+    },
+    {
+      "question": "Can you provide the link to the Citizen Charter for this scheme?",
+      "answer": "Certainly, the Citizen Charter is available at https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf."
+    },
+    {
+      "question": "How many units can an applicant set up, and what are the subsidy limits?",
+      "answer": "Applicants can set up a maximum of 2 units, with a subsidy limit of ₹25,000 per unit for estuarine waters and ₹40,000 per unit for open sea."
+    },
+    {
+      "question": "Is there a prescribed format for the application form, and where can it be obtained?",
+      "answer": "Yes, the application form is available at https://fisheries.goa.gov.in/wp-content/uploads/2020/08/Mussel-Oyster-1.pdf."
+    },
+    {
+      "question": "What are the contact details for the Directorate of Fisheries in Goa?",
+      "answer": "Dayanand Bandodkar Marg, Panaji Goa. Tel: (O) 2224838 Tel: (Dir) 2227780; Fax: (0832)2231049. Email: dir-fish.goa@nic.in, Website: www.fisheries.goa.gov.in."
+    },
+    {
+      "question": "Can you explain the grievance redressal process for this scheme?",
+      "answer": "Dissatisfaction or complaints can be registered with the Grievance Redressal Officer at dir-fish.goa@nic.in, and a response will be communicated within 30 days."
+    },
+    {
+      "question": "What documents are required for applying to the \"Financial Assistance to Mussel Culture and Oyster Farming in Goa\" scheme?",
+      "answer": "Proof of Identity, 2 Photographs, Proof of Land Availability (Copy of Land Deed, Form 1 & Form 14 for owners, NOC and Registered Lease Agreement for lessees), Proof of Finance Availability, Detailed Project Report, NOC for Estuarine Unit in River/Open Sea, Certificate of Experience, Expenditure Details, Design/Layout of Unit, and Mandate Form."
+    },
+    {
+      "question": "Is there a specific format for the passport-sized photograph, and what should be the size?",
+      "answer": "Photographs should be passport-sized, signed across if required, and adhering to standard specifications as per official guidelines."
+    },
+    {
+      "question": "Are there alternative submission locations for the application, apart from the Directorate of Fisheries?",
+      "answer": "Yes, applicants can submit forms to the official posted at BDO Office/Sub-Offices of the Directorate of Fisheries."
+    }
+  ]
 }

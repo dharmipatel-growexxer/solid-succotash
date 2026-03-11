@@ -1,17 +1,90 @@
 {
   "scheme_name": "Coconut Development Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/cdsg",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Coconut Development Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Coconut Development Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to encourage farmers by providing quality coconut saplings at reasonable prices and financial assistance for coconut cultivation. It also promotes sustainable agricultural practices through Integrated Pest Management (IPM) and Integrated Nutrient Management (INM)."
+    ],
+    "benefits": [
+      "Assistance for Coconut Cultivation:",
+      "Financial support of ₹37,500/- per hectare, covering 75% of the total cost (₹50,000/- per hectare).",
+      "Promotion of Integrated Pest Management (IPM) and Integrated Nutrient Management (INM):",
+      "Financial support of ₹5,000/- per hectare, covering 50% of the total cost (₹10,000/- per hectare)."
+    ],
+    "eligibility": [
+      "All farmers are eligible to apply for the scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "7/12 Certificate.",
+      "Aadhaar Card.",
+      "Bank Pass Book/Cancelled Cheque."
+    ],
+    "sources_and_references": [
+      "Guidelines 1",
+      "Guidelines 2"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Coconut Development Program\"?",
+      "answer": "The \"Coconut Development Program\" aims to support farmers by providing quality coconut saplings at reasonable prices and financial assistance for coconut cultivation. It also promotes sustainable agricultural practices through Integrated Pest Management (IPM) and Integrated Nutrient Management (INM)."
+    },
+    {
+      "question": "Who is eligible to apply for the \"Coconut Development Program\"?",
+      "answer": "All farmers are eligible to apply for this scheme."
+    },
+    {
+      "question": "What type of financial assistance is provided under this scheme?",
+      "answer": "The scheme provides financial assistance for coconut cultivation and supports sustainable farming practices through Integrated Pest Management (IPM) and Integrated Nutrient Management (INM)."
+    },
+    {
+      "question": "How much financial assistance is provided for coconut cultivation?",
+      "answer": "Under this scheme, financial assistance of ₹37,500/- per hectare is provided, covering 75% of the total cost (₹50,000/-per hectare) for coconut cultivation."
+    },
+    {
+      "question": "What financial assistance is available for IPM and INM practices?",
+      "answer": "Farmers receive ₹5,000/- per hectare, covering 50% of the total cost (₹10,000/- per hectare), to implement Integrated Pest Management (IPM) and Integrated Nutrient Management (INM)."
+    },
+    {
+      "question": "Is there any application fee for this scheme?",
+      "answer": "No, as per the guidelines, there is no application fee required to apply for this scheme."
+    },
+    {
+      "question": "In which portal a farmer can apply for this scheme?",
+      "answer": "A farmer can apply online through the i-Khedut portal (https://ikhedut.gujarat.gov.in/) by filling out the application form and submitting the required documents."
+    },
+    {
+      "question": "Where can a farmer check the status of the application?",
+      "answer": "The status of the application can be checked on the i-Khedut portal using the farmer’s application ID: https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+    }
+  ]
 }

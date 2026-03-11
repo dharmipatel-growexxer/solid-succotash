@@ -1,17 +1,94 @@
 {
   "scheme_name": "Sant Ravi Das Swarojgaar Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/srdsy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Sant Ravi Das Swarojgaar Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The Sant Ravi Das Swarojgaar Yojana under the Tribal Welfare and SC Department, Madhya Pradesh, provides funding for manufacturing units (₹1 lakh to ₹50 lakh) and service/retail trade projects (₹1 lakh to ₹25 lakh) for Scheduled Caste applicants. Scheduled Caste beneficiaries can receive a 5% annual interest subsidy on Term and Working Capital Loans for up to 7 years, including the moratorium period. Beneficiaries can also avail a 12-day entrepreneurship development training through an online training module."
+    ],
+    "benefits": [
+      "Scheduled Caste beneficiaries can receive a 5% annual interest subsidy on Term and Working Capital Loans for up to 7 years, including the moratorium period.",
+      "The subsidy is provided on the condition of regular loan repayment as per the prescribed schedule."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should be between 18 and 40 years of age.",
+      "The applicant should be belong to Scheduled Caste category.",
+      "The applicant should have a minimum educational qualification of 12th class passed.",
+      "The applicant's annual family income should not exceed ₹12.00 lakhs.",
+      "The applicant should not be a defaulter of any bank or financial institution, including MFI, NBFC, SFB, or PACS.",
+      "The applicant should not currently be a beneficiary of any other self-employment scheme of the state or central government.",
+      "Family Definition:",
+      "If unmarried: The applicant and dependent parents.",
+      "If married: The applicant, spouse, and dependent children (no age bar for dependent, unmarried children)."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1: The interested applicant should visit (during office hours) the Scheduled Caste Welfare Department Office , and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Proof of identity and residence.",
+      "Caste Certificate",
+      "Income Certificate",
+      "Educational Qualification Certificate",
+      "Bank Account Details",
+      "Project Proposal",
+      "Loan Sanction Letter",
+      "Photographs"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Sant Ravi Das Swarojgaar Yojana?",
+      "answer": "A scheme providing financial assistance and training to Scheduled Caste beneficiaries for self-employment projects."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Scheduled Caste individuals aged 18-40 with a minimum educational qualification of 12th class."
+    },
+    {
+      "question": "What is the income limit for eligibility?",
+      "answer": "The family’s annual income should not exceed ₹12 lakh."
+    },
+    {
+      "question": "Can I apply if I am a defaulter of any bank?",
+      "answer": "No, applicants must not be defaulters of any bank or financial institution."
+    },
+    {
+      "question": "Is there an age limit for applicants?",
+      "answer": "Yes, the applicant must be between 18 and 40 years old."
+    },
+    {
+      "question": "What is the financial assistance provided under the scheme?",
+      "answer": "Interest subsidy of 5% per annum on loans for up to 7 years, including the moratorium period."
+    },
+    {
+      "question": "Can I avail of the scheme if I am already benefiting from another self-employment scheme?",
+      "answer": "No, you cannot be a beneficiary of any other self-employment scheme of the state or central government."
+    },
+    {
+      "question": "What types of loans are covered under the scheme?",
+      "answer": "Term Loan and Working Capital Loan for manufacturing and service/retail trade projects."
+    },
+    {
+      "question": "What is the training provided under the scheme?",
+      "answer": "A 12-day entrepreneurship development training through an online module."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Documents such as Aadhaar, caste certificate, income certificate, and educational qualification are required for application."
+    }
+  ]
 }

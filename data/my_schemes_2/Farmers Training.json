@@ -1,17 +1,88 @@
 {
   "scheme_name": "Farmers Training",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ft",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Farmers Training",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Farmers Training” scheme, by the Agriculture-Farmers Welfare Department, Tamil Nadu, offers training to farmers and agricultural laborers to enhance their skills and knowledge. Each training session supports up to 50 participants, with a grant of ₹5,000/- provided per session to cover the costs."
+    ],
+    "benefits": [
+      "Financial assistance:",
+      "₹5,000/- per training session of 50 Farmers/Agricultural labourers."
+    ],
+    "eligibility": [
+      "The beneficiary should be a Farmer.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should have interest in joining the training to enhance agricultural skills."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Collect the application form from the nearest Agricultural Office.",
+        "Step 2:",
+        "Fill out the application form with the required details and attach mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the form to the concerned office:",
+        "Village Level:",
+        "Submit the application to the Assistant Agricultural Officer.",
+        "Block Level:",
+        "Submit to the Agricultural Officer or Deputy Agricultural Officer.",
+        "District Level:",
+        "Submit to the Joint Director of Agriculture."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity (Aadhar Card, Voter ID, etc.).",
+      "Proof of farming or agricultural labor status.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the \"Farmers Training” scheme?",
+      "answer": "The “Farmers Training” scheme provides financial assistance for training sessions involving up to 50 farmers or agricultural laborers per cluster."
+    },
+    {
+      "question": "Who is eligible to apply for the Farmers Training scheme?",
+      "answer": "The scheme is open to farmers and agricultural laborers."
+    },
+    {
+      "question": "What is the amount of financial assistance provided under the scheme?",
+      "answer": "The scheme provides ₹5,000/- per training session."
+    },
+    {
+      "question": "How many participants can be trained in each session?",
+      "answer": "Each training session supports up to 50 participants."
+    },
+    {
+      "question": "Where can applicants submit their applications?",
+      "answer": "Applications can be submitted to the Assistant Agricultural Officer at the Village Level, Deputy Agricultural Officer at the Block Level, Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level."
+    },
+    {
+      "question": "Is there a specific age requirement for eligibility?",
+      "answer": "No specific age requirement is mentioned for eligibility."
+    },
+    {
+      "question": "Are there any income criteria for applying to the scheme?",
+      "answer": "Income criteria are not specified for this scheme."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Applicants need to provide an application form, proof of farming or agricultural labor status, identity proof, and address proof."
+    },
+    {
+      "question": "Is the training provided in a specific location or region?",
+      "answer": "The training is organized in clusters, and locations may vary depending on the area and availability of resources."
+    },
+    {
+      "question": "How does the financial assistance support the training sessions?",
+      "answer": "The ₹5,000/- grant is intended to cover the costs associated with organizing and conducting the training sessions."
+    }
+  ]
 }

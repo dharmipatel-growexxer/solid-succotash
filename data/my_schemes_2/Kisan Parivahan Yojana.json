@@ -1,17 +1,113 @@
 {
   "scheme_name": "Kisan Parivahan Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/kpyg",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Kisan Parivahan Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Kisan Parivahan Yojana\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by providing financial aid for purchasing goods vehicles with a capacity of 600kg to 1500kg. This helps in easy and cost-effective transportation of harvested crops."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance (For Small, Marginal, Women, SC/ST Farmers)",
+      "Standard of Assistance (For General/Other Farmers)",
+      "Medium-sized goods vehicles (capacity of 600kg to 1500 kg)",
+      "35% of the total vehicle cost or ₹75,000/-, whichever is lower",
+      "25% of the total vehicle cost or ₹50,000/-, whichever is lower",
+      "Note:",
+      "Minimum Time Limit for Reclaiming Benefits:",
+      "5 Years"
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must belong to the Gujarat state.",
+      "The applicant must purchase a medium-sized goods vehicle (600kg to 1500kg capacity) from an",
+      "authorized dealer",
+      "."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Note:",
+        "Application will be accepted on the principle of first come, first serve bases within the target limits.",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Land ownership documents.",
+      "Caste certificate (if applicable).",
+      "Bank passbook.",
+      "Quotation/proforma invoice from an authorized dealer.",
+      "Domicile certificate.",
+      "Recent passport-size photograph.",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Kisan Parivahan Yojana\"?",
+      "answer": "The objective of the \"Kisan Parivahan Yojana\" is to provide financial assistance to farmers for purchasing medium-sized goods vehicles."
+    },
+    {
+      "question": "Who is eligible to apply for the \"Kisan Parivahan Yojana\"?",
+      "answer": "Any farmer residing in the state who owns agricultural land is eligible to apply for the scheme."
+    },
+    {
+      "question": "What type of vehicle is covered under the scheme?",
+      "answer": "The scheme provides financial assistance for purchasing medium-sized goods vehicles with a capacity between 600kg to 1500kg."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Small, Marginal, Women, SC/ST Farmers receive 35% of the total vehicle cost or ₹75,000, whichever is lower. General and Other Farmers receive 25% of the total vehicle cost or ₹50,000, whichever is lower."
+    },
+    {
+      "question": "Can a farmer apply if they have already availed of the scheme benefits in the past?",
+      "answer": "No, a farmer who has already received benefits under the scheme must wait for 5 years before reapplying."
+    },
+    {
+      "question": "Is the scheme available for farmers from all states in India?",
+      "answer": "No, the \"Kisan Parivahan Yojana\" is only available to farmers residing in Gujarat."
+    },
+    {
+      "question": "Is it mandatory to purchase the vehicle from an authorized dealer?",
+      "answer": "Yes, the farmer must purchase the vehicle from an authorized dealer listed in the government-approved panel."
+    },
+    {
+      "question": "Where should an applicant submit the application for the scheme?",
+      "answer": "The application must be submitted online through the official iKhedut Portal."
+    },
+    {
+      "question": "Who should an applicant contact for assistance regarding the scheme?",
+      "answer": "For any assistance, applicants can visit their nearest agriculture department office or check the helpline details available on the iKhedut portal."
+    },
+    {
+      "question": "Is there any deadline for applying to the scheme?",
+      "answer": "Applications are accepted on a first-come, first-serve basis within the set target limits, so early application is recommended."
+    }
+  ]
 }

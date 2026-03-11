@@ -1,17 +1,75 @@
 {
   "scheme_name": "Construction of NABARD-Funded Minor Irrigation Projects - Uttarakhand",
   "scheme_url": "https://www.myscheme.gov.in/schemes/cnabardfmis",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Construction of NABARD-Funded Minor Irrigation Projects - Uttarakhand",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Construction of NABARD-Funded Minor Irrigation Projects” is implemented by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide farmers with free and reliable irrigation facilities by constructing NABARD-funded minor irrigation projects, so that water availability improves and farming becomes easier and more productive."
+    ],
+    "benefits": [
+      "Under the scheme, farmers will be provided free irrigation facilities. The following works will be undertaken to provide irrigation facilities to the farmers under the scheme:",
+      "Solar Pump Irrigation Scheme",
+      "Pipeline / Water Channel (Gool)",
+      "Water Storage Tank / Geo-lined Tank",
+      "Construction of Check Dam (Hilly Areas)",
+      "Small Gated Weir (Plains Areas)"
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary must be a farmer engaged in agricultural activities.",
+      "Under the scheme, collective irrigation projects are constructed.",
+      "Projects that are beneficial and essential, with a cost of ₹4.00 lakh per hectare and a benefit-cost ratio of more than 1.0, are included.",
+      "Check dams are constructed at suitable locations based on the proposals received and the survey conducted."
+    ],
+    "application_process": {
+      "offline": [
+        "For construction of the project, project's proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared.",
+        "After examination by the departmental TAC, the DPR is forwarded to the headquarters. Thereafter, the headquarters submits the proposal to NABARD for financial approval through the government. The construction work of the projects is initiated after receiving financial approval from NABARD."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the guidelines prescribed by NABARD/department for this scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 246)",
+      "Official Website"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What types of irrigation works are covered under the scheme?",
+      "answer": "The scheme includes solar pump systems, pipelines, water channels (gool), water storage tanks, geo-lined tanks, check dams (hilly areas), and small gated weirs (plains)."
+    },
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Farmers in Uttarakhand who require irrigation facilities for their agricultural land can benefit from the scheme."
+    },
+    {
+      "question": "Are the irrigation facilities provided free of cost?",
+      "answer": "Yes, all irrigation facilities constructed under the scheme are provided free of cost to farmers."
+    },
+    {
+      "question": "What is the criteria for selecting a project under the scheme?",
+      "answer": "Projects must be beneficial and essential, with a cost of ₹4.00 lakh per hectare and a benefit–cost ratio greater than 1.0."
+    },
+    {
+      "question": "How are suitable locations for check dams identified?",
+      "answer": "Suitable locations are selected based on received proposals and field surveys conducted by the department."
+    },
+    {
+      "question": "Where can project proposals be submitted?",
+      "answer": "Proposals may be submitted at block offices, sub-division offices, or other departmental offices."
+    },
+    {
+      "question": "What happens after a proposal is submitted?",
+      "answer": "A Detailed Project Report (DPR) is prepared after site inspection and assessment of the project's suitability."
+    },
+    {
+      "question": "How is financial approval obtained for the project?",
+      "answer": "The headquarters submits the examined DPR to NABARD through the government for financial approval."
+    }
+  ]
 }

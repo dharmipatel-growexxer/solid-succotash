@@ -1,17 +1,88 @@
 {
   "scheme_name": "Intensive Castration Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ics",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Intensive Castration Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Intensive Castration Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support livestock owners and animal-rearing organizations in castrating male calves through the closed method (Burdizo Castrator) or open method (Surgical Method). Eligible beneficiaries receive a subsidy for male calf for the castration procedure. The program is implemented by District Veterinary Polyclinics."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "An amount of ₹500/- subsidy per animal (male calf) for castration by close method (Burdizo Castrator)/open method (Surgical Method)."
+    ],
+    "eligibility": [
+      "The applicant must be an individual livestock owner or an animal-rearing organization (Gaushala/Panjarapol/others).",
+      "The male calf must be castrated through the close or open method."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Copy of barcoded ration card or Institute’s registration number.",
+      "Copy of government-issued photo identification (Aadhaar card/ Voter ID/ Driving License/ Kisan Credit Card).",
+      "Copy of bank passbook or cancelled cheque."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Intensive Castration Scheme\"?",
+      "answer": "The \"Intensive Castration Scheme\" supports livestock owners and animal-rearing organizations in castrating male calves through the close method (Burdizo Castrator) or open method (Surgical Method)."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any individual livestock owner or registered animal-rearing organization, such as Gaushalas or Panjarapols, is eligible to apply for the scheme."
+    },
+    {
+      "question": "What financial assistance is provided under the scheme?",
+      "answer": "The scheme provides a subsidy of ₹500/- per male calf for castration."
+    },
+    {
+      "question": "What are the approved methods of castration under this scheme?",
+      "answer": "The scheme allows castration through the Burdizo Castrator (close method) and the Surgical Method (open method)."
+    },
+    {
+      "question": "Can an applicant avail of the scheme benefits if the male calf has already been castrated?",
+      "answer": "No, only male calves that require castration are eligible for the scheme benefits."
+    },
+    {
+      "question": "Where should applicants submit their applications for the scheme?",
+      "answer": "All applications must be submitted online through the I-Khedut Portal."
+    },
+    {
+      "question": "What documents must be submitted along with the application?",
+      "answer": "Applicants must submit a barcoded ration card or Institute’s registration number, a government-issued photo ID, and a bank passbook or a canceled cheque."
+    },
+    {
+      "question": "Where can applicants seek further assistance or clarification regarding the scheme?",
+      "answer": "Applicants can contact their local District Veterinary Polyclinic or visit the I-Khedut Portal for more details."
+    }
+  ]
 }

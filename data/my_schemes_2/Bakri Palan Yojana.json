@@ -1,17 +1,77 @@
 {
   "scheme_name": "Bakri Palan Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/bpuk",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Bakri Palan Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Bakri Palan Yojana\" was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote goat rearing as a source of self-employment and livelihood generation for eligible beneficiaries, particularly from SECC categories, by providing financial support for rearing a goat unit."
+    ],
+    "benefits": [
+      "Self-employment in goat rearing is facilitated by providing beneficiaries with a goat unit comprising 10 female goats and 1 male goat for a period of 10 to 14 months.",
+      "The total cost of the unit is ₹70,000/-, of which 90% (₹63,000/-) is funded by the State Government, and the remaining 10% (₹7,000/-) is contributed by the beneficiary."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must belong to the General, Scheduled Caste, or Scheduled Tribe category.",
+      "The applicant must be included in the SECC (Socio-Economic and Caste Census) category.",
+      "The applicant should have an interest in goat rearing."
+    ],
+    "application_process": {
+      "offline": [
+        "Interested beneficiaries must submit their proposal in an open meeting of the Gram Sabha. Once the proposal is approved, the beneficiary shall submit it to the Veterinary Officer, Livestock Extension Officer, or Gram Panchayat Development Officer of the respective area, or the Gram Panchayat may submit it on behalf of the beneficiary.",
+        "Based on the recommendation of the village-level selection committee, the final selection is made by the development block-level committee and forwarded to the Animal Husbandry Department. After selection, the beneficiary will receive funds for purchasing goats through Direct Benefit Transfer (DBT) within one to two months.",
+        "Applicants must submit Aadhaar card, bank account details, and caste certificate along with their proposal."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account details",
+      "Caste Certificate",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 236)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main benefit provided under the scheme?",
+      "answer": "Beneficiaries are supported with one goat-rearing unit consisting of 10 female and 1 male goat, aged between 10 to 14 months."
+    },
+    {
+      "question": "Is this scheme meant to promote self-employment?",
+      "answer": "Yes, the scheme helps beneficiaries generate self-employment through goat rearing."
+    },
+    {
+      "question": "Is there any contribution from the beneficiary under the scheme?",
+      "answer": "Yes, the beneficiary has to contribute ₹7,000, which is 10% of the total cost."
+    },
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "General category individuals, Scheduled Castes (SC), and Scheduled Tribes (ST) listed in the SECC (Socio-Economic and Caste Census) are eligible."
+    },
+    {
+      "question": "What is the first step to apply for this scheme?",
+      "answer": "The interested person must present their proposal during an open meeting of the Gram Sabha."
+    },
+    {
+      "question": "What happens after the proposal is passed in the Gram Sabha?",
+      "answer": "Once approved, the beneficiary submits it to officials like the Veterinary Officer, Animal Husbandry Officer, or Village Panchayat Development Officer."
+    },
+    {
+      "question": "Can I submit the proposal to the Gram Panchayat Secretary?",
+      "answer": "Yes, the Gram Panchayat Secretary is one of the officials authorized to receive the proposal."
+    },
+    {
+      "question": "Can I buy the goats myself using the DBT amount?",
+      "answer": "Yes, the DBT amount is given for purchasing goats."
+    },
+    {
+      "question": "How long does the whole process take after Gram Sabha approval?",
+      "answer": "Benefits are typically disbursed within 1 to 2 months post-selection."
+    }
+  ]
 }

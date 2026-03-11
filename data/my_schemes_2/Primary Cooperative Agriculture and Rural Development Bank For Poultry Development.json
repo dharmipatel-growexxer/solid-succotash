@@ -1,17 +1,90 @@
 {
   "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Poultry Development",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pcardfpd",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Primary Cooperative Agriculture and Rural Development Bank: For Poultry Development",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Primary Cooperative Agriculture and Rural Development Bank: For Poultry Development\" scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to provide financial support to farmers for poultry and cattle development, with loans available up to ₹14,800/- for 200 poultry birds or ₹17,000/- for 2 cows. The interest rate ranges from 14.5% to 16.5%, subject to periodic changes."
+    ],
+    "benefits": [
+      "Access to Loan:",
+      "Up to ₹14,800/- for 200 birds (poultry).",
+      "Up to ₹17,000/- for 2 cows.",
+      "Interest Rate:",
+      "14.5% to 16.5% (subject to change)."
+    ],
+    "eligibility": [
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should be a farmer.",
+      "The beneficiary should be engaged in poultry farming or cattle development.",
+      "The beneficiary should be interested to avail loan for poultry farming or cattle development.",
+      "The beneficiary should have the intention to use the loan specifically for poultry farming or cattle development."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should collect the application form by contacting the Secretary/ Special Officer of the Primary Cooperative Agriculture and Rural Development Bank.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof (Aadhaar, PAN card, etc.).",
+      "Address proof.",
+      "Proof of Poultry Farming or Cattle Development (if required).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme offers loans to farmers for poultry development and cattle development, with funding of up to ₹14,800/- for 200 birds or ₹17,000/- for 2 cows, with an interest rate of 14.5% to 16.5%."
+    },
+    {
+      "question": "Who is eligible to apply for this loan?",
+      "answer": "Farmers involved in poultry or cattle farming activities are eligible to apply."
+    },
+    {
+      "question": "What is the maximum loan amount available under this scheme?",
+      "answer": "The scheme offers loans up to ₹14,800/- for 200 poultry birds or ₹17,000/- for 2 cows."
+    },
+    {
+      "question": "What interest rate is charged on this loan?",
+      "answer": "The interest rate for the loan ranges between 14.5% and 16.5%."
+    },
+    {
+      "question": "How can applicants apply for this loan?",
+      "answer": "Interested applicants can visit the Primary Cooperative Agriculture and Rural Development Bank and apply through the Secretary or Special Officer."
+    },
+    {
+      "question": "Are there specific income or age requirements?",
+      "answer": "No specific income or age criteria are mentioned for this scheme."
+    },
+    {
+      "question": "What documents are required to apply for the loan?",
+      "answer": "Applicants typically need identity proof, address proof, farming documents, and other documents as specified by the bank."
+    },
+    {
+      "question": "Is this scheme open to all communities?",
+      "answer": "Yes, the scheme is available to all eligible farmers without community restrictions."
+    },
+    {
+      "question": "Can the loan be used for purposes other than poultry or cattle?",
+      "answer": "The loan is specifically designated for poultry development and limited cattle support."
+    },
+    {
+      "question": "Who should applicants contact for assistance with the application process?",
+      "answer": "The Secretary or Special Officer at the Primary Cooperative Agriculture and Rural Development Bank can assist with the application."
+    }
+  ]
 }

@@ -1,17 +1,90 @@
 {
   "scheme_name": "Distribution of Rhizobium Packets-Oilseeds",
   "scheme_url": "https://www.myscheme.gov.in/schemes/dorpo",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Distribution of Rhizobium Packets-Oilseeds",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Distribution of Rhizobium Packets-Oilseeds” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides a subsidy to farmers on the cost of Rhizobium. It targets farmers who produce and supply Foundation and Certified Class seeds to the Department of Agriculture."
+    ],
+    "benefits": [
+      "Quantum of Assistance:",
+      "50% on the cost of Rhizobium or ₹100/- per ha. whichever is less."
+    ],
+    "eligibility": [
+      "The beneficiary should be a Farmer.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should produce and supply Foundation and Certified Class seeds to the Department."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Collect the application form from the nearest Agricultural Office.",
+        "Step 2:",
+        "Fill out the application form with the required details and attach mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the form to the concerned office:",
+        "Village Level:",
+        "Submit the application to the Assistant Agricultural Officer.",
+        "Block Level:",
+        "Submit to the Agricultural Officer or Deputy Agricultural Officer.",
+        "District Level:",
+        "Submit to the Joint Director of Agriculture."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity (Aadhar Card, Voter ID, etc.).",
+      "Proof of Land Ownership.",
+      "Certificate of seed production and supply to the Department.",
+      "Bank Account Details.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the \"Distribution of Rhizobium Packets-Oilseeds” scheme?",
+      "answer": "The “Distribution of Rhizobium Packets-Oilseeds” scheme provides a subsidy on the cost of Rhizobium, to eligible farmers who produce and supply Foundation and Certified Class seeds."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Farmers who produce and supply Foundation and Certified Class seeds to the Department are eligible."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "The applicant needs to provide proof of identity, land ownership, seed production and supply certificate, and bank details."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Applications should be submitted to the Assistant Agricultural Officer at the village level or the Agricultural Officer/Deputy Agricultural Officer at the block level."
+    },
+    {
+      "question": "How much subsidy will be provided?",
+      "answer": "A 50% subsidy on the cost of Rhizobium or ₹100/- per hectare, whichever is less, will be provided."
+    },
+    {
+      "question": "What is Rhizobium and how does it benefit crops?",
+      "answer": "Rhizobium is a soil bacterium that fixes nitrogen, improving soil fertility and crop yield."
+    },
+    {
+      "question": "Is there an age limit for applying to the scheme?",
+      "answer": "There is no age limit specified for this scheme."
+    },
+    {
+      "question": "Can applicants from any community apply?",
+      "answer": "Yes, the scheme is open to farmers of all communities."
+    },
+    {
+      "question": "Is it necessary to produce a specific type of seed to be eligible?",
+      "answer": "Yes, the applicant must produce and supply Foundation and Certified Class seeds to the Department."
+    },
+    {
+      "question": "What should be done if the application is rejected?",
+      "answer": "The applicant may contact the concerned agricultural officer for further assistance and clarification."
+    }
+  ]
 }

@@ -1,17 +1,114 @@
 {
   "scheme_name": "Subsidy Scheme on Establishment of 25 R.I.R. Bird’s Unit, 100 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Caste People",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ssbutsc",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Subsidy Scheme on Establishment of 25 R.I.R. Bird’s Unit, 100 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Caste People",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Subsidy Scheme on Establishment of 25 R.I.R. Bird’s Unit, 100 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Caste People\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer subsidies for setting up poultry units and provides a stipend for poultry farming training to promote self-employment and economic upliftment."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Minimum Time Limit(In Year) for Reclaiming Benefits",
+      "Subsidy Scheme on establishment of 25 R.I.R. birds unit for Scheduled Caste",
+      "75% of total Expenditure or maximum ₹6,000/- in kind (25 R.I.R. birds and poultry feed)",
+      "Benefit can be given to one member of family. After 3 years the same family can avail benefit.",
+      "Subsidy Scheme for establishment of 100 broiler bird farm for Scheduled Caste",
+      "90% subsidy or Maximum ₹36,000/- RTGS/NEFT (In Bank Account Direct)",
+      "Benefit can be given to one member of family.",
+      "Stipend Scheme for Poultry Farming Training for Scheduled Caste",
+      "Maximum ₹2,000/- RTGS/NEFT (in Bank Account Direct)"
+    ],
+    "eligibility": [
+      "The applicant must be residing in Gujarat.",
+      "The applicant must be a Scheduled Caste individual.",
+      "The applicant must be an adult (18 years or above).",
+      "The applicant must have completed a 6-day poultry farming training.",
+      "Note:",
+      "Females and beneficiaries Below Poverty Line (BPL) will be given priority."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        ".",
+        "Note:",
+        "Before application, beneficiaries must complete poultry training at the Intensive Poultry Development Project or District Poultry Extension Centre."
+      ]
+    },
+    "documents_required": [
+      "Caste certificate (Scheduled Caste)",
+      "Residential proof (Aadhaar Card, Ration Card, etc.)",
+      "Training completion certificate (6-day poultry rearing training)",
+      "Bank details (for RTGS/NEFT transfer)",
+      "Below Poverty Line (BPL) certificate (if applicable)",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "This scheme aims to support Scheduled Caste individuals by offering subsidies for setting up poultry units and providing a stipend for poultry farming training to promote self-employment and economic upliftment."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Scheduled Caste individuals residing in Gujarat who are 18 years or older and have completed the mandatory 6-day poultry farming training are eligible to apply."
+    },
+    {
+      "question": "What financial assistance is provided under this scheme?",
+      "answer": "The scheme provides: 75% subsidy (up to ₹6,000/-) for establishing a 25 R.I.R. bird unit (benefit provided in kind). 90% subsidy (up to ₹36,000/-) for setting up a 100-broiler bird unit (amount transferred via RTGS/NEFT). ₹2,000/- stipend for completing poultry farming training. 75% subsidy (up to ₹6,000/-) for establishing a 25 R.I.R. bird unit (benefit provided in kind). 90% subsidy (up to ₹36,000/-) for setting up a 100-broiler bird unit (amount transferred via RTGS/NEFT). ₹2,000/- stipend for completing poultry farming training."
+    },
+    {
+      "question": "Is training mandatory to apply for the scheme?",
+      "answer": "Yes, the 6-day poultry farming training from an authorized Intensive Poultry Development Project or District Poultry Extension Centre is mandatory before applying for the scheme."
+    },
+    {
+      "question": "Where can an applicant receive the required poultry farming training?",
+      "answer": "The training is provided at Intensive Poultry Development Projects and District Poultry Extension Centres across Gujarat."
+    },
+    {
+      "question": "Are female applicants given preference in this scheme?",
+      "answer": "Yes, female applicants are given priority under this scheme."
+    },
+    {
+      "question": "Can more than one member from the same family apply for the scheme?",
+      "answer": "No, only one member per family can avail of the benefits at a time. However, for the 25 R.I.R. bird unit, a family can reapply after 3 years."
+    },
+    {
+      "question": "How is the subsidy amount provided to beneficiaries?",
+      "answer": "For the 25 R.I.R. bird unit, the subsidy is provided in kind (birds and poultry feed). For the 100-broiler bird unit and the stipend, the amount is transferred directly to the beneficiary’s bank account via RTGS/NEFT. For the 25 R.I.R. bird unit, the subsidy is provided in kind (birds and poultry feed). For the 100-broiler bird unit and the stipend, the amount is transferred directly to the beneficiary’s bank account via RTGS/NEFT."
+    },
+    {
+      "question": "Can an applicant from outside Gujarat apply for the scheme?",
+      "answer": "No, only residents of Gujarat belonging to the Scheduled Caste category are eligible for this scheme."
+    },
+    {
+      "question": "How can an individual apply for the scheme?",
+      "answer": "An eligible individual can apply online through the iKhedut portal after completing the 6-day poultry farming training."
+    }
+  ]
 }

@@ -1,17 +1,81 @@
 {
   "scheme_name": "Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/spafbgmt",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to promote the participation of tribal farmers in formal agricultural markets by reimbursing transportation costs incurred while bringing agricultural goods to market committees. The primary objective is to reduce the financial burden of logistics on tribal farmers and thereby enhance their income through better market access and fair price realization."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹500/- per tonne of agricultural produce transported. Assistance is available for up to 10 tonnes per farmer, which amounts to a maximum of ₹5,000/-."
+    ],
+    "eligibility": [
+      "The applicant should be a tribal farmer.",
+      "The applicant should be residing in a tribal area of Gujarat.",
+      "The applicant should bring their agricultural produce to a registered market committee (APMC) located in the tribal area.",
+      "The applicant should be the owner or cultivator of the agricultural goods transported."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should prepare the application on plain paper.",
+        "Step 2:",
+        "In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity (Aadhaar Card, Voter ID, etc.).",
+      "Proof of Residence in a tribal area (Ration Card, Domicile Certificate, etc.",
+      "Farmer Registration Certificate or proof of ownership/cultivation.",
+      "Market Committee Receipt for produce sold.",
+      "Transport Invoice/Bill.",
+      "Bank Account Details (Passbook or Cancelled Cheque).",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 546)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main purpose of the scheme \"Scheme to Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\"?",
+      "answer": "The main purpose of the scheme \"Scheme to Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\" is to financially support tribal farmers by reimbursing a portion of the transportation cost incurred while bringing their agricultural produce to the nearest market committee, thereby encouraging direct participation in the regulated agricultural markets."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme \"Scheme to Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\"?",
+      "answer": "The scheme \"Scheme to Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\" is specifically designed for farmers residing in designated tribal areas of Gujarat who personally transport and sell their agricultural produce at a registered Agricultural Produce Market Committee (APMC)."
+    },
+    {
+      "question": "What kind of financial support is provided under this scheme?",
+      "answer": "Under the \"Scheme to Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\", a financial assistance of ₹500/- per tonne of agricultural produce is provided to eligible tribal farmers, with a maximum limit of ₹5,000/- for up to 10 tonnes per application instance."
+    },
+    {
+      "question": "Is there a limit on the quantity of goods for which assistance is provided under this scheme?",
+      "answer": "Yes, under the \"Scheme to Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\", financial support is limited to a maximum of 10 tonnes per eligible farmer per application, ensuring equitable distribution of the benefit among all intended beneficiaries."
+    },
+    {
+      "question": "Are there any income limits for farmers to be eligible for this scheme?",
+      "answer": "No, there is no income-based eligibility criterion for availing the benefits, which means all tribal farmers fulfilling the basic eligibility conditions can apply irrespective of their individual or family income level."
+    },
+    {
+      "question": "Can a farmer receive assistance under this scheme if the goods are sold outside the APMC?",
+      "answer": "No, the assistance under the \"Scheme to Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\" is only applicable when the agricultural produce is brought to and sold through a registered market committee (APMC) located in a notified tribal area."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "The application for this scheme should be submitted to the District Registrar's Office."
+    },
+    {
+      "question": "Is there any preference or reservation for specific groups under this scheme?",
+      "answer": "The Scheme is applicable to the Scheduled Tribe (ST) category."
+    }
+  ]
 }

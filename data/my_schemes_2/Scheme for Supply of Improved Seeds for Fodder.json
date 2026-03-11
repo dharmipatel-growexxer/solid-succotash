@@ -1,17 +1,103 @@
 {
   "scheme_name": "Scheme for Supply of Improved Seeds for Fodder",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sfsoisf",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme for Supply of Improved Seeds for Fodder",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Scheme for Supply of Improved Seeds for Fodder\" launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat, aims to support institutions like Gaushalas and Panjarapols by providing them with improved fodder seeds such as maize, sorghum, oat, and lucerne. This encourages the cultivation of nutritious green fodder, especially on grazing lands (gauchar lands), thereby enhancing livestock health and productivity."
+    ],
+    "benefits": [
+      "Maize: Up to 10 kits (5 kg each)",
+      "Sorghum: Up to 50 kits (5 kg each)",
+      "Oats: Up to 5 kits (5 kg each)",
+      "Lucerne: Up to 20 kits (2 kg each)"
+    ],
+    "eligibility": [
+      "Panjrapol must be registered under the Charity Act."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the",
+        "GGVB’s nodal officer",
+        "of the concerned district with the necessary documents listed in the application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here."
+      ]
+    },
+    "documents_required": [
+      "Copy of 7/12, 8-A, and 6-rights of own land.",
+      "Copy of lease agreement (if land is leased).",
+      "Certificate from the Talati of Gram Panchayat confirming availability of water resource.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main objective of the \"Scheme for Supply of Improved Seeds for Fodder\"?",
+      "answer": "The main objective of the scheme is to provide improved quality fodder seeds to registered Gaushalas and Panjarapols to ensure the availability of green fodder throughout the year, thereby improving livestock health and productivity."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Only Gaushalas and Panjarapols that are registered under the Public Charity Act are eligible to apply for this scheme."
+    },
+    {
+      "question": "What types of fodder seeds are supplied under this scheme?",
+      "answer": "The scheme supplies improved seeds of maize, sorghum, oats, and lucerne to the eligible institutions."
+    },
+    {
+      "question": "What is the maximum quantity of seeds that can be availed under this scheme?",
+      "answer": "Eligible institutions can receive up to 10 kits of maize (5 kg each), 50 kits of sorghum (5 kg each), 5 kits of oats (5 kg each), and 20 kits of lucerne (2 kg each)."
+    },
+    {
+      "question": "How often can an institution benefit from this scheme?",
+      "answer": "An institution can avail the benefits of this scheme once every year."
+    },
+    {
+      "question": "Is registration under any specific act necessary to apply?",
+      "answer": "Yes, the applying institution must be registered under the Public Charity Act to be eligible."
+    },
+    {
+      "question": "Can institutions with leased land apply for the scheme?",
+      "answer": "Yes, institutions having a valid lease agreement for the land can also apply for the scheme."
+    },
+    {
+      "question": "Can an institution apply for the scheme multiple times in a year?",
+      "answer": "No, institutions can only avail the benefits of this scheme once per year."
+    },
+    {
+      "question": "Where can eligible institutions apply for the scheme?",
+      "answer": "Applications must be submitted online through the iKhedut portal, followed by submission of printed applications with signatures and required documents to the board."
+    },
+    {
+      "question": "What documents must be submitted along with the application?",
+      "answer": "Documents such as 7/12 extract, 8-A form, 6-rights record, lease agreement (if applicable), and a certificate from the Talati of Gram Panchayat confirming water availability are required."
+    },
+    {
+      "question": "Within how many days must the application documents be submitted?",
+      "answer": "The documents must be submitted to the board within 30 days of submitting the online application."
+    }
+  ]
 }

@@ -1,17 +1,104 @@
 {
   "scheme_name": "Scheme of Assistance for Common Environment Infrastructure: Scheme of Assistance for Strengthening the Regulation and Environmental Compliance",
   "scheme_url": "https://www.myscheme.gov.in/schemes/saceiasre",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme of Assistance for Common Environment Infrastructure: Scheme of Assistance for Strengthening the Regulation and Environmental Compliance",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters.",
+      "The component “Financial Assistance for Common Environmental Infrastructure Facilities” aims to support industries and organizations in establishing and upgrading environmental management infrastructure. It provides financial aid for projects that promote pollution control, waste management, and environmental sustainability."
+    ],
+    "benefits": [
+      "Quantum of Assistance:",
+      "Need based support, maximum ₹50,00,000/-, will be provided as may be decided by the State Level Empowered Committee."
+    ],
+    "eligibility": [
+      "Industries association / Any Enterprise (except for captive use) or firm which is registered under Societies Act, Trust Act or under the Companies Act.; or GIDC/Board/ Corporations / Special Purpose Vehicle (SPV) / PSU / Municipal Corporation / Nagarpalika / Urban Development Authority etc.",
+      "The project must comply with Ministry of Environment, Forest and Climate Change (MoEF) & Gujarat Pollution Control Board (GPCB)",
+      "regulations",
+      ".",
+      "The project must remain operational for a minimum of 5 years post-completion."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Prepare a Detailed Project Report (DPR).",
+        "Step 2:",
+        "Fill out the",
+        "prescribed application form",
+        ".",
+        "Step 3:",
+        "Submit the application with the required documents to the",
+        "Industries Commissionerate",
+        "Step 4:",
+        "Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress.",
+        "Helpdesk",
+        ":",
+        "Contact Here"
+      ]
+    },
+    "documents_required": [
+      "Copy of legal status of applicant such as memorandum and article of association and company registration certificate or registration under society act or trust act, and list of directors/members with addresses.",
+      "Proof that land for project is in possession, like land allotment letter of GIDC with copies of 7/12 utaara, N.A. permission, approved plan, and construction permission by competent authority.",
+      "Copy of GPCB NOC/CCA for establishing project (if not applicable, then give justification on letterhead).",
+      "Copy of Environment Clearance (if not applicable, then give justification on letterhead).",
+      "Detailed project report covering all details mentioned in application form.",
+      "List of beneficiaries in format as per",
+      "Annexure-A1",
+      "for each beneficiary on letterhead.",
+      "Process diagram of proposed project signed by authorized signatory.",
+      "Financial and technical appraisal of project from Bank/FI/other institution as approved by SLEC.",
+      "Copy of any other financial assistance granted by GoG and/or GoI for the same component or project.",
+      "Copy of sanction/consent letter from Financial Institution, if loan is sanctioned.",
+      "Affidavits for outstanding government dues and any pending court case against Govt.",
+      "Declaration/resolution as per application."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Scheme of Assistance for Common Environment Infrastructure\"?",
+      "answer": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance."
+    },
+    {
+      "question": "What is the objective of the \"Scheme of Assistance for Strengthening the Regulation and Environmental Compliance\" component?",
+      "answer": "The component aims to support environmental sustainability by funding scientific research, pollution control initiatives, environmental monitoring, and capacity-building programs."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Industries, industrial associations, government agencies, public sector undertakings (PSUs), and other eligible institutions involved in environmental management can apply for assistance."
+    },
+    {
+      "question": "What types of projects are supported under this scheme?",
+      "answer": "Scientific report/ Pilot projects on cleaner production and technology through institutions such as IITs, NITs, Science & Engineering Colleges of the State, Scientific and R & D institutions and GPCB/GEMI/GCPC are supported under this scheme."
+    },
+    {
+      "question": "What is the maximum financial assistance provided under this scheme?",
+      "answer": "The scheme provides need-based financial assistance of up to ₹50,00,000/- per project, subject to approval by the State Level Empowered Committee (SLEC)."
+    },
+    {
+      "question": "What kind of research projects can receive funding?",
+      "answer": "The scheme funds research projects focused on cleaner production technologies, environmental impact assessment, pollution control methods, and real-time environmental monitoring systems."
+    },
+    {
+      "question": "What are environment clinics under this scheme?",
+      "answer": "Environment clinics serve as platforms where industry representatives, environmental professionals, and experts collaborate to find cost-effective solutions to environmental challenges in real time."
+    },
+    {
+      "question": "Can multiple institutions collaborate on a single project?",
+      "answer": "Yes, the scheme encourages collaboration between multiple institutions, including IITs, NITs, R&D organizations, and government bodies, to enhance the effectiveness of environmental projects."
+    },
+    {
+      "question": "What is the role of the State Level Empowered Committee (SLEC)?",
+      "answer": "SLEC is responsible for reviewing project proposals, approving financial assistance, and ensuring that the projects align with environmental compliance goals."
+    },
+    {
+      "question": "Are training and skill development programs eligible for funding?",
+      "answer": "Yes, the scheme provides financial assistance for establishing training centers and conducting skill development programs for industry professionals, instructors, and operators."
+    }
+  ]
 }

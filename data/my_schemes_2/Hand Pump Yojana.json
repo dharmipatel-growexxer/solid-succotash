@@ -1,17 +1,56 @@
 {
   "scheme_name": "Hand Pump Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/hpy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Hand Pump Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Hand Pump” is implemented by the Uttarakhand Agricultural Production & Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide reliable and accessible drinking water facilities to farmers and villagers through the installation of hand pumps."
+    ],
+    "benefits": [
+      "The scheme provides drinking water facilities through the installation of hand pumps in areas facing water scarcity."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer, villager, village head, or public representative from Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "Based on the demand of farmers, villagers, and village heads or public representatives, and on the proposal approved by the Mandi Committee from the Mandi Vikas Nidhi, as well as the consent granted by the Marketing Board from the Central Mandi Fund, the hand pump project/estimate is prepared by the respective branch and submitted to the Managing Director of the Uttarakhand Agricultural Produce Marketing Board for administrative and financial approval."
+      ]
+    },
+    "documents_required": [
+      "Documents are required in accordance with the Mandi Committee/ Mandi Board."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 173)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible for the Hand Pump scheme?",
+      "answer": "Villagers and farmers living in rural areas that require drinking water facilities are eligible."
+    },
+    {
+      "question": "Which areas are covered under this scheme?",
+      "answer": "The scheme covers rural areas where there is a genuine need for drinking water facilities."
+    },
+    {
+      "question": "How is the demand for a hand pump identified?",
+      "answer": "The demand is identified through requests from farmers, villagers, and village heads or public representatives."
+    },
+    {
+      "question": "Who approves the proposal for a hand pump installation?",
+      "answer": "The Mandi Committee approves the proposal based on the Mandi Vikas Nidhi, and the Marketing Board gives consent from the Central Mandi Fund."
+    },
+    {
+      "question": "Who grants administrative and financial approval?",
+      "answer": "The Managing Director of the Uttarakhand Agricultural Produce Marketing Board grants administrative and financial approval."
+    },
+    {
+      "question": "What is the funding source for the scheme?",
+      "answer": "Funding comes from the Mandi Vikas Nidhi and the Central Mandi Fund."
+    }
+  ]
 }

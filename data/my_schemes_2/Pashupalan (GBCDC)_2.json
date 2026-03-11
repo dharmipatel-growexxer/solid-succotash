@@ -1,17 +1,124 @@
 {
   "scheme_name": "Pashupalan (GBCDC)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pashupalangbcdc",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Pashupalan (GBCDC)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Pashupalan (GBCDC)\" by the Social Justice and Empowerment Department, owned by the Centre and the Gujarat Government, aims to provide financial assistance for agriculture-related activities. Through this scheme, a low-interest loan amount is provided to support Pashu Palaks (Animal Rearers) in undertaking animal husbandry activities such as purchasing cows and buffaloes. The scheme's core objective is to offer financial aid at low-interest rates, supporting eligible individuals from socially and educationally backwards classes."
+    ],
+    "benefits": [
+      "Low-Interest Loan:",
+      "A loan is provided at an interest rate of 6 per cent per annum.",
+      "Maximum Loan Limit:",
+      "The maximum loan limit in this scheme is up to ₹1,00,000/-.",
+      "Unit Cost Coverage:",
+      "85 per cent of the unit cost will be loaned.",
+      "Out of this 85 per cent, 85 per cent will be from the national corporation.",
+      "10 per cent will be from the state government.",
+      "5 per cent will be from the beneficiary's contribution.",
+      "Intended Use:",
+      "The loan is for agriculture-related activities, specifically animal husbandry (cow-buffalo).",
+      "Repayment Terms:",
+      "This loan is to be repaid in 60 equal monthly instalments, including interest."
+    ],
+    "eligibility": [
+      "The applicant must be from a Socially and Educationally Backward Class (SEBC).",
+      "The total annual income of the applicant's family should not exceed ₹3,00,000/-.",
+      "The applicant's age should be between 21 and 45 years on the date of application.",
+      "The applicant must have experience in a business requiring technical and other skills."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Visit the Official Website:",
+        "Go to the",
+        "Official Website",
+        "Gujarat Backwards Caste Development Corporation.",
+        "Step 2: Locate and Apply for Scheme:",
+        "Scroll down on the homepage, find the \"Pashupalan,\" and click on \"Apply Now\".",
+        "Step 3:",
+        "Access Application Form:",
+        "You will be directed to the",
+        "application form",
+        ".",
+        "Step 4: Scheme Selection & Loan Details:",
+        "Select \"Pashupalan\", enter Unit Cost, and specify the Required Loan Amount.",
+        "Step 5: Applicant's Details:",
+        "Provide Aadhaar, Ration, Voter ID, full name (Last, First, Father/Husband), address, district, taluka, village, PIN, date of birth, age (21-45 as of 14/08/2023), caste, subcaste, phone, mobile, email, gender, and marital status.",
+        "Step 6: Income Details:",
+        "Enter income certificate number, issue date, issuing officer's name, total annual family income (up to ₹ 3,00,000/-), and parent/guardian's occupation.",
+        "Step 7: Disability Details (if applicable):",
+        "If \"Physically Handicapped,\" select \"Yes\" or \"No\". If you selected \"Yes\", provide the percentage (in %).",
+        "Step 8: Employment Details (if applicable):",
+        "Indicate if any family member works in a government or private job. If \"Yes,\" provide their Name, Designation, Place, and Salary details.",
+        "Step 9: Educational Qualification:",
+        "Select your Education Qualification: Uneducated, Educated, Graduation, Post Graduation, or Other Degree.",
+        "Step 10: Loan History:",
+        "If you have taken a past loan, select \"Yes\" or \"No\". If you selected \"Yes\" provide loan details (date, amount, paid, remaining) and your account number.",
+        "Step 12: Bank Account Details:",
+        "Provide bank account number, bank name, branch name, name as per account, account type (Saving/Current), MICR code, and IFSC code.",
+        "Step 13: Submission:",
+        "Click the \"Submit\" button to complete your application."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar",
+      "Ration Card",
+      "Voter ID",
+      "Birth Certificate",
+      "Income Certificate",
+      "School Leaving Certificate",
+      "Bank Account Details",
+      "Loan Details (if a past loan has been taken)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Online Application"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main purpose of this scheme?",
+      "answer": "The main purpose is to provide financial assistance for agriculture-related activities like animal husbandry (cow-buffalo)."
+    },
+    {
+      "question": "What are the contributions from different entities for the loan?",
+      "answer": "85% of the loan will be from the national corporation, 10% from the state government, and 5% will be from the beneficiary's contribution."
+    },
+    {
+      "question": "How long do I have to repay the loan?",
+      "answer": "This loan is to be repaid in 60 equal monthly instalments, including interest."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Required documents include Birth Certificate, Income Certificate, and School Leaving Certificate, along with Aadhaar, Ration Card, and Voter ID."
+    },
+    {
+      "question": "What details do I need to provide about my bank account?",
+      "answer": "You need to provide your bank account number, bank name, branch name, name as per account, account type (Savings/Current), MICR code, and IFSC code."
+    },
+    {
+      "question": "What details are needed if a family member works in government or private job?",
+      "answer": "If a family member works in a government or private job, you need to provide their Name, Designation, Place, and Salary details."
+    },
+    {
+      "question": "Where do I submit my application form?",
+      "answer": "The application form is submitted online at https://gbcdconline.gujarat.gov.in."
+    },
+    {
+      "question": "Is there a specific date mentioned for age calculation?",
+      "answer": "Yes, the age should be between 21 and 45 years as of 14/08/2023."
+    },
+    {
+      "question": "What happens if I have a physical disability?",
+      "answer": "If you are physically handicapped, you need to select \"Yes\" or \"No\" in the application, and if \"Yes,\" provide the percentage of disability."
+    },
+    {
+      "question": "What information is required about past loans?",
+      "answer": "If you have taken a past loan, you need to provide the loan details (date, amount, paid, remaining) and your account number."
+    }
+  ]
 }

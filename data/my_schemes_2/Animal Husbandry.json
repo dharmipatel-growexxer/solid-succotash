@@ -1,17 +1,88 @@
 {
   "scheme_name": "Animal Husbandry",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ahtn",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Animal Husbandry",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Animal Husbandry” scheme by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, offers Adi Dravidar and Tribal beneficiaries various forms of support, including a 50% to 75% subsidy on sheep units, milch animals, and calves. Additionally, the scheme ensures the animals receive proper health cover, artificial insemination services, and other veterinary care."
+    ],
+    "benefits": [
+      "Subsidy:",
+      "Subsidy of 50% to 75% on sheep units, milch animals, and calves.",
+      "Health Care Facility for Animals:",
+      "Provision of health care and veterinary services.",
+      "Others:",
+      "Artificial insemination for animals to improve breeding."
+    ],
+    "eligibility": [
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should be a Farmer.",
+      "The beneficiary should belong to the Adi Dravidar/Tribal community."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should collect the application form from the office of the Director of Adi Dravidar and the Tribal Welfare Officer/ Director of the Animal Husbandry Department or the Veterinary Hospital.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned department.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card or any other document as directed by the authority).",
+      "Community certificate.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "This scheme provides subsidies on the distribution of sheep units, milch animals, and calves, as well as health coverage and artificial insemination for the animals. It is targeted at Adi Dravidar/Tribal communities to improve their livelihood through animal husbandry."
+    },
+    {
+      "question": "What benefits are provided under this scheme?",
+      "answer": "Beneficiaries receive subsidized livestock, including sheep units, milch animals, calves, as well as veterinary services and health cover for the animals."
+    },
+    {
+      "question": "Who is eligible to apply?",
+      "answer": "The scheme is specifically for Adi Dravidar/Tribal community beneficiaries."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Applicants must provide proof of identity, an income certificate, Aadhaar, address proof."
+    },
+    {
+      "question": "Is there an age limit for eligibility?",
+      "answer": "There are no age restrictions for applying to this scheme."
+    },
+    {
+      "question": "What is the subsidy percentage for the livestock provided?",
+      "answer": "The subsidy ranges from 50% to 75% depending on the type of livestock."
+    },
+    {
+      "question": "Can women apply for this scheme?",
+      "answer": "Yes, both men and women from Adi Dravidar/Tribal communities are eligible to apply."
+    },
+    {
+      "question": "How will the animals receive veterinary care?",
+      "answer": "Veterinary care is provided through the local Veterinary Hospital or designated health centers under the scheme."
+    },
+    {
+      "question": "What happens if the animals fall sick?",
+      "answer": "Veterinary doctors and livestock inspectors provide necessary treatments and care through the scheme's support."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applicants can apply through the Director of Adi Dravidar and Tribal Welfare Officer/ Director of the Animal Husbandry Department or the Veterinary Hospital by submitting the required documents."
+    }
+  ]
 }

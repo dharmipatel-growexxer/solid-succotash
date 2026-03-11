@@ -1,17 +1,133 @@
 {
   "scheme_name": "To Increase Fish Seed Production and Inland Fisheries Equipment in Non-Tribal Areas",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ifsifnta",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "To Increase Fish Seed Production and Inland Fisheries Equipment in Non-Tribal Areas",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"To Increase Fish Seed Production and Inland Fisheries Equipment in Non-Tribal Areas\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to enhance fish seed production and promote inland fisheries in non-tribal areas. It provides financial assistance for fish farming, fish seed rearing, and procurement of essential fisheries equipment, benefiting individuals, societies, and self-help groups involved in inland fisheries."
+    ],
+    "benefits": [
+      "Component Name",
+      "Standard of Assistance",
+      "Minimum Time Limit for Reclaiming Benefits",
+      "Fish Seed Rearing",
+      "₹90/- per 1000 (spawn to fry) ₹260/- per 1000 (fry to fingerlings) ₹460/- per 1000 (spawn to fingerlings)",
+      "1 Year",
+      "Fish Seed/Prawn Seed Stocking",
+      "50% subsidy on cost and transportation",
+      "Boat & Net Assistance",
+      "50% subsidy up to ₹7,500/- for Tin Boat-Net, ₹15,000/- for FRP Boat-Net",
+      "6 Years",
+      "Assistance to Backward Women for Fish Sale Equipment",
+      "50% subsidy up to ₹7,500/-",
+      "Once in a Lifetime",
+      "Plastic Crates",
+      "50% subsidy up to ₹600/- per unit",
+      "5 Years",
+      "Aerator Assistance",
+      "50% subsidy up to ₹50,000/-",
+      "Fish Collection cum Patrolling Boat",
+      "50% subsidy up to ₹2,50,000/-",
+      "Insulated Box",
+      "50% subsidy, up to ₹15,000/-",
+      "Fish Cage Culture",
+      "40% subsidy (General) up to ₹1,20,000/- 60% subsidy (SC/ST) up to ₹1,80,000/-",
+      "3 Years",
+      "Assistance to Pagadia Fishermen",
+      "90% subsidy up to ₹13,500/-",
+      "New Fish Pond Construction",
+      "40% subsidy (General) up to ₹2,80,000/- 60% (SC/ST) up to ₹4,20,000/-",
+      "Input Assistance",
+      "40% subsidy (General) up to ₹60,000/- 60% (SC/ST) up to ₹90,000/-",
+      "Mobile Laboratory Van",
+      "50% subsidy up to ₹5,00,000/-",
+      "Fish Seed Hatchery",
+      "50% subsidy up to ₹12,50,000/-"
+    ],
+    "eligibility": [
+      "Individuals/ societies/ self-help groups/ associations/ reservoir monopolies/ private units etc. involved in inland fisheries activities can avail the benefits of inland schemes.",
+      "The applicant should be a Fisherman.",
+      "Applicant should be above 18 years of age.",
+      "Applicant must have own private land/leased land to avail new pond construction assistance for fish farming (In case of two or more land holders consent form of other land holders must be submitted).",
+      "The beneficiary fisherman must have his own bank account."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card.",
+      "Land details.",
+      "Caste certificate.",
+      "Passport size photo.",
+      "Bank passbook/cancelled cheque.",
+      "Ration card."
+    ],
+    "sources_and_references": [
+      "Guidelines 1",
+      "Guidelines 2"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "This scheme aims to enhance fish seed production and promote inland fisheries in non-tribal areas through providing financial assistance for fish farming, fish seed rearing, and procurement of essential fisheries equipment, benefiting individuals, societies, and self-help groups involved in inland fisheries."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Individuals, societies, self-help groups, associations, and private units engaged in inland fisheries activities are eligible to apply for the scheme."
+    },
+    {
+      "question": "What is the age requirement for applicants?",
+      "answer": "The applicant must be above 18 years of age to be eligible for the scheme."
+    },
+    {
+      "question": "Can women avail benefits under this scheme?",
+      "answer": "Yes, women, including those from Scheduled Caste (SC), Scheduled Tribe (ST), and Other Backward Class (OBC) categories, are eligible for benefits under the scheme."
+    },
+    {
+      "question": "What financial assistance is provided for fish pond construction?",
+      "answer": "General category beneficiaries receive 40% subsidy up to ₹2,80,000/-, while SC/ST beneficiaries receive 60% subsidy up to ₹4,20,000/- per hectare."
+    },
+    {
+      "question": "Is it mandatory to have private or leased land for fish farming?",
+      "answer": "Yes, applicants must have private or leased land to avail assistance for new pond construction. In cases where multiple landowners are involved, a consent form from all landowners must be submitted."
+    },
+    {
+      "question": "How much subsidy is available for purchasing boats and nets?",
+      "answer": "Beneficiaries can receive a 50% subsidy up to ₹7,500/- for Tin Boat-Net and up to ₹15,000/- for FRP Boat-Net."
+    },
+    {
+      "question": "How can an applicant apply for the scheme?",
+      "answer": "Applications can be submitted online through the ikhedut portal: https://ikhedut.gujarat.gov.in, along with the necessary documents."
+    },
+    {
+      "question": "Can multiple landowners jointly apply for assistance?",
+      "answer": "Yes, multiple landowners can apply, but they must submit a consent form from all landowners involved in the project."
+    }
+  ]
 }

@@ -1,17 +1,124 @@
 {
   "scheme_name": "Development of Brackish Water Aquaculture",
   "scheme_url": "https://www.myscheme.gov.in/schemes/dbwa",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Development of Brackish Water Aquaculture",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Development of Brackish Water Aquaculture\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to enhance the income of brackish water fishermen by promoting modern shrimp farming techniques, improving disease control methods, increasing employment, and boosting shrimp exports. The scheme provides financial assistance in the form of subsidies for shrimp farm development, equipment purchase, and related activities."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Remarks",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Subsidy on purchase of Aerator",
+      "50% subsidy on unit cost of Rs.50, 000/- or 50% of the actual cost incurred whichever is less will have to be sanctioned.",
+      "Subsidy is given to Shrimp Farm owner",
+      "Once in 3 years",
+      "Subsidy on Construction of New shrimp farm",
+      "50% subsidy on unit cost of Rs.7.00 lakh per Hector or 50% of the actual cost incurred whichever is less will have to be sanctioned.",
+      "Subsidy is given to land owner or beneficiary should have land on lease for 10 years. If govt. land is allotted by collector then land allotment order must be enclosed with applicatio",
+      "Once in lifetime",
+      "Subsidy on Renovation of shrimp farm",
+      "Subsidy on unit cost of Rs.20, 000/- Per hector or 50% of the actual cost incurred whichever is less will have to be sanctioned.",
+      "Subsidy on Bird Fencing / Dog Fencing",
+      "For bird fencing 50% subsidy of unit cost of Rs. 10,000/- per hector. For Dog fencing 50% subsidy of unit cost of Rs. 25,000/- per hector.",
+      "Subsidy on purchase of shrimp feed and seed",
+      "50% subsidy on unit cost of Rs.3.00 lakh per Hector or 50% of the actual cost incurred whichever is less will have to be sanctioned",
+      "Sea weed culture",
+      "For Tube net:- 50% subsidy on unit cost of Rs.8000/- or 50% of the actual cost incurred whichever is less will have to be sanctioned. For Raft:- 50% subsidy on unit cost of Rs.3000/- or 50% of the actual cost incurred whichever is less will have to be sanctioned.",
+      "Subsidy on purchasing of tube net/Raft is given for culture of the sea weed.",
+      "construction of Effluent Treatment System (ETS)",
+      "50% of unit cost of Rs. 11,00,000/- per hector or 50% of the actual cost incurred whichever is less will have to be sanctioned",
+      "Shrimp Hatchery",
+      "50% of unit cost of Rs. 400.00 lakh or 50% of the actual cost incurred whichever is less will have to be sanctioned",
+      "Subsidy is given to land owner or beneficiary should have land on lease for 10 years. The production capacity of the shrimp hatchery must be 100 million P.L/ year."
+    ],
+    "eligibility": [
+      "The applicant must have own land or government-allotted land for shrimp farming.",
+      "Shrimp Farm of the Beneficiary should have been registered with coastal aquaculture authority or beneficiary should have been applied for it.",
+      "The beneficiary must have his own bank account.",
+      "The applicant must provide valid identity proof (Voter ID, Aadhaar Card, Ration Card, or Passport)."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Land ownership proof.",
+      "Shrimp farm registration certificate (or application receipt for registration).",
+      "Identity proof (Voter ID/Ration Card/Aadhaar Card/Passport).",
+      "Bank account details.",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Development of Brackish Water Aquaculture\" scheme?",
+      "answer": "The \"Development of Brackish Water Aquaculture\" scheme aims to enhance the income of brackish water fishermen by promoting modern shrimp farming techniques, improving disease control methods, increasing employment, and boosting shrimp exports."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any farmer who has his own land or Govt. land allotted by collector and engaged in shrimp farming, can apply for the scheme."
+    },
+    {
+      "question": "Can a farmer apply for the scheme if the land is on lease?",
+      "answer": "Yes, a farmer can apply if the land is on lease, provided the lease is valid for at least 10 years for new shrimp farm construction."
+    },
+    {
+      "question": "How much subsidy can an applicant receive under this scheme?",
+      "answer": "The subsidy amount varies based on the component, ranging from ₹8,000/- to ₹4,00,00,000/-, depending on the type of assistance applied for."
+    },
+    {
+      "question": "Is an applicant allowed to apply for multiple subsidies under this scheme?",
+      "answer": "Yes, an applicant can apply for multiple subsidies under different components, but each benefit has a specified time limitation for reapplication."
+    },
+    {
+      "question": "Is it mandatory for a shrimp farm to be registered with the Coastal Aquaculture Authority?",
+      "answer": "Yes, shrimp farm registration with the Coastal Aquaculture Authority is mandatory, or the applicant must provide proof of having applied for registration."
+    },
+    {
+      "question": "What is the subsidy amount for constructing a new shrimp farm?",
+      "answer": "The scheme provides a 50% subsidy on the unit cost of ₹7,00,000/- per hectare or 50% of the actual cost incurred, whichever is lower."
+    },
+    {
+      "question": "Is there any subsidy available for seaweed culture?",
+      "answer": "Yes, the scheme provides: 50% subsidy on the unit cost of ₹8,000/- per tube net or the actual cost incurred, whichever is lower. 50% subsidy on the unit cost of ₹3,000/- per raft or the actual cost incurred, whichever is lower."
+    },
+    {
+      "question": "Where can an applicant submit the application for this scheme?",
+      "answer": "The application can be submitted online through the iKhedut portal: https://ikhedut.gujarat.gov.in."
+    },
+    {
+      "question": "Does the applicant need to pay any fees to apply for the scheme?",
+      "answer": "No, there are no charges for applying to this scheme; the application process on iKhedut is free of cost."
+    }
+  ]
 }

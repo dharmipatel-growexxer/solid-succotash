@@ -3,15 +3,66 @@
   "scheme_url": "https://www.myscheme.gov.in/schemes/tls-nmdfc",
   "location_name": "",
   "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "page_title": "Term Loan Scheme of NMDFC",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "Under this scheme of NMDFC, credit is extended for financing economically viable income generation ventures. Loan of upto Rs. 20 lacs under Credit Line-1 and upto Rs. 30 lacs under Credit line -2 is extended to beneficiaries at 6% p.a. & 8% p.a. respectively. Further, concession of 2% is extended to women beneficiaries under Credit Line-2."
+    ],
+    "benefits": [
+      "Concessional Credit to the beneficiaries among minority communities."
+    ],
+    "eligibility": [
+      "a) The applicant must be Indian and belong to one of the six notified minority communities: Muslim, Christian, Sikh, Buddhist, Parsi, or Jain.",
+      "b) The annual family income should not exceed:",
+      "Rs. 3.00 lakh per annum under Credit Line–1.",
+      "Rs. 8.00 lakh per annum under Credit Line–2.",
+      "c) The applicant must be 18 years or above and capable of undertaking self-employment activity.",
+      "d) The applicant should not have any outstanding loan or default under any Central/State Government financing scheme.",
+      "e) The project proposal should be economically viable and technically feasible.",
+      "f) The applicant must have a valid Aadhaar-linked bank account, residence proof, income certificate, and minority community certificate issued by a competent authority.",
+      "g) Preference shall be given to women, youth, and occupational groups belonging to the minority communities.",
+      "h) Insurance of the borrower and assets financed is mandatory under NMDFC guidelines."
+    ],
+    "application_process": {
+      "offline": [
+        "NMDFC implements its schemes & programs through State Channelizing Agencies (SCA list: www.nmdfc.org/SCA ) nominated by the respective State Governments & Banking Partners (Presently through Canara Bank & Punjab Grameen Bank)."
+      ]
+    },
+    "documents_required": [
+      "Duly filled loan application form (as prescribed by SCA/Bank).",
+      "Recent passport-size photographs of the applicant and co-applicant (if any).",
+      "Proof of Minority Status: Self-declaration or certificate from competent authority.",
+      "Income Certificate issued by a competent authority (Tehsildar/SDM).",
+      "Residence Proof: Aadhaar card, Voter ID, Ration Card, or Utility Bill.",
+      "Identity Proof: Aadhaar card/PAN card.",
+      "Project Report or Business Plan (detailing purpose, cost, and financial viability).",
+      "Bank Account Proof: Cancelled cheque or first page of passbook (Aadhaar linked).",
+      "Quotation/Estimate of machinery, equipment, or raw materials (as applicable).",
+      "No Dues Certificate from other financial institutions (if required).",
+      "Affidavit/Self-declaration stating non-availment of loan from other government schemes.",
+      "Insurance document (if available at time of submission; otherwise post-sanction)."
+    ],
+    "sources_and_references": [
+      "NMDFC Lending Policy"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply for the NMDFC Term Loan Scheme?",
+      "answer": "The Term Loan Scheme is open to individuals belonging to one of the six notified minority communities (Muslim, Christian, Sikh, Buddhist, Parsi, and Jain). The applicant must have an annual family income of up to Rs. 3.00 lakh under Credit Line–1 and up to Rs. 8.00 lakh under Credit Line–2."
+    },
+    {
+      "question": "What is the maximum amount of loan available and what are the interest rates?",
+      "answer": "Under Credit Line–1, loans up to Rs. 20.00 lakh are available at 6% interest per annum. Under Credit Line–2, loans up to Rs. 30.00 lakh are available at 8% interest per annum for male beneficiaries and 6% for female beneficiaries."
+    },
+    {
+      "question": "What is the repayment period and moratorium for the Term Loan?",
+      "answer": "A moratorium period of six months is provided, after which the beneficiary must repay the loan within five years."
+    },
+    {
+      "question": "What kind of activities can be financed under the Term Loan Scheme?",
+      "answer": "Term loans can be availed for any viable income-generating project, including activities in agriculture & allied sectors, technical trades, small businesses, transport services, and traditional occupations."
+    }
+  ]
 }

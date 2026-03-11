@@ -1,17 +1,129 @@
 {
   "scheme_name": "National Family Benefit Scheme for BPL Families",
   "scheme_url": "https://www.myscheme.gov.in/schemes/nfbsbpl",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "National Family Benefit Scheme for BPL Families",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"National Family Benefit Scheme for BPL Families\" by the Social Justice and Empowerment Department, Government of Haryana, aims to provide financial relief of ₹20,000 to low-income families who lose their main earning member, thereby offering socio-economic stability in times of crisis. It targets families below the poverty line or categorized as destitute, whose deceased member was between the ages of 18 to 59 years and had no other source of income or government support. The financial benefit is granted to the new head of the family post-verification. The scheme excludes families with high-income children or members holding high-ranking positions or professional occupations. Application must be made within one year of the death of the breadwinner."
+    ],
+    "benefits": [
+      "Monetary Benefit:",
+      "₹20,000/- (one-time assistance)."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant's name should be registered in the BPL list or classified as destitute.",
+      "The applicant should be between 18 and 59 years of age.",
+      "The applicant should not have any other source of income.",
+      "If eligible, both husband and wife are entitled to receive the benefit individually.",
+      "The applicant should not be receiving assistance or pension under any other government scheme.",
+      "The application must be submitted within one year from the date of death of the breadwinner.",
+      "The applicant must be the head of the family or a surviving family member considered the head after investigation.",
+      "Note:",
+      "Benefit will be given to such surviving members in the family of the deceased, who after investigation, will be considered as the head of the family.",
+      "The word family means husband/wife/minor children/unmarried daughters and dependent parents.",
+      "If any woman's parents are also living in house of her daughter and son-in-law, then that too will be considered part of the family."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in"
+      ]
+    },
+    "documents_required": [
+      "Voter ID.",
+      "Ration Card.",
+      "Residence Certificate of the Deceased.",
+      "Death Certificate.",
+      "Applicant's Mobile Number.",
+      "Applicant's Photo.",
+      "Identity/Citizenship Proof: Aadhaar Card.",
+      "Saving Bank account details of the applicant with a Photocopy of the Passbook.",
+      "Family ID of the Applicant."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"National Family Benefit Scheme for BPL Families\"?",
+      "answer": "The primary objective of the \"National Family Benefit Scheme for BPL Families\" is to provide financial assistance of ₹20,000 to eligible low-income families in the state of Haryana who have lost their main earning member, thereby helping them cope with immediate financial distress caused by the death."
+    },
+    {
+      "question": "Who can apply for the \"National Family Benefit Scheme for BPL Families\"?",
+      "answer": "Any permanent resident of Haryana who is registered in the Below Poverty Line (BPL) list or identified as destitute and belongs to a family where the breadwinner has died, and no other source of income or government pension is available, can apply for the \"National Family Benefit Scheme for BPL Families.\""
+    },
+    {
+      "question": "What is the age limit to apply under the scheme?",
+      "answer": "The applicant, as well as the deceased breadwinner, must fall within the age bracket of 18 to 59 years at the time of death in order to be considered eligible for the benefit under the \"National Family Benefit Scheme for BPL Families.\""
+    },
+    {
+      "question": "What amount of financial support is provided under the scheme?",
+      "answer": "The scheme provides a one-time financial support of ₹20,000/- to the eligible surviving family member who is recognized as the head of the family following the death of the primary earning member."
+    },
+    {
+      "question": "Can both spouses receive benefits under this scheme?",
+      "answer": "Yes, under the provisions of the \"National Family Benefit Scheme for BPL Families\", both husband and wife are individually entitled to the financial assistance if they meet all the necessary eligibility conditions and have lost their respective spouse who was the main earner."
+    },
+    {
+      "question": "What is the deadline for applying under the scheme after the death of the breadwinner?",
+      "answer": "The application for the \"National Family Benefit Scheme for BPL Families\" must be submitted within one year from the date of the death of the breadwinner, beyond which the application will not be considered."
+    },
+    {
+      "question": "Who is considered the head of the family for receiving the benefit?",
+      "answer": "The benefit under the scheme is provided to the surviving family member who, after proper investigation and verification, is identified as the new head of the family, which may include the spouse, minor children, unmarried daughters, or dependent parents."
+    },
+    {
+      "question": "What defines a family under this scheme?",
+      "answer": "Under the \"National Family Benefit Scheme for BPL Families\", the family is defined to include the husband, wife, minor children, unmarried daughters, dependent parents, and in certain cases, even the parents of a woman if they are residing in her household with her and her husband."
+    },
+    {
+      "question": "Are there any exclusions specified in the scheme guidelines?",
+      "answer": "Yes, exclusions under the scheme include families where the children are Class-I or Class-II gazetted officers, professionals such as doctors, engineers, or chartered accountants, or if the deceased’s parents are income tax payees, or if any family member holds or has held public office as an MP, MLA, or chairman of a board or corporation."
+    },
+    {
+      "question": "What is the process for applying to the \"National Family Benefits Scheme for BPL Families\"?",
+      "answer": "The applicants may visit the Antyodaya-SARAL Portal to apply for the scheme."
+    },
+    {
+      "question": "What is the offline process for applying the scheme?",
+      "answer": "To apply for the \"National Family Benefits Scheme for BPL Families\", the applicant may visit the nearest Atal Seva Kendra (Common Service Centre)."
+    },
+    {
+      "question": "Is there any fee applicable for applying under this scheme through Atal Seva Kendra (Common Service Centre)?",
+      "answer": "Yes, a nominal service fee of ₹30/- is charged by the Common Service Centre for the application."
+    }
+  ]
 }

@@ -1,17 +1,81 @@
 {
   "scheme_name": "Bio Control Laboratory and Pesticides Testing Laboratory Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/bclptls",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Bio Control Laboratory and Pesticides Testing Laboratory Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Bio Control Laboratory and Pesticides Testing Laboratory Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is the production of Bio Control Agents such as Trichoderma, Trichogramma, etc., and further distribution to farmers as awareness and demonstration for organic Plant Health Management in order to promote organic crop production."
+    ],
+    "benefits": [
+      "Pattern of Assistance:",
+      "Distributions of bio agents to farmers.",
+      "Type of Assistance and Entitlement (If any):",
+      "Free distribution to popularise the method."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Meghalaya.",
+      "The applicant should be a bonafide farmer engaged in agriculture."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 01:",
+        "The eligible bonafide farmer can apply/write an application on plain paper.",
+        "Step 02:",
+        "Along with the application, attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 03:",
+        "Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/ Agriculture Circle.",
+        "Mode of Selection of Beneficiary(s):",
+        "The bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis.",
+        "Whom to Contact:",
+        "District Agriculture Officers of the concerned districts.",
+        "Sub-Divisional Agricultural Officers of the concerned sub-divisions.",
+        "District Training Officers, Tura/Shillong.",
+        "Agricultural Development Officers of the concerned Community and Rural Development Blocks."
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph",
+      "Identity Proof",
+      "Documents proof of having sufficient available cultivable land",
+      "Any other document as required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "FAQs"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The key objective is the production of Bio Control Agents such as Trichoderma, Trichogramma, etc. and further distribution to farmers as awareness and demonstration for organic Plant Health Management in order to promote organic crop production."
+    },
+    {
+      "question": "Which department has launched this scheme?",
+      "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya"
+    },
+    {
+      "question": "What is the type of assistance/entitlement?",
+      "answer": "Free distribution of Bio Control Agents produced in the laboratory for popularizing their use in plant health management among farmers."
+    },
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "The bonafide farmers having cultivable land and engage in agriculture can apply under the scheme."
+    },
+    {
+      "question": "How to apply for the benefits of the scheme?",
+      "answer": "Bona fide farmers can apply in plain paper to the District Agriculture Officer of the concerned Districts through the Agriculture Development officer of C & RD Block/ Agriculture Circle/Sub-Divisional Agricultural Officers of the concerned Sub-Divisions."
+    },
+    {
+      "question": "What is the beneficiaries’ selection procedure?",
+      "answer": "Beneficiaries are selected based on first come first serve basis subject to availability of materials."
+    },
+    {
+      "question": "Whom to contact?",
+      "answer": "1. District Agriculture Officers of the concerned districts. 2. Sub-Divisional Agricultural Officers of the concerned sub-divisions. 3. District Training Officers, Tura/Shillong. 4. Agricultural Development Officers of the concerned Community and Rural Development Blocks."
+    }
+  ]
 }

@@ -1,17 +1,70 @@
 {
   "scheme_name": "Animal Husbandry: Assistance to Small and Marginal Farmers",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ahsmfuk",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Animal Husbandry: Assistance to Small and Marginal Farmers",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Animal Husbandry: Assistance to Small and Marginal Farmers” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to small and marginal farmers for the replacement of productive livestock lost due to notified natural disasters such as floods, landslides, or other calamities."
+    ],
+    "benefits": [
+      "Replacement of Milk, Agricultural, and Transport Animals:",
+      "Milch animals:",
+      "₹37,500/- per animal (Buffalo/Cow/Camel/Yak/Mithun) will be payable.",
+      "₹4,000/- per animal (Sheep/Goat/Pig) will be payable.",
+      "Agricultural and Haulage Animals:",
+      "₹32,000/- per animal (Camel/Horse/Bullock) will be payable.",
+      "₹20,000/- per animal (Calf/Donkey/Pony/Mule) will be payable.",
+      "Poultry Farming:",
+      "₹100/- per bird, up to a limit of ₹10,000/- per beneficiary family. The death of birds must be due to a notified natural disaster to be eligible for assistance."
+    ],
+    "eligibility": [
+      "The applicant must be a Small or Marginal Farmer from Uttarakhand who has lost their milk, agricultural, or haulage animals due to a notified natural disaster."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level.",
+        "This assistance shall be limited to the actual loss of productive animals. However, irrespective of the extent of loss, assistance to a single family will be restricted to a maximum of 3 large milch animals, 30 small milch animals, or 3 large agricultural and draught animals (The loss or damage must be verified by a competent authority designated by the State Government)."
+      ]
+    },
+    "documents_required": [
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 306)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "The applicant must be a Small or Marginal Farmer from Uttarakhand who has lost milk, agricultural, or haulage animals due to a notified natural disaster."
+    },
+    {
+      "question": "What financial assistance is provided for milk animals?",
+      "answer": "An assistance amount of ₹37,500/- per animal is provided for Buffalo, Cow, Camel, Yak, or Mithun."
+    },
+    {
+      "question": "What is the amount of assistance for small livestock?",
+      "answer": "For Sheep, Goat, or Pig, financial assistance of ₹4,000/- per animal is provided."
+    },
+    {
+      "question": "Is assistance available for poultry losses?",
+      "answer": "Yes. Poultry farmers receive ₹100 per bird, subject to a maximum of ₹10,000 per beneficiary family, provided the birds died due to a notified natural disaster."
+    },
+    {
+      "question": "What is the maximum limit of assistance per family?",
+      "answer": "Assistance is limited to the actual loss but capped at: Three large milch animals, or Thirty small milch animals, or Three large agricultural and draught animals per family. Three large milch animals, or Thirty small milch animals, or Three large agricultural and draught animals per family."
+    },
+    {
+      "question": "How is the loss of animals verified?",
+      "answer": "The loss is verified by a competent authority designated by the State Government, starting with the Patwari, and then confirmed by the Tehsildar, Sub-Divisional Magistrate (SDM), and finally approved by the District Magistrate (DM)."
+    },
+    {
+      "question": "How is information about the disaster and damage collected?",
+      "answer": "Information is gathered from various official and field sources. The Patwari conducts a field inspection, records details in the P-20 form, and submits it for verification at higher administrative levels."
+    }
+  ]
 }

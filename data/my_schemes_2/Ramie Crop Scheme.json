@@ -1,17 +1,84 @@
 {
   "scheme_name": "Ramie Crop Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/rcs",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Ramie Crop Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Ramie Crop Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to encourage the cultivation of perennial and remunerative textile crops such as Ramie in suitable areas by providing necessary inputs and training."
+    ],
+    "benefits": [
+      "Pattern of Assistance:",
+      "To provide planting materials, degumming, and decorticating machines to the farmers.",
+      "Type of Assistance And Entitlement (If any):",
+      "Quality planting materials, organic manure, bio-pesticides at subsidised rate and farmers' training."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Meghalaya.",
+      "The applicant should be a bonafide farmer engaged in agriculture."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 01:",
+        "The eligible bonafide farmer can apply/write an application on plain paper.",
+        "Step 02:",
+        "Along with the application, attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 03:",
+        "Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle.",
+        "Mode of Selection of Beneficiary(s):",
+        "The bonafide farmers having sufficient available cultivable land on a first come first served basis.",
+        "Whom to Contact:",
+        "District Agriculture Officers of the concerned districts.",
+        "Sub-Divisional Agricultural Officers of the concerned sub-divisions.",
+        "District Training Officers, Tura/Shillong.",
+        "Agricultural Development Officers of the concerned Community and Rural Development Blocks."
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph",
+      "Identity Proof",
+      "Documents proof of having sufficient available cultivable land",
+      "Any other document as required"
+    ],
+    "sources_and_references": [
+      "Official Website"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The objective of the scheme is to encourage cultivation of perennial and remunerative textile crop such as Ramie in suitable areas by providing necessary inputs and training."
+    },
+    {
+      "question": "Which department has launched this scheme?",
+      "answer": "Department Of Agriculture & Farmers’ Welfare, Government of Meghalaya"
+    },
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "The bonafide farmers of Meghalaya who are engaged in agriculture can avail the benefits under the scheme."
+    },
+    {
+      "question": "What is the pattern of assistance?",
+      "answer": "To provide planting materials, degumming and decorticating machines to the farmers."
+    },
+    {
+      "question": "What is the type of assistance/service?",
+      "answer": "Quality planting materials, organic manure, bio-pesticides at subsidised rate and farmers training."
+    },
+    {
+      "question": "How to apply for the scheme?",
+      "answer": "The bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/ Agriculture Circle."
+    },
+    {
+      "question": "What is the beneficiaries’ selection procedure?",
+      "answer": "The bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis."
+    },
+    {
+      "question": "Whom to contact?",
+      "answer": "1. District Agriculture Officers of the concerned districts. 2. Sub-Divisional Agricultural Officers of the concerned sub-divisions. 3. District Training Officers, Tura/Shillong. 4. Agricultural Development Officers of the concerned Community and Rural Development Blocks."
+    }
+  ]
 }

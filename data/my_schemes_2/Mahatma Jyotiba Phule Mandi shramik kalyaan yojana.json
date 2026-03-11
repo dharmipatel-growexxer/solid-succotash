@@ -1,17 +1,131 @@
 {
   "scheme_name": "Mahatma Jyotiba Phule Mandi shramik kalyaan yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mjpmsky",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Mahatma Jyotiba Phule Mandi shramik kalyaan yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The Agriculture Department of the Rajasthan Government is pleased to announce the Mahatma Jyotiba Phule Mandi Shramik Kalyan Yojana. This program is designed to enhance the lives of mandi workers within the state. The Yojana offers a comprehensive suite of benefits, including healthcare services with a focus on medical insurance coverage. Furthermore, the program extends financial assistance to aid mandi workers with matrimonial endeavors. In the event of a medical condition, the Yojana can facilitate access to appropriate treatment facilities, ensuring workers receive the necessary care."
+    ],
+    "benefits": [
+      "Obstetric Support:",
+      "For a maximum of two deliveries, the female license holder Hammal and Palledar are entitled to be paid assistance equivalent to 45 days' wages as per the prevailing wage rate determined by the state government as an unskilled labourer.",
+      "As paternity leave, an amount equivalent to 15 days wages is payable to the Hammal/Tulara/Palledar father of the child as per the prevailing wage rate determined by the State Government as an unskilled laborer.",
+      "Help for marriage:",
+      "To the extent of the marriage of a licensed woman and two daughters of a licensed woman, ₹ 50,000/-per marriage assistance is payable.",
+      "Application has to be submitted in the format prescribed by the concerned licensee 90 days before the marriage.",
+      "Scholarship / Meritorious Student Award Scheme",
+      "Every student who gets first-division marks and whose guardian is a licensed Hammal or Palledar in Mandi is given a merit scholarship at the following rate:-",
+      "Class",
+      "Male Student",
+      "Female Student",
+      "Higher grades (70% to 80%) in the 10th",
+      "₹3,000/- to ₹2,000/-",
+      "₹3,500/-to ₹2,500/-",
+      "lump sum per student",
+      "Higher scores in the 12th Between 80% to 90% between 70% to 80%",
+      "₹5,000/-,₹4,000/-,₹3,000/-",
+      "₹6,000/-,₹5,000/-,₹4,000/-",
+      "More than 60% marks in graduation",
+      "₹4,000/-",
+      "₹5,000/-",
+      "More than 60% marks in post-graduation",
+      "₹3,000/-",
+      "This award is payable as soon as possible within three months of establishing eligibility.",
+      "Medical Aid:-",
+      "Reimbursement of medical expenditures up to a maximum of ₹20,000/-is permitted if a licensed Hammaal or Pulladar becomes gravely ill (due to cancer, heart attack, liver, kidney, etc.) and is admitted to a government hospital or health center."
+    ],
+    "eligibility": [
+      "The applicant should be Farmers/agricultural laborers of the Rajasthan.",
+      "The applicant workers hold licenses from the market committee."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step-1:",
+        "Applicant have to visit the",
+        "official portal",
+        ".",
+        "Step-2:",
+        "Click on the option “",
+        "Register",
+        "”.",
+        "Step-3:",
+        "Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step-4:",
+        "Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,",
+        "Select your name, the name of the head of the family and all the other members and",
+        "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and",
+        "Click on the ‘Verify OTP’ button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the ‘Next’ button,",
+        "Enter the password.",
+        "A new link appear on screen, now click on new SSO link.",
+        "SSO id will appear on screen, now create the password.",
+        "Enter Mobile number, click on registration.",
+        "Step-5:",
+        "Complete the registration process.",
+        "Apply",
+        "After login,"
+      ]
+    },
+    "documents_required": [
+      "Aadhar Card / Janadhar Card.",
+      "Mark sheet.",
+      "Age proof.",
+      "Medical certificate.",
+      "Bank account.",
+      "Photos."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Registration",
+      "Login"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Mahatma Jyotiba Phule Mandi Shramik Kalyaan Yojana?",
+      "answer": "The Mahatma Jyotiba Phule Mandi Shramik Kalyaan Yojana is a welfare scheme aimed at improving the lives of laborers working in agricultural produce markets (mandis)."
+    },
+    {
+      "question": "May Other State persons also apply for this scheme?",
+      "answer": "No, this scheme is only for Rajasthan."
+    },
+    {
+      "question": "What is Janadhar card?",
+      "answer": "Jan Aadhaar is \"one number, one card, one identity\" scheme, Its main objective is to prepare a. database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members."
+    },
+    {
+      "question": "How do a applicant know if a field in the application form is mandatory?",
+      "answer": "A distinctive sign (“*” symbol, “mandatory” mention, etc.)"
+    },
+    {
+      "question": "How can i apply online?",
+      "answer": "One can apply by visiting the e-Mitra center. https://sso.rajasthan.gov.in/signin"
+    },
+    {
+      "question": "Are there specific eligibility criteria for beneficiaries?",
+      "answer": "Yes, eligibility criteria may include holding a valid mandi license or being a registered mandi laborer."
+    },
+    {
+      "question": "Who is the target audience of this scheme?",
+      "answer": "The scheme targets laborers working in mandis."
+    },
+    {
+      "question": "How many times can this scheme be availed?",
+      "answer": "Only ones."
+    },
+    {
+      "question": "What benefits do female license holders and their daughters receive?",
+      "answer": "They receive financial assistance of Rs. 50,000 per marriage, upon application submission 90 days before the wedding."
+    },
+    {
+      "question": "Can i apply offline?",
+      "answer": "According to the guidelines you can apply online only."
+    }
+  ]
 }

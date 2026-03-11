@@ -1,17 +1,137 @@
 {
   "scheme_name": "Pandit Deen Dayal Upadhyay Samoohik Pashudhan Beema Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pdduspby",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Pandit Deen Dayal Upadhyay Samoohik Pashudhan Beema Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Pandit Deen Dayal Upadhyay Samoohik Pashudhan Beema Yojana\" by the Haryana Livestock Development Board, Department of Animal Husbandry and Dairying, Government of Haryana, aims to provide socio-economic security to livestock farmers in the state by covering livestock under an insurance scheme. Financial protection against the risk of loss due to animal death is extended to livestock owners, including Scheduled Caste (SC) and Below Poverty Line (BPL) beneficiaries, with subsidised premium rates."
+    ],
+    "benefits": [
+      "Financial Protection",
+      "Coverage for livestock loss due to death, providing financial security to farmers.",
+      "Sum insured is determined based on the market value of livestock and milk yield.",
+      "Maximum coverage is up to five large animals or equivalent small animals per household.",
+      "Subsidized Premiums",
+      "APL beneficiaries pay ₹100/200/300 per large animal per year based on milk yield or ₹25/- per small animal.",
+      "BPL beneficiaries receive additional subsidies, and SC beneficiaries have their entire premium covered by the state and central government.",
+      "Mode and Frequency of Disbursement",
+      "Claims are settled through direct bank transfers to beneficiaries.",
+      "Accidental death claims are covered immediately; non-accidental death claims are covered after a 21-day waiting period.",
+      "Expected Time of Disbursement",
+      "Insurance companies are required to settle claims within 15 days of document submission. Delays incur a penalty of 12% compound interest per annum."
+    ],
+    "eligibility": [
+      "The applicant should be a livestock owner.",
+      "The applicant should be above 18 years of age.",
+      "The applicant should possess a Parivar Pehchan Patra (PPP), issued by the state of Haryana.",
+      "Preference and Relaxations",
+      "Applicants from Scheduled Caste and Below Poverty Line categories will be given priority.",
+      "Scheduled Caste beneficiaries are exempt from paying premiums; the state and central governments fully subsidize their insurance."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal.",
+        "https://saralharyana.gov.in/",
+        "Step 2:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 3:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 04:",
+        "Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Application",
+        "To avail the benefits of the scheme, visit the Official",
+        "Antyodaya-SARAL Portal",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’",
+        "Step 4:",
+        "Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.",
+        "Step 5:",
+        "Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 6:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 7:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 8:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track his/her application through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "Parivar Pehchan Patra (PPP).",
+      "Health certificate issued by a registered veterinary practitioner.",
+      "Photographs of the animal with a visible ear tag.",
+      "Beneficiary’s share of the premium (if applicable).",
+      "Scheduled Caste Certificate (for SC beneficiaries).",
+      "Below Poverty Line Certificate (for BPL beneficiaries).",
+      "Claim Settlement Documents:",
+      "FIR with the insurance company and a duly filled claim form.",
+      "Insurance policy document.",
+      "Post-mortem report issued by a veterinary surgeon.",
+      "Intact ear tag and updated bank account details of the beneficiary."
+    ],
+    "sources_and_references": [
+      "Guideline",
+      "User Manual"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "How much financial assistance can I get under the Pandit Deen Dayal Upadhyay Samoohik Pashudhan Beema Yojana for insuring my dairy animals?",
+      "answer": "For large animals (cows/buffaloes), you need to pay only ₹100-300 per year based on milk yield. For small animals like goats/sheep, the premium is ₹ 25 per animal per year. SC beneficiaries get 100% free insurance coverage."
+    },
+    {
+      "question": "I have 8 milch animals in my household. Can I get insurance coverage for all of them under this scheme?",
+      "answer": "The scheme allows insurance coverage for up to 5 cattle units per household/family. You can insure additional animals beyond 5 by paying the full premium without subsidy benefits."
+    },
+    {
+      "question": "What is the process for filing a claim if my insured animal dies? What documents do I need to submit?",
+      "answer": "File FIR within 24 hours of death and inform on toll-free number 1800-419-1415. Submit claim form, insurance policy, post-mortem report, and intact ear tag along with updated bank account details. The surveyor must visit within 4 hours of claim intimation."
+    },
+    {
+      "question": "I'm from a Scheduled Caste family. Do I need to pay any premium amount to get my livestock insured under this scheme?",
+      "answer": "No, SC beneficiaries get 100% free insurance coverage with no premium payment required. The premium cost is shared between Central Government (40%) and State Government SCSP (60%)."
+    },
+    {
+      "question": "What is the maximum insurance value I can get for my Sahiwal cow that gives 16 liters of milk per day?",
+      "answer": "For Sahiwal cows giving above 15 liters milk per day, the maximum sum assured is ₹ 90,000. The final valuation is done by a committee consisting of the owner, insurer, and veterinary surgeon."
+    },
+    {
+      "question": "If I sell my insured animal to someone else, what happens to the insurance coverage?",
+      "answer": "The insurance can be transferred to the new owner by submitting a request to New India Assurance Company with a transfer fee of ₹ 50, along with certification from the area veterinarian."
+    },
+    {
+      "question": "How long do I have to wait after getting insurance before I can file a claim if my animal dies?",
+      "answer": "There is a 21-day waiting period for non-accidental deaths. However, claims for accidental deaths are covered from day one of the policy, provided police intimation is done."
+    },
+    {
+      "question": "What happens if the insurance company delays settling my claim beyond 15 days after document submission?",
+      "answer": "The company becomes liable to pay a penalty of 12% compound interest per annum to the beneficiary for delays beyond 15 days after complete document submission."
+    },
+    {
+      "question": "I don't have a Parivar Pehchan Patra yet. Can I still apply for livestock insurance under this scheme?",
+      "answer": "No, having a Parivar Pehchan Patra is mandatory for all beneficiaries. It's one of the essential documents required along with health certificate and category certificates (for SC/BPL)."
+    },
+    {
+      "question": "If my animal dies during post-mortem examination, will I still get the insurance claim?",
+      "answer": "The document doesn't specifically address this scenario. However, since post-mortem is a mandatory part of the claim process conducted by authorized veterinarians, such cases should be eligible for claims."
+    },
+    {
+      "question": "What is the role of the veterinary surgeon in the insurance process, and do I need to pay them separately?",
+      "answer": "Veterinarians issue health certificates (₹ 50 honorarium) and conduct post-mortems (₹ 125 honorarium). These charges are covered under the scheme's central funding and beneficiaries don't pay extra."
+    },
+    {
+      "question": "If my Jan Dhan account is to receive a claim amount above ₹ 50,000, what should I do?",
+      "answer": "You need to convert your Jan Dhan account to a general savings account before submitting the claim documents to ensure smooth processing of the claim amount."
+    }
+  ]
 }

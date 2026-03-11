@@ -1,17 +1,128 @@
 {
   "scheme_name": "Pashudhan Mitra Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pmsch",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "Pashudhan Mitra Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "Launched on 20th June 2013, the scheme \"Pashudhan Mitra Scheme\" is a livelihood and service-based scheme by the Animal Husbandry Department, Government of Chhattisgarh. The scheme aims to expand veterinary and animal breeding facilities while ensuring efficient service delivery and a strengthened information system through Gausevaks and private artificial insemination workers. It also provides an incentive honorarium to Pashudhan Mitras (working cow-helpers and private artificial insemination workers) to support their livelihood and sustain their interest in the work."
+    ],
+    "benefits": [
+      "Castration Work:",
+      "₹20/- per calf (cow/buffalo) brought to the institution.",
+      "Participation in Medical Camps & Exhibitions:",
+      "₹400/- per event for assisting in medical camps, cattle fairs, and exhibitions under official supervision.",
+      "Vaccination Work (Per Animal):",
+      "Bovine/Pig: ₹7/-",
+      "Goat/Sheep/Dog: ₹5/-",
+      "Poultry: ₹1/-",
+      "Integrated Sample Survey Work:",
+      "₹1,500/- per village per season (four-month work period)."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Chhattisgarh.",
+      "The applicant should have experience in animal husbandry or artificial insemination.",
+      "The applicant should be physically fit for fieldwork.",
+      "The applicant should possess basic knowledge of vaccination and castration procedures."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit their nearest Veterinary Hospital and request a hard copy of the prescribed format of the application form from the staff.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the hospital staff.",
+        "Step 4:",
+        "Request a receipt or acknowledgement. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "Post-Application Processes",
+        "Verification & Recommendation",
+        "The Veterinary Hospital Charge will examine the application and forward it to the Joint/Deputy Director with a recommendation for registration.",
+        "Approval & Certificate Issuance",
+        "A committee under the Joint/Deputy Director will verify applications, finalize registration, and issue a registration certificate with a unique district-specific registration number.",
+        "Work Assignment & Reporting",
+        "The registered Pashudhan Mitra will be assigned a working area and attached to the nearest Veterinary Hospital for reporting and submitting monthly progress reports.",
+        "Honorarium Payment",
+        "Work verification will be conducted by the Veterinary Field Officer, and after approval, the honorarium payment will be processed through the Joint/Deputy Director’s office to the registered bank account."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Domicile Certificate",
+      "Caste Certificate",
+      "Bank Account Details",
+      "Any other required documents"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "How frequently are honorarium payments processed for registered applicants?",
+      "answer": "Payments are processed after work verification, but the exact frequency depends on reporting and approval timelines."
+    },
+    {
+      "question": "Are there any educational qualifications required for applicants under this scheme?",
+      "answer": "No formal education is specified, but basic knowledge of vaccination and castration is necessary."
+    },
+    {
+      "question": "Is there any age restriction for applicants under this scheme?",
+      "answer": "No specific age limit is mentioned, but physical fitness for fieldwork is required."
+    },
+    {
+      "question": "Can applicants from urban areas of Chhattisgarh apply for this scheme?",
+      "answer": "Yes, as long as they meet all eligibility criteria, including residency and relevant experience."
+    },
+    {
+      "question": "Does the scheme provide any training for applicants lacking experience in artificial insemination?",
+      "answer": "No, prior experience in artificial insemination or animal husbandry is mandatory for eligibility."
+    },
+    {
+      "question": "What is the purpose of providing incentives to applicants under this scheme?",
+      "answer": "The incentives aim to support livelihoods and sustain interest in veterinary and animal breeding services."
+    },
+    {
+      "question": "How is the honorarium payment processed for registered applicants?",
+      "answer": "Payments are processed through the Joint/Deputy Director’s office and credited to the applicant’s registered bank account."
+    },
+    {
+      "question": "Who verifies the work done by registered applicants before honorarium payment?",
+      "answer": "The Veterinary Field Officer verifies the work before approval for honorarium payment."
+    },
+    {
+      "question": "What is the process for submitting monthly progress reports under this scheme?",
+      "answer": "Applicants must submit monthly progress reports to the Veterinary Hospital they are attached to."
+    },
+    {
+      "question": "Which authority is responsible for finalizing registration and issuing certificates?",
+      "answer": "A committee under the Joint/Deputy Director verifies applications and issues registration certificates with a unique district-specific number."
+    },
+    {
+      "question": "Who examines the application form before forwarding it for further processing?",
+      "answer": "The Veterinary Hospital Charge verifies the application and recommends registration to the Joint/Deputy Director."
+    },
+    {
+      "question": "Where should interested applicants go to obtain the application form for this scheme?",
+      "answer": "Applicants must visit the nearest Veterinary Hospital to request a hard copy of the prescribed application form."
+    },
+    {
+      "question": "What is the payment for conducting an integrated sample survey in a village per season?",
+      "answer": "Applicants receive ₹1,500/- per village for conducting a four-month integrated sample survey."
+    },
+    {
+      "question": "How much is the payment per poultry bird vaccinated under this scheme?",
+      "answer": "Applicants receive ₹1/- for each poultry bird vaccinated as part of the scheme."
+    },
+    {
+      "question": "What is the payment per goat, sheep, or dog vaccinated under this scheme?",
+      "answer": "The incentive for vaccinating each goat, sheep, or dog is ₹5/-."
+    },
+    {
+      "question": "How much is the payment per bovine or pig vaccinated under this scheme?",
+      "answer": "For each bovine or pig vaccinated, the applicant is entitled to ₹7/- as an incentive."
+    }
+  ]
 }

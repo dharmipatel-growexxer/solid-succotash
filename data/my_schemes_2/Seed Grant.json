@@ -1,17 +1,53 @@
 {
   "scheme_name": "Seed Grant",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sdu",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Seed Grant",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Seed Grant” scheme is implemented by Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, under the Department of Agriculture, Government of Uttarakhand. The scheme aims to support farmers by providing seeds at a 15% subsidy during Kisan Melas through direct distribution to them."
+    ],
+    "benefits": [
+      "Farmers are provided seeds at a subsidy of up to 15% during Kisan Melas."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer."
+    ],
+    "application_process": {
+      "offline": [
+        "All farmers are provided seeds during Kisan Melas on the basis of availability."
+      ]
+    },
+    "documents_required": [
+      "1. Identity card",
+      "2. Other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 187)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "All farmers are eligible to receive seeds under the scheme."
+    },
+    {
+      "question": "How are the seeds distributed?",
+      "answer": "Seeds are distributed directly to farmers during Kisan Melas."
+    },
+    {
+      "question": "What is the subsidy offered under this scheme?",
+      "answer": "Seeds are provided at a subsidy of up to 15%."
+    },
+    {
+      "question": "When are the seeds provided?",
+      "answer": "Seeds are provided during Kisan Melas organized by the authorities."
+    },
+    {
+      "question": "Is there a limit on the quantity of seeds a farmer can receive?",
+      "answer": "Distribution is based on availability."
+    }
+  ]
 }

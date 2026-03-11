@@ -1,17 +1,95 @@
 {
   "scheme_name": "COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka & District Co-op. Purchase Sale Union",
   "scheme_url": "https://www.myscheme.gov.in/schemes/cssptdcp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka & District Co-op. Purchase Sale Union",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka & District Co-op. Purchase Sale Union\" by the Department of Agriculture, Farmers Welfare and Co-operation, Government of Gujarat, aims to strengthen the financial base of cooperative buying and selling unions in talukas and districts by providing 50% capital assistance with a maximum limit of ₹20,00,000/- for a wide range of agricultural projects. These projects include procurement of inputs like fertilizers and seeds, as well as infrastructure and service improvements such as processing, grading, cleaning, washing, shorting, packaging, branding, storage, and marketing of agricultural produce. By empowering these cooperative institutions, the scheme seeks to ensure better quality services and economic benefits for farmers and primary agricultural credit societies."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Provides a 50% capital subsidy to cooperative unions, with a maximum limit of ₹20,00,000/-.",
+      "Improved Services for Farmers:",
+      "Enables unions to offer better and more diverse services to farmers, such as providing quality agricultural inputs, procuring produce at support prices, and offering modern processing and storage facilities.",
+      "Enhanced Infrastructure:",
+      "Supports the development of infrastructure like storage godowns, processing units, and marketing channels, which benefits the entire agricultural supply chain.",
+      "Increased Market Access:",
+      "Helps unions establish better marketing and branding of agricultural produce, potentially leading to better prices for farmers' products."
+    ],
+    "eligibility": [
+      "Taluka or District Cooperative Purchase and Sale Associations are eligible under this scheme.",
+      "Taluka and District Purchase and Sale Associations should have their own land."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The Taluka or District Cooperative Purchase and Sale Union must prepare a proposal for the intended project.",
+        "Step 2:",
+        "The proposal is to be submitted to the Registrar of Co-operative Societies, Gujarat State, Gandhinagar, through the Deputy Director and District Registrar Co-operative Societies of the respective district.",
+        "Step 3:",
+        "Upon approval from the Department of Agriculture, Farmers Welfare and Co-operation, the subsidy amount will be disbursed to the union via the District Registrar's office.",
+        "Step 4:",
+        "The assistance will be released in installments based on the level of work completed as per verified reports."
+      ]
+    },
+    "documents_required": [
+      "Project Proposal Document.",
+      "Land Ownership Proof.",
+      "Identity Proof of Union Office Bearers.",
+      "Registration Certificate of the Cooperative Union.",
+      "Utilization Certificate (post-completion for fund release).",
+      "Progress Report (for phased disbursement).",
+      "Bank Account Details of the Union.",
+      "Approval Letter from District Registrar (for forwarding the proposal).",
+      "Any Other Document as Prescribed by the Concerned Authority."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main objective of the \"COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka & District Co-op. Purchase Sale Union\"?",
+      "answer": "The main objective of the \"COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka & District Co-op. Purchase Sale Union\" is to financially strengthen Taluka and District-level cooperative purchase and sale unions by offering capital subsidies to develop infrastructure and services that support agricultural procurement, processing, storage, and marketing, thereby enabling better quality services and financial benefits for farmers."
+    },
+    {
+      "question": "Who is eligible to apply for assistance under the \"COP-37 (General Area) 50% Capital Subsidy Scheme\"?",
+      "answer": "Taluka and District Co-operative Purchase and Sale Unions located within the state of Gujarat that possess ownership of the land intended for project development are eligible to apply for financial assistance under the Scheme."
+    },
+    {
+      "question": "What percentage of the project cost is covered under the subsidy?",
+      "answer": "Under the scheme, 50% of the total cost of an eligible project is covered as capital subsidy, subject to a maximum limit of ₹20,00,000."
+    },
+    {
+      "question": "Is there a cap on the maximum financial assistance that can be availed under the scheme?",
+      "answer": "Yes, the maximum financial assistance that can be availed under the \"COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka & District Co-op. Purchase Sale Union\" is ₹20,00,000 per project, even if the total project cost exceeds this amount."
+    },
+    {
+      "question": "What kinds of projects qualify for financial assistance under this scheme?",
+      "answer": "Projects related to agricultural procurement, processing, grading, cleaning, washing, shorting, packaging, branding, storage godowns, and marketing infrastructure are considered eligible for financial assistance."
+    },
+    {
+      "question": "Is the subsidy provided in one lump sum or in phases?",
+      "answer": "The financial assistance is not disbursed in a single lump sum but is released in phases based on the completion of work and verification by the concerned authorities."
+    },
+    {
+      "question": "Which authority is responsible for implementing and monitoring this scheme?",
+      "answer": "The scheme is implemented and monitored by the Registrar of Co-operative Societies, Gujarat State, Gandhinagar, in coordination with the Deputy Directors and District Registrars of Co-operative Societies of the respective districts."
+    },
+    {
+      "question": "Is land ownership a mandatory condition for eligibility under the scheme?",
+      "answer": "Yes, it is mandatory for the applicant cooperative union to own the land on which the project is proposed in order to be eligible for financial assistance."
+    },
+    {
+      "question": "How can an eligible cooperative union apply under the scheme?",
+      "answer": "The eligible union must prepare a detailed project proposal and submit it through the District Registrar and Deputy Director of Co-operative Societies to the Registrar of Co-operative Societies, who forwards the proposal to the Department of Agriculture, Farmers Welfare and Co-operation for final approval."
+    },
+    {
+      "question": "Where can applicants get more information or assistance related to the scheme?",
+      "answer": "Applicants can contact their respective District Registrar Co-operative Societies or approach the Registrar of Co-operative Societies, Gujarat State, Gandhinagar, for more information, guidance, and clarification regarding the application process and documentation."
+    }
+  ]
 }

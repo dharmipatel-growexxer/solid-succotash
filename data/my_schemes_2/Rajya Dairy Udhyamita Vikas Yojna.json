@@ -1,17 +1,119 @@
 {
   "scheme_name": "Rajya Dairy Udhyamita Vikas Yojna",
   "scheme_url": "https://www.myscheme.gov.in/schemes/rduvy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "Rajya Dairy Udhyamita Vikas Yojna",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "the scheme \"Male Pig Distribution Scheme\" is an Animal Husbandry scheme by the Animal Husbandry Department, Government of Chhattisgarh, aims to promote dairy entrepreneurship among youth. With the increasing demand for milk and dairy products, the scheme supports high-breed cow/buffalo rearing as a profitable business.",
+      "Objectives:",
+      "Encourage self-employment in the dairy sector.",
+      "Boost dairy farming as an additional income source.",
+      "Increase milk production and improve nutrition.",
+      "Support the expansion of existing dairy units."
+    ],
+    "benefits": [
+      "Dairy Unit Grant Details",
+      "1. Financial Assistance for Dairy Units",
+      "Eligible Animals:",
+      "Indian dairy breeds (Sahiwal, Red Sindhi, Gir, Tharparkar, etc.), advanced crossbreed cows, and high-breed buffaloes.",
+      "Maximum Limit:",
+      "Financial support for up to two milch animals.",
+      "Total Finance Cost:",
+      "₹1,40,000/- (₹70,000/- per animal, including three years of insurance).",
+      "2. Subsidy Details",
+      "For General Category Beneficiaries:",
+      "50% subsidy on the actual cost, up to ₹70,000/- per unit.",
+      "For SC/ST Beneficiaries: 66.6% subsidy, up to ₹93,200/- per unit.",
+      "Note:",
+      "Unit cost per animal is based on the Government of India’s guidelines (Letter No. F 1-1/2009-DP, dated 02 May 2018)."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Chhattisgarh for at least five years.",
+      "The applicant should be purchase a maximum of two milch animals under the scheme.",
+      "The applicant should be entitled to 50% subsidy (up to ₹70,000/-) for general category and 66.6% subsidy (up to ₹93,200/-) for SC/ST category.",
+      "The applicant should be responsible for any additional costs beyond the scheme’s provisions, with no subsidy provided for the excess amount.",
+      "The applicant should ensure that the purchased animal is in milk production, not older than five years, and capable of producing at least 10 liters of milk per day at the time of purchase.",
+      "The applicant should have the animal insured for a minimum period of three years (total five years recommended) at the time of unit setup.",
+      "The applicant should be a landless, small or marginal farmer, BPL family member, milk co-operative society member, village resident on a milk collection route, Garva Yojana beneficiary, women SHG member, or an existing dairy farmer, as they will receive priority.",
+      "The applicant should be the only eligible beneficiary from a joint family.",
+      "The applicant should not own at least two high-breed dairy animals at the time of applying for the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration of Application:",
+        "Applications will be registered at the development block-level institution (Veterinary Hospital / Artificial Insemination Centre / Main Village Block).",
+        "The prescribed register will record Date, Financial Year, Institution Name, and Registration Date.",
+        "Submission of Application:",
+        "Applications must be submitted in the prescribed form at the nearest veterinary institution, such as a veterinary dispensary, artificial insemination sub-centre, main village unit, veterinary hospital, or artificial insemination centre within the development block.",
+        "Verification and Forwarding:",
+        "After registration at the block level, applications will be sent to the departmental district office for verification.",
+        "Bank-linked applications will be verified and forwarded to banks, with details maintained in official records."
+      ]
+    },
+    "documents_required": [
+      "Identity Card",
+      "Chhattisgarh Domicile Certificate",
+      "Caste Certificate",
+      "Address Verification Document",
+      "Details of the unit establishment location",
+      "Project Report",
+      "Proof of funds in case of self-financing",
+      "Insurance Documents",
+      "Bank Account Details",
+      "Vaccination Certificate for the purchased livestock.",
+      "Address & Identity Proof of the applicant.",
+      "Existing dairy farmers must provide photographs of dairy animals and dairy units.",
+      "Contract Form signed by the beneficiary & two witnesses (commitment to operate the unit for at least 5 years)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Amendment",
+      "Application Form"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Male Pig Distribution Scheme?",
+      "answer": "The scheme provides financial assistance to Scheduled Caste (SC) and Scheduled Tribe (ST) beneficiaries in Chhattisgarh to purchase a male pig of the Middle White Yorkshire breed for breeding purposes."
+    },
+    {
+      "question": "What financial assistance is provided under this scheme?",
+      "answer": "The scheme provides a 90% subsidy on the purchase price of the pig, up to a maximum amount of ₹3,500/- per beneficiary. The remaining cost must be borne by the beneficiary."
+    },
+    {
+      "question": "What is the age requirement for the pig to be purchased under the scheme?",
+      "answer": "The male pig should be between 6 months to 1 year old at the time of purchase. This ensures that the pig is at an appropriate stage for breeding and will contribute to improving the local pig farming industry."
+    },
+    {
+      "question": "Can I purchase any breed of pig under this scheme?",
+      "answer": "No, the scheme strictly supports the purchase of Middle White Yorkshire breed male pigs, as they are considered high-quality breeding pigs that improve pig farming productivity."
+    },
+    {
+      "question": "How can I apply for this scheme?",
+      "answer": "Interested applicants can apply by visiting the nearest Animal Husbandry Department office or their local veterinary office. The application form must be submitted along with the required documents. The department will verify eligibility before approving the subsidy."
+    },
+    {
+      "question": "Is there a deadline to apply for the scheme?",
+      "answer": "There may be specific application timelines. Beneficiaries should check with the Animal Husbandry Department for updates."
+    },
+    {
+      "question": "How is the subsidy amount disbursed?",
+      "answer": "The subsidy is typically provided as a reimbursement after verifying the purchase details and eligibility."
+    },
+    {
+      "question": "Can I purchase any pig breed under this scheme?",
+      "answer": "No, only Middle White Yorkshire breed male pigs are eligible for subsidy under this scheme."
+    },
+    {
+      "question": "Where should the pig be purchased from?",
+      "answer": "It must be purchased from a Government Pig Rearing Project or a local authorized source."
+    },
+    {
+      "question": "Whom can I contact for more details?",
+      "answer": "Contact the Animal Husbandry Department, Government of Chhattisgarh or visit the nearest veterinary office."
+    }
+  ]
 }

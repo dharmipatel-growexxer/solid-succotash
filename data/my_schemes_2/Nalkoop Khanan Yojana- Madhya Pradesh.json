@@ -1,17 +1,86 @@
 {
   "scheme_name": "Nalkoop Khanan Yojana- Madhya Pradesh",
   "scheme_url": "https://www.myscheme.gov.in/schemes/nkymp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Nalkoop Khanan Yojana- Madhya Pradesh",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Nalkoop Khanan Yojana\" was launched on 31st December 2001, by the Farmer Welfare and Agriculture Development Department, Government of Madhya Pradesh, to increase the irrigation area by harnessing underground water. Under this scheme, farmers from Scheduled Caste and Scheduled Tribe categories are eligible for a subsidy covering 75% of the unit cost (up to ₹25,000/-) for digging a tube well and 75% of the unit cost (up to ₹15,000/-) for the successful installation of a tube well submersible pump. This scheme is effective in entire Madhya Pradesh, except in Shajapur and Indore."
+    ],
+    "benefits": [
+      "Subsidy for Tube Well Digging:",
+      "A grant of 75% of the unit cost (up to a maximum of ₹25,000/-), is provided for digging a tube well.",
+      "Applicable for both successful and unsuccessful digging.",
+      "Subsidy for Submersible Pump Installation:",
+      "A grant of 75% of the unit cost (up to a maximum of ₹15,000/-), is provided for the successful installation of a submersible pump on a tube well.",
+      "Applicable only for successful installation of a Submersible Pump.",
+      "Note:",
+      "The subsidy is transferred to the bank account of the farmers."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Madhya Pradesh.",
+      "The applicant should be a farmer.",
+      "Farmers from Shajapur and Indore districts of Madhya Pradesh are excluded from this scheme.",
+      "The applicant should belong to the Scheduled Caste or Scheduled Tribe category.",
+      "The applicant should own agricultural land within the state."
+    ],
+    "application_process": {
+      "offline": [
+        "Eligible farmers can apply for benefits under the scheme by visiting the office of the Deputy Director, Farmers Welfare and Agriculture Development Department in their respective district in Madhya Pradesh."
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph",
+      "Identity proof i.e. Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste Certificate",
+      "Proof of having agricultural land",
+      "Bank passbook/bank account details",
+      "Any other required documents"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Official Website"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What kind of subsidy does the scheme provide for tube well digging?",
+      "answer": "The scheme provides a subsidy of 75% of the unit cost, up to a maximum of ₹25,000/-, for digging a tube well."
+    },
+    {
+      "question": "Is the subsidy for tube well digging applicable if the digging is unsuccessful?",
+      "answer": "Yes, the subsidy is applicable for both successful and unsuccessful tube well digging."
+    },
+    {
+      "question": "What subsidy is available for the installation of a submersible pump?",
+      "answer": "A subsidy of 75% of the unit cost, up to ₹15,000, is provided for the successful installation of a submersible pump on a tube well."
+    },
+    {
+      "question": "How is the subsidy amount transferred to the farmers?",
+      "answer": "The subsidy is transferred directly to the bank account of the farmers."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "The applicant must be a native of Madhya Pradesh, a farmer, from the Scheduled Caste or Scheduled Tribe category, and own agricultural land within the state."
+    },
+    {
+      "question": "Which districts are excluded from the scheme?",
+      "answer": "The scheme does not apply to farmers in Shajapur and Indore districts."
+    },
+    {
+      "question": "How can eligible farmers apply for the benefits of the scheme?",
+      "answer": "Eligible farmers can apply by visiting the office of the Deputy Director, Farmers Welfare and Agriculture Development Department in their respective district in Madhya Pradesh."
+    },
+    {
+      "question": "Can farmers from other states apply for this scheme?",
+      "answer": "No, only farmers who are natives of Madhya Pradesh are eligible to apply."
+    },
+    {
+      "question": "Is there any requirement for the agricultural land owned by the applicant?",
+      "answer": "Yes, the applicant must own agricultural land within Madhya Pradesh."
+    }
+  ]
 }

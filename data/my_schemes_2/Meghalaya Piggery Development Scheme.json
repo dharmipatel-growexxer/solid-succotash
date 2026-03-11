@@ -1,17 +1,144 @@
 {
   "scheme_name": "Meghalaya Piggery Development Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mpdsc",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Meghalaya Piggery Development Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"",
+      "Chief Minister’s CM-ELEVATE Program\"",
+      ", launched by the Government of Meghalaya under the Planning Department, aims to promote entrepreneurship and improve livelihoods across the state. Under this program, the",
+      "\"Meghalaya Piggery Development Scheme\"",
+      "has been introduced to employ, engage, and empower youth and rural communities by promoting piggery entrepreneurship through easy access to credit and subsidies."
+    ],
+    "benefits": [
+      "50% of project cost supported (5% by applicant, 45% by Government)",
+      "5% EMI co-payment support for 24 months",
+      "Credit linkage through partnered banks",
+      "Technical training and capacity building",
+      "Veterinary and farm management support",
+      "Market linkage for selling output",
+      "Mentorship and business advisory"
+    ],
+    "eligibility": [
+      "Individuals",
+      "The applicant should be between 18 and 58 years of age.",
+      "The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority.",
+      "Preference for availing loans will be given to entrepreneurs and entities with prior experience in undertaking piggery.",
+      "The entrepreneur should have access to adequate and quality feed for the pigs.",
+      "The entrepreneur should have a vaccination scheme in place for the pigs.",
+      "The entrepreneur should have a plan for marketing the pigs and their products.",
+      "The entrepreneur’s village should be in an area where pig rearing is feasible.",
+      "The distance between the entrepreneur’s village and the nearest market should be reasonable.",
+      "The entrepreneur should not be a credit defaulter with any bank.",
+      "The entrepreneur should possess self-owned land or notarized lease land (≥15 years).",
+      "Registered Entities",
+      "The entrepreneur should be a registered entity from Meghalaya, such as a Cooperative, Farmer Producer Company (FPC), Farmer Producer Organization (FPO), or any other legally registered group in the state.",
+      "The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority",
+      "The entrepreneur should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute",
+      "Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking piggery.",
+      "The entrepreneur must have access to adequate and quality feed for the pigs.",
+      "The entrepreneur must have a vaccination Scheme in place for the pigs.",
+      "The entrepreneur must have a plan for marketing the pigs and their products.",
+      "The entrepreneur’s village must be in an area where pig rearing is feasible.",
+      "The distance between the entrepreneur’s village and the nearest market must be reasonable.",
+      "The entrepreneur should not be a credit defaulter from any bank. Must possess self-owned or notarized lease land (≥15 years)",
+      "Registered Entities from Meghalaya such as any group/entity registered in Meghalaya such as Cooperatives, Farmer Producer Companies (FPC), Farmer Producer Organization (FPO) and so on.",
+      "Must provide an Incorporation Certificate or a registration certificate whichever is applicable.",
+      "Should possess land, either self-owned or on lease, verified by the competent authority",
+      "Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute"
+    ],
+    "application_process": {
+      "online": [
+        "Citizen Registration for Member ID",
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.",
+        "Step 2:",
+        "If you are a first-time user, click on “",
+        "Registration for New User",
+        "” and complete the registration process to create your account.",
+        "Step 3:",
+        "Select your Authentication ID from the available options, such as",
+        "PDS (Ration Card)",
+        "Election Photo ID Card (EPIC).",
+        "Step 4:",
+        "Enter your card number, select your name from the displayed list, and click on “Next” to continue.",
+        "Step 5:",
+        "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.",
+        "Step 6:",
+        "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.",
+        "Step 7:",
+        "Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.",
+        "Click on",
+        "“Sign In",
+        "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.",
+        "Enter your User ID and Password, then click on “Login” to access your account.",
+        "After logging in, click on “Apply for Services/Scheme” to start your application.",
+        "Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+      ]
+    },
+    "documents_required": [
+      "Individuals",
+      "Proof of Address of Applicant (Voter ID / Passport / Driving License)",
+      "PAN Card",
+      "Latest Bank Statement (Last 6 months)",
+      "Training certificate",
+      "Ration Card",
+      "Self Declaration",
+      "Download",
+      "Land ownership or notarized lease certificate (if applicable)",
+      "Registered Entities",
+      "Incorporation Certificate or Registration Certificate",
+      "GST Certificate (if available)",
+      "Ration Card of Applicant",
+      "Training certificates for at least 2 members",
+      "Unregistered Entities"
+    ],
+    "sources_and_references": [
+      "Website:1",
+      "Website:2"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is Meghalaya Piggery Farming Development Scheme ?",
+      "answer": "Meghalaya Pig Farming Initiative Scheme is a credit linked scheme launched by Animal Husbandry & Veterinary Department under which financial aid of 50% is provided on the total cost of the project to start pig farming. The project cost includes construction of shed; buying animals; cost associated with veterinary care and buying feed; and contingency cost. Additional support will also be provided in terms training, technical support on farming practices and risk mitigation strategy etc."
+    },
+    {
+      "question": "How is it connected to CM -ELEVATE program?",
+      "answer": "Meghalaya Pig Farming Initiative Scheme is one of the 15 other bank linked schemes being launched under the CM-ELEVATE programs."
+    },
+    {
+      "question": "Who is implementing the Scheme?",
+      "answer": "Animal Husbandry & Veterinary Department is implementing the scheme at state level."
+    },
+    {
+      "question": "Who are registered entities?",
+      "answer": "Any entity or group of farmers involved with agricultural products and legally registered with the government of Meghalaya such as Cooperatives, Farmer Producer Companies (FPC), Farmer Producer Organisation (FPO) etc."
+    },
+    {
+      "question": "Who are un-registered entities?",
+      "answer": "Any entity or group of farmers such as village organizations, self-help groups, producer groups and any other traditional institutions based in Meghalaya who are not currently registered/incorporated with the government of Meghalaya."
+    },
+    {
+      "question": "Which could support me in understanding the scheme better at district level?",
+      "answer": "Entrepreneurs can also contact the District Animal Husbandry and Veterinary Officer for any clarifications."
+    },
+    {
+      "question": "How much subsidy can I receive for my project?",
+      "answer": "You can receive 50% of the total project cost to start a piggery farm."
+    },
+    {
+      "question": "Can I choose any bank for credit support?",
+      "answer": "You can choose any of the partnered banks under the scheme based on your convenience and ease. The banks which are currently part of the scheme are Meghalaya Rural Bank (MRB), State Bank of India (SBI), HDFC Bank and Northeast Small Finance Bank."
+    },
+    {
+      "question": "How long is the training program?",
+      "answer": "Duration of the trainings will be notified by the Implementing Agency from time to time."
+    }
+  ]
 }

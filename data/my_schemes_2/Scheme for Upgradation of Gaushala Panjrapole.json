@@ -1,17 +1,104 @@
 {
   "scheme_name": "Scheme for Upgradation of Gaushala/ Panjrapole",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sfugp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme for Upgradation of Gaushala/ Panjrapole",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Scheme for Upgradation of Gaushala/ Panjrapole\" launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat, is designed to preserve and promote indigenous breeds of cows in Gujarat, such as Gir and Kankrej, which hold spiritual, scientific, and health value.",
+      "Objective:",
+      "The world famous Gir and Kankarej cows of Gujarat state and other indigenous breeds have great importance in terms of spiritual, scientific and health. To preserve these is the main aim by increase the breeding of cows by encouraging gaushalas and panjarapol institutions that ideally keep cows. The scheme also aims to increase the consumption of Panchagavya products of Gir and Kankrej cows and make rearing of cows economically viable."
+    ],
+    "benefits": [
+      "Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Constituent Benefits",
+      "1. Water Fogger; 2. Mechanized Reaper Machine or Reaper Machine; 3. Chaff cutter 4. Drip irrigation; 5. 500 liters bulk milk cooling machine with generator; 6. Mini Tractor or Big Tractor/Hydraulic Trailer or Trailer; 7. Solar Gau Arc Machine/ Gau Arc Machine; 8. Milking machine",
+      "Assistance upto 75% of the total expenditure incurred by the article up to a maximum of ₹4,00,000/- to be paid.",
+      "1 Year"
+    ],
+    "eligibility": [
+      "Gaushalas and panjrapole registered under the Public Charity Act.",
+      "A Gaushala should have more than 50 cows of local origin. While Panjarapol must have more than 100 livestock.",
+      "At least 3 (three) acres of land on which the institution has to purchase/develop the development work, must be in the institution's own name or on a lease of 99 years. There is no maximum land limit."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the N",
+        "odal Officer",
+        "of the concerned district with the necessary documents listed in the application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here."
+      ]
+    },
+    "documents_required": [
+      "Copy of 7/12, 8-A, and 6-rights of own land.",
+      "Copy of lease agreement (if land is leased).",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Scheme for Upgradation of Gaushala/ Panjrapole\" scheme?",
+      "answer": "The primary objective of the scheme is to safeguard and promote the preservation of indigenous cow breeds while simultaneously encouraging the production and usage of Panchagavya-based products by extending financial and infrastructural support to Gaushalas and Panjrapoles for their overall upgradation."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Only those Gaushalas and Panjrapoles that are formally registered under the Public Charity Act and possess adequate livestock and a suitable amount of land are considered eligible to apply for the benefits provided under this scheme."
+    },
+    {
+      "question": "What kind of support is provided under the scheme?",
+      "answer": "The scheme offers financial assistance that covers up to 75% of the total expenditure incurred on approved components, subject to a maximum cap of ₹4,00,000/-, specifically for the procurement and installation of sanctioned equipment."
+    },
+    {
+      "question": "Can individuals apply for this scheme?",
+      "answer": "No, only registered Gaushalas and Panjrapoles can apply for this scheme."
+    },
+    {
+      "question": "Is there any minimum livestock requirement?",
+      "answer": "Yes, the scheme mandates that eligible Gaushalas must have more than 50 indigenous cows, while Panjrapoles are required to maintain a livestock population of more than 100 animals to qualify for assistance."
+    },
+    {
+      "question": "Is owning land mandatory?",
+      "answer": "Yes, it is mandatory for institutions to possess at least 3 acres of land, either through ownership or on a lease basis for a minimum of 99 years, in order to be considered eligible for the scheme."
+    },
+    {
+      "question": "How often can benefits be reclaimed?",
+      "answer": "Institutions that have already availed benefits for certain components under the scheme can apply for the same components again only after the completion of a minimum duration of one year from the date of the last availed benefit."
+    },
+    {
+      "question": "Is there any upper limit on land size?",
+      "answer": "There is no specified upper limit on the size of land that an institution can possess, meaning institutions with larger land holdings are equally eligible, provided they meet the minimum land criteria."
+    },
+    {
+      "question": "Where can eligible institutions apply for the scheme?",
+      "answer": "Applications must be submitted online through the iKhedut portal, followed by submission of printed applications with signatures and required documents to the board."
+    },
+    {
+      "question": "Within how many days must the application documents be submitted?",
+      "answer": "The documents must be submitted to the board within 30 days of submitting the online application."
+    }
+  ]
 }

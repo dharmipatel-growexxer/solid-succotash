@@ -3,15 +3,73 @@
   "scheme_url": "https://www.myscheme.gov.in/schemes/pkvy",
   "location_name": "",
   "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "page_title": "Paramparagat Krishi Vikas Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "PKVY aims at supporting and promoting organic farming, in turn resulting in improvement of soil health. The scheme promotes Participatory Guarantee System (PGS) For India (PGS- India)2 form of organic certification that is built on mutual trust, locally relevant and mandates the involvement of producers and consumers in the process of certification. PGS – India operates outside the framework of “Third Party Certification.",
+      "Funding pattern under the scheme is in the ratio of 60:40 by the Central and State Governments respectively. In case of Northeastern and Himalayan States, Central Assistance is provided in the ratio of 90:10 (Centre: State) and for Union Territories, the assistance is 100%. The Scheme proposes to cover additional 6,00,000 hectare area under organic farming till 2025-26.",
+      "he objective is to produce agricultural products free from chemicals and pesticides residues by adopting eco- friendly, low- cost technologies. Key Thrust areas of PKVY in promoting organic farming include the following:",
+      "• To promote natural resource based integrated and climate resilient sustainable farming systems that ensure maintenance and increase of soil fertility, natural resource conservation, on-farm nutrient recycling and minimizing dependence of farmers on external inputs",
+      "• to reduce cost of agriculture to farmers through sustainable integrated organic farming systems thereby enhancing farmer’s net income per unit of land",
+      "• To sustainably produce chemical free and nutritious food for human consumption",
+      "• To protect environment from hazardous inorganic chemicals by adoption of eco-friendly low-cost traditional techniques and farmer friendly technologies",
+      "• To empower farmers through their own institutional development in the form of clusters and groups with capacity to manage production, processing value addition and certification management",
+      "• To make farmers entrepreneurs through direct market linkages with local and national markets.",
+      "• Utilize the services of experts from public agricultural research system in India"
+    ],
+    "benefits": [
+      "• Promotion of organic farming, in turn resulting in improvement of soil health",
+      "• Sustainable production of chemical free and nutritious agriculture produce",
+      "• Direct linkages with local and national markets",
+      "• To empower farmers through their own institutional development in the form of clusters and groups with capacity to manage production, processing value addition and certification management"
+    ],
+    "eligibility": [
+      "All farmers/institutions are eligible to apply. However, maximum land holding is 2 hectare"
+    ],
+    "application_process": {
+      "offline": [
+        "Step 01: Interested applicant should connect and communicate with the regional councils of their respective states.",
+        "Step 02: Regional councils consolidates all the applications and develop Annual Action Plan",
+        "Step 03: Compiled Annual Action plan by the regional councils of the state is submitted is submitted to Ministry of Agriculture & Farmers Welfare",
+        "Step 04: Funds released to states by centre",
+        "Step 05: Further funds are released to regional councils to benefit the farmers/individuals."
+      ]
+    },
+    "documents_required": [
+      "1) Aadhaar number",
+      "2) Land documents",
+      "3) Caste Certificate (SC/ST/OBC only)",
+      "4) Phone Details",
+      "5) Bank Details",
+      "6) Photographs",
+      "7) DPR",
+      "The specific documents for availing the benefits of the program may vary depending on the type of intervention and the state. It is recommended to consult with the relevant authorities for detailed information on documents to be submitted."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What are the core benefits of the PKVY scheme?",
+      "answer": "PKVY targets the following benefits: • Promotion of organic farming, in turn resulting in improvement of soil health • Sustainable production of chemical free and nutritious agriculture produce • Direct linkages with local and national markets • To empower farmers through their own institutional development in the form of clusters and groups with capacity to manage production, processing value addition and certification management"
+    },
+    {
+      "question": "Are benefits directly transferred to the farmers?",
+      "answer": "No, the Benefits are transferred through regional councils of the state."
+    },
+    {
+      "question": "Does this scheme work upon creating a bigger market for the farmers?",
+      "answer": "Yes, this scheme works to make farmers entrepreneurs through direct market linkages with local and national markets"
+    },
+    {
+      "question": "Are their any particular eligibility criterias?",
+      "answer": "No, anyone can apply for this scheme"
+    },
+    {
+      "question": "Can I directly apply for the scheme as an individual on the portal?",
+      "answer": "No, the regional council of states will compile all the armers and project details, which will be taken further and the benefits will also be disbursed by the regional council of states only"
+    }
+  ]
 }

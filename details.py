@@ -362,6 +362,17 @@ def extract_scheme_text(
     return title, state_name, faqs, full_text, sections
 
 
+def wait_for_content(page, timeout_ms: int) -> None:
+    # myScheme is client-rendered; wait for section containers to appear.
+    try:
+        page.wait_for_selector(
+            "#details, #benefits, #eligibility, #application-process, #documents-required",
+            timeout=timeout_ms,
+        )
+    except PlaywrightTimeoutError:
+        pass
+
+
 def build_sections(full_text: str) -> Dict[str, Any]:
     sections: Dict[str, Any] = {
         "details": [],
@@ -518,6 +529,14 @@ def expand_faqs(page) -> None:
         page.wait_for_timeout(300)
 
 
+def should_retry(page_title: str, sections: Dict[str, Any]) -> bool:
+    if not page_title:
+        return True
+    if sections_are_effectively_empty(sections):
+        return True
+    return False
+
+
 def iter_csv_rows(csv_path: Path) -> Iterable[Tuple[str, str]]:
     with csv_path.open("r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
@@ -554,24 +573,49 @@ def scrape_and_save(
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=headless)
-        page = browser.new_page()
+        context = browser.new_context(
+            viewport={"width": 1365, "height": 900},
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/120.0.0.0 Safari/537.36"
+            ),
+            locale="en-US",
+        )
+        page = context.new_page()
 
         for idx, (scheme_name, scheme_url) in enumerate(rows, start=1):
             print(f"[{idx}/{len(rows)}] Scraping: {scheme_name}")
-            try:
-                page.goto(scheme_url, wait_until="networkidle", timeout=timeout_ms)
-                page.wait_for_timeout(2000)
-                expand_faqs(page)
-                page.wait_for_timeout(600)
-                html = page.content()
-            except PlaywrightTimeoutError:
-                print(f"  -> Timeout on {scheme_url}, skipped.")
-                continue
-            except Exception as exc:
-                print(f"  -> Failed: {exc}")
+            html = ""
+            page_title = ""
+            state_name = ""
+            faqs: List[Tuple[str, str]] = []
+            full_text = ""
+            sections: Dict[str, Any] = {}
+
+            for attempt in range(1, 4):
+                try:
+                    page.goto(scheme_url, wait_until="domcontentloaded", timeout=timeout_ms)
+                    wait_for_content(page, timeout_ms)
+                    page.wait_for_timeout(1200)
+                    expand_faqs(page)
+                    page.wait_for_timeout(600)
+                    html = page.content()
+                except PlaywrightTimeoutError:
+                    print(f"  -> Timeout on {scheme_url} (attempt {attempt})")
+                    continue
+                except Exception as exc:
+                    print(f"  -> Failed on {scheme_url} (attempt {attempt}): {exc}")
+                    continue
+
+                page_title, state_name, faqs, full_text, sections = extract_scheme_text(html)
+                if not should_retry(page_title, sections):
+                    break
+
+            if not page_title and sections_are_effectively_empty(sections):
+                print(f"  -> Empty content for {scheme_url}, skipped.")
                 continue
 
-            page_title, state_name, faqs, full_text, sections = extract_scheme_text(html)
             location_name, location_type = classify_location(state_name)
             # Fallback only if DOM section extraction returned nothing useful.
             if sections_are_effectively_empty(sections):
@@ -600,7 +644,9 @@ def scrape_and_save(
                 json.dump(payload, f, ensure_ascii=False, indent=2)
 
             print(f"  -> Saved: {out_file}")
+            page.wait_for_timeout(400)
 
+        context.close()
         browser.close()
 
 
@@ -608,7 +654,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description="Read schemes CSV and save scheme details + FAQs into JSON files."
     )
-    parser.add_argument("--csv", default="my_schemes_13.csv", help="Input CSV file path")
+    parser.add_argument("--csv", default="my_schemes_2.csv", help="Input CSV file path")
     parser.add_argument("--output-dir", default="data", help="Folder for txt files")
     parser.add_argument("--timeout-ms", type=int, default=90000)
     parser.add_argument("--limit", type=int, default=0, help="0 means all rows")

@@ -1,17 +1,74 @@
 {
   "scheme_name": "Development of Manures & Fertilizers: Assistance for Construction/Installation of Vermi-Compost Units",
   "scheme_url": "https://www.myscheme.gov.in/schemes/copy-of-dmf-acivcu",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Development of Manures & Fertilizers: Assistance for Construction/Installation of Vermi-Compost Units",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Development of Manures & Fertilizers\" was launched by the Department of Agriculture, Government of Goa. The \"Vermi-compost Units\" component of the scheme aims to convert available on-field and farm waste material into chemical-free farm resources as farm input for organic farming through vermicomposting processes. The payment of the sanctioned subsidy is through Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer."
+    ],
+    "benefits": [
+      "Construction/Installation of Vermi-compost unit would be provided 75% subsidy limited to Rs.1,950/- per cu.mt for Vermi-compost units for all categories of farmers.",
+      "The Standard cost for Vermi-compost unit would be Rs. 2600/- per cubic meter which includes 90% cost on construction/installation including mason cost and 10% will be the cost of earthworms, etc.",
+      "The unit can have one or more pits with or without internal chambers and has to be above ground level, of bricks, laterite stones, cement blocks, shahabadi/kadappa or RCC cement rings, having a cement floor with proper water outlet, with clean internal side walls and a proper ant proofing and should be protected from sun, rain and from attack of birds, lizards and rodents feeding on earthworms.",
+      "The portable Vermi-composting unit of HDPE material i.e.Vermi-bed or Vermi composting bins of 100 litre and above laid on prepared hard surface free from sharp objects, and protected as above, maximum of 3 units would also be considered for subsidy @ 90% subsidy on the standard cost fixed and maximum amount of Rs 7,500/- per farmer."
+    ],
+    "eligibility": [
+      "Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card.",
+      "Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the",
+        "Zonal Agriculture Officer",
+        "and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer."
+      ]
+    },
+    "documents_required": [
+      "Krishi Card Abstract",
+      "Soil Health Card",
+      "Cash Invoice",
+      "Design and Estimates of Approved Models Prior to Construction/Installation"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Can organizations or corporate entities involved in farming activities also receive benefits under this agricultural scheme, or is it restricted only to individual cultivators?",
+      "answer": "Yes, institutions and private limited companies that are involved in agriculture activities and possess a valid Krishi Card are also eligible for assistance under this scheme."
+    },
+    {
+      "question": "To which designated agriculture official should I submit my application documents along with all the required supporting papers and invoices?",
+      "answer": "You should submit your application along with the Krishi Card Abstract, Soil Health Card, and cash invoice for purchased inputs to the Zonal Agriculture Officer of your area."
+    },
+    {
+      "question": "How will the approved financial subsidy be transferred to my account after the sanction has been granted by the competent authority?",
+      "answer": "The sanctioned subsidy will be paid through the Electronic Clearance System (ECS), which will directly transfer the amount to your account."
+    },
+    {
+      "question": "Are there any circumstances under which the government can provide exceptions or modifications to the standard eligibility conditions specified in the scheme?",
+      "answer": "Yes, the Government is empowered to relax any or all clauses or conditions of the scheme in genuine cases. However, financial assistance in such relaxed cases requires approval from the Finance (Expenditure) Department."
+    },
+    {
+      "question": "Which state's farming community is eligible to receive benefits under this soil health and fertilizer development assistance program?",
+      "answer": "Farmers carrying out agricultural activities in the State of Goa are eligible to receive benefits under this scheme, provided they meet all other specified eligibility criteria."
+    },
+    {
+      "question": "After the Zonal Agriculture Officer submits my case, which official is responsible for examining and sanctioning my subsidy claim?",
+      "answer": "The District Agriculture Officer (North or South, depending on your location) is responsible for examining and sanctioning your subsidy claim after receiving it from the Zonal Agriculture Officer."
+    },
+    {
+      "question": "Who has the ultimate authority to interpret any ambiguous terms or conditions mentioned in this agricultural development scheme's guidelines?",
+      "answer": "The Government of Goa holds the authority to interpret any clause, word, or expression of the scheme, and their decision regarding interpretation is final and binding on all concerned parties."
+    }
+  ]
 }

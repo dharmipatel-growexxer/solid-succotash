@@ -1,17 +1,95 @@
 {
   "scheme_name": "Pashu Palan Yojana (GTKVN)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pgtkvn",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Pashu Palan Yojana (GTKVN)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Pashu Palan Yojana\" is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to strengthen the livelihoods of the Thakor and Koli communities by providing financial support for animal husbandry activities, such as dairy farming with cows and buffaloes. Under this scheme, loans are offered to purchase milch animals like cows and buffaloes, thereby promoting sustainable self-employment in agriculture-related sectors."
+    ],
+    "benefits": [
+      "The maximum loan limit under this scheme is up to ₹1,00,000/-.",
+      "The loan is provided for animal husbandry activities such as dairy farming, boosting rural self-employment."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to Thakor or Koli community.",
+      "The applicant’s annual family income should not exceed ₹3,00,000/-.",
+      "The applicant's age should be between 21 to 50 years.",
+      "The applicant should intend to purchase cows, buffaloes, or related dairy equipment for self‑employment."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Gujarat Thakor and Koli Vikas Nigam.",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Now\".",
+        "Step 3:",
+        "Click on the loan scheme name.",
+        "Step 4:",
+        "Select the loan category and fill in the loan amount.",
+        "Step 5:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 6:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 7:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 8:",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Caste certificate",
+      "Annual income certificate",
+      "Proof of age",
+      "Aadhaar card",
+      "Ration card",
+      "Certificate if the applicant is a BPL beneficiary, disabled, widow",
+      "Experience/training certificate",
+      "Milk association certificate (for animal husbandry)",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Individuals belonging to the Thakor or Koli caste and residing in Gujarat, aged between 21 and 50 years, are eligible to apply."
+    },
+    {
+      "question": "What is the maximum loan amount?",
+      "answer": "The loan amount is up to ₹1,00,000/-."
+    },
+    {
+      "question": "Is there an income limit?",
+      "answer": "Yes, family income must not exceed ₹3,00,000 per annum."
+    },
+    {
+      "question": "What animals can I buy?",
+      "answer": "Dairy cattle such as cows or buffaloes and essential dairy equipment."
+    },
+    {
+      "question": "Can I apply offline?",
+      "answer": "No, applications are accepted online."
+    },
+    {
+      "question": "Where can I track my application?",
+      "answer": "Visit the portal: https://gtkdconline.gujarat.gov.in"
+    },
+    {
+      "question": "Is the scheme limited to Gujarat?",
+      "answer": "Yes, it is applicable only in Gujarat."
+    }
+  ]
 }

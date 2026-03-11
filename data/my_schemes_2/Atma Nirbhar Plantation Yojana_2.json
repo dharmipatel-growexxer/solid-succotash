@@ -1,17 +1,119 @@
 {
   "scheme_name": "Atma Nirbhar Plantation Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/anpyap",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Arunachal Pradesh",
+  "location_type": "state",
+  "page_title": "Atma Nirbhar Plantation Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Atma Nirbhar Plantation Yojana (ANPY)\" was launched by the Department of Agriculture, Government of Arunachal Pradesh, aims to promote self-reliance in the agriculture sector through sustainable plantation activities across the state's diverse agro-climatic zones. Under this scheme, support in the form of plantation assistance and allied resources is provided to individual farmers, Self-Help Groups (SHGs), and Farmer Producer Organizations (FPOs)."
+    ],
+    "benefits": [
+      "Access to plantation support including technical guidance, planting material, and financial assistance."
+    ],
+    "eligibility": [
+      "The Scheme can be applied by individual farmers as well as Self-Help Groups (SHGs)/ Farmers Producer Organizations (FPOs).",
+      "Eligibility Criteria for Individual Farmers",
+      "The applicant should be a native of Arunachal Pradesh.",
+      "The applicant should be an individual farmer.",
+      "The applicant should have landholding between 0.50 hectares and 25 hectares.",
+      "The applicant should not be a bank defaulter.",
+      "The applicant should not be a government servant.",
+      "Eligibility Criteria for Self-Help Groups (SHGs)",
+      "The applicant should be a Self-Help Group (SHG) based in Arunachal Pradesh.",
+      "The SHG should have a minimum of 1.0 hectare and up to 50 hectares of land.",
+      "The SHG should not be a bank defaulter.",
+      "An already existing SHGs prior to involvement of SrLM shall be considered.",
+      "SHGs formed for small-scale industries such as weaving, knitting, tailoring, and other similar businesses shall not be entertained or considered eligible.",
+      "Note:",
+      "The SHGs formed especially for Agri- sector shall be given priority.",
+      "Eligibility Criteria for Farmers Producer Organizations (FPOs)",
+      "The Farmer Producer Organization (FPO) should be registered in Arunachal Pradesh.",
+      "The FPO should have a minimum of 5 hectares and a maximum of 50 hectares of land.",
+      "The FPO should have at least 100 shareholders.",
+      "The FPO should submit at least one audited Balance Sheet.",
+      "All board members and shareholders of FPO should be non-defaulters to any bank/financial institution.",
+      "All types of FPOs engaged in agriculture business will get benefit from this programme."
+    ],
+    "application_process": {
+      "offline": [
+        "Interested and eligible students need to apply online on the",
+        "Atma Nirbhar Yojana",
+        "portal.",
+        "New User Registration",
+        "Select the \"",
+        "Login",
+        "\" option.",
+        "Subsequently, click on the \"",
+        "Register Here\"",
+        "link.",
+        "Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, and mobile number.",
+        "Establish a password for your account.",
+        "Upon successful registration, the applicant will receive a User ID and password.",
+        "Login & Application Process:",
+        "Log in",
+        "using the provided User ID and password to access the application form.",
+        "Fill in the complete application form.",
+        "Upload the required documents, including a photograph, caste certificate, residential certificate, and land ownership proof, etc.",
+        "Submit the application form."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar Card",
+      "PAN Card",
+      "ST Certificate",
+      "Domicile Certificate/Permanent Resident Certificate (PRC)",
+      "SHG/FPO Document",
+      "Proof of Land Ownership Document (LPC/ any Land Documents duly Certified by HGB/GB/PRI and countersigned by the local administration)",
+      "Certified Copy of the Sketch Map",
+      "Photocopy of 1st page of Bank Passbook",
+      "One audited Balance Sheet (For FPO)",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Application Form",
+      "Application Portal"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who are the eligible beneficiaries under scheme?",
+      "answer": "Eligible beneficiaries include: Individual farmers Self-Help Groups (SHGs) Farmer Producer Organizations (FPOs) Individual farmers Self-Help Groups (SHGs) Farmer Producer Organizations (FPOs)"
+    },
+    {
+      "question": "What is the minimum and maximum land area required to apply?",
+      "answer": "Individual Farmers: Minimum 0.50 hectare; Maximum 25 hectares. SHGs: Minimum 1.0 hectare; Maximum 50 hectares. FPOs: Minimum 5 hectares; Maximum 50 hectares. Individual Farmers: Minimum 0.50 hectare; Maximum 25 hectares. SHGs: Minimum 1.0 hectare; Maximum 50 hectares. FPOs: Minimum 5 hectares; Maximum 50 hectares."
+    },
+    {
+      "question": "Are there any restrictions on the type of SHGs that can apply?",
+      "answer": "Yes. SHGs formed specifically for agricultural activities are eligible. SHGs established for small-scale industries like weaving, knitting, tailoring, or other non-agricultural businesses are not qualified for this scheme."
+    },
+    {
+      "question": "Are government employees eligible to apply for ANPY?",
+      "answer": "No. Government servants are not eligible to apply for this scheme."
+    },
+    {
+      "question": "Can bank defaulters apply for the scheme?",
+      "answer": "No. Individuals or entities with a history of bank defaults are not eligible for ANPY."
+    },
+    {
+      "question": "What are the eligibility criteria for FPOs under scheme?",
+      "answer": "FPOs must: Be registered entities. Have at least one audited balance sheet. Ensure all board members and shareholders are non-defaulters. Have a minimum of 100 shareholders. Be registered entities. Have at least one audited balance sheet. Ensure all board members and shareholders are non-defaulters. Have a minimum of 100 shareholders."
+    },
+    {
+      "question": "How can one apply for the ANPY scheme?",
+      "answer": "Interested applicants should visit the District Agriculture Office in their respective districts for application details and submission."
+    },
+    {
+      "question": "Is there an online application process for ANPY?",
+      "answer": "Yes. Applicants can register and apply online through the official Atma Nirbhar Yojana porta l of Arunachal Pradesh."
+    },
+    {
+      "question": "Can existing SHGs formed before the involvement of SrLM apply?",
+      "answer": "Yes. SHGs that were established prior to the involvement of the State Rural Livelihoods Mission (SrLM) are eligible to apply."
+    }
+  ]
 }

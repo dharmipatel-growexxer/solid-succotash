@@ -1,17 +1,104 @@
 {
   "scheme_name": "Promotion of Organic Farming under State Organic Policy",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pofusop",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Promotion of Organic Farming under State Organic Policy",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Promotion of Organic Farming under State Organic Policy\" by the Agriculture and Co-operation Department, Government of Gujarat aims to promote sustainable agricultural practices by encouraging farmers to adopt organic farming methods. The scheme provides financial support for the registration and certification processes conducted by the Gujarat Organic Products Certification Agency (GOPCA) and Agricultural and Processed Food Products Export Development Authority (APEDA)-approved agencies. It also offers input cost assistance per hectare, enabling farmers to reduce chemical usage and enhance soil health."
+    ],
+    "benefits": [
+      "Organic Farming Registration and Certification Assistance (GOPCA):",
+      "The scheme provides 75% at-source assistance in cost to the farmer for registration and certification when undertaken through the Gujarat Organic Products Certification Agency (GOPCA).",
+      "Organic Farming Registration, Certification, and Transportation Assistance (APEDA-approved agencies):",
+      "When certification is done through APEDA-approved organic certification agencies, the scheme offers 50% assistance in registration, certification, and transportation fees. The maximum benefit for certification support is limited to ₹2,000/- per hectare.",
+      "Input Assistance for Organic Farming:",
+      "Farmers are also eligible for input assistance amounting to ₹5,000/- per hectare to promote organic farming practices."
+    ],
+    "eligibility": [
+      "The applicant should be a farmer.",
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should be engaged in organic farming activities."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "The applicant may visit and apply online at the",
+        "I-Khedut",
+        "Portal.",
+        "Step 2:",
+        "Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type.",
+        "Step 3:",
+        "Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'.",
+        "Step 4:",
+        "Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'.",
+        "Login Process:",
+        "Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Now select the scheme, click on the ‘Apply’ button, and an application page will open.",
+        "Click on the \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a printout of the confirmed application.",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "7/12 Certificate.",
+      "Aadhar Card.",
+      "Bank Pass Book/Cancelled Cheque."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 460)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main purpose of the scheme \"Promotion of Organic Farming under State Organic Policy\"?",
+      "answer": "The main purpose of the scheme \"Promotion of Organic Farming under State Organic Policy\" is to encourage farmers in Gujarat to adopt organic farming practices by providing them with financial assistance for organic certification, registration, transportation, and organic input costs in order to promote sustainable agriculture and reduce the dependency on chemical-based farming."
+    },
+    {
+      "question": "Who is eligible to apply under the scheme \"Promotion of Organic Farming under State Organic Policy\"?",
+      "answer": "Any individual engaged in farming and residing in Gujarat, who wishes to pursue or is already practicing organic farming, is eligible to apply under the scheme \"Promotion of Organic Farming under State Organic Policy\", provided they fulfill basic requirements such as possessing land records and registering on the iKhedut portal."
+    },
+    {
+      "question": "What type of financial assistance is provided under the scheme \"Promotion of Organic Farming under State Organic Policy\"?",
+      "answer": "Under the scheme \"Promotion of Organic Farming under State Organic Policy\", farmers receive up to 75% assistance for certification through the Gujarat Organic Products Certification Agency (GOPCA), 50% assistance for registration, certification, and transportation through APEDA-approved agencies, and input assistance of ₹5,000/- per hectare to support organic cultivation."
+    },
+    {
+      "question": "Is there any upper limit on the assistance provided under the scheme \"Promotion of Organic Farming under State Organic Policy\"?",
+      "answer": "Yes, under the scheme \"Promotion of Organic Farming under State Organic Policy\", the maximum assistance available for certification is capped at ₹2,000/- per hectare, while the input assistance is limited to ₹5,000 per hectare, ensuring that the support is fairly distributed among eligible farmers."
+    },
+    {
+      "question": "Is the scheme applicable to all districts of Gujarat?",
+      "answer": "Yes, the scheme \"Promotion of Organic Farming under State Organic Policy\" is applicable across the entire state of Gujarat, thereby allowing all eligible farmers from different regions of the state to benefit from the support offered under this initiative."
+    },
+    {
+      "question": "Is there any cost associated with applying under the scheme \"Promotion of Organic Farming under State Organic Policy\"?",
+      "answer": "There is no cost associated with applying for the scheme \"Promotion of Organic Farming under State Organic Policy\", as the application process is completely free and can be carried out online through the government’s official portal."
+    },
+    {
+      "question": "Can individuals from outside Gujarat apply for this scheme?",
+      "answer": "No, individuals who are not residents of Gujarat are not eligible to apply for the scheme, as the scheme is exclusively for residents of the state."
+    },
+    {
+      "question": "Are there any income restrictions for applying to this scheme?",
+      "answer": "There are no income restrictions or income limits imposed under the scheme. Individuals from all economic backgrounds may apply."
+    },
+    {
+      "question": "What are the steps to apply for the scheme \"Promotion of Organic Farming under State Organic Policy\"?",
+      "answer": "To apply for the “Promotion of Organic Farming under State Organic Policy,” the applicant must visit the iKhedut portal, fill out the online application form, upload the required documents, and submit the form."
+    },
+    {
+      "question": "What documents are required to apply for the scheme \"Promotion of Organic Farming under State Organic Policy\"?",
+      "answer": "To apply for the scheme \"Promotion of Organic Farming under State Organic Policy\", a farmer must submit key documents such as the 7/12 Land Certificate, Aadhaar Card, Bank Pass Book or a cancelled cheque, and, in applicable cases, certification documents from GOPCA or APEDA-approved agencies."
+    }
+  ]
 }

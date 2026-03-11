@@ -1,17 +1,142 @@
 {
   "scheme_name": "Buffalo Entrepreneurship Development Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/beds",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Odisha",
+  "location_type": "state",
+  "page_title": "Buffalo Entrepreneurship Development Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Buffalo Entrepreneurship Development Scheme\" was launched by the Fisheries and Animal Resources Development Department, Government of Odisha. The scheme aims to enhance livestock productivity, especially among marginalized farmers, entrepreneurs, or members of SHG who belong to General, SC, ST categories, SHG members, PWD, Women, and Transgender individuals in Odisha. The scheme will cover all 30 districts of the State.",
+      "Implementation:",
+      "The scheme was implemented by the Directorate of Animal Husbandry & Veterinary Services, Odisha, Cuttack through the Chief District Veterinary Officers & their field functionaries."
+    ],
+    "benefits": [
+      "Subsidy Payment for beneficiary opted for Shed:",
+      "Phase",
+      "Time",
+      "SC/ST/Women/PwD/ Transgender",
+      "General",
+      "1st Phase",
+      "After completion of the shed and purchase of 1st milch graded Murrah she Buffalo & completion of its insurance 50% of the subsidy amount",
+      "₹59,100/-",
+      "₹49,250/-",
+      "2nd Phase",
+      "After the purchase of 2nd milch graded Murrah she Buffalo & completion of its insurance-50% of the subsidy amount",
+      "Subsidy Payment for beneficiary not opted for Shed:",
+      "Purchase of 1 milch graded Murrah she Buffalo & completion of its insurance for 3 years 50% of the subsidy amount",
+      "₹44,700/-",
+      "₹37,250/-",
+      "After the purchase of 2nd milch graded Murrah she Buffalo & completion of its insurance for 3 years- 50% of the subsidy amount",
+      "NOTE:",
+      "The beneficiaries are eligible for a back-ended subsidy of 60% for SC, ST, PWD, Women & Transgender categories and 50% for the General category. The subsidy shall be released to the beneficiary's bank account through DBT mode in 2 phases."
+    ],
+    "eligibility": [
+      "The applicant should be a farmer, entrepreneur, or member of SHG.",
+      "The applicant belongs to General, SC, ST categories, SHG members, PWD, Women, and Transgender individuals.",
+      "The applicant should purchase two Graded Murrah She Buffaloes, preferably in their 1st or 2nd lactation and yielding a minimum of 8 liters of milk per day.",
+      "If the applicant is a PwD, their disability should be more than 40%.",
+      "An individual per family will be eligible to avail assistance only once."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step-01:",
+        "The applicant need to visit",
+        "Go-Sugam Portal",
+        ".",
+        "Step-02:",
+        "Click on “",
+        "Register Now",
+        "” under the \"Apply Button\".",
+        "Step-03:",
+        "On the registration page, fill in the mandatory details (Name, Email, Mobile Number, Address, and Password) and click on \"Register\". The login credentials will be sent to applicant's registered Email ID / Mobile Number.",
+        "Application Process:",
+        "Click on “Scheme & Services” and then select the scheme by its name.",
+        "Click “Apply” and do login.",
+        "Step-04:",
+        "On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type. Upon successful submission of the application, the applicant will get an Application Reference ID.",
+        "Check Application Status:",
+        "Click on the “Track Status” link on the menu.",
+        "Enter the Application ID or Mobile Number to get the application status."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar Card",
+      "Bill/Money Receipt",
+      "Disability Certificate",
+      "Bank Detail",
+      "Any Other Documents if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Registration",
+      "Login & Apply",
+      "FAQs"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Farmers from General, SC, ST categories, SHG members, PWD, Women, and Transgender individuals across all 30 districts of Odisha."
+    },
+    {
+      "question": "What is the subsidy offered under the scheme?",
+      "answer": "60% subsidy for SC, ST, PWD, Women, and Transgender categories, and 50% subsidy for the General category of the total project cost."
+    },
+    {
+      "question": "What is the unit cost for the project?",
+      "answer": "The unit cost is Rs. 1.97 lakhs for 1+1 Graded Murrah She Buffaloes."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Applications can be submitted through the GO-SUGAM portal."
+    },
+    {
+      "question": "Can I apply if I do not own land?",
+      "answer": "Yes, land ownership details are not mandatory for applying."
+    },
+    {
+      "question": "Is there a time limit for purchasing the buffaloes?",
+      "answer": "The first buffalo must be purchased within 60 days of the Go-ahead letter issuance, with a 15-day notice if delayed."
+    },
+    {
+      "question": "What happens if I fail to purchase the buffalo within the given time?",
+      "answer": "The Go-ahead letter will be canceled, and another beneficiary will be selected."
+    },
+    {
+      "question": "What type of buffaloes can be purchased under this scheme?",
+      "answer": "Graded Murrah She Buffaloes, preferably in their 1st or 2nd lactation and yielding a minimum of 8 liters of milk per day."
+    },
+    {
+      "question": "Can existing buffalo sheds be used for this scheme?",
+      "answer": "Yes, beneficiaries with existing sheds can opt for only animal induction and avail of the subsidy accordingly."
+    },
+    {
+      "question": "Who verifies the assets and recommends subsidy release?",
+      "answer": "The Block Level Inspection Team, comprising the BVO, VAS/AVAS, and Livestock Inspector/Veterinary Technician."
+    },
+    {
+      "question": "Can I apply multiple times for this scheme?",
+      "answer": "No, an individual per family is eligible to avail assistance only once under this scheme."
+    },
+    {
+      "question": "How will the selection of beneficiaries be prioritized?",
+      "answer": "If suitable beneficiaries of a particular category are not available, priority will be given to interchange among the subsidy eligibility categories."
+    },
+    {
+      "question": "What if I need assistance during the implementation of the project?",
+      "answer": "LIs/VTs/Gomitras/other workers will provide handholding support to the farmers."
+    },
+    {
+      "question": "What happens if there are remaining funds after covering all targeted beneficiaries?",
+      "answer": "Remaining funds can be utilized to cover more beneficiaries from the waiting list."
+    },
+    {
+      "question": "How is the scheme monitored?",
+      "answer": "The CDVO submits a monthly report on the implementation to the Directorate of AH & VS, Odisha."
+    }
+  ]
 }

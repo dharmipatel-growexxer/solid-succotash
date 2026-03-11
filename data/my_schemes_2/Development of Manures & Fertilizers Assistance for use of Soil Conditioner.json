@@ -1,17 +1,90 @@
 {
   "scheme_name": "Development of Manures & Fertilizers: Assistance for use of Soil Conditioner",
   "scheme_url": "https://www.myscheme.gov.in/schemes/dmf-scm",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Development of Manures & Fertilizers: Assistance for use of Soil Conditioner",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Development of Manures & Fertilizers\" was launched by the Department of Agriculture, Government of Goa. The \"Assistance for use of Soil Conditioner\" component of the scheme aims to amend the soil based on soil test reports, address pH and nutrient deficiencies in fertilization practices, and address important soil deficiencies like micronutrients that affect crop productivity. The payment of the sanctioned subsidy is through the Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer."
+    ],
+    "benefits": [
+      "Assistance for the use of Soil Conditioner",
+      "The soil conditioners like Rock phosphate, agricultural lime, dolomite, etc., would be provided a 75% subsidy limited to Rs. 6,000/- per ha for all categories of farmers and a maximum of 4 ha per farmer.",
+      "The soil conditioner shall be purchased and used by the farmer, and the subsidy shall be released after the use of the same in the field."
+    ],
+    "eligibility": [
+      "Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card.",
+      "The farmer should be cultivating a minimum of 0.1 ha in general.",
+      "Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme.",
+      "Farmer should possess a Soil Health Card not older than a 2-year period for availing assistance for Soil Conditioners and Micronutrients, or a certificate to that extent may be furnished by the Assistant Chemist of Soil Testing Laboratory (North/South)."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the",
+        "Zonal Agriculture Officer",
+        "and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer."
+      ]
+    },
+    "documents_required": [
+      "Krishi Card Abstract",
+      "Soil Health Card",
+      "Cash Invoice"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What specific agricultural documentation do I need to possess to be considered eligible for applying under this agricultural support initiative?",
+      "answer": "You must possess a valid Krishi Card to be eligible for applying. Additionally, for assistance related to Soil Conditioners and Micronutrients, you need a Soil Health Card that is not older than 2 years, or a certificate from the Assistant Chemist of Soil Testing Laboratory (North/South)."
+    },
+    {
+      "question": "Is there a minimum land holding requirement that I must meet to qualify for financial assistance under this agricultural development program?",
+      "answer": "You must be cultivating a minimum of 0.1 hectare (ha) in general."
+    },
+    {
+      "question": "Can organizations or corporate entities involved in farming activities also receive benefits under this agricultural scheme, or is it restricted only to individual cultivators?",
+      "answer": "Yes, institutions and private limited companies that are involved in agriculture activities and possess a valid Krishi Card are also eligible for assistance under this scheme."
+    },
+    {
+      "question": "What is the primary purpose behind implementing this soil and fertilizer development initiative by the state agriculture department?",
+      "answer": "The scheme aims to amend soil based on soil test reports, address pH and nutrient deficiencies in fertilization practices, manage micronutrient deficiencies affecting crop productivity, and promote renewable energy production through biogas units while converting farm waste into chemical-free organic manure."
+    },
+    {
+      "question": "To which designated agriculture official should I submit my application documents along with all the required supporting papers and invoices?",
+      "answer": "You should submit your application along with the Krishi Card Abstract, Soil Health Card, and cash invoice for purchased inputs to the Zonal Agriculture Officer of your area."
+    },
+    {
+      "question": "How will the approved financial subsidy be transferred to my account after the sanction has been granted by the competent authority?",
+      "answer": "The sanctioned subsidy will be paid through the Electronic Clearance System (ECS), which will directly transfer the amount to your account."
+    },
+    {
+      "question": "What are the key agricultural challenges in the region that this fertilizer and manure development scheme is designed to address effectively?",
+      "answer": "The scheme addresses the issue of acidic soils caused by high rainfall, which leads to deficiencies in various nutrients and minerals essential for healthy crop growth and production in the state."
+    },
+    {
+      "question": "Who holds the final authority to resolve any grievances or disputes that may arise during the implementation of this agricultural assistance program?",
+      "answer": "The Minister for Agriculture holds the final authority to hear and decide on any grievances arising from the scheme's implementation, and their decision is final and binding on all concerned parties."
+    },
+    {
+      "question": "Are there any circumstances under which the government can provide exceptions or modifications to the standard eligibility conditions specified in the scheme?",
+      "answer": "Yes, the Government is empowered to relax any or all clauses or conditions of the scheme in genuine cases. However, financial assistance in such relaxed cases requires approval from the Finance (Expenditure) Department."
+    },
+    {
+      "question": "Which state's farming community is eligible to receive benefits under this soil health and fertilizer development assistance program?",
+      "answer": "Farmers carrying out agricultural activities in the State of Goa are eligible to receive benefits under this scheme, provided they meet all other specified eligibility criteria."
+    },
+    {
+      "question": "After the Zonal Agriculture Officer submits my case, which official is responsible for examining and sanctioning my subsidy claim?",
+      "answer": "The District Agriculture Officer (North or South, depending on your location) is responsible for examining and sanctioning your subsidy claim after receiving it from the Zonal Agriculture Officer."
+    }
+  ]
 }

@@ -1,17 +1,107 @@
 {
   "scheme_name": "Fish Extension, Research, and Training Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ferts",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Fish Extension, Research, and Training Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Fish Extension, Research, and Training Scheme\" by the Department of Fisheries, Government of India aims to promote sustainable fishing practices and enhance fish production through scientific research, extension, and skill development. Under this scheme, financial and technical assistance are provided to fish farmers, fishery extension workers, and others in the fisheries sector."
+    ],
+    "benefits": [
+      "Training and Workshops:",
+      "Fish Seed Producers: 3-day training with a subsidy of ₹225.50 per participant (excluding travel/accommodation).",
+      "Fish Farmers/Stakeholders: Workshops with a subsidy of ₹1500.50 per participant (covering expenses and travel up to ₹600).",
+      "Fish Production and Research:",
+      "₹2,00,000/- for producing 5 tons of Pangasius fish.",
+      "Support for research on new fish species and maintenance of labs/museums.",
+      "Fish Seed Distribution:",
+      "Subsidies for seed procurement of various fish species (e.g., Amur Carp, Tilapia).",
+      "Incentives:",
+      "Up to ₹30,000 for exemplary farmers, with awards in the form of equipment (e.g., aerators, oxygen cylinders).",
+      "Identity Cards:",
+      "Issuance of identity cards for 1,050 fishermen.",
+      "Public Awareness:",
+      "₹100 per day for Birsa Fish Farmers during workshops.",
+      "Cage Fish Culture Support:",
+      "Financial assistance for information collection and technical support."
+    ],
+    "eligibility": [
+      "The applicant should be a registered fish farmer, fishery extension worker, or related entity in the fisheries sector.",
+      "The applicant should have prior experience or relevant qualifications in the fisheries field.",
+      "The applicant should be from a region identified under the scheme by the Department of Fisheries.",
+      "Preference will be given to applicants from rural and underdeveloped areas.",
+      "The applicant should have a valid bank account for fund disbursement."
+    ],
+    "application_process": {
+      "offline": [
+        "Apply after the advertisement is published:",
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Fisheries Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof",
+      "Bank Account Details",
+      "Registration Proof of Fish Farming (for farmers and fishery extension workers)",
+      "Qualification Certificates (for applicants seeking training or research grants)",
+      "Project Proposal (for infrastructure development or research funding)"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Can fish farmers from rural areas apply for the scheme?",
+      "answer": "Yes, preference is given to applicants from rural and underdeveloped areas, making it easier for rural fish farmers to apply."
+    },
+    {
+      "question": "What kind of financial support is available under this scheme?",
+      "answer": "The scheme provides financial support for training, infrastructure development, research projects, and technical consultations, disbursed either as grants or reimbursements."
+    },
+    {
+      "question": "How do I know if I am eligible to apply for this scheme?",
+      "answer": "Applicants must be involved in the fisheries sector (fish farmers, fishery extension workers) with prior experience or qualifications in the field."
+    },
+    {
+      "question": "How can I apply for the training programs?",
+      "answer": "Apply by registering on the official NFDB website and submitting an application with required documents like qualification certificates and project proposals."
+    },
+    {
+      "question": "What documents do I need to provide when applying for this scheme?",
+      "answer": "Required documents include identity proof, bank account details, fish farming registration, qualification certificates, and project proposals, if applicable."
+    },
+    {
+      "question": "How are the funds disbursed to the beneficiaries?",
+      "answer": "Funds are disbursed through Direct Benefit Transfer (DBT) to the applicant's bank account upon approval of the project or training."
+    },
+    {
+      "question": "Can I apply for the research grant under this scheme?",
+      "answer": "Yes, research institutions and universities can apply for research grants related to sustainable fish farming practices under this scheme."
+    },
+    {
+      "question": "Can I apply for multiple types of assistance under this scheme?",
+      "answer": "Yes, you can apply for more than one type of assistance, such as both training and infrastructure grants, if eligible."
+    },
+    {
+      "question": "Is there any support available for the maintenance of infrastructure developed under the scheme?",
+      "answer": "The scheme primarily offers financial assistance for infrastructure development, but ongoing maintenance is the responsibility of the applicant."
+    },
+    {
+      "question": "Are there any special provisions for women or marginalized groups under this scheme?",
+      "answer": "While the scheme does not mention specific provisions for women or marginalized groups, preference is given to rural areas, which may include these communities."
+    },
+    {
+      "question": "Where can I find more information or resolve issues regarding my application?",
+      "answer": "For more details or any grievances, you can visit the official NFDB website or contact the District Fisheries Office."
+    }
+  ]
 }

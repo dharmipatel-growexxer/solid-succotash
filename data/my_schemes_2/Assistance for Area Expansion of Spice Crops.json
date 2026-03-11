@@ -1,17 +1,92 @@
 {
   "scheme_name": "Assistance for Area Expansion of Spice Crops",
   "scheme_url": "https://www.myscheme.gov.in/schemes/afaesp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Assistance for Area Expansion of Spice Crops",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Assistance for Area Expansion of Spice Crops\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial assistance to farmers for the area expansion of spice crops, including seed and rhizomatic spices, to enhance spice production in Gujarat."
+    ],
+    "benefits": [
+      "Maximum assistance up to ₹12,000/- per hectare at 40% of the unit cost of ₹30,000/- per hectare."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be engaged in the cultivation of spice crops, such as seed spices or rhizomatic spices."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "7/12 Certificate.",
+      "Aadhaar Card.",
+      "Bank Pass Book/Cancelled Cheque."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "User Manual (Applicant Registration)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Assistance for Area Expansion of Spice Crops\" scheme?",
+      "answer": "The objective of the scheme is to provide financial support to farmers in Gujarat for the expansion of land under the cultivation of spice crops, including seed and rhizomatic spices."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any farmer in Gujarat who cultivates spice crops is eligible to apply for the scheme."
+    },
+    {
+      "question": "Which types of crops are supported under this scheme?",
+      "answer": "The scheme supports the cultivation of seed spices and rhizomatic spices."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "The scheme provides financial assistance of 40% of the unit cost (₹30,000 per hectare), with a maximum limit of ₹12,000/- per hectare."
+    },
+    {
+      "question": "Is there any income limit for the applicant or their family to be eligible?",
+      "answer": "No, there is no income limit for the applicant or their family under this scheme."
+    },
+    {
+      "question": "How will the financial assistance be disbursed to the beneficiary?",
+      "answer": "The financial assistance will be directly credited to the bank account of the eligible farmer."
+    },
+    {
+      "question": "How can an applicant apply for this scheme?",
+      "answer": "Applicants can apply on the iKhedut portal to avail the benefits of the scheme."
+    },
+    {
+      "question": "What documents are required to apply for this scheme?",
+      "answer": "The required documents include the applicant's Aadhar card, a 7/12 land extract, and a bank passbook or cancelled cheque."
+    },
+    {
+      "question": "Who should the applicant contact for help or more information about the scheme?",
+      "answer": "The applicant should contact the nearest agriculture office or visit the iKhedut portal for more information."
+    }
+  ]
 }

@@ -1,17 +1,146 @@
 {
   "scheme_name": "Annapurna Scheme: Seed Exchange Programme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/as-sep",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Annapurna Scheme: Seed Exchange Programme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Annapurna Scheme” was launched by the Department of Farmers Welfare and Agricultural Development, Government of Madhya Pradesh. The “Seed Exchange Programme” component of the scheme aims to improve the economic status of Scheduled Caste and Scheduled Tribe small and marginal farmers by providing them with economic assistance to access improved seeds of high-yielding foodgrain crops, thereby increasing productivity and production. The scheme is implemented by the Directorate of Agriculture through the District Panchayats, Sub-Directorate of Agriculture, and the Senior Agriculture Development Officer. The applications for this scheme are accepted by the Rural Agriculture Extension Officer based on targets set according to the population of the target groups and the district's demand."
+    ],
+    "benefits": [
+      "Provision of improved seeds of high-yielding varieties of foodgrain crops.",
+      "75% subsidy on the actual price of the seed provided in exchange.",
+      "The maximum limit of the subsidy is ₹1,500/-.",
+      "Seeds of suitable varieties for the land and area will be provided in equal quantity compared to the seed provided by the farmer.",
+      "The provision is limited to a maximum area of one hectare.",
+      "Certified seed will be provided.",
+      "Conditions",
+      "The seeds supplied must be of the improved variety, prioritizing those that are suitable for or prevalent in the area.",
+      "If certified seed is scarce, or depending on the specific crop condition, true form seed may be distributed only with the permission of the Director of Agriculture.",
+      "If the farmer provides seed of a different crop for exchange, the seed given by the farmer must be worth 25% of the actual price of the certified seed of the requested crop.",
+      "The improved seed provided to the farmer will not exceed the requirement for one hectare.",
+      "The seed received from the beneficiary farmer must be sold through auction (Ghosh Vikray) at the local Agricultural Produce Market Committee by a designated committee.",
+      "Cash received as the farmer's share or resulting from the auction of the grain provided by the farmer must be deposited into the Government Treasury by challan under Head 0401 Agriculture Work, Other Deposit - 800 Other Deposit.",
+      "If a farmer who previously received seed is given seed again, it must not be for the same crop or variety provided in prior years."
+    ],
+    "eligibility": [
+      "The applicant must belong to the Scheduled Caste or Scheduled Tribe category.",
+      "The applicant must be a small or marginal farmer.",
+      "The applicant must be unable to afford the purchase of improved varieties of high-yielding foodgrain crops.",
+      "Post-Selection Conditions",
+      "The farmer must exchange their existing crop or seed for the improved seeds."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Target Determination and Allotment",
+        "The Director of Agriculture determines the physical targets for the district, considering the population of small and marginal Scheduled Caste and Scheduled Tribe farmers, previous years' progress, and the demand received from the districts.",
+        "The Sub-Director of Agriculture then divides the targets development-block-wise and obtains the necessary approval from the District Panchayat's Agriculture Standing Committee.",
+        "Step 2:",
+        "Grassroots Target Distribution and Preliminary Candidate Selection",
+        "The Sub-Director of Agriculture must inform the Sub-Divisional Agriculture Officer and the Senior Agriculture Development Officer of the approved targets.",
+        "The Senior Agriculture Development Officer further divides the received targets area-wise among the Rural Agriculture Extension Officers.",
+        "The primary selection of beneficiaries is carried out by the Rural Agriculture Extension Officer, who selects 1.5 times the required beneficiaries compared to the target.",
+        "Step 3:",
+        "Submission and Approval of the Primary List",
+        "The Rural Agriculture Extension Officer must prepare the list of selected farmers' names and submit it to the Senior Agriculture Development Officer.",
+        "The Senior Agriculture Development Officer is responsible for securing the approval of this primary list from the Agriculture Standing Committee of the Janpad Panchayat.",
+        "Step 4:",
+        "Finalizing the Selection and Waiting List",
+        "Names listed first in the approved primary list will be given priority.",
+        "The remaining farmers are placed on a waiting list, which is considered final and remains valid only until the current crop season, with no changes permitted at any other level.",
+        "Step 5:",
+        "Seed Demand Generation and Procurement",
+        "The demand for necessary seed under the scheme must be sent jointly signed by the Rural Agriculture Extension Officer and the Society Manager, via the Senior Agriculture Development Officer, to the Sub-Divisional Agriculture Officer.",
+        "The Sub-Divisional Agriculture Officer is responsible for coordinating with the seed supply organization and the cooperative bank manager to ensure that the seed is made available in a timely manner.",
+        "Step 6:",
+        "Seed Distribution to Beneficiaries",
+        "The selected beneficiary farmers are provided with high-yielding variety seeds through Service Co-operative Societies, Development Blocks, or Government Agricultural Farms.",
+        "Seed distribution agencies must store the seed at the nearest center, based on the demand of the area, to facilitate easy transport by the distribution organizations.",
+        "Step 7:",
+        "Collection and Auction of Farmer's Seed Contribution",
+        "The Senior Agriculture Development Officer ensures the arrangement for the collection of the seed received from the beneficiary farmer from various centers and its subsequent sale through auction (Ghosh Vikray) at the Agricultural Produce Market Committee.",
+        "The Deputy Director of Agriculture regularly reviews these auctions and presents any operational disturbances to the Collector during the weekly review meeting.",
+        "Step 8:",
+        "Financial Settlement and Payment to Supply Agency",
+        "Seed distribution agencies must submit a bill for the actual price of the seed provided to the farmers to the Senior Agriculture Development Officer.",
+        "After verification of the bill, the Senior Agriculture Development Officer sends it through the Sub-Divisional Agriculture Officer to the Deputy Director of Agriculture for payment.",
+        "The Deputy Director of Agriculture pays the actual price of the seed provided under the Seed Exchange Programme to the seed supply agency from the scheme budget.",
+        "Step 9:",
+        "Deposit of Farmer's Contribution",
+        "The cash amount received as the farmer's share, or the amount realized after the auction of the grain provided by the farmer, must be deposited into the Government Treasury by the Senior Agriculture Development Officer using a challan under Head 0401 Agriculture Work, Other Deposit - 800 Other Deposit.",
+        "Application Deadlines",
+        "For Kharif season: Beneficiary selection deadline is May 25; seed availability in the district is May 30; seed availability at farm/society/block is June 10; seed provision to farmers is June 15.",
+        "For Rabi/Summer season: Beneficiary selection deadline is August 31; seed availability in the district is September 15; seed availability at farm/society/block is September 30; seed provision to farmers is October 10."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate.",
+      "Proof Regarding the Size of Land Holding.",
+      "Information Pertaining To The Crop Or Seed Being Offered By The Farmer For Exchange."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What are the specific socioeconomic and landholding categories that must be met by applicants wishing to participate in this particular assistance program?",
+      "answer": "The applicant must be categorized as a small or marginal farmer. Additionally, the applicant must belong to either the Scheduled Caste or the Scheduled Tribe category."
+    },
+    {
+      "question": "If I am a former beneficiary, am I permitted to receive improved seeds again, and if so, are there any restrictions on the crop or variety?",
+      "answer": "Yes, but if an old farmer is provided seed again, it must be for a different crop or variety than those previously supplied in prior years."
+    },
+    {
+      "question": "Is there a strict maximum limit imposed on the amount of improved seed that can be provided to a single beneficiary farmer, based on land measurement?",
+      "answer": "Yes, the provision of improved seeds is strictly limited to the requirement necessary for a maximum area of 1 hectare."
+    },
+    {
+      "question": "What is the maximum financial amount or ceiling placed on the subsidy component provided to the selected beneficiaries for the cost of the exchange seed?",
+      "answer": "The subsidy provided is limited to a maximum amount of ₹1,500/-."
+    },
+    {
+      "question": "What specific quality standard or certification level must the high-yielding variety seed supplied to the eligible farmers generally adhere to?",
+      "answer": "Certified seed will be provided. If certified seed is scarce, the Director of Agriculture may permit the distribution of true form seed for specific crops."
+    },
+    {
+      "question": "If I offer seed of a crop different from the high-yielding seed I wish to receive, how is the required value of my provided seed calculated?",
+      "answer": "The seed provided by the farmer must be equivalent to 25% of the actual price of the requested certified seed of the crop they wish to receive."
+    },
+    {
+      "question": "What unique action must a farmer perform concerning their existing harvest or crops in order to successfully receive the improved seeds provided by the program?",
+      "answer": "Applicants must provide their existing crop or seed to be exchanged for the improved, high-yielding variety seeds offered under the scheme."
+    },
+    {
+      "question": "During the official approval process by the Janpad Panchayat’s Agriculture Standing Committee, how is priority assigned among the selected applicants?",
+      "answer": "Names that are listed first in the approved primary list of farmers prepared by the Rural Agriculture Extension Officer will be given priority."
+    },
+    {
+      "question": "For how long will the prepared waiting list of farmers, whose names were not prioritized in the final selection, remain valid or active?",
+      "answer": "The waiting list is considered final and remains valid only until the current crop season concludes."
+    },
+    {
+      "question": "What exact percentage of the actual price of the improved seed being provided in exchange will be covered by the subsidy available under the guidelines?",
+      "answer": "Applicants are eligible for a 75% subsidy on the actual price of the seed provided in exchange by the distribution organization."
+    },
+    {
+      "question": "When exchanging my existing crop or seed, will the improved seeds I receive in return be provided based on mass or volume equivalence?",
+      "answer": "The improved seeds of suitable varieties will be provided in a quantity equal to the quantity of the seed provided by the farmer for exchange."
+    },
+    {
+      "question": "Is there a prerequisite concerning my existing financial capacity to purchase high-yielding varieties of foodgrain crops before applying for this benefit?",
+      "answer": "Yes, the applicant must be a farmer who is currently unable to afford the purchase of improved varieties of high-yielding foodgrain crops."
+    },
+    {
+      "question": "When selecting the type of improved seed to provide, what key characteristic or factor is given the primary consideration by the implementing authorities?",
+      "answer": "Priority is given to improved varieties of foodgrain crops that are suitable for or prevalent in the specific geographical area of the farmer."
+    },
+    {
+      "question": "How many potential farmers, relative to the actual established district target, does the Rural Agriculture Extension Officer typically select initially?",
+      "answer": "The Rural Agriculture Extension Officer selects 1.5 times the number of required beneficiaries compared to the established physical target."
+    }
+  ]
 }

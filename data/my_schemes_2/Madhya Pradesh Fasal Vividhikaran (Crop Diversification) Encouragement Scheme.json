@@ -1,17 +1,129 @@
 {
   "scheme_name": "Madhya Pradesh Fasal Vividhikaran (Crop Diversification) Encouragement Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mpfvcdes",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Madhya Pradesh Fasal Vividhikaran (Crop Diversification) Encouragement Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Madhya Pradesh Fasal Vividhikaran (Crop Diversification) Encouragement Scheme\" was launched by the Farmer Welfare and Agriculture Development Department, Government of Madhya Pradesh. The scheme aims to provide encouragement for crop diversification in Madhya Pradesh. The scheme provides support primarily for Human Resources (Manav Sansadhan) deployed for area overlap and Marketing (Vipanan), and necessary inputs provided to farmers to motivate diversification. The applicant must be an eligible Company, Firm, or Institution that fulfills certain conditions, such as maintaining records, advising farmers on Agriculture Practices (Krishi Karyapranali), and arranging for the purchase of the crops. The scheme is implemented under the overall supervision of the Director, Farmer Welfare and Agriculture Development Department. The applications for this scheme are accepted by presenting the Detailed Project Report (DPR) to the Director, Farmer Welfare and Agriculture Development Department."
+    ],
+    "benefits": [
+      "The scheme permits the costs incurred for necessary inputs provided to farmers to inspire them towards diversification.",
+      "The scheme primarily sanctions costs related to Human Resources (Manav Sansadhan) deployed for area overlap and Marketing (Vipanan).",
+      "The scheme generally does not sanction Capital (Poonji) expenditure.",
+      "Capital expenditure may be sanctioned only in special circumstances for Critical Equipment.",
+      "Assistance from the State Government is provided for a minimum period of 3 years.",
+      "The period of assistance may be extended based on specific needs.",
+      "The applicant organization, if eligible for other Central Government or State Government schemes for capital investment, will be facilitated to receive such assistance.",
+      "Conditions",
+      "The implementation and monitoring of the scheme must ensure that work is carried out according to the determined directions and guidelines of the State Level Project Screening Committee (SLPSC).",
+      "The proposal submitted by the applicant must detail the viability (Vyavsayata) and provide justification (Aparikshan) for the Proposed Expenditures (Prastavit Vyay).",
+      "If the applicant Company, Firm, or Institution violates the conditions of the sanction, especially the terms of the Detailed Project Report (DPR), provision will be made for regulatory action or recovery of funds."
+    ],
+    "eligibility": [
+      "The applicant must be a Company, Firm, or Institution.",
+      "The applicant must maintain all records and qualifications as a qualifying Company, Firm, or Institution.",
+      "The applicant must advise the farmer regarding the sowing of the 'Eligible Crop' and the associated Agriculture Practice (Krishi Karyapranali).",
+      "The applicant must confirm the purchase of the 'Eligible Crop'.",
+      "The applicant must execute the crop diversification work.",
+      "The applicant must make a mandatory tie-up with another Company, Firm, or Institution for the purchase of the 'Eligible Crop'.",
+      "The applicant must ensure they themselves do not purchase the crop.",
+      "The Eligible Crop must be any crop, excluding wheat (Gehun) and paddy (Dhan), that is sown in place of wheat and paddy.",
+      "The Eligible Crop must not be covered under Minimum Support Price (MSP).",
+      "Horticultural crops must also be included in the Eligible Crops."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Application Submission",
+        "The applicant Company, Firm, or Institution must prepare and present the Detailed Project Report (DPR) along with the application to the",
+        "Director, Farmer Welfare and Agriculture Development Department.",
+        "Step 2:",
+        "Administrative Arrangement",
+        "The Director, Farmer Welfare and Agriculture Development Department, must establish the necessary administrative arrangements after receiving the proposal under the scheme.",
+        "Step 3:",
+        "Preliminary Review and Screening",
+        "The Director, Farmer Welfare and Agriculture Development Department, must examine the received proposals and present them to the State Level Project Screening Committee (SLPSC) for consideration. The State Level Project Screening Committee (SLPSC) may obtain amended proposals after consultation with the applicant institution.",
+        "Step 4:",
+        "Project Examination",
+        "The State Level Project Screening Committee (SLPSC) will review the viability (Vyavsayata) of the project and conduct necessary verification (Aparikshan) of the justification of the Proposed Expenditures (Prastavit Vyay).",
+        "Step 5:",
+        "Final Proposal Submission",
+        "Following the recommendation of the State Level Project Screening Committee (SLPSC), the proposal is sent for final sanction to the Cabinet Committee for Investment Promotion-CCIP.",
+        "Step 6:",
+        "Final Approval",
+        "Final sanction for the project proposals is granted by the Cabinet Committee for Investment Promotion-CCIP."
+      ]
+    },
+    "documents_required": [
+      "Detailed Project Report (Must be submitted along with the application).",
+      "Record Of Qualifications (To prove the eligibility as a qualifying Company, Firm, or Institution).",
+      "Project Viability Report (Required for examination by the State Level Project Screening Committee).",
+      "Proposed Expenditure Justification Report (Required for examination by the State Level Project Screening Committee).",
+      "Tie-Up Agreement With Purchasing Company/Firm/Institution (Required for the purchase of the Eligible Crop)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Are there any exceptional situations or conditions under which requests for funding capital expenditure might be approved by the sanctioning authorities?",
+      "answer": "Capital expenditure may be sanctioned only in specific circumstances. This sanction is generally reserved for the acquisition of Critical Equipment."
+    },
+    {
+      "question": "As an implementing organization, am I permitted to directly procure or buy the diversified crops that are harvested by the participating farmers?",
+      "answer": "No, the implementing Company, Firm, or Institution must ensure that they themselves do not purchase the 'Eligible Crop'. The applicant must instead execute the purchase via a mandatory tie-up with another entity."
+    },
+    {
+      "question": "If the applying organization requires capital investment, is there any support provided to help them access funding outside of this specific scheme?",
+      "answer": "Yes, if the applicant organization is eligible for other Central Government or State Government schemes for capital investment. They will be facilitated to receive such external assistance."
+    },
+    {
+      "question": "What main areas of operational expenditure are prioritized and typically considered valid for sanctioning under the project activities of this scheme?",
+      "answer": "The costs primarily sanctioned relate to Human Resources (Manav Sansadhan) deployed for area overlap and Marketing (Vipanan). These costs are authorized to encourage crop diversification."
+    },
+    {
+      "question": "What specific types of crops qualify as acceptable alternatives to wheat (Gehun) and paddy (Dhan) when submitting a proposal under this encouragement initiative?",
+      "answer": "The eligible crop must be any crop sown in place of wheat and paddy that is not covered under the Minimum Support Price (MSP). Horticultural crops must also be included in the Eligible Crops list."
+    },
+    {
+      "question": "Is it possible for the minimum assistance period of time offered by the State Government to be prolonged if the circumstances warrant such an extension?",
+      "answer": "Yes, while assistance from the State Government is provided for a minimum period of 3 years. The period of assistance may be extended based on specific needs of the project."
+    },
+    {
+      "question": "What administrative requirements must the applicant entity satisfy concerning its official status and the documentation of its internal operations?",
+      "answer": "The applicant must maintain all records and qualifications as a qualifying Company, Firm, or Institution. This is a mandatory criterion for eligibility under the scheme."
+    },
+    {
+      "question": "What are the potential regulatory consequences or financial penalties if the sanctioned Company fails to adhere strictly to the terms outlined in the approved Detailed Project Report?",
+      "answer": "If the applicant Company, Firm, or Institution violates the conditions of the sanction or fails to act according to the Detailed Project Report (DPR). Provision will be made for regulatory action or recovery of funds."
+    },
+    {
+      "question": "What is the crucial documentation that must be compulsorily submitted along with the initial application when applying to the Director, Farmer Welfare and Agriculture Development Department?",
+      "answer": "The applicant Company, Firm, or Institution must prepare and present the Detailed Project Report (DPR) along with the application. This report is essential for project screening and final approval."
+    },
+    {
+      "question": "If my organization is selected to execute diversification work, is it required to establish a formal purchasing agreement with another entity?",
+      "answer": "Yes, the applicant must make a mandatory tie-up with another Company, Firm, or Institution for the purchase of the 'Eligible Crop'. The applicant itself is restricted from purchasing the crop."
+    },
+    {
+      "question": "Are costs related to large infrastructure purchases or fixed assets generally covered and recognized as valid expenses for reimbursement under the scheme guidelines?",
+      "answer": "Generally, Capital (Poonji) expenditure is not recognized as valid for reimbursement or sanction under the scheme. Only in special circumstances may Critical Equipment costs be sanctioned."
+    },
+    {
+      "question": "Which specific types of entities, such as businesses or organizations, are deemed eligible to submit proposals and act as applicants for this encouragement scheme?",
+      "answer": "The applicant must be a Company, Firm, or Institution. These entities must execute the crop diversification work and fulfill specific conditions."
+    },
+    {
+      "question": "For how long should a successful applicant organization expect to receive financial assistance and support from the State Government under this program?",
+      "answer": "Assistance from the State Government is guaranteed for a minimum period of 3 years. This period may be increased depending on the specific needs of the project."
+    },
+    {
+      "question": "What specific educational or guidance role must the implementing entity fulfill regarding the cultivation methods used by the participating farmers?",
+      "answer": "The applicant must advise the farmer regarding the sowing of the 'Eligible Crop' and the associated Agriculture Practice (Krishi Karyapranali). The applicant must also confirm the purchase of the crop."
+    }
+  ]
 }

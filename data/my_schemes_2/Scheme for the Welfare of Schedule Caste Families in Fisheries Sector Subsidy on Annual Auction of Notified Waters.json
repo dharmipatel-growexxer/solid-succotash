@@ -1,17 +1,119 @@
 {
   "scheme_name": "Scheme for the Welfare of Schedule Caste Families in Fisheries Sector: Subsidy on Annual Auction of Notified Waters",
   "scheme_url": "https://www.myscheme.gov.in/schemes/faotaaonw",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Scheme for the Welfare of Schedule Caste Families in Fisheries Sector: Subsidy on Annual Auction of Notified Waters",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Subsidy on Annual Auction of Notified Waters” is a scheme component under the Scheme for the Welfare of Scheduled Caste Families in the Fisheries Sector, launched by the Fisheries Department, Government of Haryana. The objective of the scheme is to provide full-time employment to individuals from Scheduled Caste families in the fisheries sector and uplift their socio-economic status by promoting fish farming through subsidization of fishing contract costs in designated water bodies. Under this scheme, a subsidy of up to 50% of the actual auctioned amount of notified water bodies is provided to Scheduled Caste beneficiaries to help them acquire fishing rights in such notified waters."
+    ],
+    "benefits": [
+      "50% subsidy of the actual auctioned amount with maximum limit of ₹5,00,000/- per auction, whichever is less."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should possess a valid Family ID Card (Parivar Pehchan Patra).",
+      "The applicant should belong to a Scheduled Caste category.",
+      "The applicant's age should be 18 years or above."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Fees For Service:",
+        "Government Charges: ₹0 (No Fee)",
+        "Service Charges: ₹10",
+        "Atal Seva Kendra Charges: ₹10"
+      ]
+    },
+    "documents_required": [
+      "Agreement 1 – Registered agreement between Contractor/Licensee and Department",
+      "Date of Birth Certificate - Birth Certificate/Matriculation Certificate/PAN Card/Voter Card/Driving License",
+      "Identity Proof - Ration Card/Aadhar Card/PAN Card/Voter Card",
+      "Caste Certificate - Caste Certificate issued by 1st Class Magistrate",
+      "Training Certificate – Fisheries Training from any Govt. Institute",
+      "Payment Receipts"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Scheme Details (Page No. 3)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Scheduled Caste residents of Haryana aged 18 years or older, not employed in government services."
+    },
+    {
+      "question": "What is the benefit amount?",
+      "answer": "50% of the actual fishing contract bid, up to a maximum of ₹5,00,000."
+    },
+    {
+      "question": "Is this grant applicable to private or non-notified waters?",
+      "answer": "No, it is only for notified waters."
+    },
+    {
+      "question": "Where do I submit my application?",
+      "answer": "Applications can be submitted through the Fisheries Department or via the Antyodaya SARAL Portal of the Haryana Government."
+    },
+    {
+      "question": "Can a government employee apply?",
+      "answer": "No, government or semi-government employees are not eligible."
+    },
+    {
+      "question": "Is Family ID mandatory?",
+      "answer": "Yes, the applicant must have a valid Family ID Card."
+    },
+    {
+      "question": "Who implements this scheme?",
+      "answer": "The scheme is implemented by the Fisheries Department, Government of Haryana."
+    },
+    {
+      "question": "What percentage of the auction amount is subsidized?",
+      "answer": "50% of the actual auctioned amount is subsidized."
+    },
+    {
+      "question": "Is a caste certificate mandatory?",
+      "answer": "Yes."
+    },
+    {
+      "question": "What kind of agreement document is required?",
+      "answer": "A registered agreement between the contractor/licensee and the Fisheries Department is required."
+    },
+    {
+      "question": "How many times can one avail the benefit of this scheme?",
+      "answer": "The scheme is generally limited to one-time assistance per auction."
+    }
+  ]
 }

@@ -1,17 +1,70 @@
 {
   "scheme_name": "Exhibition Fair and Publicity",
   "scheme_url": "https://www.myscheme.gov.in/schemes/efap",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Exhibition Fair and Publicity",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Exhibition Fair and Publicity” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh aims to spread awareness about horticultural technologies and departmental schemes through exhibitions and seminars conducted at district and block levels for the benefit of farmers."
+    ],
+    "benefits": [
+      "Awareness Creation:",
+      "Farmers receive knowledge about horticulture schemes and technologies related to fruit, flower, vegetable, and spice crops.",
+      "Scheme Promotion:",
+      "Departmental schemes are publicized to ensure more participation and benefit utilization among farmers."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a resident of Madhya Pradesh."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant should contact the District Office of the Horticulture Department."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity.",
+      "Residence Certificate.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The objective of the scheme is to spread awareness about horticultural technologies and departmental schemes among farmers."
+    },
+    {
+      "question": "Which department implements this scheme?",
+      "answer": "The Horticulture and Food Processing Department, Government of Madhya Pradesh, implements this scheme."
+    },
+    {
+      "question": "What type of events are organized under this scheme?",
+      "answer": "Exhibitions and seminars are organized at the district and block levels."
+    },
+    {
+      "question": "Who can participate in these exhibitions and seminars?",
+      "answer": "All farmers are eligible to participate."
+    },
+    {
+      "question": "What types of crops are covered under this scheme?",
+      "answer": "Fruit, flower, vegetable, and spice crops are covered."
+    },
+    {
+      "question": "How can a farmer apply for participation in the scheme?",
+      "answer": "Farmers can contact the District Office of the Horticulture Department."
+    },
+    {
+      "question": "What are the benefits of attending these exhibitions?",
+      "answer": "Farmers gain knowledge about improved techniques and schemes in horticulture."
+    },
+    {
+      "question": "Are women farmers also eligible to participate?",
+      "answer": "Yes, women farmers are equally eligible to participate in all events under this scheme."
+    }
+  ]
 }

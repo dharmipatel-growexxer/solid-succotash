@@ -1,17 +1,150 @@
 {
   "scheme_name": "Mukhyamantri Samekit Chaur Vikas Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mmscvy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Samekit Chaur Vikas Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Mukhyamantri Samekit Chaur Vikas Yojana\" was launched by the Animal and Fisheries Resources Department, Government of Bihar. under Seven Nishchay-2, aims to develop undeveloped and unutilized private land in Bihar for fish-based integrated aquaculture. With a budget of ₹2972.79 lakh, the scheme targets the sustainable development of 600 hectares of Chaur land",
+      "Objective:",
+      "Utilization of unutilized private land for fish farming.",
+      "Increase in fish production and productivity.",
+      "Groundwater level improvement, supporting the \"Jal-Jeevan-Hariyali\" campaign.",
+      "Additional employment opportunities for farmers.",
+      "Strengthening of the local economy."
+    ],
+    "benefits": [
+      "Beneficiary-based subsidy:",
+      "50% for other categories.",
+      "70% for Most Backward Castes, Scheduled Castes, and Scheduled Tribes.",
+      "40% Entrepreneur-based subsidy."
+    ],
+    "eligibility": [
+      "The applicant should be an individual, family, group beneficiary, or entrepreneur.",
+      "The applicant should be a private landowner or lessee in Chaur-dominated districts."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step-01:",
+        "The applicant visits the",
+        "official website",
+        "and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25),",
+        "click here",
+        "to apply\".",
+        "Step-02:",
+        "Select the \"",
+        "Registration for Fisheries Schemes",
+        "\"",
+        "Step-03:",
+        "Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc.",
+        "Step-04:",
+        "Enter a valid 10-digit mobile number and click to send OTP.",
+        "Step-05:",
+        "An OTP will be sent to the provided mobile number.",
+        "Step-06:",
+        "Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password.",
+        "Step-07:",
+        "Click on the \"Login\" and enter the Registration Number and Password",
+        "Application Form Filling Process:",
+        "Click \"If your already register,",
+        "login here",
+        "\".",
+        "Step-03",
+        ": Select \"Application form\" under the \"scheme name\" option on the top menu.",
+        "Applicant need to provide the following details :",
+        "Personal details.",
+        "Permanent address.",
+        "Bank account details.",
+        "Land details.",
+        "Financial availability of the scheme.",
+        "Agriculture, horticulture and agroforestry components",
+        "Step-05",
+        ": Upload the required documents",
+        "Passport size photographs.",
+        "Aadhaar card.",
+        "Land ownership certificate/revenue receipt or lease agreement, etc.",
+        "Click on the submit button and a receipt will be generated."
+      ]
+    },
+    "documents_required": [
+      "Passport size photographs",
+      "Aadhaar card",
+      "Caste certificate",
+      "Land ownership certificate/revenue receipt or lease agreement",
+      "Consent letter for group work",
+      "Registration certificate (for entrepreneurs)",
+      "Audit and income tax returns (for entrepreneurs)",
+      "Bank consent letter"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Login"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Private landowners, lessees, individual beneficiaries, families, groups, and entrepreneurs with land in Chaur-dominated districts of Bihar are eligible to apply."
+    },
+    {
+      "question": "What is the total budget for the scheme?",
+      "answer": "The total budget for the scheme is ₹2972.79 lakh."
+    },
+    {
+      "question": "How much subsidy is provided under the scheme?",
+      "answer": "Beneficiary-based subsidy: 50% for other categories, 70% for Most Backward Castes, Scheduled Castes, and Scheduled Tribes. Entrepreneur-based subsidy: 40%."
+    },
+    {
+      "question": "What is the process of site selection for pond construction?",
+      "answer": "Site selection is based on the highest flood level, ensuring no obstruction in the natural main drainage waterway. The height of the inlet-outlet and dam of the pond is determined accordingly, and the dam is strengthened."
+    },
+    {
+      "question": "How will the scheme help in increasing fish production?",
+      "answer": "By developing undeveloped and unutilized Chaur land for fish-based integrated aquaculture, the scheme aims to significantly increase fish production and productivity."
+    },
+    {
+      "question": "What is the role of the District Fisheries Officer?",
+      "answer": "The District Fisheries Officer is responsible for identifying suitable Chaur land, preparing beneficiary lists, conducting awareness campaigns, forming groups/clusters, and overseeing the implementation of the scheme."
+    },
+    {
+      "question": "Are there any training programs for the beneficiaries?",
+      "answer": "Yes, training programs and farmer seminars are conducted to provide necessary technical information and support to the beneficiaries."
+    },
+    {
+      "question": "How is the subsidy amount disbursed?",
+      "answer": "The subsidy amount is paid in three installments (two installments for pond construction and one for fish input) into the beneficiary's bank account through RTGS/NEFT."
+    },
+    {
+      "question": "What happens if the ponds are damaged due to natural disasters?",
+      "answer": "The scheme includes technical specifications to prevent damage due to floods, and the structure will be strengthened accordingly."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applications can be submitted online. Information and advertisements about the scheme are published in state-level daily newspapers."
+    },
+    {
+      "question": "What materials are used for pond construction?",
+      "answer": "The construction involves using soil extracted from the pond site for dam filling and ensuring compliance with technical specifications to withstand floods."
+    },
+    {
+      "question": "How is the selection of beneficiaries done?",
+      "answer": "Beneficiaries are selected based on the prescribed criteria by the District Fisheries Officer-cum-Chief Executive Officer. Priority is given to those with previous experience and training in fisheries."
+    },
+    {
+      "question": "What is the role of the District Chaur Development Committee?",
+      "answer": "The District Chaur Development Committee, chaired by the District Officer, monitors the implementation of the Chaur Development Plans and ensures coordination and support."
+    },
+    {
+      "question": "Are there any restrictions on the maximum area for pond construction?",
+      "answer": "An individual/family can develop a maximum of 5 hectares, and a group can develop up to 20 hectares. For entrepreneurs, the grant is limited to 40% of the unit cost, up to ₹1 crore."
+    },
+    {
+      "question": "What is the format of the return printed on the permanent boards?",
+      "answer": "The return format on the boards includes the details of the scheme, to be written with paint on an iron sheet of size 4x3 feet, standing four feet at an iron angle."
+    }
+  ]
 }

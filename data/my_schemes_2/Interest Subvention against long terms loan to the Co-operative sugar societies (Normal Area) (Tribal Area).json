@@ -1,17 +1,94 @@
 {
   "scheme_name": "Interest Subvention against long terms loan to the Co-operative sugar societies (Normal Area) (Tribal Area)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/isaltlcss",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Interest Subvention against long terms loan to the Co-operative sugar societies (Normal Area) (Tribal Area)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Interest Subvention against long terms loan to the Co-operative sugar societies (Normal Area) (Tribal Area)\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provides interest subvention to sugar cooperative societies that availed loans for the payment of sugarcane arrears for the 2018-19 season. The central government covers 1 year of interest subsidy from the loan withdrawal date, after which the state government continues the subsidy for a maximum of 4 years at the lower of the actual interest or 7%."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Interest Subvention against long terms loan to the Co-operative sugar societies",
+      "Interest actually paid on the bank loan amount taken by the Sugar Cooperative or 7% or whichever is less for a maximum period of 4 (four) years or interest concession on loan repayment (whichever is earlier).",
+      "1 year of interest subvention to be paid by the Government of India from the date of withdrawal of this loan on the amount of bank loan taken by the State Sugar Co-operative Societies for affiliated purposes under the announced scheme for soft loan interest subvention on loans obtained for the payment of sugarcane arrears for the year 2018-19 for the respective sugarcane prices. Interest subvention paid by the State Government on interest actually payable or 7 percent or whichever is less for a maximum period of 4 (four) years or till the loan repayment (whichever is earlier)"
+    ],
+    "eligibility": [
+      "Sugar Co-operative Societies which have availed loan for payment of sugarcane arrears for the year 2018-19 for the respective sugarcane prices will be eligible for this scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "The concerned sugar co-operative societies who are eligible, should send the proposal through the District Registrar of the concerned district to the Director of Sugar, Gujarat State, Gandhinagar.",
+        "Office Address and Contact Details of District Registrar:",
+        "Click here",
+        ".",
+        "Office Address and Contact Details of Director Of Sugar:",
+        "Director of sugar",
+        "Address:",
+        "Dr.Jivraj Mehta bhavan, Block No.8 ,2nd floor, Gandhinagar",
+        "Phone:",
+        "232-53437",
+        "Email Us:",
+        "directorsugar[at]gmail[dot]com"
+      ]
+    },
+    "documents_required": [
+      "Loan sanction letter from the bank.",
+      "Proof of loan utilization for sugarcane arrears payment.",
+      "FRP notification issued by the Government of India (02/03/2019).",
+      "Audit reports of the sugar cooperative society.",
+      "Loan repayment schedule and bank statements.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines 1",
+      "Guidelines 2"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the purpose of this scheme?",
+      "answer": "The purpose of this scheme is to provide financial relief to sugar cooperative societies by subsidizing the interest on loans taken for clearing sugarcane arrears for the 2018-19 season."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Only sugar cooperative societies that have taken a bank loan to pay sugarcane arrears for the 2018-19 season are eligible to apply."
+    },
+    {
+      "question": "What kind of financial assistance is provided under this scheme?",
+      "answer": "The scheme provides interest subvention for a maximum period of 4 years. The Government of India pays the first year’s interest, while the state government provides a subsidy of up to 7% or the actual interest paid, whichever is lower, for the remaining period."
+    },
+    {
+      "question": "Can private sugar mills apply for this scheme?",
+      "answer": "No, only sugar cooperative societies are eligible under this scheme. Private sugar mills do not qualify for the benefits."
+    },
+    {
+      "question": "What is the maximum duration for which interest subvention is provided?",
+      "answer": "The interest subvention is provided for a maximum period of four years or until the loan is fully repaid, whichever comes earlier."
+    },
+    {
+      "question": "Can a sugar cooperative society apply for this scheme if it has already repaid the loan?",
+      "answer": "No, the scheme is applicable only for ongoing loans taken for sugarcane arrears of the 2018-19 season. Societies that have already repaid their loans are not eligible for interest subvention."
+    },
+    {
+      "question": "Can a sugar cooperative society apply for multiple loans under this scheme?",
+      "answer": "No, a sugar cooperative society can avail of interest subvention only for a single loan taken for clearing sugarcane arrears of the 2018-19 season."
+    },
+    {
+      "question": "How is the interest subvention amount calculated?",
+      "answer": "The interest subvention amount is calculated based on the actual interest paid on the loan or 7%, whichever is lower, for a maximum period of four years or until the loan is repaid."
+    },
+    {
+      "question": "What is the process for applying under this scheme?",
+      "answer": "Eligible sugar cooperative societies must submit their proposals through the District Registrar of the concerned district. The proposal is then forwarded to the Director of Sugar, Gujarat State, Gandhinagar, for approval."
+    },
+    {
+      "question": "Where can sugar cooperative societies get more information about this scheme?",
+      "answer": "Sugar cooperative societies can contact the District Registrar of their area or the office of the Director of Sugar, Gujarat State, Gandhinagar, for more details about the scheme."
+    }
+  ]
 }

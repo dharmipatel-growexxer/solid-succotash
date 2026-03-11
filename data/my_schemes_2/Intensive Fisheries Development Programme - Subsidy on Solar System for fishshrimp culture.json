@@ -1,17 +1,135 @@
 {
   "scheme_name": "Intensive Fisheries Development Programme - Subsidy on Solar System for fish/shrimp culture",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ssfschr",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Intensive Fisheries Development Programme - Subsidy on Solar System for fish/shrimp culture",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Subsidy on Solar System for Fish/Shrimp Culture\" is a component of the Intensive Fisheries Development Programme, implemented by the Fisheries Department, Government of Haryana. The scheme aims to provide financial assistance to fish and shrimp farmers for the purchase/installation of solar systems. Under this scheme, subsidies for solar systems are offered to farmers who cultivate fish or shrimp on a minimum area of 2.5 acres. The subsidy benefit is granted only once per beneficiary for a single unit."
+    ],
+    "benefits": [
+      "A subsidy of 60% on the total project cost amounting to ₹50,000 per kilowatt (KW) or a subsidy amount of ₹30,000 per KW, whichever is less, is provided.",
+      "The maximum limit for this subsidy is 30 KW for shrimp farmers.",
+      "The maximum limit for this subsidy is 10 KW for fish farmers."
+    ],
+    "eligibility": [
+      "The applicant should have a Parivar Pehchaan Patra (PPP).",
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant's age should be a minimum of 18 years.",
+      "The applicant should not be a government or semi-government employee.",
+      "A minimum of 2.5-acre area is required for fish/shrimp culture.",
+      "Note:",
+      "The benefit/subsidy will be provided only once to a beneficiary on a single unit."
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Note:",
+        "Govt. Charges:",
+        "No Fee",
+        "Service Charges:",
+        "₹ 10",
+        "Atal Seva Kendra Service Charges:"
+      ]
+    },
+    "documents_required": [
+      "Agreement Deed between Fish Farmer and Fisheries Department (Agreement 1).",
+      "Date of Birth Certificate (Birth Certificate, Matriculation Certificate, Permanent Account Number (PAN) Card, Voter Card, or Driving License).",
+      "Identity Proof (Ration Card, Aadhaar Card, PAN Card, or Voter Card).",
+      "Training Certificate (Fisheries Training from any Government Institute).",
+      "Land Record (from Tehsil, including Own Land-Jamabandi, Nakal Akshizra, Farad, or registered lease deed of minimum 7 years).",
+      "Goods and Services Tax (GST) Bills/Receipts/Vouchers.",
+      "Photograph of the Site along with Solar System for power generation."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main objective of the scheme?",
+      "answer": "The scheme aims to promote intensive fisheries development by offering financial assistance for the installation of solar power systems for fish and shrimp farming."
+    },
+    {
+      "question": "Who are the primary beneficiaries of this scheme?",
+      "answer": "The scheme primarily benefits fish farmers and shrimp farmers who are engaged in aquaculture activities in Haryana."
+    },
+    {
+      "question": "What kind of financial assistance is provided under this scheme?",
+      "answer": "Financial assistance is provided in the form of a subsidy on the total project cost for setting up solar systems."
+    },
+    {
+      "question": "What is the percentage of subsidy offered on the total project cost?",
+      "answer": "A subsidy of 60% is offered on the total project cost for the solar system."
+    },
+    {
+      "question": "What is the maximum capacity of solar system subsidized for shrimp farmers?",
+      "answer": "For shrimp farmers, the maximum capacity of the solar system eligible for subsidy is limited to 30 KW."
+    },
+    {
+      "question": "What is the maximum capacity of solar system subsidized for fish farmers?",
+      "answer": "For fish farmers, the maximum capacity of the solar system eligible for subsidy is limited to 10 KW."
+    },
+    {
+      "question": "Is it mandatory to have a Parivar Pehchan Patra to apply for this scheme?",
+      "answer": "Yes, the applicant must possess a Parivar Pehchan Patra (PPP) to be eligible for the scheme."
+    },
+    {
+      "question": "Does the applicant need to be a resident of Haryana?",
+      "answer": "Yes, the applicant must be a permanent resident of Haryana to qualify for the scheme."
+    },
+    {
+      "question": "What is the minimum age requirement to apply for the subsidy?",
+      "answer": "The applicant's age must be a minimum of 18 years to be considered eligible for the scheme."
+    },
+    {
+      "question": "What is the minimum land area required for fish or shrimp culture to avail of the subsidy?",
+      "answer": "A minimum area of 2.5 acres is required for fish or shrimp culture to meet the eligibility criteria."
+    },
+    {
+      "question": "What type of agreement deed is required to apply for the subsidy?",
+      "answer": "An Agreement Deed between the Fish Farmer and the Fisheries Department, referred to as Agreement 1, is required."
+    },
+    {
+      "question": "What documents can be submitted as proof of date of birth?",
+      "answer": "A Birth Certificate, Matriculation Certificate, Permanent Account Number (PAN) Card, Voter Card, or Driving License can be submitted as proof of date of birth."
+    },
+    {
+      "question": "Which documents are accepted as identity proof for the application?",
+      "answer": "Accepted identity proofs include a Ration Card, Aadhaar Card, Permanent Account Number (PAN) Card, or Voter Card."
+    }
+  ]
 }

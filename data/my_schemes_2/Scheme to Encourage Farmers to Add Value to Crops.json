@@ -1,17 +1,99 @@
 {
   "scheme_name": "Scheme to Encourage Farmers to Add Value to Crops",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sefavc",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme to Encourage Farmers to Add Value to Crops",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Scheme to Encourage Farmers to Add Value to Crops\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to promote value addition in agriculture by helping farmers invest in machinery and equipment. This initiative seeks to improve the profitability of farming by supporting post-harvest processing and mechanization."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "50% of the machinery cost or ₹10,00,000/-, whichever is less."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must be involved in agriculture-related activities.",
+      "The applicant must intend to purchase machinery for value addition."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "7/12 Certificate.",
+      "Aadhaar Card.",
+      "Bank Pass Book/Cancelled Cheque."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 188)",
+      "User Manual (Applicant Registration)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Scheme to Encourage Farmers to Add Value to Crops\"?",
+      "answer": "The objective of the scheme is to provide financial assistance to farmers for purchasing machinery that adds value to their crops, thereby increasing their income."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any individual who is a farmer and a resident of Gujarat is eligible to apply for this scheme."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "The scheme provides financial assistance of 50% of the machinery cost or up to ₹10,00,000/-, whichever is lower."
+    },
+    {
+      "question": "Is the scheme available to farmers of all castes and categories?",
+      "answer": "Yes, the scheme is open to farmers of all castes, categories, and economic backgrounds."
+    },
+    {
+      "question": "Is there any income limit for availing benefits under this scheme?",
+      "answer": "No, there is no personal or family income limit for applying to this scheme."
+    },
+    {
+      "question": "How is the subsidy amount disbursed to the farmer?",
+      "answer": "The subsidy amount is directly transferred to the applicant's registered bank account."
+    },
+    {
+      "question": "Is this scheme applicable throughout Gujarat?",
+      "answer": "Yes, the scheme is implemented across all districts of Gujarat."
+    },
+    {
+      "question": "Where should a farmer apply for the scheme?",
+      "answer": "Applicants can apply on the iKhedut portal to avail of the benefits of the scheme."
+    },
+    {
+      "question": "What documents are required to apply for this scheme?",
+      "answer": "The required documents include an Aadhaar card, a 7/12 land record, and either a bank passbook or a cancelled cheque."
+    },
+    {
+      "question": "Who should the applicant contact for help or more information about the scheme?",
+      "answer": "The applicant should contact the nearest agriculture office or visit the iKhedut portal for more information."
+    }
+  ]
 }

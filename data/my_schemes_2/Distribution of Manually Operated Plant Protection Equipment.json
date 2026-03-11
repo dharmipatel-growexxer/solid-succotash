@@ -1,17 +1,93 @@
 {
   "scheme_name": "Distribution of Manually Operated Plant Protection Equipment",
   "scheme_url": "https://www.myscheme.gov.in/schemes/domoppe",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Distribution of Manually Operated Plant Protection Equipment",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Distribution of Manually Operated Plant Protection Equipment” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides financial assistance to farmers by offering a subsidy for manually operated plant protection equipment. Farmers who raise seed farms with pulse crops are eligible to receive this subsidy."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "A subsidy of 50% on the cost of equipment or ₹800/- whichever is less."
+    ],
+    "eligibility": [
+      "The beneficiary should be a Farmer.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should raise seed farms with Pulses crop."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Collect the application form from the nearest Agricultural Office.",
+        "Step 2:",
+        "Fill out the application form with the required details and attach mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the form to the concerned office:",
+        "Village Level:",
+        "Submit the application to the Assistant Agricultural Officer.",
+        "Block Level:",
+        "Submit to the Agricultural Officer or Deputy Agricultural Officer.",
+        "District Level:",
+        "Submit to the Joint Director of Agriculture."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity (Aadhar Card, Voter ID, etc.).",
+      "Proof of Land Ownership.",
+      "Proof of Seed Farm with Pulses Crop.",
+      "Bill or receipt of purchased equipment(s).",
+      "Caste Certificate (for SC/ST applicants).",
+      "Proof of being a Farm Woman (if applicable).",
+      "Bank Account Details.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the \"Distribution of Manually Operated Plant Protection Equipment\" scheme?",
+      "answer": "The \"Distribution of Manually Operated Plant Protection Equipment\" scheme provides farmers with a subsidy of 50% on the cost of equipment to enhance agricultural practices."
+    },
+    {
+      "question": "Who is eligible for the subsidy under this scheme?",
+      "answer": "All farmers who raise seed farms with pulse crops are eligible. Special allocations are available for SC/ST (24%) and Farm Women (20%)."
+    },
+    {
+      "question": "What is the subsidy amount provided under this scheme?",
+      "answer": "The subsidy is 50% of the cost of the equipment or ₹800/-, whichever is less."
+    },
+    {
+      "question": "How to apply for the subsidy?",
+      "answer": "Applications should be submitted to the Assistant Agricultural Officer at the Village Level, Agricultural Officer/Deputy Agricultural Officer at the Block Level, Assistant Director of Agriculture at the Block Level, or the Joint Director of Agriculture at the District Level."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "Required documents include proof of identity, proof of land ownership, bill or receipt of purchased equipment(s), proof of seed farm with Pulses crop, caste certificate (for SC/ST applicants), proof of being a Farm Woman (if applicable), and bank account details."
+    },
+    {
+      "question": "How long is the scheme valid?",
+      "answer": "The validity of the scheme is subject to the availability of funds."
+    },
+    {
+      "question": "Is there a specific allocation for SC/ST and Farm Women?",
+      "answer": "Yes, 24% of the subsidy allocation is reserved for SC/ST farmers and 20% for Farm Women."
+    },
+    {
+      "question": "Can the applicant receive subsidy if he/she is not a farmer but involved in related agricultural activities?",
+      "answer": "No, the scheme is specifically for farmers who raise seed farms with Pulses crops."
+    },
+    {
+      "question": "How to verify the status of the application?",
+      "answer": "Status of the application can be checked by contacting the office where the applicant has submitted the application."
+    },
+    {
+      "question": "What to do if the application is rejected?",
+      "answer": "If the application is rejected, the applicant may contact the respective agricultural officer for more details."
+    }
+  ]
 }

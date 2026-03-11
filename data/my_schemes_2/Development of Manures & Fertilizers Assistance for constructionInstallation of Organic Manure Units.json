@@ -1,17 +1,74 @@
 {
   "scheme_name": "Development of Manures & Fertilizers: Assistance for construction/Installation of Organic Manure Units",
   "scheme_url": "https://www.myscheme.gov.in/schemes/dmf-aciomu",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Development of Manures & Fertilizers: Assistance for construction/Installation of Organic Manure Units",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Development of Manures & Fertilizers\" was launched by the Department of Agriculture, Government of Goa. The \"Assistance for Construction/Installation of Organic Manure Units\" component of the scheme aims to aid in the conversion of available on-farm organic waste into chemical-free organic manure, providing quality organic farming inputs for sustainable agriculture. The payment of the sanctioned subsidy is through the Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer."
+    ],
+    "benefits": [
+      "Construction/Installation of organic manure units would be provided 75% subsidy limited to Rs. 1950/- per cu.mt. for Organic manure unit for all categories of farmer.",
+      "The standard cost for Organic manure unit would be Rs. 2600/- per cu. mt which includes 90% cost on construction/installation including mason cost and 10% on culture, decomposing material, etc.",
+      "The unit can have one or more pits with or without internal chambers and preferably be above ground level, of bricks, laterite stones, cement blocks, shahabadi/kadappa or RCC cement rings with clean internal side walls and should have adequate protection from sun and rain.",
+      "The portable organic manure unit of HDPE material and laid on prepared surface free from sharp objects and should be protected from rodents, maximum of 3 units would also be considered for subsidy @90% subsidy on the standard cost fixed and maximum amount of Rs. 7,500/- per farmer."
+    ],
+    "eligibility": [
+      "Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card.",
+      "Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the",
+        "Zonal Agriculture Officer",
+        "and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer."
+      ]
+    },
+    "documents_required": [
+      "Krishi Card Abstract",
+      "Soil Health Card",
+      "Cash Invoice",
+      "*The farmer should apply to the Agriculture Officer with the design and estimates and, in portable units, with an estimate of approved models prior to construction/installation."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Can organizations or corporate entities involved in farming activities also receive benefits under this agricultural scheme, or is it restricted only to individual cultivators?",
+      "answer": "Yes, institutions and private limited companies that are involved in agriculture activities and possess a valid Krishi Card are also eligible for assistance under this scheme."
+    },
+    {
+      "question": "To which designated agriculture official should I submit my application documents along with all the required supporting papers and invoices?",
+      "answer": "You should submit your application along with the Krishi Card Abstract, Soil Health Card, and cash invoice for purchased inputs to the Zonal Agriculture Officer of your area."
+    },
+    {
+      "question": "How will the approved financial subsidy be transferred to my account after the sanction has been granted by the competent authority?",
+      "answer": "The sanctioned subsidy will be paid through the Electronic Clearance System (ECS), which will directly transfer the amount to your account."
+    },
+    {
+      "question": "Are there any circumstances under which the government can provide exceptions or modifications to the standard eligibility conditions specified in the scheme?",
+      "answer": "Yes, the Government is empowered to relax any or all clauses or conditions of the scheme in genuine cases. However, financial assistance in such relaxed cases requires approval from the Finance (Expenditure) Department."
+    },
+    {
+      "question": "Which state's farming community is eligible to receive benefits under this soil health and fertilizer development assistance program?",
+      "answer": "Farmers carrying out agricultural activities in the State of Goa are eligible to receive benefits under this scheme, provided they meet all other specified eligibility criteria."
+    },
+    {
+      "question": "After the Zonal Agriculture Officer submits my case, which official is responsible for examining and sanctioning my subsidy claim?",
+      "answer": "The District Agriculture Officer (North or South, depending on your location) is responsible for examining and sanctioning your subsidy claim after receiving it from the Zonal Agriculture Officer."
+    },
+    {
+      "question": "Who has the ultimate authority to interpret any ambiguous terms or conditions mentioned in this agricultural development scheme's guidelines?",
+      "answer": "The Government of Goa holds the authority to interpret any clause, word, or expression of the scheme, and their decision regarding interpretation is final and binding on all concerned parties."
+    }
+  ]
 }

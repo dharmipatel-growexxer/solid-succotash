@@ -1,17 +1,104 @@
 {
   "scheme_name": "Fish Marketing Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/fms",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Fish Marketing Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Fish Marketing Scheme\" by the Fisheries Division, Department of Agriculture, Animal Husbandry & Cooperation, Government of Jharkhand, aims to provide financial assistance for fish marketing and transportation. Through this scheme, subsidies are provided to fisheries cooperative societies and their members for purchasing four-wheeler transport vans and setting up aquarium shops. The scheme is implemented by the Directorate of Fisheries, Jharkhand."
+    ],
+    "benefits": [
+      "A 60% subsidy or up to ₹3,60,000/- for purchasing four-wheeler transport vans for fisheries cooperative societies.",
+      "Up to ₹1,00,000/- subsidy for setting up aquarium shops with necessary equipment.",
+      "NOTE:",
+      "Assistance provided through DBT (Direct Benefit Transfer) into the beneficiary's Escrow Account."
+    ],
+    "eligibility": [
+      "The applicant should be a member of a registered fisheries cooperative society.",
+      "The applicant should be involved in fish marketing or seed transportation.",
+      "The applicant should contribute their share of the vehicle cost.",
+      "For aquarium shop setup, the applicant should be trained in ornamental fish farming.",
+      "Preference is given to women trained under fishery research and training programs.",
+      "Persons with disabilities (PwD) trained in ornamental fish farming receive top priority."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Fisheries Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Membership Proof of Fisheries Cooperative Society",
+      "Training Certificate (for aquarium shop setup)",
+      "Quotation for vehicle/equipment purchase",
+      "Bank Account Details",
+      "Disability Certificate (if applicable)",
+      "Business Plan for Fish Marketing (if applicable)"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Registered members of fisheries cooperative societies engaged in fish marketing or seed transportation and trained individuals for aquarium shop setup are eligible."
+    },
+    {
+      "question": "What is the maximum subsidy amount for a transport van?",
+      "answer": "A 60% subsidy or up to ₹3,60,000/- is provided, whichever is lower."
+    },
+    {
+      "question": "Can individuals apply for the transport van subsidy?",
+      "answer": "No, only fisheries cooperative societies or their members can apply for this benefit."
+    },
+    {
+      "question": "What is the subsidy amount for aquarium shop setup?",
+      "answer": "A maximum of ₹1,00,000/- subsidy is provided for purchasing necessary equipment."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Applications can be submitted at the District Fisheries Office with required documents."
+    },
+    {
+      "question": "How is the subsidy disbursed?",
+      "answer": "The subsidy is transferred via DBT into the supplier’s account after purchase verification."
+    },
+    {
+      "question": "Is there any reservation for women applicants?",
+      "answer": "Yes, priority is given to women trained in ornamental fish farming."
+    },
+    {
+      "question": "Can I apply for both vehicle and aquarium shop subsidies?",
+      "answer": "No, a single beneficiary cannot avail benefits under both components of the scheme."
+    },
+    {
+      "question": "How long do I have to deposit my contribution?",
+      "answer": "The beneficiary must deposit their contribution within one month of selection."
+    },
+    {
+      "question": "What happens if I fail to deposit my contribution?",
+      "answer": "The selection may be canceled if the contribution is not deposited within the stipulated time."
+    },
+    {
+      "question": "Do I need any training for the aquarium shop subsidy?",
+      "answer": "Yes, applicants should have completed training in ornamental fish farming."
+    },
+    {
+      "question": "Are there any additional costs apart from the subsidy?",
+      "answer": "Beneficiaries must bear registration, insurance, and any costs exceeding the subsidy limit."
+    },
+    {
+      "question": "Where can I get more information?",
+      "answer": "Details can be found on the official website www.jharkhandfisheries.org or at the District Fisheries Office."
+    }
+  ]
 }

@@ -1,17 +1,111 @@
 {
   "scheme_name": "Assistance in Packing Materials under Post Harvest Management of Horticultural Produce",
   "scheme_url": "https://www.myscheme.gov.in/schemes/apmuphmh",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Assistance in Packing Materials under Post Harvest Management of Horticultural Produce",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Assistance in Packing Materials under Post Harvest Management of Horticultural Produce\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by providing financial aid for packing materials used in post-harvest stages to maintain quality and reduce losses."
+    ],
+    "benefits": [
+      "Unit Cost:",
+      "₹10,000/ha.",
+      "75% of the cost or ₹7,500/hectare, whichever is less.",
+      "Note:",
+      "Corrugated boxes, wooden boxes will be used as packing material.",
+      "Assistance will be available up to a maximum limit of 1 hectare per account.",
+      "Available on i-Khedut portal every year (once during the year),"
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a resident of Gujarat.",
+      "The applicant should be engaged in horticultural cultivation."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "7/12 Certificate.",
+      "Aadhaar Card.",
+      "Bank Pass Book/Cancelled Cheque."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 70)",
+      "User Manual (Applicant Registration)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Assistance in Packing Materials under Post Harvest Management of Horticultural Produce\" scheme?",
+      "answer": "The \"Assistance in Packing Materials under Post Harvest Management of Horticultural Produce\" scheme aims to support farmers by providing financial aid for packing materials used in post-harvest stages to maintain quality and reduce losses."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any farmer residing in Gujarat and engaged in horticultural cultivation is eligible to apply for this scheme."
+    },
+    {
+      "question": "What is the amount of financial assistance provided under the scheme?",
+      "answer": "The scheme offers financial assistance of 75% of the unit cost or ₹7,500 per hectare, whichever amount is lower."
+    },
+    {
+      "question": "What is the maximum area for which assistance can be claimed?",
+      "answer": "Assistance can be claimed for a maximum of 1 hectare per farmer account per year."
+    },
+    {
+      "question": "What is the unit cost considered by the scheme?",
+      "answer": "The scheme considers a unit cost of ₹10,000/- per hectare for the purpose of calculating assistance."
+    },
+    {
+      "question": "Which types of packing materials are covered under the scheme?",
+      "answer": "The scheme provides support for packing materials such as corrugated boxes and wooden boxes used in the post-harvest handling of horticultural produce."
+    },
+    {
+      "question": "Is the scheme available every year?",
+      "answer": "Yes, the scheme is offered once every year and can be availed annually through the i-Khedut portal."
+    },
+    {
+      "question": "Is there any income limit set for eligibility under this scheme?",
+      "answer": "No, there is no personal or family income limit prescribed for applying to this scheme."
+    },
+    {
+      "question": "How is the assistance amount disbursed to the applicant?",
+      "answer": "The approved assistance amount is typically transferred directly to the applicant’s registered bank account."
+    },
+    {
+      "question": "Where should a farmer apply for the scheme?",
+      "answer": "Applicants can apply on the iKhedut portal to avail the benefits of the scheme."
+    },
+    {
+      "question": "What documents are required to apply for this scheme?",
+      "answer": "The required documents include an Aadhaar card, a 7/12 land record, and either a bank passbook or a cancelled cheque."
+    },
+    {
+      "question": "Who should the applicant contact for help or more information about the scheme?",
+      "answer": "The applicant should contact the nearest agriculture office or visit the iKhedut portal for more information."
+    }
+  ]
 }

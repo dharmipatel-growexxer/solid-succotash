@@ -1,17 +1,98 @@
 {
   "scheme_name": "Scheme to Increase Seed Replacement Rate (SRR)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/stisrr",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme to Increase Seed Replacement Rate (SRR)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Scheme to Increase Seed Replacement Rate (SRR)\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to enhance the Seed Replacement Rate among farmers by distributing certified seeds of various agricultural crops. This initiative is supported under the centrally sponsored National Food Security Mission (NFSM) and NFSM-Oilseeds schemes. The goal is to provide access to quality seeds and promote better agricultural practices for increased yield and income."
+    ],
+    "benefits": [
+      "Seed Distribution:",
+      "Certified seeds are distributed to eligible farmers."
+    ],
+    "eligibility": [
+      "The applicant should be a farmer.",
+      "The applicant should be residing in Gujarat."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "The applicant may visit and apply online at the",
+        "I-Khedut",
+        "Portal.",
+        "Step 2:",
+        "Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type.",
+        "Step 3:",
+        "Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'.",
+        "Step 4:",
+        "Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'.",
+        "Login Process:",
+        "Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Now select the scheme, click on the ‘Apply’ button, and an application page will open.",
+        "Click on the \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a printout of the confirmed application.",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "7/12 Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 542)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main objective of the \"Scheme to Increase Seed Replacement Rate (SRR)\"?",
+      "answer": "The main objective of the \"Scheme to Increase Seed Replacement Rate (SRR)\" is to improve crop productivity across the state by ensuring that farmers adopt high-quality certified seeds in place of conventional or farm-saved seeds, thereby enhancing agricultural yields and overall farm income."
+    },
+    {
+      "question": "Who can apply for the benefits under the \"Scheme to Increase Seed Replacement Rate (SRR)\"?",
+      "answer": "Any individual who is a resident farmer of Gujarat and is actively engaged in the cultivation of crops covered under the National Food Security Mission (NFSM) and NFSM-Oilseeds schemes is eligible to apply under the \"Scheme to Increase Seed Replacement Rate (SRR)\"."
+    },
+    {
+      "question": "Is there any income-based eligibility restriction under this scheme?",
+      "answer": "No, there is no income-based restriction under the \"Scheme to Increase Seed Replacement Rate (SRR)\"."
+    },
+    {
+      "question": "Is there any fee for submitting the application under this scheme?",
+      "answer": "The application process under the \"Scheme to Increase Seed Replacement Rate (SRR)\" is completely free of cost, and applicants are not required to pay any charges at any stage of the application."
+    },
+    {
+      "question": "What types of seeds are distributed through this scheme?",
+      "answer": "Under the \"Scheme to Increase Seed Replacement Rate (SRR)\", the Agriculture and Co-operation Department distributes certified seeds of various crops, including those supported under the centrally sponsored National Food Security Mission (NFSM) and NFSM-Oilseeds initiatives."
+    },
+    {
+      "question": "How often can a farmer receive benefits under this scheme?",
+      "answer": "A farmer is eligible to receive benefits under the \"Scheme to Increase Seed Replacement Rate (SRR)\" once during each cropping season, subject to availability and verification of eligibility by the implementing authority."
+    },
+    {
+      "question": "Is the scheme implemented throughout the entire state of Gujarat?",
+      "answer": "Yes, the \"Scheme to Increase Seed Replacement Rate (SRR)\" is a state-wide initiative and is implemented uniformly across all districts and regions of Gujarat to ensure equitable access to certified seeds for every eligible farmer."
+    },
+    {
+      "question": "Is Aadhaar card mandatory for applying to this scheme?",
+      "answer": "Yes, it is mandatory for applicants to submit a valid Aadhaar card while applying under the \"Scheme to Increase Seed Replacement Rate (SRR)\" as it is required for identity verification and to avoid duplication of benefits."
+    },
+    {
+      "question": "What are the steps to apply for the scheme?",
+      "answer": "To apply for the scheme, the applicant must visit the iKhedut portal, fill out the online application form, upload the required documents, and submit the form."
+    },
+    {
+      "question": "Can individuals from outside Gujarat apply for this scheme?",
+      "answer": "No, individuals who are not residents of Gujarat are not eligible to apply for the scheme as the scheme is exclusively for residents of the state."
+    }
+  ]
 }

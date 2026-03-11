@@ -1,17 +1,89 @@
 {
   "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Power Tiller",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pcardbpt",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Primary Cooperative Agriculture and Rural Development Bank: For Power Tiller",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Primary Cooperative Agriculture and Rural Development Bank: Power Tiller\" scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to provide financial assistance to farmers for purchasing a power tiller, with up to 90% of the cost covered through a loan. This initiative aims to support agricultural productivity by making essential farming equipment more accessible. The interest rate on the loan ranges from 11% to 12.25%."
+    ],
+    "benefits": [
+      "Access to Loan:",
+      "Up to 90% of the cost of a power tiller.",
+      "Interest Rate:",
+      "11% to 12.25% (subject to change)."
+    ],
+    "eligibility": [
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should be a farmer.",
+      "The beneficiary should be engaged in agricultural activities.",
+      "The beneficiary should be interested in availing of a loan for purchasing power tiller.",
+      "The beneficiary should have the intention to use the loan specifically for purchasing power tiller."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should collect the application form by contacting the Secretary/ Special Officer of the Primary Cooperative Agriculture and Rural Development Bank.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof (Aadhaar, PAN card, etc.).",
+      "Address proof.",
+      "Proof of Farming (if required).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme offers loans to farmers covering up to 90% of the cost of a power tiller, with an interest rate between 11% and 12.25%."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Farmers engaged in agricultural activities are eligible for this loan."
+    },
+    {
+      "question": "What is the purpose of this loan?",
+      "answer": "The loan is intended specifically for purchasing a power tiller to assist in farming activities."
+    },
+    {
+      "question": "What percentage of the power tiller’s cost is covered by the loan?",
+      "answer": "The loan covers up to 90% of the cost of a power tiller."
+    },
+    {
+      "question": "What is the interest rate on this loan?",
+      "answer": "The interest rate on the loan ranges from 11% to 12.25%."
+    },
+    {
+      "question": "Is the interest rate fixed or subject to change?",
+      "answer": "The interest rate is subject to change, depending on bank policies."
+    },
+    {
+      "question": "What documents are required to apply for the loan?",
+      "answer": "Required documents include proof of identity, proof of address, proof of farming etc."
+    },
+    {
+      "question": "Is there an age limit for eligibility under this scheme?",
+      "answer": "There is no specific age limit mentioned for eligibility."
+    },
+    {
+      "question": "Can applicants apply for this loan online?",
+      "answer": "Currently, applications must be submitted in person at a Primary Cooperative Agriculture and Rural Development Bank branch."
+    },
+    {
+      "question": "What is the repayment period for the loan?",
+      "answer": "The bank will specify the repayment period upon loan approval."
+    }
+  ]
 }

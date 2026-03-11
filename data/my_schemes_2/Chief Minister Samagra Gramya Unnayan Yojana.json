@@ -1,17 +1,111 @@
 {
   "scheme_name": "Chief Minister Samagra Gramya Unnayan Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/cmsguy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Assam",
+  "location_type": "state",
+  "page_title": "Chief Minister Samagra Gramya Unnayan Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "Objective",
+      "The main objective of the mission is to double the farm income, in unison with the vision of Hon'ble Prime Minister Shri Narendra Modi.",
+      "CMSGUY: The Way Ahead",
+      "At the current rate of growth, it will take about 80 years to double the farm income in Assam. Normal interventions by the Government in this regard would not be adequate to address the problem. Under CMSGUY there is a proposal to initiate massive investments in rural areas for complete rural empowerment in a period of five years in a focused and concerted manner to realize the dream of doubling the farm income.",
+      "This is sought to be achieved through a 'saturation model' by covering each revenue village through focused interventions in",
+      "Direct economic activities,",
+      "Logistic support including market linkages, and",
+      "Community support.",
+      "Above focused interventions are aimed at in nine critical areas and related sub-missions are:",
+      "Fishery Mission,",
+      "Milk Mission,",
+      "Organic Mission,",
+      "Land Management and Conservation Mission,",
+      "Sericulture, Khadi and Cottage Industry Mission,",
+      "Road and Broadband connectivity,",
+      "Semi-Processing, Processing and Market Linkages,",
+      "\"Youth-Yoga-Sports\" Mission and",
+      "e-Gram Mission by developing Village Knowledge Centres by strengthening traditional Namghar and other community institutions"
+    ],
+    "benefits": [
+      "The Government of Assam has launched Samagra Gramya Unnayan Yojana.",
+      "Through this scheme farm mechanisms will be enhanced in the state and double-cropping will be facilitated.",
+      "One tractor unit consisting of one tractor including its accessories will be provided to the selected beneficiary group in the revenue village.",
+      "This tractor will be provided at a subsidized rate.",
+      "Through this scheme, the government is going to provide a subsidy of 70% to the beneficiary subject to a maximum of 5.5 lahks.",
+      "This subsidy will be admissible on the lowest price of tractors in the government-notified list of tractors for the category concerned.",
+      "Similarly, the lowest approved price of implements will also be applicable for the subsidy.",
+      "The benefit of this scheme will be provided to a group of 8 to 10 members who are actual adult farmers of the same village."
+    ],
+    "eligibility": [
+      "The benefit of this scheme will be provided to any group of 8 to 10 members who are actual adult farmers of the same village",
+      "The group of farmers must have a common bank account and will apply jointly with the signatures of each member on the application form preferably along with particulars of land and crops cultivated",
+      "The applicant group should not have more than one member from one family"
+    ],
+    "application_process": {
+      "offline": [
+        "First of all, the applicants have to go to the nearest office of the Agriculture Department",
+        "Now applicants have to ask for the application form for Samagra Gramya Unnayan Yojana",
+        "Applicants have to fill out this application form by entering all the required details",
+        "Now applicants have to attach all the required documents",
+        "After that, applicants have to submit this form to the agriculture Department",
+        "By following this procedure applicant can apply under Samagra Gramya Unnayan Yojana"
+      ]
+    },
+    "documents_required": [
+      "List of required documents.",
+      "Aadhaar Card",
+      "Residence certificate",
+      "Passport size photograph",
+      "Mobile number",
+      "Email id",
+      "Income certificate",
+      "Age Proof",
+      "Bank account details etc"
+    ],
+    "sources_and_references": [
+      "Details"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the benefit to farmers with this scheme ?",
+      "answer": "The farmers can enhance farm mechanization in the state and to facilitate double cropping."
+    },
+    {
+      "question": "What is the mission of this scheme?",
+      "answer": "The Mega Mission is planning its activities to bring the desired change in the rural areas of the state."
+    },
+    {
+      "question": "What is the aims of this scheme in 5 years?",
+      "answer": "The main aim is to double the farm income in five years."
+    },
+    {
+      "question": "Do the farmers have to pay the full amount for tractor?",
+      "answer": "The group will provide tractors to the farmers on a rental basis."
+    },
+    {
+      "question": "What is the subsidy rate available to the applicant ?",
+      "answer": "The subsidy at the rate of 70% will be available to the applicant group on the total cost of the tractor unit so opted subject to a maximum of Rs.5.5 Lakh as mentioned in Clause 2 above titled “Provision of Subsidy."
+    },
+    {
+      "question": "Who can avail this scheme?",
+      "answer": "Any group of 8-10 members who are the actual adult farmers of the same village. How many members can take part from one family The applicant group should not have more than one member from one family"
+    },
+    {
+      "question": "What type of bank account the farmers should have?",
+      "answer": "The group should have a common bank account."
+    },
+    {
+      "question": "Does the applicant group have the right to choose the name of the brand and model out of the list notified by the State Govt?",
+      "answer": "The applicant group is free to choose all/any/none of the implements."
+    },
+    {
+      "question": "What is the minimum period on a rental basis to provide the tractor?",
+      "answer": "The group shall be liable to provide tractor unit (fully or partially as per need of the farmer) to the farmers of the village on rental basis for a minimum period of five years at a reasonable rate which may be fixed by the District Level Committee (DLC)"
+    },
+    {
+      "question": "How many members can take part from one family?",
+      "answer": "The applicant group should not have more than one member from one family."
+    }
+  ]
 }

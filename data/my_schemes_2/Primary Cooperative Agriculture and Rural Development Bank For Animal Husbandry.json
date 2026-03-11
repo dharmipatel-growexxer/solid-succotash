@@ -1,17 +1,96 @@
 {
   "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Animal Husbandry",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pcardah",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Primary Cooperative Agriculture and Rural Development Bank: For Animal Husbandry",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Primary Cooperative Agriculture and Rural Development Bank: For Animal Husbandry\" scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to provide financial support to farmers specifically for animal husbandry activities. This initiative aims to empower farmers by boosting livestock development and enhancing agricultural productivity."
+    ],
+    "benefits": [
+      "Access to Loan:",
+      "For purchasing 2 Buffaloes:",
+      "₹20,000/-.",
+      "For purchasing 21 Goats:",
+      "24,500/-.",
+      "Interest Rate:",
+      "14.5% to 16.5% (subject to change)."
+    ],
+    "eligibility": [
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should be a farmer.",
+      "The beneficiary should be engaged in animal husbandry.",
+      "The beneficiary should be interested to avail Animal Husbandry Loan from the Primary Cooperative Agriculture and Rural Development Bank.",
+      "The beneficiary should have the intention to use the loan specifically for animal husbandry (e.g., purchasing buffaloes or goats)."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should collect the application form by contacting the Secretary/ Special Officer of the Primary Cooperative Agriculture and Rural Development Bank.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof (Aadhaar, PAN card, etc.).",
+      "Address proof.",
+      "Proof of agricultural occupation (e.g., Farmer's certificate) (if applicable).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme offers medium-term loans of up to ₹60,000/- without interest to tribal members, enabling them to fulfill various financial needs."
+    },
+    {
+      "question": "Who sponsors this scheme?",
+      "answer": "The scheme is sponsored by the state government."
+    },
+    {
+      "question": "How much financial assistance can a farmer obtain under this scheme?",
+      "answer": "A farmer can receive up to ₹20,000/- for purchasing 2 buffaloes and ₹24,500/- for 21 goats."
+    },
+    {
+      "question": "What is the applicable interest rate for loans under this scheme?",
+      "answer": "The interest rate ranges from 14.5% to 16.5%, subject to revisions by the bank."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Farmers engaged in agricultural activities are eligible to apply for the loan."
+    },
+    {
+      "question": "What documents are required for applying to this scheme?",
+      "answer": "Farmers need to provide proof of identity, proof of residence, proof of agricultural occupation, and other relevant documents if required."
+    },
+    {
+      "question": "Is there any income limit for applying to the scheme?",
+      "answer": "No specific income limit is mentioned for eligibility."
+    },
+    {
+      "question": "Can the loan amount be used for purposes other than animal husbandry?",
+      "answer": "No, the loan amount should be utilized exclusively for animal husbandry purposes, such as purchasing buffaloes or goats."
+    },
+    {
+      "question": "From where the application form for the loan can be collected?",
+      "answer": "The interested applicant should collect the application form by contacting the Secretary/ Special Officer of the office of the Primary Cooperative Agriculture and Rural Development Bank."
+    },
+    {
+      "question": "Whom should farmers contact for more details about the scheme?",
+      "answer": "Farmers can reach out to the Secretary or Special Officer of the Primary Cooperative Agriculture and Rural Development Bank for additional information."
+    },
+    {
+      "question": "Is there an age limit for applicants?",
+      "answer": "The age criteria for applicants are determined by the bank’s policy."
+    }
+  ]
 }

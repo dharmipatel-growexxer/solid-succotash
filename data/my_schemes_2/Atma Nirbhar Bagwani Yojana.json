@@ -1,17 +1,101 @@
 {
   "scheme_name": "Atma Nirbhar Bagwani Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/anby",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Arunachal Pradesh",
+  "location_type": "state",
+  "page_title": "Atma Nirbhar Bagwani Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "Atma Nirbhar Bagwani Yojana is an umbrella scheme wherein all the schemes are subsumed under a bank-linked credit subsidy scheme, which will have a time-bound implementation and participation from various stakeholders – Government, Bank, Project Consultants, and Progressive Farmers. The beneficiaries under the scheme will be eligible for 45% subsidy from the Government of Arunachal Pradesh, 45% bank finance, and 10% beneficiary's contribution. The beneficiary will have to provide collateral security in the shape of land/property or an acceptable guarantee for a loan amount exceeding 1.6 Lakhs in case of individuals and 10 lakhs for SHGs/FPOs. Under this scheme, the following components are included for availing a bank loan:",
+      "Arecanut",
+      "Pineapple",
+      "Avocado",
+      "Dragon Fruit",
+      "Orange",
+      "Banana",
+      "Guava",
+      "Tractor",
+      "Power Tiller",
+      "Brush Cutter"
+    ],
+    "benefits": [
+      "Atmanirbhar Bagwani Yojna is basically meant for the cultivation of fruits like apples, walnut, orange, kiwi, and persimmon.",
+      "The line of credit will be provided by the State Bank Of India, Arunachal Pradesh Rural Bank, and Arunachal Pradesh Cooperative Apex Bank.",
+      "45 percent will be given by the government subsidy, 45 percent as bank loan and 10 percent will be contributed by the farmer.",
+      "There is no collateral for loans up to Rs 1.60 lakh.",
+      "For SHGs, no collateral is needed up to Rs 10 lakhs."
+    ],
+    "eligibility": [
+      "The applicant must be a resident and farmer of Arunachal Pradesh."
+    ],
+    "application_process": {
+      "offline": [
+        "The interested farmer/SHG/FPO is required to submit their duly filled application form and",
+        "proposai along with a self-attested passport size photograph to the Horticulture Development Office in their",
+        "respective Circle during the Office working hours to avail the scheme.",
+        "Application Form:",
+        "https://cdn.s3waas.gov.in/s3819f46e52c25763a55cc642422644317/uploads/2022/05/2022052453.pdf"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Voter Card",
+      "Residential Certificate",
+      "A valid Bank Account"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is Atma Nirbhar Bagwani Yojana (ANBY)?",
+      "answer": "Atma Nirbhar Bagwani Yojana is an umbrella scheme launched by the Government of Arunachal Pradesh to promote horticulture and self-reliance through a bank-linked credit subsidy model involving government, banks, consultants, and farmers."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Only residents and farmers of Arunachal Pradesh are eligible to apply."
+    },
+    {
+      "question": "What is the financial structure of the scheme?",
+      "answer": "The scheme provides: 45% Government Subsidy 45% Bank Loan 10% Beneficiary Contribution The scheme provides: 45% Government Subsidy 45% Bank Loan 10% Beneficiary Contribution"
+    },
+    {
+      "question": "Is collateral required for availing the loan?",
+      "answer": "No collateral is required for loans up to ₹1.6 lakh (individuals) and ₹10 lakh (SHGs/FPOs). For amounts above this, land/property or an acceptable guarantee must be provided. No collateral is required for loans up to ₹1.6 lakh (individuals) and ₹10 lakh (SHGs/FPOs). For amounts above this, land/property or an acceptable guarantee must be provided."
+    },
+    {
+      "question": "Which banks are participating in this scheme?",
+      "answer": "State Bank of India (SBI) Arunachal Pradesh Rural Bank (APRB) Arunachal Pradesh State Cooperative Apex Bank State Bank of India (SBI) Arunachal Pradesh Rural Bank (APRB) Arunachal Pradesh State Cooperative Apex Bank"
+    },
+    {
+      "question": "What kind of crops and equipment are covered under this scheme?",
+      "answer": "Eligible components include: Fruits: Arecanut, Pineapple, Avocado, Dragon Fruit, Orange, Banana, Guava Machinery: Tractor, Power Tiller, Brush Cutter (Apples, Kiwi, Walnut, and Persimmon are also encouraged) Eligible components include: Fruits: Arecanut, Pineapple, Avocado, Dragon Fruit, Orange, Banana, Guava Machinery: Tractor, Power Tiller, Brush Cutter"
+    },
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "To encourage commercial horticulture, increase farmer income, reduce dependency on external markets, and improve local production."
+    },
+    {
+      "question": "What is the mode of application?",
+      "answer": "The application process is offline. Applicants must submit their forms to the District Horticulture Office."
+    },
+    {
+      "question": "Is land ownership mandatory for this scheme?",
+      "answer": "No. According to the government, land documents like LPC (Land Possession Certificate) are not mandatory for availing the loan."
+    },
+    {
+      "question": "Are SHGs and FPOs eligible?",
+      "answer": "Yes. Self Help Groups (SHGs) and Farmer Producer Organizations (FPOs) can apply, and have a higher limit for collateral-free loans up to ₹10 lakh."
+    },
+    {
+      "question": "Is there a time limit for implementation?",
+      "answer": "Yes, the scheme is time-bound and implemented in a phased manner across districts with deadlines for each financial year."
+    },
+    {
+      "question": "Who will support in implementing the scheme?",
+      "answer": "The scheme involves multiple stakeholders, including the government, banks, project consultants, and progressive farmers for guidance and execution."
+    }
+  ]
 }

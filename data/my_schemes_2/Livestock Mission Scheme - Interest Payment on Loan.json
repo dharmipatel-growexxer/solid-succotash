@@ -1,17 +1,83 @@
 {
   "scheme_name": "Livestock Mission Scheme - Interest Payment on Loan",
   "scheme_url": "https://www.myscheme.gov.in/schemes/lmsipl",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Livestock Mission Scheme - Interest Payment on Loan",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Livestock Mission Scheme – Interest Payment on Loan” scheme has been introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote self-employment opportunities at the local level by encouraging livestock-based entrepreneurship and reducing the financial burden on beneficiaries through payment of 90% of the bank loan interest by the State Government."
+    ],
+    "benefits": [
+      "For promoting self-employment at the local level, 90% of the interest subsidy on the bank loan taken by the applicant for setting up the following units is borne by the State Government:",
+      "Dairy Entrepreneurship Development Scheme:",
+      "5 cow units",
+      "10 cow units",
+      "2 buffalo units",
+      "5 buffalo units",
+      "Load Carrier Entrepreneurship Development Scheme:",
+      "1 mule unit",
+      "2 mule unit",
+      "Sheep and Goat Entrepreneurship Development Scheme:",
+      "Sheep/Goat (5 female + 1 male)",
+      "Sheep/Goat (10 female + 1 male)",
+      "Pig Entrepreneurship Development Scheme:",
+      "Pig (5 female + 1 male)",
+      "Pig (10 female + 1 male)",
+      "Poultry Entrepreneurship Development Scheme:",
+      "Commercial broiler farm for 1,000 birds",
+      "Small commercial layer farm for 250 birds"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an interested livestock farmer.",
+      "The livestock farmer must be eligible to avail a bank loan."
+    ],
+    "application_process": {
+      "offline": [
+        "The scheme will initially operate offline. Once the departmental portal becomes operational, beneficiaries will be required to apply and register through the portal.",
+        "Applicants must submit their applications to the District Level Implementation Unit (DLIA) at the district level, along with the bank’s consent letter for loan approval. After scrutiny of the applications received by the DLIA, a list of eligible applicants will be prepared. Upon completion of all formalities, final approval will be granted. The approved applications, along with the beneficiaries’ forms, will then be submitted through the concerned bank for further scrutiny and loan recommendation.",
+        "The bank will provide information on the amount of interest subsidy granted by the state government to the DLIA each quarter, corresponding to the beneficiaries’ approved loans. The DLIA will prepare a bill for the said amount and submit it to the treasury for payment.",
+        "The State Monitoring Committee will be established within the Animal Husbandry Directorate, Dehradun. The committee, under the control of the Director of Animal Husbandry, will monitor the progress of the scheme and ensure its proper implementation by issuing necessary instructions to district-level officers."
+      ]
+    },
+    "documents_required": [
+      "Consent Letter of Loan Approval – From the concerned bank",
+      "Other necessary documents as specified by the District Level Implementation Unit (DLIA) for the scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 194)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Applicants must be residents of Uttarakhand, interested livestock farmers, and eligible for a bank loan under the respective livestock development schemes."
+    },
+    {
+      "question": "How much loan interest subsidy is provided under the scheme?",
+      "answer": "Under this scheme, the State Government bears 90% of the interest on the bank loan taken by the beneficiary for setting up approved livestock units."
+    },
+    {
+      "question": "What types of livestock units are covered under this scheme?",
+      "answer": "The scheme covers the following units: Dairy Entrepreneurship Development: 5-cow units, 10-cow units, 2-buffalo units, 5-buffalo units. Load Carrier Entrepreneurship: One mule unit and two mule units. Sheep & Goat Entrepreneurship: (5 females + 1 male) and (10 females + 1 male). Pig Entrepreneurship: (5 females + 1 male) and (10 females + 1 male). Poultry Entrepreneurship: Commercial broiler farm (1,000 birds) and small commercial layer farm (250 birds). Dairy Entrepreneurship Development: 5-cow units, 10-cow units, 2-buffalo units, 5-buffalo units. Load Carrier Entrepreneurship: One mule unit and two mule units. Sheep & Goat Entrepreneurship: (5 females + 1 male) and (10 females + 1 male). Pig Entrepreneurship: (5 females + 1 male) and (10 females + 1 male). Poultry Entrepreneurship: Commercial broiler farm (1,000 birds) and small commercial layer farm (250 birds)."
+    },
+    {
+      "question": "How can an applicant apply for the scheme?",
+      "answer": "Currently, the scheme is operated offline. Applicants must submit their applications to the District Level Implementation Unit (DLIA) along with the bank’s consent letter for loan approval. Once the departmental portal is operational, applications will be accepted online."
+    },
+    {
+      "question": "What is the role of the District Level Implementation Unit (DLIA)?",
+      "answer": "The DLIA receives and scrutinizes applications, prepares a list of eligible applicants, forwards them for approval, and coordinates with banks and the treasury for payment of interest subsidy."
+    },
+    {
+      "question": "What happens after the application is submitted?",
+      "answer": "The DLIA scrutinizes all received applications, prepares a list of eligible beneficiaries, and grants final approval after verifying the documents and bank loan consent."
+    },
+    {
+      "question": "How is the interest subsidy disbursed?",
+      "answer": "The bank provides quarterly information to the DLIA on the amount of interest subsidy due. The DLIA then prepares a bill and submits it to the treasury for payment to the concerned bank."
+    }
+  ]
 }

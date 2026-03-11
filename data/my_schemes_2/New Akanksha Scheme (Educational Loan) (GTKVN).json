@@ -1,17 +1,122 @@
 {
   "scheme_name": "New Akanksha Scheme (Educational Loan) (GTKVN)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/elsgtkdc",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "New Akanksha Scheme (Educational Loan) (GTKVN)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"New Akanksha Scheme (Educational Loan)\" is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide financial support for higher technical and professional education to students belonging to Thakor and Koli communities. Under this scheme, loans are provided at subsidized interest rates to students for pursuing graduate and postgraduate studies in fields such as engineering, medical, MBA, and MCA."
+    ],
+    "benefits": [
+      "Education Loan Details:",
+      "Loan Amount:",
+      "Up to ₹15,00,000/-.",
+      "Interest Rate:",
+      "4% per annum for male students and 3.5% per annum for female students.",
+      "Coverage Includes:",
+      "Admission fees and tuition fees",
+      "Books, writing materials, necessary equipment and examination fees required for the course",
+      "Accommodation & food expenses",
+      "Travel and insurance premiums",
+      "Contribution:",
+      "90% by Central Corporation",
+      "5% by State Government",
+      "5% by the Beneficiary",
+      "Repayment Terms:",
+      "Repayment Period: 60 equal monthly installments (5 years)",
+      "Start of Repayment: Within 6 months from course completion or employment, whichever is earlier."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to the Thakor or Koli caste/community.",
+      "The family's annual income should not exceed ₹3,00,000/-.",
+      "The applicant should have secured admission in a recognized institution for:",
+      "MBA or equivalent (approved by AICTE)",
+      "MCA (Master of Computer Applications or equivalent)",
+      "Undergraduate Engineering programs (approved by AICTE/IITs)",
+      "MBBS or equivalent (approved by Medical Council of India)",
+      "Note:",
+      "At least 50% of the total sanctioned loan amount will be reserved for applicants from families earning up to ₹1,50,000 annually."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Gujarat Thakor and Koli Vikas Nigam.",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Now\".",
+        "Step 3:",
+        "Click on the loan scheme name.",
+        "Step 4:",
+        "Select the loan category and fill in the loan amount.",
+        "Step 5:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 6:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 7:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 8:",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "Other Mark sheets/Last Year Mark sheet",
+      "Ration Card",
+      "School Leaving",
+      "Bank Passbook/Cancelled Cheque",
+      "Identity Card",
+      "Mark sheet",
+      "Passport Size Photos",
+      "Receipt of Fee Paid"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply for this loan?",
+      "answer": "Applicants from Thakor or Koli caste can apply."
+    },
+    {
+      "question": "What is the maximum loan amount?",
+      "answer": "Up to ₹15,00,000/- can be availed as a loan."
+    },
+    {
+      "question": "Are management quota students eligible?",
+      "answer": "No, management quota admissions are not eligible."
+    },
+    {
+      "question": "What does the loan cover?",
+      "answer": "It covers tuition fees, books, living expenses, and insurance."
+    },
+    {
+      "question": "When does loan repayment start?",
+      "answer": "Repayment starts 6 months after course completion or employment."
+    },
+    {
+      "question": "What is the beneficiary’s contribution?",
+      "answer": "The beneficiary must contribute 5% of the total cost."
+    },
+    {
+      "question": "Can I apply offline?",
+      "answer": "No, applications must be submitted online at gtkdconline.gujarat.gov.in"
+    },
+    {
+      "question": "Who implements the scheme?",
+      "answer": "The Gujarat Thakor and Koli Vikas Nigam (GTKVN)."
+    }
+  ]
 }

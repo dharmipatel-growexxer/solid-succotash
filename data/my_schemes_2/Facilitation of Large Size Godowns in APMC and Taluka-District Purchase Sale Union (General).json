@@ -1,17 +1,90 @@
 {
   "scheme_name": "Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/flsgdpsug",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to financially strengthen district and taluka-level cooperative purchase and sale unions across the state. The scheme is designed to help such unions undertake critical infrastructure projects, including purchasing, processing, grading, cleaning, packaging, storage, branding, and marketing of agricultural produce, which ultimately benefits the farmers with improved services and higher financial returns."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Provides crucial capital assistance for the construction of large-sized godowns.",
+      "Infrastructure Development:",
+      "Supports the development of essential infrastructure for agricultural activities like processing, grading, cleaning, washing, shortening, packaging, and branding.",
+      "Enhanced Marketing Capabilities:",
+      "Enables unions to strengthen their marketing and selling capabilities, potentially leading to better prices for farmers' produce.",
+      "Increased Financial Strength for Unions:",
+      "Aims to make District and Taluka Purchase-Sale Unions more financially robust and self-reliant.",
+      "Improved Services for Farmers:",
+      "Facilitates the provision of better quality services to farmers through stronger unions and improved facilities."
+    ],
+    "eligibility": [
+      "Cooperative institutions operating at the taluka or district level within the state of Gujarat are eligible under this scheme.",
+      "The institution should be registered under the appropriate cooperative society laws.",
+      "The institution should have plans for setting up or expanding facilities like storage godowns, processing units, grading and packaging infrastructure, or branding and marketing systems."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should prepare the application on plain paper.",
+        "Step 2:",
+        "In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+      ]
+    },
+    "documents_required": [
+      "Registration Certificate of the Cooperative Society.",
+      "Project Proposal Detailing Infrastructure Plans (including godowns, processing, packaging, branding, or marketing).",
+      "Financial Estimates and Cost Breakdown of Proposed Project.",
+      "Resolution Copy from the Managing Committee Supporting the Proposal.",
+      "Bank Account Details of the Society.",
+      "Identity Proof of the Authorised Signatory.",
+      "Land Ownership or Lease Documents for Project Site (if applicable).",
+      "Utilisation Certificate for Any Previous Government Assistance (if applicable).",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 176)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the primary aim of the scheme \"Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)\"?",
+      "answer": "The scheme \"Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)\" aims to financially empower cooperative buying and selling unions at the taluka and district levels across Gujarat by supporting them in developing agricultural infrastructure such as storage godowns, grading units, packaging facilities, and marketing and branding services."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme \"Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)\"?",
+      "answer": "Only cooperative institutions that are formally registered and functioning at the taluka or district level within the state of Gujarat are eligible to apply for the scheme \"Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)\"."
+    },
+    {
+      "question": "Is this scheme meant for individual farmers?",
+      "answer": "The scheme \"Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)\" is not designed for individual farmers, as it exclusively caters to registered cooperative societies involved in agricultural trade and services."
+    },
+    {
+      "question": "What types of projects are supported under this scheme?",
+      "answer": "The scheme supports a wide range of infrastructure projects including the construction and expansion of storage godowns, facilities for cleaning, grading, washing, packaging, branding, and marketing, all of which are intended to enhance agricultural trade services provided by cooperatives."
+    },
+    {
+      "question": "Which department oversees the implementation of this scheme?",
+      "answer": "The Agriculture and Co-operation Department under the Government of Gujarat is responsible for overseeing and administering the scheme \"Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)\"."
+    },
+    {
+      "question": "What kind of financial assistance is provided through this scheme?",
+      "answer": "Under the scheme \"Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)\", financial assistance is provided to cover the costs of developing or upgrading agricultural infrastructure, although the exact amount is determined based on the project proposal and subject to administrative approval."
+    },
+    {
+      "question": "What is the application procedure for availing the benefits under this scheme?",
+      "answer": "To apply for the scheme, eligible cooperative societies must submit a written application on plain paper to the concerned District Registrar along with all necessary supporting documents as outlined in the scheme guidelines."
+    },
+    {
+      "question": "How much time does it usually take to process the application and release funds?",
+      "answer": "The processing time for applications under the scheme may vary depending on the completeness of the submitted documents and the administrative review process carried out by the District Registrar and other competent authorities."
+    }
+  ]
 }

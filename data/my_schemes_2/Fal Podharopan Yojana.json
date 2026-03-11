@@ -1,17 +1,119 @@
 {
   "scheme_name": "Fal Podharopan Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/fpy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Fal Podharopan Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Fal Podharopan Yojana\" by the Horticulture and Food Processing Department, Government of Madhya Pradesh, provides targeted support to farmers for fruit cultivation, taking into account land conditions, climate, and irrigation availability. Under this scheme, farmers receive a subsidy of 40% to 50% of the unit cost, disbursed over three years, in the ratio of 60:20:20, for planting fruit saplings on areas ranging from 0.25 to 4 hectares. Eligible fruits include mango, guava, orange, sweet lime, custard apple, plum, sapota, grapes, pomegranate, strawberry, tissue-cultured banana, hybrid-seed papaya, munga, and lemon. The subsidy applies to both standard and high-density plantations, with or without drip irrigation, to support sustainable and high-yield fruit farming."
+    ],
+    "benefits": [
+      "40% to 50% of grant-in-aid is payable in the ratio of 60:20:20 in three years.",
+      "Sr. No.",
+      "Constituent",
+      "Percentage of grant-in-aid",
+      "Per Hectare Unit Cost for Dripless Irrigation",
+      "Grant-in-Aid for Driplessrrigation (60:20:20)",
+      "Per Hectare Unit Cost for Drip Irrigation",
+      "Grant-in-Aid for for Drip Irrigation (60:20:20)",
+      "1.",
+      "Normal Distance",
+      "40% to 50%",
+      "60,000",
+      "30,000",
+      "1,00,000",
+      "40,000",
+      "2.",
+      "High Density",
+      "40%",
+      "1,50,000",
+      "3.",
+      "Ultra High Density",
+      "1,25,000",
+      "2,00,000",
+      "80,000",
+      "(Amount in ₹)"
+    ],
+    "eligibility": [
+      "The applicant should own private land.",
+      "The land area should be at least 0.25 hectares.",
+      "The land area should not exceed 4 hectares.",
+      "The applicant should have adequate means of irrigation to support fruit plantation.",
+      "The applicant should be interested in growing fruit crops.",
+      "The applicant should have a strong interest in plantation activities.",
+      "The applicant should be from one of the following social categories - General, Scheduled Tribe, Scheduled Caste."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "Go to the",
+        "official website",
+        "of the Horticulture and Food Processing Department of the Government of Madhya Pradesh.",
+        "Step 2:",
+        "Click on “",
+        "Register Online.",
+        "”",
+        "Step 3:",
+        "Complete the form by entering all necessary information marked with an *.",
+        "Step 4:",
+        "Upload the required documents, such as proof of land ownership, irrigation facility evidence, and any certificates relevant to eligibility.",
+        "Step 5:",
+        "Submit the application after reviewing all details, and save or print the acknowledgement receipt for future reference.",
+        "Application",
+        "Signin using your email, password, and captcha code.",
+        "Select the scheme you intend to apply for. In the application form, fill in the mandatory details, and upload the necessary documents.",
+        "Review all details and submit the application. Save/print the acknowledgement receipt for future reference."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Proof of Land Ownership.",
+      "Forest Rights Certificate (if applicable).",
+      "Bank Account Details.",
+      "Previous Crop Records (to verify that land is new or transitioning from food crops to orchards).",
+      "Passport-Sized Photograph."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Registration",
+      "Scheme Details"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the primary objective of the Fal Podharopan Yojana?",
+      "answer": "To support farmers in establishing fruit orchards and increase agricultural income."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Farmers in Madhya Pradesh with private land, adequate irrigation, and an interest in fruit cultivation."
+    },
+    {
+      "question": "What fruits are covered under this scheme?",
+      "answer": "Fruits like mango, guava, orange, sweet lime, custard apple, plum, sapota, grapes, pomegranate, strawberry, banana, munga, and papaya."
+    },
+    {
+      "question": "How much subsidy can a farmer receive?",
+      "answer": "Farmers can receive a 40-50% subsidy on the unit cost of saplings."
+    },
+    {
+      "question": "What is the subsidy distribution ratio over three years?",
+      "answer": "Subsidy is distributed as 60:20:20 across three years."
+    },
+    {
+      "question": "What is the minimum and maximum land area eligible for the subsidy?",
+      "answer": "The scheme covers plantation from 0.25 to 4.00 hectares."
+    },
+    {
+      "question": "Can farmers use existing farmland for the scheme?",
+      "answer": "Yes, but the land must be new for orchards or transitioning from food crops."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "Aadhaar, land ownership proof, irrigation evidence, and caste certificate if applicable."
+    }
+  ]
 }

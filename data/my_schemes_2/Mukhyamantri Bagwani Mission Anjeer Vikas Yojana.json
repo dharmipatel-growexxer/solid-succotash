@@ -1,17 +1,127 @@
 {
   "scheme_name": "Mukhyamantri Bagwani Mission: Anjeer Vikas Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mbyavyb",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Bagwani Mission: Anjeer Vikas Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Anjeer Vikas Yojana” a component of the umbrella scheme “Mukhyamantri Bagwani Mission”, launched by the Department of Agriculture, Bihar. The main objective of the scheme is to promote the commercial cultivation of horticultural crops in the state of Bihar.",
+      "This component promotes fig cultivation across all districts in Bihar by providing financial assistance and high quality plants. It ensures inclusivity with reserved quotas for SC, ST, and women beneficiaries. Payments are processed through DBT, and only ryot farmers are eligible to apply for this scheme."
+    ],
+    "benefits": [
+      "Financial Support:",
+      "First year:",
+      "₹30,000/- per hectare.",
+      "Second and third year:",
+      "₹10,000/- per hectare (per year).",
+      "Plant Distribution:",
+      "Supply of high-quality plants."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Bihar.",
+      "The applicant should be a ryot farmer.",
+      "The applicant must have agricultural land a minimum of 0.25 acres (0.1 ha) and a maximum of 10 acres (4 ha).",
+      "The applicant must be registered on the DBT portal.",
+      "Note 1: Beneficiary allocation:",
+      "General Category: 78.56%.",
+      "Scheduled Castes: 20%.",
+      "Scheduled Tribes: 1.44%.",
+      "Women Participation: 30%.",
+      "Note 2:",
+      "Beneficiaries will be selected on first come first serve basis."
+    ],
+    "application_process": {
+      "online": [
+        "DBT Registration Process:",
+        "Step-1:",
+        "Visit the",
+        "registration page",
+        "of the DBT portal.",
+        "Step-2:",
+        "Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.",
+        "Step-3:",
+        "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.",
+        "Step-4:",
+        "Enter the OTP. Click on “Validate OTP”.",
+        "Step-5:",
+        "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.",
+        "Step-6:",
+        "In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.",
+        "Step-7:",
+        "Validate with OTP. Click on “Register” to generate the Registration Id.",
+        "Note:",
+        "After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.",
+        "Online Application of the Scheme:",
+        "Visit the official",
+        "website",
+        ".",
+        "Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”.",
+        "In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”.",
+        "Fill in the required details i.e. Address, Land Details, etc, and upload documents.",
+        "Confirm the checkbox and then click on “Submit”.",
+        "An “Application Number” will be generated. Keep this for future reference.",
+        "Printout of the filled in application also can be taken using the Print option."
+      ]
+    },
+    "documents_required": [
+      "For DBT Registration Process:",
+      "Aadhaar Details (Should be linked with mobile number).",
+      "Passport Size Photo.",
+      "Farmer details.",
+      "Land information.",
+      "Bank account.",
+      "For the Online Application of the Scheme:",
+      "Land-ownership/ revenue receipt (If applicable).",
+      "Note:",
+      "If the applicant's name is not clear in the land-ownership/ revenue receipt, it will be mandatory to attach the genealogy along with the land-own"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the \"Aanjir Vikash Yojona\"?",
+      "answer": "The \"Aanjir Vikash Yojona\" is a scheme launched by the Department of Agriculture, Bihar, to promote fig cultivation in all districts of the state."
+    },
+    {
+      "question": "What type of financial assistance does the scheme provide?",
+      "answer": "The scheme offers ₹30,000/- per hectare in the first year and ₹10,000/- per hectare annually for the second and third years."
+    },
+    {
+      "question": "Does the scheme provide any support apart from financial assistance?",
+      "answer": "Yes, the scheme also supplies high-quality fig plants to the beneficiaries."
+    },
+    {
+      "question": "Is there a requirement for land ownership to apply for the scheme?",
+      "answer": "Yes, applicants must be ryot farmers with agricultural land ranging from a minimum of 0.25 acres (0.1 hectares) to a maximum of 10 acres (4 hectares)."
+    },
+    {
+      "question": "Is registration required for applying to the scheme?",
+      "answer": "Yes, applicants must be registered on the DBT (Direct Benefit Transfer) portal."
+    },
+    {
+      "question": "What document is required if the applicant's name is not clearly mentioned in the land-ownership or revenue receipt?",
+      "answer": "If the applicant's name is not clearly mentioned in the land-ownership or revenue receipt, it is mandatory to attach the genealogy document along with the land-ownership or revenue receipt."
+    },
+    {
+      "question": "How is financial assistance disbursed under the scheme?",
+      "answer": "Financial assistance is disbursed directly to beneficiaries through the Direct Benefit Transfer (DBT) system."
+    },
+    {
+      "question": "Are there reserved quotas under the scheme?",
+      "answer": "Yes, there are reserved quotas for Scheduled Castes (20%), Scheduled Tribes (1.44%), and women beneficiaries (30%)."
+    },
+    {
+      "question": "What percentage of the scheme's benefits are allocated to the general category?",
+      "answer": "A total of 78.56% of the scheme's benefits are allocated to the general category."
+    },
+    {
+      "question": "Can a tenant farmer apply for this scheme?",
+      "answer": "No, only ryot farmers (land-owning farmers) are eligible to apply."
+    }
+  ]
 }

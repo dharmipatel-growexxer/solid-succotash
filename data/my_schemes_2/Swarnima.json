@@ -1,17 +1,91 @@
 {
   "scheme_name": "Swarnima",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sma",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Swarnima",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Swarnima by the Department of Social Justice & Special Assistance, Government of Maharashtra, is jointly funded by the National Backward Classes Finance & Development Corporation, New Delhi, and the State Corporation. This scheme provides low-interest loans directly deposited into the bank accounts of female beneficiaries from Other Backward Classes (OBC) to support self-employment activities and enhance financial independence."
+    ],
+    "benefits": [
+      "Financial assistance of up to ₹5,00,000/- per Self-Help Group (SHG) project, with ₹25,000 allocated per beneficiary (up to 20 members per SHG).",
+      "Funding shares include 95% from the Central Corporation and 5% from the State Corporation.",
+      "No beneficiary contribution is required.",
+      "Low interest rate of 5% per annum.",
+      "Repayment period of up to 3 years to ease financial planning."
+    ],
+    "eligibility": [
+      "The applicant should be from the Other Backward Class (OBC) category.",
+      "The applicant should be a domicile of Maharashtra.",
+      "The age of the applicant should be between 18 to 50 years.",
+      "The annual income of the family of the applicant should be -",
+      "Rural areas: Less than or equal to ₹98,000.",
+      "Urban areas: Less than or equal to ₹1,20,000."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Office of the Leather Industries Development Corporation of Maharashtra (LIDCOM), and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "2-Passport Sized Photograph (Signed Across).",
+      "Residential Certificate / Domicile Certificate of the State of Maharashtra.",
+      "Details of the Bank Account (Bank Name, Branch Name, Address, IFSC, etc).",
+      "Proof of Age (Birth Certificate, Marksheet of Class 10th/12th, etc).",
+      "Any other document required by the District Office."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the main purpose of the Swarnima Scheme?",
+      "answer": "The scheme provides financial assistance to OBC female beneficiaries to start self-employment activities."
+    },
+    {
+      "question": "Who is eligible to apply for the Swarnima Scheme?",
+      "answer": "Female beneficiaries belonging to the OBC category, domiciled in Maharashtra, aged between 18-50 years, and meeting the income criteria are eligible."
+    },
+    {
+      "question": "What is the maximum loan amount available under the Swarnima Scheme?",
+      "answer": "Beneficiaries can receive up to ₹5 lakh for self-employment projects."
+    },
+    {
+      "question": "What is the rate of interest on loans provided under this scheme?",
+      "answer": "The interest rate is 5% per annum."
+    },
+    {
+      "question": "How is the loan amount disbursed to the beneficiaries?",
+      "answer": "The loan amount is deposited directly into the beneficiary’s bank account."
+    },
+    {
+      "question": "What is the repayment period for the loan?",
+      "answer": "The loan repayment period is 3 years."
+    },
+    {
+      "question": "Are there any income limits for eligibility under this scheme?",
+      "answer": "Yes, the family’s annual income must be below ₹98,000 for rural areas and ₹1,20,000 for urban areas."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "Essential documents include proof of identity, proof of domicile, caste certificate, and income certificate."
+    },
+    {
+      "question": "Is the scheme available for all self-employment activities?",
+      "answer": "Yes, but the type of self-employment must be approved by the department under the scheme guidelines."
+    }
+  ]
 }

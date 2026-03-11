@@ -1,17 +1,100 @@
 {
   "scheme_name": "Development of Manures & Fertilizers: Assistance for Construction/Installation of Biogas Plants",
   "scheme_url": "https://www.myscheme.gov.in/schemes/dmf-acibp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Development of Manures & Fertilizers: Assistance for Construction/Installation of Biogas Plants",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Development of Manures & Fertilizers\" was launched by the Department of Agriculture, Government of Goa. The \"Assistance for Construction/Installation of Biogas Plants\" component of the scheme aims to effectively manage on-farm livestock waste to produce renewable energy through biogas units, converting animal waste into a sustainable energy source. The payment of the sanctioned subsidy is through the Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer."
+    ],
+    "benefits": [
+      "Assistance for Construction/Installation of Biogas Plants",
+      "Biogas plants constructed by the farmer would be provided 90% subsidy against the estimated standard cost of construction/installation for Biogas.",
+      "To make the subsidy more inclusive and reflective of the actual costs involved, excavation costs, transportation costs, and Goods and Services Tax (GST) included in the standard cost mentioned for both pre-fabricated and constructed biogas plants.",
+      "Standard Cost & Eligible Subsidy for Pre-Fabricated Biogas",
+      "For a 1 cu. m³ biogas plant, the standard cost is Rs. 31,000/- with 90% subsidy including central subsidy of Rs. 27,900/-.",
+      "For a 2 cu. m³ plant, the standard cost is Rs. 54,140/- with subsidy of Rs. 48,726/-.",
+      "For a 3 cu. m³ plant, the standard cost is Rs. 79,480/- with subsidy of Rs. 71,532/-.",
+      "For a 4 cu. m³ plant, the standard cost is Rs. 1,25,000/- with subsidy of Rs. 1,12,500/-.",
+      "For 5 cu. m³ & above plants, the standard cost is Rs. 1,12,200/- with subsidy of Rs. 1,00,980/-.",
+      "Standard Cost & Eligible Subsidy for Constructed Biogas",
+      "For a 2 cu. m³ biogas plant, the standard cost is Rs. 46,220/- with 90% subsidy including central subsidy of Rs. 41,598/-.",
+      "For a 3 cu. m³ plant, the standard cost is Rs. 52,070/- with subsidy of Rs. 46,863/-.",
+      "For a 4 cu. m³ plant, the standard cost is Rs. 57,820/- with subsidy of Rs. 52,038/-.",
+      "For 6 cu. m³ & above plants, the standard cost is Rs. 75,890/- with subsidy of Rs. 68,301/-.",
+      "Incentive Structure for Promoters",
+      "The incentive structure for promoters involved in the installation of biogas plants aims to encourage field staff including Agriculture Assistant, Field Assistant, Krishi Mitra's to actively participate in promoting biogas plants. The incentive amount for Constructed Biogas will be ₹1500 per unit.",
+      "Plant Size Determination",
+      "The size of biogas units provided will be determined based on the number of cattle owned by the beneficiary. This approach ensures that the size of the biogas plant matches the amount of organic waste, particularly manure, generated, thereby promoting efficient gas production and utilization. The specific cattle-to-biogas unit ratios are as follows:",
+      "For a 2 cu. mtr. size biogas plant, the applicant should own 2 cattles with approximately 30-40 kgs. of cowdung available per day.",
+      "For a 3 cu. mtr. plant, 3 cattles are required with 45-60 kgs. of cowdung per day.",
+      "For a 4 cu. mtr. plant, 4 cattles are required with 60-80 kgs. of cowdung per day.",
+      "For a 6 cu. mtr. plant, 5 cattles are required with 90-120 kgs. of cowdung per day.",
+      "Repair Assistance",
+      "For long-term maintenance and sustainability of the biogas plants, repair assistance of 20% of the standard cost will be provided after 6 years.",
+      "This assistance will help ensure that the biogas plants remain operational and continue to serve the beneficiaries' needs.",
+      "Lifetime Limit and Subsidy Adjustment",
+      "An individual beneficiary may receive a maximum of 3 units over their lifetime.",
+      "The subsidy provided by Government of India under Biogas programme shall be adjusted within this subsidy and balance shall be paid from State funds."
+    ],
+    "eligibility": [
+      "Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card.",
+      "Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the",
+        "Zonal Agriculture Officer",
+        "and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer."
+      ]
+    },
+    "documents_required": [
+      "Krishi Card Abstract",
+      "Soil Health Card",
+      "Cash Invoice",
+      "Cost Estimates",
+      "Details of the Registered Mason",
+      "Estimate of Approved Models for Pre-Fabricated Biogas Plants"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Is there a minimum land holding requirement that I must meet to qualify for financial assistance under this agricultural development program?",
+      "answer": "For construction or installation of biogas plants, there is no minimum area limitation required."
+    },
+    {
+      "question": "Can organizations or corporate entities involved in farming activities also receive benefits under this agricultural scheme, or is it restricted only to individual cultivators?",
+      "answer": "Yes, institutions and private limited companies that are involved in agriculture activities and possess a valid Krishi Card are also eligible for assistance under this scheme."
+    },
+    {
+      "question": "How will the approved financial subsidy be transferred to my account after the sanction has been granted by the competent authority?",
+      "answer": "The sanctioned subsidy will be paid through the Electronic Clearance System (ECS), which will directly transfer the amount to your account."
+    },
+    {
+      "question": "Who holds the final authority to resolve any grievances or disputes that may arise during the implementation of this agricultural assistance program?",
+      "answer": "The Minister for Agriculture holds the final authority to hear and decide on any grievances arising from the scheme's implementation, and their decision is final and binding on all concerned parties."
+    },
+    {
+      "question": "Are there any circumstances under which the government can provide exceptions or modifications to the standard eligibility conditions specified in the scheme?",
+      "answer": "Yes, the Government is empowered to relax any or all clauses or conditions of the scheme in genuine cases. However, financial assistance in such relaxed cases requires approval from the Finance (Expenditure) Department."
+    },
+    {
+      "question": "After the Zonal Agriculture Officer submits my case, which official is responsible for examining and sanctioning my subsidy claim?",
+      "answer": "The District Agriculture Officer (North or South, depending on your location) is responsible for examining and sanctioning your subsidy claim after receiving it from the Zonal Agriculture Officer."
+    },
+    {
+      "question": "Who has the ultimate authority to interpret any ambiguous terms or conditions mentioned in this agricultural development scheme's guidelines?",
+      "answer": "The Government holds the authority to interpret any clause, word, or expression of the scheme, and their decision regarding interpretation is final and binding on all concerned parties."
+    }
+  ]
 }

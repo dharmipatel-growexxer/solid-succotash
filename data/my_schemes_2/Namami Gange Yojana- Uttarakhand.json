@@ -1,17 +1,52 @@
 {
   "scheme_name": "Namami Gange Yojana- Uttarakhand",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ngy-uk",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Namami Gange Yojana- Uttarakhand",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Namami Gange Yojana” is implemented by the Uttarakhand Organic Commodity Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote sustainable and organic farming practices among farmers residing in villages along the banks of the Ganga and its tributaries."
+    ],
+    "benefits": [
+      "Under the scheme, farmers are provided assistance to adopt organic farming through the formation of clusters."
+    ],
+    "eligibility": [
+      "Farmers residing in villages located along the banks of the Ganga and its tributaries in Uttarakhand are eligible for assistance under this scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Applications can be submitted in the prescribed format at the office of the Uttarakhand Organic Commodity Board, Kisan Bhawan, 2nd Floor, Mussoorie Bypass, Ring Road, Nehrugram, Dehradun, Uttarakhand 248001."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the guidelines of the Council to avail the benefits of the scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 165)"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "Farmers residing in villages located along the banks of the Ganga and its tributaries within Uttarakhand are eligible for assistance under the scheme."
+    },
+    {
+      "question": "What type of assistance is provided under the scheme?",
+      "answer": "Assistance is provided to farmers to adopt organic farming practices through the formation of clusters."
+    },
+    {
+      "question": "How can a farmer apply for the scheme?",
+      "answer": "Farmers can apply by submitting the prescribed application form available at the Uttarakhand Organic Produce Council office, Kisan Bhawan, Dehradun, Uttarakhand."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Applications must be submitted at the office of the Uttarakhand Organic Produce Council, Kisan Bhawan, Dehradun."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Documents are required as per the guidelines of the Uttarakhand Organic Produce Council, which may include identity proof, land ownership documents, etc."
+    }
+  ]
 }

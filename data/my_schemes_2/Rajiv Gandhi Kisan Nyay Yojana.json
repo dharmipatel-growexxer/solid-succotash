@@ -1,17 +1,103 @@
 {
   "scheme_name": "Rajiv Gandhi Kisan Nyay Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/rgkny",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "Rajiv Gandhi Kisan Nyay Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "Rajiv Gandhi Kisan Nyay Yojana is a scheme of the Government of Chhattisgarh for the farmers and launched on May 21, 2020, on the death anniversary of Rajiv Gandhi.",
+      "The main objective of this scheme is to increase the agricultural area by encouraging the farmers for crop production.",
+      "Under this scheme, financial benefits will be transferred to the farmers. This amount will be transferred to the accounts of the farmers in 4 instalments. This scheme started during the Corona period has provided great relief to the farmers. In the initial year of the scheme, only paddy, maize and sugarcane crops were included but after that, few more types of following crops have been included in it.",
+      "Kodo Kutki.",
+      "Sugarcane.",
+      "Arhar.",
+      "Maize.",
+      "Soybean.",
+      "Pulses.",
+      "Oilseeds.",
+      "Fragrant paddy.",
+      "Other fortified rice.",
+      "Banana.",
+      "Papaya."
+    ],
+    "benefits": [
+      "Maximum amount of 10000/- per acre will be paid to the farmers planting paddy and maize through debit in installments.",
+      "The fixed FRP amount for sugarcane crop will be paid through DBT to farmers at the rate of Rs. 93.75 /- quintal i.e. maximum amount of 355 /- per quintal."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Chhattisgarh state.",
+      "The applicant should be a marginal farmer, small farmer or large farmer.",
+      "The age of the applicant should be above 18 years.",
+      "Farmers of all categories of landowners and forest lease holders are eligible to get the benefits of the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "First farmer have to visit the official",
+        "website",
+        "and download the",
+        "application form",
+        ".",
+        "Fill out the application form with required details.",
+        "Attach required documents (1. Loan Book, 2. B-1, 3. Bank Passbook, 4. Aadhaar).",
+        "Submit the application to Rural Agriculture Extension Officer (RAEO) for verification.",
+        "RAEO forward the application for registration.",
+        "Information about acceptance/rejection of application will be given to the farmer through SMS. After registration each farmer will be given a unique ID."
+      ]
+    },
+    "documents_required": [
+      "Loan Book.",
+      "B-1.",
+      "Bank Passbook.",
+      "Aadhaar."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Application Form",
+      "Official Portal"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is this scheme?",
+      "answer": "Rajiv Gandhi Kisan Nyay Yojana is a scheme of the Government of Chhattisgarh for the farmers."
+    },
+    {
+      "question": "What are the benefits?",
+      "answer": "Financial Assistance is provided."
+    },
+    {
+      "question": "What are details of beneficial amount?",
+      "answer": "1. Maximum amount of 10000/- per acre will be paid to the farmers planting paddy and maize through debit in installments. 2. The fixed FRP amount for sugarcane crop will be paid through DBT to farmers at the rate of Rs. 93.75 /- quintal i.e. maximum amount of 355 /- per quintal."
+    },
+    {
+      "question": "Who can get the benefits?",
+      "answer": "1. The applicant must be a resident of Chhattisgarh state. 2. The applicant should be a marginal farmer, small farmer or large farmer. 3. The age of the applicant should be above 18 years. 4. Farmers of all categories of landowners and forest lease holders are eligible to get the benefits of the scheme."
+    },
+    {
+      "question": "Can people from other states also apply for this scheme?",
+      "answer": "No. this is only for Chhattisgarh State."
+    },
+    {
+      "question": "What is the financial eligibility for applicant ?",
+      "answer": "There is no financial eligibility."
+    },
+    {
+      "question": "What is the minimum age eligibility ?",
+      "answer": "The age of the applicant should be above 18 years."
+    },
+    {
+      "question": "How To Apply For The Scheme ?",
+      "answer": "1. Applicants have download the application form. 2. Fill out the details. 3. Attach required documents. 3. Submit."
+    },
+    {
+      "question": "What are the required documents?",
+      "answer": "1. Loan Book. 2. B-1. 3. Bank Passbook. 4. Aadhaar."
+    },
+    {
+      "question": "How to download the application form ?",
+      "answer": "URL : https://kisan.cg.nic.in/assets/files/FarmerRegistrationForm_UFP.pdf"
+    }
+  ]
 }

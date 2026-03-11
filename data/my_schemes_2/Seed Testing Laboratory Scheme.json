@@ -1,17 +1,84 @@
 {
   "scheme_name": "Seed Testing Laboratory Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/stlsmeghalaya",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Seed Testing Laboratory Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Seed Testing Laboratory Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to assist seed testing services to farmers to ensure the viability and purity of seed to be sown."
+    ],
+    "benefits": [
+      "Pattern of Assistance:",
+      "Popularising seed testing services to farmers.",
+      "Type of Assistance and Entitlement (If any):",
+      "Seed testing service and training for all farmers."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Meghalaya.",
+      "The applicant should be a bonafide farmer engaged in agriculture."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 01:",
+        "The eligible bonafide farmer can apply/write an application on plain paper.",
+        "Step 02:",
+        "Along with the application, attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 03:",
+        "Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle.",
+        "Mode of Selection of Beneficiary(s):",
+        "The bonafide farmers having sufficient available cultivable land on a first come first served basis.",
+        "Whom to Contact:",
+        "District Agriculture Officers of the concerned districts.",
+        "Sub-Divisional Agricultural Officers of the concerned sub-divisions.",
+        "District Training Officers, Tura/Shillong.",
+        "Agricultural Development Officers of the concerned Community and Rural Development Blocks."
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph",
+      "Identity Proof",
+      "Documents proof of having sufficient available cultivable land",
+      "Any other document as required"
+    ],
+    "sources_and_references": [
+      "Official Website"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is Seed Testing Laboratory Scheme?",
+      "answer": "Seed Testing Laboratory Scheme intends to assist seed testing services to farmers to ensure the viability and purity of seed to be sown."
+    },
+    {
+      "question": "Which department has launched this scheme?",
+      "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya"
+    },
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "The bonafide farmers of Meghalaya who are engaged in agriculture are eligible to apply under this scheme."
+    },
+    {
+      "question": "What is the pattern of assistance?",
+      "answer": "Popularising seed testing services to farmers."
+    },
+    {
+      "question": "What is the type of assistance/service?",
+      "answer": "Seed testing service and training for farmers."
+    },
+    {
+      "question": "How to apply for the scheme?",
+      "answer": "The bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/ Agriculture Circle."
+    },
+    {
+      "question": "What is the beneficiaries’ selection procedure?",
+      "answer": "The bonafide farmers having sufficient available cultivable land on a first come first served basis."
+    },
+    {
+      "question": "Whom to contact?",
+      "answer": "1. District Agriculture Officers of the concerned districts 2. Sub-Divisional Agricultural Officers of the concerned sub-divisions 3. District Training Officers, Tura/Shillong 4. Agricultural Development Officers of the concerned Community and Rural Development Blocks"
+    }
+  ]
 }

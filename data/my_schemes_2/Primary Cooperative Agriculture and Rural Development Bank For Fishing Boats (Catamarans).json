@@ -1,17 +1,90 @@
 {
   "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Fishing Boats (Catamarans)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/pcardbfb",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Primary Cooperative Agriculture and Rural Development Bank: For Fishing Boats (Catamarans)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Primary Cooperative Agriculture and Rural Development Bank: For Fishing Boats (Catamarans)\" scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to offer financial assistance to farmers for acquiring fishing boats (Catamarans). The maximum loan amount is between ₹15,000/- and ₹60,000/-, with interest rates subject to periodic updates."
+    ],
+    "benefits": [
+      "Access to Loan:",
+      "Ranges from ₹15,000/- to ₹60,000/- for purchasing fishing boats.",
+      "Interest Rate:",
+      "As per the bank policy (subject to change)."
+    ],
+    "eligibility": [
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should be a farmer.",
+      "The beneficiary should be engaged in fishing activities.",
+      "The beneficiary should be interested in availing loan for Fishing Boats (Catamarans) from the Primary Cooperative Agriculture and Rural Development Bank.",
+      "The beneficiary should have the intention to use the loan specifically for purchasing a fishing boat (Catamaran)."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should collect the application form from the Primary Cooperative Agriculture and Rural Development Bank.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof (Aadhaar, PAN card, etc.).",
+      "Address proof.",
+      "Proof of agricultural occupation (e.g., Proof of being a fisherman or fishing license) (if applicable).",
+      "Fishing License (if applicable).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme provides loans to farmers for purchasing fishing boats (Catamarans) ranging from ₹15,000/- to ₹60,000/- with an applicable interest rate subject to change."
+    },
+    {
+      "question": "Who sponsors this scheme?",
+      "answer": "The scheme is sponsored by the state government."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Farmers residing in Tamil Nadu who are engaged in fishing activities are eligible for the scheme."
+    },
+    {
+      "question": "What is the purpose of the loan under this scheme?",
+      "answer": "The loan is intended specifically for purchasing fishing boats (Catamarans)."
+    },
+    {
+      "question": "What is the range of the loan amount available?",
+      "answer": "The loan amount ranges between ₹15,000/- and ₹60,000/."
+    },
+    {
+      "question": "What is the interest rate applicable to the loan?",
+      "answer": "The interest rate is subject to change as per the bank's policies."
+    },
+    {
+      "question": "Is a fishing license required to apply for the loan?",
+      "answer": "A fishing license may be required depending on regional regulations and bank requirements."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Documents such as proof of identity, address proof, proof of farming occupation, and a fishing license (if applicable) are needed."
+    },
+    {
+      "question": "How can applicants apply for the loan?",
+      "answer": "Applicants need to visit the nearest Primary Cooperative Agriculture and Rural Development Bank branch and follow the prescribed application process."
+    },
+    {
+      "question": "Are there any specific community or income criteria to avail of the scheme?",
+      "answer": "No specific community or income criteria are set for the scheme."
+    }
+  ]
 }

@@ -1,17 +1,129 @@
 {
   "scheme_name": "Safety Audit",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sa",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Safety Audit",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The Safety Audit Scheme by the Government of Haryana aims to promote safety practices within Micro, Small & Medium Enterprises (MSMEs) by supporting them in conducting safety audits and implementing safety equipment. The scheme seeks to minimize workplace hazards and enhance industrial safety standards.",
+      "Objective",
+      "The objective of the scheme is to promote safety audit which is a tool that can be utilized to improve safety and attitudes in the workplace. A safety audit is an inventory or checklist of items specifically geared to operations of an enterprise. It allows them to take action, correct hazards, and determine the appropriate actions to take to achieve the desired safety goals. Measuring safety performance also provides a baseline to compare future safety initiatives. It documents the effectiveness of safety program, identify compliance deficiencies, suggest safety solutions, improve the environment and personnel safety, reduce incidents and injuries and increase workplace safety."
+    ],
+    "benefits": [
+      "75% reimbursement of expenses incurred for conducting safety audits, up to ₹1,00,000/-.",
+      "50% subsidy on cost of capital equipment required for safety measures, up to ₹5,00,000/-."
+    ],
+    "eligibility": [
+      "The applicant must be a Micro, Small, or Medium Enterprise (MSME), either newly established or existing.",
+      "The enterprise must be registered with the appropriate authority (e.g., Udyog Aadhaar / EM Part-II).",
+      "The safety audit must be conducted by auditors from a recognized ISO-certified agency.",
+      "The industrial units must also comply with the following conditions:",
+      "The item of manufacture should not fall in the restrictive list as notified by the State Government from time to time.",
+      "Investments in new plant, machinery and equipments focussed towards enhancing safety shall only be eligible for subsidy under this scheme.",
+      "The units should have obtained NOC/CLU from competent authority, if applicable.",
+      "The units should be in commercial production.",
+      "The units should be in regular production at the time of disbursement and the assistance shall not be released to the closed unit."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Note:",
+        "Govt. Charges:",
+        "No Fee",
+        "Service Charges:",
+        "₹10/-",
+        "Atal Seva Kendra Service Charges:"
+      ]
+    },
+    "documents_required": [
+      "Acknowledgement of EM Part-II/Udyog Aadhaar.",
+      "Certificate of Incorporation/ Partnership deed.",
+      "Board resolution/ Power of attorney",
+      "Change of Land Use (CLU)/ NOC from competent authority, if applicable.",
+      "Copy of first sale bill.",
+      "Copy of Safety audit certification.",
+      "CA certificate of Expenditure (in original) giving the details (",
+      "Annexure-III page -7",
+      ").",
+      "Copy of the bills raised by certifying agency and proof of payment thereof.",
+      "Audited balance sheet of the unit of last year.)",
+      "Undertaking/Declaration on non-judicial stamp paper."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the Safety Audit Scheme?",
+      "answer": "The Safety Audit Scheme provides financial support to MSMEs for conducting safety audits and purchasing safety equipment to enhance workplace safety."
+    },
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "All Micro, Small, and Medium Enterprises (MSMEs) that are registered and operational are eligible, subject to certain conditions."
+    },
+    {
+      "question": "Is this scheme available for both new and existing enterprises?",
+      "answer": "Yes, the scheme is applicable to both newly established and existing MSMEs."
+    },
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The objective is to improve industrial safety standards by promoting regular safety audits and implementation of recommended safety measures."
+    },
+    {
+      "question": "What kind of financial assistance is provided?",
+      "answer": "75% reimbursement of the cost of the safety audit (up to ₹1 lakh). 50% subsidy on the cost of safety-related capital equipment (up to ₹5 lakh). 75% reimbursement of the cost of the safety audit (up to ₹1 lakh). 50% subsidy on the cost of safety-related capital equipment (up to ₹5 lakh)."
+    },
+    {
+      "question": "Who can conduct the safety audit?",
+      "answer": "Only auditors from ISO-certified agencies are allowed to conduct the safety audit under this scheme."
+    },
+    {
+      "question": "Can any kind of equipment be purchased under this scheme?",
+      "answer": "Only new capital equipment specifically recommended for safety enhancement is eligible for subsidy."
+    },
+    {
+      "question": "Is there a time limit for submitting the application?",
+      "answer": "Yes, the application must be submitted within 3 months from the date of completion of the safety audit or purchase of equipment."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Documents like registration proof, audit report, bills, payment receipts, NOC/CLU (if applicable), and a CA-certified expenditure certificate are required."
+    },
+    {
+      "question": "Are there any exclusions under the scheme?",
+      "answer": "Yes, units listed under restricted categories, not in production, or submitting false information are excluded from assistance."
+    }
+  ]
 }

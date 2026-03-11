@@ -1,17 +1,106 @@
 {
   "scheme_name": "Incentive to Owners of A.I. Born Female Calf through Pure Breeding in Indigenous Cow Across the State",
   "scheme_url": "https://www.myscheme.gov.in/schemes/iaifcpb",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Incentive to Owners of A.I. Born Female Calf through Pure Breeding in Indigenous Cow Across the State",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Incentive to Owners of A.I. Born Female Calf through Pure Breeding in Indigenous Cow Across the State\" aims to provide financial assistance for female calf born through Artificial Insemination (A.I.) in indigenous cow breeds like Gir and Kankrej to encourage pure breeding and prevent the decline of local cattle breeds in Gujarat."
+    ],
+    "benefits": [
+      "Name of Component",
+      "Standard of Assistance",
+      "Minimum Time Limit(In Year) for Reclaiming Benefits",
+      "Incentive to Owners of A.I. Born Female calf through pure breeding in indigenous cow across the state",
+      "₹3,000/- per Female Calf",
+      "One person per family once a year for one female calf is eligible for benefit of the scheme"
+    ],
+    "eligibility": [
+      "The applicant must be from Gujarat state.",
+      "The applicant must be a livestock owner.",
+      "The female calf must be born through Artificial Insemination (A.I.) by pure breeding in indigenous cow.",
+      "The calf should not be more than 11 months old at the time of application.",
+      "Note:",
+      "One person per family can avail the benefit once a year for one female calf."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Cancelled Bank Cheque or Xerox of first page Bank Passbook (Aadhaar linked Bank Account).",
+      "Ration Card (Barcoded).",
+      "Certificate of AI done from whom AI is carried out (as mentioned in online application).",
+      "Aadhaar Card.",
+      "Copy of Disability Certificate from Competent Authority (only for Beneficiary with disabilities)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme provides financial assistance of ₹3,000/- per female calf born through Artificial Insemination (A.I.) in indigenous cow breeds like Gir and Kankrej to encourage pure breeding and prevent the decline of local cattle breeds in Gujarat."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Livestock owners residing in Gujarat who own a female calf born through Artificial Insemination (A.I.) using purebred indigenous cow breeds like Gir or Kankrej are eligible to apply."
+    },
+    {
+      "question": "What is the financial assistance provided under the scheme?",
+      "answer": "Under this scheme, eligible beneficiaries receive a financial incentive of ₹3,000/- per female calf born through A.I."
+    },
+    {
+      "question": "Can an applicant apply for more than one calf in a year?",
+      "answer": "No, only one female calf per family per year is eligible for the incentive under this scheme."
+    },
+    {
+      "question": "What is the maximum age limit for the calf to be eligible under the scheme?",
+      "answer": "The female calf should be less than 11 months old at the time of application."
+    },
+    {
+      "question": "Are calves born through natural mating eligible for the scheme?",
+      "answer": "No, only calves born through Artificial Insemination (A.I.) using purebred semen are eligible."
+    },
+    {
+      "question": "Where can an applicant obtain the Artificial Insemination (A.I.) certificate?",
+      "answer": "The A.I. certificate must be obtained from the service provider who performed the Artificial Insemination on the indigenous cow."
+    },
+    {
+      "question": "How is the incentive amount provided to the beneficiaries?",
+      "answer": "After successful verification and approval, the incentive amount of ₹3,000 is directly credited to the applicant’s Aadhaar-linked bank account."
+    },
+    {
+      "question": "Where can applicants submit their applications?",
+      "answer": "Applicants can apply online through the iKhedut Portal or submit an offline application at the nearest Government Veterinary Dispensary."
+    },
+    {
+      "question": "Where can an applicant find more details about the scheme?",
+      "answer": "More information about the scheme is available on the iKhedut portal or by visiting the nearest Veterinary Dispensary."
+    }
+  ]
 }

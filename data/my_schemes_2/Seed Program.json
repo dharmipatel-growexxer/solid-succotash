@@ -1,17 +1,70 @@
 {
   "scheme_name": "Seed Program",
   "scheme_url": "https://www.myscheme.gov.in/schemes/sp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Seed Program",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Seed Program” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to support small and marginal farmers and agricultural laborers living below the poverty line through the provision of free vegetable seeds to improve household nutrition and crop productivity. The scheme distributes seed packets worth ₹50 containing vegetables like bottle gourd, ladyfinger, beans, bitter gourd, ridge gourd, spinach, and cowpea."
+    ],
+    "benefits": [
+      "Free Seed Distribution:",
+      "Seed packets containing seeds of bottle gourd, ladyfinger, beans, bitter gourd, ridge gourd, spinach, and cowpea worth ₹50/- are provided free of cost to eligible beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must belong to the Below the Poverty Line (BPL) category."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant should contact the Horticulture and Food Processing Department, Madhya Pradesh."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity.",
+      "Residence Certificate.",
+      "BPL certificate",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the \"Seed Program\" scheme?",
+      "answer": "The \"Seed Program\" scheme provides free vegetable seeds to small and marginal farmers and agricultural laborers living below the poverty line."
+    },
+    {
+      "question": "Which department implements this scheme?",
+      "answer": "The scheme is implemented by the Horticulture and Food Processing Department, Government of Madhya Pradesh."
+    },
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Small and marginal farmers and agricultural laborers living below the poverty line are eligible for this scheme."
+    },
+    {
+      "question": "What is the value of seeds provided under the scheme?",
+      "answer": "Seed packets worth ₹50/- are provided free of cost to eligible beneficiaries."
+    },
+    {
+      "question": "Which vegetables are included in the seed packets?",
+      "answer": "Vegetables like bottle gourd, ladyfinger, beans, bitter gourd, ridge gourd, spinach, and cowpea are included."
+    },
+    {
+      "question": "When are the seeds distributed?",
+      "answer": "Seeds are distributed during the sowing season as per the departmental schedule."
+    },
+    {
+      "question": "What documents are required to receive the seeds?",
+      "answer": "Documents like Aadhaar card, BPL certificate, and domicile certificates may be required."
+    },
+    {
+      "question": "How can a farmer or laborer apply for the scheme?",
+      "answer": "The applicant can apply through the Horticulture and Food Processing Department by submitting the required application form."
+    }
+  ]
 }

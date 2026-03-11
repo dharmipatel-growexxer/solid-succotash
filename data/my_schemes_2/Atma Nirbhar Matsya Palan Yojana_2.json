@@ -1,17 +1,123 @@
 {
   "scheme_name": "Atma Nirbhar Matsya Palan Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/anmpy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Arunachal Pradesh",
+  "location_type": "state",
+  "page_title": "Atma Nirbhar Matsya Palan Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Atma Nirbhar Matsya Palan Yojana (ANMPY)” was launched by the Department of Fisheries, Government of Arunachal Pradesh. It aims to promote self-reliant fish farming practices and enhance income generation among Scheduled Tribe (ST) beneficiaries through aquaculture activities. Under this flagship scheme, a credit-linked front-ended subsidy is provided for fisheries development to individual farmers, Self Help Groups (SHGs), and Farmers Producer Organizations (FPOs) in Arunachal Pradesh.",
+      "Scheme Implementation",
+      "The scheme is implemented by the District Fisheries Development Officers (DFDOs), under the supervision of District Level Screening Committees (DLSCs)."
+    ],
+    "benefits": [
+      "Benefits:",
+      "45% Government Subsidy.",
+      "45% Bank Loan (credit-linked).",
+      "10% Beneficiary Contribution."
+    ],
+    "eligibility": [
+      "Eligibility Criteria for Individual Farmers",
+      "The applicant must be a Scheduled Tribe (ST) of Arunachal Pradesh.",
+      "The applicant must be a permanent resident of Arunachal Pradesh.",
+      "The applicant must be between 18 to 60 years of age.",
+      "The applicant must not be a bank defaulter.",
+      "The applicant must not be a government servant.",
+      "The applicant must have experience in fisheries or aquaculture.",
+      "The applicant must have sufficient and suitable land for aquaculture activity.",
+      "Eligibility Criteria for Self-Help Groups (SHGs)",
+      "SHGs must be affiliated with APRSLM (Arunachal Pradesh State Rural Livelihood Mission).",
+      "SHGs under NERCOMP (for Changlang) are also eligible.",
+      "SHGs must be actively engaged in fisheries or aquaculture.",
+      "Eligibility Criteria for Farmers Producer Organizations (FPOs)",
+      "The FPO must be registered.",
+      "The FPO must have at least 100 shareholders.",
+      "The FPO must have at least one audited balance sheet.",
+      "Only FPOs engaged in fisheries/aquaculture are eligible."
+    ],
+    "application_process": {
+      "offline": [
+        "Interested and eligible students need to apply online on the",
+        "Atma Nirbhar Yojana",
+        "portal.",
+        "New User Registration",
+        "Select the \"",
+        "Login",
+        "\" option.",
+        "Subsequently, click on the \"",
+        "Register Here\"",
+        "link.",
+        "Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, and mobile number.",
+        "Establish a password for your account.",
+        "Upon successful registration, the applicant will receive a User ID and password.",
+        "Login & Application Process:",
+        "Log in",
+        "using the provided User ID and password to access the application form.",
+        "Fill in the complete application form.",
+        "Upload the required documents, including a photograph, caste certificate, residential certificate, and land ownership proof, etc.",
+        "Submit the application form."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar Card",
+      "PAN Card",
+      "ST Certificate",
+      "Domicile Certificate/Permanent Resident Certificate (PRC)",
+      "Proof of Land Holding (LPC/Certificate from Administrative Officer) (",
+      "Annexure-I Enclosed",
+      ")",
+      "Photocopy of 1st page of Bank Passbook",
+      "No Objection Certificate (NOC) from Agri/Allied Department",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Amendment",
+      "Notice"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who can apply?",
+      "answer": "ST individuals, SHGs affiliated to APRSLM/NERCOMP, and fisheries-related FPOs in Arunachal Pradesh."
+    },
+    {
+      "question": "What is the subsidy structure?",
+      "answer": "45% government subsidy, 45% bank loan, and 10% beneficiary contribution."
+    },
+    {
+      "question": "Is there an age limit?",
+      "answer": "Yes, applicants must be between 18 to 60 years of age."
+    },
+    {
+      "question": "Can government employees apply?",
+      "answer": "No, the scheme excludes government servants."
+    },
+    {
+      "question": "Is experience in fisheries mandatory?",
+      "answer": "Yes, for individuals and FPOs, SHGs must be relevant to aquaculture."
+    },
+    {
+      "question": "Can SHGs outside APRSLM apply?",
+      "answer": "No, SHGs must be under APRSLM (or NERCOMP for Changlang)."
+    },
+    {
+      "question": "Are all applicants selected?",
+      "answer": "No, selection is based on DLSC screening and fund availability."
+    },
+    {
+      "question": "Who to contact for queries?",
+      "answer": "Visit or contact your district's DFDO office during office hours."
+    },
+    {
+      "question": "What is required for FPO eligibility?",
+      "answer": "Registration, 100+ shareholders, and an audited balance sheet."
+    },
+    {
+      "question": "Is the benefit recurring?",
+      "answer": "No, it is a one-time subsidy per financial year."
+    }
+  ]
 }

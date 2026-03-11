@@ -1,17 +1,110 @@
 {
   "scheme_name": "Scheme to Assist for Infrastructural Facilities for Gaushalas & Panjrapole",
   "scheme_url": "https://www.myscheme.gov.in/schemes/saifgp",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme to Assist for Infrastructural Facilities for Gaushalas & Panjrapole",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Scheme to Assist for Infrastructural Facilities for Gaushalas & Panjrapole” launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat, aims to provide financial aid to registered gaushalas and panjrapoles for building essential infrastructure like cattle sheds, water facilities, and storage areas, ensuring better care for non-productive livestock."
+    ],
+    "benefits": [
+      "Financial assistance of up to 75% of the total cost or ₹4,00,000/-, whichever is lower, for each of the following:",
+      "Cattle Shed.",
+      "Compound Wall.",
+      "Grass Godown.",
+      "Water Bore (Electric Motor / Submersible Pump).",
+      "Overhead or Underground Water Tank.",
+      "Note:",
+      "The benefit of this scheme will be available to an organization for a period of five years for different purpose-components."
+    ],
+    "eligibility": [
+      "Any panjarapol and gaushala of the state registered under Public Charity Act.",
+      "At least 3 (three) acres of land on which the organization has to construct the development work, must be in the name of the organization or on lease of 99 years. There is no limit on the maximum land.",
+      "A gaushala must have more than 50 cows of local origin While Panjarapol must have more than 100 livestock."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the",
+        "GGVB’s nodal officer",
+        "of the concerned district with the necessary documents listed in the application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here."
+      ]
+    },
+    "documents_required": [
+      "Copy of 7/12, 8-A, and 6-rights land records (own/lease land).",
+      "Lease agreement (minimum 99 years, if applicable).",
+      "Estimate and plan/map of the proposed construction work (as per taluka S.O.R.).",
+      "Registration certificate under the Public Charity Act.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Scheme to Assist for Infrastructural Facilities for Gaushalas & Panjrapole\"?",
+      "answer": "The scheme aims to support animal welfare organizations like gaushalas and panjrapoles by offering financial assistance for the development and construction of essential infrastructure."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any gaushala or panjrapole that is registered under the Public Charity Act and meets the specified land and livestock requirements is eligible to apply for the scheme."
+    },
+    {
+      "question": "What type of financial assistance is provided under this scheme?",
+      "answer": "The scheme provides up to 75% of the total cost or a maximum of ₹4.00 lakh for each infrastructure component such as cattle sheds, compound walls, water facilities, and storage units."
+    },
+    {
+      "question": "Can an organization apply for multiple infrastructure components at once?",
+      "answer": "An organization can apply for different components, but financial assistance will be granted for only one component in a given year."
+    },
+    {
+      "question": "Is it necessary for the organization to own the land where construction will take place?",
+      "answer": "No, the organization may either own the land or have it leased for a minimum of 99 years to qualify for the scheme."
+    },
+    {
+      "question": "Is the benefit of the scheme available more than once?",
+      "answer": "Yes, the organization can reapply for assistance for a different component after a minimum of five years."
+    },
+    {
+      "question": "What does S.O.R. mean in the construction documentation?",
+      "answer": "S.O.R. stands for Schedule of Rates, which refers to the standard government-approved rates used to estimate construction costs."
+    },
+    {
+      "question": "Is there a maximum land limit for eligibility under the scheme?",
+      "answer": "No, there is no maximum land limit, but the organization must have at least 3 acres of land."
+    },
+    {
+      "question": "Where can the application for this scheme be submitted?",
+      "answer": "Applications must be submitted online through the iKhedut portal, followed by submission of printed applications with signatures and required documents to the board."
+    },
+    {
+      "question": "Is any official verification required after submitting the online application?",
+      "answer": "Yes, the printed application must be signed and stamped by both the local veterinary officer and the nodal officer of the Gujarat Gauseva and Gauchar Vikas Board."
+    },
+    {
+      "question": "What is the deadline for submitting the physical copy of the application and documents?",
+      "answer": "All required documents must be submitted to the board within 30 days from the date of the online application."
+    }
+  ]
 }

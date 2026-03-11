@@ -1,17 +1,123 @@
 {
   "scheme_name": "Mukhya Mantri Mahila Kisan Sashaktikaran Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mmksy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Mukhya Mantri Mahila Kisan Sashaktikaran Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "Detailed",
+      "Under the MMKSY scheme, women farmers in Gujarat are provided with financial assistance and training to help them enhance their agricultural productivity and income. The scheme aims to provide a holistic approach towards the development of women farmers, including improving their access to inputs, credit, technology, and market.",
+      "Some of the key components of the scheme include:",
+      "Providing financial assistance for farm activities, such as purchasing agricultural inputs, seeds, equipment, etc.",
+      "Providing training and capacity building for women farmers to enhance their skills and knowledge.",
+      "Encouraging the formation of women farmer groups and providing support for their collective activities.",
+      "Providing access to credit for women farmers through various financial institutions.",
+      "Providing market linkages and support for marketing their produce.",
+      "The MMKSY scheme is aimed at promoting women's participation in agriculture and reducing the gender gap in agriculture-related activities. It is expected to benefit around 7 lakh women farmers in the state of Gujarat"
+    ],
+    "benefits": [
+      "Financial Assistance: The scheme provides financial assistance to women farmers for various farm activities like purchasing inputs, seeds, equipment, etc. This helps in improving their agricultural productivity and income.",
+      "Training and Capacity Building: The scheme offers training and capacity-building programs to women farmers to enhance their skills and knowledge about modern agricultural practices. This helps in improving their productivity and income.",
+      "Access to Credit: The scheme aims to provide easy access to credit to women farmers through various financial institutions. This helps in reducing their dependency on moneylenders and promotes financial inclusion."
+    ],
+    "eligibility": [
+      "Women Farmers: Only women farmers are eligible to apply for the scheme. Women farmers who own or operate agricultural land are eligible to apply.",
+      "Resident of Gujarat: Only women farmers who are residents of Gujarat are eligible to apply.",
+      "Age Criteria: There is no specific age limit for the scheme. Women farmers of all age groups can apply.",
+      "Income Criteria: There is no specific income criteria for the scheme. However, preference is given to women farmers who belong to economically weaker sections.",
+      "Land Holding: Women farmers who own or operate agricultural land are eligible to apply. The size of the landholding is not a criterion for eligibility.",
+      "Registration: Women farmers have to register themselves with the Department of Agriculture and Co-operation to apply for the scheme.",
+      "Group Formation: Women farmers can also form groups and apply for the scheme collectively.."
+    ],
+    "application_process": {
+      "offline": [
+        "Visit the nearest government agriculture office or village panchayat office to obtain the application form for MMKSY.",
+        "Fill in the application form with all the required details such as personal information, landholding details, agricultural activities, etc.",
+        "Attach all the necessary documents, such as land ownership documents, identity proof, and bank account details, along with the application form.",
+        "Submit the application form along with the documents to the government agriculture office or village panchayat office.",
+        "After submission, the application will be verified by the concerned authorities, and financial assistance will be provided to eligible women farmers."
+      ]
+    },
+    "documents_required": [
+      "List of required documents",
+      "Aadhaar Card: Applicants are required to provide their Aadhaar card as proof of identity and residency.",
+      "Land Documents: Women farmers who own or operate agricultural land have to provide the relevant land documents as proof of ownership or lease.",
+      "Bank Account Details: Applicants are required to provide their bank account details to receive financial assistance under the scheme.",
+      "Caste Certificate (if applicable): Women farmers belonging to Scheduled Castes, Scheduled Tribes, Other Backward Classes, or other marginalized groups may have to provide their caste certificate as proof of eligibility.",
+      "Income Certificate (if applicable): Applicants may have to provide their income certificate as proof of eligibility for the scheme.",
+      "Passport size photograph: Applicants may have to provide their passport-size photograph for the application form.",
+      "Registration Certificate: Applicants have to provide their registration certificate from the Department of Agriculture and Co-operation."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What are the benefits provided under MMKSY ?",
+      "answer": "Under MMKSY, women farmers are provided with financial assistance for various activities related to agriculture, such as the purchase of farm equipment, seeds, fertilizers, and pesticides, as well as training and skill development programs."
+    },
+    {
+      "question": "How much financial assistance is provided under MMKSY ?",
+      "answer": "Under MMKSY, women farmers are provided with financial assistance of up to Rs. 50,000 per year."
+    },
+    {
+      "question": "Can women farmers use the financial assistance for any agricultural activity?",
+      "answer": "The financial assistance provided under MMKSY can be used for various agricultural activities, such as the purchase of seeds, fertilizers, pesticides, and farm equipment, as well as for training and skill development programs."
+    },
+    {
+      "question": "What kind of training and skill development programs are provided under MMKSY?",
+      "answer": "Under MMKSY, women farmers are provided with training and skill development programs related to various aspects of agriculture, such as organic farming, dairy farming, horticulture, and agro-processing."
+    },
+    {
+      "question": "Is there any provision for market linkage under MMKSY?",
+      "answer": "Yes, under MMKSY, women farmers are provided with market linkages for their agricultural produce, which helps them get better prices for their crops."
+    },
+    {
+      "question": "Is there any provision for insurance under MMKSY?",
+      "answer": "Yes, under MMKSY, women farmers are provided with insurance coverage for their crops, which protects them from crop losses due to natural calamities, pests, and diseases."
+    },
+    {
+      "question": "Who can apply for MMKSY in Gujarat?",
+      "answer": "Women farmers who are residents of Gujarat and are actively involved in agriculture are eligible to apply for this scheme."
+    },
+    {
+      "question": "What is the age limit for applying to MMKSY?",
+      "answer": "There is no age limit for applying to MMKSY in Gujarat."
+    },
+    {
+      "question": "What is the educational qualification required for MMKSY?",
+      "answer": "There is no specific educational qualification required for MMKSY in Gujarat."
+    },
+    {
+      "question": "What is the landholding criteria for MMKSY?",
+      "answer": "Women farmers who own land or are cultivating on leased land are eligible to apply for this scheme. There is no specific landholding criteria for this scheme."
+    },
+    {
+      "question": "What is the application process for MMKSY in Gujarat?",
+      "answer": "The application process for MMKSY in Gujarat is offline. Women farmers need to visit the nearest government agriculture office or village panchayat office to obtain the application form, fill it out with the necessary details, attach the required documents, and submit it to the office."
+    },
+    {
+      "question": "Is there any fee for applying to MMKSY?",
+      "answer": "No, there is no fee for applying to MMKSY in Gujarat."
+    },
+    {
+      "question": "What documents are required for applying to MMKSY?",
+      "answer": "The following documents are required for applying to MMKSY in Gujarat: • Aadhaar card or any other identity proof • Land ownership documents or lease agreement • Bank account details • Photographs"
+    },
+    {
+      "question": "Can women farmers submit the application online?",
+      "answer": "No, currently the application process for MMKSY in Gujarat is offline, and women farmers need to visit the government agriculture office or village panchayat office to submit their application."
+    },
+    {
+      "question": "What is the timeline for the application process?",
+      "answer": "The timeline for the application process for MMKSY in Gujarat is not specified. However, the government aims to process the applications and provide financial assistance to eligible women farmers as soon as possible."
+    },
+    {
+      "question": "How will women farmers know if their application is accepted or rejected?",
+      "answer": "After submitting the application, women farmers will receive an acknowledgement receipt. The concerned authorities will verify the application and the attached documents, and if the application is accepted, financial assistance will be provided to eligible women farmers. If the application is rejected, the authorities will inform the women farmers of the reasons for rejection."
+    }
+  ]
 }

@@ -1,17 +1,75 @@
 {
   "scheme_name": "Organic Manure Scheme",
   "scheme_url": "https://www.myscheme.gov.in/schemes/oms",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Organic Manure Scheme",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Organic Manure Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide hands-on training at the village level on the production of organic compost inputs such as compost for plant health management for sustainable agriculture."
+    ],
+    "benefits": [
+      "Type of assistance:",
+      "Training and awareness campaign in the production of organic composts."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Meghalaya.",
+      "The applicant should be a bonafide farmer engaged in agriculture."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 01:",
+        "The eligible bonafide farmer can apply/write an application on plain paper.",
+        "Step 02:",
+        "Along with the application, attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 03:",
+        "Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/ Horticulture.",
+        "Mode of Selection of Beneficiary(s):",
+        "The bonafide farmers having sufficient available cultivable land on a first come first served basis.",
+        "Whom to Contact:",
+        "District Agriculture Officers of the concerned districts.",
+        "Sub-Divisional Agricultural Officers of the concerned sub-divisions.",
+        "District Training Officers, Tura/Shillong.",
+        "Agricultural Development Officers of the concerned Community and Rural Development Blocks."
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph",
+      "Identity Proof",
+      "Documents proof of having sufficient available cultivable land",
+      "Any other document as required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "FAQs"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The objective of the scheme is to provide hands on training at the village level on production of organic compost inputs such as compost for plant health management for sustainable agriculture."
+    },
+    {
+      "question": "Which department has launched this scheme?",
+      "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya"
+    },
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "The bonafide farmers of Meghalaya who are engaged in agriculture can avail the benefits under the scheme."
+    },
+    {
+      "question": "What is the type of assistance/entitlement?",
+      "answer": "Training and awareness campaign in the production of organic composts."
+    },
+    {
+      "question": "How to apply for the benefits of the scheme?",
+      "answer": "Bona fide farmers can apply in plain paper to the District Agriculture Officer of the concerned Districts through the Agriculture Development officer of C & RD Block/ Agriculture Circle/Sub-Divisional Agricultural Officers of the concerned Sub-Divisions."
+    },
+    {
+      "question": "What is the beneficiaries’ selection procedure?",
+      "answer": "The bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis."
+    }
+  ]
 }

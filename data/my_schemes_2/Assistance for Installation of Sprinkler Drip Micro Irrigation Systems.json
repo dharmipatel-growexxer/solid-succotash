@@ -1,17 +1,110 @@
 {
   "scheme_name": "Assistance for Installation of Sprinkler / Drip Micro Irrigation Systems",
   "scheme_url": "https://www.myscheme.gov.in/schemes/aispmis",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Puducherry",
+  "location_type": "union_territory",
+  "page_title": "Assistance for Installation of Sprinkler / Drip Micro Irrigation Systems",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme “Assistance for Installation of Sprinkler / Drip Micro Irrigation Systems\" was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the Marginal Farmers, Small farmers, Scheduled Caste/ Schedule Tribe Farmers, Women Farmers, Big Farmers and Institutions are provided with a subsidy on the total cost (or) ₹ 25,000/‐ per hectare whichever is less for the installation of Sprinkler / Drip Micro Irrigation Systems."
+    ],
+    "benefits": [
+      "Subsidy of 90% of the total cost (or) ₹ 25,000/‐ per hectare whichever is less for Marginal Farmers, Small Farmers, Scheduled Caste/ Schedule Tribe and Women Farmers.",
+      "Subsidy of 70% of the total cost (or) ₹ 25,000/‐ per hectare whichever is less for Big Farmers/ Institutions.",
+      "*The beneficiaries so selected will be intimated individually if the farmer completes the work on their own fund, the subsidy amount will be released by an Electronic clearing system in the farmer's bank accounts.",
+      "*If the farmer chooses manufacturers/ dealers, the subsidy amount will be released directly to the manufacturers/dealers' bank account after obtaining a satisfactory completion letter from the concerned farmer."
+    ],
+    "eligibility": [
+      "The applicant should be a Marginal Farmer/ Small farmer/ Scheduled Caste Farmer/ Schedule Tribe Farmer/ Women Farmer/ Big Farmers/ Institutions",
+      "The farmers should own cultivable agricultural land in the Union Territory of Puducherry along with own/leased tubewell with adequate water and pumping system.",
+      "The farmers who have already availed the maximum subsidy amount during the past 10 years for the sprinkler irrigation system and the past 8 years for the drip irrigation systems are not eligible.",
+      "The farmers who have already installed micro irrigation system under this component and availed part of the maximum subsidy amount to install a micro-irrigation system during the past 10 years / 8 years in the additional area will be considered and they will be paid the balance amount duly deducting the already noted assistance from the maximum subsidy amount.",
+      "The land in which the installation of the micro irrigation system under this component, the period of 10 years for the sprinkler irrigation system and 8 years for the drip irrigation system will not be considered even if ownership has been changed.",
+      "Farmers who have availed of sprinkler irrigation systems earlier are also eligible for drip irrigation systems and vice‐versa, if the farmer opts to cultivate for intercrop for 3 years."
+    ],
+    "application_process": {
+      "online": [
+        "The advertisement inviting applications will be published in leading local Tamil Dailies in Puducherry and Karaikal regions and through All India Radio.",
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the concerned office and request the hard copy of the",
+        "prescribed format",
+        "of the application form from the respective Uzhavar Udhaviyagams or from the concerned authority:",
+        "Puducherry:",
+        "Office of the Hydrogeologist‐II, State Ground Water Unit & Soil Conservation, Thattanchavady, Puducherry‐9.",
+        "Karaikal:",
+        "Office of the Additional Director of Agriculture, Karaikal.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form and the documents to the aforementioned authority.",
+        "Step 4:",
+        "On receipt of the application, necessary entries will be made in the application receipt register and a unique seniority number will be assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application will be issued to the applicant."
+      ]
+    },
+    "documents_required": [
+      "A Revenue Certificate in the prescribed format issued by an authority not below the rank of Deputy Tahsildar of the Revenue Department.",
+      "Photocopy of the Field Measurement Book (FMB) sketch of the land consented for the installation of micro irrigation system, electricity policy card of the tubewell used for irrigation, First-page bearing name, address and account number and last transaction page of Bank passbook.",
+      "Farmers belonging to Scheduled Caste/Scheduled Tribes should enclose the Caste Certificate issued by an authority not below the rank of Deputy Tahsildar of the Revenue Department for claiming preference."
+    ],
+    "sources_and_references": [
+      "Standard Operating Procedure",
+      "Application Form",
+      "Contact Us (Email IDs)",
+      "Contact Us (Telephone Numbers)",
+      "Citizen's Charter",
+      "Grievance Redressal",
+      "Responsibility Centers"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the maximum subsidy amount provided per hectare under this scheme?",
+      "answer": "The maximum subsidy amount is ₹25,000 per hectare, or 90% of the total cost for Marginal, Small, Scheduled Caste/Schedule Tribe, and Women Farmers, and 70% for Big Farmers/Institutions."
+    },
+    {
+      "question": "Is there a specific duration for which the land should be owned for eligibility?",
+      "answer": "Farmers must own cultivable land in the Union Territory of Puducherry to be eligible for the scheme, with no specific duration mentioned."
+    },
+    {
+      "question": "Can farmers who previously availed subsidies apply for additional areas under this scheme?",
+      "answer": "Farmers who installed micro-irrigation systems in the past 10 or 8 years can apply for additional areas, and the balance amount will be paid after deducting the previously noted assistance."
+    },
+    {
+      "question": "How is the subsidy amount released to manufacturers/dealers if chosen by the farmer?",
+      "answer": "If farmers choose manufacturers/dealers, the subsidy amount is released directly to their bank account after obtaining a satisfactory completion letter from the concerned farmer."
+    },
+    {
+      "question": "Can farmers choose between completing the work independently or involving manufacturers/dealers?",
+      "answer": "Yes, farmers have the option to either complete the work on their own or involve manufacturers/dealers, with the subsidy amount released accordingly."
+    },
+    {
+      "question": "Are farmers eligible for the scheme if they have previously installed micro irrigation systems?",
+      "answer": "Farmers who have installed micro irrigation systems in the past 10 years for sprinkler systems or 8 years for drip systems are eligible, with the balance subsidy amount paid after deducting any previously received assistance."
+    },
+    {
+      "question": "What preference documentation is required for Scheduled Caste/Scheduled Tribe farmers?",
+      "answer": "Farmers from Scheduled Caste/Scheduled Tribe backgrounds should enclose a Caste Certificate issued by an authority not below the rank of Deputy Tahsildar of the Revenue Department for claiming preference."
+    },
+    {
+      "question": "Which documents are mandatory for farmers applying for this irrigation scheme?",
+      "answer": "Farmers need a Revenue Certificate, Field Measurement Book (FMB) sketch, electricity policy card of the tubewell, and bank passbook photocopies, including the first page with personal details and the last transaction page."
+    },
+    {
+      "question": "What is the time frame considered for ownership changes in the land under this scheme?",
+      "answer": "The period of 10 years for sprinkler irrigation and 8 years for drip irrigation is not considered for ownership changes in the land where Micro Irrigation systems are installed."
+    },
+    {
+      "question": "Can farmers who previously received subsidies for sprinkler irrigation also apply for drip irrigation?",
+      "answer": "Yes, farmers who availed sprinkler irrigation subsidies earlier are eligible for drip irrigation systems, and vice versa, provided they cultivate intercrop for three years."
+    },
+    {
+      "question": "How is the subsidy amount released to the beneficiaries, and what conditions apply?",
+      "answer": "The subsidy amount is released through an Electronic clearing system. If farmers complete the work independently, the subsidy goes to their bank accounts. If manufacturers/dealers are chosen, the subsidy is released to their bank account upon satisfactory completion."
+    },
+    {
+      "question": "What percentage of the total cost is subsidized for Big Farmers and Institutions under this scheme?",
+      "answer": "Big Farmers and Institutions are eligible for a 70% subsidy or ₹25,000 per hectare, whichever is less, for the installation of Sprinkler/Drip Micro Irrigation Systems."
+    }
+  ]
 }

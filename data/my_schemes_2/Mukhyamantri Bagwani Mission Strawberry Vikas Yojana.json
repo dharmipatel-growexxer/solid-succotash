@@ -1,17 +1,132 @@
 {
   "scheme_name": "Mukhyamantri Bagwani Mission: Strawberry Vikas Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mbysvy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Bagwani Mission: Strawberry Vikas Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The “Strawberry Vikas Yojana” a component of the umbrella scheme “Mukhyamantri Bagwani Mission”, launched by the Department of Agriculture, Bihar. The main objective of the scheme is to promote the commercial cultivation of horticultural crops in the state of Bihar.",
+      "This component focuses on expanding strawberry farming through providing subsidies on seedlings, wooden packaging boxes, and plastic containers."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Farmers receive a subsidy of ₹3,36,000/- per hectare to support strawberry farming.",
+      "Subsidized Packaging Materials:",
+      "40% subsidy on wooden boxes for packaging (₹4.40/- per piece, unit cost ₹11/-).",
+      "40% subsidy on small plastic boxes (₹1/-per piece, unit cost ₹2.50/-).",
+      "Provision of Quality Seedlings:",
+      "High-quality strawberry seedlings are provided for cultivation."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Bihar.",
+      "The applicant should be a farmer.",
+      "The applicant must belong to any of the following district: Gopalganj, Jehanabad, Lakhisarai, Saran, Supaul, Aurangabad, Begusarai, Bhagalpur, Gaya, Katihar, Kishanganj, Munger, Muzaffarpur, Nalanda, West Champaran, Patna, East Champaran, Purniyan, Samastipur and Vaishali.",
+      "The applicant must have agricultural land a minimum of 0.25 acres (0.1 ha) and a maximum of 5 acres (2 ha).",
+      "The applicant must be registered on the DBT portal.",
+      "Note 1: Beneficiary allocation:",
+      "General Category: 78.56%.",
+      "Scheduled Castes: 20%.",
+      "Scheduled Tribes: 1.44%.",
+      "Women Participation: 30%.",
+      "Note 2:",
+      "The benefits of this scheme can be taken by ryot farmers on the basis of land documents and non-ryot farmers on the basis of contract form.",
+      "Note 3:",
+      "Beneficiaries will be selected on first come first serve basis."
+    ],
+    "application_process": {
+      "online": [
+        "DBT Registration Process:",
+        "Step-1:",
+        "Visit the",
+        "registration page",
+        "of the DBT portal.",
+        "Step-2:",
+        "Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.",
+        "Step-3:",
+        "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.",
+        "Step-4:",
+        "Enter the OTP. Click on “Validate OTP”.",
+        "Step-5:",
+        "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.",
+        "Step-6:",
+        "In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.",
+        "Step-7:",
+        "Validate with OTP. Click on “Register” to generate the Registration Id.",
+        "Note:",
+        "After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.",
+        "Online Application of the Scheme:",
+        "Visit the official",
+        "website",
+        ".",
+        "Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”.",
+        "In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”.",
+        "Fill in the required details i.e. Address, Land Details, etc, and upload documents.",
+        "Confirm the checkbox and then click on “Submit”.",
+        "An “Application Number” will be generated. Keep this for future reference.",
+        "Printout of the filled in application also can be taken using the Print option."
+      ]
+    },
+    "documents_required": [
+      "For DBT Registration Process:",
+      "Aadhaar Details (Should be linked with mobile number).",
+      "Passport Size Photo.",
+      "Farmer details.",
+      "Land information.",
+      "Bank account.",
+      "For the Online Application of the Scheme:",
+      "Contract form",
+      "( for non-ryot farmers).",
+      "Land-ownership/ revenue receipt (If applicable).",
+      "Note:",
+      "If the applicant's name is not clear in the land-ownership/ revenue receipt, it will be mandatory to attach the genealogy along with the land-ownership/ revenue receipt."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the \"Strawberry Vikash Yojana\"?",
+      "answer": "The \"Strawberry Vikash Yojana\" is a component of the \"Mukhyamantri Bagwani Yojana\", launched by the Department of Agriculture, Bihar, strawberry farming through providing subsidies on seedlings, wooden packaging boxes, and plastic containers."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Farmers residing in the 20 specified districts of Bihar, with a cultivation area between 0.25 acres (0.1 hectares) and 5 acres (2 hectares), are eligible to apply for the scheme."
+    },
+    {
+      "question": "What type of financial assistance is provided under the scheme?",
+      "answer": "Farmers receive a subsidy of ₹3,36,000/- per hectare for strawberry cultivation and a 40% subsidy on packaging materials such as wooden and plastic boxes."
+    },
+    {
+      "question": "Are women farmers eligible for special benefits under this scheme?",
+      "answer": "Yes, the scheme ensures 30% participation of women farmers in each beneficiary category."
+    },
+    {
+      "question": "How will the subsidies be distributed to the beneficiaries?",
+      "answer": "The subsidies will be directly transferred to the farmers' registered bank accounts through the Direct Benefit Transfer (DBT) system."
+    },
+    {
+      "question": "What is the subsidy percentage provided for packaging materials?",
+      "answer": "The scheme provides a 40% subsidy for packaging materials, including wooden boxes and small plastic containers."
+    },
+    {
+      "question": "Are there reservations for Scheduled Castes (SC) and Scheduled Tribes (ST)?",
+      "answer": "Yes, the scheme reserves 20% of the benefits for Scheduled Castes and 1.44% for Scheduled Tribes."
+    },
+    {
+      "question": "What is the percentage of beneficiaries allocated to the general category?",
+      "answer": "A total of 78.56% of the beneficiaries under the scheme are reserved for the general category."
+    },
+    {
+      "question": "Can tenant farmers apply for the scheme?",
+      "answer": "Yes, tenant farmers can apply if they provide legally recognized tenancy agreements along with other required documents."
+    },
+    {
+      "question": "What should farmers do before applying for the scheme?",
+      "answer": "Farmers should ensure their land ownership documents are updated and verify that their bank account details are registered under the DBT system."
+    }
+  ]
 }

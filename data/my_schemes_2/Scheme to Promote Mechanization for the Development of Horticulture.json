@@ -1,17 +1,101 @@
 {
   "scheme_name": "Scheme to Promote Mechanization for the Development of Horticulture",
   "scheme_url": "https://www.myscheme.gov.in/schemes/stpmtdh",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Scheme to Promote Mechanization for the Development of Horticulture",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The scheme \"Scheme to Promote Mechanization for the Development of Horticulture\" launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to encourage mechanization in horticulture through providing subsidies on various modern machines to eligible farmers."
+    ],
+    "benefits": [
+      "Machinery",
+      "Maximum Subsidy (₹)",
+      "Potato Planter/Digger",
+      "30,000",
+      "Garlic/Onion Planter/Digger",
+      "Tractor Mounted Agri-Blast Sprayer",
+      "75,000",
+      "Power Operated Pruning Machine",
+      "20,000",
+      "Fogging Machine",
+      "10,000",
+      "Mulch Laying Machine",
+      "Power Tiller",
+      "Power Weeder",
+      "50,000",
+      "Tractor with Rotavator (Up to 20 H.P.)",
+      "1,50,000",
+      "Onion/Garlic Marker",
+      "500",
+      "Post Hole Digger",
+      "Tree Pruner",
+      "45,000",
+      "Plant Hedge Trimmer",
+      "35,000",
+      "Mist Blower",
+      "Power Spray Pump",
+      "25,000"
+    ],
+    "eligibility": [
+      "The applicant must be a farmer.",
+      "The applicant must be a resident of Madhya Pradesh."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant should contact the District Office of the Horticulture Department."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity.",
+      "Residence Certificate.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The objective of this scheme is to encourage farmers to use modern machines in horticultural crops by providing subsidies."
+    },
+    {
+      "question": "Which department implements this scheme?",
+      "answer": "The scheme is implemented by the Horticulture and Food Processing Department, Madhya Pradesh."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "All farmers are eligible to apply for this scheme."
+    },
+    {
+      "question": "What percentage of subsidy is provided under this scheme?",
+      "answer": "A subsidy of 50% of the unit cost is provided."
+    },
+    {
+      "question": "What is the maximum subsidy amount for a potato planter or digger?",
+      "answer": "The maximum subsidy amount is ₹30,000."
+    },
+    {
+      "question": "What is the subsidy for a power tiller?",
+      "answer": "The subsidy for a power tiller is ₹75,000."
+    },
+    {
+      "question": "What is the maximum subsidy available for a tractor with rotavator?",
+      "answer": "The maximum subsidy available is ₹1,50,000."
+    },
+    {
+      "question": "How can farmers apply for the scheme benefits?",
+      "answer": "Farmers can contact the District Office of the Horticulture Department."
+    },
+    {
+      "question": "What is the benefit of using mechanized horticultural equipment?",
+      "answer": "Mechanized equipment helps in improving efficiency and productivity in horticultural farming."
+    },
+    {
+      "question": "Where should the applicant contact for more information?",
+      "answer": "The applicant should contact the District Office of the Horticulture Department, Madhya Pradesh."
+    }
+  ]
 }

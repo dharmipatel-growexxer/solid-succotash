@@ -1,17 +1,86 @@
 {
   "scheme_name": "District Central Cooperative Banks and through its Branches: For Jewel Loan",
   "scheme_url": "https://www.myscheme.gov.in/schemes/dccbfjl",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "District Central Cooperative Banks and through its Branches: For Jewel Loan",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"District Central Cooperative Banks and through its Branches: For Jewel Loan\" scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, allows citizens to obtain loans by pledging their gold and jewelry. The maximum loan amount is ₹1,00,000/- with an interest rate of 12%, subject to changes as per bank policies."
+    ],
+    "benefits": [
+      "Access to Loan:",
+      "Up to ₹1,00,000/-.",
+      "Interest Rate:",
+      "12% (subject to change)."
+    ],
+    "eligibility": [
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "Loans should be applicable only for Jewel."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should collect the application form from the District Central Cooperative Banks or its branches.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority..",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof (Aadhaar, PAN card, etc.).",
+      "Address proof.",
+      "Valuation certificate for the pledged jewelry.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme allows eligible individuals to obtain loans by pledging their gold/jewelry. The maximum loan amount is ₹1,00,000/- with an interest rate of 12%, subject to changes as per bank policies."
+    },
+    {
+      "question": "What is the maximum loan amount available?",
+      "answer": "The maximum loan amount under this scheme is ₹1,00,000/-."
+    },
+    {
+      "question": "What is the interest rate on the loan?",
+      "answer": "The interest rate for the loan is 12%, but it is subject to change depending on the bank's policies."
+    },
+    {
+      "question": "Who is eligible for the Jewel Loan?",
+      "answer": "Any citizen with valid gold/jewelry for pledge is eligible to apply for the loan."
+    },
+    {
+      "question": "Is there a specific income requirement for eligibility?",
+      "answer": "No, there is no specific income requirement to apply for this loan."
+    },
+    {
+      "question": "What documents are required to apply for the loan?",
+      "answer": "Applicants are required to provide proof of identity, proof of address, and a valuation certificate for the pledged jewelry."
+    },
+    {
+      "question": "Where can one apply for the Jewel Loan?",
+      "answer": "The loan can be applied for at any District Central Cooperative Bank or its branches."
+    },
+    {
+      "question": "Is there a minimum loan amount that can be borrowed?",
+      "answer": "No specific minimum loan amount is mentioned under this scheme."
+    },
+    {
+      "question": "Is the interest rate fixed or can it change?",
+      "answer": "The interest rate is subject to change based on the bank's policies and market conditions."
+    },
+    {
+      "question": "Is there any processing fee involved for this loan?",
+      "answer": "The processing fee, if any, will depend on the policies of the specific bank branch where the loan is applied."
+    }
+  ]
 }

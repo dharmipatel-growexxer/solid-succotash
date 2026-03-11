@@ -1,17 +1,111 @@
 {
   "scheme_name": "Mobile Food Court Van (DAADC)",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mfcvs",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Mobile Food Court Van (DAADC)",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Mobile Food Court Van\" scheme is implemented by the Dr. Ambedkar Antyodaya Development Corporation (DAADC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to generate self-employment opportunities in the food and beverage sector by providing loan assistance to unemployed scheduled caste individuals belonging to Antyodaya families. Under this scheme, loan is provided to the eligible beneficiaries at a concessional interest rate."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "Up to ₹6,00,000/-",
+      "Interest Rate:",
+      "6% per annum",
+      "Contribution:",
+      "State Government Contribution: 95 %",
+      "Beneficiary Contribution: 5%",
+      "Possible Installment Amount:",
+      "₹11,020/- per month (for 5 years)",
+      "₹ 9,447/- per month (for 6 years)",
+      "₹ 8,327/- per month (for 7 years)"
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to the Scheduled Caste (SC) category.",
+      "The applicant should belong to an Antyodaya Anna Yojana (AAY) family.",
+      "The applicant’s annual family income should not exceed ₹3,00,000/-.",
+      "The applicant should provide two guarantors to get the loan."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Dr. Ambedkar Antyodaya Vikas Nigam (SC).",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Now\".",
+        "Step 3:",
+        "Click on the loan scheme name.",
+        "Step 4:",
+        "Select the loan category and fill in the loan amount.",
+        "Step 5:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 6:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 7:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 8:",
+        "The applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Birth Certificate",
+      "Copy of license",
+      "Income Certificate",
+      "Passport Size Photos",
+      "Bank Details Copy of Hier",
+      "Caste Certificate",
+      "Identity Proof of the Applicant",
+      "Mark Sheet",
+      "School Leaving"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Scheme Details"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Unemployed individuals belonging to Scheduled Castes and classified under Antyodaya families in Gujarat."
+    },
+    {
+      "question": "How many guarantors are needed?",
+      "answer": "Two guarantors are required for the loan application."
+    },
+    {
+      "question": "What kind of business is supported?",
+      "answer": "Mobile food and beverage businesses."
+    },
+    {
+      "question": "Is the application process online?",
+      "answer": "Yes, apply via https://daadconline.gujarat.gov.in/"
+    },
+    {
+      "question": "What is the maximum loan amount available under this scheme?",
+      "answer": "A loan of up to ₹6,00,000/- can be availed under the scheme."
+    },
+    {
+      "question": "What is the government’s share?",
+      "answer": "95% of the project cost."
+    },
+    {
+      "question": "What is the loan repayment period?",
+      "answer": "The repayment period ranges from 60 months to 84 months (i.e., 5 to 7 years)."
+    },
+    {
+      "question": "Can women applicants apply under this scheme?",
+      "answer": "Yes, eligible women belonging to Antyodaya Scheduled Caste families can also apply."
+    }
+  ]
 }

@@ -1,17 +1,115 @@
 {
   "scheme_name": "Subsidy Scheme on Establishment of 25 R.I.R. Bird’s unit 40 R.I.R. Bird’s Unit and Stipend for Poultry Farming Training",
   "scheme_url": "https://www.myscheme.gov.in/schemes/ssebbup",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Subsidy Scheme on Establishment of 25 R.I.R. Bird’s unit 40 R.I.R. Bird’s Unit and Stipend for Poultry Farming Training",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Subsidy Scheme on Establishment of 25 R.I.R. Bird’s Unit 40 R.I.R. Bird’s Unit and Stipend for Poultry Farming Training\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to promote poultry farming among weaker sections and Divyang individuals. The scheme provides financial support in kind (poultry birds and feed) to eligible beneficiaries. Additionally, financial aid is given as a stipend to those undergoing poultry farming training."
+    ],
+    "benefits": [
+      "Name of the Component",
+      "Standard of Assistance",
+      "Minimum Time Limit (in Years) for Reclaiming Benefits",
+      "Subsidy Scheme on establishment of 25 R.I.R. birds unit for Weaker Section",
+      "75% of total Expenditure or maximum ₹6,000/- in kind (25 R.I.R. birds and poultry feed)",
+      "Benefit can be given to one member of family. After 3 years the same family can avail benefit.",
+      "Subsidy Scheme on establishment of 40 R.I.R. birds unit for Divyang People",
+      "90 % of total Expenditure or maximum ₹10,800/- in kind (40 R.I.R. birds and poultry feed)",
+      "Benefit can be given to one member of family.",
+      "Stipend Scheme for Poultry Farming Training for Weaker Section and Divyang People",
+      "Maximum ₹2,000/- RTGS/NEFT (in Bank Account Direct)"
+    ],
+    "eligibility": [
+      "The applicant must be from Gujarat.",
+      "The applicant must belong to the Economically Weaker Section(EWS).",
+      "The applicant must have taken 6 days of poultry-rearing training.",
+      "Note:",
+      "Divyang people of Gujarat state are also eligible to apply.",
+      "Priority is given to females and Below Poverty Line (BPL) applicants."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant may visit and apply online at I-Khedut Portal:",
+        "https://ikhedut.gujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.",
+        "Step 3:",
+        "Now select the scheme, click on the ‘Apply’ button and an application page will open.",
+        "Step 4:",
+        "Click on \"Apply New\" button and submit a new application.",
+        "Step 5:",
+        "Click on the \"Update Application\" button to add corrections to the application.",
+        "Step 6:",
+        "Once the application is done, confirm it.",
+        "Step 7:",
+        "Take a print out of the confirmed application.",
+        "Step 8:",
+        "Applicant can also check their Application Status/View/Print/Upload Application details from the below link:",
+        "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+        "Contact Us:",
+        "Click here",
+        ".",
+        "Note:",
+        "Before application, beneficiaries must complete poultry training at the Intensive Poultry Development Project or District Poultry Extension Centre."
+      ]
+    },
+    "documents_required": [
+      "Income proof.",
+      "Caste certificate.",
+      "Disability proof (for Divyang beneficiaries).",
+      "Proof of poultry farming training completion.",
+      "Bank account details for stipend transfer.",
+      "Aadhaar card or any government-issued ID.",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "This scheme aims to provide financial assistance and training to economically weaker sections and Divyang individuals in Gujarat for poultry farming."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Adults from the economically weaker section and Divyang individuals residing in Gujarat who have completed the required poultry farming training are eligible to apply."
+    },
+    {
+      "question": "What financial assistance is provided under this scheme?",
+      "answer": "Beneficiaries receive a subsidy in kind, which includes poultry birds and feed. The subsidy amount is up to ₹6,000/- for 25 R.I.R. birds (for weaker sections) and up to ₹10,800/- for 40 R.I.R. birds (for Divyang individuals)."
+    },
+    {
+      "question": "Is it necessary to complete poultry training before applying?",
+      "answer": "Yes, applicants must complete 6 days of poultry rearing training at the Intensive Poultry Development Project & District Poultry Extension Centre before applying for the scheme."
+    },
+    {
+      "question": "Can more than one member from the same family apply for this scheme?",
+      "answer": "No, only one member from a family can avail of the benefit at a time. However, for the 25 R.I.R. birds unit, another family member can apply after 3 years."
+    },
+    {
+      "question": "Will the subsidy amount be provided in cash?",
+      "answer": "No, the subsidy is provided in kind, which includes poultry birds and feed. However, the stipend for training is transferred directly to the beneficiary’s bank account via RTGS/NEFT."
+    },
+    {
+      "question": "Is financial assistance provided for poultry training?",
+      "answer": "Yes, a stipend of up to ₹2,000/- is provided to eligible beneficiaries after completing the poultry farming training."
+    },
+    {
+      "question": "Are women given preference under this scheme?",
+      "answer": "Yes, female applicants and those belonging to Below Poverty Line (BPL) families are given priority in the selection process."
+    },
+    {
+      "question": "Is it mandatory to complete poultry training before applying?",
+      "answer": "Yes, poultry training is required from the Intensive Poultry Development Project & District Poultry Extension Centre."
+    },
+    {
+      "question": "How can an applicant apply for this scheme?",
+      "answer": "Interested individuals must apply online through the iKhedut Portal after completing the mandatory 6-day poultry rearing training."
+    }
+  ]
 }

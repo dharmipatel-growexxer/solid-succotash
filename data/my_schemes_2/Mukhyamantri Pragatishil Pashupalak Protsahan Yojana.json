@@ -1,17 +1,107 @@
 {
   "scheme_name": "Mukhyamantri Pragatishil Pashupalak Protsahan Yojana",
   "scheme_url": "https://www.myscheme.gov.in/schemes/mpppy",
-  "location_name": "",
-  "location_type": "",
-  "page_title": "",
-  "scraped_at": "2026-03-10 06:01:06 UTC",
+  "location_name": "Uttar Pradesh",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Pragatishil Pashupalak Protsahan Yojana",
+  "scraped_at": "2026-03-11 08:57:00 UTC",
   "sections": {
-    "details": [],
-    "benefits": [],
-    "eligibility": [],
-    "application_process": {},
-    "documents_required": [],
-    "sources_and_references": []
+    "details": [
+      "The \"Mukhyamantri Pragatisheel Pashupalak Protsahan Yojana\" is an initiative under the \"Nand Baba Milk Mission\" for breed improvement in indigenous cows and an increase in milk productivity. Uttar Pradesh is the leading state in the country in milk production. This scheme will be applicable in all the districts of the state.",
+      "Objective:",
+      "(i) To encourage the trend of rearing indigenous breed of cows with high quality and productivity in the state.",
+      "(ii) To motivate cattle farmers for breed improvement of cows, their better care, quality nutrition and health protection.",
+      "(iii) To increase the income of cattle farmers of the state by increasing milk productivity in the state.",
+      "(iv) To increase the per capita availability of milk in the state and bring it to the national level."
+    ],
+    "benefits": [
+      "Cash awards ranging from ₹10,000 to ₹15,000 per cow for high productivity and improved breeds."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Uttar Pradesh.",
+      "The age of the applicant should be 18 years or above.",
+      "Only individual cattle farmers will be eligible, but groups, firms, or organizations will not eligible.",
+      "Only indigenous breed of cows like Gir, Sahiwal, Haryana, Gangatiri, and Tharparkar species are eligible.",
+      "The cattle farmers of the state can avail the benefit of this incentive amount only once for a maximum of 02 cows.",
+      "The cattle farmers will be eligible to receive an incentive amount only once in the lifetime of the cow."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 01:",
+        "Eligible applicants can visit the",
+        "official website",
+        "and download the",
+        "application form",
+        "(Annexure-2).",
+        "Step 02:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 03:",
+        "Submit the duly filled and signed application form along with the documents to the Chief Development Officer or Chief Veterinary Officer.",
+        "Step 04:",
+        "Request a receipt or acknowledgment from the Chief Development Officer or Chief Veterinary Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "The application will have to be made within 45 days from the date of calving of the cow."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo.",
+      "Aadhar card.",
+      "Certificate and Identification Number (microchips/ear tagging system for cow identification).",
+      "Copy of Operational Insurance of the Cow.",
+      "Bank Passbook/Canceled Cheque.",
+      "Full Photograph of the Applicant with the Cow.",
+      "Notarized Affidavit (the cow will not be slaughtered during its lifetime and that the incentive has not been received previously for the same cow)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Application Form"
+    ]
   },
-  "faqs": []
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Any resident of Uttar Pradesh who is over 18 years old and rears indigenous breeds of cows like Gir, Sahiwal, Haryana, Gangatiri, or Tharparkar is eligible to apply for the scheme."
+    },
+    {
+      "question": "How much financial incentive can a cattle rearer receive per cow?",
+      "answer": "A cattle rearer can receive a financial incentive ranging from ₹10,000 to ₹15,000 per cow."
+    },
+    {
+      "question": "Can organizations or groups apply for this scheme?",
+      "answer": "No, the scheme is only open to individual cattle farmers. Groups, firms, or organizations are not eligible."
+    },
+    {
+      "question": "Is the incentive available for cows in any lactation period?",
+      "answer": "The incentive is available only for cows in their first, second, or third lactation period."
+    },
+    {
+      "question": "What is the application process for this scheme?",
+      "answer": "Applications can be submitted offline to the Chief Development Officer or Chief Veterinary Officer of the concerned district."
+    },
+    {
+      "question": "How long do applicants have to submit their application after the cow’s calving?",
+      "answer": "Applicants must submit their application within 45 days of the cow’s calving."
+    },
+    {
+      "question": "What is the verification process for determining milk productivity?",
+      "answer": "The milk productivity of the cow is verified on-site by a committee. The productivity is measured over four milkings (morning and evening) for two consecutive days."
+    },
+    {
+      "question": "Can an applicant receive the incentive more than once for the same cow?",
+      "answer": "No, an applicant can receive the incentive only once in the lifetime of the cow."
+    },
+    {
+      "question": "What is the role of the Nand Baba Milk Mission in this scheme?",
+      "answer": "The Nand Baba Milk Mission Society is the nodal agency responsible for implementing and monitoring the scheme."
+    },
+    {
+      "question": "How are the applications verified on-site?",
+      "answer": "The verification is conducted by a committee comprising the Senior Milk Inspector, Livestock Extension Officer, and other designated officials. They determine the cow’s productivity through on-site inspection."
+    },
+    {
+      "question": "How long does it take to receive the incentive after application approval?",
+      "answer": "The incentive is disbursed within a month through Direct Benefit Transfer (DBT) after the application is approved and verified."
+    }
+  ]
 }
