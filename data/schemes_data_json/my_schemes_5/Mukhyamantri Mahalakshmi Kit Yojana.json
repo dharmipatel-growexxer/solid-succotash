@@ -1,0 +1,78 @@
+{
+  "scheme_name": "Mukhyamantri Mahalakshmi Kit Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mmkyu",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Mahalakshmi Kit Yojana",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mukhyamantri Mahalakshmi Kit Yojana\" has been launched by the Department of Women Empowerment & Child Development, Government of Uttarakhand. The scheme aims to improve the health and well-being of both mothers and their newborn girl children by providing essential item kits after the institutional delivery of pregnant women registered at an Anganwadi Centre."
+    ],
+    "benefits": [
+      "In the state, after the institutional delivery of a pregnant woman, the following benefits will be provided:",
+      "The woman will receive one Mahalakshmi kit for the birth of each of her first two girl children.",
+      "In the case of twins, the woman will be given one Mahalakshmi kit, and each child will receive a separate Mahalakshmi kit."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary must be a pregnant woman registered with an Anganwadi Centre and eligible to receive a Mahalakshmi Kit after delivery.",
+      "The beneficiary must not be an income tax payer."
+    ],
+    "application_process": {
+      "offline": [
+        "After the institutional delivery of a pregnant woman registered at an Anganwadi Centre, a Mahalakshmi Kit is provided as a benefit.",
+        "The following items are included in the kit for mothers and their newborn girl children:",
+        "For Mothers:",
+        "Dry fruits, socks, scarf, towel, shawl, blanket, bedsheet, sanitary pads, mustard oil, soap, and nail cutter.",
+        "For Newborn Girl Child:",
+        "Cotton/warm cap, socks, diaper, towel, baby soap, rubber sheet, warm blanket, and vaccination card."
+      ]
+    },
+    "documents_required": [
+      "Identity proof of beneficiary",
+      "Delivery related medical reports/documents"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 35)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Pregnant women registered with an Anganwadi Centre, who are not income tax payers, are eligible to receive the Mahalakshmi Kit after delivery."
+    },
+    {
+      "question": "Where should a pregnant woman be registered to avail benefits?",
+      "answer": "She must be registered at an Anganwadi Centre in Uttarakhand."
+    },
+    {
+      "question": "When is the Mahalakshmi Kit provided?",
+      "answer": "The kit is provided after the institutional delivery of the pregnant woman."
+    },
+    {
+      "question": "How many kits does a woman receive?",
+      "answer": "A woman receives one kit for each of her first two girl children."
+    },
+    {
+      "question": "What happens in the case of twins?",
+      "answer": "For twins, the woman receives one Mahalakshmi Kit, and each child is given a separate Mahalakshmi Kit."
+    },
+    {
+      "question": "Can women who are income tax payers receive the kit?",
+      "answer": "No, only women who are not income tax payers are eligible."
+    },
+    {
+      "question": "Is the scheme available for mothers of boy children?",
+      "answer": "No, the scheme is specifically for mothers of girl children."
+    },
+    {
+      "question": "Is registration at the Anganwadi Centre mandatory?",
+      "answer": "Yes, only women registered at an Anganwadi Centre are eligible for the kit."
+    },
+    {
+      "question": "Does the kit support home deliveries?",
+      "answer": "No, the kit is provided only after institutional delivery at recognized health facilities."
+    }
+  ]
+}

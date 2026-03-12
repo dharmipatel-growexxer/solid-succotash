@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Vandan Matru Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/vmyg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Vandan Matru Yojana",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Vandan Matru Yojana (VMY)\" is a maternity benefit scheme launched by the Women and Child Development Department, Gujarat, to support pregnant and lactating women from economically weaker sections. The scheme emphasizes maternal nutrition, encourages institutional deliveries, and promotes breastfeeding practices to ensure the well-being of both mother and child. Beneficiaries receive financial assistance in stages during pregnancy, delivery, and the breastfeeding period. The scheme is implemented through Anganwadi centers and government health facilities, with funds transferred directly to the beneficiaries' bank accounts."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Registration Benefit:",
+      "A one-time financial assistance of ₹1000/- is provided.",
+      "Additional Benefit:",
+      "An additional amount of ₹1000/- is disbursed after institutional delivery.",
+      "Further Benefit:",
+      "₹2000/- is given in two installments during the breastfeeding period, promoting continued maternal and child health."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must be a pregnant or lactating woman.",
+      "The applicant must belong to a family with an annual income below ₹2,00,000/-.",
+      "The applicant must be registered at an Anganwadi center."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Visit the nearest Anganwadi center or government health facility.",
+        "Step 2:",
+        "Submit the required documents, including proof of eligibility.",
+        "Step 3:",
+        "Complete the registration process with the assistance of Anganwadi staff.",
+        "Step 4:",
+        "Upon approval, financial assistance will be transferred to your bank account in stages."
+      ]
+    },
+    "documents_required": [
+      "Proof of residence (Aadhaar Card, Voter ID, etc.).",
+      "Income certificate (proof of family income below Rs. 2 lakhs per annum).",
+      "Medical Certificate (of being pregnant).",
+      "Bank account details for direct transfer of financial assistance.",
+      "Recent passport-sized photograph."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Vandan Matru Yojana\"?",
+      "answer": "\"Vandan Matru Yojana\" is a maternity benefit scheme by the Gujarat government for pregnant and lactating women from economically weaker sections."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Pregnant and lactating women residing in Gujarat with a family income below Rs. 2 lakhs per annum are eligible."
+    },
+    {
+      "question": "What financial benefits are provided under the scheme?",
+      "answer": "Beneficiaries receive ₹1000/- at registration, ₹1000/- after institutional delivery, and ₹2000/- during the breastfeeding period."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applications can be submitted at Anganwadi centers or government health facilities with the required documents."
+    },
+    {
+      "question": "Is the financial assistance provided in cash?",
+      "answer": "No, the financial assistance is directly transferred to the beneficiary's bank account."
+    },
+    {
+      "question": "Can women from outside Gujarat apply for the scheme?",
+      "answer": "No, only residents of Gujarat are eligible for the scheme."
+    },
+    {
+      "question": "What documents are required for registration?",
+      "answer": "Documents such as proof of residence, income certificate, pregnancy proof, and bank details are required."
+    },
+    {
+      "question": "Where can beneficiaries get more information?",
+      "answer": "Beneficiaries can visit the official website of the Gujarat government or consult Anganwadi centers."
+    },
+    {
+      "question": "Is there any fee for registering under the scheme?",
+      "answer": "No, registration under the scheme is completely free."
+    },
+    {
+      "question": "What is the role of Anganwadi centers in the scheme?",
+      "answer": "Anganwadi centers facilitate registration, document verification, and information dissemination."
+    }
+  ]
+}

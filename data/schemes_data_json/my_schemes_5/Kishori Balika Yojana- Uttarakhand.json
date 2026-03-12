@@ -1,0 +1,65 @@
+{
+  "scheme_name": "Kishori Balika Yojana- Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kbyuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Kishori Balika Yojana- Uttarakhand",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Kishori Balika Yojana\" is implemented by the Department of Women Empowerment & Child Development, Government of Uttarakhand. The scheme aims to create awareness among adolescent girls aged 14 to 18 years about nutrition, health, and life cycle issues, and also provides supplementary nutrition for 300 days in a year."
+    ],
+    "benefits": [
+      "Under this scheme, awareness is created among adolescent girls about nutrition, health, and life cycle issues. They are also provided supplementary nutrition (fortified rice and wheat for 25 days each month) for 300 days in a year."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an adolescent girl in the age group of 14 to 18 years.",
+      "The applicant must be residing in one of the aspirational districts of Uttarakhand- Haridwar or Udham Singh Nagar."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration of beneficiaries is carried out through the",
+        "Poshan Tracker App",
+        ", for which the Aadhaar card and birth certificate of the adolescent girl are required."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Birth Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 32)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Adolescent girls aged 14 to 18 years, who are residents of Uttarakhand, and live in the aspiring districts of Haridwar or Udham Singh Nagar."
+    },
+    {
+      "question": "Which districts are covered under this scheme?",
+      "answer": "The scheme is currently implemented in the aspiring districts of Uttarakhand: Haridwar and Udham Singh Nagar."
+    },
+    {
+      "question": "What kind of nutrition support is provided under the scheme?",
+      "answer": "Beneficiaries receive fortified rice and wheat for 25 days every month, for a total of 300 days in a year."
+    },
+    {
+      "question": "How can one register for the scheme?",
+      "answer": "Registration of beneficiaries is done through the Poshan Tracker App."
+    },
+    {
+      "question": "What documents are required for registration?",
+      "answer": "Aadhaar card and birth certificate of the adolescent girl are mandatory for registration."
+    },
+    {
+      "question": "How long does the nutritional support last in a year?",
+      "answer": "Supplementary nutrition is provided for 300 days in a year."
+    },
+    {
+      "question": "Is the scheme free of cost for beneficiaries?",
+      "answer": "Yes, all services and nutritional support under the scheme are provided free of cost."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "scheme_name": "Family Planning Indemnity Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fpis",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Family Planning Indemnity Scheme",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Family Planning Indemnity Scheme\" was launched by the Directorate of Health Services, Government of Goa. The scheme aims to provide compensation for death, failure, or complications following sterilization operations, addressing the financial burden and risks associated with family planning procedures. The scheme provides compensation ranging from ₹60,000/- for sterilization failure to ₹4,00,000/- for death following sterilization, along with coverage for treatment costs up to ₹50,000/- for complications arising within 60 days post-operation."
+    ],
+    "benefits": [
+      "Section A:",
+      "Death following sterilization (inclusive of death during sterilization operation) in hospital or within 7 days from discharge - ₹4,00,000/-.",
+      "Section B:",
+      "Death following sterilization within 8-30 days from discharge - ₹1,00,000/-.",
+      "Section C:",
+      "Failure of sterilization - ₹60,000/-.",
+      "Section D:",
+      "Cost of treatment in hospital and up to 60 days arising out of complications following sterilization operation - Actual cost not exceeding ₹50,000/-.",
+      "Conditions",
+      "*The claimant must accept the compensation amount as full settlement with no further claim rights.",
+      "*The claimant must warrant the truth of all particulars provided, with forfeiture of compensation for false statements.",
+      "*The claimant must agree that the compensation covers all aspects of the claim with no additional benefits."
+    ],
+    "eligibility": [
+      "For Beneficiary (Person who underwent Sterilization)",
+      "The applicant must be a person who has undergone sterilization operation under family planning program.",
+      "The applicant must have undergone sterilization operation at an authorized health facility.",
+      "The applicant must be able to provide documentary evidence of the sterilization procedure.",
+      "For Claimant (Family Member or Legal Representative)",
+      "The applicant must be a legal claimant or family member of the person who underwent sterilization (in case of death or incapacitation).",
+      "The applicant should have legal authority to represent the beneficiary in case of death or inability to claim.",
+      "Conditions",
+      "*The applicant must report complications, failure, or death within the specified timeframes as per scheme guidelines.",
+      "*The applicant must submit the claim through proper medical channels with certification from authorized medical officers."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Initial Reporting and Documentation",
+        "Visit the health facility where sterilization was conducted and report the case of death, failure, or complication to the Medical Superintendent or Health Officer.",
+        "Begin collecting all required documents including original sterilization certificates, case papers, identity documents, and bank details from relevant sources.",
+        "Step 2:",
+        "Form Completion and Medical Certification",
+        "Complete Part A of the",
+        "Claim Form cum Medical Certificate",
+        "with accurate personal details, sterilization operation information, and nature of claim.",
+        "Submit all medical records and completed Part A to the Chief Medical Officer or equivalent designated officer at district level for medical certification.",
+        "Step 3:",
+        "Application Submission",
+        "Collect the medically certified claim form (Part A and Part B completed) from the certifying officer.",
+        "Submit the complete application with all required original documents and photocopies to the",
+        "respective health facility",
+        "where sterilization was performed.",
+        "Step 4:",
+        "Follow-up and Verification",
+        "Maintain regular contact with the health facility to track progress as the case moves through District Indemnity Scheme Committee review.",
+        "Provide any additional information or documentation if requested during the committee verification process.",
+        "Step 5:",
+        "Payment Processing",
+        "The District Committee forwards the verified case to the state office (State Health Society) for final approval and processing.",
+        "Upon state approval, compensation amount is disbursed directly to the beneficiary's bank account as specified in the claim form."
+      ]
+    },
+    "documents_required": [
+      "Failure of Sterilization Operation Documents with Original and One Set of Photocopy.",
+      "Claim Form (Claim Form cum Medical Certificate).",
+      "Consent Form cum Application Form for Sterilization Operation.",
+      "New Sterilization Certificate (in Original).",
+      "New Case Paper.",
+      "Admit Paper.",
+      "Discharge Card.",
+      "Old Case Paper.",
+      "Old Ligation Certificate (in Original).",
+      "Aadhaar Card and Election Card of Both Husband and Wife.",
+      "Birth Certificate of Both Children.",
+      "Bank Details with 2 Photocopies of Beneficiary.",
+      "Death Certificate (in Case of Death Claims).",
+      "Original Bills, Receipts, and Prescriptions (for Complication Treatment Costs).",
+      "Document Format Requirements",
+      "*Original documents required for sterilization certificates and ligation certificates.",
+      "*Photocopies required for identity documents and bank details.",
+      "*Medical records must be attested by authorized medical officers.",
+      "*All forms must be completely filled and signed by claimant."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What compensation amount can I expect if my family member dies within the first week after being discharged from the hospital following the sterilization procedure?",
+      "answer": "If death occurs within 7 days from the date of discharge from hospital following sterilization, the compensation amount is ₹4,00,000/-."
+    },
+    {
+      "question": "How much financial support is available if complications arise after the sterilization operation and I need to seek medical treatment for an extended period?",
+      "answer": "The scheme covers actual treatment costs up to ₹50,000/- for complications arising within 60 days from the date of discharge following sterilization operation."
+    },
+    {
+      "question": "What should I do if the sterilization operation I underwent has failed and I need to claim compensation for this medical failure?",
+      "answer": "You can claim ₹60,000/- compensation for sterilization failure by reporting to the health facility and submitting required documents with proper medical certification."
+    },
+    {
+      "question": "Is there a different compensation amount if death occurs between 8 to 30 days after discharge from the hospital following the sterilization procedure?",
+      "answer": "Yes, if death occurs within 8-30 days from hospital discharge following sterilization, the compensation amount is ₹1,00,000/-."
+    },
+    {
+      "question": "Which specific documents related to my identity and family details do I need to submit along with my claim application for compensation?",
+      "answer": "You must submit Aadhaar Card and Election Card of both husband and wife, along with birth certificates of both children."
+    },
+    {
+      "question": "What are the essential medical documents I must provide to substantiate my claim for compensation under this indemnity scheme?",
+      "answer": "You need to provide sterilization certificate, case papers, admit paper, discharge card, consent form, and ligation certificate in original along with photocopies."
+    },
+    {
+      "question": "Where exactly should I submit my application and which health officials are authorized to accept my claim for processing?",
+      "answer": "Submit your application to Medical Superintendent of District Hospitals, Sub District Hospitals, or Health Officer of Community Health Centre, Primary Health Centre, or Urban Health Centre."
+    },
+    {
+      "question": "What is the role of the District Indemnity Scheme Committee in processing my compensation claim and who heads this important committee?",
+      "answer": "The District Indemnity Scheme Committee headed by the Collector verifies your case and forwards it to the state office for final payment processing."
+    },
+    {
+      "question": "What specific banking information and documentation do I need to provide to ensure smooth disbursement of my compensation amount?",
+      "answer": "You must provide complete bank details along with 2 photocopies to facilitate direct transfer of compensation to your account."
+    },
+    {
+      "question": "Which medical officer is authorized to certify my claim and provide the necessary medical certificate for processing my compensation request?",
+      "answer": "The Chief Medical Officer or equivalent officer designated at district level is authorized to examine records and issue the medical certificate."
+    },
+    {
+      "question": "What happens to my application after the health facility receives it and how does the verification process work at different administrative levels?",
+      "answer": "The health facility reports your case to the District Committee for verification, which then forwards it to the state office for payment approval."
+    },
+    {
+      "question": "How long after the sterilization procedure can I still claim compensation if complications arise that require medical treatment and hospitalization?",
+      "answer": "You can claim compensation for treatment costs of complications arising up to 60 days from the date of discharge following sterilization operation."
+    }
+  ]
+}

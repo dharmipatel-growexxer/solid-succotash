@@ -664,7 +664,7 @@ def main() -> None:
     # parser.add_argument("--output-dir", default="data", help="Folder for txt files")
     parser.add_argument(
         "--csv",
-        default=str(CSV_DIR / "my_schemes_8.csv"),
+        default=str(CSV_DIR / "my_schemes_5.csv"),
         help="Input CSV file path",
     )
     parser.add_argument(

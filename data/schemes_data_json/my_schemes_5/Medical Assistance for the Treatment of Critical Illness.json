@@ -1,0 +1,94 @@
+{
+  "scheme_name": "Medical Assistance for the Treatment of Critical Illness",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/matci",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Medical Assistance for the Treatment of Critical Illness",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Medical Assistance for the Treatment of Critical Illness\" scheme was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra. Under this scheme, medical assistance of ₹1,00,000/- for the treatment of serious ailments for registered worker and his/her family members. (the benefit can be availed only after 26th July 2014 as the benefit is covered under the Mediclaim & Personal Accident Insurance scheme)."
+    ],
+    "benefits": [
+      "Financial assistance of ₹1,00,000/- is provided for medical treatment."
+    ],
+    "eligibility": [
+      "The worker must be engaged in building or construction work.",
+      "The worker should be registered under the Maharashtra Building and Other Construction Workers Welfare Board (MBOCWW).",
+      "The worker or family member must be undergoing treatment for a serious illness or critical medical condition."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant downloads the",
+        "application form",
+        "from the MBOCWW official website.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labor Commissioner / Government Labor Officer.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo.",
+      "Aadhaar Card.",
+      "Identity Card of Maharashtra Building and Other Construction Workers Welfare Board.",
+      "Bank Passbook.",
+      "Medical Certificate (issued by competent medical authorities about serious illness).",
+      "Medical Treatment Papers.",
+      "Proof of Residence (One of Aadhaar Card/Passport/Driving Licence/Ration Sheet/Last Month's Electricity Bill/Gram Panchayat Certificate)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Medical Assistance for the Treatment of Critical Illness scheme?",
+      "answer": "It provides ₹1,00,000 for medical treatment of critical illnesses for registered construction workers and their immediate family members."
+    },
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Registered construction workers under the Maharashtra Building and Other Construction Workers Welfare Board (MBOCWW) and their family members undergoing treatment for critical illnesses."
+    },
+    {
+      "question": "What is the amount of financial assistance provided?",
+      "answer": "The scheme provides up to ₹1,00,000 for medical treatment."
+    },
+    {
+      "question": "Does this scheme cover treatment for family members?",
+      "answer": "Yes, the scheme covers both the worker and their immediate family members."
+    },
+    {
+      "question": "How do I apply for this scheme?",
+      "answer": "Download the application form from the MBOCWW website, fill it out, attach the required documents, and submit it to the Labour Commissioner or Government Labour Officer."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Documents include a passport-size photo, Aadhaar card, identity card from MBOCWW, bank passbook, medical certificate, treatment papers, and proof of residence."
+    },
+    {
+      "question": "Is there a deadline for applying for the scheme?",
+      "answer": "There is no specific deadline, but it is recommended to apply promptly after the diagnosis of a critical illness."
+    },
+    {
+      "question": "Is the scheme only available after 26th July 2014?",
+      "answer": "Yes, the benefit can be availed only after 26th July 2014, as it is covered under the Mediclaim & Personal Accident Insurance scheme."
+    },
+    {
+      "question": "Is this scheme available for workers across India?",
+      "answer": "No, it is available only for registered workers in Maharashtra under the MBOCWW."
+    },
+    {
+      "question": "Does the scheme cover all types of illnesses?",
+      "answer": "The scheme covers serious ailments and critical medical conditions, as certified by a competent medical authority."
+    },
+    {
+      "question": "How can I track my application?",
+      "answer": "Upon submission, request a receipt or acknowledgment from the concerned authority to track your application status."
+    }
+  ]
+}

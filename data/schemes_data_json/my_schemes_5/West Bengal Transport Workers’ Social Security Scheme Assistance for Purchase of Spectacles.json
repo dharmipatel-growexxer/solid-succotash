@@ -1,0 +1,89 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Assistance for Purchase of Spectacles",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wbtwsaps",
+  "location_name": "West Bengal",
+  "location_type": "state",
+  "page_title": "West Bengal Transport Workers’ Social Security Scheme: Assistance for Purchase of Spectacles",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The \"West Bengal Transport Workers’ Social Security Scheme: Assistance for Purchase of Spectacles,\" introduced by the Labour Department of West Bengal, aims to improve eye health by providing a financial benefit of ₹500/- for purchasing spectacles. Beneficiaries can claim this assistance once every five years by submitting a valid prescription and proof of purchase."
+    ],
+    "benefits": [
+      "Financial Assistance: ₹500/- for purchasing spectacle."
+    ],
+    "eligibility": [
+      "The applicant must be between 18 and 60 years of age at the time of enrolment.",
+      "The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses.",
+      "The applicant’s vehicle must be used for commercial purposes and not solely for personal or family use."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the “",
+        "eDistrict 2.0",
+        "” portal. Click on Log In/Sign Up.",
+        "Step 2:",
+        "In the User Login window, scroll down to the bottom and click on “Register”.",
+        "Step 3:",
+        "Fill in all the details carefully, enter a username, and click on “Register”.",
+        "Step 4:",
+        "Upon entering the One Time Password received on your mobile, you will be successfully registered.",
+        "Step 5:",
+        "Now in the User Login window, enter your Username or email and captcha and click on “Sign In”.",
+        "Step 6:",
+        "Enter the received O.T.P and click on “Submit”.",
+        "Step 7:",
+        "Upon successful Login, You will be redirected to the “Dashboard”. From the right side menu apply for the concerned scheme."
+      ]
+    },
+    "documents_required": [
+      "For New Registration:",
+      "Certification by Prescribed Authority in the Prescribed format,",
+      "Passport Size Photo (self and for each dependent member).",
+      "Age Proof Document.",
+      "Driving Licence in case of Drivers.",
+      "EPIC/ AADHAR Card.",
+      "For the Application of the Welfare Scheme:",
+      "Medical Prescription.",
+      "Proof of purchase of spectacles."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the “Assistance for Purchase of Spectacles” scheme under the “West Bengal Transport Workers’ Social Security Scheme”?",
+      "answer": "The “Assistance for Purchase of Spectacles” Scheme is a government initiative that provides financial assistance of ₹500/- for purchasing spectacles to eligible beneficiaries every 5 years."
+    },
+    {
+      "question": "How often can a person avail of this benefit?",
+      "answer": "A beneficiary can avail of this benefit only once every five years."
+    },
+    {
+      "question": "How much financial assistance does the scheme provide?",
+      "answer": "The scheme provides ₹500/- as financial assistance to eligible beneficiaries for purchasing spectacles."
+    },
+    {
+      "question": "Is the scheme applicable to all age groups?",
+      "answer": "No, the scheme is applicable to individuals aged between 18-60 years."
+    },
+    {
+      "question": "Can a person apply for the scheme without a prescription?",
+      "answer": "No, a valid prescription for spectacles issued by a qualified optometrist or ophthalmologist is mandatory to apply for the scheme. The availability of online application options varies. Applicants should contact their local authorities or visit the official website for more information."
+    },
+    {
+      "question": "Are there specific sellers or brands from whom the spectacles must be purchased?",
+      "answer": "Answer not captured."
+    },
+    {
+      "question": "Are there specific sellers or brands from whom the spectacles must be purchased?",
+      "answer": "No, there are no restrictions on sellers or brands. However, the applicant must provide valid proof of purchase."
+    },
+    {
+      "question": "Who can be contacted for more information about the scheme?",
+      "answer": "Applicants can contact their local government office or visit the official website of the scheme for further details and guidance."
+    }
+  ]
+}

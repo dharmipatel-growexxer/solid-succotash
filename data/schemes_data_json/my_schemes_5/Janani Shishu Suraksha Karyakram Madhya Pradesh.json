@@ -1,0 +1,63 @@
+{
+  "scheme_name": "Janani Shishu Suraksha Karyakram Madhya Pradesh",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jsskmp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Janani Shishu Suraksha Karyakram Madhya Pradesh",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Janani Shishu Suraksha Karyakram\" scheme is launched by the Department of Public Health and Medical Education, Government of Madhya Pradesh. The scheme aims to ensure free and cashless healthcare services to pregnant women and infants up to one year of age in government health institutions by providing free medicines, diagnostics, consumables, blood transfusions, diet, and transport services during pregnancy, delivery, and postnatal care."
+    ],
+    "benefits": [
+      "Free and cashless delivery",
+      "Free treatment for sick newborns and infants up to one year of age.",
+      "Free medicines, consumables, and diagnostic services for both mothers and infants.",
+      "Free provision of blood and blood transfusion services, if required.",
+      "Free diet during hospitalization",
+      "Free transport facility"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must be a pregnant woman.",
+      "The applicant’s child (newborn or infant) should be up to one year of age to receive benefits."
+    ],
+    "application_process": {
+      "offline": [
+        "The beneficiary should visit the nearest government health institution (District Hospital, Community Health Center, or Primary Health Center) for antenatal or delivery services."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the department's guidelines for the scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible under this scheme?",
+      "answer": "All pregnant women and infants up to one year of age availing services in government health institutions."
+    },
+    {
+      "question": "Is the scheme available in rural areas?",
+      "answer": "Yes, it covers both urban and rural areas."
+    },
+    {
+      "question": "What kind of healthcare services are provided?",
+      "answer": "Free delivery, medicines, diagnostics, diet, blood transfusion, and transport services."
+    },
+    {
+      "question": "Are cesarean deliveries covered under this scheme?",
+      "answer": "Yes, cesarean deliveries are fully covered without any charge."
+    },
+    {
+      "question": "Does the scheme cover newborn healthcare?",
+      "answer": "Yes, it covers treatment for sick newborns and infants up to one year of age."
+    },
+    {
+      "question": "Is there any application fee or registration charge?",
+      "answer": "No, all services under this scheme are completely free."
+    }
+  ]
+}

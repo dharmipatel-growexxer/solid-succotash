@@ -1,0 +1,102 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Medical Benefit for Major Ailments",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wbtwsmbma",
+  "location_name": "West Bengal",
+  "location_type": "state",
+  "page_title": "West Bengal Transport Workers’ Social Security Scheme: Medical Benefit for Major Ailments",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The “West Bengal Transport Workers’ Social Security Scheme: Medical Benefit for Major Ailments” by the Labour Department, West Bengal, is designed to alleviate the financial burden of medical expenses for individuals and families dealing with severe health conditions. Under this scheme, financial assistance up-to ₹20,000/- is provided for the treatment of beneficiaries or their family members suffering from major ailments Cancer, Leprosy, T.B, brain stroke, cardiac problems, malfunctioning of kidney(s), AIDS, Eye Ailments, Vericosis of Vein, or Thalassemia requiring hospitalisation and treatment. In cases of major surgery, additional relief up to ₹60,000/-may be allowed."
+    ],
+    "benefits": [
+      "Assistance for Major Ailments:",
+      "Up-to ₹20,000/-.",
+      "Assistance for Surgery:",
+      "Up-to ₹60,000/-."
+    ],
+    "eligibility": [
+      "The applicant must be between 18 and 60 years of age at the time of enrolment.",
+      "The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses.",
+      "The applicant’s vehicle must be used for commercial purposes and not solely for personal or family use."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the “",
+        "eDistrict 2.0",
+        "” portal. Click on Log In/Sign Up.",
+        "Step 2:",
+        "In the User Login window, scroll down to the bottom and click on “Register”.",
+        "Step 3:",
+        "Fill in all the details carefully, enter a username, and click on “Register”.",
+        "Step 4:",
+        "Upon entering the One Time Password received on your mobile, you will be successfully registered.",
+        "Step 5:",
+        "Now in the User Login window, enter your Username or email and captcha and click on “Sign In”.",
+        "Step 6:",
+        "Enter the received O.T.P and click on “Submit”.",
+        "Step 7:",
+        "Upon successful Login, You will be redirected to the “Dashboard”. From the right side menu apply for the concerned scheme."
+      ]
+    },
+    "documents_required": [
+      "For New Registration:",
+      "Certification by Prescribed Authority in the Prescribed format,",
+      "Passport Size Photo (self and for each dependent member).",
+      "Age Proof Document.",
+      "Driving Licence in case of Drivers.",
+      "EPIC/ AADHAR Card.",
+      "For the Application of the Welfare Scheme:",
+      "Medical Certificate.",
+      "Hospital Bills,",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines 1",
+      "Guidelines 2"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "This scheme provides financial assistance for the treatment of beneficiaries or their family members suffering from major ailments like cancer, TB, brain stroke, cardiac problems, and others."
+    },
+    {
+      "question": "What is the maximum financial aid provided under this scheme?",
+      "answer": "The scheme offers financial assistance of up to ₹20,000/-. Beside this, In cases of major surgery additional relief up to ₹60,000/- may be allowed."
+    },
+    {
+      "question": "Which illnesses are covered under the scheme?",
+      "answer": "Ailments like cancer, leprosy, TB, brain stroke, cardiac problems, kidney malfunction, AIDS, eye ailments, varicosis of veins, and thalassemia."
+    },
+    {
+      "question": "Can this benefit be availed for outpatient treatments?",
+      "answer": "No, the scheme is applicable only for hospitalization and treatment."
+    },
+    {
+      "question": "Can multiple family members avail of this benefit?",
+      "answer": "Yes, if multiple family members of the beneficiary are affected, they can avail this scheme."
+    },
+    {
+      "question": "Is there an age limit for applicants?",
+      "answer": "No specific age limit is mentioned under the scheme."
+    },
+    {
+      "question": "What happens if the treatment cost exceeds ₹20,000/-?",
+      "answer": "The scheme only covers up to ₹20,000/-; additional expenses must be borne by the beneficiary."
+    },
+    {
+      "question": "Is this scheme applicable to non-residents of the state?",
+      "answer": "No, the applicant must be a resident of West Bengal state."
+    },
+    {
+      "question": "What proof of treatment is required for the application?",
+      "answer": "Hospital bills, discharge summaries, and medical certificates must be provided."
+    },
+    {
+      "question": "Is there any annual income limit for eligibility?",
+      "answer": "No, there is no specific income criteria to be eligible for this scheme."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "scheme_name": "Khushiyon Ki Sawari Sewa - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kkssuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Khushiyon Ki Sawari Sewa - Uttarakhand",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Khushiyon Ki Sawari Sewa” has been launched by the Department of Medical Health and Family Welfare, Government of Uttarakhand. It aims to provide free and safe transport for pregnant women and newborn babies (0 -1 year) to and from the hospital, with services easily accessible by calling 102."
+    ],
+    "benefits": [
+      "Under this scheme, pregnant women are provided free transportation from the hospital to their homes along with their newborns after delivery. Additionally, pregnant are also provided free to-and-fro transportation from home to the hospital for ultrasound services.",
+      "These facilities are being provided across the state through 128 vehicles."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary must be a pregnant woman or a newborn baby aged 0 to 1 year."
+    ],
+    "application_process": {
+      "offline": [
+        "The services can be availed free of cost by calling 102."
+      ]
+    },
+    "documents_required": [
+      "1. Identity proof",
+      "2. Medical Reports, if any",
+      "3. Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 131)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of this scheme?",
+      "answer": "The scheme aims to provide safe, timely, and free transport for pregnant women and newborn babies (0–1 year) to and from hospitals."
+    },
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Pregnant women and newborn babies up to 1 year of age can avail benefits under this scheme."
+    },
+    {
+      "question": "Is there any age limit for newborn babies under this scheme?",
+      "answer": "Yes, the scheme covers newborn babies from 0 to 1 year of age."
+    },
+    {
+      "question": "How can beneficiaries access this service?",
+      "answer": "The service can be availed free of cost by calling 102."
+    },
+    {
+      "question": "Does the scheme provide transportation for ultrasound visits?",
+      "answer": "Yes, pregnant women get free to-and-fro transport from home to hospital for ultrasound services."
+    },
+    {
+      "question": "How many vehicles are available for this service in the state?",
+      "answer": "A total of 128 vehicles are deployed across Uttarakhand for providing these services."
+    },
+    {
+      "question": "Are there any charges for using this service?",
+      "answer": "No, the service is completely free of cost."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "scheme_name": "Janani Bal Suraksha Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jbsyb",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Janani Bal Suraksha Yojana",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "Launched as part of efforts towards women's empowerment, \"Janani Bal Suraksha Yojana\" has significantly improved health outcomes for pregnant women and nursing mothers in Bihar. The scheme, through the efforts of trained health workers like ASHA and MAMTA, has contributed to a remarkable rise in institutional deliveries and reductions in both infant and maternal mortality rates."
+    ],
+    "benefits": [
+      "Increased Institutional Deliveries:",
+      "The percentage of institutional deliveries has risen from 4% in 2006-07 to 47% now, ensuring safer childbirths.",
+      "Reduction in Infant Mortality:",
+      "Infant mortality rate has decreased from 61 per thousand births in 2005 to 35 per thousand births, contributing to healthier infants.",
+      "Higher Immunization Coverage:",
+      "Regular immunization rates have increased from 18.6% in 2005 to 84% in 2018-19, surpassing the national average.",
+      "Decrease in Maternal Mortality:",
+      "Maternal mortality rate has reduced from 312 in 2005 to 165 in 2018-19, promoting safer childbirth for mothers.",
+      "Improved Life Expectancy:",
+      "The average life expectancy of women in Bihar has increased from 61.6 years in 2006 to 68.5 years in 2016, enhancing overall women's health.",
+      "Empowerment of Women:",
+      "The scheme supports women’s health and also includes provisions for police recruitment, including 35% reservation for women in police positions.",
+      "Support for Marginalized Communities:",
+      "Additional benefits for women from Scheduled Castes and Scheduled Tribes to ensure inclusivity and equality in access to healthcare.",
+      "Improved Healthcare Access:",
+      "Trained health workers like ASHA and MAMTA provide guidance, ensuring pregnant women and nursing mothers receive timely and appropriate care."
+    ],
+    "eligibility": [
+      "The applicant must be a pregnant woman or nursing mother residing in Bihar.",
+      "The applicant should be willing to undergo institutional delivery and follow the health protocols set by the health department.",
+      "The applicant should be a member of a marginalized community to receive additional benefits under the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Visit the nearest health center or hospital.",
+        "Step 2:",
+        "Meet with an ASHA or MAMTA worker for guidance and support.",
+        "Step 3:",
+        "Submit the necessary documents for verification."
+      ]
+    },
+    "documents_required": [
+      "Proof of pregnancy (e.g., ultrasound or medical certificate).",
+      "Identification proof (Aadhaar card, voter ID, etc.).",
+      "Proof of residence (e.g., ration card, voter ID).",
+      "Medical documents from a registered healthcare provider.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Janani Bal Suraksha Yojana?",
+      "answer": "The Janani Bal Suraksha Yojana is a health initiative designed to improve maternal and infant health in Bihar by promoting institutional deliveries and reducing mortality rates."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Pregnant women and nursing mothers residing in Bihar who are willing to undergo institutional delivery and follow the health protocols are eligible for the scheme."
+    },
+    {
+      "question": "What are the key benefits of this scheme?",
+      "answer": "The scheme offers benefits such as increased institutional deliveries, reduced infant and maternal mortality, improved immunization rates, and enhanced life expectancy for women in Bihar."
+    },
+    {
+      "question": "How has the infant mortality rate improved due to this scheme?",
+      "answer": "The infant mortality rate has decreased from 61 per thousand births in 2005 to 35 per thousand births, reflecting the success of the scheme."
+    },
+    {
+      "question": "How can one apply for the Janani Bal Suraksha Yojana?",
+      "answer": "Interested applicants can visit their nearest health center or hospital to apply for the scheme and receive guidance from ASHA or MAMTA workers."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Applicants need to provide identification proof, proof of pregnancy, and proof of residence, among other necessary documents."
+    },
+    {
+      "question": "What is the current rate of institutional deliveries in Bihar under this scheme?",
+      "answer": "Institutional deliveries have increased to 47% in Bihar, a significant improvement from 4% in 2006-07."
+    },
+    {
+      "question": "How does this scheme reduce maternal mortality?",
+      "answer": "The scheme contributes to reducing maternal mortality by promoting institutional deliveries and providing medical care through trained health workers, leading to better outcomes for mothers."
+    },
+    {
+      "question": "Can a woman from any community apply for this scheme?",
+      "answer": "Yes, any pregnant woman or nursing mother in Bihar is eligible to apply. However, additional benefits may be available to women from marginalized communities."
+    },
+    {
+      "question": "What is the role of ASHA and MAMTA workers in the scheme?",
+      "answer": "ASHA and MAMTA workers provide guidance, support, and health services to pregnant women and nursing mothers to ensure safe deliveries and post-natal care."
+    }
+  ]
+}

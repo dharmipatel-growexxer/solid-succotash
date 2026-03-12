@@ -1,0 +1,85 @@
+{
+  "scheme_name": "Immunization Programme - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ipuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Immunization Programme - Uttarakhand",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The “Immunization Programme” is an initiative under the National Health Mission (NHM) implemented by the Department of Medical Health and Family Welfare, Government of Uttarakhand. This initiative aims to protect every child from preventable, life-threatening diseases by providing free and timely vaccination as per the National Immunization Schedule."
+    ],
+    "benefits": [
+      "To protect children from various life-threatening diseases, free vaccinations are provided under the Universal Immunization Programme (UIP) as per the prescribed schedule below:",
+      "National Immunization Schedule:",
+      "Vaccine",
+      "Dose",
+      "Vaccination Age",
+      "BCG",
+      "1 dose",
+      "At birth, Upto one year",
+      "OPV",
+      "5 doses",
+      "At birth, 6 week, 10 week, 14 week & 16-23 months",
+      "FIPV",
+      "3 doses",
+      "6 week, 14 week, & 9 month",
+      "Hepatitis-B",
+      "At birth",
+      "Pentavalent",
+      "6 week, 10 week, 14 week",
+      "RVV",
+      "PCV",
+      "MR",
+      "2 doses",
+      "9 month & 16-23 month",
+      "JE(In endemic districts only)",
+      "DPT",
+      "16-23 month & 5-6 year",
+      "Td",
+      "10 year, 16 year"
+    ],
+    "eligibility": [
+      "All children of Uttarakhand aged 0–16 years who require vaccination are eligible under the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "The vaccination facility is available to the entire community free of cost at government health institutions, including health centres, sub-centres, post-natal centres, and urban health centres. All children aged 0–16 years can avail of these benefits by registering for vaccination.",
+        "For registration, the child must be taken to the concerned government hospital, and the birth certificate or card issued by the ANM is required."
+      ]
+    },
+    "documents_required": [
+      "Child’s Birth Certificate",
+      "Card issued by the ANM"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 130)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible under this scheme?",
+      "answer": "All children aged 0–16 years of Uttarakhand who require vaccination are eligible under the scheme."
+    },
+    {
+      "question": "Is the vaccination under this programme free of cost?",
+      "answer": "Yes, all vaccinations are provided free of cost at government health facilities."
+    },
+    {
+      "question": "Where can parents get their children vaccinated?",
+      "answer": "Vaccinations are available at government health centres, sub-centres, post-natal centres, and urban health centres across Uttarakhand."
+    },
+    {
+      "question": "What documents are required for registration?",
+      "answer": "Parents need to present the child’s birth certificate or the card issued by the ANM (Auxiliary Nurse Midwife) for registration."
+    },
+    {
+      "question": "How can a child be registered for vaccination?",
+      "answer": "The child must be taken to the nearest government health facility, where registration is done using the required documents."
+    },
+    {
+      "question": "Which vaccines are included under the programme?",
+      "answer": "The programme includes vaccines for BCG, OPV, FIPV, Hepatitis-B, Pentavalent, RVV, PCV, MR, JE (in endemic districts), DPT, and Td."
+    }
+  ]
+}

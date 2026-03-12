@@ -1,0 +1,100 @@
+{
+  "scheme_name": "Pension Scheme for Cancer Patients",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pscp",
+  "location_name": "Tripura",
+  "location_type": "state",
+  "page_title": "Pension Scheme for Cancer Patients",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Pension Scheme for Cancer Patients\" was launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide a monthly pension of ₹2,000/- to persons suffering from cancer."
+    ],
+    "benefits": [
+      "₹2,000/- per month."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Tripura.",
+      "The income of the applicant should not exceed ₹1,50,000/- per annum.",
+      "No member of the family (father, mother, son(s), or unmarried daughter(s)) of the applicant should be in government service.",
+      "The applicant should be suffering from cancer."
+    ],
+    "application_process": {
+      "offline": [
+        "Applications would be invited in the prescribed form by giving wide publicity through print and electronic media.",
+        "Step 01:",
+        "The applicant should take print of the",
+        "prescribed format",
+        "of the application form.",
+        "Step 02:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 03:",
+        "Application should be submitted to the Office of the Child Development Project Officer (CDPO) of the concerned area.",
+        "Step 04:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph.",
+      "Bank Passbook.",
+      "Aadhaar Card.",
+      "Income Certificate (issued by the DCM/ Sub Divisional Magistrate).",
+      "Certificate From a Gazetted Government Officer That No Person in His/her Family is a Government Servant.",
+      "Medical Certificate from Regional Cancer Center, Agartala, or a Govt. Hospital or Any Recognized Hospital.",
+      "Proof of Residence (Ration Card, Permanent Resident of Tripura Certificate (PRTC), Voter ID, Driving License, or Passport)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Revised Rate Of Pension"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the permissible proofs of residence?",
+      "answer": "Proof of residence can be in the form of a Ration Card, Permanent Resident of Tripura Certificate (PRTC), Voter ID, Driving License, or Passport."
+    },
+    {
+      "question": "What medical certificate is accepted for the scheme?",
+      "answer": "A Medical Certificate from Regional Cancer Center, Agartala, or a Govt. Hospital or any recognized hospital is accepted."
+    },
+    {
+      "question": "What role does the Directorate of Social Welfare and Social Education play in the scheme?",
+      "answer": "The Directorate is responsible for launching and overseeing the Pension Scheme for Cancer Patients."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Applications should be submitted to the Office of the Child Development Project Officer (CDPO) of the concerned area."
+    },
+    {
+      "question": "Is there an age limit for applicants to qualify for the scheme?",
+      "answer": "The guidelines do not specify an age limit; eligibility is primarily based on residency, income, and cancer diagnosis."
+    },
+    {
+      "question": "How is the proof of income determined for eligibility?",
+      "answer": "The Income Certificate issued by the DCM/Sub Divisional Magistrate is used to determine income eligibility."
+    },
+    {
+      "question": "Can the applicant submit the application to any government office?",
+      "answer": "No, the application should be submitted specifically to the Office of the Child Development Project Officer (CDPO) of the concerned area."
+    },
+    {
+      "question": "What details should the acknowledgment receipt contain?",
+      "answer": "The receipt should include essential details such as the date, time of submission, and a unique identification number if applicable."
+    },
+    {
+      "question": "Is there a deadline for submitting applications?",
+      "answer": "The scheme guidelines do not specify a deadline; however, timely submission is recommended."
+    },
+    {
+      "question": "What is the role of the Child Development Project Officer (CDPO) in the application process?",
+      "answer": "The CDPO is the authority to whom the application should be submitted for processing."
+    },
+    {
+      "question": "How is the publicity for inviting applications carried out?",
+      "answer": "Applications are invited through wide publicity in print and electronic media."
+    },
+    {
+      "question": "Can applicants from outside Tripura avail of the scheme benefits?",
+      "answer": "No, applicants must be residents of Tripura to be eligible for the Pension Scheme for Cancer Patients."
+    }
+  ]
+}

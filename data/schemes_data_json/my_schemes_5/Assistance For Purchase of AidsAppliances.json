@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Assistance For Purchase of Aids/Appliances",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/afpoaa",
+  "location_name": "Chandigarh",
+  "location_type": "union_territory",
+  "page_title": "Assistance For Purchase of Aids/Appliances",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Assistance for Purchase of Aids/Appliances\" scheme under the Social Welfare, Women & Child Development Chandigarh financial assistance is being provided to physically handicapped persons for the purchase of aids/appliances to increase their mobility in their day-to-day working. The applicant should be a resident of UT, Chandigarh to avail of benefits under the scheme. By providing support for their purchase, the scheme empowers individuals to perform tasks and activities independently, thereby enhancing their self-esteem and overall well-being."
+    ],
+    "benefits": [
+      "100% cost on purchase of artificial limbs/ aids/ appliances subject to a maximum of ₹40,000/-"
+    ],
+    "eligibility": [
+      "Annual income of the applicant from all sources should not exceed ₹1,50,000/- per annum.",
+      "Applicant must be resident of UT, Chandigarh for more than 3 years.",
+      "Applicant's Disability should be to the extent of 40% and above."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step-1:",
+        "Applicant have to visit the \"",
+        "ServicesPlus\"",
+        "website.",
+        "Step-2:",
+        "Click on",
+        "\"Register\"",
+        "on the homepage.",
+        "Step-3:",
+        "Fill out the registration form with your",
+        "- Full Name",
+        "- Email id",
+        "- Mobile number",
+        "- Password",
+        "- Select State",
+        "- Enter Captcha",
+        "Step-4:",
+        "Review the details to ensure accuracy, and then submit registration.",
+        "Step-5:",
+        "After successful registration, you may receive a confirmation message on the website or via email, confirming that your registration was successful.",
+        "Apply",
+        "website and login",
+        "Apply for Services.",
+        "Select the services/Scheme name.",
+        "Provide the required details in the application form.",
+        "Submit."
+      ]
+    },
+    "documents_required": [
+      "Required Documents:- (Self-Attested Photocopy)",
+      "Two passport-size photographs.",
+      "Residence Proof for the last three years duly attested (Voter Identity Card, Ration Card, Electricity Bill)",
+      "Copy of Disability Certificate/Identity Card with 40% Disability.",
+      "Affidavit regarding income as per specimen enclosed with the application form.",
+      "Recommendations of Medical Authorities (General Hospital, PGIMER, GMCH, or any Govt. Dispensary) regarding aid/ appliance required by the applicant. Driving license in case apply for a vehicle with gear."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Registration",
+      "Apply"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The objective of the \"Assistance for Purchase of Aids/Appliances\" scheme is to provide support to individuals with disabilities by facilitating access to assistive devices and appliances."
+    },
+    {
+      "question": "Is There An Income-Related Criterion For This Scheme?",
+      "answer": "Family income does not exceed ₹1.50 lacs Maximum amount"
+    },
+    {
+      "question": "How Do I Know If A Field In The Application Form Is Mandatory?",
+      "answer": "The mandatory fields have an asterisk (*) mark at the end."
+    },
+    {
+      "question": "How can i apply online?",
+      "answer": "Applicants visit the ServicesPlus website https://serviceonline.gov.in/ and follow the steps."
+    },
+    {
+      "question": "Are there any specific documents required for the application?",
+      "answer": "Two passport size photographs. Residence Proof for the last three years duly attested (Voter Identity Card, Ration Card, Electricity Bill) Copy of Disability Certificate/Identity Card with 40% Disability Affidavit regarding income as per specimen enclosed with the application form. Recommendations of Medical Authorities (General Hospital, PGIMER, GMCH or any Govt. Dispensary) regarding aid/ appliance required to the applicant. Driving license in case apply for vehicle with gear."
+    },
+    {
+      "question": "What is DBT?",
+      "answer": "Direct Benefit Transfer (DBT) was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes."
+    },
+    {
+      "question": "Under which department does this scheme come?",
+      "answer": "Social Welfare, Women & Child Development."
+    },
+    {
+      "question": "Can applicants from outside Chandigarh apply for the scheme?",
+      "answer": "No, this scheme only for Chandigarh."
+    },
+    {
+      "question": "What is IFSC code?",
+      "answer": "IFSC (Indian Financial System Code) is an 11-digit alphanumeric code that helps to identify different bank branches that deal with online fund transfers."
+    },
+    {
+      "question": "For What Purposes Can The Amount Of The Financial Assistance Be Utilized?",
+      "answer": "The amount of financial assistance can be utilized towards the purchase of aids and appliances for Persons with Disabilities (PwDs)."
+    }
+  ]
+}

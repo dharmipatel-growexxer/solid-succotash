@@ -1,0 +1,104 @@
+{
+  "scheme_name": "Niramaya Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ns",
+  "location_name": "Odisha",
+  "location_type": "state",
+  "page_title": "Niramaya Scheme",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The Department of Health & Family Welfare Department, Government of Odisha introduced a scheme named \"",
+      "NIRAMAYA",
+      "\" - a free medicine distribution scheme. The aim of this scheme is to provide quality essential medicines for all kinds of diseases to patients visiting government health facilities at free of cost. The scheme was launched on 01.05.2015 with an assurance to provide 720 medicines listed in the Emergency Drugs List at all the Government run hospitals and medical colleges free of cost to the patients. It started with 150 drugs in the list while the list has been updated to 570 numbers recently. The government also announced to set up of 1102 drug distribution centers (DDCs) which will cover 1234 primary health centers (PHCs), 383 Community Health Centers (CHCs), 32 District Headquarters Hospitals (DHHs), 22 sub-divisional hospitals and 3 medical colleges. This scheme is managed by the Odisha State Medical Corporation Ltd. (OSMC).",
+      "Key Features of the scheme:",
+      "Healthcare Coverage:",
+      "The scheme provides coverage for a wide range of health services, including preventive, diagnostic, and treatment services. It focuses on ensuring that people have access to essential medical care.",
+      "Financial Support:",
+      "It may include financial support for medical treatments, which helps reduce out-of-pocket expenses for individuals and families.",
+      "Integrated Services:",
+      "The scheme integrates various health services to offer a more holistic approach to health care. This might include primary health care, secondary and tertiary care, and sometimes even specialized treatments.",
+      "Quality Improvement:",
+      "Scheme aims to enhance the quality of health services by setting standards and improving the infrastructure of healthcare facilities.",
+      "Public Awareness:",
+      "The scheme often includes components for educating the public about health issues, preventive measures, and the available health services.",
+      "Collaboration:",
+      "It may involve collaboration with private healthcare providers, NGOs, and other stakeholders to broaden the reach and effectiveness of the scheme."
+    ],
+    "benefits": [
+      "Cashless Medicinal Drugs:",
+      "This scheme provides free medicines treatment to the beneficiaries of the scheme. This means that they can avail of medical drugs without having to pay any cash upfront.",
+      "No Age Limit:",
+      "The scheme has no age limit, and anyone can avail of the benefits of the scheme, including senior citizens.",
+      "Easy Enrollment:",
+      "The enrollment process for the scheme is simple and hassle-free, and anyone can enroll in the scheme by submitting the required documents.",
+      "Increased Access:",
+      "Ensures that more people have access to necessary health services.",
+      "Reduced Financial Burden:",
+      "Helps in alleviating the financial burden on families for medical treatments.",
+      "Enhanced Health Outcomes:",
+      "By improving the quality of care and ensuring timely treatment, the scheme contributes to better health outcomes."
+    ],
+    "eligibility": [
+      "Patients who have done registration in the Govt. Hospitals are eligible to get free medicines under \"Niramaya\".",
+      "Beneficiaries must be residents of Odisha."
+    ],
+    "application_process": {
+      "offline": [
+        "On registration, the beneficiary is required to log in on",
+        "https://www.e-niramaya.odisha.gov.in/Login.aspx",
+        "After log in on portal, he can apply for the scheme.",
+        "At any stage in case the beneficiary has forgotten the password, then click on",
+        "https://www.e niramaya.odisha.gov.in/forgotpassword.aspx.",
+        "For Mobile Application, the beneficiary can download the .apk files in their handset by visiting"
+      ]
+    },
+    "documents_required": [],
+    "sources_and_references": [
+      "Guidelines",
+      "FAQ",
+      "Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is \"Niramaya\"- Free Medicines Distribution Scheme?",
+      "answer": "\"NIRAMAYA\" - is the Free Medicines Distribution Scheme of the Govt. of Odisha, Health & Family Welfare Dept. It is a flagship programme of Govt. of Odisha being implemented since 1st May 2015."
+    },
+    {
+      "question": "What all drugs can be obtained under \"Niramaya\" free of cost?",
+      "answer": "Under \"Niramaya\", 317 essential drugs, 107 numbers of Lifesaving Cancer drugs, 20 types of Non-EDL Items & 83 numbers of medical consumables/surgical & sutures have been benchmarked for different institutions as follows: Description Number of Items General Items 317 Surgical items 83 Anti-cancer items 107 OSACS 21 Child Health 6 Nutrition programme 6 Malaria control programme 28 Leprosy 5 Total EDL & Programme Items 573 Others Items (Non EDL) 20 Total 593"
+    },
+    {
+      "question": "Who are eligible to get free medicines under \"Niramaya\"?",
+      "answer": "Patients who have done registration in the Govt. Hospitals are eligible to get free medicines under \"Niramaya\"."
+    },
+    {
+      "question": "How much quantity of drugs can I get at a time?",
+      "answer": "A patient can get free drugs as suggested in the prescription. For example, if the prescription is for 7 days, drugs for all 7 days are to be given. In special chronic cases, drugs may be issued up to one month at a time and can be issued further on advice of the physician on subsequent visit."
+    },
+    {
+      "question": "What are the timings for \"Drug Distribution Counters (DDC)\"?",
+      "answer": "The timing for at least one \"Drug Distribution Counter (DDC)\" at all medical colleges, major health institutions, district head quarter hospitals & sub-divisional hospitals is \"24 X 7\". In case of CHC the timing for \"DDCs\" is as per the OPD timing."
+    },
+    {
+      "question": "Are those availing assistance under OSTF/RSBY/BKKY also eligible to get drugs under \"Niramaya\"?",
+      "answer": "Yes. Any registered patient claiming for assistance under OSTF/RSBY/BKKY is eligible to get drugs under \"Niramaya\". However, in case of non-availability of the generic drug, the same shall be given from outside."
+    },
+    {
+      "question": "How to get the drugs under \"Niramaya\"?",
+      "answer": "For getting the drugs under \"Niramaya\", a patient has to follow the protocol as below: Registration ---> Consultation with doctor ---> Prescription ---> Receipt of drugs from DDC Counter."
+    },
+    {
+      "question": "Whom do I contact for any grievance related to drugs availability?",
+      "answer": "For any grievance related to drugs availability at various levels, please contact the authorities as given below: > Block Level - Medical Officer-In-Charge > Sub-divisional Level - Sub-divisional Medical Officer > District Level - CDMO / ADMO(med) / Store Medical Officer > Tertiary Level Institutions - Superintendent / Store Medical Officer > State Level - Jt. Director, State Drug Management Unit"
+    },
+    {
+      "question": "What is the role of different agencies under \"Niramaya\"?",
+      "answer": "The roles of different agencies are as follows: I. District Health Administration:- Supervision and monitoring of DDCs are the responsibility of CDMOs / ADMO (Med) / Store Medical Officer at district level & head of the institution. II. Odisha State Medical Corporation:- Central Procurement of drugs and surgical and supply of drugs, consumables, surgical & sutures. III. Director of Health Services:- Overall monitoring of \"Niramaya\" scheme, Redressal of grievances related to shortages of drugs, etc, conducting prescription audit, preparation of annual procurement plan, etc. IV. Director of Medical Education and Training:- Overall monitoring and supervision of Niramaya in medical colleges."
+    },
+    {
+      "question": "How can I know about the Odisha State Medical Corporation Ltd (OSMC)?",
+      "answer": "To know more about OSMC please visit www.osmcl.nic.in. You can also visit the Corporation Facebook page \"Odisha State Medical Corporation Ltd\". Twitter account -http://twitter.com/OSMCL1"
+    }
+  ]
+}

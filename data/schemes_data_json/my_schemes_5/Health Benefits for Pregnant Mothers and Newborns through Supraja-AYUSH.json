@@ -1,0 +1,55 @@
+{
+  "scheme_name": "Health Benefits for Pregnant Mothers and Newborns through Supraja-AYUSH",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/shbpmna",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Health Benefits for Pregnant Mothers and Newborns through Supraja-AYUSH",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The “Health Benefits for Pregnant Mothers and Newborns through Supraja-AYUSH” is implemented by the Ayush Department, Government of Uttarakhand. The scheme aims to promote the health and well-being of pregnant women and newborns by providing Ayurvedic-based healthcare services and treatment."
+    ],
+    "benefits": [
+      "Health benefits are provided to pregnant mothers and newborns through Ayurvedic treatment.",
+      "Medicines are dispensed as per the individual’s medical condition.",
+      "An OPD fee of ₹10/- per person is charged for availing the services."
+    ],
+    "eligibility": [
+      "The beneficiary must be a pregnant woman or a newborn belonging to Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "The beneficiaries can visit and register for treatment at any of the three Ayurvedic colleges (Ayurvedic University Campus, Rishikul, and Gurukul) in Uttarakhand to avail the benefits under the scheme."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof",
+      "Other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 147)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to avail benefits under this scheme?",
+      "answer": "Pregnant women and newborns who are residents of Uttarakhand are eligible to avail the benefits under this scheme."
+    },
+    {
+      "question": "Where can beneficiaries avail treatment under this scheme?",
+      "answer": "Beneficiaries can visit and register for treatment at any of the three Ayurvedic Colleges in Uttarakhand (Ayurvedic University Campus, Rishikul, and Gurukul)."
+    },
+    {
+      "question": "Is there any fee for availing treatment under the scheme?",
+      "answer": "Yes, a nominal OPD fee of ₹10 per person is charged for availing the services."
+    },
+    {
+      "question": "What type of treatment is provided under this scheme?",
+      "answer": "The scheme offers Ayurvedic-based diagnosis, treatment, and care for pregnant women and newborns."
+    },
+    {
+      "question": "Are medicines provided under the scheme?",
+      "answer": "Yes. Ayurvedic medicines are dispensed to beneficiaries based on their specific medical condition."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "scheme_name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ab-pmjay",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana” implemented by the National Health Authority (NHA) under Ministry of Health and Family Welfare, Government of India, aims to provide cashless hospitalisation coverage of ₹5,00,000 per family per year to poor and vulnerable families for secondary and tertiary healthcare services. It was launched on 23rd September 2018 in Ranchi, Jharkhand, by the Hon’ble Prime Minister of India.",
+      "\"Ayushman Bharat\" is an attempt to move from a sectoral and segmented approach to health service delivery to a comprehensive need-based health care service. This scheme aims to undertake path-breaking interventions to holistically address the healthcare system (covering prevention, promotion, and ambulatory care) at the primary, secondary, and tertiary levels. Ayushman Bharat adopts a continuum of care approach, comprising two interrelated components, which are -",
+      "Health and Wellness Centres (HWCs):",
+      "The scheme aims to provide comprehensive primary healthcare services, including maternal and child health, non-communicable disease care, free essential drugs, and diagnostics, close to people’s homes. The centres promote preventive healthcare and healthy behaviours to reduce the risk of chronic diseases.",
+      "Pradhan Mantri Jan Arogya Yojana (PM-JAY):",
+      "The second component under Ayushman Bharat is the Pradhan Mantri Jan Arogya Yojna or PM-JAY as it is popularly known. It aims to provide cashless health insurance coverage of up to ₹5,00,000 per family per year for secondary and tertiary hospitalization to poor and vulnerable families."
+    ],
+    "benefits": [
+      "Financial Health Insurance Cover:",
+      "Annual Hospitalization Coverage:",
+      "Cashless coverage up to ₹5,00,000/- per family per year.",
+      "Comprehensive Treatment Costs:",
+      "Covers consultation, medicines, diagnostics, surgery, ICU, implants, accommodation, and food.",
+      "Pre and Post Hospitalization Support:",
+      "Covers 3 days pre-hospitalization and 15 days post-hospitalization expenses.",
+      "Treatment Complication Coverage:",
+      "Covers complications arising during treatment.",
+      "Coverage Features:",
+      "Pre-Existing Disease Coverage:",
+      "Covers all pre-existing diseases from day one.",
+      "No Family Size Limit:",
+      "No restriction on age, gender, or family size.",
+      "Nationwide Portability:",
+      "Benefits available across India in empanelled hospitals.",
+      "Wide Procedure Coverage:",
+      "Covers approximately 1,929 medical procedures."
+    ],
+    "eligibility": [
+      "Rural Beneficiaries",
+      "Out of the total seven deprivation criteria for rural areas, PM-JAY covered all such families who fall into at least one of the following six deprivation criteria and automatic inclusion(Destitute/ living on alms, manual scavenger households, primitive tribal group, legally released bonded labour) criteria:",
+      "Only one room with kucha walls and kucha roof",
+      "No adult member between ages 16 to 59",
+      "Households with no adult male member between ages 16 to 59",
+      "Disabled member and no able-bodied adult member",
+      "SC/ST households",
+      "Landless households deriving a major part of their income from manual casual labour",
+      "Automatically includedHouseholds without shelter",
+      "Destitute/ living on alms,",
+      "Manual scavenger families,",
+      "Primitive tribal groups,",
+      "Legally released bonded labour.",
+      "Urban Beneficiaries",
+      "For urban areas, the following 11 occupational categories of workers are eligible for the scheme:",
+      "Ragpicker",
+      "Beggar",
+      "Domestic worker",
+      "Street vendor/ Cobbler/hawker / other service provider working on streets",
+      "Construction worker/ Plumber/ Mason/ Labour/ Painter/ Welder/ Security guard/ Coolie and other head-load worker",
+      "Sweeper/ Sanitation worker/ Mali",
+      "Home-based worker/ Artisan/ Handicrafts worker/ Tailor",
+      "Transport worker/ Driver/ Conductor/ Helper to drivers and conductors/ Cart puller/ Rickshaw puller",
+      "Shop worker/ Assistant/ Peon in small establishment/ Helper/Delivery assistant / Attendant/ Waiter",
+      "Electrician/ Mechanic/ Assembler/ Repair worker",
+      "Washer-man/ Chowkidar"
+    ],
+    "application_process": {
+      "online": [
+        "The Arogya Mitra searches the available list of beneficiaries using details such as name, location, ration card number, mobile number, or the RSBY URN of the beneficiary. After this, the beneficiary is searched for in the BIS. The individual is identified and the scanned valid ID documents are then uploaded.",
+        "To get a",
+        "PMJAY e-card",
+        "for themselves and their family, a potential beneficiary needs to visit either a hospital or a Community Service Centre (CSC) for identification and follow the steps mentioned below:",
+        "Step 1:",
+        "Potential AB-PMJAY beneficiaries are to submit the PM letter/ RSBY URN/ RC Number/ Mobile Number - The operator (commonly known as the Arogya Mitra) searches the available list of beneficiaries. The operator does this by entering details such as name, location, Ration Card number, mobile number, or even RSBY URN of the beneficiary.",
+        "Step 2:",
+        "Search in the BIS Application - The operator searches for the potential beneficiary in the entitled SECC, RSBY, State Health Scheme, Additional Data Collection Drive databases.",
+        "Step 3:",
+        "Individual Identification - The identification process is carried out if the name is found in the list. For this, documents like Aadhaar or any government ID and a Ration Card or an alternative family ID are required to validate against the details available in the system. Scanned documents are then uploaded.",
+        "Step 4:",
+        "Family Identification - The Arogya Mitra then identifies the family records through the ration card and the scanned documents are then uploaded. The Arogya Mitra then submits the individual and family records to the trust/insurance company for approval.",
+        "Step 5:",
+        "Approval or Rejection - The Health insurance company or trust may then approve or recommend rejection for the submitted beneficiaries. The cases that are recommended for rejection will be finally verified for approval or rejection by the State Health Agency (SHA).",
+        "Step 6:",
+        "E-card Issuance - On approval by SHA/insurance company/trust, an e-card will be issued to the beneficiary."
+      ]
+    },
+    "documents_required": [
+      "1. Age & Identity Proof (Aadhaar Card / PAN Card).",
+      "2. Proof of Address.",
+      "3. Contact details (Mobile, e-mail).",
+      "4. Caste Certificate.",
+      "5. Income Certificate.",
+      "6. Document Proof of the Current Status of the Family (Joint or Nuclear).",
+      "7. Aadhaar Card."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Guidelines For Beneficiary Identification",
+      "Guidelines On Payment For Special Cases",
+      "Guidelines On Claim Settlement",
+      "UMANG"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Will beneficiaries have to pay anything to get covered under this scheme?",
+      "answer": "No. All eligible beneficiaries can avail free services for secondary and tertiary hospital care for identified packages under PM-JAY at public hospitals and empaneled private hospitals. Beneficiaries will have cashless and paperless access to health services under PM-JAY."
+    },
+    {
+      "question": "What is the enrollment process? Is there any time period for enrollment?",
+      "answer": "PM-JAY is an entitlement based mission. There is no enrollment process. Families who are identified by the government on the basis of deprivation and occupational criteria using the SECC database both in rural and urban areas are entitled for PM-JAY."
+    },
+    {
+      "question": "Will a card be given to the beneficiary?",
+      "answer": "A dedicated PM-JAY family identification number will be allotted to eligible families. Additionally, an e-card will also be given to beneficiary at the time of hospitalization."
+    },
+    {
+      "question": "Are Already existing illnesses covered under this scheme?",
+      "answer": "Yes. All existing medical conditions / Illnesses are covered under this scheme."
+    },
+    {
+      "question": "Are Benefits available for New born child under this scheme?",
+      "answer": "Yes. New born child can be provided treatment under this scheme. They can also be added into beneficiary family after providing necessary documents."
+    },
+    {
+      "question": "Are RSBY cardholders covered under the scheme?",
+      "answer": "Any family that has an active RSBY card as of 28 February 2018 is covered under the Ayushman Bharat Pradhan mantra Jan Arogya Yojana."
+    },
+    {
+      "question": "Can benefits under this scheme be available without Aadhar Card?",
+      "answer": "Yes. Aadhar card is not mandatory for availing services under this scheme."
+    },
+    {
+      "question": "What Who Is Aarogya Mitra?",
+      "answer": "An Ayushman Mitra (AM) is a certified frontline health service professional who is present at each of the EHCP and serves as a first contact point for beneficiaries. They will help in processing documents for Beneficiary identification as well as complete claim process along with Medical Coordinator. They are available at Ayushman Bharat Kiosk in every EHCP to assist patients."
+    },
+    {
+      "question": "How does Claim Submission process work?",
+      "answer": "Once patient is discharged from the EHCP, the claim submission process is initiated by raising request on online portal with patient’s discharge summary along with other necessary clinical notes and investigation reports. EHCP is required to submit claims within 24 hours of discharge of patient."
+    },
+    {
+      "question": "What Is Pradhan Mantri Jan Arogya Yojana(PM-JAY)?",
+      "answer": "Pradhan Mantri Jan Arogya Yojana(PM-JAY) is a pioneering initiative of Prime Minister Modi to ensure that the poor and vulnerable population is provided health coverage. This initiative is part of the Government’s vision to ensure that its citizens – especially the poor and vulnerable groups have universal access to good quality hospital services without anyone having to face financial hardship as a consequence of using health services."
+    },
+    {
+      "question": "What Health Services Are Available Under PM-JAY?",
+      "answer": "The health services covered under the program include hospitalization expenses, daycare surgeries, follow-up care, pre and post-hospitalization expense benefits, and newborn child/children services. The comprehensive list of services is available on the website."
+    },
+    {
+      "question": "Where Can Beneficiaries Avail Of Services Under PM-JAY?",
+      "answer": "Services under the scheme can be availed at all public hospitals and empaneled private healthcare facilities. Empanelment of the hospitals under PM-JAY will be conducted through an online portal by the state government. Information about empaneled hospitals will be made available at through different means such as government website, mobile app. Beneficiaries can also call the helpline number at 14555. Regular updates will also be provided through ASHAs, ANM and other specific touch points This information will be activated shortly."
+    },
+    {
+      "question": "How Are The Beneficiaries Identified?",
+      "answer": "The beneficiaries are identified based on the deprivation categories (D1, D2, D3, D4, D5, and D7) identified under the SECC (Socio-Economic Caste Census) database for rural areas and 11 occupational criteria for urban areas. In addition, RSBY beneficiaries in states where RSBY is active are also included."
+    },
+    {
+      "question": "Can Those Families Whose Names Are Not On The List Avail The Benefits Under PM-JAY?",
+      "answer": "In this phase, no additional new families can be added under PM-JAY. However, the names of additional family members can be added for those families whose names are already on the SECC list."
+    },
+    {
+      "question": "What Is The Maximum Time Required For Approval Of Claim Submission Requests?",
+      "answer": "Once all claims documents are submitted, the claim must be approved within 15 days to SHA for final approval and payment processing. SHA will make payment of claims within 15 days after being authenticated by their internal team."
+    },
+    {
+      "question": "Who Are The Members Of Various Grievance Committees?",
+      "answer": "AB PMJAY has a three-tier grievance redressal structure to ensure the timely redressal of grievances. This section of the guidelines lays down these structures, their constitution, and their functions. District Grievance Redressal Committee (DGRC) – will be constituted by the SHA in each district and this is chaired by Head of the District or District Magistrate or District Collector or Deputy Commissioner. The State Grievance Redressal Committee (SGRC) is chaired by CEO of SHA / State Nodal Agency (SNA). The SGRC shall perform all functions related to handling and resolution of all grievances received either directly or escalated through the DGRC. The National Grievance Redressal Committee (NGRC) will be chaired by Deputy CEO of National Health Agency (NHA). The NGRC shall act as the final Appellate Authority at the national level. The NGRC shall only accept appeals and petitions against the orders of the SGRC of a State. The decision of NGRC will be final."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "scheme_name": "Kumar Rajratna Bhimrao Ambedkar Medical Assistance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/krbamas",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Kumar Rajratna Bhimrao Ambedkar Medical Assistance Scheme",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Kumar Rajratna Bhimrao Ambedkar Medical Assistance Scheme\" was launched by the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide financial support to individuals belonging to Scheduled Caste category suffering from incurable and serious diseases. Under this scheme, financial assistance is provided to Scheduled Caste patients diagnosed with life-threatening conditions such as Tuberculosis (TB), Leukemia, and other critical illnesses."
+    ],
+    "benefits": [
+      "Medical Assistance is provided to Scheduled Caste patients for treatment of incurable and critical diseases like TB, Leukemia, and other serious conditions."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Gujarat.",
+      "The applicant should belong to the Scheduled Caste (SC) category.",
+      "The applicant should be suffering from an incurable or critical disease such as TB or Leukemia, as certified by a civil surgeon.",
+      "The family income of the applicant should not exceed ₹6,00,000/- per annum."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should write the application on plain paper.",
+        "Step 2:",
+        "Attach copies of all the mandatory documents (self-attested, if required) along with the application.",
+        "Step 3:",
+        "Submit the duly filled and signed application along with the documents to the office of the Social Justice and Empowerment Department, Gujarat."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Details Copy of Hier",
+      "Birth Certificate",
+      "Certificate by Civil Surgeon",
+      "Income Certificate",
+      "Copy of Election Card",
+      "Age Proof",
+      "Bank Pass Book/Cancelled Cheque",
+      "Caste Certificate",
+      "Ration Card",
+      "Copy of Electricity Bill"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply under this scheme?",
+      "answer": "Scheduled Caste (SC) individuals suffering from incurable or serious diseases."
+    },
+    {
+      "question": "Is there any income limit?",
+      "answer": "Yes, the total annual family income must not exceed ₹6,00,000."
+    },
+    {
+      "question": "What kind of diseases are covered?",
+      "answer": "Incurable and critical illnesses like TB and Leukemia."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Aadhaar, Caste Certificate, Income Certificate, Civil Surgeon Certificate, etc."
+    },
+    {
+      "question": "Is there any fee for the application?",
+      "answer": "No, the application is free of cost."
+    },
+    {
+      "question": "Do I need a doctor's certificate?",
+      "answer": "Yes, a certificate from a civil surgeon is mandatory."
+    },
+    {
+      "question": "Can applicant from outside Gujarat apply?",
+      "answer": "No, only permanent residents of Gujarat are eligible."
+    },
+    {
+      "question": "Whom to contact for more details?",
+      "answer": "Visit the official website of the Social Justice and Empowerment Department: https://sje.gujarat.gov.in"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "scheme_name": "Deendayal Antyodaya Upchar Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ddauy",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Deendayal Antyodaya Upchar Yojana",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The “Deendayal Antyodaya Upchar Yojana Card Issuance” scheme has been launched by the Public Health and Family Welfare Department, Government of Madhya Pradesh. The scheme aims to provide free treatment access to Below Poverty Line families within a guaranteed time limit. A Deendayal Antyodaya Treatment Card is issued free of cost to eligible families, including persons with disabilities, to avail government health benefits."
+    ],
+    "benefits": [
+      "Card Benefits",
+      "Free issuance of the Deendayal Antyodaya Upchar Yojana Card.",
+      "Enables access to government-funded medical treatment schemes.",
+      "Inclusive coverage for persons with disabilities belonging to BPL families.",
+      "No administrative fee is charged by the department.",
+      "Mode of Disbursement",
+      "Physical card issued through designated health officers or Lok Seva Kendra.",
+      "Card issued within 7 working days from receipt of complete application.",
+      "One-time card issuance per eligible family."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should belong to a below-poverty-line family.",
+      "The applicant should be a resident of the same district or area where the application is submitted.",
+      "The applicant should be the head of the family.",
+      "The applicant’s family may include persons with disabilities, without exclusion."
+    ],
+    "application_process": {
+      "offline": [
+        "Online - via CSCs",
+        "Step 1:",
+        "The interested applicant downloads the application form (",
+        "Annexure 1",
+        ") from the official website.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the respective designated officer or Lok Seva Kendra."
+      ]
+    },
+    "documents_required": [
+      "BPL Ration Card Or BPL Certificate with Family List",
+      "Passport-size Colour Photograph of Family Head",
+      "Proof Of Residence (If Required by Authority)",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for the card?",
+      "answer": "Heads of Below Poverty Line families residing in Madhya Pradesh."
+    },
+    {
+      "question": "Are persons with disabilities covered?",
+      "answer": "Yes, persons with disabilities in eligible BPL families are covered."
+    },
+    {
+      "question": "Is there any fee for card issuance?",
+      "answer": "No, the card is issued free of cost."
+    },
+    {
+      "question": "Is there any Lok Seva Kendra charge?",
+      "answer": "Yes, ₹30 is charged only if applied through Lok Seva Kendra."
+    },
+    {
+      "question": "What is the time limit for card issuance?",
+      "answer": "The card is issued within 7 working days."
+    },
+    {
+      "question": "Is online application available?",
+      "answer": "Yes, applications can be submitted online through Lok Seva Kendra software."
+    },
+    {
+      "question": "Who issues the treatment card?",
+      "answer": "The designated health officer issues the card."
+    },
+    {
+      "question": "Under which Act is this service covered?",
+      "answer": "The Madhya Pradesh Public Services Guarantee Act, 2010."
+    },
+    {
+      "question": "Is the applicant’s mobile number required?",
+      "answer": "Yes, the applicant’s mobile number is required for communication and SMS alerts."
+    },
+    {
+      "question": "Who is the designated authority for urban areas?",
+      "answer": "The Chief Medical and Health Officer is the designated authority for urban areas."
+    },
+    {
+      "question": "Who is the designated authority for rural areas?",
+      "answer": "The Block Medical Officer is the designated authority for rural areas."
+    }
+  ]
+}

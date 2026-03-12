@@ -1,0 +1,98 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Assistance on Hospitalization",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wbtwssah",
+  "location_name": "West Bengal",
+  "location_type": "state",
+  "page_title": "West Bengal Transport Workers’ Social Security Scheme: Assistance on Hospitalization",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The “West Bengal Transport Workers’ Social Security Scheme: Assistance on Hospitalization” by the Labour Department, offers assistance to transport workers who are hospitalized for five or more days due to an accident. Benefits are directly transferred to the beneficiaries' bank accounts through Direct Benefit Transfer (DBT)."
+    ],
+    "benefits": [
+      "Assistance for Hospitalization:",
+      "₹400/- per day for the first 5 days of hospitalization due to an accident.",
+      "Extended Financial Support:",
+      "₹200/- per day for the remaining period of hospitalization after the first five days.",
+      "Maximum Benefit:",
+      "Up to a total of ₹10,000/- for the entire hospitalization period."
+    ],
+    "eligibility": [
+      "The applicant must be between 18 and 60 years of age at the time of enrolment.",
+      "The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses.",
+      "The applicant’s vehicle must be used for commercial purposes and not solely for personal or family use."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the “",
+        "eDistrict 2.0",
+        "” portal. Click on Log In/Sign Up.",
+        "Step 2:",
+        "In the User Login window, scroll down to the bottom and click on “Register”.",
+        "Step 3:",
+        "Fill in all the details carefully, enter a username, and click on “Register”.",
+        "Step 4:",
+        "Upon entering the One Time Password received on your mobile, you will be successfully registered.",
+        "Step 5:",
+        "Now in the User Login window, enter your Username or email and captcha and click on “Sign In”.",
+        "Step 6:",
+        "Enter the received O.T.P and click on “Submit”.",
+        "Step 7:",
+        "Upon successful Login, You will be redirected to the “Dashboard”. From the right side menu apply for the concerned scheme."
+      ]
+    },
+    "documents_required": [
+      "For New Registration:",
+      "Certification by Prescribed Authority in the Prescribed format,",
+      "Passport Size Photo (self and for each dependent member).",
+      "Age Proof Document.",
+      "Driving Licence in case of Drivers.",
+      "EPIC/ AADHAR Card.",
+      "For the Application of the Welfare Scheme:",
+      "Medical Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "The scheme provides financial assistance to transport workers who are hospitalized for 5 or more days due to an accident."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Beneficiaries receive ₹400/- per day for the first five days of hospitalization and ₹200/- per day for the remaining period, up to a maximum benefit of ₹10,000/-."
+    },
+    {
+      "question": "Who is eligible for the West Bengal Transport Workers' Social Security Scheme?",
+      "answer": "The scheme is available to unorganised workers aged between 18 and 60 years who are engaged in commercial transportation, such as taxis, buses, auto-rickshaws, and similar vehicles."
+    },
+    {
+      "question": "What is the maximum benefit a worker can receive under this scheme?",
+      "answer": "The maximum financial assistance a beneficiary can receive is ₹10,000/- for the entire hospitalization period."
+    },
+    {
+      "question": "How is the financial assistance disbursed?",
+      "answer": "The financial assistance is disbursed directly to the beneficiary’s bank account through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Applicants need to provide identity proof, age proof, proof of employment in the transport sector, a medical certificate confirming hospitalization due to an accident, and bank account details for DBT."
+    },
+    {
+      "question": "What happens if a worker is hospitalized for less than five days?",
+      "answer": "The scheme provides assistance only if the hospitalization is for five days or more due to an accident."
+    },
+    {
+      "question": "Can family members of the worker apply for the scheme?",
+      "answer": "No, the scheme is specifically for the transport workers themselves, not their family members."
+    },
+    {
+      "question": "Is this scheme available to all types of transportation workers?",
+      "answer": "No, the scheme is available only to workers involved in commercial transportation, excluding vehicles used solely for personal or family purposes."
+    }
+  ]
+}

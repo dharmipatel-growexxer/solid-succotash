@@ -1,0 +1,120 @@
+{
+  "scheme_name": "Disability Pension (HPBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dphpbocwwb",
+  "location_name": "Himachal Pradesh",
+  "location_type": "state",
+  "page_title": "Disability Pension (HPBOCWWB)",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Disability Pension,\" introduced by the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB), Government of Himachal Pradesh, provides a monthly pension of ₹500/- to registered beneficiaries in case of disability caused by accidents or diseases. Additionally, a lump sum of ₹50,000/- is granted if the disability is more than 50%., and ₹25,000/- is granted if the disability is more than 50%."
+    ],
+    "benefits": [
+      "A pension of ₹500/- month.",
+      "Additional ₹50,000/- in case the disability is more than 50%.",
+      "Additional ₹25,000/- in case the disability is less than 50%."
+    ],
+    "eligibility": [
+      "For Registration",
+      "The applicant should be a resident of Himachal Pradesh.",
+      "The applicant should be a Building or Construction Worker.",
+      "The age of the applicant should be between 18 and 60 years.",
+      "The applicant should have worked in building or construction activities for at least 90 days in the preceding 12 months.",
+      "*The registration should be renewed annually.",
+      "For Application",
+      "The worker should be engaged in building or construction work.",
+      "The worker should be registered under the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB).",
+      "The worker should have an active membership with the Board.",
+      "The worker should be a Person with Disability (PwD).",
+      "The disability should have been caused due to an accident or an illness."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+        "Step 2:",
+        "In the \"Menu Ribbon\", click \"Worker Services > Registration >",
+        "New",
+        "\".",
+        "Step 3:",
+        "Navigate to the registration form. In the form, fill in all the mandatory fields (marked with an asterisk *). Carefully review all the information provided. Make any necessary corrections.",
+        "Step 5:",
+        "Click \"Save\" to submit your application for registration.",
+        "*The",
+        "Registration Status",
+        "can be checked by providing your Beneficiary ID and your Date of Birth.",
+        "Application",
+        "In the \"Menu Ribbon\", click \"Worker Services >",
+        "Apply for Benefits",
+        "\". On the next screen, provide your Beneficiary ID, and Date Of Birth, and click \"Search\". A list of schemes will be displayed. Click on the scheme you intend to apply for. You will be taken to the online application form of the scheme.",
+        "In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections.",
+        "Step 4:",
+        "Finally, click \"Submit\" to complete the process."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof i.e. Aadhaar Card, Voter Card",
+      "Bank Account Details/ Copy of Bank Passbook",
+      "Age Proof",
+      "Labour Card",
+      "Disability Certificate",
+      "Medical Bill, countersigned by the Doctor (if applicable)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Board's Website",
+      "Labour Registration Page",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Disability Pension Scheme?",
+      "answer": "The scheme provides financial assistance to registered construction workers who become disabled due to an accident or illness."
+    },
+    {
+      "question": "How much monthly pension is provided under the scheme?",
+      "answer": "A monthly pension of ₹500 is provided to eligible disabled workers."
+    },
+    {
+      "question": "What financial assistance is given for permanent disability?",
+      "answer": "₹50,000 for more than 50% disability. ₹25,000 for less than 50% disability."
+    },
+    {
+      "question": "Can a worker apply for both the lump sum and pension?",
+      "answer": "Yes, if eligible, a worker can receive both the one-time financial assistance and the monthly pension."
+    },
+    {
+      "question": "How can a worker register for HPBOCWWB?",
+      "answer": "Workers can register by visiting the Labour Welfare Office or through self-registration on the official portal."
+    },
+    {
+      "question": "What is the age limit for registration with HPBOCWWB?",
+      "answer": "Workers must be between 18 and 60 years old."
+    },
+    {
+      "question": "How much work experience is needed for HPBOCWWB registration?",
+      "answer": "The worker must have completed at least 90 days of construction work."
+    },
+    {
+      "question": "Can a worker apply if they have a pre-existing disability?",
+      "answer": "No, the scheme covers only disabilities caused by accidents or illnesses after registration."
+    },
+    {
+      "question": "Can a worker apply online for disability benefits?",
+      "answer": "Yes, applications can be submitted online through the HPBOCWWB portal."
+    },
+    {
+      "question": "Can a retired worker apply for the scheme?",
+      "answer": "No, only active registered workers are eligible."
+    },
+    {
+      "question": "Where can workers get more information?",
+      "answer": "Workers can visit the nearest Labour Welfare Office or the HPBOCWWB official website."
+    }
+  ]
+}

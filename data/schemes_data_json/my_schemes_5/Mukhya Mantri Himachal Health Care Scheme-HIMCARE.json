@@ -1,0 +1,120 @@
+{
+  "scheme_name": "Mukhya Mantri Himachal Health Care Scheme-HIMCARE",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/himcare",
+  "location_name": "Himachal Pradesh",
+  "location_type": "state",
+  "page_title": "Mukhya Mantri Himachal Health Care Scheme-HIMCARE",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "Mukhya Mantri Himachal Health Care Scheme-HIMCARE",
+      "is a health insurance scheme under the Department of Health & Family Welfare, Government of Himachal Pradesh to provide cashless treatment coverage up to ₹5,00,000/- per year per family provided in the empanelled hospitals. In case of more than five members, the remaining members are enrolled as a separate unit subject to the capping of five members for each such additional unit. This scheme is being implemented on a co-payment basis. Hospitals empanelled under Ayushman Bharat within the State are also empanelled for HIMCARE and are providing cashless treatment to the beneficiaries by making online entries through Transaction Management System. The claims are being reimbursed through the host-to-host payment system directly in the bank account of the concerned hospital after checking the complete claim papers submitted by these institutions through the online system.",
+      "For target groups covering below categories have the Zero Premium amount.",
+      "BPL (Not covered under Ayushman Bharat),",
+      "Registered Street Vendors (Not covered under Ayushman Bharat),",
+      "MNREGA worker who have worked minimum 50 days under MNREGA during previous financial year or current financial year.",
+      "Children living in Orphanages.",
+      "For target groups covering below categories have the premium rate ₹365/- per year.",
+      "Ekal Naaris,",
+      "Disabled >40%,",
+      "Mid-Day meal workers,",
+      "Daily Wage Workers (Govt., Autonomous Bodies, Societies, Boards & Corporations etc. under the control of State Government),",
+      "Part Time Workers (Govt., Autonomous Bodies, Societies, Boards & Corporations etc. under the control of State Government)",
+      "Contractual Employees (Govt., Autonomous Bodies, Societies, Boards & Corporations etc. under the control of State Government)",
+      "Outsource Employees.",
+      "Beneficiaries not covered under category-I and category-II or who are not Govt. servants/pensioners or their dependent family members, having the premium amount ₹1,000/- per year."
+    ],
+    "benefits": [
+      "Cashless Treatment: The scheme provides cashless treatment coverage, allowing beneficiaries to receive medical services without upfront payment at empanelled hospitals.",
+      "Comprehensive Coverage: HIMCARE offers coverage up to ₹5,00,000/- per year per family, ensuring that families have access to quality healthcare services without financial burden.",
+      "Inclusion of Previously Uncovered Families: The scheme targets families who were not covered under the Ayushman Bharat scheme, extending health insurance benefits to a broader population.",
+      "Categorization for Differential Premium Rates: Beneficiaries are categorized into different groups based on their occupation or socioeconomic status, with corresponding premium rates to make healthcare more affordable for all eligible individuals.",
+      "Wide Range of Eligible Beneficiaries: The scheme covers various groups such as BPL families, registered street vendors, MNREGA workers, senior citizens above 70 years, children living in orphanages, disabled individuals, Anganwari workers, ASHA workers, and more.",
+      "Easy Enrollment Process: Enrollment can be done online through the official website or at Lok Mitra Kendra/Common Service Centers, making it convenient for beneficiaries to apply and upload necessary documents.",
+      "Empanelled Hospital Network: Beneficiaries can receive cashless treatment in empanelled hospitals within Himachal Pradesh, including prestigious institutions like PGIMER Chandigarh and GMCH Sector 32 Chandigarh, ensuring access to quality healthcare facilities."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Himachal Pradesh.",
+      "Families not covered under the Ayushman Bharat Yojana (Pradhan Mantri Jan Arogya Yojana) are eligible to apply for the HIMCARE scheme.",
+      "Applicant should be HIMCARE card holder.",
+      "The scheme is available to Below Poverty Line (BPL) families, Above Poverty Line (APL) families, Senior citizens and daily wage earners, widows, single women, and persons with disabilities."
+    ],
+    "application_process": {
+      "online": [
+        "Locate the nearest Lok Mitra Kendra (LMK) or",
+        "Common Service Center",
+        "(CSC).",
+        "Visit the LMK or CSC and inform them about your intention to apply for HIMCARE.",
+        "Provide the necessary information and documents to the staff at the center.",
+        "VLEs will assist you in filling out the application form and uploading the required documents online.",
+        "If you are applying through Lok Mitra Kendra/Common Service Centers, you may be required to pay an enrollment fee of ₹50/- per family unit of up to five members.",
+        "Once the application is submitted, it will be processed for verification. The concerned authorities will review the application and documents provided for authenticity and eligibility.",
+        "If the application is approved, an E-card will be issued to the eligible family.",
+        "The E-card will serve as proof of enrollment and will be used for availing cashless treatment under the scheme."
+      ],
+      "unspecified": [
+        "Online - via CSCs"
+      ]
+    },
+    "documents_required": [
+      "The following documents are mandatory for enrollment under HIMCARE:",
+      "Category",
+      "Documents required for authentication",
+      "BPL",
+      "Copy of BPL certificate attested by the Panchayat Secretary within previous one month.",
+      "Registered Street Vendors",
+      "Registration Certificate attested by the Executive Officer, MC/NP/NAC within previous one month.",
+      "MNREGA Worker",
+      "MNREGA Job Card and Online MIS Report indicating 50 days work under MNREGA in previous or current financial year duly attested by concerned Panchayat Secretary/BDO.",
+      "Ekal Naaris",
+      "Certificate to be issued by Child Development Program Officer (CDPO) of the concerned area and shall include Widows/Divorced/Legally Separated /Unmarried more than 40 years.",
+      "Disabled >40%",
+      "Medical Disability Certificate showing permanent disability.",
+      "Mid-Day meal workers",
+      "Certificate from Block Elementary Education Officer of the concerned area.",
+      "Contractual Employees",
+      "Certification from concerned Department.",
+      "Daily Wage Worker",
+      "Part Time Workers",
+      "Outsource Employees"
+    ],
+    "sources_and_references": [
+      "Website And Guidelines",
+      "Hospital List HIMCARE"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the coverage amount provided by HIMCARE?",
+      "answer": "HIMCARE provides cashless treatment coverage of up to Rs. 5.00 lakh per year per family in empanelled hospitals."
+    },
+    {
+      "question": "Who is eligible to apply for HIMCARE?",
+      "answer": "Eligibility criteria vary based on categories, including BPL families, registered street vendors, MNREGA workers, senior citizens above 70 years, children in orphanages, and more. Refer to the scheme's guidelines for specific eligibility details."
+    },
+    {
+      "question": "Can government servants and pensioners apply for HIMCARE?",
+      "answer": "No, government servants, pensioners, and their dependent family members are not eligible for HIMCARE coverage."
+    },
+    {
+      "question": "How can I apply for HIMCARE?",
+      "answer": "You can apply for HIMCARE online through the official website (www.hpsbys.in) or visit Lok Mitra Kendra/Common Service Centers for assistance with the enrollment process."
+    },
+    {
+      "question": "What documents are required for enrollment?",
+      "answer": "The required documents vary based on the category. They may include BPL certificates, registration certificates, job cards, age proof, disability certificates, and certificates issued by relevant authorities. Refer to the scheme's documentation requirements for specific details."
+    },
+    {
+      "question": "Is there an enrollment fee for HIMCARE?",
+      "answer": "Yes, if you apply through Lok Mitra Kendra/Common Service Centers, you may be required to pay an enrollment fee of Rs. 50 per family unit of up to five members."
+    },
+    {
+      "question": "Can I avail treatment at hospitals outside Himachal Pradesh under HIMCARE?",
+      "answer": "Generally, the scheme covers treatment at empanelled hospitals within Himachal Pradesh. However, beneficiaries can also receive treatment at PGIMER Chandigarh and GMCH Sector 32 Chandigarh."
+    },
+    {
+      "question": "Can I change my category or update my information after enrollment?",
+      "answer": "It is important to apply under the relevant category and provide accurate information during the enrollment process. Changes or updates after enrollment may not be allowed, so it's advisable to double-check the information before submitting the application."
+    }
+  ]
+}

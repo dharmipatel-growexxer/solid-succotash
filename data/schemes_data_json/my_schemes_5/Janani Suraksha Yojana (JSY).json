@@ -1,0 +1,208 @@
+{
+  "scheme_name": "Janani Suraksha Yojana (JSY)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jsy1",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Janani Suraksha Yojana (JSY)",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Janani Suraksha Yojana\" was launched in 12th April 2025 by the Ministry of Health and Family Welfare, Government of India. The scheme aims to reduce maternal and neonatal mortality by promoting institutional delivery among poor pregnant women, and making available medical care during pregnancy, delivery, and post-delivery periods. The scheme provides 100% centrally sponsored cash assistance integrated with delivery and post-delivery care, focusing on increasing institutional and safe deliveries for Below Poverty Line families, and includes assistance for Caesarean sections or obstetric complications up to ₹1,500/- per case for hiring specialists. The applicant must meet specific eligibility criteria related to the state type (Low Performing State or High Performing State), Below Poverty Line or Scheduled Caste/Scheduled Tribe status, and deliver in a government health center or an accredited private institution for institutional delivery benefits. The applications for this scheme are accepted through registration for antenatal care, typically facilitated by Accredited Social Health Activists or other link health workers."
+    ],
+    "benefits": [
+      "One-Time Cash Assistance for Institutional Delivery (Mother's Package)",
+      "To meet the cost of delivery, pregnancy-related care, and post-delivery care.",
+      "In Low Performing States (LPS): ₹1,400/- for rural areas and ₹1,000/- for urban areas.",
+      "In High Performing States (HPS): ₹700/- for rural areas and ₹600/- for urban areas.",
+      "For North-Eastern States (except Assam) and rural areas of tribal districts of other states: ₹700/- (Mother's package).",
+      "*For pregnant women delivering in a public health institution, the entire cash entitlement should be disbursed to her in one installment at the health institution.",
+      "*For women accessing an accredited private institution, at least three-fourths of the cash assistance should be paid to the beneficiary in one installment at the time of delivery.",
+      "*The money must be paid only to the beneficiary and not to any other person or relative.",
+      "*Disbursement should preferably be done at the institution.",
+      "*All payments made before or after seven days of delivery are considered illegitimate and subject to audit objection.",
+      "Cash Assistance for Accredited Social Health Activist (ASHA) Package",
+      "For referral transport to the nearest health facility (generally ₹250/- may be earmarked for this, though states can determine the scale).",
+      "For facilitating institutional delivery (not less than ₹200/- per delivery).",
+      "Transactional cost for boarding and lodging during her stay with the pregnant woman in the health center for delivery (balance out of the total package amount).",
+      "₹600/- for rural areas, this includes ₹300/- for the antenatal component and ₹300/- for facilitating institutional delivery.",
+      "₹400/- for urban areas, this includes ₹200/- for the antenatal component and ₹200/- for facilitating institutional delivery.",
+      "*The first payment, covering transactional costs, should be made at the health center upon arrival with the expectant mother.",
+      "*The second payment, the cash incentive, should be paid after the ASHA has completed her postnatal visit and the child has been immunized for Bacillus Calmette–Guérin (BCG), and this payment should be made within 7 days of delivery.",
+      "*All payments to ASHA are made by the Auxiliary Nurse Midwife (ANM).",
+      "*If the ASHA fails to organize transport for the pregnant woman, the transport assistance money is paid directly to the pregnant woman at the institution upon arrival and registration for delivery.",
+      "*An ASHA receives cash benefits only if she accompanies the pregnant woman to the health center. Her work is assessed based on the number of pregnant women she has motivated and escorted to deliver in a health institution.",
+      "Cash Assistance for Home Delivery",
+      "₹500/- per delivery for the Below Poverty Line pregnant women, regardless of age and number of children.",
+      "For the beneficiary's care during delivery or to cover incidental expenses.",
+      "*The disbursement is done at the time of delivery or approximately 7 days before delivery by an Auxiliary Nurse Midwife, Accredited Social Health Activist, or any other link worker. All payments made before or after seven days of delivery are considered illegitimate.",
+      "Assistance for Caesarean Section or Management of Obstetric Complications",
+      "Up to ₹1,500/- per delivery (case), utilized by the health institution to hire services of specialists from the private sector or to pay an honorarium or transport cost to bring specialists from other government setups if they are not available in the government health institution.",
+      "*This assistance is provided to the government health institution, not directly to the beneficiary. A panel of such doctors must be prepared in advance by the health institutions providing this facility, and pregnant women should be informed during micro-birth planning.",
+      "Comprehensive Maternal and Newborn Care (aligned with Janani Shishu Suraksha Karyakram - JSSK objectives)",
+      "Free and Cashless Delivery: Includes normal deliveries and Caesarean sections.",
+      "Free Drugs: Provision of necessary medicines.",
+      "Free Diagnostics: Essential diagnostic tests.",
+      "Free Provision of Blood: Availability of blood transfusions if needed.",
+      "Free Diet: Hot cooked meals in Government Hospitals and Tertiary Care Centers; two dry packs of biscuits and a milk packet in Primary Health Centres/Community Health Centres.",
+      "Free Transport: To and from the health facility, including referral transport to higher centers and drop-back home, for obstetric women and sick infants up to 30 days of age.",
+      "Compensation for Sterilization",
+      "If the mother or her husband voluntarily undergoes sterilization immediately after delivery, the compensation money available under the existing Family Welfare scheme should be disbursed to the mother at the hospital itself.",
+      "Antenatal Care (ANC) Services",
+      "Includes identification and registration of pregnant women, provision of at least three ANC check-ups, Tetanus Toxoid (TT) injections, and Iron Folic Acid (IFA) tablets.",
+      "Postnatal Care (PNC) Services",
+      "Includes a postnatal visit within 7 days of delivery to track the mother’s health and facilitate care, counseling for the initiation of breastfeeding within one hour of delivery and its continuance for 3-6 months, and promotion of family planning.",
+      "Newborn Immunization",
+      "Arrangement to immunize the newborn, initially specified until 14 weeks of age (some sources refer to 10 weeks)."
+    ],
+    "eligibility": [
+      "For Institutional Delivery (General)",
+      "The applicant must deliver in a government health centre, such as a Sub-centre (specifically approved for institutional delivery by the state), Primary Health Centre, Community Health Centre, First Referral Unit, or the general wards of District and State Hospitals.",
+      "The applicant may deliver in an accredited private health institution.",
+      "Eligibility Specific to Low Performing States (LPS)",
+      "The applicant must be a pregnant woman.",
+      "The applicant does not need any marriage or Below Poverty Line (BPL) certification if delivering in a Government or accredited private health institution.",
+      "For Above Poverty Line (APL) women in LPS: The applicant is extended benefits if availing institutional delivery care in government health centres (Sub-centre, Primary Health Centre, Community Health Centre, First Referral Unit, and general wards of District and State Hospitals).",
+      "Eligibility Specific to High Performing States (HPS)",
+      "The applicant must be from a Below Poverty Line (BPL) household.",
+      "The applicant must be a Scheduled Caste (SC)/Scheduled Tribe (ST) woman.",
+      "For Accredited Private Institutions (LPS & HPS)",
+      "The applicant must produce a proper Below Poverty Line or a Scheduled Caste/Scheduled Tribe certificate.",
+      "The applicant should carry a referral slip from the Accredited Social Health Activist/Auxiliary Nurse Midwife/Medical Officer and the Maternal and Child Health - Janani Suraksha Yojana (JSY) card.",
+      "For Home Delivery (All States/Union Territories)",
+      "The applicant must have a Below Poverty Line certificate to access benefits."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Identification and Registration of Beneficiary",
+        "An Accredited Social Health Activist, Auxiliary Nurse Midwife, Anganwadi Worker, or any designated link worker will identify and register the pregnant woman as a beneficiary of the scheme.",
+        "This crucial step should be completed at least 20 to 24 weeks before the expected date of delivery to ensure timely access to benefits and services.",
+        "Step 2:",
+        "Maternal and Child Health Card Filling",
+        "Immediately upon successful registration, the Auxiliary Nurse Midwife, Accredited Social Health Activist, Anganwadi Worker, or an equivalent link worker will accurately complete a Maternal and Child Health card.",
+        "This card is issued in duplicate, with one copy provided to the mother and the other retained by the link worker, forming an essential part of the Janani Suraksha Yojana registration.",
+        "Step 3:",
+        "Antenatal Care Information and Planning",
+        "The designated link worker will inform the applicant about the schedule for at least three antenatal care check-ups and the required Tetanus Toxoid injections, ensuring these services are provided.",
+        "Furthermore, they will clearly identify and communicate the health center for all necessary referrals and the predetermined place of delivery, along with the expected date of delivery.",
+        "The Accredited Social Health Activist is responsible for following up on antenatal care visits at Anganwadi Centres or Sub-centers to ensure the beneficiary's attendance.",
+        "Step 4:",
+        "Collection of Necessary Proofs/Certificates",
+        "If required by the specific eligibility criteria, the Accredited Social Health Activist, Auxiliary Nurse Midwife, Anganwadi Worker, or a link worker will assist the applicant in collecting the necessary Below Poverty Line or other relevant proofs and certificates from the local Panchayat, local bodies, or Municipalities.",
+        "This step should be completed within two to four weeks from the initial registration date.",
+        "Step 5:",
+        "Submission for Verification and Fund Arrangement",
+        "The completed Janani Suraksha Yojana card is to be submitted to the Medical Officer of the Primary Health Centre for verification. Concurrently, proactive steps are undertaken to arrange transport or ensure the availability of cash for the beneficiary to reach the health center for delivery or in case of complications.",
+        "It is also ensured that adequate funds are available with the Auxiliary Nurse Midwife, health worker, or Accredited Social Health Activist for the prompt disbursement of benefits.",
+        "General Steps for Receiving the Benefits",
+        "Accessing Health Centre for Delivery",
+        "The pregnant woman, ideally accompanied by an Accredited Social Health Activist or another designated link worker, will proceed to the pre-determined government or accredited private health institution for delivery.",
+        "The Accredited Social Health Activist is expected to stay with the woman until her discharge from the facility.",
+        "Cash Benefit Disbursement at Institution",
+        "Upon arrival and registration for delivery at the health center, the mother and, if applicable, the Accredited Social Health Activist, should receive their entitled cash benefit immediately.",
+        "The Auxiliary Nurse Midwife or Accredited Social Health Activist (or another identified link worker operating under the Auxiliary Nurse Midwife's guidance) will typically manage this disbursement process.",
+        "For deliveries occurring in accredited private institutions, the cash benefit is disbursed to the mother via the Auxiliary Nurse Midwife/Accredited Social Health Activist/link worker channel.",
+        "In some hospital settings, a voucher scheme may be implemented, where an admission slip for delivery, combined with a voucher for the mother’s package and transport assistance, is provided for encashment at the hospital’s cash counter upon discharge.",
+        "All payments before or after seven days of delivery are treated as illegitimate subject to audit objection.",
+        "Postnatal Care and Immunization",
+        "The Accredited Social Health Activist is mandated to conduct a postnatal visit within seven days following delivery to monitor the mother's health and to facilitate the newborn's immunization, specifically for Bacillus Calmette–Guérin (BCG).",
+        "This postnatal visit and the child's immunization are prerequisites for the Accredited Social Health Activist to receive her second payment installment.",
+        "Sterilization Compensation (if applicable)",
+        "Should the mother or her husband voluntarily choose to undergo sterilization immediately after the child's delivery, the compensation money designated under the existing Family Welfare scheme will be disbursed directly to the mother at the hospital premises.",
+        "Application Deadlines",
+        "Timely registration for antenatal care, ideally 20-24 weeks before the expected date of delivery.",
+        "Additionally, cash benefits for home delivery should be disbursed at the time of delivery or approximately 7 days prior.",
+        "Payments made outside of a seven-day window around delivery are subject to audit objections.",
+        "Where to Apply",
+        "Registration for the scheme and access to services are facilitated through government health centers, including Sub-centers, Primary Health Centres, Community Health Centres, First Referral Units, and District and State Hospitals. Services may also be availed at accredited private institutions. Key contact points at the community level for guidance and assistance are Accredited Social Health Activists, Auxiliary Nurse Midwives, and Anganwadi Workers.",
+        "Application Status Tracking",
+        "To ensure transparency and allow beneficiaries to track their status, a list of Janani Suraksha Yojana beneficiaries, detailing the date of cash disbursement, must be prominently displayed on notice boards at all Sub-centers, Primary Health Centres, Community Health Centres, and District Hospitals.",
+        "This list is required to be updated regularly on a monthly basis.",
+        "Help & Support / Grievance Redressal",
+        "Each district is mandated to establish a dedicated grievance redressal cell under the District Project Management Unit.",
+        "This cell serves to address and resolve complaints concerning eligibility for the scheme, the accurate quantum of cash assistance, and any delays encountered in the disbursement of cash benefits.",
+        "Crucially, comprehensive information about this grievance cell, including the officer's name, postal address, and telephone number, must be prominently displayed at all health centers and institutions to ensure easy access for beneficiaries."
+      ]
+    },
+    "documents_required": [
+      "During Application",
+      "Below Poverty Line Certificate (Required in all High Performing States, and for home deliveries in all states).",
+      "Scheduled Caste Certificate (For women in accredited private institutions).",
+      "Scheduled Tribe Certificate (For women in accredited private institutions).",
+      "Maternal And Child Health Card (Required for all beneficiaries, forms part of Janani Suraksha Yojana Registration Card).",
+      "During Benefit Disbursement",
+      "Janani Suraksha Yojana Card (Required for all beneficiaries along with Maternal and Child Health Card).",
+      "Referral Slip (From the Accredited Social Health Activist/Auxiliary Nurse Midwife/Medical Officer, to be carried by the beneficiary for accredited private institutions and for determining cash benefit based on residency).",
+      "Admission Slip For Delivery (To be presented with a voucher for encashment of mother's package plus transport assistance at hospital cash counter).",
+      "Voucher (Amounting to mother’s package plus transport assistance money, for encashment at the hospital's cash counter at discharge).",
+      "Vouchers (Issued by the Auxiliary Nurse Midwife to Accredited Social Health Activist for encashment upon certification).",
+      "Monitoring and Reporting Stage:",
+      "Expenditure Statement (Required from the Accredited Social Health Activist/Anganwadi Worker for money advanced, to be provided monthly to the Auxiliary Nurse Midwife).",
+      "Statement Of Janani Suraksha Yojana Delivery / Antenatal Care / Obstetric Complication Cases (Accredited private health centers must prepare and send monthly to the Medical Officer).",
+      "Referral Slips (To be sent along with the monthly statement from accredited private health centers for sample verification)."
+    ],
+    "sources_and_references": [
+      "Features & FAQs",
+      "Government Order (MoH&FW)",
+      "Concurrent Assessment Of JSY"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the time window within which I must receive my cash assistance to ensure it is considered legitimate under this maternal care program?",
+      "answer": "All payments must be made within seven days of delivery, as payments made before or after this seven-day window are considered illegitimate and subject to audit objection."
+    },
+    {
+      "question": "How much financial assistance will I receive if I deliver my baby in a government health center in a rural area of a Low Performing State?",
+      "answer": "You will receive ₹1,400/- as one-time cash assistance to meet the cost of delivery, pregnancy-related care, and post-delivery care in Low Performing States rural areas."
+    },
+    {
+      "question": "Can I receive cash benefits for home delivery under this maternal health scheme, and what are the eligibility requirements for such assistance?",
+      "answer": "Yes, Below Poverty Line pregnant women receive ₹500/- per delivery for home births, regardless of age and number of children, to cover delivery care and incidental expenses."
+    },
+    {
+      "question": "What specific health worker is responsible for facilitating my registration and ensuring I receive proper antenatal care services under this program?",
+      "answer": "Accredited Social Health Activists, Auxiliary Nurse Midwives, or Anganwadi Workers will identify, register you as a beneficiary, and facilitate your antenatal care services and institutional delivery."
+    },
+    {
+      "question": "Where can I track the status of my application and verify whether my cash assistance has been disbursed under this maternal care scheme?",
+      "answer": "A list of beneficiaries with cash disbursement dates is prominently displayed on notice boards at Sub-centers, Primary Health Centres, Community Health Centres, and District Hospitals, updated monthly."
+    },
+    {
+      "question": "How much cash assistance will I receive if I deliver in an urban area of a High Performing State through this maternal health program?",
+      "answer": "In High Performing States urban areas, you will receive ₹600/- for institutional delivery if you meet the Below Poverty Line or Scheduled Caste/Scheduled Tribe eligibility criteria."
+    },
+    {
+      "question": "What additional financial support is available if I require Caesarean section or face obstetric complications during delivery at a government health facility?",
+      "answer": "Up to ₹1,500/- per case is available to the health institution to hire specialists or cover transport costs for bringing specialists for Caesarean sections or obstetric complications."
+    },
+    {
+      "question": "When should I register for this maternal care program to ensure I receive timely benefits and services throughout my pregnancy?",
+      "answer": "You should register for antenatal care ideally 20 to 24 weeks before your expected date of delivery to ensure timely access to all benefits and services."
+    },
+    {
+      "question": "What free services are provided to me and my newborn under the comprehensive maternal and newborn care component of this scheme?",
+      "answer": "You receive free delivery (normal and Caesarean), drugs, diagnostics, blood transfusions, diet (hot meals or dry packs), and transport to and from health facilities for you and your newborn."
+    },
+    {
+      "question": "Can I receive benefits if I choose to deliver at a private hospital, and what specific requirements must be met for such deliveries?",
+      "answer": "You can deliver at accredited private institutions if you have Below Poverty Line or Scheduled Caste/Scheduled Tribe status and carry a referral slip from designated health workers."
+    },
+    {
+      "question": "What documentation do I need to provide to prove my Below Poverty Line status when applying for benefits under this maternal health assistance program?",
+      "answer": "You must provide a Below Poverty Line certificate, which is required in all High Performing States and for home deliveries in all states to access scheme benefits."
+    },
+    {
+      "question": "How is the cash assistance amount different between Low Performing States and High Performing States for institutional deliveries in rural areas?",
+      "answer": "Low Performing States provide ₹1,400/- for rural institutional deliveries, while High Performing States provide ₹700/- for eligible beneficiaries in rural areas."
+    },
+    {
+      "question": "What grievance redressal mechanism is available if I face issues with eligibility determination or delays in receiving my cash assistance benefits?",
+      "answer": "Each district has a dedicated grievance redressal cell under District Project Management Unit to address complaints about eligibility, cash assistance quantum, and disbursement delays, with contact details displayed at health centers."
+    },
+    {
+      "question": "What immunization requirements must be completed for my newborn before the health worker receives their second payment installment under this program?",
+      "answer": "The child must be immunized for Bacillus Calmette–Guérin within 7 days of delivery, and the Accredited Social Health Activist must complete a postnatal visit before receiving their second payment."
+    }
+  ]
+}

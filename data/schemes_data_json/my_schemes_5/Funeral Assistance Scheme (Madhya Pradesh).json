@@ -1,0 +1,95 @@
+{
+  "scheme_name": "Funeral Assistance Scheme (Madhya Pradesh)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fasmp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Funeral Assistance Scheme (Madhya Pradesh)",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "Launched on 13th August 2013, the \"Funeral Assistance Scheme\" by the Department of Social Justice and Empowerment, Government of Madhya Pradesh, provides ₹3,000/- for the last rites of destitute individuals and unclaimed bodies. The scheme also supports families registered under labour schemes, especially those in the unorganized sector, who struggle to afford last rites due to financial constraints. The scheme helps ease this burden by providing essential funds for performing the final rites."
+    ],
+    "benefits": [
+      "A financial assistance of ₹3,000/- is provided."
+    ],
+    "eligibility": [
+      "The applicant must be a native of Madhya Pradesh.",
+      "The deceased should have been a member of a family registered under the labour cadre schemes operated by the Government of Madhya Pradesh."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant should visit the Gram Panchayat or Public Service Center during office hours and request a hard copy of the prescribed application form from the concerned authority.",
+        "Step 2:",
+        "Fill in all the mandatory fields in the application form. Paste a passport-sized photograph (signed across, if required), and attach copies of all necessary documents (self-attested, if required).",
+        "Step 3:",
+        "After applying, the applicant will receive an acknowledgement receipt from the office, confirming that the application has been received.",
+        "Step 4:",
+        "The submitted documents will be verified by the District Panchayat/ Gram Panchayat/ Urban Body or Ward Office depending on to whom the application was submitted.",
+        "Step 5:",
+        "Upon submission of the completed application form and the necessary documents, make sure to take a photocopy of the filled application form and the acknowledgement receipt for your future reference.",
+        "Post Application Processes",
+        "Once the documents are verified and found to be correct, the application will be approved, and the applicant’s name will be added to the pension proposal for that month.",
+        "NOTE:",
+        "If any discrepancies or missing information are found, the application will be rejected. In such cases, the applicant will receive a written notice specifying the reason for rejection, and the rejection will be duly recorded in the system."
+      ]
+    },
+    "documents_required": [
+      "Certificate issued by the place of cremation/resting place/graveyard etc. of the deceased.",
+      "Death certificate.",
+      "FIR in case of death due to accident, quarrel etc.",
+      "FIR and Panchnama in case of unclaimed dead body.",
+      "Doctor's certificate in case of death in hospital.",
+      "Address Proof",
+      "Bank Passbook/Bank Account Details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Funeral Assistance Scheme?",
+      "answer": "The Funeral Assistance Scheme provides financial support to families facing difficulties in arranging the last rites of a deceased family member."
+    },
+    {
+      "question": "How much assistance is provided under the scheme?",
+      "answer": "An amount of ₹3,000 is provided to support the funeral expenses."
+    },
+    {
+      "question": "Who can apply for funeral assistance?",
+      "answer": "The application must be submitted by the family of the deceased person to the Sarpanch of the Gram Panchayat or the Zonal Officer of the Municipal Corporation."
+    },
+    {
+      "question": "Where should I submit the application for funeral assistance?",
+      "answer": "Applications should be submitted to the Sarpanch (in rural areas) or Zonal Officer (in urban areas) of the respective Gram Panchayat or Municipal Corporation."
+    },
+    {
+      "question": "Is there a specific age limit for the deceased to apply for assistance?",
+      "answer": "There is no specific age limit for the deceased, but the deceased must be a member of a family that is registered under the Madhya Pradesh labor schemes."
+    },
+    {
+      "question": "How is the application processed?",
+      "answer": "After submission, the application is reviewed by the Sarpanch or Zonal Officer, who will send the proposal for reimbursement to the District Panchayat (in rural areas) or Municipal Corporation Commissioner (in urban areas)."
+    },
+    {
+      "question": "How long does it take to receive the funeral assistance?",
+      "answer": "Once the proposal is approved, the assistance amount is disbursed directly to the beneficiary. The timeline depends on the approval process, but it is generally processed quickly."
+    },
+    {
+      "question": "Can I apply for this scheme if I live in an urban area?",
+      "answer": "Yes, the scheme is available in both rural and urban areas of Madhya Pradesh. The process in urban areas is handled by the Municipal Corporation."
+    },
+    {
+      "question": "What happens if the application is rejected?",
+      "answer": "If the application is rejected, the applicant will be informed, and the reason for rejection will be provided."
+    },
+    {
+      "question": "Is the Funeral Assistance Scheme available to all families?",
+      "answer": "No, the scheme is specifically for families living below the poverty line and those registered under the labor schemes of the Madhya Pradesh government."
+    }
+  ]
+}

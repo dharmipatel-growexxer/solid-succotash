@@ -1,0 +1,81 @@
+{
+  "scheme_name": "Mukhmantri Sehat Bima Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mmsby",
+  "location_name": "Punjab",
+  "location_type": "state",
+  "page_title": "Mukhmantri Sehat Bima Yojana",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "Ayushman Bharat PM-JAY Mukhmantri Sehat Bima Yojana (AB PM-JAY MMSBY), was launched on 20 August 2019 this is a flagship State Health Insurance Scheme for the beneficiaires of State of Punjab. AB PM-JAY MMSBY will provide financial protection to 65% population of state of Punjab. It is entitlement based cashless Health Insurance cover. Under this scheme cashless and paperless treatment is available at Government and empaneled Private hospitals."
+    ],
+    "benefits": [
+      "A cashless health insurance cover of ₹5,00,000/- rupees per family per year for secondary and tertiary care hospitalization (in-patient services) for treatment of listed diseases and medical conditions."
+    ],
+    "eligibility": [
+      "Residents of Punjab.",
+      "Applicants should be from the following categories",
+      "SECC 2011 data families,",
+      "Smart Ration Card holder families,",
+      "J-Form holder farmers,",
+      "Small traders registered with Excise & Taxation Department,",
+      "Small & Marginal Farmers,",
+      "Accredited & Yellow Card Journalist and Construction workers registered with Punjab Building & Other Construction Workers Welfare Board."
+    ],
+    "application_process": {
+      "online": [
+        "REGISTRATION PROCESS FOR E-CARD GENERATION",
+        "Now generate e-card from home without visiting anywhere: Download 'Ayushman App' on mobile or visit",
+        "https://beneficiary.nha.gov.in/",
+        "to self-register.",
+        "Please visit any empaneled private or public hospital, lists available under '",
+        "Hospitals",
+        "' on SHA website for getting e-card generation."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Ration Card.",
+      "Family Declaration. (If no Ration Card).",
+      "Income Certificate.",
+      "Construction Worker Card. (If belong to that Category)."
+    ],
+    "sources_and_references": [
+      "Official Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is this scheme ?",
+      "answer": "\"AYUSHMAN BHARAT PM-JAY MUKH MANTRI SEHAT BIMA YOJNA” is a flagship State Health Insurance Program of the Government of Punjab."
+    },
+    {
+      "question": "What health services are available under AB PM-JAY MMSBY?",
+      "answer": "The Scheme covers 1579 treatment packages that include hospitalization expenses, daycare surgeries, 3 days pre and 15 days post-hospitalization expenses and treatment of newborn child."
+    },
+    {
+      "question": "What is the maximum limit of provided health insurance ?",
+      "answer": "Health insurance cover of 5 lakh rupees per family per year."
+    },
+    {
+      "question": "Who can get the benefits?",
+      "answer": "All the eligible resident of Punjab."
+    },
+    {
+      "question": "How to apply for the scheme?",
+      "answer": "This is an entitlement-based scheme and no enrolment process for the families who are identified by the Government of India."
+    },
+    {
+      "question": "What documents are required for this ?",
+      "answer": "1. Aadhaar Card. 2. Ration Card. 3. Family Declaration. (If no Ration Card). 4. Income Certificate. 5. Construction Worker Card. (If belong to that Category). How to check e-cards of AB PM-JAY MMSBY Follow the below URL and enter the e-card & captcha details."
+    },
+    {
+      "question": "Can those families whose names are not on the list avail the benefits under AB PM-JAY MMSBY?",
+      "answer": "In this phase, no additional new families can be added under AB PM-JAY MMSBY. However, names of additional family members can be added only in case of families of J-Form holder farmers, families of registered Small traders and families of registered construction workers based on the family identification document produced by the Beneficiary at the point of contact. The family is defined as under: “Beneficiary Family Unit of Department Families will comprise of the Head of the Family/Main Member and any of his or her following relatives, irrespective of whether or not they are dependent or residing with the Main Member:"
+    },
+    {
+      "question": "Will e-card be given to the beneficiary?",
+      "answer": "Now generate e-card from home without visiting anywhere: Download 'Ayushman App' on mobile or visit beneficiary.nha.gov.in to self-register. Please visit any empaneled private or public hospital, lists available under 'Hospitals' on SHA website for getting e-card generation."
+    }
+  ]
+}

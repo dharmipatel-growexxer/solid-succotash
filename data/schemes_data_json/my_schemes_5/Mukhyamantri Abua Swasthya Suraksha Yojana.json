@@ -1,0 +1,115 @@
+{
+  "scheme_name": "Mukhyamantri Abua Swasthya Suraksha Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/massy",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Abua Swasthya Suraksha Yojana",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Mukhyamantri Abua Swasthya Suraksha Yojana\" by the Department of Health and Family Welfare, Government of Jharkhand, aims to provide quality and affordable healthcare services to the people of Jharkhand. The scheme provides a yearly health insurance cover per family, ensuring access to advanced medical treatments. The Jharkhand State Arogya Society implements the scheme and operates in a hybrid mode to maximize efficiency and reach."
+    ],
+    "benefits": [
+      "Health insurance cover of ₹15,00,000/- per family per year.",
+      "Coverage includes expenses for both general treatments and critical illnesses listed under the scheme.",
+      "Beneficiaries can access services at empaneled public and private hospitals.",
+      "Includes treatment costs for diabetes, blood pressure, and dialysis, with free medicines provided at government hospitals.",
+      "Beneficiaries also gain access to treatment for",
+      "21 critical illnesses",
+      "under the existing Mukhyamantri Gambhir Bimari Upchar Yojana.",
+      "NOTE:",
+      "Temporary health cards will be issued for urgent treatments based on the beneficiary’s ration card.",
+      "The first ₹1,00,000/- of coverage is managed by a selected insurance company, while the remaining up to ₹15,00,000/- is borne by the government in trust mode."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Jharkhand.",
+      "The applicant’s family should possess a ration card under the National Food Security Act (NFSA) or Jharkhand State Food Security Act.",
+      "The applicant's have pink, yellow, and green ration cards are eligible under the scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Mukhyamantri Abua Swasthya Suraksha Card Apply Process:",
+        "Step 1: Visit the Official Portal",
+        "Go to the official website of Mukhyamantri Abua Swasthya Suraksha Yojana:",
+        "https://bis.jharkhand.gov.in/.",
+        "Step 2: Login Using Mobile Number",
+        "Enter your mobile number and click on Get OTP.",
+        "Enter the OTP received on your mobile phone.",
+        "Fill in the Captcha code and proceed.",
+        "Step 3: Search Using Ration Card",
+        "Enter your Ration Card Number and Captcha code.",
+        "Click on the Search button.",
+        "The portal will display the list of family members based on the ration card details.",
+        "Step 4: Download the Health Card",
+        "If the details of the applicant match the Ration Card and Aadhaar Card, you can download the card directly.",
+        "Click on Download to save your card.",
+        "If e-KYC is Incomplete:",
+        "Follow these steps to complete e-KYC and apply:",
+        "Step 1: Complete Aadhaar Verification",
+        "Click on the e-KYC option.",
+        "Enter your Aadhaar Number and select the verification method:",
+        "Aadhaar OTP (sent to the mobile number linked with Aadhaar).",
+        "Fingerprint verification.",
+        "Accept the Terms and Conditions (T&C).",
+        "Enter the OTP and click on Verify.",
+        "Step 2: Rectify Details (If Needed)",
+        "If the details in the Ration Card and Aadhaar Card do not match, you will not be able to download the card immediately.",
+        "The portal will provide an option to update or correct the mismatched details.",
+        "Submit the corrected details for verification.",
+        "Step 3: Re-Apply and Download",
+        "Once the details are updated and verified, repeat the above steps.",
+        "Download the card after successful verification."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card (Linked with Ration Card)",
+      "Ration Card (Pink, Yellow, or Green)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Families with ration cards under NFSA or Jharkhand Food Security Act and SECC-2011 data beneficiaries are eligible."
+    },
+    {
+      "question": "What illnesses are covered under the scheme?",
+      "answer": "Both general and critical illnesses, including 21 major diseases like cancer, heart surgery, and kidney transplants, are covered."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Apply online through the state health portal using your Aadhaar and ration card details."
+    },
+    {
+      "question": "What if I don’t have a health card yet?",
+      "answer": "Temporary health cards are issued based on ration card details for urgent treatments."
+    },
+    {
+      "question": "What is the validity of the health insurance coverage?",
+      "answer": "The coverage is valid for one year and is renewable annually."
+    },
+    {
+      "question": "Can I avail of the scheme benefits outside Jharkhand?",
+      "answer": "Benefits are restricted to empaneled hospitals within Jharkhand."
+    },
+    {
+      "question": "What is the hybrid mode of implementation?",
+      "answer": "It means partial coverage by an insurance company and the remaining by the state in trust mode."
+    },
+    {
+      "question": "How can I verify if my family is included in the scheme?",
+      "answer": "Check eligibility through the state health portal or at district health offices."
+    },
+    {
+      "question": "Are private hospitals included in the scheme?",
+      "answer": "Yes, empaneled private hospitals provide services under the scheme."
+    },
+    {
+      "question": "Can additional family members be added later?",
+      "answer": "Yes, families can update their details online for inclusion of additional members."
+    }
+  ]
+}

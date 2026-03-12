@@ -1,0 +1,54 @@
+{
+  "scheme_name": "National AIDS Control Programme - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/naidscp",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "National AIDS Control Programme - Uttarakhand",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The “National AIDS Control Programme” is implemented by the Uttarakhand State AIDS Control Society under the Department of Medical Health and Family Welfare, Government of Uttarakhand. The programme aims to prevent and control the spread of HIV/AIDS through awareness, testing, and treatment, while providing care and support to affected individuals."
+    ],
+    "benefits": [
+      "Raising public awareness about HIV/AIDS and providing free HIV testing, treatment, and medication."
+    ],
+    "eligibility": [
+      "The beneficiaries should be the general public and HIV-infected individuals residing in Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "Under the National AIDS Control Programme, the general public is made aware about HIV/AIDS through various publicity campaigns, and complete information on prevention can be obtained by calling the toll-free helpline 1097.",
+        "HIV testing is provided free of cost at ICTCs established in government hospitals.",
+        "People living with HIV receive free anti-retroviral medication through designated Anti-Retroviral Therapy (ART) centres."
+      ]
+    },
+    "documents_required": [
+      "Documents are required in accordance with the programme guidelines."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 92)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can benefit from the programme?",
+      "answer": "Both the general public (through awareness and preventive education) and HIV-infected individuals (through treatment and care services) benefit from the programme."
+    },
+    {
+      "question": "Are HIV testing and treatment services free of cost?",
+      "answer": "Yes. All HIV testing and treatment services under the programme, including medicines, are completely free of cost at government-designated centers."
+    },
+    {
+      "question": "Where can individuals get tested for HIV in Uttarakhand?",
+      "answer": "HIV testing is available at Integrated Counselling and Testing Centres (ICTCs) located in government hospitals and health facilities across the state."
+    },
+    {
+      "question": "What is the helpline number for HIV/AIDS information?",
+      "answer": "Individuals can call the National AIDS Helpline – 1097 to get complete information about HIV/AIDS prevention, treatment, and support services."
+    },
+    {
+      "question": "What are ART centres and what services do they provide?",
+      "answer": "Anti-Retroviral Therapy (ART) Centres provide free anti-retroviral medicines, counselling, and regular health monitoring for people living with HIV."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "scheme_name": "State Government Health Scheme (Golden Card)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sghs",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "State Government Health Scheme (Golden Card)",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme “State Government Health Scheme (Golden Card)” has been implemented since January 1, 2021, by the Uttarakhand State Health Authority under the Department of Medical Health and Family Welfare, Government of Uttarakhand. The scheme aims to provide quality healthcare facilities to all government employees, pensioners, and their dependents in the state."
+    ],
+    "benefits": [
+      "The State Government Health Scheme has been implemented with the aim of providing quality healthcare facilities to all government employees, pensioners, and their dependents in Uttarakhand. Under this scheme, prescribed medical treatment is provided free of cost."
+    ],
+    "eligibility": [
+      "All government employees and pensioners of Uttarakhand who have obtained Golden Cards and make monthly contributions are eligible under the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Golden Cards for government employees, pensioners, their family members, and employees of autonomous bodies, corporations, authorities, universities, and aided institutions are issued at Jan Seva Kendras, the Unit Trust of India (UTI), or identified hospitals. The definition of ‘family’ and ‘dependents’ under the State Government Health Scheme shall be the same as those specified in the",
+        "Uttarakhand Retirement Benefits Act, 2018",
+        ".",
+        "Dependent’s Income Limit:",
+        "The monthly income limit for a dependent will be determined as per the Central Government Health Scheme (CGHS) guidelines.",
+        "Note:",
+        "Disability refers to a minimum of 40% disability, which must be certified by a Medical Board through an official Disability Certificate."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the guidelines of the Uttarakhand State Health Authority for this scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 135)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to avail benefits under the scheme?",
+      "answer": "All government employees and pensioners of Uttarakhand who have obtained Golden Cards and make monthly contributions are eligible under the scheme."
+    },
+    {
+      "question": "Are dependents of employees and pensioners covered under this scheme?",
+      "answer": "Yes, the dependents and family members of government employees and pensioners are covered under the scheme, as per the eligibility criteria defined in the Uttarakhand Retirement Benefits Act, 2018."
+    },
+    {
+      "question": "Where can Golden Cards be obtained from?",
+      "answer": "Golden Cards can be obtained from Jan Seva Kendras, the Unit Trust of India (UTI), or identified hospitals authorized under the scheme."
+    },
+    {
+      "question": "What are the benefits provided under the scheme?",
+      "answer": "Under the scheme, prescribed medical treatment is provided free of cost to all eligible beneficiaries at empanelled hospitals."
+    },
+    {
+      "question": "What is the income limit for dependents under the scheme?",
+      "answer": "The monthly income limit for dependents is determined as per the Central Government Health Scheme (CGHS) guidelines."
+    },
+    {
+      "question": "How is disability defined under the scheme?",
+      "answer": "Disability refers to a minimum of 40% disability, which must be certified by a Medical Board through a valid Disability Certificate."
+    },
+    {
+      "question": "Is there any contribution required from the beneficiaries?",
+      "answer": "Yes, beneficiaries (employees and pensioners) are required to contribute a fixed amount monthly."
+    }
+  ]
+}

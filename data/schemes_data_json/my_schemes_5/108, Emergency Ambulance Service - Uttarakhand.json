@@ -1,0 +1,56 @@
+{
+  "scheme_name": "108, Emergency Ambulance Service - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/108easuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "108, Emergency Ambulance Service - Uttarakhand",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The “108 Emergency Ambulance Service” is implemented by the Department of Medical Health and Family Welfare, Government of Uttarakhand. It aims to provide immediate medical assistance during emergencies by ensuring quick patient transportation to hospitals and offering essential first aid."
+    ],
+    "benefits": [
+      "In any type of medical emergency, patients are transported to the hospital and provided with first aid facilities.",
+      "The benefits of this service are being provided to the residents of the state through 272 ambulances."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The benefit is provided to accident victims and individuals requiring emergency services."
+    ],
+    "application_process": {
+      "offline": [
+        "The services can be availed free of cost by calling 108."
+      ]
+    },
+    "documents_required": [
+      "Identity proof of the patient",
+      "Medical report, if any",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 131)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of the scheme?",
+      "answer": "Its main objective is to provide immediate medical assistance by ensuring rapid transportation to hospitals and delivering essential first aid."
+    },
+    {
+      "question": "Who can avail the emergency service?",
+      "answer": "Anyone facing a medical emergency, including accident victims and individuals needing urgent medical care, can avail the service."
+    },
+    {
+      "question": "Is the 108 ambulance service free of cost?",
+      "answer": "Yes, the service is completely free of cost."
+    },
+    {
+      "question": "How can someone access the 108 ambulance?",
+      "answer": "The service can be accessed by simply calling 108 from any phone."
+    },
+    {
+      "question": "How many ambulances operate under this service in Uttarakhand?",
+      "answer": "A total of 272 ambulances provide emergency services across the state."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "scheme_name": "Nishulk Swasthya Jaanch Yojana - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nsjy",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Nishulk Swasthya Jaanch Yojana - Uttarakhand",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Nishulk Swasthya Jaanch Yojana” is an initiative under the National Health Mission (NHM) implemented by the Department of Medical Health and Family Welfare, Government of Uttarakhand. The scheme aims to ensure accessible, affordable and quality healthcare services for all citizens of Uttarakhand by providing free diagnostic tests across government healthcare facilities."
+    ],
+    "benefits": [
+      "Free diagnostic tests are provided at district hospitals, sub-district hospitals, community health centres, urban primary health centres, and primary health centres. Under the scheme, a total of 266 tests are available completely free of charge."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary can avail free health check-ups after registering at any government hospital in the state."
+    ],
+    "application_process": {
+      "offline": [
+        "Laboratories are available in the state’s district hospitals, sub-district hospitals, community health centres, urban primary health centres, and primary health centres. Patients visiting these healthcare facilities after the scheduled hours, as determined by the hospital’s CMS or Hospital In-charge, are provided free diagnostic tests by personnel from an empanelled or contracted firm."
+      ]
+    },
+    "documents_required": [
+      "1. Identity proof",
+      "2. Other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 131)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "All residents of Uttarakhand are eligible to avail the benefits of free diagnostic tests under this scheme."
+    },
+    {
+      "question": "How can a person avail the benefits of this scheme?",
+      "answer": "Beneficiaries can avail free health check-ups by registering at any government hospital in the state such as district hospitals, sub-district hospitals, CHCs, or PHCs."
+    },
+    {
+      "question": "How many tests are provided free of cost under the scheme?",
+      "answer": "A total of 266 diagnostic tests are provided completely free of charge under this scheme."
+    },
+    {
+      "question": "At which healthcare facilities are these tests available?",
+      "answer": "Free diagnostic tests are available at district hospitals, sub-district hospitals, community health centres (CHCs), urban primary health centres (UPHCs), and primary health centres (PHCs) across Uttarakhand"
+    },
+    {
+      "question": "Are private hospitals included under this scheme?",
+      "answer": "No."
+    }
+  ]
+}

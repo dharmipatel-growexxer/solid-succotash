@@ -1,0 +1,67 @@
+{
+  "scheme_name": "Mukhyamantri Kishori Swasthya Yojna",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mksybs",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Kishori Swasthya Yojna",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Mukhyamantri Kishori Swasthya Yojna\", launched by the Education Department, Bihar, addresses the issue of increased school dropout rates among girls during puberty due to a lack of access to sanitary hygiene products. Under this scheme, the State Government distributes free sanitary napkins to adolescent girls in secondary schools, encouraging them to continue their education while promoting awareness of menstrual health and hygiene."
+    ],
+    "benefits": [
+      "Free sanitary napkins for adolescent girls in secondary schools."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Bihar.",
+      "The applicant must be a girl.",
+      "The applicant must be enrolled in a recognized secondary school."
+    ],
+    "application_process": {
+      "offline": [
+        "Contact the concerned school Administration to avail the scheme benefits."
+      ]
+    },
+    "documents_required": [
+      "Birth Certificate or School Admission Certificate.",
+      "Any other document if required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Mukhyamantri Kishori Swasthya Yojna\"?",
+      "answer": "It is a government scheme to provide free sanitary napkins to adolescent girls in secondary schools to promote hygiene and reduce dropout rates."
+    },
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Adolescent girls who are enrolled in secondary schools within the state."
+    },
+    {
+      "question": "Is there any fee to avail of the scheme?",
+      "answer": "No, the scheme is completely free of cost."
+    },
+    {
+      "question": "How can one apply for this scheme?",
+      "answer": "Applicants can approach their school administration to avail of the scheme benefits."
+    },
+    {
+      "question": "Does this scheme cover rural areas?",
+      "answer": "Yes, the scheme is implemented statewide, including rural and urban areas."
+    },
+    {
+      "question": "Can out-of-school girls benefit from this scheme?",
+      "answer": "No, the scheme is currently limited to girls enrolled in secondary schools."
+    },
+    {
+      "question": "Are private school students eligible?",
+      "answer": "The scheme is primarily for students of government and government-aided schools."
+    },
+    {
+      "question": "Can a parent or guardian apply on behalf of the student?",
+      "answer": "Yes, parents or guardians can assist in the application process if needed."
+    }
+  ]
+}

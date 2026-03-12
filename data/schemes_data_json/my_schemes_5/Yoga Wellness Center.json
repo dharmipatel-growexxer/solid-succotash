@@ -1,0 +1,55 @@
+{
+  "scheme_name": "Yoga Wellness Center",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ywcuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Yoga Wellness Center",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The “Yoga Wellness Center” is implemented by the Ayush Department, Government of Uttarakhand. The scheme aims to promote holistic health and wellness among people of all age groups through yoga, naturopathy, and personalized counseling."
+    ],
+    "benefits": [
+      "Under this scheme, Yoga, naturopathy, and counseling services are provided based on the individual’s health condition. For this, the OPD fee is ₹1.00 per person in rural areas and ₹2.00 per person in urban areas."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary can belong to any age group.",
+      "The beneficiary must be registered at an identified Government Ayurvedic Centre or Hospital."
+    ],
+    "application_process": {
+      "offline": [
+        "The beneficiaries may visit and register at an identified Government Ayurvedic Centre or Hospital to avail the benefits under the scheme."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof",
+      "Any other document as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 147)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Any resident of Uttarakhand, irrespective of age, can avail the benefits of the scheme."
+    },
+    {
+      "question": "What services are provided under the Yoga Wellness Center?",
+      "answer": "The scheme provides yoga therapy, naturopathy treatment, and personalized counseling based on the individual’s health condition."
+    },
+    {
+      "question": "What is the OPD fee for availing services?",
+      "answer": "The OPD fee is ₹1.00 per person in rural areas and ₹2.00 per person in urban areas."
+    },
+    {
+      "question": "Where can beneficiaries avail these services?",
+      "answer": "Beneficiaries can visit and register at identified Government Ayurvedic Centres or Hospitals in Uttarakhand offering Yoga Wellness Center facilities."
+    },
+    {
+      "question": "Do beneficiaries need to register to avail services?",
+      "answer": "Yes, beneficiaries must be registered at an identified Government Ayurvedic Centre or Hospital to avail the benefits."
+    }
+  ]
+}

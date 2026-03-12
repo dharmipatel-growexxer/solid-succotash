@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Swachh Bharat Mission – Grameen PHASE I",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sbm-g-i",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Swachh Bharat Mission – Grameen PHASE I",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2014, the scheme \"Swachh Bharat Mission – Grameen (Phase I)\" by the Department of Drinking Water and Sanitation, Ministry of Jal Shakti, Government of India, aims to eliminate open defecation in rural India through behavioral change and construction of household and community toilets. Through this scheme, financial assistance and awareness interventions for toilet construction were provided to poor, underprivileged, and marginalized households in rural areas.",
+      "Objectives:",
+      "To bring about mass-scale behavior change regarding sanitation and hygiene",
+      "To ensure the construction and usage of household-owned and community-owned toilets",
+      "To establish an accountable mechanism for achieving ODF (Open Defecation Free) India",
+      "To promote Solid and Liquid Waste Management (SLWM)"
+    ],
+    "benefits": [
+      "₹12,000 financial assistance per toilet to rural households for construction.",
+      "Enhanced rural sanitation coverage through individual and community toilets.",
+      "Significant reduction in open defecation practices across India.",
+      "Activities under the Scheme:",
+      "Construction of Individual Household Latrines (IHHL)",
+      "Construction of Community Sanitary Complexes (CSCs)",
+      "Solid Liquid Waste Management (SLWM) activities",
+      "Information, Education and Communication (IEC)",
+      "Human Resource Development (HRD) activities"
+    ],
+    "eligibility": [
+      "The applicant should be from a rural household that lacked a toilet before the scheme.",
+      "The applicant should belong to poor, underprivileged, or marginalized sections.",
+      "Note:",
+      "Preference given to households led by women, elderly, disabled, or socio-economically weaker sections."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Register on the UMANG Portal",
+        "- Visit the",
+        "official website",
+        "of UMANG. In the top right corner of the landing page, click \"",
+        "Register",
+        ".\" You will be taken to the Registration Page.",
+        "Step 2:",
+        "Mobile Number Verification and MPIN Creation",
+        "- You will be redirected to the mobile number verification page. Enter your mobile number and get it verified via OTP. Create an MPIN to complete the registration process. You will be taken to the UMANG homepage.",
+        "Login",
+        "using your Mobile Number and MPIN.",
+        "Step 3:",
+        "Accessing Services on UMANG",
+        "- In the tabs provided at the bottom of the page, click on the \"All Services\" tab. From the list of departments, click on \"Department of Scientific and Industrial Research\".",
+        "Step 4:",
+        "Applying for a Specific Service",
+        "- Under the selected department, choose the service you want to apply for. You will be taken to the Online Application Form.",
+        "Step 5:",
+        "Completing the Application",
+        "- In the application form, fill in all the mandatory fields and upload all the required documents in the specified format and size.",
+        "Step 6:",
+        "Review and Confirmation",
+        "- Carefully review all the information provided and the documents uploaded. Make any necessary corrections, if required. Acknowledge and agree to the terms and conditions, declaration, and privacy policy, if any.",
+        "Step 7:",
+        "Submitting the Application",
+        "- Click the \"Submit\" or \"Apply\" button to submit your application. You'll receive a confirmation message upon successful submission of the application."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Passbook",
+      "Photograph of Constructed Toilet (for verification and geo-tagging)",
+      "Any other documents if required"
+    ],
+    "sources_and_references": []
+  },
+  "faqs": [
+    {
+      "question": "What is the aim of the scheme?",
+      "answer": "The aim of the scheme is to eliminate open defecation in rural India through toilet construction and behavioral change."
+    },
+    {
+      "question": "Who is eligible to apply under the scheme?",
+      "answer": "Rural households without toilet facilities, especially those that are poor, underprivileged, or marginalized."
+    },
+    {
+      "question": "Are households with existing toilets eligible?",
+      "answer": "No, households with existing functional toilets are not eligible for the incentive."
+    },
+    {
+      "question": "What steps are involved in applying for the scheme?",
+      "answer": "Contact the local Gram Panchayat, submit documents, construct the toilet, verify it through geo-tagging, and receive the incentive."
+    },
+    {
+      "question": "What kind of toilets were promoted under this scheme?",
+      "answer": "The scheme promoted twin-pit toilets as a cost-effective and sustainable sanitation solution."
+    },
+    {
+      "question": "How does twin pit toilet technology work?",
+      "answer": "Two pits are used alternately, and the filled pit is sealed for decomposition, turning waste into safe manure."
+    },
+    {
+      "question": "How long does each pit last?",
+      "answer": "Each pit is typically designed to last around three years, depending on usage."
+    },
+    {
+      "question": "What is the IMIS system used in this scheme?",
+      "answer": "IMIS (Integrated Management Information System) is used for real-time tracking of toilet construction and verification."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "scheme_name": "Funeral Support Scheme (HPBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fsphpbocwwb",
+  "location_name": "Himachal Pradesh",
+  "location_type": "state",
+  "page_title": "Funeral Support Scheme (HPBOCWWB)",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Funeral Support Scheme,\" launched by the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB) under the Government of Himachal Pradesh, provides financial assistance of ₹20,000/- (twenty thousand) to the nominees or dependents of a registered beneficiary in the event of the worker's death."
+    ],
+    "benefits": [
+      "₹20,000/- is provided for a registered worker's death."
+    ],
+    "eligibility": [
+      "The applicant should be a nominee/legal heir of the deceased worker.",
+      "The deceased worker should have been registered with the \"Himachal Pradesh Building and Other Construction Workers Welfare Board\".",
+      "The membership of the deceased worker with the Welfare Board must be active."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The interested applicant should visit the Labor Welfare Office (during office hours) and request a hard copy of the prescribed",
+        "application form",
+        "from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste a passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with a wage slip or appointment letter from the employer, verifying 90 days of construction work. If unavailable, a certificate from a local authority (such as a councilor, executive officer, or Panchayat Secretary) can be submitted to verify employment.",
+        "Step 4:",
+        "After submitting the documents and payment, the worker will receive an acknowledgment receipt confirming their registration."
+      ]
+    },
+    "documents_required": [
+      "Identity proof i.e. Aadhaar Card, Voter Card",
+      "Passport-size photograph",
+      "Undertaking",
+      "A copy Work Slip",
+      "Proof of residence",
+      "Ration Card",
+      "Bank account details/copy of bank passbook",
+      "Caste Certificate",
+      "Age proof",
+      "Labour Card",
+      "Death Certificate",
+      "Identity proof of the nominee/legal heir",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Website",
+      "Scheme Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What does the scheme provide?",
+      "answer": "₹20,000 for funeral expenses."
+    },
+    {
+      "question": "Who is eligible for the benefit?",
+      "answer": "Nominees or dependents of registered workers."
+    },
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "To support funeral expenses of registered workers."
+    },
+    {
+      "question": "Is the benefit only for accidental deaths?",
+      "answer": "No, it applies to all cases of death."
+    },
+    {
+      "question": "Who can claim the benefit?",
+      "answer": "The registered worker’s nominees or dependents."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "ID proof, death certificate, and nominee verification."
+    },
+    {
+      "question": "How can I apply for the benefit?",
+      "answer": "Submit the required documents to the Labour and Employment Department."
+    },
+    {
+      "question": "Is this scheme available to unregistered workers?",
+      "answer": "No, only registered workers are eligible."
+    },
+    {
+      "question": "Who manages the scheme?",
+      "answer": "The Labour and Employment Department, Himachal Pradesh."
+    }
+  ]
+}

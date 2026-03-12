@@ -1,0 +1,63 @@
+{
+  "scheme_name": "Sanitary Napkin Scheme (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/snsukbocwwb",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Sanitary Napkin Scheme (UKBOCWWB)",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Sanitary Napkin Scheme” is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide free sanitary napkins to the daughters of registered construction workers and to women construction workers, in order to promote health and hygiene."
+    ],
+    "benefits": [
+      "Under the scheme, free sanitary napkins will be provided to the daughters of registered construction workers and to women construction workers."
+    ],
+    "eligibility": [
+      "The applicant must be a registered construction worker with the Uttarakhand Building and Other Construction Workers Welfare Board.",
+      "The benefits of the scheme will be provided to the daughters of registered construction workers and to women construction workers registered with the Board."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "The online application can be submitted through Shramik Suvidha Kendras.",
+        "Along with the application form, applicants must attach a self-attested photocopy of the Shramik Card, Aadhaar Card, A Self-Declaration Certificate stating that no similar benefit has been availed from any other department.",
+        "After verification, sanitary napkins are provided by the department."
+      ]
+    },
+    "documents_required": [
+      "Labour Card",
+      "Aadhaar Card",
+      "A Self-Declaration Certificate stating that no similar benefit has been availed from any other department"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 54)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "The scheme is meant for the daughters of registered construction workers and women construction workers who are registered with the Uttarakhand Building and Other Construction Workers Welfare Board."
+    },
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "Eligible beneficiaries receive free sanitary napkins from the Labour Department to support menstrual hygiene management."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applications can be submitted online through Shramik Suvidha Kendras."
+    },
+    {
+      "question": "Can unregistered construction workers avail the benefit?",
+      "answer": "No, only registered construction workers and their daughters are eligible under this scheme."
+    },
+    {
+      "question": "Can a beneficiary receive this benefit from multiple departments?",
+      "answer": "No, beneficiaries must submit a certificate declaring that they are not availing similar benefits from any other department."
+    },
+    {
+      "question": "Can beneficiaries apply offline?",
+      "answer": "Applications are primarily done online through Shramik Suvidha Kendras."
+    }
+  ]
+}

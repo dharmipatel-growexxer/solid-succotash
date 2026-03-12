@@ -1,0 +1,126 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Assistance on Death and Permanent Disablement",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wbtwssadpd",
+  "location_name": "West Bengal",
+  "location_type": "state",
+  "page_title": "West Bengal Transport Workers’ Social Security Scheme: Assistance on Death and Permanent Disablement",
+  "scraped_at": "2026-03-12 05:53:35 UTC",
+  "sections": {
+    "details": [
+      "The “West Bengal Transport Workers’ Social Security Scheme: Assistance on Death and Permanent Disablement” by the Labour Department, offers financial assistance to unorganised transport workers or their nominees/dependents during times of distress caused by death or disability. The relief includes monetary compensation for accidental or natural death, as well as graded benefits for permanent disabilities."
+    ],
+    "benefits": [
+      "Relief on Death:",
+      "For accidental death:",
+      "₹1,50,000/-.",
+      "For natural death:",
+      "₹50,000/-.",
+      "Relief on Permanent Disability:",
+      "For loss of one hand, one leg below the knee, one eye, or hearing capacity in one ear:",
+      "₹25,000/-.",
+      "For loss of a thumb:",
+      "₹9,000/-.",
+      "For loss of any other finger:",
+      "₹4,000/-",
+      "Maximum relief for total disablement:"
+    ],
+    "eligibility": [
+      "The applicant must be between 18 and 60 years of age at the time of enrolment.",
+      "The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses.",
+      "The applicant’s vehicle must be used for commercial purposes and not solely for personal or family use.",
+      "Note:",
+      "A nominee/ dependent of a beneficiary shall be entitled for the benefits in case of death."
+    ],
+    "application_process": {
+      "online": [
+        "Step-1:",
+        "Visit the “",
+        "eDistrict 2.0",
+        "” portal. Click on Log In/Sign Up.",
+        "Step-2:",
+        "In the User Login window, scroll down to the bottom and click on “Register”.",
+        "Step-3:",
+        "Fill in all the details carefully, enter a username, and click on “Register”.",
+        "Step-4:",
+        "Upon entering the One Time Password received on your mobile, you will be successfully registered.",
+        "Step-5:",
+        "Now in the User Login window, enter your Username or email and captcha and click on “Sign In”.",
+        "Step-6:",
+        "Enter the received O.T.P and click on “Submit”.",
+        "Step-7:",
+        "Upon successful Login, You will be redirected to the “Dashboard”. From the right side menu apply for the concerned scheme."
+      ]
+    },
+    "documents_required": [
+      "For New Registration:",
+      "Certification by Prescribed Authority in the Prescribed format,",
+      "Passport Size Photo (self and for each dependent member).",
+      "Age Proof Document.",
+      "Driving Licence in case of Drivers.",
+      "EPIC/ AADHAR Card.",
+      "For the Application of the Welfare Scheme:",
+      "Details of the Nominee/ Dependent.",
+      "Death Certificate (for death claims).",
+      "Medical Certificate/ Report (for disability claims)."
+    ],
+    "sources_and_references": [
+      "Guideline-1",
+      "Guideline-2",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "The scheme provides financial relief to the beneficiaries in case of permanent disability due to accidents or their dependents/nominees in case of accidental or natural death."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Unorganised transport workers aged 18-60 years working with commercial vehicles are eligible."
+    },
+    {
+      "question": "What are the benefits provided under the scheme?",
+      "answer": "Financial assistance for death (₹50,000–₹1,50,000) and permanent disability (₹4,000–₹50,000) are provided under the scheme."
+    },
+    {
+      "question": "How is the assistance disbursed?",
+      "answer": "Benefits are transferred directly to the beneficiary's or nominee’s bank account through DBT."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Age proof, employment proof, bank details, and relevant medical or death certificates."
+    },
+    {
+      "question": "Are privately owned vehicles included in the scheme?",
+      "answer": "No, vehicles used solely for personal or family purposes are excluded."
+    },
+    {
+      "question": "Is there any age limit for the scheme?",
+      "answer": "Yes, the beneficiary must be between 18 and 60 years of age."
+    },
+    {
+      "question": "Are benefits provided for self-inflicted injuries or suicides?",
+      "answer": "No, such cases are excluded."
+    },
+    {
+      "question": "What if multiple disabilities occur in one accident?",
+      "answer": "Relief is calculated based on total disablement, subject to a maximum of ₹50,000/-."
+    },
+    {
+      "question": "Is this scheme applicable in cases of natural disasters?",
+      "answer": "Yes, provided the death or disability is not due to excluded circumstances."
+    },
+    {
+      "question": "Can family members apply on behalf of the worker?",
+      "answer": "Yes, nominees or dependents can apply in case of death or incapacitation."
+    },
+    {
+      "question": "Are accidental injuries under intoxication covered?",
+      "answer": "No, injuries occurring under the influence of alcohol, drugs, or narcotics are not covered."
+    },
+    {
+      "question": "What happens if the nominee is not registered?",
+      "answer": "The beneficiary should ensure nominee details are updated during registration."
+    }
+  ]
+}
