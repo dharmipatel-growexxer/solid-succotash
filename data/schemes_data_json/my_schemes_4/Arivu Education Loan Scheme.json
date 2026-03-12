@@ -1,0 +1,139 @@
+{
+  "scheme_name": "Arivu Education Loan Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/aels",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Arivu Education Loan Scheme",
+  "scraped_at": "2026-03-12 05:41:34 UTC",
+  "sections": {
+    "details": [
+      "The \"Arivu Education Loan Scheme\" was launched by the Minorities Welfare Department, Government of Karnataka, and is implemented by the Karnataka Minorities Development Corporation. The scheme aims to provide loans to students who wish to pursue professional courses such as M.B.B.S., M.D., M.S., B.E., B.Tech., M.E., M.Tech., B.D.S., M.D.S., B.Ayush, M.Ayush, M.B.A., M.C.A., L.L.B., B.Arch, M.Arch, B.Sc. in Horticulture, Agriculture, Dairy Technology, Forestry, Veterinary, Animal Sciences, Food Technology, Biotechnology, Fisheries, Sericulture, Home/Community Sciences, Food Nutrition and Dietetics, B.Pharma, M.Pharma, Pharma.D, and D.Pharma."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "The loan amount is granted from ₹50,000/- to ₹5,00,000/- every year until the course duration.",
+      "Loan Renewal Process:",
+      "Renewal and pay 12% of the loan amount issued by the corporation during the previous year at their respective District Office.",
+      "Loan Repayment:",
+      "Repay the loan with service charges of 2% after 6 months of completion of the course."
+    ],
+    "eligibility": [
+      "The student should belong to the State Religious Minority Community.",
+      "The student should be a permanent resident of the State.",
+      "The annual income of the family should not exceed ₹8,00,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Application Process for Fresh Loan:",
+        "Step-01: Applicant need to visits the Karnataka Minorities Development Corporation",
+        "official website.",
+        "Step-02: Click \"Apply Online\" and Enter \"Mobile Number\" and \"Submit\".",
+        "Step-03: Enter \"Aadhaar Number\" Fill in the \"Captcha\" and Select \"Next\".",
+        "Step-04: Applicant will get OTP in his/her Aadhaar Linked Mobile Number.",
+        "Step-05: Enter \"OTP\" and select \"Continue\", After that Allow the official notice.",
+        "Step-06: After verifying the Aadhaar again fill in the \"OTP\" and Submit.",
+        "Step-07: Select the scheme \"Sikhligar’s Community Development Scheme\" and fill in the basic details father's name, gender, qualification detail",
+        "Step-08: Select \"Next\" Fill in the address detail and again select \"Next\".",
+        "Step-09: Upload the required document passport-size photo, educational document, income certificate, etc.",
+        "Step-10: Click \"Proceed\" and Select \"Submit Application\" and get an Application ID.",
+        "Application Process for Renewal loan:",
+        "Step-01:",
+        "Go to the Karnataka Minorities Development Corporation",
+        "official website",
+        ".",
+        "Step-02:",
+        "Choose the \"Arivu Education Loan Scheme\" and click \"Apply Online.\"",
+        "Step-03:",
+        "Select",
+        "\"ARIVU.Renewal\" Enter mobile number and \"Submit\".",
+        "Step-04:",
+        "Applicant's personal, address, and bank details will be pre-filled from the previous application. No need to fill them again.",
+        "Step-05:",
+        "Upload the required document and",
+        "Submit the application."
+      ]
+    },
+    "documents_required": [
+      "Document for Fresh Application",
+      "Recent Two Passport-size Photos of the Student.",
+      "Student's Caste Certificate.",
+      "Income Certificate.",
+      "Aadhaar Card.",
+      "CET Admission Letter.",
+      "NEET Admission Letter.",
+      "Student's SSLC/10",
+      "th",
+      "Marks Card Copy.",
+      "Student's Diploma/PUC Marks Card.",
+      "Indemnity Bond",
+      "(Download the from the KMDC Website).",
+      "Student’s College Bank Details.",
+      "Student Bonafide/Study Certificate.",
+      "Student Self-declaration Form",
+      "Parents Self-Declaration Form (Download the from the KMDC Website).",
+      "College Fee Structure",
+      "Document for Renewal Loan",
+      "Bonafide/Study Certificate.",
+      "College Fee Structure.",
+      "Previous Year Passed Marks Card.",
+      "College Bank Details.",
+      "Security Deposit Paid Receipt (12% of Loan Amount).",
+      "Copy of KEA Admission Order."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Login & Apply",
+      "Track Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Which courses are covered under the Arivu Education Loan Scheme?",
+      "answer": "The scheme covers courses such as M.B.B.S., M.D., M.S., B.E., B.Tech., M.E., M.Tech., B.D.S., M.D.S., B.Ayush, M.Ayush, M.B.A., M.C.A., L.L.B., B.Arch, M.Arch, and several B.Sc. courses, among others."
+    },
+    {
+      "question": "What is the loan amount provided under the scheme?",
+      "answer": "Loans range from ₹50,000 to ₹5,00,000 per year, depending on the course and selection criteria."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Students must belong to the State Religious Minority Community, be permanent residents of the state, and have a family income not exceeding ₹8,00,000 per annum."
+    },
+    {
+      "question": "Can students from other states apply for this loan?",
+      "answer": "No, only permanent residents of the state who belong to a Religious Minority Community are eligible."
+    },
+    {
+      "question": "What is the maximum loan amount for M.B.B.S. courses?",
+      "answer": "Students selected through CET/NEET for government or private colleges under the government quota are eligible for a maximum loan of ₹5,00,000."
+    },
+    {
+      "question": "Are there any specific loan limits for other courses like M.B.A., M.C.A., or L.L.B.?",
+      "answer": "Yes, a maximum tuition fee loan of ₹50,000 is provided for students opting for M.B.A., M.C.A., and L.L.B. courses through KEA."
+    },
+    {
+      "question": "How is the loan amount disbursed to the students?",
+      "answer": "The loan amount is transferred directly to the bank account of the respective college through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Applications must be submitted online through the Karnataka Minorities Development Corporation (KMDC) website."
+    },
+    {
+      "question": "Is there a renewal process for the loan each year?",
+      "answer": "Yes, students must apply for renewal and pay 12% of the loan amount issued by the corporation during the previous year at their respective District Office."
+    },
+    {
+      "question": "Are students pursuing B. Arch and M. Arch courses eligible for the loan?",
+      "answer": "Yes, students selected through CET/NEET under the government quota are eligible for a maximum loan of ₹50,000 for B. Arch and M. Arch courses."
+    },
+    {
+      "question": "What are the loan provisions for students in B.Sc. courses related to agriculture, veterinary, or food technology?",
+      "answer": "These students are eligible for a maximum loan of ₹50,000 if selected through CET/NEET under the government quota."
+    },
+    {
+      "question": "What if a student fails to renew the loan application on time?",
+      "answer": "Failure to renew the loan application on time could result in the discontinuation of loan benefits for the following academic year."
+    }
+  ]
+}

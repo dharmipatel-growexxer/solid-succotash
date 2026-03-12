@@ -1,0 +1,69 @@
+{
+  "scheme_name": "Saksham Scholarship",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ssduk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Saksham Scholarship",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The “Saksham Scholarship” is implemented by the Department of Technical Education, Government of Uttarakhand. The scheme aims to support meritorious differently-abled students pursuing graduate-level studies in the state by providing them with financial assistance in the form of scholarships."
+    ],
+    "benefits": [
+      "Financial assistance of ₹50,000/- per annum is provided for Graduate-level studies."
+    ],
+    "eligibility": [
+      "The applicant must be a student.",
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must have at least 40% disability.",
+      "The applicant’s annual family income must not exceed ₹8,00,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "These scholarships are administered by the All India Council for Technical Education (AICTE). Under the AICTE scheme, applications are invited through the",
+        "National Scholarship Portal",
+        "(NSP) between September and December, and scholarships are awarded on the basis of merit.",
+        "Applicants are required to submit their high school and intermediate mark sheets and certificates, along with an income certificate. For the Saksham Yojana, a valid disability certificate of at least 40%, issued by the competent authority, is also mandatory.",
+        "For all AICTE schemes, students must first apply online through the institute where they are studying. The application is verified by the Principal of the institute, then by the State Level Officer (S.L.O.), and finally forwarded to the AICTE, New Delhi, for approval."
+      ]
+    },
+    "documents_required": [
+      "High School and Intermediate mark sheets and certificates",
+      "Income certificate",
+      "Disability certificate of minimum 40% issued by the competent authority"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 99)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Eligible students receive ₹50,000 per annum as a scholarship for their graduate-level studies."
+    },
+    {
+      "question": "Who is eligible to apply for the Saksham Scholarship?",
+      "answer": "Differently-abled students with at least 40% disability, pursuing graduate-level studies in Uttarakhand, with an annual family income not exceeding ₹8 lakh, are eligible."
+    },
+    {
+      "question": "What is the minimum disability percentage required for eligibility?",
+      "answer": "Students must have at least 40% disability certified by a competent authority."
+    },
+    {
+      "question": "Is there an income limit for this scholarship?",
+      "answer": "Yes. The total annual family income should not exceed ₹8 lakh."
+    },
+    {
+      "question": "Where can students apply for the Scholarship?",
+      "answer": "Students can apply online through the National Scholarship Portal (NSP) between September and December every year."
+    },
+    {
+      "question": "Do students need to apply through their institution first?",
+      "answer": "Yes. Students must apply online through their institute, which will verify the application before forwarding it for further processing."
+    },
+    {
+      "question": "Who verifies the application after the institution?",
+      "answer": "The application is verified online by the concerned Principal, then by the State Level Officer (SLO), and finally forwarded to AICTE."
+    }
+  ]
+}

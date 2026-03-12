@@ -1,0 +1,123 @@
+{
+  "scheme_name": "Free Supply of Text Books",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fsotb",
+  "location_name": "Delhi",
+  "location_type": "union_territory",
+  "page_title": "Free Supply of Text Books",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Free Supply of Text Book\" by the Department of Education (DoE), Government of NCT of Delhi, aims to provide textbooks or cash in lieu of textbooks and writing material to students of Government and Aided Schools, ensuring equitable access to educational resources. The scheme offers financial assistance for purchasing textbooks and geometry boxes, with varying amounts based on class levels. Eligible beneficiaries include all students from Nursery to XII in Government and Aided Schools, irrespective of gender or income. The scheme is implemented by the Department of Education, GNCT of Delhi."
+    ],
+    "benefits": [
+      "Cash Subsidy for Textbooks and Writing Materials",
+      "Class 1st to 5th: ₹550/- per annum.",
+      "Class 6th, 7th, 11th, and 12th (Without Math): ₹800/- per annum.",
+      "Class 8th, 11th, and 12th (With Math): ₹830/- per annum.",
+      "Class 5th: ₹630/- per annum.",
+      "Class 10th: ₹730/- per annum.",
+      "Additional Support",
+      "Cash subsidy of ₹30/- per student for classes VIII, IX, and X, and for students of classes XI and XII who opt for Mathematics, for purchasing a Geometry Box.",
+      "Mode of Disbursement",
+      "For Cash Subsidies: The amount is transferred directly to the student’s/parent’s bank account.",
+      "For Textbooks: The school distributes the books to eligible students."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Delhi.",
+      "The applicant should be a student from Nursery to Class 12th.",
+      "The applicant should be enrolled in a Government or Aided School in Delhi.",
+      "The applicant should be attending classes regularly according to school norms."
+    ],
+    "application_process": {
+      "offline": [
+        "The scheme \"Free Supply of Textbooks\" does not require any formal application from students, as the process is managed by the school authorities. The school verifies the students' enrollment and class details, compiles a list of eligible students, and submits it to the Department of Education."
+      ]
+    },
+    "documents_required": [
+      "Admission Proof (Fee Receipt or School ID Card)",
+      "Class-wise Enrollment Details",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Do students in private unaided schools qualify for this financial support?",
+      "answer": "No, only students enrolled in Government or Aided Schools under the Department of Education, Delhi, are eligible."
+    },
+    {
+      "question": "Is there any income limit for families to avail this benefit?",
+      "answer": "No, the scheme does not impose any income restrictions; all students in eligible schools can avail the benefits."
+    },
+    {
+      "question": "Are students from all classes covered under this financial assistance program?",
+      "answer": "Yes, students from Nursery up to Class XII in Government or Aided Schools are included."
+    },
+    {
+      "question": "How much financial assistance is provided to students in Classes 1st to 5th?",
+      "answer": "Students in Classes 1st to 5th receive ₹550/- per annum for textbooks and writing materials."
+    },
+    {
+      "question": "What is the cash subsidy amount for students in Classes 6th and 7th without Mathematics?",
+      "answer": "Students in Classes 6th and 7th (without Mathematics) receive ₹800/- per annum for textbooks."
+    },
+    {
+      "question": "How much support is given to students in Classes 11th and 12th who study Mathematics?",
+      "answer": "Students in Classes 11th and 12th with Mathematics receive ₹830/- per annum for textbooks."
+    },
+    {
+      "question": "What additional benefit is provided to students in Classes VIII, IX, and X?",
+      "answer": "A cash subsidy of ₹30/- per student is given for purchasing a Geometry Box."
+    },
+    {
+      "question": "Is there any separate financial assistance for students in Class 5th?",
+      "answer": "Yes, students in Class 5th receive ₹630/- per annum for textbooks."
+    },
+    {
+      "question": "What is the subsidy amount for students in Class 10th?",
+      "answer": "Students in Class 10th receive ₹730/- per annum for textbooks and writing materials."
+    },
+    {
+      "question": "Do students need to apply separately to avail this financial assistance?",
+      "answer": "No, the process is managed by the school authorities, and no separate application is required."
+    },
+    {
+      "question": "How is the financial assistance disbursed to eligible students?",
+      "answer": "The amount is either provided as cash subsidy or distributed as textbooks through the school."
+    },
+    {
+      "question": "Are there any documents required from students to receive the benefits?",
+      "answer": "Schools verify enrollment, but no additional documents are needed from students for this scheme."
+    },
+    {
+      "question": "Is the Geometry Box subsidy available for all students in Classes VIII to XII?",
+      "answer": "Only students in Classes VIII, IX, and X, and those in XI and XII studying Mathematics, receive the ₹30/- subsidy."
+    },
+    {
+      "question": "Does the scheme cover both textbooks and writing materials?",
+      "answer": "Yes, the financial assistance includes support for textbooks and, in some cases, writing materials like Geometry Boxes."
+    },
+    {
+      "question": "Can students from Aided Schools avail the same benefits as Government School students?",
+      "answer": "Yes, students from both Government and Aided Schools under the Department of Education are eligible."
+    },
+    {
+      "question": "Is there any gender-based restriction for availing this financial assistance?",
+      "answer": "No, the scheme is open to all eligible students irrespective of gender."
+    },
+    {
+      "question": "How frequently is the financial assistance provided under this scheme?",
+      "answer": "The subsidy is provided annually to eligible students."
+    },
+    {
+      "question": "Is the Geometry Box subsidy provided in cash or as a physical item?",
+      "answer": "The ₹30/- subsidy is given in cash for students to purchase the Geometry Box themselves."
+    },
+    {
+      "question": "Do students in Class XII without Mathematics receive the same subsidy as those with Mathematics?",
+      "answer": "No, Class XII students without Mathematics receive ₹800/-, while those with Mathematics receive ₹830/-."
+    }
+  ]
+}

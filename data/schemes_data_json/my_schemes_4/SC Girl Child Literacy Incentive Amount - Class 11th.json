@@ -1,0 +1,85 @@
+{
+  "scheme_name": "SC Girl Child Literacy Incentive Amount - Class 11th",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/scgca",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "SC Girl Child Literacy Incentive Amount - Class 11th",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "Under this scheme, Scheduled Caste girl students studying in Class 11 receive financial support from the Government of Madhya Pradesh. The scheme aims to ensure that girls from SC communities continue their education without financial barriers. Applications are accepted online through the Shiksha Portal, and the eligible amount is directly transferred to the student’s account after verification."
+    ],
+    "benefits": [
+      "Eligible SC girl students of Class 11 receive an annual financial incentive of ₹3,000/-, credited directly to their bank account"
+    ],
+    "eligibility": [
+      "Applicant must be a scheduled Caste girl students.",
+      "Applicant should have a attested photocopy of the permanent caste certificate from the Sub-Divisional Officer (Revenue).",
+      "Applicant's father or guardian must not be an income tax payer and self-declaration.",
+      "The student must be in continuous study."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail of the benefits under this scheme, eligible students can contact the Principal of their respective government schools/institutions.",
+        "Note:",
+        "The student's profile is entered on the education portal",
+        "https://shikshaportal.mp.gov.in/",
+        "by the teacher of the educational institution as per the record/certificate provided by the student."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate (SC)",
+      "Domicile Certificate",
+      "Class 10 Marksheet",
+      "Bank Passbook",
+      "School Admission Proof",
+      "Recent Passport-size Photograph"
+    ],
+    "sources_and_references": [
+      "Guideline"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Only Scheduled Caste girl students studying in Class 11 in Madhya Pradesh."
+    },
+    {
+      "question": "What is the main objective of this scheme?",
+      "answer": "To encourage SC girl students to continue their education after Class 10."
+    },
+    {
+      "question": "Is this a state or central scheme?",
+      "answer": "It is a state scheme implemented by the School Education Department, Madhya Pradesh."
+    },
+    {
+      "question": "How much financial aid is provided?",
+      "answer": "₹3,000/- per year is given to each eligible student."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Applications are made online through the Shiksha Portal ."
+    },
+    {
+      "question": "Who uploads the student details online?",
+      "answer": "The respective school authorities upload the data."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, the application is completely free of cost."
+    },
+    {
+      "question": "How will the amount be disbursed?",
+      "answer": "The amount is directly transferred to the student’s bank account."
+    },
+    {
+      "question": "Is there any deadline for application submission?",
+      "answer": "Dates are notified on the Shiksha Portal."
+    },
+    {
+      "question": "Where can I check the status of my application?",
+      "answer": "You can track it on www.shikshaportal.mp.gov.in ."
+    }
+  ]
+}

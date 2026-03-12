@@ -1,0 +1,149 @@
+{
+  "scheme_name": "Pre- Matric Scholarships Scheme for Scheduled Castes & Others",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmsssc",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Pre- Matric Scholarships Scheme for Scheduled Castes & Others",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "This program provides financial aid to parents of children from Scheduled Castes and other disadvantaged groups to help them afford their children's education at the Pre-Matric level. The goal is to increase the participation of these children in education, reduce the dropout rate, especially during the transition from primary to secondary school, improve their academic performance, and increase their chances of continuing their education beyond the Pre-Matric stage."
+    ],
+    "benefits": [
+      "The students shall be given a consolidated academic allowance, as follows:",
+      "Day Scholar:",
+      "- ₹3,500/- per annum",
+      "Hosteller:",
+      "-",
+      "Component 1- ₹7,000/- per annum",
+      "Component 2- ₹8,000/- per annum (For Class III-X)",
+      "In addition, a 10% extra allowance shall be given to Divyang (Disabled) students."
+    ],
+    "eligibility": [
+      "The scholarships are open to Nationals of India only.",
+      "Component 1: Pre Matric Scholarship for SC students",
+      "Applicant students should be studying in class IX and X on a full time basis.",
+      "Applicant students should belong to a Scheduled Caste.",
+      "Parent/Guardian of applicant students income should not exceed Rs. 2.50 lakh per annum",
+      "Component 2: Pre-Matric scholarship for children of parents/guardians engaged in Unclean and hazardous Occupation",
+      "The students should be studying in classes I to X on a full time basis.",
+      "Scholarship will be admissible to the children/wards of parents/guardians who, irrespective of their caste/religion belong to one of the following categories",
+      "Persons who are Manual Scavengers.",
+      "Tanners & Flayers.",
+      "Waste pickers.",
+      "Persons engaged in hazardous cleaning.",
+      "There is no family income ceiling under this component of the Scheme.",
+      "Eligible for one scholarship at a time for classes I to X. Notify awarding body if another scholarship is received."
+    ],
+    "application_process": {
+      "online": [
+        "The applications are invited on the National Scholarship Portal (NSP) (",
+        "https://scholarships.gov.in/",
+        ") in the month of April every year.",
+        "New Registration:",
+        "Step 1:",
+        "Visit the New Registration page of the",
+        "National Scholarship Portal",
+        ".",
+        "Step 2:",
+        "Guidelines for Registration will appear. Scroll to the bottom. Read the undertaking carefully and accept the Terms. Click “Next”.",
+        "Step 3:",
+        "In the next window, enter your mobile number and OTP. Then click “Verify”.",
+        "Step 4:",
+        "After successful verification, continue with the e-KYC process (as applicable).",
+        "Step 5:",
+        "Once completed, your reference number will be generated, and the same will be sent to your registered phone number.",
+        "Process for OTR ID number generation:",
+        "Download and install",
+        "AadhaarFaceRD",
+        "services in the android device.",
+        "Download and install the",
+        "NSP OTR App",
+        "from the Google Play Store.",
+        "After opening the mobile app Select the option “eKYC with FaceAuth” highlighted in red.",
+        "Enter the allotted reference number and click on “Send OTP” to receive OTP on your mobile no.",
+        "Enter the received OTP and captcha in the screen and click Next.",
+        "Step 6:",
+        "Click on “Proceed for Face Authentication” button highlighted in red.",
+        "Step 7:",
+        "UIDAI AadhaarFaceRD services will be invoked for face authentication. Ensure AadhaarFaceRD services are preinstalled on your device.",
+        "Step 8:",
+        "On Successful completion of face-authentication OTR no. will be generated and will also be sent on your registered mobile no.",
+        "Fresh Application:",
+        "Visit the applicant Login page of the",
+        "National Scholarships Portal",
+        ". Enter your One Time Registration (OTR) number and password.",
+        "Type the Captcha and click “Login”.",
+        "On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen. Create a new password and confirm.",
+        "Click “Submit”. You will be directed to the “Applicant’s Dashboard”.",
+        "On the left pane, click “Application Form”. The fields marked as * are compulsory. Fill in the details and upload the documents.",
+        "You can either click on “Save as Draft” to complete the application later. Else, click “Final Submit” to submit the application.",
+        "Track Payment Status",
+        "Students can track their payment status from the “Know Your Payment” section in the",
+        "Public Financial Management System (PFMS) Portal",
+        "either by indicating their Aadhaar Number, Bank Account number, or NSP Application ID.",
+        "NOTE 1:",
+        "The National Scholarships Portal will provide the timelines for opening & closing of the portal.",
+        "NOTE 2:",
+        "Online applications will be verified at two levels i.e. by the Institute, where the student is studying and thereafter by the concerned State Higher Education Department or any other Agency/ Official nominated by the State as State Nodal Agency (both for fresh and renewal applicants).",
+        "NOTE 3:",
+        "Students will not be permanently debarred for scholarships due to delay in renewal or verification. However, students will have to submit renewal applications within a cut-off date. Renewal for that year will not be allowed if an applicant misses this deadline."
+      ]
+    },
+    "documents_required": [
+      "Photograph.",
+      "Academic Certificate.",
+      "Caste Certificate.",
+      "Income proof.",
+      "Domicile Certificate.",
+      "Bank Account Details.",
+      "Aadhaar Card."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "FAQ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is this scheme ?",
+      "answer": "The Pre-Matric Scholarship Scheme for Scheduled Castes & others is a Centrally Sponsored Scheme implemented by the Ministry of Social Justice and Empowerment, Government of India."
+    },
+    {
+      "question": "What are the main objective of the scheme?",
+      "answer": "This program provides financial aid to parents of children from Scheduled Castes and other disadvantaged groups to help them afford their children's education at the Pre-Matric level."
+    },
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "1. Day Scholar- Rs. 3,500/- per annum 2. Hosteller - Component 1- ₹ 7,000/- per annum Component 2- ₹ 8,000/- per annum (For Class III-X)"
+    },
+    {
+      "question": "What benefits are provided to the Disabled students ?",
+      "answer": "Along with the common benefits, in addition, a 10% extra allowance shall be given to Divyang (Disabled) students."
+    },
+    {
+      "question": "Who can get the benefits under Component 1?",
+      "answer": "1. The scholarships are open to Nationals of India only. 2. Applicant students should be studying in class IX and X on a full time basis 3. Applicant students should belong to a Scheduled Caste. 4. Parent/Guardian of applicant students income should not exceed Rs. 2.50 lakh per annum"
+    },
+    {
+      "question": "Which categories are fall under Component 2?",
+      "answer": "1. Persons who are Manual Scavengers. 2. Tanners & Flayers. 3. Waste pickers. 4. Persons engaged in hazardous cleaning."
+    },
+    {
+      "question": "Is there any relaxation for the component 2?",
+      "answer": "There is no family income ceiling under component 2."
+    },
+    {
+      "question": "What is the procedure to apply ?",
+      "answer": "1. Applicant must register them self on NSP portal. 2. Login with their credentials and apply."
+    },
+    {
+      "question": "What documents are required ?",
+      "answer": "1. Aadhaar Card. 2. Link mobile no. with Aadhaar. 3. Seed bank A/C with Aadhaar. 4. Academic Documents."
+    },
+    {
+      "question": "What is the NSP URL ?",
+      "answer": "URL :https://scholarships.gov.in/"
+    }
+  ]
+}

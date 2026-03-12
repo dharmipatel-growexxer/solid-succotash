@@ -1,0 +1,124 @@
+{
+  "scheme_name": "National Scholarship For Post Graduate Studies",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nsfpgs",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "National Scholarship For Post Graduate Studies",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The National Scholarship for Post-Graduate Studies (NSPG) scheme was established by the Ministry of Education, Government of India. The scheme was initially launched with the aim of providing financial assistance to meritorious students from economically weaker sections of society to pursue postgraduate studies in India."
+    ],
+    "benefits": [
+      "Scholarships of Rs.15,000/- per month for 10 months in a year."
+    ],
+    "eligibility": [
+      "Applicant must be pursuing first postgraduate degree.",
+      "Applicant who have already completed a postgraduate degree are not eligible to apply.",
+      "Applicant must be enrolled in first year of postgraduate program.",
+      "Applicant must be under 30 years old.",
+      "Applicant must be enrolled in full-time program.",
+      "Applicant must be pursuing recognized postgraduate degree program."
+    ],
+    "application_process": {
+      "online": [
+        "New Registration",
+        ":",
+        "Step 1:",
+        "Visit the",
+        "page of the National Scholarships Portal.",
+        "Step 2:",
+        "Guidelines for Registration will appear. Scroll to the bottom. Read the undertaking carefully and Accept the Terms. Click “Next”.",
+        "Step 3:",
+        "In the next window, enter your mobile number and OTP. Then click “Verify”.",
+        "Step 4:",
+        "After successful verification, continue with e-KYC process (as applicable).",
+        "Step 5:",
+        "Once completed, your reference number will be generated and the same will be sent to your registered phone number.",
+        "Process for OTR ID Number Generation",
+        "Download and install",
+        "AadhaarFaceRD",
+        "services in the android device.",
+        "Download and install the",
+        "NSP OTR",
+        "App from the Google Play Store.",
+        "After opening the mobile app Select the option “eKYC with FaceAuth” highlighted in red.",
+        "Enter the allotted reference number and click on “Send OTP” to receive OTP on your mobile no.",
+        "Enter the received OTP and captcha in the screen and click Next.",
+        "Step 6:",
+        "Click on “Proceed for Face Authentication” button highlighted in red.",
+        "Step 7:",
+        "UIDAI AadhaarFaceRD services will be invoked for face authentication. Ensure AadhaarFaceRD services are preinstalled on your device.",
+        "Step 8:",
+        "On Successful completion of face-authentication OTR no. will be generated and will also be sent on your registered mobile no.",
+        "Fresh Application",
+        "Visit the applicant",
+        "Login",
+        "page of the National Scholarships Portal Enter your One Time Registration (OTR) number and password.",
+        "Type the Captcha and click “Login”.",
+        "On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen. Create a new password and confirm.",
+        "Click “Submit”. You will be directed to the “Applicant’s Dashboard”.",
+        "On the left pane, click “Application Form”. The fields marked as * are compulsory. Fill in the details and upload the documents.",
+        "You can either click on “Save as Draft” to complete the application later. Else, click “Final Submit” to submit the application.",
+        "Track Payment Status",
+        "The student can track their payment status from the template “Know Your Payment” in the",
+        "Public Financial Management System (PFMS) Portal",
+        "either by indicating their Aadhaar Number, Bank Account number or NSP Application ID.",
+        "NOTE 1:",
+        "The National Scholarships Portal will provide the timelines for opening & closing of the portal.",
+        "NOTE 2:",
+        "Online applications will be verified at two levels i.e. by the Institute, where the student is studying and thereafter by the concerned State Higher Education Department or any other Agency/ Official nominated by the State as State Nodal Agency (both for fresh and renewal applicants).",
+        "NOTE 3:",
+        "Students will not be permanently debarred for scholarships due to delay in renewal or verification. However, students will have to submit renewal applications within a cut-off date. Renewal for that year will not be allowed if an applicant misses this deadline."
+      ]
+    },
+    "documents_required": [
+      "Attested copies of mark sheets and certificates from class IX onwards.",
+      "Attested copy of the provisional or final admission letter to the PG course.",
+      "Proof of identity (Aadhaar card, Voter ID card, Passport, PAN Card, Driving License).",
+      "Bank details.",
+      "Two recent passport size photographs."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is this scheme ?",
+      "answer": "A scheme started by Ministry of Education for the student Higher education."
+    },
+    {
+      "question": "What is the main objective of the scheme ?",
+      "answer": "The scheme was initially launched with the aim of providing financial assistance to meritorious students from economically weaker sections of society to pursue postgraduate studies in India."
+    },
+    {
+      "question": "What are the benefits of the scheme ?",
+      "answer": "Scholarships of Rs.15,000/- per month for 10 months in a year."
+    },
+    {
+      "question": "Who can get the benefits ?",
+      "answer": "All the students who full fill the eligibility criteria."
+    },
+    {
+      "question": "If a applicant already have the postgraduate degree, is he/she eligible to apply ?",
+      "answer": "Applicant must be pursuing first postgraduate degree. Applicant who have already completed a postgraduate degree are not eligible to apply."
+    },
+    {
+      "question": "On which year, student need to enroll for scholarship?",
+      "answer": "Applicant must be enrolled in first year of postgraduate program."
+    },
+    {
+      "question": "What is the maximum age to get the scholarship benefits?",
+      "answer": "Applicant must be under 30 years old."
+    },
+    {
+      "question": "Can applicant also apply for part time program ?",
+      "answer": "No. Applicant must be enrolled in full-time program."
+    },
+    {
+      "question": "How to apply for the scholarship ?",
+      "answer": "1. Applicant need to register themself on the portal. 2. Login with credential and apply."
+    }
+  ]
+}

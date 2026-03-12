@@ -1,0 +1,126 @@
+{
+  "scheme_name": "Higher Education Assistance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/heas",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Higher Education Assistance Scheme",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The \"Higher Education Assistance Scheme\" by the Gujarat Labour Welfare Board, Labour & Employment Department, Government of Gujarat, aims to provide encouragement to children of workers and reduce the financial burden of education by offering higher educational assistance to meritorious students, addressing the economic challenges faced by workers' families in pursuing quality education for their children. The scheme provides financial assistance of ₹20,000/- for students securing admission in Bachelor of Medicine Bachelor of Surgery courses and ₹10,000/- for students securing admission in any other graduate level courses for students who have passed Standard 12 board examination in the year 2024 with 70 percent or above percentile. The applicant must be a child of a worker whose parent is working in a factory or institution in Gujarat state and whose parent has been contributing to the Labour Welfare Fund office for the last one year. The applications for this scheme are accepted online. The application deadline is the last date of February of the respective year."
+    ],
+    "benefits": [
+      "Financial Assistance for Medical Education",
+      "Direct Benefit Transfer of ₹20,000/- for students securing admission in Bachelor of Medicine Bachelor of Surgery courses.",
+      "Financial Assistance for Other Graduate Courses",
+      "Direct Benefit Transfer of ₹10,000/- for students securing admission in any other graduate level courses."
+    ],
+    "eligibility": [
+      "The applicant must be a child of a worker employed in a factory or institution in Gujarat state.",
+      "The applicant must have passed 12th Standard board examination in the respective year.",
+      "The applicant must have secured 70% or above percentile in 12th Standard board examination.",
+      "The applicant must have secured admission in Bachelor of Medicine Bachelor of Surgery or any other graduate level course.",
+      "The applicant must ensure that their parent is working in a factory or institution located in Gujarat state.",
+      "The applicant must ensure that their parent has been contributing to the Labour Welfare Fund office for the last one year continuously.",
+      "The applicant must submit the application by the last date of February of the respective year.",
+      "The applicant must have completed 12th Standard examination specifically in the respective year."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process",
+        "Step 1:",
+        "The applicant must visit the",
+        "Sanman Portal",
+        "of the Gujarat Labour Welfare Board.",
+        "Step 2:",
+        "On the home page, navigate to the ‘Citizen Login’ tab, and click ‘Please Register Here’.",
+        "Step 3:",
+        "On the Registration page, provide your Aadhaar Card Number, select user type and then enter your Labour Welfare Fund Account Number. Click on ‘Fetch’ & verify the details. Enter user details and create a password.",
+        "The applicant must visit the Sanman Portal: https://sanman.gujarat.gov.in/ of the Gujarat Labour Welfare Board.",
+        "On the home page, navigate to the ‘Citizen Login’ tab, and click ‘Login’. Login using your User ID and Password.",
+        "Navigate to the Online Application Page of the scheme. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. For each uploaded document, the corresponding document number must be entered wherever required.",
+        "Step 4:",
+        "Click \"Submit\" to submit your application. You'll receive a confirmation message. A confirmation email with the application Number will be sent on the registered email ID.",
+        "*Applications made with incomplete/wrong details will not be entertained.",
+        "*The final decision regarding assistance will be with the Welfare Commissioner. The jurisdiction will be Ahmedabad."
+      ]
+    },
+    "documents_required": [
+      "Standard 12 Board Examination Mark Sheet.",
+      "Admission Confirmation Letter From College/University.",
+      "Parent Employment Certificate From Factory/Institution.",
+      "Labour Welfare Fund Contribution Proof.",
+      "Income Certificate Of Parent/Guardian.",
+      "Bank Account Details.",
+      "Aadhaar Card Of Student.",
+      "Aadhaar Card Of Parent/Guardian.",
+      "Bonafide Certificate From Educational Institution.",
+      "Caste Certificate (If Applicable).",
+      "Fee Receipt Of Educational Institution.",
+      "Identity Verification Documents As Required By Authorities.",
+      "Additional Academic Records If Requested During Verification."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Sanman Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the minimum percentage requirement I need to achieve in my Standard 12 board examination to qualify for this educational assistance?",
+      "answer": "You must have secured 70 percent or above percentile in Standard 12 board examination completed specifically in the year 2024 to be eligible."
+    },
+    {
+      "question": "How much financial assistance will I receive if I secure admission in a Bachelor of Medicine Bachelor of Surgery course?",
+      "answer": "Students securing admission in Bachelor of Medicine Bachelor of Surgery courses receive ₹20,000/- (Twenty Thousand Rupees) as one-time financial assistance."
+    },
+    {
+      "question": "What is the application deadline for submitting my request for higher education financial assistance and can I apply after this date?",
+      "answer": "Applications must be submitted by the last date of February of the respective year, and late submissions will not be entertained."
+    },
+    {
+      "question": "Can I receive this educational assistance if I have secured admission in a foreign university or international educational institution?",
+      "answer": "No, assistance will not be provided to students who have secured admission abroad or are pursuing education in foreign educational institutions."
+    },
+    {
+      "question": "What specific employment requirement must my parent fulfill regarding their workplace location to make me eligible for this assistance?",
+      "answer": "Your parent must be working in a factory or institution located in Gujarat state to meet the employment criteria for this scheme."
+    },
+    {
+      "question": "How much financial support will I receive if I get admission in engineering, commerce, or other graduate level courses besides medical programs?",
+      "answer": "Students securing admission in any other graduate level courses (excluding Bachelor of Medicine Bachelor of Surgery) receive ₹10,000/- (Ten Thousand Rupees) as assistance."
+    },
+    {
+      "question": "What is the minimum duration my parent must have been contributing to Labour Welfare Fund to make me eligible for application?",
+      "answer": "Your parent must have been contributing to the Labour Welfare Fund office for the last one year continuously before you can apply."
+    },
+    {
+      "question": "Where can I apply online for this higher education assistance and what is the official portal for submission of applications?",
+      "answer": "You can apply through the Sanman Portal at https://sanman.gujarat.gov.in/ of the Gujarat Labour Welfare Board using the online application system."
+    },
+    {
+      "question": "What specific academic year requirement must I meet regarding my Standard 12 examination to be considered for this educational assistance?",
+      "answer": "You must have passed Standard 12 board examination specifically in the year 2024; students from other academic years are not eligible."
+    },
+    {
+      "question": "Do I need to provide proof of my admission confirmation when applying for this higher education financial assistance program?",
+      "answer": "Yes, you must submit an Admission Confirmation Letter from College/University as part of the mandatory documentation during application."
+    },
+    {
+      "question": "What type of employment verification document must I obtain from my parent's workplace to support my application for assistance?",
+      "answer": "You need to provide a Parent Employment Certificate from Factory/Institution where your parent is currently working in Gujarat state."
+    },
+    {
+      "question": "Can I apply for this assistance if my parent works in Gujarat but I have secured admission in a college located in another state?",
+      "answer": "Yes, you can receive assistance for admission in graduate level courses in any recognized institution, regardless of location, as long as it's not abroad."
+    },
+    {
+      "question": "What banking and financial documents do I need to submit to receive the scholarship amount through Direct Benefit Transfer system?",
+      "answer": "You must provide bank account details and Income Certificate of Parent/Guardian as part of the required financial documentation for disbursement."
+    },
+    {
+      "question": "Who makes the final decision regarding approval or rejection of applications and which authority has jurisdiction over this assistance scheme?",
+      "answer": "The final decision regarding assistance rests with the Welfare Commissioner, and the jurisdiction for this scheme is Ahmedabad."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "scheme_name": "Sainik School Scholarship Located Outside the Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ssslos",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Sainik School Scholarship Located Outside the Uttarakhand",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Sainik School Scholarship Located Outside the Uttarakhand\" is implemented by the Secondary Education Department under the Department of Education, Government of Uttarakhand. The scheme aims to provide financial assistance to students from Uttarakhand who are studying in classes 6 to 12 at Sainik Schools located outside the state."
+    ],
+    "benefits": [
+      "Rate of Scholarships:",
+      "₹40,000/- per annum for students from families with a monthly income up to ₹12,000/-.",
+      "₹30,000/- per annum for students from families with a monthly income of ₹12,001/- to ₹15,000/-.",
+      "₹20,000/- per annum for students from families with a monthly income of ₹15,001/- to ₹18,000/-.",
+      "₹10,000/- per annum for students from families with a monthly income of ₹18,001/- to ₹22,000/-."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must be studying in Classes 6 to 12 in a Sainik School located outside Uttarakhand.",
+      "The scholarship will be awarded on the basis of the applicant’s family income.",
+      "The applicant is not eligible if the monthly family income exceeds ₹22,000/-."
+    ],
+    "application_process": {
+      "offline": [
+        "The student studying in a Sainik School located outside Uttarakhand will apply for a scholarship in that school.",
+        "Along with the application, the student must submit the following documents: a valid family income certificate issued by the tehsil, permanent residence certificate, Aadhaar card, and proof of an Aadhaar-linked bank account. All Sainik Schools located outside the state will forward the applications to Sainik School Ghorakhal. Sainik School Ghorakhal will compile the applications, prepare a proposal, and send it to the department.",
+        "The department will allocate funds to the concerned schools through Sainik School Ghorakhal, and the schools will disburse the scholarship to the students via DBT (Direct Benefit Transfer)."
+      ]
+    },
+    "documents_required": [
+      "A valid family income certificate issued by the tehsil",
+      "Permanent residence certificate",
+      "Aadhaar card",
+      "Proof of an Aadhaar-linked bank account"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 76)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scholarship?",
+      "answer": "The applicant must be a native of Uttarakhand and studying in Classes 6 to 12 in a Sainik School located outside the state."
+    },
+    {
+      "question": "On what basis are scholarships awarded?",
+      "answer": "Scholarships are awarded on the basis of the family’s monthly income."
+    },
+    {
+      "question": "What is the maximum income limit for eligibility?",
+      "answer": "Students from families with a monthly income above ₹22,000/- are not eligible."
+    },
+    {
+      "question": "From which classes can students apply?",
+      "answer": "Students studying in Classes 6 to 12 are eligible."
+    },
+    {
+      "question": "How does a student apply for the scholarship?",
+      "answer": "The student must apply through the concerned Sainik School where he/she is studying, along with the required documents."
+    },
+    {
+      "question": "Where are the applications submitted?",
+      "answer": "The applications are submitted in the Sainik School where the student is enrolled, which then forwards them to Sainik School Ghorakhal."
+    },
+    {
+      "question": "How are the scholarship funds allocated?",
+      "answer": "The Department of Education allocates funds to the concerned schools through Sainik School Ghorakhal."
+    }
+  ]
+}

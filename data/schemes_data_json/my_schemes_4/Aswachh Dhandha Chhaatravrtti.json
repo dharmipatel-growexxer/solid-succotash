@@ -1,0 +1,111 @@
+{
+  "scheme_name": "Aswachh Dhandha Chhaatravrtti",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/adc",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Aswachh Dhandha Chhaatravrtti",
+  "scraped_at": "2026-03-12 05:41:34 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Aswachh Dhandha Chhaatravrtti\" was launched by the Scheduled Caste Welfare Department, Government of Madhya Pradesh. The objective of the scheme is to motivate students from marginalized sections of society, whose parents are involved in unclean and hazardous occupations, to pursue their education. Under the scheme, financial assistance of ₹1,850/- per annum is provided as a scholarship to students from Class 1 to Class 10."
+    ],
+    "benefits": [
+      "Under this scheme, regular students studying in Class 1st to Class 10th are given a scholarship of ₹1,850/- per annum."
+    ],
+    "eligibility": [
+      "The applicant should belong to the Scheduled Caste or other deprived categories of society.",
+      "One or both parents of the applicant should be engaged in unclean/unhygienic occupations (Scavenger/Flayers/Tanner). Students whose parents left these occupations after 1997 are also eligible for the scheme.",
+      "The applicant should be a student.",
+      "The applicant should be studying in Class 1st to Class 10th.",
+      "Only two children from one family are eligible.",
+      "The applicant should be a native/resident of Madhya Pradesh.",
+      "The applicant is not eligible for any other state scholarship."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "Go to the official website of the \"",
+        "Madhya Pradesh Shiksha Portal",
+        "\" using a web browser.",
+        "Step 2:",
+        "Click on '",
+        "eKYC'",
+        ".",
+        "Step 3:",
+        "Enter your mobile number and captcha, then click on \"Get OTP.\"",
+        "Step 4:",
+        "Enter the OTP and go to the next page.",
+        "Step 5:",
+        "Enter your Samagra ID and captcha code, then click OK.",
+        "Step 6:",
+        "The student's basic information will be displayed, such as the names of the father and mother, date of birth, school, etc.",
+        "Step 7:",
+        "Click on Aadhar eKYC, enter your Aadhar number, and click to get OTP.",
+        "Step 8:",
+        "Enter the OTP and click 'Submit'.",
+        "Step 9:",
+        "Read all the information carefully before proceeding, then click on 'Submit'.",
+        "Process to apply for scheme benefits:",
+        "login",
+        "'.",
+        "Enter the User name, Password, Captcha, and click 'login'.",
+        "Click on 'Login' and select your scheme name.",
+        "After clicking your scheme name then enter your name, father's name, Samagra ID, Aadhar number, bank account, etc.",
+        "Step 6: Now upload your photo signature and important documents.",
+        "Remember, the fields marked with an asterisk (*) are mandatory.",
+        "After filling in all your information details and uploading the documents click 'submit'."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Passport-size photograph",
+      "Samagra ID",
+      "Caste certificate",
+      "Bank account details/Bank passbook",
+      "Unhygienic work Certificate by Tehsildar",
+      "Parent's work declaration certificate",
+      "Domicile certificate of Madhya Pradesh",
+      "Previous class passing mark sheet",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Application Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The objective of the scheme is to motivate students from marginalized sections of society to pursue their education by providing financial assistance."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Under the scheme, a scholarship of ₹1,850/- per annum is provided to eligible students from Class 1 to Class 10."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "The applicant should belong to the Scheduled Caste or other deprived categories of society, have parents engaged in unclean/unhygienic occupations, be a student studying in Class 1 to Class 10, be a native/resident of Madhya Pradesh, and not be receiving any other state scholarship."
+    },
+    {
+      "question": "Are students whose parents left unclean occupations after 1997 eligible?",
+      "answer": "Yes, students whose parents left unclean/unhygienic occupations after 1997 are also eligible for the scheme."
+    },
+    {
+      "question": "How many children from one family can benefit from the scheme?",
+      "answer": "Only two children from one family are eligible for the scholarship."
+    },
+    {
+      "question": "Can students from other states apply for the scholarship?",
+      "answer": "No, the applicant should be a native/resident of Madhya Pradesh."
+    },
+    {
+      "question": "Can students receiving other state scholarships apply for this scheme?",
+      "answer": "No, applicants receiving any other state scholarship are not eligible for this scheme."
+    },
+    {
+      "question": "How can eligible students apply for the scheme?",
+      "answer": "Eligible applicants can apply through the official Madhya Pradesh Shiksha Portal at https://shikshaportal.mp.gov.in/."
+    }
+  ]
+}

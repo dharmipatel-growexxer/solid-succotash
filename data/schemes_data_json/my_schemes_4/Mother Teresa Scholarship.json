@@ -1,0 +1,112 @@
+{
+  "scheme_name": "Mother Teresa Scholarship",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mtskrl",
+  "location_name": "Kerala",
+  "location_type": "state",
+  "page_title": "Mother Teresa Scholarship",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mother Teresa Scholarship (MTS)\" by the Department of Minority Welfare, Government of Kerala, aims to support the higher education of students belonging to minority communities. Through this scheme, an amount per annum is provided to students from minority religious communities domiciled in Kerala who are pursuing a diploma in nursing and paramedical courses from government, government-aided, and government-recognised private institutions. The scheme is implemented by the Directorate of Minority Welfare, Kerala."
+    ],
+    "benefits": [
+      "The selected candidates will receive a scholarship of ₹15,000/- per annum."
+    ],
+    "eligibility": [
+      "The applicant must be domiciled in Kerala.",
+      "The applicant must belong to the Muslim, Christian, Sikh, Buddhist, Parsi, or Jain communities.",
+      "The applicant must have received seats in nursing or paramedical courses on a merit basis (including in Government, Aided colleges and merit quota in Self-financing colleges).",
+      "The applicant must have secured 45% marks or more in the qualifying examination.",
+      "The applicant must have an annual family income less than ₹8,00,000/- from all sources if belonging to the Above Poverty Line (APL) category.",
+      "For students belonging to the Below Poverty Line (BPL) category, there is no income criteria."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Directorate of Minority Welfare.",
+        "Step 2:",
+        "Locate and click on the \"Scholarship\".",
+        "Step 3:",
+        "Navigate to the \"Scholarship\" menu link and click on \"Mother Teresa Scholarship (MTS)\".",
+        "Step 4:",
+        "Click on \"Apply Online\".",
+        "Step 5:",
+        "For new scholarship applicants, first complete one-time registration and log in with your candidate details.",
+        "Step 6:",
+        "In the Registration Form, carefully enter the details step-by-step under Examination details (register number/roll number), Personal details, and Scholarship details tabs.",
+        "Step 7:",
+        "In the Upload details tab, upload the required documents (Photo, Signature, SSLC Certificate, Income Certificate, Ration Card Copy, Allotment Memo) in JPEG format under 100 KB size each.",
+        "Step 8:",
+        "Only after uploading all required documents, the registration process will be considered complete.",
+        "Step 9:",
+        "After completing the application submission, use the View/Print Application link to take a printout of the application form.",
+        "Submission of Application Printout",
+        "After submitting the scholarship application (either through new registration or login), click on \"View/Print Application\" to get a printout of your registration form.",
+        "Submit the printout of the registration form along with all the required supporting documents to the head of the institution where you are studying, within the specified deadline."
+      ]
+    },
+    "documents_required": [
+      "Applicants Registration Form",
+      "Copy of Mark List of SSLC, PLASTA/VHSE, etc.",
+      "Copy of Allotment Memo",
+      "First Page of Bank Passbook (in applicant's own name, including Name, Account Number, Branch Code, Branch Address)",
+      "Copy of Aadhaar Card or NPR Card",
+      "Copy of Nativity Certificate",
+      "Copy of Community Certificate or Minority Certificate",
+      "Income Certificate (Assal) fromthe village office",
+      "Copy of Ration Card"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of this scholarship?",
+      "answer": "The main objective of this scheme is to support the higher education of students belonging to the minority communities in Kerala."
+    },
+    {
+      "question": "Which communities are eligible for this scholarship?",
+      "answer": "Students belonging to the Muslim, Christian, Sikh, Buddhist, Parsi, and Jain communities are eligible for this scholarship."
+    },
+    {
+      "question": "What kind of courses are covered under this scholarship?",
+      "answer": "This scholarship covers diploma courses in nursing and paramedical fields."
+    },
+    {
+      "question": "What types of institutions are recognized for pursuing these courses under the scholarship?",
+      "answer": "You must be pursuing your diploma from a government, government-aided, or government-recognised private institution."
+    },
+    {
+      "question": "Is there a minimum mark requirement in the qualifying examination to be eligible?",
+      "answer": "Yes, you must have secured 45% marks or more in your qualifying examination."
+    },
+    {
+      "question": "How do I need to secure my admission in the nursing or paramedical course?",
+      "answer": "You must have received your seat in nursing or paramedical courses on a merit basis."
+    },
+    {
+      "question": "If there are not enough female candidates, can male students still receive the scholarship?",
+      "answer": "Yes, if a certain percentage of female candidates are not available, then male students are eligible for the scholarship."
+    },
+    {
+      "question": "What documents do I need to submit along with my application form?",
+      "answer": "You need to submit copies of your mark list (SSLC, PLASTA/VHSE etc.), allotment memo, first page of your bank passbook, Aadhaar card or NPR card, nativity certificate, community or minority certificate, original income certificate from the village office, and ration card."
+    },
+    {
+      "question": "What happens if I am already registered on the dashboard?",
+      "answer": "If you are already registered, you can log in using your registered email ID."
+    },
+    {
+      "question": "What details do I need to fill in during the online registration portal step?",
+      "answer": "You need to fill in all required details, including personal details, educational details, and bank details."
+    },
+    {
+      "question": "What documents should the head of the institution ensure are enclosed with the application?",
+      "answer": "The Head of the Institution should ensure that the Income Certificate (ASSAL) and allotment memo are enclosed with the application."
+    }
+  ]
+}

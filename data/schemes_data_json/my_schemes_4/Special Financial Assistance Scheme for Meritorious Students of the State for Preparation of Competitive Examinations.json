@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Special Financial Assistance Scheme for Meritorious Students of the State for Preparation of Competitive Examinations",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sfasmsspce",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Special Financial Assistance Scheme for Meritorious Students of the State for Preparation of Competitive Examinations",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme 'Special Financial Assistance Scheme for Meritorious Students of the State for Preparation of Competitive Examinations' was launched by the Higher Education Department, Government of Uttarakhand. The scheme aims to provide financial support to meritorious students who have cleared the preliminary examination conducted by the State or Union Public Service Commission for Group 'A' and 'B' services, or the written examination for the Armed Forces (e.g., NDA, CDS, OTA, Indian Naval Academy, Indian Air Force Academy, etc.)."
+    ],
+    "benefits": [
+      "A one-time grant of ₹50,000/- per candidate is provided to eligible candidate."
+    ],
+    "eligibility": [
+      "The 100 candidates who qualify in the preliminary examination of Group ‘A’ and ‘B’ conducted by the State Public Service Commission.",
+      "The candidates must have passed the preliminary examination for Group 'A' or 'B', or the written examination for the Armed Forces (such as NDA, CDS, OTA, Indian Naval Academy, Indian Air Force Academy, etc.) conducted by the Union Public Service Commission.",
+      "The candidate must be a native or permanent resident of Uttarakhand.",
+      "The candidate must have passed Graduate/Postgraduate examinations, or the minimum educational qualification prescribed for the above services, from recognized educational institutions (regular/open) located in the State of Uttarakhand.",
+      "The total annual family income of the candidate from all sources should not exceed ₹5 lakh.",
+      "The candidate should not have availed the benefit of any other equivalent scheme of the State or Central Government.",
+      "A candidate who is engaged in any job/business/profession, or whose spouse is engaged in any job/business/profession, will not be eligible for the benefit."
+    ],
+    "application_process": {
+      "offline": [
+        "Within three months of the declaration of the results of the preliminary examination for Group 'A' and 'B' conducted by the State Public Service Commission or the Union Public Service Commission, and during the training period after passing the written examination for the Armed Forces, applicants must download the application form from the Higher Education Department’s website (",
+        "https://he.uk.gov.in/",
+        ") and attach the following documents: Aadhaar Card, PAN Card, Bank account details, Permanent residence certificate, Income certificate, High School/Intermediate/Graduate/Postgraduate/Equivalent educational certificates, Result and admit card of the preliminary examination (for State/Union Public Service Commission), Certificate and admit card of the written examination (for Armed Forces).",
+        "The completed application form, along with the above documents, must be submitted to the Directorate of Higher Education, Haldwani. Currently, the application process is offline.",
+        "The online application process is being developed through the Samarth portal. After the preliminary scrutiny of applications at the Directorate level, a designated committee approves and releases an amount of ₹50,000. This benefit is provided to the first 100 candidates of the State Public Service Commission and to all eligible candidates of the Union Public Service Commission and Armed Forces, after verification of the required documents."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Bank Account Passbook (Aadhaar-linked)",
+      "Permanent Residence Certificate",
+      "Income Certificate",
+      "Educational Certificates (High School, Intermediate, Graduation, Post-Graduation or equivalent)",
+      "Result and Admit Card of Preliminary Exam passed (UKPSC/UPSC)",
+      "Certificate and Admit Card of the Written Exam passed (In case of Armed Forces)"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 84)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Students from Uttarakhand who passed Group 'A' or 'B' prelims of UPSC/UKPSC or Armed Forces."
+    },
+    {
+      "question": "What is the benefit amount?",
+      "answer": "Financial assistance of ₹50,000/- per candidate."
+    },
+    {
+      "question": "Can non-residents of Uttarakhand apply?",
+      "answer": "No, only natives or permanent residents are eligible."
+    },
+    {
+      "question": "Is the grant given every year?",
+      "answer": "No, it is a one-time grant."
+    },
+    {
+      "question": "What if I passed the exam last year?",
+      "answer": "The application must be submitted within 3 months of the result declaration."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Directorate of Higher Education, Haldwani."
+    },
+    {
+      "question": "Is the application process online?",
+      "answer": "Currently process is offline and online via Samarth portal is under process."
+    },
+    {
+      "question": "Can employed candidates apply?",
+      "answer": "No, employment of self or spouse disqualifies eligibility."
+    },
+    {
+      "question": "What is the income limit for eligibility?",
+      "answer": "₹5,00,000 per annum (total family income)."
+    },
+    {
+      "question": "Where can I get more information?",
+      "answer": "Visit the Directorate of Higher Education, Haldwani office or official portal https://he.uk.gov.in /."
+    }
+  ]
+}

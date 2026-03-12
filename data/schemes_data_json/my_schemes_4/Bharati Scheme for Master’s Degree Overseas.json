@@ -1,0 +1,111 @@
+{
+  "scheme_name": "Bharati Scheme for Master’s Degree Overseas",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bsmdo",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "Bharati Scheme for Master’s Degree Overseas",
+  "scraped_at": "2026-03-12 05:41:34 UTC",
+  "sections": {
+    "details": [
+      "Andhra Pradesh Brahmin Welfare Corporation (ABC), a Government of Andhra Pradesh undertaking, is introducing the “Bharati Scheme for Master’s Degree Overseas” (BS-MDO) for the year 2019-20, for the Brahmin students of Andhra Pradesh. Under this scheme, a specified amount shall be released to the selected applicants, as one-time financial assistance. This scheme is applicable to students of Andhra Pradesh covering all 13 districts."
+    ],
+    "benefits": [
+      "Any course being pursued abroad with a duration of 11 to 18 months: ₹5,00,000/-.",
+      "Master’s Degree Programme being pursued abroad with a minimum of 18 months duration: ₹10,00,000/-."
+    ],
+    "eligibility": [
+      "The student and his/her parents should belong to the Brahmin community.",
+      "The student's parents should reside in Andhra Pradesh.",
+      "The annual income of parents/guardians should not exceed ₹6,00,000/-.",
+      "The student should have been admitted in any master's degree course overseas (at least 12 months duration) in a reputed institution, during the years 2019-20 Or should be pursuing the final year of the PEC course overseas, in collaboration with the Indian university/institute.",
+      "The student who has already availed benefit earlier will not be eligible.",
+      "The student should not have availed himself/ herself of any amount from any other government scheme for the same purpose."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step-01:",
+        "Applicants have to visit the",
+        "official website",
+        "and click on",
+        "Scheme",
+        ".",
+        "Step-02:",
+        "Click on \"Registration\" under the concerned scheme name.",
+        "Step-03:",
+        "Fill out the application form with required details like:",
+        "Personal Details: Name, Residence address, Aadhaar no, Ration card no, Bank detail etc",
+        "Upload: Photo, Signature and Certificate Details",
+        "Documents: Birth Certificate, Residential Certificate, Aadhaar Card, Caste Certificate, Bank Passbook etc",
+        "Finalize and \"Submit\" the application.",
+        "Step-04:",
+        "Receive the reference number after the submission.",
+        "Check Application Status:",
+        "Click on the “Services” link on the menu and select \"",
+        "Know your status",
+        "\".",
+        "Enter the Reference or Mobile or Aadhaar Card Number to get the application status.",
+        "Select the \"Financial Year\" and Fetch the details.",
+        "Download the Acknowledgement slip:",
+        "Click on the \"Acknowledgement Slip\" under the concerned scheme.",
+        "Enter the Aadhaar Card Number and select the \"Scheme\".",
+        "Click on the \"Submit\"."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Cards of the Student.",
+      "Caste Certificate of the Student.",
+      "Income certificate (issued by MeeSeva).",
+      "Senior Secondary Certificate and Qualifying Degree Certificate.",
+      "SB Account Passbook in Andhra Bank or State Bank of India (account must be in the name of applicant).",
+      "Passport-size Photograph (in jpeg format of maximum 50 kb).",
+      "Proof of Admission and Fees paid into any Master’s Degree Course Overseas in any reputed institution Or Proof of Collaboration Letter between the two universities/ institutes, in case of Final year PEC course abroad.",
+      "Passport, VISA, Air Ticket, and Form –i20 or equivalent in one PDF."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the BS-MDO scheme?",
+      "answer": "To be eligible, the student and both parents must belong to the Brahmin community and reside in Andhra Pradesh, and have secured admission to a Master's degree course overseas or be pursuing the final year of a PEC course in collaboration with a foreign university."
+    },
+    {
+      "question": "What are the income criteria for the parents/guardians of the applicant?",
+      "answer": "The annual income of the parents/guardians should not exceed ₹6,00,000."
+    },
+    {
+      "question": "Is the scheme applicable for students from all districts of Andhra Pradesh?",
+      "answer": "Yes, the scheme is applicable to students from all 13 districts of Andhra Pradesh."
+    },
+    {
+      "question": "What type of courses are covered under the BS-MDO scheme?",
+      "answer": "The scheme covers any Master's degree course overseas with a minimum duration of 12 months. It also covers students pursuing the final year of a PEC course overseas in collaboration with an Indian university/institute."
+    },
+    {
+      "question": "Can students who are already receiving benefits from other government schemes apply for BS-MDO?",
+      "answer": "No, students who have availed themselves of any amount from any other government scheme for the same purpose are not eligible for BS-MDO."
+    },
+    {
+      "question": "How can students apply for the BS-MDO scheme?",
+      "answer": "Eligible candidates must fill out their application online at www.andhrabrahmin.ap.gov.in in the prescribed format and upload the required documents."
+    },
+    {
+      "question": "What is the last date to apply for the BS-MDO scheme for the year?",
+      "answer": "The specific last date for application submission should be checked on the official website www.andhrabrahmin.ap.gov.in or the scheme notification."
+    },
+    {
+      "question": "How will the financial assistance be disbursed to the selected applicants?",
+      "answer": "The financial assistance will be transferred online to the selected applicants' Savings Bank Accounts in Andhra Bank or State Bank of India."
+    },
+    {
+      "question": "Can students studying in Indian universities with part of their course abroad apply for BS-MDO?",
+      "answer": "Yes, students pursuing the final year of a PEC course overseas in collaboration with an Indian university/institute are eligible to apply."
+    },
+    {
+      "question": "What documents are required to be uploaded with the online application?",
+      "answer": "Aadhar Cards of the student, Caste certificate and income certificate issued by MeeSeva in one PDF, SSC and Qualifying Degree certificates, SB Account Passbook in Andhra Bank or State Bank of India (in the applicant's name), Passport size photograph (in jpeg format, maximum 50 kb), Proof of admission and fees paid for any Master’s Degree Course Overseas or proof of collaboration letter between the universities (for final year PEC course abroad), Passport, VISA, Air Ticket, and Form i20 or equivalent in one PDF"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scheme_name": "Swanath Scholarship Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sssuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Swanath Scholarship Scheme",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The “Swanath Scholarship Scheme” is implemented by the Department of Technical Education, Government of Uttarakhand. The scheme aims to provide financial support to diploma and graduate-level students who are orphans, whose parents or either parent has died due to COVID-19, or who are dependents of martyrs from the military or central armed forces."
+    ],
+    "benefits": [
+      "Eligible students at the diploma or graduation level will receive financial assistance of ₹50,000/- per annum."
+    ],
+    "eligibility": [
+      "The applicant must be a student.",
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an orphan, have lost one or both parents due to COVID-19, or be a dependent of a martyr from the military or central armed forces.",
+      "The applicant’s annual family income must not exceed ₹8,00,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "These scholarships are administered by the All India Council for Technical Education (AICTE). Applications under the AICTE schemes are invited through the",
+        "National Scholarship Portal",
+        "(NSP) between September and December, and scholarships are awarded based on merit.",
+        "Applicants are required to submit their high school and intermediate mark sheets and certificates, along with an income certificate. For this scheme, the death certificate of the candidate’s parent(s) is also required.",
+        "Students must first apply online through the institute where they are enrolled. The application is then verified by the concerned Principal, followed by verification by the State Level Officer (SLO), and finally forwarded to the AICTE, New Delhi."
+      ]
+    },
+    "documents_required": [
+      "High School and Intermediate mark sheets and certificates",
+      "Income certificate",
+      "Death certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 99)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scholarship?",
+      "answer": "Orphans, students whose parents or either parent has died due to COVID-19, or dependents of martyrs in any military or central armed forces with an annual family income of up to ₹8 lakh."
+    },
+    {
+      "question": "What is the amount of financial assistance under this scheme?",
+      "answer": "Eligible students receive ₹50,000 per annum for diploma or graduation-level studies."
+    },
+    {
+      "question": "Which courses are covered under this scheme?",
+      "answer": "Diploma and graduation-level courses in recognized institutions."
+    },
+    {
+      "question": "How are applications invited?",
+      "answer": "Applications are invited through the National Scholarship Portal (NSP) between September and December each year."
+    },
+    {
+      "question": "Where should students apply for the scholarship?",
+      "answer": "Students must first apply online through their respective institutes."
+    },
+    {
+      "question": "What is the verification process for applications?",
+      "answer": "Applications are first verified by the concerned Principal, then by the State Level Officer (SLO), and finally forwarded to AICTE, New Delhi for approval."
+    }
+  ]
+}

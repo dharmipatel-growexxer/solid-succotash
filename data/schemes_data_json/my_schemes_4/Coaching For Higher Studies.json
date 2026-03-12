@@ -1,0 +1,112 @@
+{
+  "scheme_name": "Coaching For Higher Studies",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/chs-assam",
+  "location_name": "Assam",
+  "location_type": "state",
+  "page_title": "Coaching For Higher Studies",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Coaching for Higher Studies\" was launched by the Directorate of Tea Tribes and Adivasi Welfare, Government of Assam. The scheme aims to provide coaching to students of Tea Tribes and Adivasi community for preparing them for various competitive examinations like Civil Services, Medical, Engineering, Staff Selection Committee (Graduate level), Banking (Probationary Officers), etc. so that they are able to compete with other candidates and succeed. The applications for this scheme are accepted online."
+    ],
+    "benefits": [
+      "Provision of coaching to students for preparing them for various competitive examinations like Civil Services, Medical, Engineering, Staff Selection Committee (Graduate level), and Banking (Probationary Officers), to enable them to compete with other candidates and succeed."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Assam.",
+      "The applicant must belong to the Tea Tribes and Adivasi community.",
+      "The applicant must secure the requisite percentage of marks in the qualifying examination prescribed for the desired coaching, based on subject matter and on the available seats.",
+      "For Undergraduate students who are preparing for medical entrance examinations,",
+      "the applicant should be from the science stream with Physics, Chemistry, and Biology.",
+      "For Undergraduate students who are preparing for engineering entrance examinations,",
+      "the applicant should be from the science stream with Physics, Chemistry, and Maths."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Portal Access and Scheme Selection",
+        "A. Navigating to the Portal:",
+        "The applicant must first open the official Tea Tribes Welfare Department URL, www.ttwd.assam.gov.in, and then click the \"Online Application\" link to be redirected to the",
+        "SIRISH application portal",
+        ".",
+        "B. Initial Login or Registration:",
+        "New users must register themselves on the online portal, while existing users will log in using the username and password created during prior registration.",
+        "C. Selecting the Scheme:",
+        "Once the applicant is logged into the Dashboard, they must select the appropriate scholarship scheme from the dropdown menu available.",
+        "Step 2:",
+        "Entering Personal Details",
+        "A. Inputting Mandatory Data:",
+        "Enter \"Personal Details\" where all required information in the application form must be accurately provided.",
+        "B. Specifying Location Details:",
+        "Location data, including District, Assembly Constituency, and Sub-Division, must be selected, along with other essential address details like Village/Town.",
+        "C. Saving Personal Information:",
+        "After filling in all necessary fields in this step, click on the \"Save Form Details\" button to proceed further with the application.",
+        "Step 3:",
+        "Document Upload",
+        "A. Uploading Required Files:",
+        "Under the \"Upload Documents\" tab, upload all required supporting documents in the specified image formats (e.g., JPG/JPEG).",
+        "B. Document Formatting Check:",
+        "All uploaded documents must adhere to specified maximum file sizes (e.g., photo maximum 50 KB, other documents generally 100 KB) before they can be saved.",
+        "Step 4:",
+        "Updating Bank Details",
+        "A. Providing Account Information:",
+        "Enter the Bank Account Number and the name of the bank under the \"Update Bank Details\" tab.",
+        "B. Entering Branch Identification:",
+        "Details essential for electronic transfer, specifically the Bank Branch Name and the corresponding IFSC Code, must be accurately provided.",
+        "C. Securing Financial Data:",
+        "Once all bank details have been correctly entered, click on the \"Save Bank Details\" button to confirm the information.",
+        "Step 5:",
+        "Preview and Final Submission",
+        "A. Application Review:",
+        "\"Preview Application\" displays all details entered in the form for a thorough and final check.",
+        "B. Final Confirmation:",
+        "After cross-checking all information and uploaded documents for accuracy, the applicant must confirm the application by clicking the \"Proceed with Submit Application\" button.",
+        "C. Tracking Status:",
+        "Upon successful submission, an application number will be visible on the screen, allowing the applicant to view the status under the \"APPLICATION STATUS\" tab."
+      ]
+    },
+    "documents_required": [
+      "Original Copy Of Birth Certificate/Higher Secondary Leaving Certificate Admit/Pass Certificate (As Age Proof).",
+      "Original Copy Of Caste Certificate.",
+      "Undertaking On Family Income As Per Attached Format.",
+      "Original Copy Of Mark-Sheet Of Last Examination Passed.",
+      "Original Copy Of Aadhaar Card.",
+      "First Page Of Applicant’s Bank Passbook.",
+      "Necessary Documents Regarding His Or Her Qualifications For Undergoing The Coaching."
+    ],
+    "sources_and_references": [
+      "Online Application",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What specific documents are mandatory to produce in order to verify my community affiliation as part of the application process?",
+      "answer": "The applicant must produce a valid Caste certificate which is duly certified or issued by the District Commissioner of the concerned district or his or her designated officer."
+    },
+    {
+      "question": "If I am currently an undergraduate student seeking preparation for medical entrance examinations, what must my academic stream consist of to qualify for coaching?",
+      "answer": "Undergraduate students preparing for medical entrance examinations should belong to the science stream with Physics, Chemistry, and Biology."
+    },
+    {
+      "question": "Am I eligible to apply for this competitive examination coaching program if I have already received financial assistance for a coaching program from this Directorate in the current year?",
+      "answer": "A candidate who has previously undergone coaching for any examination under financial assistance from this Directorate shall not be eligible for any other coaching in the same year."
+    },
+    {
+      "question": "What criteria determine whether my past academic performance is sufficient for selection into this coaching program?",
+      "answer": "Candidates must secure the requisite percentage of marks in the qualifying examination prescribed for the desired coaching, based on the specific subject matter and the number of available seats."
+    },
+    {
+      "question": "Must I be a permanent resident of the state of Assam, and what specific community must I belong to, in order to apply for this scheme?",
+      "answer": "The applicant must be a permanent resident of Assam and must belong specifically to the Tea Tribes and Adivasi community."
+    },
+    {
+      "question": "Are there specific documents related to my educational history that I must present to demonstrate my fitness for undergoing the requested coaching?",
+      "answer": "The applicant must provide necessary documents that verify his or her educational qualifications required for undertaking the relevant coaching program."
+    },
+    {
+      "question": "For undergraduate students applying for competitive coaching aimed at engineering entrance examinations, what science subjects are required in their academic stream?",
+      "answer": "Undergraduate students preparing for engineering entrance examinations should be from the science stream, specifically having studied Physics, Chemistry, and Maths."
+    }
+  ]
+}

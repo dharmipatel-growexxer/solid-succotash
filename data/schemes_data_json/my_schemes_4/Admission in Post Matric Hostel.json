@@ -1,0 +1,94 @@
+{
+  "scheme_name": "Admission in Post Matric Hostel",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/aipmh",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Admission in Post Matric Hostel",
+  "scraped_at": "2026-03-12 05:41:34 UTC",
+  "sections": {
+    "details": [
+      "The scheme was launched on 1st January 1900, the \"Admission in Post Matric Hostel\" scheme by the Backward Classes and Minorities Welfare Department, Government of Madhya Pradesh provides free accommodation to backward class students who are eligible for the Post Matric Scholarship, studying in an educational institution near the hostel, and are not local residents."
+    ],
+    "benefits": [
+      "Providing free accommodation for education to backward class students"
+    ],
+    "eligibility": [
+      "The applicant should belong to the Backward Class.",
+      "The applicant should be studying in an educational institution located near the hostel.",
+      "The applicant should not be a resident."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the Office of the Collector, Assistant Director, Backward Classes and Minority Welfare Department District Office and request the hard copy of the prescribed format of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Domicile Certificate",
+      "Income Certificate",
+      "Previous Year’s Marksheet",
+      "Admission Proof",
+      "Aadhar Card",
+      "Residence Proof",
+      "Passport Size Photographs"
+    ],
+    "sources_and_references": [
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Admission in Post Matric Hostel\" scheme?",
+      "answer": "It is a government initiative by the Backward Classes and Minorities Welfare Department, Madhya Pradesh, providing free accommodation to backward class students for their education"
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Students belonging to the backward class, studying post-matric courses, and eligible for the Post Matric Scholarship."
+    },
+    {
+      "question": "Can local residents apply for this scheme?",
+      "answer": "Only non-local students studying in an educational institution near the hostel are eligible."
+    },
+    {
+      "question": "What facilities are provided under this scheme?",
+      "answer": "Free accommodation, along with basic hostel amenities such as beds, study space, and sanitation facilities."
+    },
+    {
+      "question": "Is food included in the hostel facilities?",
+      "answer": "No, only accommodation is provided; food and other personal expenses are to be managed by the students."
+    },
+    {
+      "question": "How can a student apply for the hostel?",
+      "answer": "Students can apply online through the official Madhya Pradesh government portal or visit the district welfare office for offline applications."
+    },
+    {
+      "question": "What documents are required for admission?",
+      "answer": "Documents such as caste certificate, domicile certificate, income certificate, admission proof, previous year’s marksheet, Aadhar card, and passport-size photographs."
+    },
+    {
+      "question": "Is there any income limit for eligibility?",
+      "answer": "Yes, the student's family income should be within the limit prescribed under the Post Matric Scholarship Scheme."
+    },
+    {
+      "question": "What happens if a student fails in exams?",
+      "answer": "The student may lose hostel eligibility in the next academic session if they fail to maintain academic progress."
+    },
+    {
+      "question": "Can students from private institutions apply?",
+      "answer": "Yes, as long as the institution is recognized and the student meets all eligibility criteria."
+    },
+    {
+      "question": "Who should be contacted for further queries?",
+      "answer": "Students can contact the Backward Classes and Minorities Welfare Department or visit their district welfare office for assistance."
+    }
+  ]
+}

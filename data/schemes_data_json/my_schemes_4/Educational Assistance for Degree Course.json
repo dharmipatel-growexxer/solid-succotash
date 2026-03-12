@@ -1,0 +1,98 @@
+{
+  "scheme_name": "Educational Assistance for Degree Course",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/eafdc",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Educational Assistance for Degree Course",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The Educational Assistance for Degree Course scheme was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra. The scheme provides financial assistance of ₹20,000/- per year to children of registered construction workers pursuing their undergraduate degrees. This benefit is also extended to the wife of a registered male worker."
+    ],
+    "benefits": [
+      "Financial assistance of ₹20,000/- per year for undergraduate students."
+    ],
+    "eligibility": [
+      "The children's parents or guardians should be registered under the Maharashtra Building and Other Construction Workers Welfare Board.",
+      "The student must be enrolled in a degree course (1st, 2nd, 3rd, or 4th year).",
+      "The benefit applies to a maximum of two children and the wife of a registered male worker."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant downloads the",
+        "application form",
+        "from the MBOCWW official website.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labor Commissioner/Government Labor Officer.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo.",
+      "Aadhaar Card.",
+      "Identity Card of Maharashtra Building and Other Construction Workers Welfare Board.",
+      "Bank Passbook.",
+      "Marksheet/School Certificate of passing in the previous academic level.",
+      "Acknowledgment/Bonafide of Admission in the current academic year.",
+      "Proof of Residence (One of Aadhaar Card/Passport/Driving Licence/Ration Sheet/Last Month's Electricity Bill/Gram Panchayat Certificate)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the financial assistance provided under this scheme?",
+      "answer": "The scheme provides ₹20,000 per year to students enrolled in a degree course."
+    },
+    {
+      "question": "How many children can benefit from this scheme?",
+      "answer": "A maximum of two children per registered worker can benefit."
+    },
+    {
+      "question": "Is this scheme available to the spouse of a registered worker?",
+      "answer": "Yes, the wife of a registered male construction worker is also eligible."
+    },
+    {
+      "question": "What are the eligibility criteria for this scheme?",
+      "answer": "The student must be pursuing an undergraduate degree, and the worker must be registered with the Maharashtra Building & Other Construction Workers Welfare Board."
+    },
+    {
+      "question": "Is the assistance provided for each year of the degree course?",
+      "answer": "Yes, the assistance is provided for 1st to 4th year of the degree course, if applicable."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "Required documents include the student's previous year’s mark sheet, proof of admission for the current year, Aadhaar card, and bank details."
+    },
+    {
+      "question": "Is this scheme applicable for students outside Maharashtra?",
+      "answer": "No, the scheme is only applicable for students and workers in Maharashtra."
+    },
+    {
+      "question": "What if my child is in a diploma course?",
+      "answer": "This scheme is specifically for degree courses, not diploma programs."
+    },
+    {
+      "question": "Can I apply for more than two children?",
+      "answer": "No, the scheme allows benefits for a maximum of two children."
+    },
+    {
+      "question": "Is there a minimum academic percentage required to qualify?",
+      "answer": "No, the scheme only requires the child to be enrolled and have passed the previous academic year."
+    },
+    {
+      "question": "Can this benefit be combined with other educational schemes?",
+      "answer": "No, this scheme cannot be combined with similar financial assistance programs."
+    },
+    {
+      "question": "Where do I submit the application form?",
+      "answer": "The form must be submitted to the nearest Labour Commissioner’s office or Government Labour Officer."
+    }
+  ]
+}

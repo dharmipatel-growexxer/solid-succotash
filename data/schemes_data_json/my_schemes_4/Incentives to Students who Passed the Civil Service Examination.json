@@ -1,0 +1,101 @@
+{
+  "scheme_name": "Incentives to Students who Passed the Civil Service Examination",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/itswptcse",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Incentives to Students who Passed the Civil Service Examination",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Incentives to Students Who Passed the Civil Service Examination\" is designed to provide incentives to candidates belonging to the Scheduled Tribe category who successfully clear the Civil Services Preliminary, Main, and Interview stages conducted by the Madhya Pradesh State Public Service Commission (MPPSC) and the Union Public Service Commission (UPSC)."
+    ],
+    "benefits": [
+      "Preliminary Exam Success (All India Civil Services): ₹40,000/-.",
+      "Main Exam Success (All India Civil Services): ₹60,000/-.",
+      "Successful After Interview (All India Civil Services): ₹50,000/-.",
+      "Preliminary Exam Success (Madhya Pradesh Civil Services): ₹20,000/-.",
+      "Main Exam Success (Madhya Pradesh Civil Services): ₹30,000/-.",
+      "Successful After Interview (Madhya Pradesh Civil Services): ₹25,000/-.",
+      "Second-Time Success: Candidates receive 50% of the incentive amount as mentioned above; no benefits are provided for third-time success."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Madhya Pradesh.",
+      "The applicant should belong to the Scheduled Tribe category.",
+      "The applicant should be successful in Civil Services exams (Preliminary, Main, Interview) conducted by MPPSC or UPSC.",
+      "The applicant is eligible for incentives only for the first success at each stage.",
+      "The applicant should is eligible to receive 50% of the incentive amount in case of second success.",
+      "The applicant will be ineligible for benefits after the third success."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Office of the Commissioner of Tribal Affairs, Madhya Pradesh and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "Bank Account Details",
+      "Passport-sized Photograph",
+      "Educational Documents",
+      "Self-attested Documents",
+      "Proof of Admission",
+      "Income Declaration",
+      "Bank Details"
+    ],
+    "sources_and_references": [
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "To provide financial incentives to Scheduled Tribe candidates who clear Civil Services exams."
+    },
+    {
+      "question": "Which exams are covered under this scheme?",
+      "answer": "The scheme covers Civil Services exams conducted by M.P. PSC and UPSC."
+    },
+    {
+      "question": "What is the incentive for passing the preliminary exam (All India Civil Services)?",
+      "answer": "₹40,000 for passing the preliminary exam."
+    },
+    {
+      "question": "What is the incentive for passing the main exam (All India Civil Services)?",
+      "answer": "₹60,000 for passing the main exam."
+    },
+    {
+      "question": "What is the incentive for being successful after the interview (All India Civil Services)?",
+      "answer": "₹50,000 for being successful after the interview."
+    },
+    {
+      "question": "Are there any incentives for M.P. Civil Services exam candidates?",
+      "answer": "Yes, ₹20,000 for the preliminary, ₹30,000 for the main, and ₹25,000 for the interview."
+    },
+    {
+      "question": "Is there any limit to how many times a candidate can receive the incentives?",
+      "answer": "The scheme provides incentives only once for each success stage."
+    },
+    {
+      "question": "What happens if a candidate passes the exam a second time?",
+      "answer": "They will receive 50% of the original incentive amount."
+    },
+    {
+      "question": "Is the incentive amount the same for each attempt?",
+      "answer": "No, the second attempt receives 50% of the original amount, and there are no benefits for the third attempt."
+    },
+    {
+      "question": "Are there any specific income limits for eligibility?",
+      "answer": "No, there are no income limits for candidates who pass the All India Civil Services exams."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scheme_name": "Free Shoe and Bag Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fsbsuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Free Shoe and Bag Scheme",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Free Shoes and Bags Scheme\" is implemented by the Basic Education Department under the Department of Education, Government of Uttarakhand. The scheme aims to provide financial assistance to students from Classes 1 to 8 studying in all government and government-aided schools for purchasing shoes and bags."
+    ],
+    "benefits": [
+      "Under this scheme, financial assistance is provided for purchasing shoes and bags for boys and girls as follows:",
+      "₹318/- per student for Classes 1 to 5",
+      "₹462/- per student for Classes 6 to 8",
+      "The amount is transferred directly to the students' account through Direct Benefit Transfer (DBT)."
+    ],
+    "eligibility": [
+      "The applicant must be a student of Classes 1 to 8 studying in any government or non-government aided school in Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "Students will receive the amount after submitting their Aadhaar card and bank account details to the Principal.",
+        "At the beginning of the academic session, the amount is transferred through Direct Benefit Transfer (DBT)."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank account Details"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 72)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible under this scheme?",
+      "answer": "Students studying in Classes 1 to 8 in all government and government-aided schools of Uttarakhand are eligible."
+    },
+    {
+      "question": "Are students of non-government aided schools also eligible?",
+      "answer": "Yes, students of recognized non-government aided schools in Uttarakhand are also eligible."
+    },
+    {
+      "question": "How much financial assistance is given under this scheme?",
+      "answer": "₹318 per student for Classes 1 to 5. ₹462 per student for Classes 6 to 8. ₹318 per student for Classes 1 to 5. ₹462 per student for Classes 6 to 8."
+    },
+    {
+      "question": "How is the amount provided to students?",
+      "answer": "The amount is directly transferred to the bank accounts of eligible students through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "What documents are required to receive the benefit?",
+      "answer": "Students need to provide their Aadhaar card and bank account details to the school principal."
+    },
+    {
+      "question": "When is the amount disbursed?",
+      "answer": "The amount is paid at the beginning of the academic session through DBT."
+    },
+    {
+      "question": "Is the scheme applicable only to boys or also to girls?",
+      "answer": "The scheme covers both boys and girls equally."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "scheme_name": "Financial Assistance for Private Self-Financed Technical Institutions",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fapsfti",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Financial Assistance for Private Self-Financed Technical Institutions",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The \"Financial Assistance for Private Self-Financed Technical Institutions\" scheme by the Higher, Technical Education & Skill Development Department, Government of Jharkhand, aims to enhance technical education by supporting private technical institutions. Under this scheme, financial assistance is provided to private engineering and polytechnic institutions for infrastructure development, modernization, and accreditation."
+    ],
+    "benefits": [
+      "Grant of up to ₹2,00,00,000/- for new private engineering institutions.",
+      "Grant of up to ₹1,00,00,000/- for new private polytechnic institutions for infrastructure development.",
+      "Grant of up to ₹6,00,00,000/- for existing engineering institutions.",
+      "Grant of up to ₹3,00,00,000/- for existing polytechnic institutions for upgrading facilities.",
+      "NOTE:",
+      "Assistance is provided in three equal installments.",
+      "Accreditation-linked funding: the second installment requires two NBA-accredited courses, and the third installment requires four NBA-accredited courses.",
+      "At least 60% of seats are reserved for local students of Jharkhand."
+    ],
+    "eligibility": [
+      "The institution should be a registered private self-financed engineering or polytechnic institute in Jharkhand.",
+      "The institution should have been operational for at least 5 years with audited financial statements.",
+      "The institution should have AICTE approval and affiliation with the State Board of Technical Education, Jharkhand or a recognized university.",
+      "The institution must comply with AICTE norms, including having qualified faculty and proper infrastructure."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Higher, Technical Education & Skill Development Department and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Higher, Technical Education & Skill Development Department.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Registered Deed & Mutation Certificate for land ownership",
+      "Registration Certificate of the Trust/Society/Company managing the institution",
+      "Audited Financial Statements (Last 5 years)",
+      "AICTE Approval Letter and Affiliation Documents",
+      "Income Tax Return (ITR) Certificate",
+      "Accreditation certificates (if applicable) from NBA"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Private self-financed engineering and polytechnic institutions in Jharkhand with AICTE approval."
+    },
+    {
+      "question": "What is the maximum financial assistance available?",
+      "answer": "Up to ₹6 crore for engineering institutions and ₹3 crore for polytechnic institutions."
+    },
+    {
+      "question": "Is this scheme applicable to new institutions?",
+      "answer": "Yes, up to ₹2 crore for new engineering institutions and ₹1 crore for new polytechnic institutions."
+    },
+    {
+      "question": "How is the grant disbursed?",
+      "answer": "In three equal installments, with accreditation conditions for subsequent installments."
+    },
+    {
+      "question": "What accreditation is required to receive full funding?",
+      "answer": "Two NBA-accredited courses for the second installment and four for the third."
+    },
+    {
+      "question": "Is land ownership mandatory for applying?",
+      "answer": "Yes, institutions must provide registered land documents."
+    },
+    {
+      "question": "Can an institution receive funding for infrastructure and upgradation separately?",
+      "answer": "No, previously received funds will be deducted from the maximum limit."
+    },
+    {
+      "question": "Who decides the approval of grant applications?",
+      "answer": "A departmental committee led by the Principal Secretary of Higher, Technical Education & Skill Development Department."
+    },
+    {
+      "question": "What happens if an institution fails to meet accreditation requirements?",
+      "answer": "The remaining installments will not be disbursed."
+    },
+    {
+      "question": "How should institutions apply for the grant?",
+      "answer": "Applications must be submitted to the Directorate of Technical Education, Jharkhand, with all required documents."
+    },
+    {
+      "question": "Can institutions use the grant for student scholarships?",
+      "answer": "No, the grant is strictly for infrastructure and quality improvement."
+    },
+    {
+      "question": "Who will monitor the implementation of funded projects?",
+      "answer": "The state government will nominate representatives to oversee the utilization of funds and compliance with scheme conditions."
+    }
+  ]
+}

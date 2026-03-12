@@ -1,0 +1,84 @@
+{
+  "scheme_name": "Post Metric Scholarship For OBC Students",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pms",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Post Metric Scholarship For OBC Students",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "Madhya Pradesh State government started a scholarship for student who belong to the OBC category. Now the students of the state will not be deprived of education due to financial constraints, because the Madhya Pradesh government will provide scholarships to the students. Through the scholarship, the state's literacy rate will also increase and also will encourage the student to higher education."
+    ],
+    "benefits": [
+      "The benefit of the scholarship depends on the annual family income of the students, institution, course, course subscriber, fee capping, etc.",
+      "All students whose annual family income is up to Rs 3,00,000, those students will be eligible for a 100% scholarship."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Madhya Pradesh.",
+      "Annual family income is up to Rs 3,00,000/-",
+      "Have passed Class 10.",
+      "Belong to the OBC category."
+    ],
+    "application_process": {
+      "online": [
+        "Applicants have to visit the",
+        "official website.",
+        "Applicants need to register himself/herself.",
+        "Fill out the required details.",
+        "Now login with credentials and fill out the application form.",
+        "And submit."
+      ]
+    },
+    "documents_required": [
+      "Samagra ID.",
+      "Current college code.",
+      "Income certificate of parents.",
+      "Aadhaar Card.",
+      "High School Marksheet.",
+      "Digital Caste Certificate (SC / ST / OBC).",
+      "Attested photocopies of documents.",
+      "Resident proof."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "May other cast categories student apply under this scheme ?",
+      "answer": "No, This is only for OBC Students."
+    },
+    {
+      "question": "May other state student apply ?",
+      "answer": "Only Students who are permanent residents of Madhya Pradesh."
+    },
+    {
+      "question": "What is the income criteria to eligible ?",
+      "answer": "Annual family income is up to Rs 3,00,000/-"
+    },
+    {
+      "question": "What are the benefits under scheme ?",
+      "answer": "Whose annual family income is up to Rs 3,00,000, those students will be eligible for a 100% scholarship."
+    },
+    {
+      "question": "What is the application process ?",
+      "answer": "1. Students have to register him/her self. 2. Fill out the online application form."
+    },
+    {
+      "question": "How a student register him/her self ?",
+      "answer": "1. First Students need to visit the following official portal. URL: http://www.scholarshipportal.mp.nic.in/Index.aspx 2. Click on the registration option. 3. Fill out the required details. 4. Submit."
+    },
+    {
+      "question": "What to fill application form ?",
+      "answer": "1. Open the following link. URL : http://www.scholarshipportal.mp.nic.in/sLogin.aspx 2. Log into the portal. 3. Fill out the online application form and provide the required details. 4. Submit"
+    },
+    {
+      "question": "What documents are required ?",
+      "answer": "1. Samagra ID. 2. Current college code. 3. Branch code. 4. Photograph of the applicant."
+    },
+    {
+      "question": "How to track the application status ?",
+      "answer": "1. Open the following link. URL : Https://Scholarshipportal.Mp.Nic.In/Public/View_ApplicantDocuments.Aspx 2. search the application with the application ID and Academic Year."
+    }
+  ]
+}

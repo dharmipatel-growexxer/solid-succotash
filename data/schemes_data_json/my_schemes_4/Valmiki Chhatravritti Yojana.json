@@ -1,0 +1,125 @@
+{
+  "scheme_name": "Valmiki Chhatravritti Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/vcy",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Valmiki Chhatravritti Yojana",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Valmiki Chhatravritti Yojana\" by the Department of Higher and Technical Education, Government of Jharkhand, aims to provide financial assistance and encouragement to orphaned and differently-abled students to pursue higher education. Under this scheme, students receive full tuition fee reimbursement up to ₹10,00,000 annually and a monthly sustenance allowance of ₹4,000/- for daily needs and study materials."
+    ],
+    "benefits": [
+      "₹4,000/- per month for daily needs and study materials."
+    ],
+    "eligibility": [
+      "General Criteria:",
+      "The applicant must be a resident of Jharkhand state or must have passed class 10",
+      "th",
+      "from a recognized school in Jharkhand for diploma courses or should have passed classes 10",
+      "and 12",
+      "from recognized schools/colleges in Jharkhand for degree or higher-level courses.",
+      "The applicant should be an orphaned/differently abled student.",
+      "The applicant's age should not exceed 40 years as of the application deadline.",
+      "Institutional Criteria:",
+      "Student enrolled in a recognized higher education institution in Jharkhand state or institutions ranked in the top 200 (overall category) or top 100 in discipline-specific categories in NIRF rankings or institutions with NAAC accreditation of 'A' grade or above or Institutes of National Importance or Institutions of Eminence.",
+      "The applicant is not enrolled under the AICTE tuition fee waiver and is not a current beneficiary of similar central/state/institution schemes. Existing tuition fee waiver/assistance recipients can only receive benefits from one source.",
+      "Specific Criteria:",
+      "For Orphan Students:",
+      "Defined under Section 2(42) of the Juvenile Justice (Care and Protection of Children) Act, 2015.",
+      "Valid death certificates of parents and relationship proof verified by the District Social Welfare Officer (DSWO).",
+      "For Differently-Abled Students:",
+      "Benchmark disability as per the Rights of Persons with Disabilities Act, 2016.",
+      "Valid Unique Disability ID (UDID) card verified by the DSWO in coordination with the Chief Medical Officer."
+    ],
+    "application_process": {
+      "online": [
+        "Online Application:",
+        "Visit the official portal managed by",
+        "Jharkhand Space Applications Center",
+        ".",
+        "Click on \"Register\" to fill mobile number, email ID, and generate a password.",
+        "Get the activation link to your registered email ID and click on the link to get confirmation \"Account has been activated successfully\".",
+        "Fill out the application form and upload the required documents.",
+        "Submit the application for verification by the District Social Welfare Officer.",
+        "Track the application status through the portal.",
+        "Approval and Disbursement:",
+        "Tuition fees are transferred directly to the institution.",
+        "Monthly sustenance allowance transferred to student bank account.",
+        "Renewal:",
+        "Submit annual renewal requests through the portal with the previous year's mark sheet.",
+        "Applicants must be promoted to the next academic year to remain eligible."
+      ]
+    },
+    "documents_required": [
+      "General Document:",
+      "Local Resident Certificate.",
+      "Class 10",
+      "th",
+      "and 12",
+      "Mark Sheets.",
+      "Diploma/Degree Certificate.",
+      "Document for Orphan Student:",
+      "Valid Death Certificates of Parents.",
+      "Relationship Document between Parents and Children.",
+      "Permanent Account Number (PAN) Card.",
+      "Valid Birth Certificate (issued by the competent authority).",
+      "Aadhaar Card.",
+      "Certificate.",
+      "Ration Card.",
+      "Family Membership Certificate.",
+      "Any other valid document issued by the State/Central Government.",
+      "Document for Disabled Student:",
+      "Disability Certificate or Unique Disability ID Card (for differently-abled applicants)"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the benefits under this scheme?",
+      "answer": "Full tuition fee coverage up to ₹10,00,000 annually and a monthly sustenance allowance of ₹4,000."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Orphaned and differently-abled students who are residents of Jharkhand and meet the eligibility criteria."
+    },
+    {
+      "question": "Is there an age limit to apply?",
+      "answer": "Yes, the applicant’s age should not exceed 40 years."
+    },
+    {
+      "question": "Can students enrolled outside Jharkhand apply?",
+      "answer": "Yes, if the institution is ranked within the top 200 (NIRF) or holds NAAC accreditation."
+    },
+    {
+      "question": "How is the tuition fee disbursed?",
+      "answer": "Directly to the educational institution."
+    },
+    {
+      "question": "Can students receiving benefits from other schemes apply?",
+      "answer": "No, this scheme is not applicable to those already availing similar benefits."
+    },
+    {
+      "question": "What happens if a student fails to get promoted to the next academic year?",
+      "answer": "The scholarship benefits will be discontinued."
+    },
+    {
+      "question": "Is renewal required each year?",
+      "answer": "Yes, renewal is mandatory, based on academic promotion and submission of the previous year’s mark sheet."
+    },
+    {
+      "question": "Are hostel or mess fees covered under the scheme?",
+      "answer": "No, the scheme covers only tuition fees."
+    },
+    {
+      "question": "How are grievances addressed?",
+      "answer": "Through the online portal with monitoring by the Directorate of Higher Education and Social Security."
+    },
+    {
+      "question": "What penalties exist for submitting false information?",
+      "answer": "Disqualification from the scheme and recovery of benefits with 12% compound interest."
+    }
+  ]
+}

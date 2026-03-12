@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Aam Aadmi Bima Yojana (Maharashtra)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/aabym",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Aam Aadmi Bima Yojana (Maharashtra)",
+  "scraped_at": "2026-03-12 05:41:34 UTC",
+  "sections": {
+    "details": [
+      "The \"Aam Aadmi Bima Yojana\" scheme is implemented by the Social Justice & Special Assistance Department, Government of Maharashtra. This Centrally Sponsored Scheme is aimed at providing insurance and scholarship benefits to landless laborers in rural areas, aged 18 to 59 years. The annual premium for each member is ₹200/-, with 50% of the premium subsidized by the State and Central Governments. The scheme covers all categories of beneficiaries and focuses on providing financial security through insurance and educational scholarships."
+    ],
+    "benefits": [
+      "Natural Death Benefit:",
+      "₹30,000 is payable to the nominee in case of natural death before the terminal date.",
+      "Accidental Death Benefit:",
+      "₹75,000 is payable to the nominee in case of death due to an accident.",
+      "Permanent Total Disability (Accident):",
+      "₹75,000 is provided in case of permanent total disability caused by an accident.",
+      "Loss of Two Eyes or Two Limbs (Accident):",
+      "₹75,000 is payable in case of loss of two eyes or two limbs in an accident.",
+      "Loss of One Eye or One Limb (Accident):",
+      "₹37,500 is payable in case of loss of one eye or one limb in an accident.",
+      "Scholarship Benefit:",
+      "₹100 per month is given as a scholarship to children of the insured studying in 9th to 12th standards. The scholarship is available for a maximum of two children per family."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Maharashtra.",
+      "The applicant's age should be between 18 and 59 years.",
+      "The applicant must be a landless labourer.",
+      "The applicant should be residing in a rural area.",
+      "The applicant's family should not own any agricultural land.",
+      "The applicant should not be covered under any other similar insurance scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Office of the Collector/Tahsildar/Talathi",
+        "and request a hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity",
+      "Proof of Age",
+      "Address Proof",
+      "Certificate of Landlessness",
+      "Passport-Sized Photographs",
+      "Income Certificate",
+      "Application Form",
+      "Self-Attestation",
+      "Additional Documents (if applicable)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Aam Aadmi Bima Yojana?",
+      "answer": "The Aam Aadmi Bima Yojana is a government-sponsored insurance scheme designed for landless laborers in rural areas, providing financial assistance in the event of natural or accidental death."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "The scheme is meant for landless laborers aged between 18 to 59 years residing in rural areas."
+    },
+    {
+      "question": "What is the premium amount for the scheme?",
+      "answer": "The annual premium is ₹200 per member, with 50% subsidized by both the State and Central Governments."
+    },
+    {
+      "question": "What benefits does the scheme provide?",
+      "answer": "The scheme offers financial assistance in case of natural death and accidental death, as well as disability benefits and scholarships for children studying in 9th to 12th grades."
+    },
+    {
+      "question": "How much financial assistance is provided in case of accidental death?",
+      "answer": "In the event of accidental death, ₹75,000 is payable to the nominee."
+    },
+    {
+      "question": "Are there any benefits for children under this scheme?",
+      "answer": "Yes, a scholarship of ₹100 per month is provided for each child studying in 9th to 12th standards, up to a maximum of two children per family."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Required documents include proof of identity, age, address, landlessness certificate, photographs, and an income certificate, among others."
+    },
+    {
+      "question": "Where can I obtain the application form?",
+      "answer": "The application form can be obtained from the Collector Office, Tahsildar, or Talathi during office hours."
+    },
+    {
+      "question": "Is there a specific time frame for submitting the application?",
+      "answer": "Yes, applications should be submitted within the prescribed period set by the relevant authorities."
+    },
+    {
+      "question": "What happens if I turn 60 years old while enrolled in the scheme?",
+      "answer": "Once you reach the age of 60, you will no longer be eligible for the Aam Aadmi Bima Yojana, but you may be eligible for other pension schemes."
+    }
+  ]
+}

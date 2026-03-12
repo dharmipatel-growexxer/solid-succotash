@@ -1,0 +1,76 @@
+{
+  "scheme_name": "Free Uniforms for Students",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fufs",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Free Uniforms for Students",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "Implemented by the School Education Department, Government of Madhya Pradesh, this state-sponsored initiative provides free uniforms to students of Classes 1 to 8 studying in government primary and middle schools. Launched on 1st July 2004, the scheme aims to promote regular attendance and reduce dropout rates among schoolchildren. Under this scheme, each boy is provided with two pairs of uniforms valued at ₹600, while each girl receives two pairs of stitched uniforms through the School Management Committee. The scheme extends its benefits to students across both rural and urban areas of the state."
+    ],
+    "benefits": [
+      "Each boy and girl student is provided ₹600/- for two sets of uniforms."
+    ],
+    "eligibility": [
+      "The applicant must be a student of a government primary or middle school in Madhya Pradesh.",
+      "Applicable for Classes 1 to 8.",
+      "Student must be enrolled before 15 August of the academic year."
+    ],
+    "application_process": {
+      "offline": [
+        "No separate application is required.",
+        "Eligible students enrolled in government schools are automatically covered under the scheme.",
+        "The benefit is distributed through the School Management Committee."
+      ]
+    },
+    "documents_required": [
+      "It should be provided as per the guidelines of the School Management Committee."
+    ],
+    "sources_and_references": [
+      "Guideline"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of this scheme?",
+      "answer": "To encourage regular attendance and continuity in education among school students."
+    },
+    {
+      "question": "Which students are eligible?",
+      "answer": "Students from Classes 1 to 8 studying in government schools."
+    },
+    {
+      "question": "Are private school students eligible?",
+      "answer": "No, the scheme is only for government school students."
+    },
+    {
+      "question": "When was the scheme launched?",
+      "answer": "On 1 July 2004."
+    },
+    {
+      "question": "How many uniforms are provided?",
+      "answer": "Two pairs of uniforms per student."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, the application is completely free."
+    },
+    {
+      "question": "What is the mode of benefit distribution?",
+      "answer": "Uniforms are distributed through the School Management Committee."
+    },
+    {
+      "question": "Is the scheme available in both urban and rural areas?",
+      "answer": "Yes, it covers both urban and rural regions."
+    },
+    {
+      "question": "Is there a deadline for inclusion?",
+      "answer": "Students must be enrolled before 15 August."
+    },
+    {
+      "question": "Is the scheme for both boys and girls?",
+      "answer": "Yes, it benefits both boys and girls equally."
+    }
+  ]
+}

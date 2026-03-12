@@ -1,0 +1,88 @@
+{
+  "scheme_name": "Economically Backward Class (EBC) Dashamottar Scholarship Scheme (Starting from Class 11)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ebcdssuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Economically Backward Class (EBC) Dashamottar Scholarship Scheme (Starting from Class 11)",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Economically Backward Class (EBC) Dashamottar Scholarship Scheme (Starting from Class 11)\" has been implemented by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to support Economically Backward Class (EBC) students of Uttarakhand from Class 11th onwards by providing financial assistance for their education, including tuition fees and other academic expenses."
+    ],
+    "benefits": [
+      "Total Amount = Educational Allowance + Tuition fee",
+      "Group 1:",
+      "₹20,000/- (₹10,000/- + ₹10,000/-)",
+      "Group 2:",
+      "₹13,000/- (₹8,000/- + ₹5,000/-)",
+      "Group 3:",
+      "₹8,000/- (₹6,000/- + ₹2,000/-)",
+      "Group 4:",
+      "₹5,000/- (₹5,000/- + ₹ 0)"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must belong to the Economically Backward Class (EBC) category.",
+      "The applicant must be enrolled in a recognized school/educational institution in Uttarakhand.",
+      "The applicant must be studying in Class 11 or higher level course.",
+      "The applicant must possess valid documents, such as Caste Certificate, Residence Certificate, Bank Passbook, Aadhaar Card, Photograph, Educational Qualification Certificates, and Income Certificate.",
+      "The total annual income of the parents/guardians from all sources must not exceed ₹2.5 lakh.",
+      "The scholarship will be available for one year only for studying in any class.",
+      "The applicant must have a counselling certificate."
+    ],
+    "application_process": {
+      "online": [
+        "Students apply online on the Government of India’s National Scholarship Portal (NSP) (",
+        "https://scholarships.gov.in",
+        ").",
+        "The following documents must be uploaded with the application: Caste Certificate, Residence Certificate, Bank Passbook, Aadhaar, Photograph, Educational Qualification Certificates, and Income Certificate.",
+        "The student submits the application to their educational institution using their own ID. The concerned educational institution forwards the received online application to the District Social Welfare Officer. The District Social Welfare Officer examines the received applications and conducts physical verification of the complete applications. Incomplete applications that can be corrected are temporarily marked as defective, while those that cannot be corrected are permanently rejected. The eligible applicants receive the scholarship amount directly in their bank accounts, subject to the availability of funds.",
+        "Procedure:",
+        "Step 1: The student registers and submits the application form online.",
+        "Step 2: The educational institution verifies the submitted applications.",
+        "Step 3: Physical verification of the students is conducted by the Social Welfare Department (DSWO) and/or a third-party agency appointed by the government.",
+        "Step 4: Online verification is completed at the Social Welfare Department (DSWO) level.",
+        "Step 5: The scholarship amount is disbursed to the students whose applications are fully verified, through the PFMS (Public Financial Management System)."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Photograph",
+      "Caste Certificate",
+      "Residence Certificate",
+      "Bank Passbook",
+      "Educational Qualification Documents",
+      "Income Certificate",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 20)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scholarship?",
+      "answer": "Students belonging to Economically Backward Classes who are residents of Uttarakhand and studying in a recognized school/institution can apply."
+    },
+    {
+      "question": "What is the annual income limit for eligibility?",
+      "answer": "The total annual income of parents/guardians from all sources should not exceed ₹2.5 lakh."
+    },
+    {
+      "question": "For how long is the scholarship granted?",
+      "answer": "The scholarship is provided for one academic year only for each class."
+    },
+    {
+      "question": "Is the counselling certificate mandatory?",
+      "answer": "Yes, a counselling certificate is mandatory for availing the scholarship."
+    },
+    {
+      "question": "How can students apply for this scholarship?",
+      "answer": "Students must apply online through the National Scholarship Portal (NSP): https://scholarships.gov.in ."
+    },
+    {
+      "question": "How is the scholarship disbursed to students?",
+      "answer": "Scholarship funds are transferred directly to the student’s bank account via PFMS, subject to fund availability."
+    }
+  ]
+}

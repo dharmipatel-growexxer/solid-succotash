@@ -1,0 +1,58 @@
+{
+  "scheme_name": "Nishulk Ganavesh Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ngyuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Nishulk Ganavesh Yojana",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The “Nishulk Ganavesh Yojana” is a scheme under the Samagra Shiksha Programme, implemented by the Secondary Education Department, Government of Uttarakhand. The scheme aims to provide free uniforms to all girl students studying in Classes 1 to 8 of government and government-aided schools, as well as to all boys belonging to Scheduled Castes and Scheduled Tribes, and boys from the General category who fall under the Below Poverty Line category."
+    ],
+    "benefits": [
+      "Under this scheme, two sets of uniforms per student are provided through DBT/SMC to students studying in classes 1 to 8 of government and government-aided schools, covering all girls, all boys belonging to Scheduled Caste and Scheduled Tribe categories, and boys from the General category belonging to BPL families."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be either a girl student, or a boy student belonging to the Scheduled Caste, Scheduled Tribe, or General Category BPL family.",
+      "The applicant must be studying in Classes 1 to 8."
+    ],
+    "application_process": {
+      "offline": [
+        "There is no selection process; all eligible students from Classes 1 to 8 are provided free uniforms or the corresponding financial assistance."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the guidelines of the respective school."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 54)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "All girl students of Classes 1 to 8, all boys belonging to Scheduled Caste (SC) and Scheduled Tribe (ST) categories, and boys from General Category BPL families studying in government and government-aided schools are eligible."
+    },
+    {
+      "question": "Which classes are covered under the scheme?",
+      "answer": "The scheme covers students studying in Classes 1 to 8."
+    },
+    {
+      "question": "How many sets of uniforms are provided under this scheme?",
+      "answer": "Each eligible student receives two sets of uniforms every year."
+    },
+    {
+      "question": "Is there any selection process for the scheme?",
+      "answer": "No, there is no selection process. All eligible students from Classes 1 to 8 receive uniforms or related financial assistance."
+    },
+    {
+      "question": "Is the scheme applicable only to government schools?",
+      "answer": "The scheme is applicable to students studying in government and government-aided schools."
+    },
+    {
+      "question": "Are private school students eligible under this scheme?",
+      "answer": "No."
+    }
+  ]
+}

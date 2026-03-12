@@ -1,0 +1,119 @@
+{
+  "scheme_name": "Financial Assistance for Higher Studies",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fahs-assam",
+  "location_name": "Assam",
+  "location_type": "state",
+  "page_title": "Financial Assistance for Higher Studies",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Financial Assistance for Higher Studies\" was launched by the Tea Tribes Welfare Department, Government of Assam. The scheme aims to provide financial assistance for students belonging to the Tea Tribes and Adivasi community pursuing higher studies. The applications for this scheme are accepted online."
+    ],
+    "benefits": [
+      "Financial assistance for students belonging to the Tea Tribes and Adivasi community.",
+      "This assistance supports students pursuing higher studies such as Bachelor of Medicine, Bachelor of Surgery (MBBS), Master of Business Administration (MBA), Engineering, and such other technical/higher education.",
+      "The assistance covers higher studies in Administration, Medical, Engineering, Law, Research, and Education within and outside the State/Country for the students."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Assam.",
+      "The applicant must belong to the Tea Tribes and Adivasi community.",
+      "The applicant must be pursuing higher studies such as Bachelor of Medicine, Bachelor of Surgery (MBBS), Master of Business Administration (MBA), Engineering, and such other technical/higher education.",
+      "The applicant's family income must not exceed ₹5,00,000/- per annum.",
+      "The applicant should not be a Government Service holder.",
+      "Students studying through correspondence course are also eligible to apply."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Portal Access and Scheme Selection",
+        "A. Navigating to the Portal:",
+        "The applicant must first open the official Tea Tribes Welfare Department URL, www.ttwd.assam.gov.in, and then click the \"Online Application\" link to be redirected to the",
+        "SIRISH application portal",
+        ".",
+        "B. Initial Login or Registration:",
+        "New users must register themselves on the online portal, while existing users will log in using the username and password created during prior registration.",
+        "C. Selecting the Scheme:",
+        "Once the applicant is logged into the Dashboard, they must select the appropriate scholarship scheme from the dropdown menu available.",
+        "Step 2:",
+        "Entering Personal Details",
+        "A. Inputting Mandatory Data:",
+        "Enter \"Personal Details\" where all required information in the application form must be accurately provided.",
+        "B. Specifying Location Details:",
+        "Location data, including District, Assembly Constituency, and Sub-Division, must be selected, along with other essential address details like Village/Town.",
+        "C. Saving Personal Information:",
+        "After filling in all necessary fields in this step, click on the \"Save Form Details\" button to proceed further with the application.",
+        "Step 3:",
+        "Document Upload",
+        "A. Uploading Required Files:",
+        "Under the \"Upload Documents\" tab, upload all required supporting documents in the specified image formats (e.g., JPG/JPEG).",
+        "B. Document Formatting Check:",
+        "All uploaded documents must adhere to specified maximum file sizes (e.g., photo maximum 50 KB, other documents generally 100 KB) before they can be saved.",
+        "Step 4:",
+        "Updating Bank Details",
+        "A. Providing Account Information:",
+        "Enter the Bank Account Number and the name of the bank under the \"Update Bank Details\" tab.",
+        "B. Entering Branch Identification:",
+        "Details essential for electronic transfer, specifically the Bank Branch Name and the corresponding IFSC Code, must be accurately provided.",
+        "C. Securing Financial Data:",
+        "Once all bank details have been correctly entered, click on the \"Save Bank Details\" button to confirm the information.",
+        "Step 5:",
+        "Preview and Final Submission",
+        "A. Application Review:",
+        "\"Preview Application\" displays all details entered in the form for a thorough and final check.",
+        "B. Final Confirmation:",
+        "After cross-checking all information and uploaded documents for accuracy, the applicant must confirm the application by clicking the \"Proceed with Submit Application\" button.",
+        "C. Tracking Status:",
+        "Upon successful submission, an application number will be visible on the screen, allowing the applicant to view the status under the \"APPLICATION STATUS\" tab."
+      ]
+    },
+    "documents_required": [
+      "Valid Caste Certificate, Certified/Issued by the District Commissioner of the Concerned District.",
+      "Undertaking on the Annual Family Income, by the Parent/Guardian.",
+      "Admission Fee Receipt of the Course Undergoing.",
+      "Recommendation from Head of the Institution Certifying That He/She Is Undergoing The Course.",
+      "Passport Size Photo (Maximum 50kb in JPEG/PNG).",
+      "Signature (Maximum 20kb in JPEG/PNG format).",
+      "Birth Certificate (Maximum 100kb in JPEG/PNG format).",
+      "Original Copy of Mark-Sheet of Last Examination Passed (Maximum 100kb in JPEG/PNG format).",
+      "First Page of Applicant's Bank Passbook (Maximum 100kb in JPEG/PNG format)."
+    ],
+    "sources_and_references": [
+      "Online Application",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "If I am currently receiving financial support through a different scheme, am I still permitted to apply for this financial assistance program during the same year?",
+      "answer": "You are not eligible for other schemes if you receive this financial assistance, except for the \"Simon Sing Horo Special Post-Matric Scholarship,\" provided you meet its eligibility criteria."
+    },
+    {
+      "question": "What mandatory documents must I provide to prove that I am genuinely undergoing the higher educational course for which I seek assistance?",
+      "answer": "You must submit either the admission fee receipt for the course you are undertaking or a recommendation letter from the Head of the Institution certifying your enrollment."
+    },
+    {
+      "question": "What specific financial documentation regarding my family’s income is required to confirm my eligibility for the financial assistance for higher education?",
+      "answer": "Your Parent or Guardian must submit a signed undertaking asserting that your annual family income does not exceed ₹5,00,000/- per annum."
+    },
+    {
+      "question": "If I failed a class and was consequently detained, am I allowed to reapply for this scholarship for the same class during my second attempt?",
+      "answer": "Detained students are ineligible to apply for financial assistance or scholarship programs for the exact same class or year of study twice."
+    },
+    {
+      "question": "Is there a requirement regarding my professional status, such as employment type, that might restrict my ability to successfully apply for this assistance?",
+      "answer": "Yes, the applicant applying for this scheme should not be currently employed as a Government Service holder."
+    },
+    {
+      "question": "I am pursuing my studies through a correspondence course; should I refrain from applying for this higher education financial assistance scheme?",
+      "answer": "Students who are currently pursuing their education through a correspondence course are explicitly permitted to apply for and receive this assistance."
+    },
+    {
+      "question": "Are there residency and community requirements that I must fulfill to establish my foundational eligibility for this specific financial assistance program?",
+      "answer": "The applicant must be a permanent resident of Assam and must mandatorily belong to the Tea Tribes and Adivasi community."
+    },
+    {
+      "question": "What specific verification documentation do I need to submit concerning my community background to qualify as an applicant for this scheme?",
+      "answer": "You must produce a valid Caste certificate that has been duly certified and issued by the District Commissioner or the designated officer of your concerned District."
+    }
+  ]
+}

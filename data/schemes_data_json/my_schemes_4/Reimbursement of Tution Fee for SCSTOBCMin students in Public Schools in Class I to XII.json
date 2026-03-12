@@ -1,0 +1,135 @@
+{
+  "scheme_name": "Reimbursement of Tution Fee for SC/ST/OBC/Min students in Public Schools in Class I to XII",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rotffssipsic",
+  "location_name": "Delhi",
+  "location_type": "union_territory",
+  "page_title": "Reimbursement of Tution Fee for SC/ST/OBC/Min students in Public Schools in Class I to XII",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Reimbursement of Tuition Fees for SC/ST/OBC Categories Students Studying in Class I to XII\" by the Department for the Welfare of SC/ST/OBC/Minorities, Government of NCT of Delhi aims to provide financial assistance by reimbursing tuition and other compulsory fees for eligible students from SC/ST/OBC categories studying in recognized public schools in Delhi. The scheme ensures that students with a family income below ₹3,00,000/- per annum receive reimbursement for tuition, lab, and library fees, subject to academic performance and attendance criteria. Eligible students must be enrolled in classes 1st to 12th in schools recognized by the Department of Education, Govt. of NCT of Delhi, or municipal local bodies of Delhi."
+    ],
+    "benefits": [
+      "Reimbursement Amount:",
+      "Maximum reimbursement of ₹48,000/- or actual paid fees (whichever is less) covering tuition, lab, and library fees.",
+      "Conditions for Disbursement",
+      "Student must score 50% and above marks in the preceding year.",
+      "Student must have at least 70% attendance in the preceding year.",
+      "Mode of Disbursement:",
+      "Direct transfer to the student’s bank account (joint account with parent/guardian allowed)."
+    ],
+    "eligibility": [
+      "The applicant should be a Student.",
+      "The applicant should be studying in Class 1st to 12th.",
+      "The applicant should be enrolled in a school recognized/affiliated with the Dept. of Education, GNCTD or Municipal Local Bodies of Delhi.",
+      "The applicant should have scored 50% or above in the previous academic year.",
+      "The applicant should have at least 80% attendance in the preceding year.",
+      "The applicant should not be repeating the same class.",
+      "The annual income of the family of the applicant should not exceed ₹2,00,000/-."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "Visit the",
+        "e-District Portal",
+        "of the Govt. of NCT of Delhi.",
+        "Step 2:",
+        "On the top right corner of the homepage, click “",
+        "Login/Register",
+        "”, then click “",
+        "Register",
+        "\". You will be taken to the \"Citizen Registration Form\". Carefully read the “Guidelines for Online Registration” provided at the bottom of the page.",
+        "Step 3:",
+        "In the Citizen Registration Form, select \"Aadhaar Card\" as the Document Type, and provide the Aadhaar Number. Fill in the captcha code and click “Continue”.",
+        "Step 4:",
+        "On the next page, fill in all the mandatory fields. If required, verify your Email ID and Mobile Number via OTP. Enter the Captcha code and click “Continue to Register”. You will receive your Login ID and Password on the Mobile Number/Email Address provided during the registration.",
+        "Application",
+        "”, you will be taken to the “Citizen Login Form”",
+        "Provide your Login ID and Password, enter the Captcha code and click “Login”.",
+        "Go to the home page and click “Apply Service”. Navigate to the scheme that you intend to apply for. Click on the name of the scheme. You will be taken to the scheme's online application form.",
+        "Step 5:",
+        "In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Acknowledge and agree to the terms and conditions and/or declaration (if any), then click \"Finish”.",
+        "Step 6:",
+        "An OTP will be received on the registered mobile number. Provide the OTP and click “Submit”. An acknowledgement of successful submission shall be sent over Email/SMS/Both.",
+        "Track Application Status",
+        "Visit the \"",
+        "Track Your Application",
+        "\" page.",
+        "Fill in all the mandatory fields. Enter the Captcha Code, and click \"Submit\".",
+        "Your current application status will be displayed."
+      ]
+    },
+    "documents_required": [
+      "Marksheets of the Previous Year.",
+      "Attendance Record of the Previous Year.",
+      "Income Certificate (issued by a competent authority of Delhi).",
+      "Caste Certificate, issued in the student’s name or father’s name by SDM/Deputy Commissioner (Revenue), GNCTD.",
+      "Domicile Certificate.",
+      "Original Fee Receipt for the current academic session.",
+      "Bank Account Details (student’s name/joint account with parent/guardian, Aadhaar-seeded)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "FAQ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the maximum annual family income allowed for applicants under this scheme?",
+      "answer": "The family income must not exceed ₹3,00,000/- per annum, and a valid income certificate from a Delhi authority is required."
+    },
+    {
+      "question": "Which categories of students are eligible for fee reimbursement under this scheme?",
+      "answer": "Students belonging to Scheduled Castes (SC), Scheduled Tribes (ST), and Other Backward Classes (OBC) are eligible for this benefit."
+    },
+    {
+      "question": "What type of schools are covered under this fee reimbursement scheme?",
+      "answer": "Only students studying in schools recognized by the Department of Education, Government of NCT of Delhi, or municipal local bodies of Delhi are eligible."
+    },
+    {
+      "question": "Is there any academic performance requirement for students to avail this benefit?",
+      "answer": "Yes, students must have scored at least 50% marks in the preceding academic year to qualify for fee reimbursement."
+    },
+    {
+      "question": "What is the minimum attendance requirement for students to be eligible for this scheme?",
+      "answer": "Students must have a minimum of 70% attendance in the preceding academic year to be considered for reimbursement."
+    },
+    {
+      "question": "Are students repeating the same class eligible for fee reimbursement?",
+      "answer": "No, students who are repeating the same class are not eligible for any benefits under this scheme."
+    },
+    {
+      "question": "What is the maximum amount that can be reimbursed under this scheme?",
+      "answer": "The maximum reimbursement amount is ₹48,000/- per year or the actual fees paid, whichever is lower."
+    },
+    {
+      "question": "Which fees are covered under the reimbursement scheme?",
+      "answer": "Tuition fees, lab fees, and library fees are covered under this reimbursement scheme."
+    },
+    {
+      "question": "What documents are required to prove the student’s caste category?",
+      "answer": "A caste certificate issued by the Sub-Divisional Magistrate (SDM) or Deputy Commissioner (Revenue), Government of NCT of Delhi, is mandatory."
+    },
+    {
+      "question": "What should be done if the caste certificate is not issued by Delhi authorities?",
+      "answer": "If the caste certificate is not issued by Delhi authorities, a domicile certificate of Delhi must be submitted."
+    },
+    {
+      "question": "Is a joint bank account acceptable for receiving reimbursement under this scheme?",
+      "answer": "Yes, a joint bank account in the student’s name along with a parent or guardian is permissible."
+    },
+    {
+      "question": "What is the requirement regarding the student’s bank account for reimbursement?",
+      "answer": "The bank account must be active and linked with the student’s Aadhaar number for direct transfer of funds."
+    },
+    {
+      "question": "What proof of fee payment is required for reimbursement?",
+      "answer": "Original fee receipts for the current academic session must be uploaded on the portal during application."
+    },
+    {
+      "question": "Where can students register to apply for this reimbursement scheme?",
+      "answer": "Students must register on the e-District Portal of the Government of NCT of Delhi to apply."
+    }
+  ]
+}

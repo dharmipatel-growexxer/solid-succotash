@@ -1,0 +1,94 @@
+{
+  "scheme_name": "Postmatric Scholarship",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmstn",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Postmatric Scholarship",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Postmatric Scholarship\" scheme launched by the Backward Classes, Most Backward Classes and Minorities Welfare Department, Tamil Nadu, aimed at supporting students from Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC). The scheme provides financial assistance to students in 11th and 12th standards in English Medium, helping cover tuition fees and full examination fees."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Tuition fee assistance of ₹500/- (₹50/- per month for 10 months).",
+      "Full examination fee coverage for 12th-standard students."
+    ],
+    "eligibility": [
+      "The beneficiary should be a student.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should belong to the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC).",
+      "Parents' income should not exceed ₹1,00,000/- (for Backward Classes (BC) students).",
+      "There should be no graduate in the family (for Backward Classes (BC) students).",
+      "The beneficiary should be studying in 11th or 12th standard in an English medium school."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should collect the application form from their concerned educational institution.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the institution.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card or any other document as directed by the authority).",
+      "Caste certificate (BC/MBC/DNC).",
+      "Proof of income (for BC students).",
+      "Admission letter or proof of enrollment (11th/12th standard admission)",
+      "Bank account details.",
+      "No-graduate certificate (for BC students)",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines-1",
+      "Guidelines-2",
+      "Community List"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the “Postmatric Scholarship” scheme?",
+      "answer": "The scheme aimed at supporting students from the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC) in Tamil Through financial assistance to students securing the top two ranks in the 12th Public examination in each district."
+    },
+    {
+      "question": "Who is eligible for the Postmatric Scholarship?",
+      "answer": "Students from Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC) studying in the 11th or 12th standard in English medium schools are eligible."
+    },
+    {
+      "question": "What benefits does the scholarship provide?",
+      "answer": "The scholarship provides tuition fee assistance of ₹500/- (₹50/- per month for 10 months) and full coverage of the examination fee for 12th standard students."
+    },
+    {
+      "question": "Is there an income limit for eligibility?",
+      "answer": "Yes, for BC students, the parents' annual income should not exceed ₹1,00,000/- There is no income limit for MBC and DNC students."
+    },
+    {
+      "question": "Are there any special conditions for BC students?",
+      "answer": "Yes, BC students must belong to a family with no graduates, and their parents' annual income should not exceed ₹1,00,000/-."
+    },
+    {
+      "question": "Do MBC and DNC students have any income restrictions?",
+      "answer": "No, MBC and DNC students do not have any income restrictions to apply for this scholarship."
+    },
+    {
+      "question": "What documents are needed to apply for the scholarship?",
+      "answer": "Applicants need to submit income proof, community certificate, proof of education, bank account details, and for BC students, a no-graduate certificate."
+    },
+    {
+      "question": "Are the examination fees covered under this scheme?",
+      "answer": "Yes, the examination fees are fully covered for 12th standard students."
+    },
+    {
+      "question": "Where can students apply for the Postmatric Scholarship?",
+      "answer": "Students can apply through their respective schools, which will forward the applications to the relevant authorities."
+    },
+    {
+      "question": "How long is the scholarship provided for?",
+      "answer": "The scholarship scheme covers a period of 10 months, providing ₹50/- per month for tuition fees."
+    }
+  ]
+}

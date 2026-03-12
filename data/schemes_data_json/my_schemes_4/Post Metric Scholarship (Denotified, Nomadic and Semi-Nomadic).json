@@ -1,0 +1,100 @@
+{
+  "scheme_name": "Post Metric Scholarship (Denotified, Nomadic and Semi-Nomadic)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmsdnnsn",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Post Metric Scholarship (Denotified, Nomadic and Semi-Nomadic)",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Post-Metric Scholarship\" scheme, implemented by the Department of Denotified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides financial assistance to students from class 11th to college level, including medical, engineering, science, ayurveda, unani, homeopathy, agriculture, commerce, and other courses. For classes 11th and 12th, the maximum fee reimbursement is ₹210/- and ₹1,110/-, respectively, which includes ₹210/- (Department of Education) and ₹900/- (Board of Secondary Education Examination Fee). Faculty-wise full or half fee reimbursement is determined by the sanctioning authority as per eligibility within the prescribed maximum limits."
+    ],
+    "benefits": [
+      "Fee Reimbursement for Class 11th: Upto ₹210/-.",
+      "Fee Reimbursement for Class 12th: Upto ₹1,110/-.",
+      "*The sanctioning authority: determines the full/half fee reimbursement faculty-wise, based on eligibility within the maximum limit."
+    ],
+    "eligibility": [
+      "The applicant should be from a Denotified, Nomadic, or Semi-Nomadic Community.",
+      "The applicant should be from a family with an annual income of less than or equal to ₹2,50,000/-.",
+      "The applicant should be a Student.",
+      "The applicant should be enrolled in a government institution where the mandatory fees, including prescribed tuition and examination fees, are paid.",
+      "The applicant should not have failed in any academic year."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "Visit the \"",
+        "Samarth Portal",
+        "\".",
+        "Step 2:",
+        "Navigate to the top right corner of the homepage and click \"",
+        "Registration\".",
+        "Step 3:",
+        "On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click \"Register\".",
+        "Application",
+        "Use the credentials you created during registration to log in.",
+        "Navigate to the online application form of the scheme you intend to apply for.",
+        "Step 4:",
+        "In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:",
+        "Carefully review all the information provided. Make any necessary corrections.",
+        "Step 6:",
+        "Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).",
+        "Step 7:",
+        "Click the \"Submit\" to submit your application."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar Card",
+      "Domicile Certificate",
+      "Caste Certificate",
+      "Samagra ID",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Which communities are eligible for the scholarship?",
+      "answer": "Students belonging to De-notified, nomadic, and semi-nomadic communities are eligible."
+    },
+    {
+      "question": "What is the income limit to qualify for the scholarship?",
+      "answer": "The applicant should be from a family with an annual income limit of ₹2.50 lakhs."
+    },
+    {
+      "question": "Is there any requirement regarding academic performance for the scholarship?",
+      "answer": "Yes, the applicant should not have failed in any academic year. If a student fails one year, they are no longer eligible for the scholarship."
+    },
+    {
+      "question": "What is required for the renewal of the scholarship?",
+      "answer": "For renewal, the applicant should be able to provide a declaration that the income of the previous year has not increased."
+    },
+    {
+      "question": "Can students from private institutions apply for the scholarship?",
+      "answer": "No, only students from government institutions are eligible for the scholarship."
+    },
+    {
+      "question": "How is the income limit of ₹2.50 lakhs verified?",
+      "answer": "The applicant will need to submit official documentation to verify their family's annual income, such as an income certificate or income tax return."
+    },
+    {
+      "question": "What happens if the applicant’s income exceeds ₹2.50 lakhs?",
+      "answer": "If the applicant’s family income exceeds ₹2.50 lakhs, they will not be eligible for the scholarship."
+    },
+    {
+      "question": "How is the scholarship amount disbursed?",
+      "answer": "The scholarship amount typically covers mandatory fees, including tuition and examination fees, and is disbursed directly to the institution."
+    },
+    {
+      "question": "Can students who have failed in a year apply for the scholarship in the next year?",
+      "answer": "No, students who have failed in a year are not eligible for the scholarship, even if they pass in subsequent years."
+    }
+  ]
+}

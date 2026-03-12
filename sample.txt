@@ -1,0 +1,1026 @@
+  -> Saved: data/my_schemes_3/Scheme for assistance for Start Ups Innovation Interest Subsidy.json
+[506/691] Scraping: Scheme for assistance for Start Ups/ Innovation: Pre- Series A Funding
+  -> Saved: data/my_schemes_3/Scheme for assistance for Start Ups Innovation Pre- Series A Funding.json
+[507/691] Scraping: Scheme for assistance for Start Ups/ Innovation: Seed Support
+  -> Saved: data/my_schemes_3/Scheme for assistance for Start Ups Innovation Seed Support.json
+[508/691] Scraping: Scheme for assistance for Start Ups/ Innovation: Sustenance Allowance
+  -> Saved: data/my_schemes_3/Scheme for assistance for Start Ups Innovation Sustenance Allowance.json
+[509/691] Scraping: Scheme for Assistance to Logistic Park
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Logistic Park.json
+[510/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Interest Subsidy (Manufacturing Sector)
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance for Interest Subsidy (Manufacturing Sector).json
+[511/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Interest Subsidy (Service Sector)
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance for Interest Subsidy (Service Sector).json
+[512/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Patent Registration
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance for Patent Registration.json
+[513/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Power Connection Charges
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance for Power Connection Charges.json
+[514/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Quality Certification
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance for Quality Certification.json
+[515/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Raising Capital through SME Exchange
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance for Raising Capital through SME Exchange.json
+[516/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Reimbursement of CGTMSE Fees
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance for Reimbursement of CGTMSE Fees.json
+[517/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Saving in Consumption of Energy and Water
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance for Saving in Consumption of Energy and Water.json
+[518/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Technology Acquisition
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance for Technology Acquisition.json
+[519/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance in Implementation of Information and Communication Technology (ICT)
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance in Implementation of Information and Communication Technology.json
+[520/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance in Rent to MSEs
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance in Rent to MSEs.json
+[521/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance of Capital Investment Subsidy (Manufacturing Sector)
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Assistance of Capital Investment Subsidy (Manufacturing Sector).json
+[522/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Financial Support to MSMEs in ZED Certification
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Financial Support to MSMEs in ZED Certification.json
+[523/691] Scraping: Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Rehabilitation of Sick Enterprises
+  -> Saved: data/my_schemes_3/Scheme for Assistance to Micro, Small and Medium Enterprises (MSME) Rehabilitation of Sick Enterprises.json
+[524/691] Scraping: Scheme for Assistance to MSMEs for Market Development
+  -> Saved: data/my_schemes_3/Scheme for Assistance to MSMEs for Market Development.json
+[525/691] Scraping: Scheme for Awards to MSMES
+  -> Saved: data/my_schemes_3/Scheme for Awards to MSMES.json
+[526/691] Scraping: Scheme for Celebration of Birth/death Anniversary of Eminent Personalities
+  -> Saved: data/my_schemes_3/Scheme for Celebration of Birthdeath Anniversary of Eminent Personalities.json
+[527/691] Scraping: Scheme for Construction of Marriage Hall/ Community Hall/ Convention Centre/ Commercial Godown
+  -> Saved: data/my_schemes_3/Scheme for Construction of Marriage Hall Community Hall Convention Centre Commercial Godown.json
+[528/691] Scraping: Scheme for Cottage and Village Industries (Composite Loan Scheme)
+  -> Saved: data/my_schemes_3/Scheme for Cottage and Village Industries (Composite Loan Scheme).json
+[529/691] Scraping: Scheme for Development Maintenance and Construction of Roads
+  -> Saved: data/my_schemes_3/Scheme for Development Maintenance and Construction of Roads.json
+[530/691] Scraping: Scheme for Enhancement of Technical Competence and Manpower: Scheme of Financial Assistance for Skill Development to MSME Sector
+  -> Saved: data/my_schemes_3/Scheme for Enhancement of Technical Competence and Manpower Scheme of Financial Assistance for Skill Development to MSME Sector.json
+[531/691] Scraping: Scheme for Financial Assistance to Integrated Logistics Facilities: Capital Subsidy
+  -> Saved: data/my_schemes_3/Scheme for Financial Assistance to Integrated Logistics Facilities Capital Subsidy.json
+[532/691] Scraping: Scheme for Financial Assistance to Integrated Logistics Facilities: Exemption of Electricity Duty
+  -> Saved: data/my_schemes_3/Scheme for Financial Assistance to Integrated Logistics Facilities Exemption of Electricity Duty.json
+[533/691] Scraping: Scheme for Financial Assistance to Integrated Logistics Facilities: Interest Subsidy
+  -> Saved: data/my_schemes_3/Scheme for Financial Assistance to Integrated Logistics Facilities Interest Subsidy.json
+[534/691] Scraping: Scheme for Financial Assistance to Integrated Logistics Facilities: Reimbursement of Stamp Duty
+  -> Saved: data/my_schemes_3/Scheme for Financial Assistance to Integrated Logistics Facilities Reimbursement of Stamp Duty.json
+[535/691] Scraping: Scheme for Goa Rajya Vidnyanik Puraskar
+  -> Saved: data/my_schemes_3/Scheme for Goa Rajya Vidnyanik Puraskar.json
+[536/691] Scraping: Scheme for Hospitals / Nursing Homes (PIPDIC)
+  -> Saved: data/my_schemes_3/Scheme for Hospitals Nursing Homes (PIPDIC).json
+[537/691] Scraping: Scheme for Hotel and Restaurant Projects
+  -> Saved: data/my_schemes_3/Scheme for Hotel and Restaurant Projects.json
+[538/691] Scraping: Scheme for Interest Subvention to Nano Household Enterprises
+  -> Saved: data/my_schemes_3/Scheme for Interest Subvention to Nano Household Enterprises.json
+[539/691] Scraping: Scheme for Margin Money Grant to Nano Units
+  -> Saved: data/my_schemes_3/Scheme for Margin Money Grant to Nano Units.json
+[540/691] Scraping: Scheme for Marketing Organisations
+  -> Saved: data/my_schemes_3/Scheme for Marketing Organisations.json
+[541/691] Scraping: Scheme for Plantation Development (New planting & Replanting) under Medium Term Framework Plan (MTFP) in Traditional Areas (Kerala and Tamil Nadu), Non-Traditional and North Eastern Region
+  -> Saved: data/my_schemes_3/Scheme for Plantation Development (New planting & Replanting) under Medium Term Framework Plan (MTFP) in Traditional Areas (Kerala and Tamil.json
+[542/691] Scraping: Scheme for Purchase of 4 Wheeler for Own Use
+  -> Saved: data/my_schemes_3/Scheme for Purchase of 4 Wheeler for Own Use.json
+[543/691] Scraping: Scheme for Purchase of Mobile Sales Van
+  -> Saved: data/my_schemes_3/Scheme for Purchase of Mobile Sales Van.json
+[544/691] Scraping: Scheme for Purchase of Paddy Harvesting Machine
+  -> Saved: data/my_schemes_3/Scheme for Purchase of Paddy Harvesting Machine.json
+[545/691] Scraping: Scheme for Setting Up of Industrial Estates
+  -> Saved: data/my_schemes_3/Scheme for Setting Up of Industrial Estates.json
+[546/691] Scraping: Scheme for Small Business Owners of Scheduled Castes to Buy a Place of Business/Shop
+  -> Saved: data/my_schemes_3/Scheme for Small Business Owners of Scheduled Castes to Buy a Place of BusinessShop.json
+[547/691] Scraping: Scheme for Small Road Transport Operators (SRTOs)
+  -> Saved: data/my_schemes_3/Scheme for Small Road Transport Operators (SRTOs).json
+[548/691] Scraping: Scheme for SSI / MSI Sector (PIPDIC)
+  -> Saved: data/my_schemes_3/Scheme for SSI MSI Sector (PIPDIC).json
+[549/691] Scraping: Scheme for Supply of TV Sets to Industrial Establishments/Labour Welfare Centres/Clubs/Recreation Rooms
+  -> Saved: data/my_schemes_3/Scheme for Supply of TV Sets to Industrial EstablishmentsLabour Welfare CentresClubsRecreation Rooms.json
+[550/691] Scraping: Scheme for Tourism-related Activities
+  -> Saved: data/my_schemes_3/Scheme for Tourism-related Activities.json
+[551/691] Scraping: Scheme for Wage Compensation to Handloom Weaver Families
+  -> Saved: data/my_schemes_3/Scheme for Wage Compensation to Handloom Weaver Families.json
+[552/691] Scraping: Scheme For Women Entrepreneurs Mahila Udyam Nidhi (MUN)
+  -> Saved: data/my_schemes_3/Scheme For Women Entrepreneurs Mahila Udyam Nidhi (MUN).json
+[553/691] Scraping: Scheme of Assistance for Common Environment Infrastructure: Scheme for Development of Green Estate
+  -> Saved: data/my_schemes_3/Scheme of Assistance for Common Environment Infrastructure Scheme for Development of Green Estate.json
+[554/691] Scraping: Scheme of Assistance for Common Environment Infrastructure: Scheme of Assistance for Strengthening the Regulation and Environmental Compliance
+  -> Saved: data/my_schemes_3/Scheme of Assistance for Common Environment Infrastructure Scheme of Assistance for Strengthening the Regulation and Environmental Complianc.json
+[555/691] Scraping: Scheme of Assistance for Environment Protection Measures: Scheme for assistance to encouraging Green Practices and Environmental Audit to MSMEs
+  -> Saved: data/my_schemes_3/Scheme of Assistance for Environment Protection Measures Scheme for assistance to encouraging Green Practices and Environmental Audit to MSM.json
+[556/691] Scraping: Scheme of Assistance for Environment Protection Measures: Scheme for assistance to Environment Management
+  -> Saved: data/my_schemes_3/Scheme of Assistance for Environment Protection Measures Scheme for assistance to Environment Management.json
+[557/691] Scraping: Scheme Of Assistance To Good Borrowers: ‘A’ Category
+  -> Saved: data/my_schemes_3/Scheme Of Assistance To Good Borrowers ‘A’ Category.json
+[558/691] Scraping: Scheme of Assistance to Good Borrowers: ‘B’ Category
+  -> Saved: data/my_schemes_3/Scheme of Assistance to Good Borrowers ‘B’ Category.json
+[559/691] Scraping: Scheme of Assistance to SC/ST Entrepreneurs
+  -> Saved: data/my_schemes_3/Scheme of Assistance to SCST Entrepreneurs.json
+[560/691] Scraping: Scheme of Assistance to State Scheduled Castes Development Corporations
+  -> Saved: data/my_schemes_3/Scheme of Assistance to State Scheduled Castes Development Corporations.json
+[561/691] Scraping: Scheme Of Assistance To Women Entrepreneurs (Mahalir Udavi)
+  -> Saved: data/my_schemes_3/Scheme Of Assistance To Women Entrepreneurs (Mahalir Udavi).json
+[562/691] Scraping: Scheme of Financial Assistance for Cultural Organization for Holding Conference, Seminar, Symposium, Exhibition, Festival, Competition etc.
+  -> Saved: data/my_schemes_3/Scheme of Financial Assistance for Cultural Organization for Holding Conference, Seminar, Symposium, Exhibition, Festival, Competition etc.json
+[563/691] Scraping: Scheme of Fund for Regeneration of Traditional Industries
+  -> Saved: data/my_schemes_3/Scheme of Fund for Regeneration of Traditional Industries.json
+[564/691] Scraping: Scheme of Grant-In-Aid for Conduct of Art Exhibitions: One-Man Shows
+  -> Saved: data/my_schemes_3/Scheme of Grant-In-Aid for Conduct of Art Exhibitions One-Man Shows.json
+[565/691] Scraping: Scheme or assistance for Start Ups/ Innovation: Assistance to Startups having a Significant Impact on Society
+  -> Saved: data/my_schemes_3/Scheme or assistance for Start Ups Innovation Assistance to Startups having a Significant Impact on Society.json
+[566/691] Scraping: Scheme to Encourage Students for Innovative Projects
+  -> Saved: data/my_schemes_3/Scheme to Encourage Students for Innovative Projects.json
+[567/691] Scraping: Scheme to Grant Monthly Financial Assistance to the Persons Engaged in Traditional Occupations/Businesses including Motorcycle Pilots
+  -> Saved: data/my_schemes_3/Scheme to Grant Monthly Financial Assistance to the Persons Engaged in Traditional OccupationsBusinesses including Motorcycle Pilots.json
+[568/691] Scraping: Scheme to Provide Assistance for Construction of Retail Outlets/ Agricultural Malls in State Market Committees
+  -> Saved: data/my_schemes_3/Scheme to Provide Assistance for Construction of Retail Outlets Agricultural Malls in State Market Committees.json
+[569/691] Scraping: Seed Capital Scheme
+  -> Saved: data/my_schemes_3/Seed Capital Scheme.json
+[570/691] Scraping: Self Employment Scheme Gujarat
+  -> Saved: data/my_schemes_3/Self Employment Scheme Gujarat.json
+[571/691] Scraping: Self-Certification Scheme
+  -> Saved: data/my_schemes_3/Self-Certification Scheme.json
+[572/691] Scraping: Self-Employment Scheme For Dependents Of Prisoners
+  -> Saved: data/my_schemes_3/Self-Employment Scheme For Dependents Of Prisoners.json
+[573/691] Scraping: Self-Employment Scheme for Scheduled Castes and Tribes
+  -> Saved: data/my_schemes_3/Self-Employment Scheme for Scheduled Castes and Tribes.json
+[574/691] Scraping: Self-Employment Scheme: Nana Vyavasay Mate Loan Yojana
+  -> Saved: data/my_schemes_3/Self-Employment Scheme Nana Vyavasay Mate Loan Yojana.json
+[575/691] Scraping: Self-Employment Scheme: Transport/ Logistics/ Travels/ Food Court Wyaaj Sahaay
+  -> Saved: data/my_schemes_3/Self-Employment Scheme Transport Logistics Travels Food Court Wyaaj Sahaay.json
+[576/691] Scraping: Self-Employment Scheme: Vahan Loan Sahay Yojana
+  -> Saved: data/my_schemes_3/Self-Employment Scheme Vahan Loan Sahay Yojana.json
+[577/691] Scraping: Semi-Commercial Duck Farming
+  -> Saved: data/my_schemes_3/Semi-Commercial Duck Farming.json
+[578/691] Scraping: Share Capital to Local Entrepreneurs and Self Employed Scheme, 2008
+  -> Saved: data/my_schemes_3/Share Capital to Local Entrepreneurs and Self Employed Scheme, 2008.json
+[579/691] Scraping: Sheep Rearing Scheme (HSFDC)
+  -> Saved: data/my_schemes_3/Sheep Rearing Scheme (HSFDC).json
+[580/691] Scraping: Shilp Sampada Term Loan Scheme for Backward Classes- Haryana
+  -> Saved: data/my_schemes_3/Shilp Sampada Term Loan Scheme for Backward Classes- Haryana.json
+[581/691] Scraping: Shilpi Samridhi Yojana
+  -> Saved: data/my_schemes_3/Shilpi Samridhi Yojana.json
+[582/691] Scraping: Short Term Financial Assistance To Good Borrowers
+  -> Saved: data/my_schemes_3/Short Term Financial Assistance To Good Borrowers.json
+[583/691] Scraping: Shrama Shakthi Scheme
+  -> Saved: data/my_schemes_3/Shrama Shakthi Scheme.json
+[584/691] Scraping: Shramashakthi Special Women's Scheme
+  -> Saved: data/my_schemes_3/Shramashakthi Special Women's Scheme.json
+[585/691] Scraping: Sikhligar’s Community Development Scheme
+  -> Saved: data/my_schemes_3/Sikhligar’s Community Development Scheme.json
+[586/691] Scraping: Single Window Scheme (PIPDIC)
+  -> Saved: data/my_schemes_3/Single Window Scheme (PIPDIC).json
+[587/691] Scraping: SITARE-Gandhian Young Technological Innovation Award Grant
+  -> Saved: data/my_schemes_3/SITARE-Gandhian Young Technological Innovation Award Grant.json
+[588/691] Scraping: Skill Development Fee Reimbursement Scheme
+  -> Saved: data/my_schemes_3/Skill Development Fee Reimbursement Scheme.json
+[589/691] Scraping: Skill Development Promotion Scheme
+  -> Saved: data/my_schemes_3/Skill Development Promotion Scheme.json
+[590/691] Scraping: Skilled Youth Startup Scheme
+^X^CTraceback (most recent call last):
+  File "/home/growlt381/Documents/MProject/details.py", line 678, in <module>
+    main()
+  File "/home/growlt381/Documents/MProject/details.py", line 668, in main
+    scrape_and_save(
+  File "/home/growlt381/Documents/MProject/details.py", line 601, in scrape_and_save
+    expand_faqs(page)
+  File "/home/growlt381/Documents/MProject/details.py", line 529, in expand_faqs
+    page.wait_for_timeout(300)
+  File "/home/growlt381/Documents/MProject/venv/lib/python3.12/site-packages/playwright/sync_api/_generated.py", line 11536, in wait_for_timeout
+    self._sync(self._impl_obj.wait_for_timeout(timeout=timeout))
+  File "/home/growlt381/Documents/MProject/venv/lib/python3.12/site-packages/playwright/_impl/_sync_base.py", line 113, in _sync
+    self._dispatcher_fiber.switch()
+  File "/home/growlt381/Documents/MProject/venv/lib/python3.12/site-packages/playwright/sync_api/_context_manager.py", line 56, in greenlet_main
+    self._loop.run_until_complete(self._connection.run_as_sync())
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 674, in run_until_complete
+    self.run_forever()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 641, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 1949, in _run_once
+    event_list = self._selector.select(timeout)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/selectors.py", line 468, in select
+    fd_event_list = self._selector.poll(timeout, max_ev)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+
+(venv) growlt381@grow-lt-381:~/Documents/MProject$ python3 details.py
+Traceback (most recent call last):
+  File "/home/growlt381/Documents/MProject/details.py", line 678, in <module>
+    main()
+  File "/home/growlt381/Documents/MProject/details.py", line 668, in main
+    scrape_and_save(
+  File "/home/growlt381/Documents/MProject/details.py", line 570, in scrape_and_save
+    rows = list(iter_csv_rows(csv_path))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/growlt381/Documents/MProject/details.py", line 541, in iter_csv_rows
+    with csv_path.open("r", encoding="utf-8-sig", newline="") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/pathlib.py", line 1015, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'schemes3.csv'
+(venv) growlt381@grow-lt-381:~/Documents/MProject$ python3 details.py
+[1/103] Scraping: Skilled Youth Startup Scheme
+^CTraceback (most recent call last):
+  File "/home/growlt381/Documents/MProject/details.py", line 678, in <module>
+    main()
+  File "/home/growlt381/Documents/MProject/details.py", line 668, in main
+    scrape_and_save(
+  File "/home/growlt381/Documents/MProject/details.py", line 599, in scrape_and_save
+    wait_for_content(page, timeout_ms)
+  File "/home/growlt381/Documents/MProject/details.py", line 368, in wait_for_content
+    page.wait_for_selector(
+  File "/home/growlt381/Documents/MProject/venv/lib/python3.12/site-packages/playwright/sync_api/_generated.py", line 8217, in wait_for_selector
+    self._sync(
+  File "/home/growlt381/Documents/MProject/venv/lib/python3.12/site-packages/playwright/_impl/_sync_base.py", line 113, in _sync
+    self._dispatcher_fiber.switch()
+  File "/home/growlt381/Documents/MProject/venv/lib/python3.12/site-packages/playwright/sync_api/_context_manager.py", line 56, in greenlet_main
+    self._loop.run_until_complete(self._connection.run_as_sync())
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 674, in run_until_complete
+    self.run_forever()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 641, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 1949, in _run_once
+    event_list = self._selector.select(timeout)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/selectors.py", line 468, in select
+    fd_event_list = self._selector.poll(timeout, max_ev)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+
+(venv) growlt381@grow-lt-381:~/Documents/MProject$ python3 details.py
+[1/103] Scraping: Skilled Youth Startup Scheme
+  -> Saved: data/scheme3/Skilled Youth Startup Scheme.json
+[2/103] Scraping: Small Business (GBCDC)
+  -> Saved: data/scheme3/Small Business (GBCDC).json
+[3/103] Scraping: Small Business in Service/Trading Sector for Persons with Disabilities (Divyangjan Swavalamban Yojana)
+  -> Saved: data/scheme3/Small Business in ServiceTrading Sector for Persons with Disabilities (Divyangjan Swavalamban Yojana).json
+[4/103] Scraping: Small Business Scheme (Gujarat Gopalak Vikas Nigam)
+  -> Saved: data/scheme3/Small Business Scheme (Gujarat Gopalak Vikas Nigam).json
+[5/103] Scraping: Small Industries Unit for Persons with Disabilities
+  -> Saved: data/scheme3/Small Industries Unit for Persons with Disabilities.json
+[6/103] Scraping: Soft Loan Scheme for Women Entrepreneurs
+  -> Saved: data/scheme3/Soft Loan Scheme for Women Entrepreneurs.json
+[7/103] Scraping: Solar Power Subsidy Scheme
+  -> Saved: data/scheme3/Solar Power Subsidy Scheme.json
+[8/103] Scraping: Special Credit Linked Capital Subsidy Scheme (SCLCSS) for Scheduled Caste/Scheduled Tribe
+  -> Saved: data/scheme3/Special Credit Linked Capital Subsidy Scheme (SCLCSS) for Scheduled CasteScheduled Tribe.json
+[9/103] Scraping: Special Incentive Allowance Scheme
+  -> Saved: data/scheme3/Special Incentive Allowance Scheme.json
+[10/103] Scraping: Special Incentives for Wildlife Resorts
+  -> Saved: data/scheme3/Special Incentives for Wildlife Resorts.json
+[11/103] Scraping: Spurring Entrepreneurship Initiative
+  -> Saved: data/scheme3/Spurring Entrepreneurship Initiative.json
+[12/103] Scraping: Stamp Duty Refund
+  -> Saved: data/scheme3/Stamp Duty Refund.json
+[13/103] Scraping: Stamp Duty Reimbursement Scheme
+  -> Saved: data/scheme3/Stamp Duty Reimbursement Scheme.json
+[14/103] Scraping: Stand-Up India
+  -> Saved: data/scheme3/Stand-Up India.json
+[15/103] Scraping: Startup India Seed Fund Scheme- For Incubators
+  -> Saved: data/scheme3/Startup India Seed Fund Scheme- For Incubators.json
+[16/103] Scraping: Startup India Seed Fund Scheme- For Startups
+  -> Saved: data/scheme3/Startup India Seed Fund Scheme- For Startups.json
+[17/103] Scraping: Startup Manipur
+  -> Saved: data/scheme3/Startup Manipur.json
+[18/103] Scraping: State Government Share Capital Contribution to Co.operative Sugar Factories (Normal Area) (Tribal Area)
+  -> Saved: data/scheme3/State Government Share Capital Contribution to Co.operative Sugar Factories (Normal Area) (Tribal Area).json
+[19/103] Scraping: Sub-mission on Breed Development of Livestock and Poultry
+  -> Saved: data/scheme3/Sub-mission on Breed Development of Livestock and Poultry.json
+[20/103] Scraping: Subsidy for Asset Creation for Intellectual Property: Patent Registration
+  -> Saved: data/scheme3/Subsidy for Asset Creation for Intellectual Property Patent Registration.json
+[21/103] Scraping: Subsidy for Asset Creation for Intellectual Property: Subsidy on the Cost of Trade Mark Registration or Geographical Indications (GI) in India or Abroad
+  -> Saved: data/scheme3/Subsidy for Asset Creation for Intellectual Property Subsidy on the Cost of Trade Mark Registration or Geographical Indications (GI) in Indi.json
+[22/103] Scraping: Subsidy for Developing Business Premises for Persons with Disabilities
+  -> Saved: data/scheme3/Subsidy for Developing Business Premises for Persons with Disabilities.json
+[23/103] Scraping: Subsidy for Disabled Young Professionals
+  -> Saved: data/scheme3/Subsidy for Disabled Young Professionals.json
+[24/103] Scraping: Subsidy for Fund Raising from SME Exchange
+  -> Saved: data/scheme3/Subsidy for Fund Raising from SME Exchange.json
+[25/103] Scraping: Subsidy Scheme For Establishment Of 100 Broiler Birds' Farm For Schedule Caste
+  -> Saved: data/scheme3/Subsidy Scheme For Establishment Of 100 Broiler Birds' Farm For Schedule Caste.json
+[26/103] Scraping: Subsidy Scheme For Establishment Of Goat Unit (10+1) For General Category People
+  -> Saved: data/scheme3/Subsidy Scheme For Establishment Of Goat Unit (10+1) For General Category People.json
+[27/103] Scraping: Subsidy Scheme For Establishment Of Goat Unit (10+1) For Scheduled Caste People
+  -> Saved: data/scheme3/Subsidy Scheme For Establishment Of Goat Unit (10+1) For Scheduled Caste People.json
+[28/103] Scraping: Subsidy Scheme For Establishment Of Goat Unit (10+1) For Scheduled Tribe Women
+  -> Saved: data/scheme3/Subsidy Scheme For Establishment Of Goat Unit (10+1) For Scheduled Tribe Women.json
+[29/103] Scraping: Subsidy Scheme On Establishment Of - 25 Kadaknath/R.I.R. Birds Unit To Scheduled Tribes
+  -> Saved: data/scheme3/Subsidy Scheme On Establishment Of - 25 KadaknathR.I.R. Birds Unit To Scheduled Tribes.json
+[30/103] Scraping: Subsidy Scheme On Establishment Of 25 R.I.R. Birds' Unit For Weaker Section
+  -> Saved: data/scheme3/Subsidy Scheme On Establishment Of 25 R.I.R. Birds' Unit For Weaker Section.json
+[31/103] Scraping: Subsidy Scheme On Establishment Of 25 R.I.R. Birds’ Unit For Scheduled Caste
+  -> Saved: data/scheme3/Subsidy Scheme On Establishment Of 25 R.I.R. Birds’ Unit For Scheduled Caste.json
+[32/103] Scraping: Subsidy Scheme On Establishment Of 40 R.I.R. Birds Unit For Divyang People
+  -> Saved: data/scheme3/Subsidy Scheme On Establishment Of 40 R.I.R. Birds Unit For Divyang People.json
+[33/103] Scraping: Swahid Dayal Das Panika Swaniyojan Achoni
+  -> Saved: data/scheme3/Swahid Dayal Das Panika Swaniyojan Achoni.json
+[34/103] Scraping: Swavalambi/Sanchari Marata Malige
+  -> Saved: data/scheme3/SwavalambiSanchari Marata Malige.json
+[35/103] Scraping: Swayam Saksham Yojana (GTKVN)
+  -> Saved: data/scheme3/Swayam Saksham Yojana (GTKVN).json
+[36/103] Scraping: Technology Acquisition Assistance
+  -> Saved: data/scheme3/Technology Acquisition Assistance.json
+[37/103] Scraping: Technology Development Fund (TDF) Scheme
+  -> Saved: data/scheme3/Technology Development Fund (TDF) Scheme.json
+[38/103] Scraping: Technology Fellowship and Patent Promotion Scheme
+  -> Saved: data/scheme3/Technology Fellowship and Patent Promotion Scheme.json
+[39/103] Scraping: Technology Transfer & Commercialization Support Scheme
+  -> Saved: data/scheme3/Technology Transfer & Commercialization Support Scheme.json
+[40/103] Scraping: Technology Upgradation Fund Scheme
+  -> Saved: data/scheme3/Technology Upgradation Fund Scheme.json
+[41/103] Scraping: Tejaswini-the Radiant
+  -> Saved: data/scheme3/Tejaswini-the Radiant.json
+[42/103] Scraping: Telecom Technology Development Fund
+  -> Saved: data/scheme3/Telecom Technology Development Fund.json
+[43/103] Scraping: Term Loan Scheme
+  -> Saved: data/scheme3/Term Loan Scheme.json
+[44/103] Scraping: Term Loan Scheme (GNDTDC)
+  -> Saved: data/scheme3/Term Loan Scheme (GNDTDC).json
+[45/103] Scraping: Term Loan Scheme (GTKVN)
+  -> Saved: data/scheme3/Term Loan Scheme (GTKVN).json
+[46/103] Scraping: Term Loan Scheme- Credit Line 1 for Minority Community
+  -> Saved: data/scheme3/Term Loan Scheme- Credit Line 1 for Minority Community.json
+[47/103] Scraping: Term Loan Scheme- Credit Line 2 for Minority Community
+  -> Saved: data/scheme3/Term Loan Scheme- Credit Line 2 for Minority Community.json
+[48/103] Scraping: Term Loan under NSKFDC- Haryana
+  -> Saved: data/scheme3/Term Loan under NSKFDC- Haryana.json
+[49/103] Scraping: Testing Equipment Scheme
+  -> Saved: data/scheme3/Testing Equipment Scheme.json
+[50/103] Scraping: Testing Fee Reimbursement Scheme
+  -> Saved: data/scheme3/Testing Fee Reimbursement Scheme.json
+[51/103] Scraping: The Goa State Incentives to Encourage Investments Scheme
+  -> Saved: data/scheme3/The Goa State Incentives to Encourage Investments Scheme.json
+[52/103] Scraping: The West Bengal Incentive Scheme: Additional Incentive for Adventure Tour Operators
+  -> Saved: data/scheme3/The West Bengal Incentive Scheme Additional Incentive for Adventure Tour Operators.json
+[53/103] Scraping: The West Bengal Incentive Scheme: Additional Incentive on Generation of Employment
+  -> Saved: data/scheme3/The West Bengal Incentive Scheme Additional Incentive on Generation of Employment.json
+[54/103] Scraping: The West Bengal Incentive Scheme: Capacity Utilisation
+  -> Saved: data/scheme3/The West Bengal Incentive Scheme Capacity Utilisation.json
+[55/103] Scraping: The West Bengal Incentive Scheme: Interest Subsidy on Term Loan
+  -> Saved: data/scheme3/The West Bengal Incentive Scheme Interest Subsidy on Term Loan.json
+[56/103] Scraping: The West Bengal Incentive Scheme: Reimbursement of Stamp Duty and Registration Fee
+  -> Saved: data/scheme3/The West Bengal Incentive Scheme Reimbursement of Stamp Duty and Registration Fee.json
+[57/103] Scraping: The West Bengal Incentive Scheme: State Capital Investment Subsidy
+  -> Saved: data/scheme3/The West Bengal Incentive Scheme State Capital Investment Subsidy.json
+[58/103] Scraping: The West Bengal Incentive Scheme: Subsidy for Quality Improvement
+  -> Saved: data/scheme3/The West Bengal Incentive Scheme Subsidy for Quality Improvement.json
+[59/103] Scraping: The West Bengal Incentive Scheme: Tourism Promotion Assistance in lieu of Interest Subsidy
+  -> Saved: data/scheme3/The West Bengal Incentive Scheme Tourism Promotion Assistance in lieu of Interest Subsidy.json
+[60/103] Scraping: The West Bengal Incentive Scheme: Waiver of Electricity Duty
+  -> Saved: data/scheme3/The West Bengal Incentive Scheme Waiver of Electricity Duty.json
+[61/103] Scraping: Tool Assistance Scheme for Pottery Artisans
+  -> Saved: data/scheme3/Tool Assistance Scheme for Pottery Artisans.json
+[62/103] Scraping: Tool Kit Scheme (P.B.O.C.W.W.B)
+  -> Saved: data/scheme3/Tool Kit Scheme (P.B.O.C.W.W.B).json
+[63/103] Scraping: Tool Purchase Grant for the Construction Workers
+  -> Saved: data/scheme3/Tool Purchase Grant for the Construction Workers.json
+[64/103] Scraping: Trade and Business Sector Scheme (HSFDC)
+  -> Saved: data/scheme3/Trade and Business Sector Scheme (HSFDC).json
+[65/103] Scraping: Trademark Reimbursement Scheme
+  -> Saved: data/scheme3/Trademark Reimbursement Scheme.json
+[66/103] Scraping: Transgender Utthan Kosh - Self Employment Programme for Transgender
+  -> Saved: data/scheme3/Transgender Utthan Kosh - Self Employment Programme for Transgender.json
+[67/103] Scraping: Transport Loan Scheme
+  -> Saved: data/scheme3/Transport Loan Scheme.json
+[68/103] Scraping: Tribals Development Plan: Purchase of Tourist Taxi
+  -> Saved: data/scheme3/Tribals Development Plan Purchase of Tourist Taxi.json
+[69/103] Scraping: Tribals Development Plan: Tea/Coffee And Coconut Parlor
+  -> Saved: data/scheme3/Tribals Development Plan TeaCoffee And Coconut Parlor.json
+[70/103] Scraping: Tripura Industrial Investment Promotion Incentive
+  -> Saved: data/scheme3/Tripura Industrial Investment Promotion Incentive.json
+[71/103] Scraping: Udyogini Scheme
+  -> Saved: data/scheme3/Udyogini Scheme.json
+[72/103] Scraping: Unemployed Youth Employment Generation Programme
+  -> Saved: data/scheme3/Unemployed Youth Employment Generation Programme.json
+[73/103] Scraping: USERC Establishment and Operation of Entrepreneurship Development Centers
+  -> Saved: data/scheme3/USERC Establishment and Operation of Entrepreneurship Development Centers.json
+[74/103] Scraping: Uttar Poorva Transformative Industrialization Scheme
+  -> Saved: data/scheme3/Uttar Poorva Transformative Industrialization Scheme.json
+[75/103] Scraping: Uttarakhand Mega Industrial and Investment Policy - 2021
+  -> Saved: data/scheme3/Uttarakhand Mega Industrial and Investment Policy - 2021.json
+[76/103] Scraping: Uttarakhand Micro, Small and Medium Enterprises Policy - 2023
+  -> Saved: data/scheme3/Uttarakhand Micro, Small and Medium Enterprises Policy - 2023.json
+[77/103] Scraping: Uttarakhand Startup Policy-2023
+  -> Saved: data/scheme3/Uttarakhand Startup Policy-2023.json
+[78/103] Scraping: Uttarakhand Tourism Entrepreneur Promotion Scheme
+  -> Saved: data/scheme3/Uttarakhand Tourism Entrepreneur Promotion Scheme.json
+[79/103] Scraping: Veer Chandra Singh Garhwali Paryatan Swarojgar Yojana
+  -> Saved: data/scheme3/Veer Chandra Singh Garhwali Paryatan Swarojgar Yojana.json
+[80/103] Scraping: Venture Capital Fund for Scheduled Castes
+  -> Saved: data/scheme3/Venture Capital Fund for Scheduled Castes.json
+[81/103] Scraping: Vishesh Katan, Vankari & Vanat Sahay (Spinning & Weaving Assistance Scheme)
+  -> Saved: data/scheme3/Vishesh Katan, Vankari & Vanat Sahay (Spinning & Weaving Assistance Scheme).json
+[82/103] Scraping: West Bengal Artisans Financial Benefit Scheme 2024: Grant to Industrial Cooperative Society
+  -> Saved: data/scheme3/West Bengal Artisans Financial Benefit Scheme 2024 Grant to Industrial Cooperative Society.json
+[83/103] Scraping: West Bengal Artisans Financial Benefit Scheme: Facilitation Supports
+  -> Saved: data/scheme3/West Bengal Artisans Financial Benefit Scheme Facilitation Supports.json
+[84/103] Scraping: West Bengal Artisans Financial Benefit Scheme: Support for Digital Marketing
+  -> Saved: data/scheme3/West Bengal Artisans Financial Benefit Scheme Support for Digital Marketing.json
+[85/103] Scraping: West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Assistance to Individual Handloom Weaver
+  -> Saved: data/scheme3/West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024 Assistance to Individual Handloom Weaver.json
+[86/103] Scraping: West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Assistance to Viable and Potentially Viable PWCS
+  -> Saved: data/scheme3/West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024 Assistance to Viable and Potentially Viable PWCS.json
+[87/103] Scraping: West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Supply of Yarn to Societies etc. at Subsidized Rate
+  -> Saved: data/scheme3/West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024 Supply of Yarn to Societies etc. at Subsidized Rate.json
+[88/103] Scraping: West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Support for One Time Settlement (OTS) of NPA Accounts of PWCS
+  -> Saved: data/scheme3/West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024 Support for One Time Settlement (OTS) of NPA Accounts of PWCS.json
+[89/103] Scraping: West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Construction of Approach Road
+  -> Saved: data/scheme3/West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs Construction of Approach Road.json
+[90/103] Scraping: West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Incentive for Basic and Essential Common Infrastructure Facilities
+  -> Saved: data/scheme3/West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs Incentive for Basic and Essential Common Infrastructure Facilitie.json
+[91/103] Scraping: West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Incentive for Common Effluent Treatment Plant (CETP)
+  -> Saved: data/scheme3/West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs Incentive for Common Effluent Treatment Plant (CETP).json
+[92/103] Scraping: West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Incentive for Setting up a Power Sub Station
+  -> Saved: data/scheme3/West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs Incentive for Setting up a Power Sub Station.json
+[93/103] Scraping: West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Reimbursement of Stamp Duty
+  -> Saved: data/scheme3/West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs Reimbursement of Stamp Duty.json
+[94/103] Scraping: West Bengal Textile Incentive Scheme: Incentive for Energy Efficiency
+  -> Saved: data/scheme3/West Bengal Textile Incentive Scheme Incentive for Energy Efficiency.json
+[95/103] Scraping: West Bengal Textile Incentive Scheme: Power Subsidy
+  -> Saved: data/scheme3/West Bengal Textile Incentive Scheme Power Subsidy.json
+[96/103] Scraping: West Bengal Textile Incentive Scheme: Reimbursement of Stamp Duty and Registration Fee
+  -> Saved: data/scheme3/West Bengal Textile Incentive Scheme Reimbursement of Stamp Duty and Registration Fee.json
+[97/103] Scraping: West Bengal Textile Incentive Scheme: State Capital Investment Subsidy
+  -> Saved: data/scheme3/West Bengal Textile Incentive Scheme State Capital Investment Subsidy.json
+[98/103] Scraping: West Bengal Textile Incentive Scheme: Subsidy for Water conservation/ Environment Compliance
+  -> Saved: data/scheme3/West Bengal Textile Incentive Scheme Subsidy for Water conservation Environment Compliance.json
+[99/103] Scraping: West Bengal Textile Incentive Scheme: Waiver of Electricity Duty
+  -> Saved: data/scheme3/West Bengal Textile Incentive Scheme Waiver of Electricity Duty.json
+[100/103] Scraping: West Bengal Textile Incentive Scheme: Waiver of Fees for Land Conversion and Mutation
+  -> Saved: data/scheme3/West Bengal Textile Incentive Scheme Waiver of Fees for Land Conversion and Mutation.json
+[101/103] Scraping: Women Self Employment Scheme
+  -> Saved: data/scheme3/Women Self Employment Scheme.json
+[102/103] Scraping: “Exposure Tour for the Coir Artisans” Component of the "Development of Coir" Scheme
+  -> Saved: data/scheme3/“Exposure Tour for the Coir Artisans” Component of the Development of Coir Scheme.json
+[103/103] Scraping: Skill Development Promotion Scheme
+  -> Saved: data/scheme3/Skill Development Promotion Scheme.json
+(venv) growlt381@grow-lt-381:~/Documents/MProject$ python3 details.py
+[1/130] Scraping: 100% Penalty Mafi Yojana
+  -> Saved: data/my_schemes_6/100% Penalty Mafi Yojana.json
+[2/130] Scraping: Aawasiy Suvidha 1 – Indralok Aawasiy Yojana (Group Housing)
+  -> Saved: data/my_schemes_6/Aawasiy Suvidha 1 – Indralok Aawasiy Yojana (Group Housing).json
+[3/130] Scraping: Abua Awas Yojana
+  -> Saved: data/my_schemes_6/Abua Awas Yojana.json
+[4/130] Scraping: Adi Dravidar and Tribal Welfare Department-Hostels: Special Guides
+  -> Saved: data/my_schemes_6/Adi Dravidar and Tribal Welfare Department-Hostels Special Guides.json
+[5/130] Scraping: Advance for Purchase or Construction of House (GBOCWWB)
+  -> Saved: data/my_schemes_6/Advance for Purchase or Construction of House (GBOCWWB).json
+[6/130] Scraping: Affordable Housing Component in Partnership of Pradhan Mantri Awas Yojana (Urban) under Uttarakhand Housing Policy Rules, 2024
+  -> Saved: data/my_schemes_6/Affordable Housing Component in Partnership of Pradhan Mantri Awas Yojana (Urban) under Uttarakhand Housing Policy Rules, 2024.json
+[7/130] Scraping: Akanksha Housing Scheme
+  -> Saved: data/my_schemes_6/Akanksha Housing Scheme.json
+[8/130] Scraping: Antyodaya Gruha Yojana: Construction of New House
+  -> Saved: data/my_schemes_6/Antyodaya Gruha Yojana Construction of New House.json
+[9/130] Scraping: Antyodaya Gruha Yojana: Incentive to Beneficiaries
+  -> Saved: data/my_schemes_6/Antyodaya Gruha Yojana Incentive to Beneficiaries.json
+[10/130] Scraping: Ashram Schools (Scheduled Tribes)
+  -> Saved: data/my_schemes_6/Ashram Schools (Scheduled Tribes).json
+[11/130] Scraping: Assistance for Completely Damaged/Destroyed Houses
+  -> Saved: data/my_schemes_6/Assistance for Completely DamagedDestroyed Houses.json
+[12/130] Scraping: Assistance for Purchase of House (HBOCWWB)
+  -> Saved: data/my_schemes_6/Assistance for Purchase of House (HBOCWWB).json
+[13/130] Scraping: Atal Asra Yojana
+  -> Saved: data/my_schemes_6/Atal Asra Yojana.json
+[14/130] Scraping: Atal Awas Yojana - Uttarakhand
+  -> Saved: data/my_schemes_6/Atal Awas Yojana - Uttarakhand.json
+[15/130] Scraping: Atithi Uttarakhand Home-Stay Registration
+  -> Saved: data/my_schemes_6/Atithi Uttarakhand Home-Stay Registration.json
+[16/130] Scraping: AVYAY - National Action Plan for Senior Citizens: Health and Shelter for Senior Citizens
+  -> Saved: data/my_schemes_6/AVYAY - National Action Plan for Senior Citizens Health and Shelter for Senior Citizens.json
+[17/130] Scraping: Awas Sahayta Yojana for 100% Hearing and Visually Impaired Disabled Students in Special Trades of Industrial Training Institutes
+  -> Saved: data/my_schemes_6/Awas Sahayta Yojana for 100% Hearing and Visually Impaired Disabled Students in Special Trades of Industrial Training Institutes.json
+[18/130] Scraping: Bal Ashrams
+  -> Saved: data/my_schemes_6/Bal Ashrams.json
+[19/130] Scraping: Banglar Awaas Yojana (BAY)
+  -> Saved: data/my_schemes_6/Banglar Awaas Yojana (BAY).json
+[20/130] Scraping: Birsa Awas Nirman Yojana
+  -> Saved: data/my_schemes_6/Birsa Awas Nirman Yojana.json
+[21/130] Scraping: Boarding House Stipend Scheme (Tripura Govt.)
+  -> Saved: data/my_schemes_6/Boarding House Stipend Scheme (Tripura Govt.).json
+[22/130] Scraping: Central Assistance For One Time Settlement Of Displaced Families From PoK And Chhamb Under Prime Minister's Development Package
+  -> Saved: data/my_schemes_6/Central Assistance For One Time Settlement Of Displaced Families From PoK And Chhamb Under Prime Minister's Development Package.json
+[23/130] Scraping: Chief Minister Housing Assistance Programme
+  -> Saved: data/my_schemes_6/Chief Minister Housing Assistance Programme.json
+[24/130] Scraping: Chief Minister's Adarsh Gram Yoiana 2017
+  -> Saved: data/my_schemes_6/Chief Minister's Adarsh Gram Yoiana 2017.json
+[25/130] Scraping: Chief Minister's Building and Other Construction Workers Housing (Rural) Scheme
+  -> Saved: data/my_schemes_6/Chief Minister's Building and Other Construction Workers Housing (Rural) Scheme.json
+[26/130] Scraping: Chief Minister's Building and Other Construction Workers Urban Housing Scheme (MPBOCWWB)
+  -> Saved: data/my_schemes_6/Chief Minister's Building and Other Construction Workers Urban Housing Scheme (MPBOCWWB).json
+[27/130] Scraping: Chief Ministers House Rent
+  -> Saved: data/my_schemes_6/Chief Ministers House Rent.json
+[28/130] Scraping: Compensation for Loss of Life and Property Caused by Wild Animals in and around Forest Areas: Assistance for Damage to Houses Due to Wild Elephant Attacks
+  -> Saved: data/my_schemes_6/Compensation for Loss of Life and Property Caused by Wild Animals in and around Forest Areas Assistance for Damage to Houses Due to Wild Ele.json
+[29/130] Scraping: Construction of Free Houses for Tribals
+  -> Saved: data/my_schemes_6/Construction of Free Houses for Tribals.json
+[30/130] Scraping: Construction of Hostels for OBC Boys and Girls
+  -> Saved: data/my_schemes_6/Construction of Hostels for OBC Boys and Girls.json
+[31/130] Scraping: Construction Workers Night Shelter Scheme (MPBOCWWB)
+  -> Saved: data/my_schemes_6/Construction Workers Night Shelter Scheme (MPBOCWWB).json
+[32/130] Scraping: Credit Linked Subsidy Scheme for Middle Income Group
+  -> Saved: data/my_schemes_6/Credit Linked Subsidy Scheme for Middle Income Group.json
+[33/130] Scraping: Deen Dayal Antyodaya Yojana - National Urban Livelihoods Mission (DAY-NULM): Support for Urban Homeless – Uttarakhand
+  -> Saved: data/my_schemes_6/Deen Dayal Antyodaya Yojana - National Urban Livelihoods Mission (DAY-NULM) Support for Urban Homeless – Uttarakhand.json
+[34/130] Scraping: Deen Dayal Disabled Rehabilitation Scheme
+  -> Saved: data/my_schemes_6/Deen Dayal Disabled Rehabilitation Scheme.json
+[35/130] Scraping: Deen Dayal Upadhyaya Grah Aawas (Home-Stay) Vikas Yojana
+  -> Saved: data/my_schemes_6/Deen Dayal Upadhyaya Grah Aawas (Home-Stay) Vikas Yojana.json
+[36/130] Scraping: Distribution of Free House Sites to Scheduled Caste/Other Economically Backward Classes
+  -> Saved: data/my_schemes_6/Distribution of Free House Sites to Scheduled CasteOther Economically Backward Classes.json
+[37/130] Scraping: Dr. Ambedkar Awas Yojana
+  -> Saved: data/my_schemes_6/Dr. Ambedkar Awas Yojana.json
+[38/130] Scraping: Dr. Babu Jagjivan Ram Living cum work shed Construction Scheme
+  -> Saved: data/my_schemes_6/Dr. Babu Jagjivan Ram Living cum work shed Construction Scheme.json
+[39/130] Scraping: Financial Aid For Providing Hostel Facility To Transgender Students
+  -> Saved: data/my_schemes_6/Financial Aid For Providing Hostel Facility To Transgender Students.json
+[40/130] Scraping: Financial Assistance as Interest Subsidy on Home Loan
+  -> Saved: data/my_schemes_6/Financial Assistance as Interest Subsidy on Home Loan.json
+[41/130] Scraping: Financial Assistance for Hostel Facility in Professional/Technical Institutions (HBOCWWB)
+  -> Saved: data/my_schemes_6/Financial Assistance for Hostel Facility in ProfessionalTechnical Institutions (HBOCWWB).json
+[42/130] Scraping: Financial Assistance for Purchase or Construction of House (UKBOCWWB)
+  -> Saved: data/my_schemes_6/Financial Assistance for Purchase or Construction of House (UKBOCWWB).json
+[43/130] Scraping: Free Caste Hostel (De-Notified, Nomadic and Semi-Nomadic Communities)
+  -> Saved: data/my_schemes_6/Free Caste Hostel (De-Notified, Nomadic and Semi-Nomadic Communities).json
+[44/130] Scraping: Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana
+  -> Saved: data/my_schemes_6/Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana.json
+[45/130] Scraping: Garima Greh Shelter Homes For Transgender Persons
+  -> Saved: data/my_schemes_6/Garima Greh Shelter Homes For Transgender Persons.json
+[46/130] Scraping: Gaushala Vikas Yojana
+  -> Saved: data/my_schemes_6/Gaushala Vikas Yojana.json
+[47/130] Scraping: Government Service Home - Tamil Nadu
+  -> Saved: data/my_schemes_6/Government Service Home - Tamil Nadu.json
+[48/130] Scraping: Government Special School for the Visually Handicapped and the Hearing Impaired
+  -> Saved: data/my_schemes_6/Government Special School for the Visually Handicapped and the Hearing Impaired.json
+[49/130] Scraping: Government Working Women’s Hostel
+  -> Saved: data/my_schemes_6/Government Working Women’s Hostel.json
+[50/130] Scraping: Grant for the Repair of House (BBOCWWB)
+  -> Saved: data/my_schemes_6/Grant for the Repair of House (BBOCWWB).json
+[51/130] Scraping: Grant In Aid Hostels
+  -> Saved: data/my_schemes_6/Grant In Aid Hostels.json
+[52/130] Scraping: Grant In Aid To Old Age Home
+  -> Saved: data/my_schemes_6/Grant In Aid To Old Age Home.json
+[53/130] Scraping: Grant of House Construction Subsidy to Scheduled Caste People
+  -> Saved: data/my_schemes_6/Grant of House Construction Subsidy to Scheduled Caste People.json
+[54/130] Scraping: Grant-in-Aid to Non-governmental Organisations Running Residential Homes for the Children, Aged, and Vulnerable Persons Under Social Defence
+  -> Saved: data/my_schemes_6/Grant-in-Aid to Non-governmental Organisations Running Residential Homes for the Children, Aged, and Vulnerable Persons Under Social Defence.json
+[55/130] Scraping: Halpati Housing Scheme
+  -> Saved: data/my_schemes_6/Halpati Housing Scheme.json
+[56/130] Scraping: Home for Mentally Challenged Children
+  -> Saved: data/my_schemes_6/Home for Mentally Challenged Children.json
+[57/130] Scraping: Home Loan Interest Subsidy Scheme- Gujarat Labour Welfare Board
+  -> Saved: data/my_schemes_6/Home Loan Interest Subsidy Scheme- Gujarat Labour Welfare Board.json
+[58/130] Scraping: Homes For Intellectually Impaired Persons
+  -> Saved: data/my_schemes_6/Homes For Intellectually Impaired Persons.json
+[59/130] Scraping: Hostel Assistance Scheme for Children of Migrant Construction Workers (GBOCWWB)
+  -> Saved: data/my_schemes_6/Hostel Assistance Scheme for Children of Migrant Construction Workers (GBOCWWB).json
+[60/130] Scraping: Hostel Facility Scheme (HPBOCWWB)
+  -> Saved: data/my_schemes_6/Hostel Facility Scheme (HPBOCWWB).json
+[61/130] Scraping: Hostel Rent Assistance Scheme for Tribal Students
+  -> Saved: data/my_schemes_6/Hostel Rent Assistance Scheme for Tribal Students.json
+[62/130] Scraping: House Building Loan Scheme for Employees of Government of Goa
+  -> Saved: data/my_schemes_6/House Building Loan Scheme for Employees of Government of Goa.json
+[63/130] Scraping: House Subsidy Scheme
+  -> Saved: data/my_schemes_6/House Subsidy Scheme.json
+[64/130] Scraping: Housing Assistance (Madhya Pradesh)
+  -> Saved: data/my_schemes_6/Housing Assistance (Madhya Pradesh).json
+[65/130] Scraping: Housing Subsidy Scheme (GBOCWWB)
+  -> Saved: data/my_schemes_6/Housing Subsidy Scheme (GBOCWWB).json
+[66/130] Scraping: Imbichi Bawa Housing Renovation Scheme
+  -> Saved: data/my_schemes_6/Imbichi Bawa Housing Renovation Scheme.json
+[67/130] Scraping: Indian Community Welfare Fund
+  -> Saved: data/my_schemes_6/Indian Community Welfare Fund.json
+[68/130] Scraping: Integrated Hostel Scheme
+  -> Saved: data/my_schemes_6/Integrated Hostel Scheme.json
+[69/130] Scraping: Kalakar Kritadnyata Nidhi: Compensation Towards Natural Calamities
+  -> Saved: data/my_schemes_6/Kalakar Kritadnyata Nidhi Compensation Towards Natural Calamities.json
+[70/130] Scraping: Kasturba Gandhi Residential Girls’ Hostel
+  -> Saved: data/my_schemes_6/Kasturba Gandhi Residential Girls’ Hostel.json
+[71/130] Scraping: Loans and Advances for Construction of a House
+  -> Saved: data/my_schemes_6/Loans and Advances for Construction of a House.json
+[72/130] Scraping: Mahila Swayamsiddha Yojana Rajasthan
+  -> Saved: data/my_schemes_6/Mahila Swayamsiddha Yojana Rajasthan.json
+[73/130] Scraping: Maintenance of Govt Boys and Girls Hostels (SC)
+  -> Saved: data/my_schemes_6/Maintenance of Govt Boys and Girls Hostels (SC).json
+[74/130] Scraping: Mamasaheb Phadke Management of Govt Adarsh ​​Residential Schools (SC) Scheme
+  -> Saved: data/my_schemes_6/Mamasaheb Phadke Management of Govt Adarsh ​​Residential Schools (SC) Scheme.json
+[75/130] Scraping: Map Approval through UDAY App
+  -> Saved: data/my_schemes_6/Map Approval through UDAY App.json
+[76/130] Scraping: Map Simplification Process
+  -> Saved: data/my_schemes_6/Map Simplification Process.json
+[77/130] Scraping: Mukhyamantri Aawasiye Bhu-Adhikaar Yojana
+  -> Saved: data/my_schemes_6/Mukhyamantri Aawasiye Bhu-Adhikaar Yojana.json
+[78/130] Scraping: Mukhyamantri Awas Yojna (HPBOCWWB)
+  -> Saved: data/my_schemes_6/Mukhyamantri Awas Yojna (HPBOCWWB).json
+[79/130] Scraping: Mukhyamantri Gramin Awas Yojana
+  -> Saved: data/my_schemes_6/Mukhyamantri Gramin Awas Yojana.json
+[80/130] Scraping: Mukhyamantri Vas Sthal Kray Sahayata Yojana
+  -> Saved: data/my_schemes_6/Mukhyamantri Vas Sthal Kray Sahayata Yojana.json
+[81/130] Scraping: Mukhyamantri Vidwa Evam Ekal Naari Awas Yojana
+  -> Saved: data/my_schemes_6/Mukhyamantri Vidwa Evam Ekal Naari Awas Yojana.json
+[82/130] Scraping: Nari Niketans
+  -> Saved: data/my_schemes_6/Nari Niketans.json
+[83/130] Scraping: Netaji Subhash Chandra Bose Residential Hostel
+  -> Saved: data/my_schemes_6/Netaji Subhash Chandra Bose Residential Hostel.json
+[84/130] Scraping: NIJASHAREE HOUSING SCHEME
+  -> Saved: data/my_schemes_6/NIJASHAREE HOUSING SCHEME.json
+[85/130] Scraping: Nirman Shramik Pucca Ghar Yojana
+  -> Saved: data/my_schemes_6/Nirman Shramik Pucca Ghar Yojana.json
+[86/130] Scraping: Observation Home and Special School
+  -> Saved: data/my_schemes_6/Observation Home and Special School.json
+[87/130] Scraping: Old Age Homes - Tamil Nadu
+  -> Saved: data/my_schemes_6/Old Age Homes - Tamil Nadu.json
+[88/130] Scraping: Opening and Maintenance of Boys and Girls Hostels
+  -> Saved: data/my_schemes_6/Opening and Maintenance of Boys and Girls Hostels.json
+[89/130] Scraping: Operation of Ashram Hostels
+  -> Saved: data/my_schemes_6/Operation of Ashram Hostels.json
+[90/130] Scraping: Operation of SC Senior Hostel
+  -> Saved: data/my_schemes_6/Operation of SC Senior Hostel.json
+[91/130] Scraping: Operation of Sports Hostels
+  -> Saved: data/my_schemes_6/Operation of Sports Hostels.json
+[92/130] Scraping: Panchayat Samiti Nandishala Jan Sahbhagita Yojana
+  -> Saved: data/my_schemes_6/Panchayat Samiti Nandishala Jan Sahbhagita Yojana.json
+[93/130] Scraping: Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare) (EBC)
+  -> Saved: data/my_schemes_6/Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare) (EBC).json
+[94/130] Scraping: Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare) (NT-DNT)
+  -> Saved: data/my_schemes_6/Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare) (NT-DNT).json
+[95/130] Scraping: Pandit Dindayal Upadhyay Awas Yojana-Developing Caste Welfare
+  -> Saved: data/my_schemes_6/Pandit Dindayal Upadhyay Awas Yojana-Developing Caste Welfare.json
+[96/130] Scraping: Pedalandariki Illu
+  -> Saved: data/my_schemes_6/Pedalandariki Illu.json
+[97/130] Scraping: PM Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN)
+  -> Saved: data/my_schemes_6/PM Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN).json
+[98/130] Scraping: Pradhan Mantri Awaas Yojana - Gramin
+  -> Saved: data/my_schemes_6/Pradhan Mantri Awaas Yojana - Gramin.json
+[99/130] Scraping: Pradhan Mantri Awaas Yojana - Gramin, Uttarakhand
+  -> Saved: data/my_schemes_6/Pradhan Mantri Awaas Yojana - Gramin, Uttarakhand.json
+[100/130] Scraping: Pradhan Mantri Awas Yojana - Urban
+  -> Saved: data/my_schemes_6/Pradhan Mantri Awas Yojana - Urban.json
+[101/130] Scraping: Pradhan Mantri Awas Yojana – Urban: Individual House Construction Component - Beneficiary Led Construction (BLC) Uttarakhand
+  -> Saved: data/my_schemes_6/Pradhan Mantri Awas Yojana – Urban Individual House Construction Component - Beneficiary Led Construction (BLC) Uttarakhand.json
+[102/130] Scraping: Pratyasha Scheme- West Bengal
+  -> Saved: data/my_schemes_6/Pratyasha Scheme- West Bengal.json
+[103/130] Scraping: Procedure for Admission in Government Child Care Institution, Government Communication Home and Open Shelter Home
+  -> Saved: data/my_schemes_6/Procedure for Admission in Government Child Care Institution, Government Communication Home and Open Shelter Home.json
+[104/130] Scraping: Procedure for Admission to Government Women Welfare and Rehabilitation Centre and Women's Home
+  -> Saved: data/my_schemes_6/Procedure for Admission to Government Women Welfare and Rehabilitation Centre and Women's Home.json
+[105/130] Scraping: Providing Model Maps for Residential Construction
+  -> Saved: data/my_schemes_6/Providing Model Maps for Residential Construction.json
+[106/130] Scraping: Pucca Ghar Yojana (Mining)
+  -> Saved: data/my_schemes_6/Pucca Ghar Yojana (Mining).json
+[107/130] Scraping: Purchase/Construction of House for the Construction Workers
+  -> Saved: data/my_schemes_6/PurchaseConstruction of House for the Construction Workers.json
+[108/130] Scraping: Ramai Awas (Gharkul) Scheme for SC & Nav-Buddha (Urban and Rural)
+  -> Saved: data/my_schemes_6/Ramai Awas (Gharkul) Scheme for SC & Nav-Buddha (Urban and Rural).json
+[109/130] Scraping: Relief and Rehabilitation Assistance to Sri Lankan Refugees in the Refugee Camps
+  -> Saved: data/my_schemes_6/Relief and Rehabilitation Assistance to Sri Lankan Refugees in the Refugee Camps.json
+[110/130] Scraping: Residential School For Blinds
+  -> Saved: data/my_schemes_6/Residential School For Blinds.json
+[111/130] Scraping: Running of Scheduled Caste Hostel
+  -> Saved: data/my_schemes_6/Running of Scheduled Caste Hostel.json
+[112/130] Scraping: Santwana Scheme - Karnataka
+  -> Saved: data/my_schemes_6/Santwana Scheme - Karnataka.json
+[113/130] Scraping: Sardar Patel Awas Yojana
+  -> Saved: data/my_schemes_6/Sardar Patel Awas Yojana.json
+[114/130] Scraping: Scheduled Caste Boys/Girls Housing Assistance Scheme
+  -> Saved: data/my_schemes_6/Scheduled Caste BoysGirls Housing Assistance Scheme.json
+[115/130] Scraping: Scheme for Construction of Multipurpose Community Halls in Areas Inhabited by Tribal Community (Sanskruti Bhavan)
+  -> Saved: data/my_schemes_6/Scheme for Construction of Multipurpose Community Halls in Areas Inhabited by Tribal Community (Sanskruti Bhavan).json
+[116/130] Scraping: Scheme For Loan And Advances to the Beneficiary For Construction Of House
+  -> Saved: data/my_schemes_6/Scheme For Loan And Advances to the Beneficiary For Construction Of House.json
+[117/130] Scraping: Security Related Expenditure (Relief and Rehabilitation)
+  -> Saved: data/my_schemes_6/Security Related Expenditure (Relief and Rehabilitation).json
+[118/130] Scraping: Shramik Basera Yojana (GBOCWWB)
+  -> Saved: data/my_schemes_6/Shramik Basera Yojana (GBOCWWB).json
+[119/130] Scraping: Shree Nanaji Deshmukh Awas Yojana (GBOCWWB)
+  -> Saved: data/my_schemes_6/Shree Nanaji Deshmukh Awas Yojana (GBOCWWB).json
+[120/130] Scraping: State Government-Run Old Age and Infirm Homes
+  -> Saved: data/my_schemes_6/State Government-Run Old Age and Infirm Homes.json
+[121/130] Scraping: State Senior Citizens Home
+  -> Saved: data/my_schemes_6/State Senior Citizens Home.json
+[122/130] Scraping: State Welfare Scheme For Purohits
+  -> Saved: data/my_schemes_6/State Welfare Scheme For Purohits.json
+[123/130] Scraping: Swaran Jayanti Ashray Yojana - Himachal Pradesh
+  -> Saved: data/my_schemes_6/Swaran Jayanti Ashray Yojana - Himachal Pradesh.json
+[124/130] Scraping: Thatched House Repair Grant for Re-thatching & Repairs (Sainik Welfare)
+  -> Saved: data/my_schemes_6/Thatched House Repair Grant for Re-thatching & Repairs (Sainik Welfare).json
+[125/130] Scraping: Usha Kiran Yojana
+  -> Saved: data/my_schemes_6/Usha Kiran Yojana.json
+[126/130] Scraping: Vadh Se Bachaye Govansh Ko Sahayata Yojana
+  -> Saved: data/my_schemes_6/Vadh Se Bachaye Govansh Ko Sahayata Yojana.json
+[127/130] Scraping: Ved-Vyas Housing Construction Scheme
+  -> Saved: data/my_schemes_6/Ved-Vyas Housing Construction Scheme.json
+[128/130] Scraping: Yashwantrao Chavan Mukta Vasahat Yojana for VJNTs
+  -> Saved: data/my_schemes_6/Yashwantrao Chavan Mukta Vasahat Yojana for VJNTs.json
+[129/130] Scraping: Youth Hostel Scheme
+  -> Saved: data/my_schemes_6/Youth Hostel Scheme.json
+[130/130] Scraping: “Home for the Aged" under Grant-in-Aid to Pondicherry Society for the Care of the Aged (PONCARE)
+  -> Saved: data/my_schemes_6/“Home for the Aged under Grant-in-Aid to Pondicherry Society for the Care of the Aged (PONCARE).json
+(venv) growlt381@grow-lt-381:~/Documents/MProject$ git init
+Reinitialized existing Git repository in /home/growlt381/Documents/MProject/.git/
+(venv) growlt381@grow-lt-381:~/Documents/MProject$ python3 data_scraper.py
+[1/1040] Scraping: "SUPER 30" Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/SUPER 30 Scheme.json
+[2/1040] Scraping: 6% Interest Subsidy on Loans taken through Banks for Study Abroad
+  -> Saved: data/schemes_data_json/my_schemes_4/6% Interest Subsidy on Loans taken through Banks for Study Abroad.json
+[3/1040] Scraping: A Scheme to Provide Free Tablets to Std.12th Pass Students
+  -> Saved: data/schemes_data_json/my_schemes_4/A Scheme to Provide Free Tablets to Std.12th Pass Students.json
+[4/1040] Scraping: Aam Aadmi Bima Yojana (Maharashtra)
+  -> Saved: data/schemes_data_json/my_schemes_4/Aam Aadmi Bima Yojana (Maharashtra).json
+[5/1040] Scraping: Aapki Beti Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Aapki Beti Yojana.json
+[6/1040] Scraping: Aaws Bhatta Sahayata Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Aaws Bhatta Sahayata Yojana.json
+[7/1040] Scraping: Abhinandan Education Loan Subsidy Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Abhinandan Education Loan Subsidy Scheme.json
+[8/1040] Scraping: Academic Education (JKBOCWWB)
+  -> Saved: data/schemes_data_json/my_schemes_4/Academic Education (JKBOCWWB).json
+[9/1040] Scraping: Academic Scholarship Scheme (Labor Welfare Board Madhya Pradesh)
+  -> Saved: data/schemes_data_json/my_schemes_4/Academic Scholarship Scheme (Labor Welfare Board Madhya Pradesh).json
+[10/1040] Scraping: Access To Knowledge For Technology Development And Dissemination (A2K+) - Studies
+  -> Saved: data/schemes_data_json/my_schemes_4/Access To Knowledge For Technology Development And Dissemination (A2K+) - Studies.json
+[11/1040] Scraping: Additional Financial Assistance for the Children of Persons Engaged in the Cleaning Profession
+  -> Saved: data/schemes_data_json/my_schemes_4/Additional Financial Assistance for the Children of Persons Engaged in the Cleaning Profession.json
+[12/1040] Scraping: Adi Dravidar and Tribal Welfare Department-Hostels: Special Guides
+  -> Saved: data/schemes_data_json/my_schemes_4/Adi Dravidar and Tribal Welfare Department-Hostels Special Guides.json
+[13/1040] Scraping: Adi Dravidar and Tribal Welfare Department-Incentive/Award of Prizes
+  -> Saved: data/schemes_data_json/my_schemes_4/Adi Dravidar and Tribal Welfare Department-IncentiveAward of Prizes.json
+[14/1040] Scraping: Adi Dravidar and Tribal Welfare Department: Incentive/Award of Prizes-For Each Subjects
+  -> Saved: data/schemes_data_json/my_schemes_4/Adi Dravidar and Tribal Welfare Department IncentiveAward of Prizes-For Each Subjects.json
+[15/1040] Scraping: Adi Dravidar and Tribal Welfare Department: Scholarship-Free Education upto 12th Std. to All
+  -> Saved: data/schemes_data_json/my_schemes_4/Adi Dravidar and Tribal Welfare Department Scholarship-Free Education upto 12th Std. to All.json
+[16/1040] Scraping: Adi Dravidar and Tribal Welfare Department: Stationary-Text Books
+  -> Saved: data/schemes_data_json/my_schemes_4/Adi Dravidar and Tribal Welfare Department Stationary-Text Books.json
+[17/1040] Scraping: Admission in Post Matric Hostel
+  -> Saved: data/schemes_data_json/my_schemes_4/Admission in Post Matric Hostel.json
+[18/1040] Scraping: Admission of Adi Dravidar/Tribal Students in Plus One at Reputed Schools
+  -> Saved: data/schemes_data_json/my_schemes_4/Admission of Adi DravidarTribal Students in Plus One at Reputed Schools.json
+[19/1040] Scraping: Admission Process in All Government and Non-Government Schools of the State
+  -> Saved: data/schemes_data_json/my_schemes_4/Admission Process in All Government and Non-Government Schools of the State.json
+[20/1040] Scraping: Advocate Graduate Stipend Gujarat
+  -> Saved: data/schemes_data_json/my_schemes_4/Advocate Graduate Stipend Gujarat.json
+[21/1040] Scraping: Advocate Grant
+  -> Saved: data/schemes_data_json/my_schemes_4/Advocate Grant.json
+[22/1040] Scraping: Agriculture Academic Studies Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Agriculture Academic Studies Scheme.json
+[23/1040] Scraping: AICTE - Distinguished Chair Professor Fellowship
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE - Distinguished Chair Professor Fellowship.json
+[24/1040] Scraping: AICTE - Grant For Augmenting Infrastructure In North Eastern Region
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE - Grant For Augmenting Infrastructure In North Eastern Region.json
+[25/1040] Scraping: AICTE - Scheme For Promoting Interests, Creativity And Ethics Among Students
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE - Scheme For Promoting Interests, Creativity And Ethics Among Students.json
+[26/1040] Scraping: AICTE e-Shodh Sindhu Scheme (eSS)
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE e-Shodh Sindhu Scheme (eSS).json
+[27/1040] Scraping: AICTE – Mitacs Globalink Research Internship (GRI) Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE – Mitacs Globalink Research Internship (GRI) Scheme.json
+[28/1040] Scraping: AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Degree)
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Degree).json
+[29/1040] Scraping: AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Diploma)
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Diploma).json
+[30/1040] Scraping: AICTE- Technical University Joint Training Programs for Librarians
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE- Technical University Joint Training Programs for Librarians.json
+[31/1040] Scraping: AICTE- TECHNICAL UNIVERSITY JOINT TRAINING PROGRAMS FOR TEACHERS
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE- TECHNICAL UNIVERSITY JOINT TRAINING PROGRAMS FOR TEACHERS.json
+[32/1040] Scraping: AICTE-IDEA (Idea Development, Evaluation & Application) LAB SCHEME
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE-IDEA (Idea Development, Evaluation & Application) LAB SCHEME.json
+[33/1040] Scraping: AICTE-INAE Distinguished Visiting Professorship Scheme
+  -> Empty content for https://www.myscheme.gov.in/schemes/dvps, skipped.
+[34/1040] Scraping: AICTE-INAE Travel Grant Scheme For Engineering Students From AICTE Approved Engineering College/Institution
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE-INAE Travel Grant Scheme For Engineering Students From AICTE Approved Engineering CollegeInstitution.json
+[35/1040] Scraping: AICTE-Margdarshan scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE-Margdarshan scheme.json
+[36/1040] Scraping: AICTE-National Initiative for Training of Technical Teachers (for Inductee Teachers) Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE-National Initiative for Training of Technical Teachers (for Inductee Teachers) Scheme.json
+[37/1040] Scraping: AICTE-PROFESSIONAL DEVELOPMENT SCHEME
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE-PROFESSIONAL DEVELOPMENT SCHEME.json
+[38/1040] Scraping: AICTE-QUALITY IMPROVEMENT (FOREIGN UNIVERSITY) PROGRAMME
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE-QUALITY IMPROVEMENT (FOREIGN UNIVERSITY) PROGRAMME.json
+[39/1040] Scraping: AICTE-SHORT TERM TRAINING PROGRAMME (STTP) (UT-J&K,LADAKH AND NER)
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE-SHORT TERM TRAINING PROGRAMME (STTP) (UT-J&K,LADAKH AND NER).json
+[40/1040] Scraping: AICTE-Swanath Scholarship Scheme For Students
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE-Swanath Scholarship Scheme For Students.json
+[41/1040] Scraping: AICTE-Technical Book Writing & Translation Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE-Technical Book Writing & Translation Scheme.json
+[42/1040] Scraping: AICTE-Training programs for Physical Education Trainers/Sport-Games Teachers/Director of Sports
+  -> Saved: data/schemes_data_json/my_schemes_4/AICTE-Training programs for Physical Education TrainersSport-Games TeachersDirector of Sports.json
+[43/1040] Scraping: Akanksha Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Akanksha Scheme.json
+[44/1040] Scraping: Akhil Bhartiya Sanskrit Kavi Sammelan
+  -> Saved: data/schemes_data_json/my_schemes_4/Akhil Bhartiya Sanskrit Kavi Sammelan.json
+[45/1040] Scraping: Akhil Bhartiya Sanskrit Shodh Sammelan
+  -> Saved: data/schemes_data_json/my_schemes_4/Akhil Bhartiya Sanskrit Shodh Sammelan.json
+[46/1040] Scraping: Akhil Bhartiya Veda Sammelan and Akhil Bhartiya Jyotish Vastu Sammelan
+  -> Empty content for https://www.myscheme.gov.in/schemes/abvsabjvs, skipped.
+[47/1040] Scraping: AlCTE - Distinguished Professional Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/AlCTE - Distinguished Professional Scheme.json
+[48/1040] Scraping: Alpsankhyak Merit-Cum-Means Chatravriti Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Alpsankhyak Merit-Cum-Means Chatravriti Yojana.json
+[49/1040] Scraping: Ambedkar DBT Voucher Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Ambedkar DBT Voucher Scheme.json
+[50/1040] Scraping: Ambedkar Fellowship Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Ambedkar Fellowship Scheme.json
+[51/1040] Scraping: Ambedkar International Scholarship - SC
+  -> Saved: data/schemes_data_json/my_schemes_4/Ambedkar International Scholarship - SC.json
+[52/1040] Scraping: Amit Gautam Memorial Scholarship (B.Tech in Electronics Engineering – 4th Year)
+  -> Saved: data/schemes_data_json/my_schemes_4/Amit Gautam Memorial Scholarship (B.Tech in Electronics Engineering – 4th Year).json
+[53/1040] Scraping: Annal Gandhi Memorial Award
+  -> Saved: data/schemes_data_json/my_schemes_4/Annal Gandhi Memorial Award.json
+[54/1040] Scraping: Anya Pichhda Varg Kalyan Chhatravaas
+  -> Saved: data/schemes_data_json/my_schemes_4/Anya Pichhda Varg Kalyan Chhatravaas.json
+[55/1040] Scraping: APJ Abdul Kalam Scholarship
+  -> Saved: data/schemes_data_json/my_schemes_4/APJ Abdul Kalam Scholarship.json
+[56/1040] Scraping: Arivu Education Loan Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Arivu Education Loan Scheme.json
+[57/1040] Scraping: Arunachal Pradesh State Stipend Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Arunachal Pradesh State Stipend Scheme.json
+[58/1040] Scraping: Asangathit Karmakar Ke Bachcho Hetu Chhatravriti Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Asangathit Karmakar Ke Bachcho Hetu Chhatravriti Yojana.json
+[59/1040] Scraping: Ashram Schools (Scheduled Tribes)
+  -> Saved: data/schemes_data_json/my_schemes_4/Ashram Schools (Scheduled Tribes).json
+[60/1040] Scraping: Ashramshalas (Grant in Aid)
+  -> Saved: data/schemes_data_json/my_schemes_4/Ashramshalas (Grant in Aid).json
+[61/1040] Scraping: Asian Agri-History Foundation Research Fellowship (M.Sc. Agriculture - All Disciplines)
+  -> Empty content for https://www.myscheme.gov.in/schemes/asianagrifellowshipuk, skipped.
+[62/1040] Scraping: Assistance for Purchase of Educational Instruments for Medical, Engineering and Technical Diploma Courses
+  -> Saved: data/schemes_data_json/my_schemes_4/Assistance for Purchase of Educational Instruments for Medical, Engineering and Technical Diploma Courses.json
+[63/1040] Scraping: Assistance for Purchasing Study Materials for Medical and Engineering Students from Socially and Educationally Backward Classes
+  -> Saved: data/schemes_data_json/my_schemes_4/Assistance for Purchasing Study Materials for Medical and Engineering Students from Socially and Educationally Backward Classes.json
+[64/1040] Scraping: Assistance to Law Graduates
+  -> Saved: data/schemes_data_json/my_schemes_4/Assistance to Law Graduates.json
+[65/1040] Scraping: Assistance to Lawyers for Starting their Practice
+  -> Saved: data/schemes_data_json/my_schemes_4/Assistance to Lawyers for Starting their Practice.json
+[66/1040] Scraping: Assistance to Voluntary Organizations Working for Welfare of OBCs
+  -> Saved: data/schemes_data_json/my_schemes_4/Assistance to Voluntary Organizations Working for Welfare of OBCs.json
+[67/1040] Scraping: Aswachh Dhandha Chhaatravrtti
+  -> Saved: data/schemes_data_json/my_schemes_4/Aswachh Dhandha Chhaatravrtti.json
+[68/1040] Scraping: Atal Awasiya Vidyala Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Atal Awasiya Vidyala Yojana.json
+[69/1040] Scraping: Attendance Scholarship Scheme for Girl Students with Disabilities of Rural Areas
+  -> Saved: data/schemes_data_json/my_schemes_4/Attendance Scholarship Scheme for Girl Students with Disabilities of Rural Areas.json
+[70/1040] Scraping: Award For Meritorious Students Of Meghalaya In The HSSLC Examination (Science Stream)
+  -> Saved: data/schemes_data_json/my_schemes_4/Award For Meritorious Students Of Meghalaya In The HSSLC Examination (Science Stream).json
+[71/1040] Scraping: Award for Success in State Public Service Commission, Union Public Service Commission Examination (MPBOCWWB)
+  -> Saved: data/schemes_data_json/my_schemes_4/Award for Success in State Public Service Commission, Union Public Service Commission Examination (MPBOCWWB).json
+[72/1040] Scraping: Award of Adhoc Merit Grant (Special Incentive) to Scheduled Caste Students
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Adhoc Merit Grant (Special Incentive) to Scheduled Caste Students.json
+[73/1040] Scraping: Award of Attendance Scholarship to Girl Students in the Middle Stage of Education
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Attendance Scholarship to Girl Students in the Middle Stage of Education.json
+[74/1040] Scraping: Award of Cash Incentive to the Toppers at Regional Level and Students Scoring Centum in the Subjects Involving Theory in Secondary School Leaving Certificate/Secondary School Certificate/Intermediate/Higher Secondary Public Examinations in Government Schools in the Union Territory of Puducherry
+  -> Empty content for https://www.myscheme.gov.in/schemes/acitrlsscstsslcsscihspegsutp, skipped.
+[75/1040] Scraping: Award of Merit Scholarship for Agricultural Engineering Students (B.Tech 3rd/4th Year)
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Merit Scholarship for Agricultural Engineering Students (B.Tech 3rd4th Year).json
+[76/1040] Scraping: Award of Opportunity Cost to Parents of Scheduled Caste Girl Students
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Opportunity Cost to Parents of Scheduled Caste Girl Students.json
+[77/1040] Scraping: Award of Post-Matric Scholarship to Scheduled Caste Students
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Post-Matric Scholarship to Scheduled Caste Students.json
+[78/1040] Scraping: Award of Pre-Matric Scholarship to Other Economically Backward Class (OEBC) Students
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Pre-Matric Scholarship to Other Economically Backward Class (OEBC) Students.json
+[79/1040] Scraping: Award of Pre-matric Scholarship to Scheduled Caste Students Studying from VI to X Standard in Government Schools and Government recognised Private Schools in the Union Territory of Puducherry
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Pre-matric Scholarship to Scheduled Caste Students Studying from VI to X Standard in Government Schools and Government recognised P.json
+[80/1040] Scraping: Award of Pre-matric Scholarship to the Students Whose Parents Are Engaged in Unclean Occupation
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Pre-matric Scholarship to the Students Whose Parents Are Engaged in Unclean Occupation.json
+[81/1040] Scraping: Award of Puducherry State Post-Matric Scholarship Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Puducherry State Post-Matric Scholarship Scheme.json
+[82/1040] Scraping: Award of Scholarship to Differently Abled Person Students
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Scholarship to Differently Abled Person Students.json
+[83/1040] Scraping: Award of Scholarship to the Cadets Belonging to UT of Puducherry and Studying in Rashtriya Indian Military College, Dehradun
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Scholarship to the Cadets Belonging to UT of Puducherry and Studying in Rashtriya Indian Military College, Dehradun.json
+[84/1040] Scraping: Award of Scholarship to the Children who are Recipients of National Child Award for Exceptional Achievements and Other National / International Merit Awards
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Scholarship to the Children who are Recipients of National Child Award for Exceptional Achievements and Other National Internationa.json
+[85/1040] Scraping: Award of Scholarships to Outstanding NCC Cadets of the UT of Puducherry
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of Scholarships to Outstanding NCC Cadets of the UT of Puducherry.json
+[86/1040] Scraping: Award Of Scholarships To Young Artists In Different Cultural Fields
+  -> Saved: data/schemes_data_json/my_schemes_4/Award Of Scholarships To Young Artists In Different Cultural Fields.json
+[87/1040] Scraping: Award of ₹20,000/- to Best Writers
+  -> Saved: data/schemes_data_json/my_schemes_4/Award of ₹20,000- to Best Writers.json
+[88/1040] Scraping: Award Scheme for Candidates Selected in NDA, IMA, OTA, INA, IAF
+  -> Saved: data/schemes_data_json/my_schemes_4/Award Scheme for Candidates Selected in NDA, IMA, OTA, INA, IAF.json
+[89/1040] Scraping: Award to Scheduled Castes Students Who Secured Top Ranks at State and District Level in Standard X & XII (Sahuji Maharaj Assistance)
+  -> Empty content for https://www.myscheme.gov.in/schemes/ascswstrsdlsxxiisma, skipped.
+[90/1040] Scraping: Awarding Laptops To Meritorious Students Of Meghalaya
+  -> Saved: data/schemes_data_json/my_schemes_4/Awarding Laptops To Meritorious Students Of Meghalaya.json
+[91/1040] Scraping: Awarding Teleeducation Scholarships To Afghan Students
+  -> Saved: data/schemes_data_json/my_schemes_4/Awarding Teleeducation Scholarships To Afghan Students.json
+[92/1040] Scraping: Awards to Bright Students
+  -> Saved: data/schemes_data_json/my_schemes_4/Awards to Bright Students.json
+[93/1040] Scraping: Awasiya Vidyala Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Awasiya Vidyala Yojana.json
+[94/1040] Scraping: Back-To-Lab Post-Doctoral Fellowship Programme
+  -> Saved: data/schemes_data_json/my_schemes_4/Back-To-Lab Post-Doctoral Fellowship Programme.json
+[95/1040] Scraping: Back-to-Lab Research Fellowship Programme
+  -> Saved: data/schemes_data_json/my_schemes_4/Back-to-Lab Research Fellowship Programme.json
+[96/1040] Scraping: Backward Class Students Meritorious Award Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Backward Class Students Meritorious Award Scheme.json
+[97/1040] Scraping: Backward Classes Foreign Study Scholarship Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Backward Classes Foreign Study Scholarship Scheme.json
+[98/1040] Scraping: Banishree Scholarship
+  -> Saved: data/schemes_data_json/my_schemes_4/Banishree Scholarship.json
+[99/1040] Scraping: BC & EBC Girls Residential +2 High School
+  -> Saved: data/schemes_data_json/my_schemes_4/BC & EBC Girls Residential +2 High School.json
+[100/1040] Scraping: Bhagwan Birsa Munda Lakshya Siddhi Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Bhagwan Birsa Munda Lakshya Siddhi Yojana.json
+[101/1040] Scraping: Bharati Scheme for Education - 1st Class to 5th Class
+  -> Saved: data/schemes_data_json/my_schemes_4/Bharati Scheme for Education - 1st Class to 5th Class.json
+[102/1040] Scraping: Bharati Scheme for Education - 6th Class to 10th Class
+  -> Saved: data/schemes_data_json/my_schemes_4/Bharati Scheme for Education - 6th Class to 10th Class.json
+[103/1040] Scraping: Bharati Scheme for Education - Graduation
+  -> Saved: data/schemes_data_json/my_schemes_4/Bharati Scheme for Education - Graduation.json
+[104/1040] Scraping: Bharati Scheme for Education - Intermediate or Equivalent
+  -> Saved: data/schemes_data_json/my_schemes_4/Bharati Scheme for Education - Intermediate or Equivalent.json
+[105/1040] Scraping: Bharati Scheme for Education - Post-Graduation
+  -> Empty content for https://www.myscheme.gov.in/schemes/bse-pg, skipped.
+[106/1040] Scraping: Bharati Scheme for Education - Professional Education Course
+  -> Saved: data/schemes_data_json/my_schemes_4/Bharati Scheme for Education - Professional Education Course.json
+[107/1040] Scraping: Bharati Scheme for Education Professional Education Course - Chartered Accountancy Final
+  -> Saved: data/schemes_data_json/my_schemes_4/Bharati Scheme for Education Professional Education Course - Chartered Accountancy Final.json
+[108/1040] Scraping: Bharati Scheme for Education Professional Education Course - Chartered Accountancy Intern
+  -> Saved: data/schemes_data_json/my_schemes_4/Bharati Scheme for Education Professional Education Course - Chartered Accountancy Intern.json
+[109/1040] Scraping: Bharati Scheme for Master’s Degree Overseas
+  -> Saved: data/schemes_data_json/my_schemes_4/Bharati Scheme for Master’s Degree Overseas.json
+[110/1040] Scraping: Bicycle Distribution Scheme for Girl Students of Economically Weaker Section
+  -> Saved: data/schemes_data_json/my_schemes_4/Bicycle Distribution Scheme for Girl Students of Economically Weaker Section.json
+[111/1040] Scraping: Bidya Lakshmi Loan
+  -> Saved: data/schemes_data_json/my_schemes_4/Bidya Lakshmi Loan.json
+[112/1040] Scraping: Bihar State Alpsankhyak Awasiya Vidyalaya Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Bihar State Alpsankhyak Awasiya Vidyalaya Yojana.json
+[113/1040] Scraping: Bihar Student Credit Card Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Bihar Student Credit Card Scheme.json
+[114/1040] Scraping: Biju Yuva Sashaktikaran Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Biju Yuva Sashaktikaran Yojana.json
+[115/1040] Scraping: Biotechnology Career Advancement And Re-orientation (BioCARe) Programme For Women Scientists
+  -> Saved: data/schemes_data_json/my_schemes_4/Biotechnology Career Advancement And Re-orientation (BioCARe) Programme For Women Scientists.json
+[116/1040] Scraping: Biotechnology Post-Doctoral Fellowship
+  -> Saved: data/schemes_data_json/my_schemes_4/Biotechnology Post-Doctoral Fellowship.json
+[117/1040] Scraping: Book Allowance to the Wards of Ex-Servicemen/Widows (Sainik Welfare)
+  -> Saved: data/schemes_data_json/my_schemes_4/Book Allowance to the Wards of Ex-ServicemenWidows (Sainik Welfare).json
+[118/1040] Scraping: Book Bank Scheme: I
+  -> Saved: data/schemes_data_json/my_schemes_4/Book Bank Scheme I.json
+[119/1040] Scraping: Book Bank Scheme: II
+  -> Saved: data/schemes_data_json/my_schemes_4/Book Bank Scheme II.json
+[120/1040] Scraping: Border Areas Scholarship
+  -> Empty content for https://www.myscheme.gov.in/schemes/bas, skipped.
+[121/1040] Scraping: BPL (Below Poverty Line) Student Welfare Scholarship - Technical Education
+  -> Saved: data/schemes_data_json/my_schemes_4/BPL (Below Poverty Line) Student Welfare Scholarship - Technical Education.json
+[122/1040] Scraping: BPL Scholarship for College Students
+  -> Saved: data/schemes_data_json/my_schemes_4/BPL Scholarship for College Students.json
+[123/1040] Scraping: BSR Fellowship Scheme for Science Students - UGC
+  -> Saved: data/schemes_data_json/my_schemes_4/BSR Fellowship Scheme for Science Students - UGC.json
+[124/1040] Scraping: Building And Other Construction Scholarship
+  -> Saved: data/schemes_data_json/my_schemes_4/Building And Other Construction Scholarship.json
+[125/1040] Scraping: Bunkar Parivar Ke Pratibhavan Chatra-Chatraon Ko Protsahan Puraskar Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Bunkar Parivar Ke Pratibhavan Chatra-Chatraon Ko Protsahan Puraskar Yojana.json
+[126/1040] Scraping: Buti Foundation Award
+  -> Saved: data/schemes_data_json/my_schemes_4/Buti Foundation Award.json
+[127/1040] Scraping: C H Muhammedkoya Scholarship
+  -> Saved: data/schemes_data_json/my_schemes_4/C H Muhammedkoya Scholarship.json
+[128/1040] Scraping: CA/ICWA CMA /CS Scholarship
+  -> Saved: data/schemes_data_json/my_schemes_4/CAICWA CMA CS Scholarship.json
+[129/1040] Scraping: Cash Award (A.B.O.C.W.W.B)
+  -> Saved: data/schemes_data_json/my_schemes_4/Cash Award (A.B.O.C.W.W.B).json
+[130/1040] Scraping: Cash Award (APB&OCWWB)
+  -> Saved: data/schemes_data_json/my_schemes_4/Cash Award (APB&OCWWB).json
+[131/1040] Scraping: Cash Award (MBOCWWB)
+  -> Saved: data/schemes_data_json/my_schemes_4/Cash Award (MBOCWWB).json
+[132/1040] Scraping: Cash Award to the Meritorious Visually Impaired Students Obtaining First Three Ranks at the State Level in the SSLC and HSC Examination
+  -> Saved: data/schemes_data_json/my_schemes_4/Cash Award to the Meritorious Visually Impaired Students Obtaining First Three Ranks at the State Level in the SSLC and HSC Examination.json
+[133/1040] Scraping: Cash Award to Top Ranking Holders in Public Examinations
+  -> Saved: data/schemes_data_json/my_schemes_4/Cash Award to Top Ranking Holders in Public Examinations.json
+[134/1040] Scraping: Cash Benefit Scheme Scheme (PBAOCWWB)
+  -> Saved: data/schemes_data_json/my_schemes_4/Cash Benefit Scheme Scheme (PBAOCWWB).json
+[135/1040] Scraping: Cash Incentive to Wards of ESM (Academic Scholarship)
+  -> Saved: data/schemes_data_json/my_schemes_4/Cash Incentive to Wards of ESM (Academic Scholarship).json
+[136/1040] Scraping: CBSE Merit Scholarship Scheme For Single Girl Child
+  -> Saved: data/schemes_data_json/my_schemes_4/CBSE Merit Scholarship Scheme For Single Girl Child.json
+[137/1040] Scraping: Central Sector Scheme of National Fellowship for Providing Fellowship to Scheduled Caste Students to Pursue M.Phil. & PhD
+  -> Saved: data/schemes_data_json/my_schemes_4/Central Sector Scheme of National Fellowship for Providing Fellowship to Scheduled Caste Students to Pursue M.Phil. & PhD.json
+[138/1040] Scraping: Central Vigilance Commission (CVC) Internship Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Central Vigilance Commission (CVC) Internship Scheme.json
+[139/1040] Scraping: Centrally Sponsored Scheme of Post-Matric Scholarship for OBC Students for studying in India
+  -> Saved: data/schemes_data_json/my_schemes_4/Centrally Sponsored Scheme of Post-Matric Scholarship for OBC Students for studying in India.json
+[140/1040] Scraping: Centrally Sponsored Scheme of Post-Matric Scholarship for OBC, EBC and DNT Students for studying in India
+  -> Empty content for https://www.myscheme.gov.in/schemes/pmsoeds, skipped.
+[141/1040] Scraping: Centrally Sponsored Scheme of Pre-matric Scholarship to Other Backward Classes (OBC) for Studies in India
+  -> Saved: data/schemes_data_json/my_schemes_4/Centrally Sponsored Scheme of Pre-matric Scholarship to Other Backward Classes (OBC) for Studies in India.json
+[142/1040] Scraping: Centrally Sponsored Scheme of Upgradation of Merit of Scheduled Caste Students
+  -> Saved: data/schemes_data_json/my_schemes_4/Centrally Sponsored Scheme of Upgradation of Merit of Scheduled Caste Students.json
+[143/1040] Scraping: Centrally-Sponsored Scheme Of Pre-Matric Scholarship For Scheduled Caste Students Studying In Classes 9th & 10th
+  -> Saved: data/schemes_data_json/my_schemes_4/Centrally-Sponsored Scheme Of Pre-Matric Scholarship For Scheduled Caste Students Studying In Classes 9th & 10th.json
+[144/1040] Scraping: Chhatraon Ke Liye Protsahan Rashi
+  -> Saved: data/schemes_data_json/my_schemes_4/Chhatraon Ke Liye Protsahan Rashi.json
+[145/1040] Scraping: Chhatrawas (Scheduled Caste)
+  -> Saved: data/schemes_data_json/my_schemes_4/Chhatrawas (Scheduled Caste).json
+[146/1040] Scraping: Chhattisgarh Yuva Suchna Kranti Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Chhattisgarh Yuva Suchna Kranti Yojana.json
+[147/1040] Scraping: Chief Minister BC & EBC Chhatravas Anudan Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Chief Minister BC & EBC Chhatravas Anudan Yojana.json
+[148/1040] Scraping: Chief Minister Career Advancement in Biotechnology
+  -> Saved: data/schemes_data_json/my_schemes_4/Chief Minister Career Advancement in Biotechnology.json
+[149/1040] Scraping: Chief Minister EBC Civil Seva Protsahan Yojana
+  -> Saved: data/schemes_data_json/my_schemes_4/Chief Minister EBC Civil Seva Protsahan Yojana.json
+[150/1040] Scraping: Chief Minister Higher Education Scholarship Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Chief Minister Higher Education Scholarship Scheme.json
+[151/1040] Scraping: Chief Minister Merit Award
+  -> Saved: data/schemes_data_json/my_schemes_4/Chief Minister Merit Award.json
+[152/1040] Scraping: Chief Minister Scholarship Scheme
+  -> Saved: data/schemes_data_json/my_schemes_4/Chief Minister Scholarship Scheme.json
+[153/1040] Scraping: Chief Minister's Overseas Scholarship Scheme for Minorities
+  -> Saved: data/schemes_data_json/my_schemes_4/Chief Minister's Overseas Scholarship Scheme for Minorities.json
+[154/1040] Scraping: Chief Minister's Scholarship Scheme

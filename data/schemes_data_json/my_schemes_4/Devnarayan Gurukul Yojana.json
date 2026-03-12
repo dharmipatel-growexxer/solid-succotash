@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Devnarayan Gurukul Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dgyr",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Devnarayan Gurukul Yojana",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Devnarayan Gurukul Yojana\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, aims to provide free residential education to students from Special Backward Classes (SBC) i.e. Banjara, Baldia, Labana, Gadia-Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadari, Gayari). Under this scheme, selected students admitted to Class 6 in government-approved schools receive free education, accommodation, meals, uniforms, textbooks, and writing materials."
+    ],
+    "benefits": [
+      "Under this scheme, eligible students receive free education, accommodation, meals, uniforms, text books and study materials in government-approved schools."
+    ],
+    "eligibility": [
+      "The applicant should be a native resident of Rajasthan.",
+      "The applicant's family should not be a taxpayer.",
+      "The applicant must be a regular student in a government or non-government school.",
+      "The applicant must have passed class 5",
+      "th",
+      "with a minimum of 50% or above marks.",
+      "The applicant should belong to one of the following Special Backward Class (SBC) communities:",
+      "Banjara, Baldia, Labana",
+      "Gadiya Lohar, Gadolia",
+      "Gujar, Gurjar",
+      "Raika, Rebari (Debasi)",
+      "Gadaria (Gadri, Gyari)",
+      "Note 1:",
+      "Only students who qualify on merit after clearing the pre-admission examination will be admitted to the 59 schools selected by the department.",
+      "Note 2:",
+      "Students will be given admission in Class 6 as per their merit based on marks obtained in Class 5."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Education Officer (Secondary) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the principal of the District Education Officer (Secondary)",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Education Officer (Secondary) to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).",
+        "Note:",
+        "Students will be admitted to class 6",
+        "th",
+        "based on their class 5",
+        "merit."
+      ]
+    },
+    "documents_required": [
+      "Domicile Certificate",
+      "Educational certificate (Marks Certificate of Class 5)",
+      "Income Certificate",
+      "Caste Certificate",
+      "Jan Aadhaar Card",
+      "Receipt of School Fees",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Online Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Students from Special Backward Classes (SBC), who have passed Class 5 with at least 50% marks."
+    },
+    {
+      "question": "Which communities are eligible?",
+      "answer": "Banjara, Baldia, Labana, Gadiya Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadri, Gyari)."
+    },
+    {
+      "question": "Can students from private schools apply?",
+      "answer": "Yes, if the school is recognized by the Rajasthan Government."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Applications should be submitted to the District Education Officer (Secondary) of the applicant’s district."
+    },
+    {
+      "question": "Is there any fee for applying to this scheme?",
+      "answer": "No, there is no application fee for this scheme."
+    },
+    {
+      "question": "Can a student reapply if they fail in Class 5th?",
+      "answer": "No, once a student is admitted, they must meet academic performance requirements to continue."
+    },
+    {
+      "question": "Where can I get more details?",
+      "answer": "Visit the official website of the Directorate of Secondary Education, Rajasthan: www.rajshiksha.gov.in."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Domicile Certificate, Income Certificate, Caste Certificate, Jan Aadhaar Card, and Class 5 Marksheet."
+    },
+    {
+      "question": "How many schools are covered under this scheme?",
+      "answer": "59 schools have been selected by the government for this scheme."
+    },
+    {
+      "question": "How are students selected?",
+      "answer": "Selection is based on merit and performance in the pre-admission examination."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Rural Girls’ Incentive Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rgis",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Rural Girls’ Incentive Scheme",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Rural Girls’ Incentive Scheme\" launched by the Backward Classes, Most Backward Classes and Minorities Welfare Department, Tamil Nadu, offers financial aid to girls students of Most Backward Classes (MBC) and Denotified Communities (DNC), attending government or government-aided schools in rural areas, excluding Chennai District. Priority is given to girls from families headed by widows or destitute parents. The scheme aims to enhance educational opportunities and reduce dropout rates among these communities."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "For 3rd to 5th grade: ₹500/- per annum.",
+      "For 6th grade: ₹1,000/- per annum."
+    ],
+    "eligibility": [
+      "The beneficiary should be a student.",
+      "The beneficiary should be a female.",
+      "The beneficiary should be a resident of Tamil Nadu (should not be from Chennai District).",
+      "The beneficiary should be from a rural area.",
+      "The beneficiary should belong to the Most Backward Classes (MBC)/ Denotified Communities (DNC).",
+      "The beneficiary should be Studying in classes 3rd to 6th in government or government-aided schools",
+      "The beneficiary's parental annual income should not exceed ₹1,00,000/-.",
+      "Note:",
+      "This scheme is implemented in all the Districts except Chennai District.",
+      "Preference will be given to Girl Children of Widows/ Destitutes."
+    ],
+    "application_process": {
+      "offline": [
+        "The eligible and willing students are requested to contact the Headmaster of the Government/Government Aided Schools concerned in Rural areas."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card or any other document as directed by the authority).",
+      "Caste certificate (MBC/DNC category).",
+      "Proof of school admission (enrollment in a government or government-aided school).",
+      "Widow or destitute certificate (if applicable).",
+      "Address proof (rural area).",
+      "Proof of Income (parental annual income should be less than ₹1,00,000/-).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Community List"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the “Rural Girls' Incentive Scheme”?",
+      "answer": "The Rural Girls' Incentive Scheme is a financial assistance program for girls belonging to the Most Backward Classes (MBC) and Denotified Communities (DNC) who are studying in rural government or government-aided schools."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "The scheme is available to girls from MBC/DNC communities, studying in classes 3 to 6 in rural schools, with a parental income not exceeding ₹1,00,000/- per annum."
+    },
+    {
+      "question": "What is the amount of the incentive provided?",
+      "answer": "The incentive amount is ₹500/- per annum for students in classes 3 to 5, and ₹1,000/- per annum for students in class 6."
+    },
+    {
+      "question": "Can students from urban areas apply for this scheme?",
+      "answer": "No, the scheme is only applicable to students residing in rural areas."
+    },
+    {
+      "question": "Is the scheme available in Chennai District?",
+      "answer": "No, the scheme does not cover students from Chennai District."
+    },
+    {
+      "question": "Is preference given to any particular group during selection?",
+      "answer": "Yes, preference is given to girl children of widows or destitute parents."
+    },
+    {
+      "question": "Who should be contacted for more information?",
+      "answer": "The headmaster of the concerned government or government-aided school in rural areas can provide more information."
+    },
+    {
+      "question": "When was the parental income limit revised?",
+      "answer": "The parental income limit was raised to ₹1,00,000 per annum starting from the 2021-22 academic year."
+    },
+    {
+      "question": "Can boys apply for the scheme?",
+      "answer": "No, the scheme is exclusively for girls from MBC/DNC communities."
+    },
+    {
+      "question": "Are students in private schools eligible?",
+      "answer": "No, only students in government or government-aided schools are eligible for the scheme."
+    }
+  ]
+}

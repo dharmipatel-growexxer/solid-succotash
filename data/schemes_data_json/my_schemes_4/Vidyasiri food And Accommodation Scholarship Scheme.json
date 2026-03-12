@@ -1,0 +1,96 @@
+{
+  "scheme_name": "Vidyasiri food And Accommodation Scholarship Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/vfas",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Vidyasiri food And Accommodation Scholarship Scheme",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "Vidyasiri-Food and Accommodation Scholarship Scheme (VFAS) is specifically designed for students from backward classes pursuing post-matric courses in government, local, aided, and recognized private institutions affiliated with statutory universities in Karnataka. The scheme requires students to link their Aadhaar number to their bank account. To be eligible for the scheme, students must be citizens of India and permanent residents of Karnataka. They should belong to backward classes listed by the Government of India or the State Government. Students who have not secured admission in any departmental or government-funded student hostel and are studying in post-matric courses are eligible to apply. The scheme provides a monthly stipend of Rs. 1,500 for 10 months, totaling Rs. 15,000 per annum, which is directly credited to the students' bank accounts. The income of the student's family should fall within specific limits based on the category they belong to. The eligibility criteria also include minimum marks required in the previous year's annual examination for fresh and renewal students."
+    ],
+    "benefits": [
+      "Financial assistance for food and accommodation expenses.",
+      "Monthly stipend of Rs. 1,500 for 10 months per academic year.",
+      "Support for students belonging to backward classes.",
+      "Direct crediting of funds to the students' bank accounts.",
+      "Promotes access to higher education for eligible students.",
+      "Encourages academic performance through the eligibility criteria.",
+      "Reduces the financial burden on students pursuing post-matric courses."
+    ],
+    "eligibility": [
+      "Students must be citizens of India and permanent residents of Karnataka.",
+      "Students should belong to backward classes listed by the Government of India or the State Government.",
+      "Students must be pursuing post-matric courses in government, local, aided, or recognized private institutions affiliated with statutory universities in Karnataka.",
+      "Students who have not secured admission in any departmental or government-funded student hostel are eligible.",
+      "The annual income of the student's family should fall within the specified limits based on their category."
+    ],
+    "application_process": {
+      "online": [
+        "Visit the official",
+        "portal",
+        "designated for the scholarship scheme.",
+        "Fill out the application form online through the SSP (Student Scholarship Portal) software.",
+        "Provide accurate personal and academic details as required in the application form.",
+        "Upload the necessary documents, such as Aadhaar card, bank account details, caste certificate, income certificate, and previous year's marks card.",
+        "After students complete the online application, please take a printout of the filled application form.",
+        "Gather all the required documents as specified in the application process and submit the hard copies of the application form and supporting documents to your respective college.",
+        "College principals and inspection officers will review the application and documents submitted by the student.",
+        "They will verify the information provided and ensure that all required documents are in order.",
+        "The Taluk Backward Classes Welfare Officer will further review and verify the application and documents.",
+        "The officer will confirm the details provided and verify the eligibility of the student.",
+        "The District Backward Classes Welfare Officer will check the information the Taluk Welfare Officer provided.",
+        "They will ensure the application's compliance with the scheme's guidelines and regulations.",
+        "The college principal will provide information about the selected student's attendance, confirming that it meets the minimum requirement of 75%.",
+        "This attendance information will be uploaded by the Taluk Backward Classes Welfare Officer through the online portal.",
+        "Based on the respective year's budget, the qualified students will be approved at the taluk level for the Vidyasiri-Food and Accommodation Scholarship.",
+        "Grants will be allocated according to category-wise reservations and the Merit cum Means criteria."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details (account number and IFSC code)",
+      "Caste certificate",
+      "Income certificate",
+      "Previous year's marks card",
+      "Medical certificate (if applicable)"
+    ],
+    "sources_and_references": [
+      "Guidelines On The Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Vidyasiri-Food and Accommodation Scholarship Scheme?",
+      "answer": "Vidyasiri-Food and Accommodation Scholarship Scheme is a government initiative in Karnataka that provides financial assistance to students belonging to backward classes pursuing post-matric courses to support their food and accommodation expenses."
+    },
+    {
+      "question": "Who is eligible for this scholarship?",
+      "answer": "Students who are citizens of India, permanent residents of Karnataka, and belong to backward classes listed by the Government of India or the State Government are eligible. They must be pursuing post-matric courses in recognized institutions and have not secured admission in any departmental or government-funded student hostel."
+    },
+    {
+      "question": "How much stipend is provided under this scheme?",
+      "answer": "Eligible students receive a monthly stipend of Rs. 1,500 for a period of 10 months, amounting to a total of Rs. 15,000 per academic year."
+    },
+    {
+      "question": "How are the grants allocated under this scheme?",
+      "answer": "The grants are allocated based on category-wise reservations, with a certain percentage allocated to each category: Category-1 (15%), Category-2A (53%), Category-3A (14%), and Category-3B (18%)."
+    },
+    {
+      "question": "How can I apply for the Vidyasiri-Food and Accommodation Scholarship Scheme?",
+      "answer": "The application process is online. You need to submit your application through the SSP software and also submit the required documents to your college."
+    },
+    {
+      "question": "What are the eligibility criteria for fresh and renewal students?",
+      "answer": "Fresh students from Category-1 must have secured a minimum of 40% marks in the previous year's annual examination, while those from Category-2A, 3A, and 3B must have secured a minimum of 50% marks. For renewal students, the minimum marks required are 50% for Category-1 and 60% for Category-2A, 3A, and 3B."
+    },
+    {
+      "question": "Can I apply if I have changed courses more than once?",
+      "answer": "No, students who have changed courses more than once are not eligible for this scheme."
+    },
+    {
+      "question": "Can male students from the same family apply?",
+      "answer": "Only two male members from the same family are eligible for the scheme, except for girls who are not subject to this restriction."
+    }
+  ]
+}

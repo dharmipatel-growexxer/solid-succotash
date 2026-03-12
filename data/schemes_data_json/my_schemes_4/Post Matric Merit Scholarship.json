@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Post Matric Merit Scholarship",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmms",
+  "location_name": "Mizoram",
+  "location_type": "state",
+  "page_title": "Post Matric Merit Scholarship",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The “Post Matric Merit Scholarship” is a scheme implemented by the Mizoram Scholarship Board, Higher and Technical Education Department, Government of Mizoram. The objective of the Scheme is to provide financial assistance to permanent residents of Mizoram State securing 60% marks in Board/University Examination. The scheme is 100% funded by the State Plan Fund."
+    ],
+    "benefits": [
+      "Tuition fees",
+      "Maintenance allowance (for boarding and lodging expenses)",
+      "Other related expenses like books, stationery, etc."
+    ],
+    "eligibility": [
+      "The applicant should be a bonafide permanent resident of Mizoram, or the child/ward of a bonafide permanent resident of Mizoram.",
+      "The applicant should be pursuing regular studies in a recognized post-matric institution in India.",
+      "The applicant should have secured at least 60% marks or a first division/class in the last Board or University examination.",
+      "The applicant pursuing postgraduate courses in Medicine will be eligible only if they are not allowed to practice during the course duration."
+    ],
+    "application_process": {
+      "offline": [
+        "Normally application is open during July - September through offline, where the application form is available in the Mizoram Scholarship Board during Office working hours.",
+        "Application Form, duly filled in along with all the necessary documents, must be submitted to the Mizoram Scholarship Board for verification and payment."
+      ]
+    },
+    "documents_required": [
+      "1. Aadhaar Card",
+      "2. Bank Account (self-account)",
+      "3. Previous year examination mark sheet",
+      "4. Permanent Residential Certificate (up to date)",
+      "5. Caste certificate (If applicable)",
+      "6. Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 16)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scholarship?",
+      "answer": "The objective is to offer financial support to deserving students from Mizoram, helping them cover tuition fees, maintenance expenses, and other educational costs like books and stationery."
+    },
+    {
+      "question": "Who is eligible for the Post Matric Merit Scholarship?",
+      "answer": "Students who are bonafide permanent residents of Mizoram, studying at a recognized post-matric institution in India, and have secured at least 60% marks in their last Board/University examination are eligible."
+    },
+    {
+      "question": "Is this scholarship fully funded by the government?",
+      "answer": "Yes, the scholarship is 100% funded by the Mizoram State Plan Fund."
+    },
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "The scholarship covers tuition fees, maintenance allowance for boarding and lodging, and other related expenses such as books and stationery."
+    },
+    {
+      "question": "Are students pursuing postgraduate courses in medicine eligible for the scholarship?",
+      "answer": "Yes, students pursuing postgraduate medical courses are eligible, provided they are not allowed to practice during the course."
+    },
+    {
+      "question": "Can students pursuing correspondence courses apply for this scholarship?",
+      "answer": "No, students pursuing their studies through correspondence courses are not eligible for the scholarship."
+    },
+    {
+      "question": "What happens if a student accepts another scholarship of a higher value?",
+      "answer": "If a student accepts another scholarship or stipend of a higher value, they must choose between the two and inform the Mizoram Scholarship Board. No payment will be made under this scheme from the date the other scholarship is accepted."
+    },
+    {
+      "question": "Can a student who fails to secure 60% marks apply for the scholarship?",
+      "answer": "No, students must secure at least 60% marks or first division in their last Board or University examination to be eligible."
+    },
+    {
+      "question": "Are students who are repeating the same stage of education in a different subject eligible?",
+      "answer": "No, students who are studying the same stage of education in a different subject after completing one stage are not eligible for the scholarship."
+    },
+    {
+      "question": "Can a student pursue two scholarships simultaneously?",
+      "answer": "No, students cannot hold two scholarships simultaneously. If awarded another scholarship, they must inform the Mizoram Scholarship Board."
+    },
+    {
+      "question": "How can students apply for the scholarship?",
+      "answer": "Students can apply for the scholarship through an offline application process during July to September. Application forms are available at the Mizoram Scholarship Board during office hours."
+    },
+    {
+      "question": "When is the application period for the scholarship?",
+      "answer": "The application period typically runs from July to September each year."
+    }
+  ]
+}

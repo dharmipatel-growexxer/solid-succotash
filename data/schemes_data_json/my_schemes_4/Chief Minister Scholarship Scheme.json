@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Chief Minister Scholarship Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cmssg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Chief Minister Scholarship Scheme",
+  "scraped_at": "2026-03-12 05:41:34 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Chief Minister Scholarship Scheme\" by the Education Department, Government of Gujarat, aims to encourage higher education by providing financial assistance to meritorious students who have passed Class 10th or Class 12th and secured admission in diploma, degree, or higher education courses. The scheme provides varying amounts of financial support based on the course type and merit."
+    ],
+    "benefits": [
+      "Benefit Type",
+      "Details of Assistance",
+      "Number of Beneficiaries",
+      "Financial Assistance for Medical and Dental Courses",
+      "Up to ₹5,00,000/-",
+      "250 Students",
+      "Financial Assistance for Engineering/Technology, Pharmacy Diploma to Degree, Ayurveda/Homeopathy, Nursing, Physiotherapy, Para-medical Courses",
+      "Up to ₹1,00,000/-",
+      "1,130 Students",
+      "Financial Assistance for Diploma Courses",
+      "Up to ₹50,000/-",
+      "120 Students",
+      "Financial Assistance for Higher Education Courses",
+      "Up to ₹10,000/-",
+      "1,000 Students"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must be a student.",
+      "The applicant must have passed the Class 10th or Class 12th examination.",
+      "The applicant must have secured admission in a diploma course, a degree course after diploma, or a degree course after Class 12th.",
+      "The applicant must be pursuing medical, dental, engineering, technology, pharmacy, Ayurveda, homeopathy, nursing, physiotherapy, para-medical, or higher education courses.",
+      "The applicant must have a family annual income of less than or equal to ₹4,50,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Students must register on",
+        "the",
+        "Official Website",
+        "using their Standard 10th or Standard 12th seat number. Do not use any spaces or special characters when entering the seat number.",
+        "Step 2:",
+        "Students applying for a Diploma to Degree course should use their Diploma enrollment number for registration.",
+        "Step 3:",
+        "The student's name must be entered exactly as it appears on their Standard 10 or 12 original marksheet.",
+        "Step 4:",
+        "Enter the passing year according to the marksheet (e.g., 2024).",
+        "Provide a personal mobile number that will remain active throughout the entire course of study, as important updates will be sent via SMS to this number.",
+        "Step 5:",
+        "Enter and verify your 12-digit Aadhaar card number.",
+        "Step 6:",
+        "Fill in the correct ration card details, including the ration card number and the student's member ID number.",
+        "Step 7:",
+        "Provide accurate bank account details and an active email ID.",
+        "Step 8:",
+        "Enter the percentage from the marksheet; if percentages are not available, calculate them according to the rules of the university or board.",
+        "Step 9:",
+        "When selecting a stream, students from Arts and Commerce streams should choose \"General Stream,\" while Science students should select \"Science Stream\"."
+      ]
+    },
+    "documents_required": [
+      "Class 10th/12th Marksheet.",
+      "Diploma/Degree Admission Proof (as applicable).",
+      "Income Certificate (showing annual family income ≤ ₹4,50,000).",
+      "Proof of Residence (Aadhaar Card/Voter ID/any valid Government ID).",
+      "Bank Account Details (for DBT).",
+      "Caste Certificate (if applicable and required for merit consideration).",
+      "Recent Passport Size Photograph.",
+      "Any other details as required."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 99)",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Chief Minister Scholarship Scheme\"?",
+      "answer": "The \"Chief Minister Scholarship Scheme\" is a financial assistance initiative by the Education Department, Government of Gujarat, aimed at supporting meritorious students in pursuing higher education across various courses."
+    },
+    {
+      "question": "Who is eligible to apply for the \"Chief Minister Scholarship Scheme\"?",
+      "answer": "Any student who has passed Class 10th or 12th and taken admission in a diploma, degree, or higher education course in Gujarat is eligible, subject to the income limit."
+    },
+    {
+      "question": "What is the family income limit for this scheme?",
+      "answer": "The applicant’s family annual income should not exceed ₹4,50,000/- to be eligible under the scheme."
+    },
+    {
+      "question": "What kind of courses are covered under this scheme?",
+      "answer": "The scheme covers medical, dental, engineering, pharmacy, Ayurveda, homeopathy, nursing, physiotherapy, para-medical, diploma, and higher education courses."
+    },
+    {
+      "question": "How is the selection made for the scholarship?",
+      "answer": "The selection of students is made strictly based on merit and the availability of seats in each course category."
+    },
+    {
+      "question": "What is the amount of financial assistance provided under this scheme?",
+      "answer": "The amount varies from ₹10,000/- for higher education courses to ₹5,00,000 for medical and dental courses, depending on the category."
+    },
+    {
+      "question": "What is the mode of payment for this scholarship?",
+      "answer": "The financial assistance amount is directly transferred to the beneficiary’s bank account through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "How many students benefit under the scheme every year?",
+      "answer": "Approximately 2,500 students benefit annually under various categories like medical, engineering, diploma, and higher education."
+    },
+    {
+      "question": "Is there an application fee for applying to this scheme?",
+      "answer": "No, there is no application fee for applying to the scheme; it is completely free of cost."
+    }
+  ]
+}

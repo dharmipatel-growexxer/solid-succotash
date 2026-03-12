@@ -1,0 +1,98 @@
+{
+  "scheme_name": "Scheduled Tribe Dashamottar Scholarship (Starting from Class 11) - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/stdss11uk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Scheduled Tribe Dashamottar Scholarship (Starting from Class 11) - Uttarakhand",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Scheduled Tribe Dashamottar Scholarship (Starting from Class 11)\" has been implemented by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to support Scheduled Tribe students of Uttarakhand from Class 11th onwards by providing financial assistance for their education, including tuition fees and other academic expenses."
+    ],
+    "benefits": [
+      "The total scholarship amount determined by the districts = Educational Allowance + Tuition Fee.",
+      "Group 1:",
+      "Bachelors, Master’s Degree, M.Phil/Ph.D. Degree, PG Diploma, Professional Courses in various streams-",
+      "Hostellers:",
+      "₹1,200/- per month; (₹12,000/- per annum)",
+      "Day Scholars:",
+      "₹550/- monthly; (₹5,500/- per annum)",
+      "Group 2:",
+      "For all non-professional recognized courses that lead to Graduate, M.Phil/Ph.D. degrees, and which do not fall under Arts, Science and Commerce group, such as: BA/BSc/B.Com or MA/MSc/M.Com:",
+      "₹820/- monthly; (₹8,200/- per annum)",
+      "Day Scholar:",
+      "₹530/- monthly; (₹5,300/- per annum)",
+      "Group 3:",
+      "For professional streams, ITI courses, 3-year diploma courses in polytechnic, etc.:",
+      "₹570/- monthly; (₹5,700/- per annum)",
+      "₹300/- monthly; (₹3,000/- per annum)",
+      "Group 4:",
+      "All post-matric level non-degree courses for which the entry qualification is high school (10th), for example, Senior Secondary Certificate (Class 11 and 12)",
+      "₹380/- monthly; (₹3,800/- per annum)",
+      "₹230/- monthly; (₹2,300/- per annum)"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must belong to the Scheduled Tribe (ST) category.",
+      "The applicant must be enrolled in a recognized school/educational institution in Uttarakhand.",
+      "The applicant must be studying in Class 11 or higher level course.",
+      "The applicant must possess valid documents, such as Caste Certificate, Residence Certificate, Bank Passbook, Aadhaar, Photograph, Educational Qualification Certificates, and Income Certificate.",
+      "The total annual income of the parents/guardians from all sources must not exceed ₹2.5 lakh.",
+      "The scholarship will be available for one year only for studying in any class."
+    ],
+    "application_process": {
+      "online": [
+        "Students apply online on the Government of India’s National Scholarship Portal (NSP) (",
+        "https://scholarships.gov.in",
+        ").",
+        "The following documents must be uploaded with the application: Caste Certificate, Residence Certificate, Bank Passbook, Aadhaar, Photograph, Educational Qualification Certificates, and Income Certificate.",
+        "The student submits the application to their educational institution using their own ID. The concerned educational institution forwards the received online application to the District Social Welfare Officer. The District Social Welfare Officer examines the received applications and conducts physical verification of the complete applications. Incomplete applications that can be corrected are temporarily marked as defective, while those that cannot be corrected are permanently rejected. The eligible applicants receive the scholarship amount directly in their bank accounts, subject to the availability of funds.",
+        "Procedure:",
+        "Step 1: The student registers and submits the application form online.",
+        "Step 2: The educational institution verifies the submitted applications.",
+        "Step 3: Physical verification of the students is conducted by the Social Welfare Department (DSWO) and/or a third-party agency appointed by the government.",
+        "Step 4: Online verification is completed at the Social Welfare Department (DSWO) level.",
+        "Step 5: The scholarship amount is disbursed to the students whose applications are fully verified, through the PFMS (Public Financial Management System)."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Recent Photograph",
+      "Caste Certificate",
+      "Residence Certificate",
+      "Bank Passbook",
+      "Academic Qualification Certificates",
+      "Income Certificate",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 20)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scholarship?",
+      "answer": "Students must be residents of Uttarakhand, belong to the Scheduled Tribe category, and be enrolled in a recognized school or educational institution."
+    },
+    {
+      "question": "What is the maximum annual income allowed for parents/guardians?",
+      "answer": "The combined annual income from all sources of the student’s parents or guardians should not exceed ₹2.5 lakh."
+    },
+    {
+      "question": "How long is the scholarship available for?",
+      "answer": "The scholarship is available for one academic year only."
+    },
+    {
+      "question": "How can students apply for the scholarship?",
+      "answer": "Students can apply online through the National Scholarship Portal (NSP) at https://scholarships.gov.in ."
+    },
+    {
+      "question": "How is the application submitted to the authorities?",
+      "answer": "The student submits the application to their educational institution using their own ID. The institution forwards the application to the District Social Welfare Officer for verification."
+    },
+    {
+      "question": "How is the scholarship disbursed?",
+      "answer": "The scholarship amount is directly transferred to the student’s bank account through PFMS, subject to budget availability."
+    }
+  ]
+}

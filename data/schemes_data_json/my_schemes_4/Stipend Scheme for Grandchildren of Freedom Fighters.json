@@ -1,0 +1,132 @@
+{
+  "scheme_name": "Stipend Scheme for Grandchildren of Freedom Fighters",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ssgff",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Stipend Scheme for Grandchildren of Freedom Fighters",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2010-11, the scheme \"Stipend Scheme for Grandchildren of Freedom Fighters\" by the Department of Higher Education, Government of Haryana, aims to honour the third-generation descendants of freedom fighters by providing financial assistance for higher education. Through this scheme, eligible students receive a monthly stipend and an annual allowance for books to support their education. The scheme is implemented by the Department of Higher Education, Haryana. The stipend is available for students pursuing non-professional courses in government and government-aided colleges and universities within the state. The assistance is provided on a merit basis and is subject to attendance and good conduct requirements."
+    ],
+    "benefits": [
+      "Financial Assistance",
+      "Eligible students receive ₹1,000 per month as a stipend for 12 months and ₹2,000 per year as an allowance for books.",
+      "Coverage",
+      "The scheme applies to students pursuing non-professional courses in government and government-aided colleges and universities in Haryana.",
+      "Good Conduct Requirement",
+      "Scholarship installments are released only upon obtaining a good conduct and attendance certificate from the principal/head of the institution.",
+      "Reinstatement Condition",
+      "If a student drops out but re-joins and attends at least 50% of classes in three months, both the previously due installment and the current quarter’s installment are released.",
+      "Mode of Disbursement",
+      "Payment is made via electronic transaction to the student’s bank account.",
+      "In exceptional cases, payment may be made through a demand draft.",
+      "Frequency of Disbursement",
+      "The stipend is paid in four instalments per year:",
+      "September: For July & August",
+      "November: For September & October",
+      "January: For November & December",
+      "March: For January to June"
+    ],
+    "eligibility": [
+      "The applicant should be a grandchild (third generation) of a freedom fighter.",
+      "The applicant should be a resident of Haryana.",
+      "The applicant should be enrolled in a government or government-aided college/university in Haryana.",
+      "The applicant should be pursuing a non-professional course.",
+      "The applicant should have passed the previous examination based on which admission was granted.",
+      "The applicant should maintain satisfactory attendance and conduct.",
+      "The applicant should not have failed the previous year’s university examination.",
+      "Reinstatement Criteria:",
+      "If a student drops out but re-joins classes and maintains at least 50% attendance for three months, the previous and current quarter’s stipend is released."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "Visit the",
+        "Official Website",
+        "of the \"Centralized Scholarship Portal\" of the Department of Higher Education, Haryana.",
+        "Step 2:",
+        "In the menu ribbon, click \"Student >",
+        "Student Registration",
+        "\".",
+        "Step 3:",
+        "On the next page, provide your Parivar Pehchan Patra (Family ID) and click \"Search\".",
+        "*Parivar Pehchan Patra (PPP) is mandatory for availing of any Scholarship benefit. Students are advised to ensure their all particulars such as Name, DOB, Aadhar No. etc are fully updated in PPP before applying for any scholarship scheme.",
+        "Step 4:",
+        "A List of the members of your family will be displayed. Select the checkbox against your name and click \"Generate OTP\". Enter the OTP received on your registered Mobile Number and click on \"Verify OTP\".",
+        "Step 5:",
+        "After OTP verification, you will be taken to the registration page. In the registration form, all the mandatory fields get auto-filled. You only need to cross-check the information.",
+        "Step 6:",
+        "Select your Department and College. Create a Password and click \"Register\".",
+        "Application",
+        "In the right corner of the menu ribbon, click \"",
+        "User Login",
+        "\". Use the username and password created during your registration to log in.",
+        "Navigate to the online form of the scheme you intend to apply for. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections.",
+        "Click \"Apply\" to submit your application. You'll receive a confirmation message."
+      ]
+    },
+    "documents_required": [
+      "Proof of Relationship to Freedom Fighter (certified copy endorsed by the District Administration)",
+      "Domicile Certificate",
+      "Matriculation Certificate",
+      "Previous Examination Marksheet",
+      "Good Conduct/Attendance Certificate, issued by the Principal/Head of the Institution.",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Guideline"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Where can I apply for the stipend scheme?",
+      "answer": "Applications should be submitted to the principal of the government or government-aided college/university where the student is enrolled."
+    },
+    {
+      "question": "Who is eligible for the stipend scheme?",
+      "answer": "Only third-generation descendants (grandchildren) of freedom fighters who are Haryana residents and enrolled in non-professional courses in government or government-aided colleges/universities are eligible."
+    },
+    {
+      "question": "What financial assistance does this scheme provide?",
+      "answer": "Eligible students receive ₹1,000 per month as a stipend for 12 months and ₹2,000 annually for books."
+    },
+    {
+      "question": "What documents are required for application?",
+      "answer": "Applicants must provide proof of relationship to a freedom fighter, Haryana domicile certificate, matriculation certificate, previous examination marksheet, good conduct certificate, and bank account details."
+    },
+    {
+      "question": "When are the stipend payments made?",
+      "answer": "Payments are made in September (for July & August), November (for September & October), January (for November & December), and March (for January to June)."
+    },
+    {
+      "question": "What if I drop out and later rejoin?",
+      "answer": "If a student re-joins classes and attends at least 50% of classes within three months, both the previous and current quarter’s stipend installments will be released."
+    },
+    {
+      "question": "Who is responsible for disbursing the stipend?",
+      "answer": "The Directorate of Higher Education transfers funds to the principal, who directs the bank to transfer the amount to eligible students' accounts."
+    },
+    {
+      "question": "How do I check the status of my stipend payment?",
+      "answer": "Students should contact their college principal or the Directorate of Higher Education for stipend status updates."
+    },
+    {
+      "question": "Can I apply if my grandparent was a freedom fighter from another state?",
+      "answer": "No, only the grandchildren of Haryana-based freedom fighters are eligible."
+    },
+    {
+      "question": "What if my stipend is delayed?",
+      "answer": "Students should report any delays to their college principal or the Directorate of Higher Education for resolution."
+    },
+    {
+      "question": "Can students in private universities apply?",
+      "answer": "No, only students in government and government-aided colleges/universities are eligible."
+    },
+    {
+      "question": "Can I apply for this stipend in addition to other scholarships?",
+      "answer": "The scheme does not mention restrictions regarding other scholarships. Students should verify with their institution."
+    }
+  ]
+}

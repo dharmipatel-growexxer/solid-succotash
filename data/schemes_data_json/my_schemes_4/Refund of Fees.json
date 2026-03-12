@@ -1,0 +1,88 @@
+{
+  "scheme_name": "Refund of Fees",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rof",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Refund of Fees",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Refund of Fees\" Scheme under the Higher Education Department, Madhya Pradesh, allows students to claim a refund of the remaining admission fee (including caution money) if they leave the college during the academic session after admission, are declared failed after provisional admission, or if their online admission is cancelled. The refund is processed after deducting an admission processing fee of ₹100."
+    ],
+    "benefits": [
+      "Refund of remaining fees (after deducting ₹100) if the student leaves"
+    ],
+    "eligibility": [
+      "The applicant should be admitted to a college.",
+      "The applicant should be a native of Madhya Pradesh."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the college, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste certificate",
+      "Samagra ID",
+      "Bank account details/Bank Passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for fee refund under this scheme?",
+      "answer": "Students admitted to a college under the Higher Education Department, Madhya Pradesh."
+    },
+    {
+      "question": "What happens if a student is expelled during the academic session?",
+      "answer": "Only the caution money will be refunded."
+    },
+    {
+      "question": "Can a first-year student get a refund if admitted elsewhere for a technical course?",
+      "answer": "Yes, if the student provides the relevant admission certificate."
+    },
+    {
+      "question": "What document is required for a refund if admitted to another course?",
+      "answer": "A certificate of admission to the new course."
+    },
+    {
+      "question": "How is the refund processed for expelled students?",
+      "answer": "The refund will only include caution money."
+    },
+    {
+      "question": "Is the full fee refunded if a student leaves mid-session?",
+      "answer": "No, only caution money is refunded."
+    },
+    {
+      "question": "Can students in technical or professional courses apply for the refund?",
+      "answer": "Yes, if they get admission elsewhere and provide necessary documents."
+    },
+    {
+      "question": "What is the basis for fee refund eligibility?",
+      "answer": "Expulsion or admission to a technical/professional course elsewhere."
+    },
+    {
+      "question": "When can a student apply for the refund?",
+      "answer": "After being expelled or securing admission elsewhere."
+    },
+    {
+      "question": "What type of courses qualify for a refund?",
+      "answer": "Technical or professional courses."
+    }
+  ]
+}

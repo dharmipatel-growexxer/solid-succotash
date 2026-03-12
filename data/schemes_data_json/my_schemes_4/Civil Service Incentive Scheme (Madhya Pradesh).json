@@ -1,0 +1,98 @@
+{
+  "scheme_name": "Civil Service Incentive Scheme (Madhya Pradesh)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/csismp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Civil Service Incentive Scheme (Madhya Pradesh)",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Civil Service Incentive Scheme (Madhya Pradesh)\" scheme by the Tribal Welfare and Scheduled Caste (SC) Department of the Government of Madhya Pradesh provides an incentive amount to encourage SC/ST candidates to appear in Civil Services Examinations. The incentive is given to candidates who succeed in the state civil service examination at various levels. Additionally, the annual income of the parents should not exceed ₹6,00,000/-.."
+    ],
+    "benefits": [
+      "Union Public Service Commission (UPSC)",
+      "₹40,000 for passing the preliminary examination.",
+      "₹60,000 for passing the main examination.",
+      "₹50,000 for getting selected in the interview.",
+      "State Public Service Commission (MPSC)",
+      "₹20,000 for passing the preliminary examination.",
+      "₹30,000 for passing the main examination.",
+      "₹25,000 for getting selected in the interview."
+    ],
+    "eligibility": [
+      "The applicant should be from the Scheduled Caste (SC) /Scheduled Tribes (ST) category.",
+      "The applicant should be a native of Madhya Pradesh.",
+      "The applicant should cleared the Union Public Service Commission (UPSC) or Madhya Pradesh Public Service Commission (MPSC) examinations.",
+      "The annual income of the parents of the applicant should not exceed ₹6,00,000/-."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Assistant Commissioner/District Coordinator, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste certificate",
+      "Previous class passing certificate/marksheet",
+      "Samagra ID",
+      "Bank account details/Bank Passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Housing Assistance (Madhya Pradesh)\" scheme?",
+      "answer": "It provides incentives to SC/ST candidates who succeed in civil services examinations conducted by UPSC and MPSC."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "The applicant must be from the Scheduled Caste (SC) category, a native of Madhya Pradesh, and successful in UPSC or MPSC exams."
+    },
+    {
+      "question": "What is the income limit for applicants?",
+      "answer": "The annual income of the applicant's parents should not exceed ₹6 lakhs."
+    },
+    {
+      "question": "How much incentive will I receive for UPSC exams?",
+      "answer": "₹40,000 for passing the preliminary examination. ₹60,000 for passing the main examination. ₹50,000 for being selected in the interview."
+    },
+    {
+      "question": "How much incentive will I receive for MPSC exams?",
+      "answer": "₹20,000 for passing the preliminary examination. ₹30,000 for passing the main examination. ₹25,000 for being selected in the interview."
+    },
+    {
+      "question": "What exams are eligible for the scheme?",
+      "answer": "The scheme covers both UPSC and MPSC civil services examinations."
+    },
+    {
+      "question": "Do I need to submit proof of my parent’s income?",
+      "answer": "Yes, you will need to provide income proof of your parents, confirming it does not exceed ₹6 lakhs."
+    },
+    {
+      "question": "Is the incentive given for each level of the exam?",
+      "answer": "Yes, the incentive is given for passing each level: preliminary, main, and interview."
+    },
+    {
+      "question": "Is the scheme available for both UPSC and MPSC candidates?",
+      "answer": "Yes, the scheme applies to candidates passing UPSC and MPSC exams."
+    },
+    {
+      "question": "Can I receive the incentive if I fail in any exam level?",
+      "answer": "No, the incentive is provided only after successfully passing the preliminary, main, and interview stages."
+    }
+  ]
+}

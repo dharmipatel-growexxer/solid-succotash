@@ -1,0 +1,79 @@
+{
+  "scheme_name": "Free Computer Training",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fctuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Free Computer Training",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Free Computer Training\" is implemented by the State Sainik Board under the Sainik Welfare Department, Government of Uttarakhand. The scheme aims to provide a one-year free training course (Computer / Accounting / Web Designing / Digital Marketing) to ex-servicemen, serving soldiers, their widows, and dependents who have passed the 12th standard."
+    ],
+    "benefits": [
+      "Under this scheme, eligible beneficiaries are provided with a one-year free training course in Computer, Accounting, Web Designing, or Digital Marketing."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an ex-serviceman, serving soldier, widow of a serviceman, or their dependent, and must have passed the 12th standard."
+    ],
+    "application_process": {
+      "offline": [
+        "Under the scheme, training is provided in all districts in the following subjects:",
+        "Diploma in Computer Applications and Programming (Duration – 1 year)",
+        "Diploma in Professional Accounting (Duration – 1 year)",
+        "Web Designing and Development (Duration – 1 year)",
+        "Digital Marketing (Duration – 1 year)",
+        "The Director, Sainik Welfare Office, invites applications for these courses from ex-servicemen and their dependents through publicity campaigns. The following documents are required for application:",
+        "General application form",
+        "Aadhaar Card",
+        "Ex-serviceman Identity Card",
+        "Discharge Book",
+        "Educational certificate (12th pass)",
+        "After verification, the concerned District Sainik Welfare Office forwards the list of eligible applicants to the training institute. The institute then informs the selected candidates and commences the training program."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Ex-servicemen identity card",
+      "Discharge book",
+      "12th pass educational certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 20)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Ex-servicemen, serving soldiers, their widows, and dependents who are residents of Uttarakhand and have passed the 12th standard are eligible."
+    },
+    {
+      "question": "What training courses are available under this scheme?",
+      "answer": "The scheme offers training in: Diploma in Computer Applications and Programming (1 year) Diploma in Professional Accounting (1 year) Web Designing and Development (1 year) Digital Marketing (1 year) Diploma in Computer Applications and Programming (1 year) Diploma in Professional Accounting (1 year) Web Designing and Development (1 year) Digital Marketing (1 year)"
+    },
+    {
+      "question": "What is the duration of each course?",
+      "answer": "Each course has a duration of one year."
+    },
+    {
+      "question": "Is there any fee charged for the training?",
+      "answer": "No, the training is provided completely free of cost."
+    },
+    {
+      "question": "Is the scheme available across Uttarakhand?",
+      "answer": "Yes, training under the scheme is provided in all districts of Uttarakhand."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applications are invited by the Director, Sainik Welfare Office, through publicity. Interested applicants must submit the required documents to the concerned District Sainik Welfare Office."
+    },
+    {
+      "question": "How are candidates selected?",
+      "answer": "After verification of documents, the District Sainik Welfare Office prepares a list of eligible candidates and forwards it to the training institute."
+    },
+    {
+      "question": "Who informs the candidates about training commencement?",
+      "answer": "The respective training institute informs selected candidates about the start of the training program."
+    }
+  ]
+}

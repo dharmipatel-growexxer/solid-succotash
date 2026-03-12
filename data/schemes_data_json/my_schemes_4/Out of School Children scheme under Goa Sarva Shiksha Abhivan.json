@@ -1,0 +1,87 @@
+{
+  "scheme_name": "Out of School Children scheme under Goa Sarva Shiksha Abhivan",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ooscs",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Out of School Children scheme under Goa Sarva Shiksha Abhivan",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Out of School Children\" scheme under the Goa Sarva Shiksha Abhiyan (SSA) is designed to ensure that every child in the 6 to 14 age group receives a complete elementary education. The primary objective is to identify children who are out of school, whether they have never enrolled or have dropped out, and to reintegrate them into the educational system through specialized training programs."
+    ],
+    "benefits": [
+      "Sanctions are granted to the NGOs for providing special training in the centre as per the norms of Sarva Shiksha Abhiyan (SSA)."
+    ],
+    "eligibility": [
+      "The child should not be enrolled in a school.",
+      "The child should be in the age group of 6 to 14 years."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "A survey is carried out through NGOs for identification of the OoSC.",
+        "Step 2:",
+        "The State Project Office of SSA provides approval of the Special Training Centres.",
+        "Step 3:",
+        "The grant is released to the Special Training Centres after signing the MOU."
+      ]
+    },
+    "documents_required": [
+      "Survey report identifying OoSC.",
+      "Detailed proposal document.",
+      "NGO registration certificate.",
+      "Signed MOU.",
+      "Budget estimate.",
+      "Approval letter from the State Project Office.",
+      "Staff details.",
+      "Previous experience in similar projects (if applicable).",
+      "Monitoring and evaluation plan.",
+      "Bank account details for fund disbursement."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The scheme aims to bring all children aged 6 to 14 years back to school until they complete elementary education. It identifies out-of-school children (OoSC) and provides them with special training through NGOs to mainstream them into regular schooling."
+    },
+    {
+      "question": "Who are the target beneficiaries of the scheme?",
+      "answer": "The target beneficiaries are out-of-school children within the age group of 6 to 14 years, including those who have never enrolled in school and those who have dropped out."
+    },
+    {
+      "question": "What kind of assistance is provided under the scheme?",
+      "answer": "The scheme provides grants to NGOs for running Special Training Centres. These centres offer special training to identified out-of-school children to help them reintegrate into the regular school system."
+    },
+    {
+      "question": "How can an NGO apply for the grant under this scheme?",
+      "answer": "NGOs need to: Conduct a survey to identify out-of-school children. Prepare and submit a detailed proposal for establishing a Special Training Centre to the State Project Office of SSA. Obtain approval from the State Project Office. Sign a Memorandum of Understanding (MOU) with the State Project Office. Receive the grant for executing the training program."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Survey report identifying OoSC. Detailed proposal document. NGO registration certificate. Signed MOU. Budget estimate. Approval letter from the State Project Office. Staff details. Previous experience in similar projects (if applicable). Monitoring and evaluation plan. Bank account details for fund disbursement."
+    },
+    {
+      "question": "What is the time limit for the disposal of applications?",
+      "answer": "The grant is typically approved immediately after the Grant In Aid Committee's decision, which usually takes place in July each year."
+    },
+    {
+      "question": "How are the Special Training Centres funded?",
+      "answer": "Funding is provided as a grant to the NGOs running the Special Training Centres, based on the norms of the Sarva Shiksha Abhiyan (SSA)."
+    },
+    {
+      "question": "What is the role of the NGOs in this scheme?",
+      "answer": "NGOs are responsible for identifying out-of-school children, proposing and establishing Special Training Centres, providing special training to the children, and ensuring their smooth transition back into regular schools."
+    },
+    {
+      "question": "How does the scheme ensure the quality of education at the Special Training Centres?",
+      "answer": "The State Project Office of SSA monitors and evaluates the training centres regularly to ensure the quality and effectiveness of the training provided."
+    },
+    {
+      "question": "Who can be contacted for more information about the scheme?",
+      "answer": "For more details, contact the State Project Office of the Sarva Shiksha Abhiyan (SSA) in Goa."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Comprehensive Educational Loan Scheme - Sikkim",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cels-s",
+  "location_name": "Sikkim",
+  "location_type": "state",
+  "page_title": "Comprehensive Educational Loan Scheme - Sikkim",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The \"Comprehensive Educational Loan Scheme\" was launched by the Department of Personnel, and Reforms, Training, Public Grievances, Government of Sikkim. The scheme aims to provide loans free of interest for the duration of one particular course of study with one one-year moratorium period offered to all student beneficiaries and special consideration to the student belongs to the below-poverty-line family and pursuing professional courses in a recognized institution whether in India or abroad."
+    ],
+    "benefits": [
+      "The maximum loan amount is ₹5,00,000/- for full-time professional courses within Sikkim",
+      "The loan amount of ₹7,50,000/- for studies in India, and ₹15,00,000/- for studies abroad.",
+      "Note:",
+      "In case of discontinuity of studies or the loanee dies, the co-applicant shall be liable to refund the entire amount of the loan within a period not exceeding one year."
+    ],
+    "eligibility": [
+      "The applicant should be a student.",
+      "The applicant's family annual income should not exceed ₹2,50,000/- for studies within India and ₹5,00,000/- for studies abroad.",
+      "The institution where the applicant wants to study, whether in India or abroad, must be recognized by the relevant authority in India.",
+      "Only one member per family shall be considered for the benefit, except in the case of Below Poverty Line (BPL) families.",
+      "Only members of Below Poverty Line (BPL) families will be considered for the study in Sikkim.",
+      "Note: Children of Government/Public Sector Undertaking employees are also eligible."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Sikkim Industrial Development & Investment Corporation and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Sikkim Industrial Development & Investment Corporation.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the Sikkim Industrial Development & Investment Corporation to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Income Certificate (certified by the District Collector).",
+      "Admission proof from a recognized institution.",
+      "Affidavit of not being employed.",
+      "Project viability and technical feasibility certification."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Comprehensive Educational Loan Scheme (CELS)?",
+      "answer": "Children of persons with a gross annual income not exceeding Rs. 2.50 lakhs for studies within India and Rs. 5.00 lakhs for studies abroad, as certified by the District Collector."
+    },
+    {
+      "question": "Is there a reserved quota for Below Poverty Line (BPL) families under CELS?",
+      "answer": "Yes, 50% of the total amount is reserved for BPL families. If there are not enough BPL candidates, the reserved amount will be available to other eligible candidates."
+    },
+    {
+      "question": "Can more than one member of a family apply for the loan?",
+      "answer": "No, only one member of a family is eligible, except for BPL families."
+    },
+    {
+      "question": "What happens if the loanee discontinues their studies?",
+      "answer": "The beneficiary or co-applicant must refund the entire loan amount within one year if the studies are discontinued."
+    },
+    {
+      "question": "How are applications for CELS processed?",
+      "answer": "Applications are processed by the Sikkim Industrial Development and Investment Corporation Ltd., which ensures that all eligibility criteria and necessary formalities are met."
+    },
+    {
+      "question": "How often are loans disbursed under CELS?",
+      "answer": "Loans are disbursed after final government approval based on the recommendation of a committee comprising the Secretary of the Human Resource Development Department, the Director of the Directorate of Capacity Building, and the Managing Director of the Sikkim Industrial Development & Investment Corporation."
+    },
+    {
+      "question": "How is the loan amount distributed among different categories?",
+      "answer": "The loan amount is disbursed in proportion to different categories of people in Sikkim as per the State Government HRDD Notification."
+    },
+    {
+      "question": "What criteria are used to select loanees?",
+      "answer": "Selection is based on merit, taking into account marks obtained in Board/University exams, and preference is given to those admitted to leading professional institutions like IIT, IIM, NIIT, and NIFT."
+    },
+    {
+      "question": "What kind of publicity is done for the CELS?",
+      "answer": "The Directorate of Capacity Building ensures wide publicity through Sikkim Herald regarding the scheme and submission deadlines, ensuring all eligible Sikkimese students are informed."
+    },
+    {
+      "question": "Is there any requirement for applicants to submit an affidavit?",
+      "answer": "Yes, applicants must submit an affidavit stating they are not employed with any agency, have no outstanding dues with any financial institution, and meet any other necessary requirements."
+    }
+  ]
+}

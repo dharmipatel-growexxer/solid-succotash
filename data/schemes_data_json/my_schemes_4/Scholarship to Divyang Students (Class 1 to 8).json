@@ -1,0 +1,86 @@
+{
+  "scheme_name": "Scholarship to Divyang Students (Class 1 to 8)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sdsc18",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Scholarship to Divyang Students (Class 1 to 8)",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The “Scholarship to Divyang Students (Class 1 to 8)” scheme has been implemented by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to provide financial assistance to regularly enrolled disable students from Class 1 to 8."
+    ],
+    "benefits": [
+      "Rate of Scholarships:",
+      "Class 1 to 5:",
+      "₹600/-",
+      "Class 6 to 8:",
+      "₹960/-"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a disabled student.",
+      "The applicant must be studying in Class 1 to 8.",
+      "The applicant’s annual family income must be less than ₹24,000/-.",
+      "The student must not availing benefits from any other scholarship scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Students can apply online for scholarship by visiting the NSP Portal of Government of India",
+        "(https://scholarships.gov.in/",
+        ").",
+        "The following documents will be attached with the application: Aadhaar card of the applicant, mobile number, certified photo and CBS bank account which is Aadhaar linked/seeded, previous class passed mark sheet, disability certificate, income certificate, self-declaration certificate that the applicant is not taking benefit of any other scholarship scheme of the government.",
+        "The student sends the application to his/her educational institution; the concerned educational institution verifies the application form and forwards it online to the District Social Welfare Officer.",
+        "The District Social Welfare Officer examines the received application form and gets the complete application forms physically verified. Incomplete applications (which can be corrected) are temporarily marked as defective, otherwise they are completely rejected. The scholarship amount is paid to the eligible applicants directly in their bank account in the financial year as per the availability of budget."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Mobile number",
+      "Verified photo",
+      "CBS bank account linked/seeded to Aadhaar",
+      "Previous class mark sheet",
+      "Disability certificate",
+      "Income certificate",
+      "Self-declaration form stating that the student is not availing benefits from any other scholarship scheme"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 4)",
+      "Scheme Details",
+      "National Scholarship Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The objective is to support the education of students with disabilities by reducing their financial burden and encouraging them to continue their studies."
+    },
+    {
+      "question": "What is the amount of scholarship provided?",
+      "answer": "Class 1 to 5: ₹600/- per year Class 6 to 8: ₹960/- per year Class 1 to 5: ₹600/- per year Class 6 to 8: ₹960/- per year"
+    },
+    {
+      "question": "Who is eligible to apply for this scholarship?",
+      "answer": "Students studying in Class 1 to 8 in Uttarakhand with at least 40% disability and an annual family income of less than ₹24,000 are eligible."
+    },
+    {
+      "question": "Is there a minimum disability requirement?",
+      "answer": "Yes, the student must have at least 40% disability, certified by a competent medical authority."
+    },
+    {
+      "question": "Where can students apply for the scholarship?",
+      "answer": "Students must apply online through the National Scholarship Portal (NSP) at https://scholarships.gov.in ."
+    },
+    {
+      "question": "What is the application process?",
+      "answer": "Students fill and submit the application form on NSP, which is then verified by their educational institution and forwarded to the District Social Welfare Officer for final verification and approval."
+    },
+    {
+      "question": "What happens after the application is submitted?",
+      "answer": "The application is verified at the institution level, checked by the District Social Welfare Office, and physically verified before approval."
+    },
+    {
+      "question": "How is the scholarship amount disbursed?",
+      "answer": "The approved scholarship amount is directly transferred to the student’s bank account through DBT (Direct Benefit Transfer)."
+    }
+  ]
+}

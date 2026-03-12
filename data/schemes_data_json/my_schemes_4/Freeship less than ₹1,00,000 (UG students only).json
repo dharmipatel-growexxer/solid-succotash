@@ -1,0 +1,91 @@
+{
+  "scheme_name": "Freeship less than ₹1,00,000 (UG students only)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/freeship-ug-students-only",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Freeship less than ₹1,00,000 (UG students only)",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "\"Freeship Less than ₹1,00,000\" Scheme by the Dean Student Welfare, Govind Ballabh Pant Krishi Evam Praudyogiki Vishwavidyalaya, Government of Uttarakhand, aims to provide financial assistance to meritorious undergraduate students from economically weaker backgrounds. Through this scheme, a full tuition fee waiver is granted to selected students whose annual family income is less than ₹1,00,000. The benefit is especially extended to girls for an additional academic year. The scheme is implemented by the Office of the Dean Student Welfare in accordance with university regulations. Applications are scrutinized and the final list is approved by university authorities."
+    ],
+    "benefits": [
+      "Eligible students get a 100% tuition fee waiver.",
+      "Aims to reduce the financial burden on low-income families and encourage academic excellence.",
+      "The fee waiver is directly applied during fee processing.",
+      "Granted once every academic year, at the beginning of the session.",
+      "Disbursed after the final selection list is approved by the Registrar and Vice Chancellor.",
+      "Validity:",
+      "Boys: Up to 3 academic years",
+      "Girls: Up to 4 academic years"
+    ],
+    "eligibility": [
+      "The applicant should be enrolled as an undergraduate student at Govind Ballabh Pant University.",
+      "The applicant’s annual family income should be less than ₹1,00,000.",
+      "The applicant must be among the best-performing students as per the university’s merit guidelines.",
+      "The applicant must submit the application in the prescribed format within the deadline"
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1: Applications are invited on a prescribed form from eligible and meritorious students.",
+        "Step 2: Based on the applications, the Dean Student Welfare prepares a list following the prescribed procedure.",
+        "Step 3: The list is forwarded to the Registrar and Vice Chancellor for approval.",
+        "Step 4: Once approved, the final list of selected students is issued by an office order.",
+        "Step 5: Approved students receive the tuition fee exemption accordingly."
+      ]
+    },
+    "documents_required": [
+      "Duly Filled Prescribed Application Form",
+      "Valid Identity Proof (Aadhaar Card, Voter ID, etc.)",
+      "Income Certificate (Issued by a Competent Government Authority)",
+      "Latest Academic Mark Sheets",
+      "Admission Confirmation Letter",
+      "Bank Account Details (Passbook Copy or Cancelled Cheque)"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the Freeship Scheme?",
+      "answer": "Undergraduate students whose family income is below ₹1,00,000 per year are eligible to apply."
+    },
+    {
+      "question": "Is the scheme open to postgraduate or Ph.D. students?",
+      "answer": "No, this scheme is exclusively for undergraduate students"
+    },
+    {
+      "question": "What benefit does the scheme provide?",
+      "answer": "Eligible students receive a 100% tuition fee waiver"
+    },
+    {
+      "question": "How long is the tuition fee waiver applicable?",
+      "answer": "For boys, it is valid for 3 academic years; for girls, it extends to 4 academic years"
+    },
+    {
+      "question": "Is there a specific form to apply for the scheme?",
+      "answer": "Yes, students must submit the university’s prescribed application form."
+    },
+    {
+      "question": "When is the tuition fee waived?",
+      "answer": "The waiver is applied at the start of the academic session, after final selection approval."
+    },
+    {
+      "question": "Am I eligible if my annual family income is above ₹1,00,000?",
+      "answer": "No, students with family income exceeding ₹1,00,000 are not eligible."
+    },
+    {
+      "question": "Can I apply if I already benefit from another scholarship?",
+      "answer": "No, this scheme cannot be combined with other tuition fee-based scholarships."
+    },
+    {
+      "question": "How are students selected for the scheme?",
+      "answer": "Selection is based on merit and income criteria, evaluated by the Dean Student Welfare."
+    },
+    {
+      "question": "Is there any additional benefit for girl students?",
+      "answer": "Yes, girl students receive the tuition waiver for an additional year (4 years total)."
+    }
+  ]
+}

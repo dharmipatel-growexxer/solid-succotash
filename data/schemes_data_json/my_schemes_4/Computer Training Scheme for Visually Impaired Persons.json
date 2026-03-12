@@ -1,0 +1,115 @@
+{
+  "scheme_name": "Computer Training Scheme for Visually Impaired Persons",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ctsfvip",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Computer Training Scheme for Visually Impaired Persons",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The \"Computer Training Scheme for Visually Impaired Persons\" scheme was launched by the Department of Social Justice and Empowerment of Persons with Disabilities, Government of Madhya Pradesh. The scheme aims to provide computer-based intensive training, screen-reading software support, and a post-training laptop to visually impaired beneficiaries to enhance their education and livelihood opportunities.",
+      "Objectives",
+      "The scheme provides intensive computer training with screen-reading software to visually impaired persons, improving their digital skills for education and employment. It helps them access information online and supports their goals in higher studies, competitive exams, and self-employment.",
+      "Training",
+      "The program is conducted in two shifts for two months and includes computer hardware, software, trainers, internet connectivity, and study support."
+    ],
+    "benefits": [
+      "Computer Training with Screen-Reading Software",
+      "Two-month intensive computer training is provided using screen-reading software.",
+      "Training is conducted in two batches daily, each of four hours.",
+      "Training is delivered in seven divisions: Bhopal, Indore, Jabalpur, Gwalior, Sagar, Rewa, and Ujjain.",
+      "Post-Training Laptop Support",
+      "Each beneficiary receives a laptop after successful completion of the two-month training program.",
+      "The training and laptop distribution benefits are one-time and non-recurring.",
+      "Training Infrastructure Support",
+      "Includes computer systems: Intel i3 or equivalent processor, 4 GB RAM, 250 GB or higher HDD, battery backup, and low-weight design.",
+      "Includes NBTR screen-reading software.",
+      "Includes instructor support and helper assistance.",
+      "Internet connectivity is provided during training.",
+      "Free access to an online library (provided at no cost by an external source)."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Madhya Pradesh.",
+      "The applicant must have 40% or more visual impairment.",
+      "The applicant must belong to a Below Poverty Line (BPL) household.",
+      "The applicant must have passed class 8",
+      "th",
+      "with at least 50% marks.",
+      "The applicant is eligible to receive training only once under this scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Samagra ID Creation:",
+        "The applicant visit the",
+        "official website",
+        "and click on the \"",
+        "Register",
+        "\".",
+        "On the new page, enter the Mobile number which was linked with Aadhaar Number and authenticate via OTP.",
+        "Now provide the Aadhaar number and enter the new OTP.",
+        "On the new page, provide the basic details, complete address",
+        "Give the consent and submit.",
+        "Application Process:",
+        "Joint Director/Deputy Director, Social Justice and Disabled Welfare will upload the data through online application on the departmental portal (",
+        "http://socialjustice.mp.gov.in",
+        ")."
+      ]
+    },
+    "documents_required": [
+      "Class 8",
+      "th",
+      "Marksheet",
+      "Disability Certificate (Medical Board Certificate for 40% or more visual impairment)",
+      "Domicile Certificate",
+      "Proof of Residential Address (Electricity Bill, Ration Card, Voter ID, or similar document)",
+      "Below Poverty Line (BPL) Certificate",
+      "Aadhaar Card",
+      "Samagra ID"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Individuals who are residents of Madhya Pradesh with 40% or more visual impairment, belong to BPL households, and have passed Class 8 with at least 50% marks."
+    },
+    {
+      "question": "How many times can a person receive training under this scheme?",
+      "answer": "Only once. The scheme provides a one-time benefit."
+    },
+    {
+      "question": "What is the duration of the training program?",
+      "answer": "The training lasts two months."
+    },
+    {
+      "question": "Is a laptop provided to trainees?",
+      "answer": "Yes, a laptop is provided after successful completion of training."
+    },
+    {
+      "question": "Where is the training conducted?",
+      "answer": "Training is conducted in seven divisions: Bhopal, Indore, Jabalpur, Gwalior, Sagar, Rewa, and Ujjain."
+    },
+    {
+      "question": "Is there any monetary assistance given directly to the beneficiary?",
+      "answer": "No, all benefits are provided in kind."
+    },
+    {
+      "question": "What software will be used during training?",
+      "answer": "NBTR screen-reading software will be used to assist visually impaired trainees."
+    },
+    {
+      "question": "Is internet connectivity available during training?",
+      "answer": "Yes, 4G internet connectivity is provided at each center."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "Applicants must submit the Class 8th Marksheet, Disability Certificate (40% or more visual impairment issued by Medical Board), Domicile Certificate, Proof of Residential Address (Electricity Bill, Ration Card, Voter ID, etc.), Below Poverty Line (BPL) Certificate, Aadhaar Card, Samagra ID, etc."
+    },
+    {
+      "question": "Can an applicant from another state apply?",
+      "answer": "No, only permanent residents of Madhya Pradesh are eligible."
+    }
+  ]
+}

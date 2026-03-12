@@ -1,0 +1,99 @@
+{
+  "scheme_name": "Scheduled Caste Dashamottar Scholarship (Starting from Class 11) - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/scdsuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Scheduled Caste Dashamottar Scholarship (Starting from Class 11) - Uttarakhand",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Scheduled Caste Dashamottar Scholarship (Starting from Class 11)\" has been implemented by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to support Scheduled Caste students of Uttarakhand from Class 11th onwards by providing financial assistance for their education, including tuition fees and other academic expenses."
+    ],
+    "benefits": [
+      "The total scholarship amount determined by the districts = Educational Allowance + Tuition Fee.",
+      "Group 1:",
+      "Professional courses at undergraduate and postgraduate levels",
+      "Hostellers: ₹13,500/-",
+      "Day Scholars: ₹7,000/-",
+      "Group 2:",
+      "Other Professional Courses leading to Degree, Diploma, Certificate",
+      "Hostellers: ₹9,500/-",
+      "Day Scholars: ₹6,500/-",
+      "Group 3",
+      "Undergraduate and postgraduate courses which do not fall under Group 1 and 2",
+      "Hostellers: ₹6,000/-",
+      "Day Scholars: ₹3,000/-",
+      "Group 4",
+      "All Post Matriculation (level after Class 10th) Non-Degree Courses",
+      "Hostellers: ₹4,000/-",
+      "Day Scholars: ₹2,500/-"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must belong to the Scheduled Caste (SC) category.",
+      "The applicant must be enrolled in a recognized school/educational institution in Uttarakhand.",
+      "The applicant must be studying in Class 11 or higher level course.",
+      "The applicant must possess valid documents, such as Caste Certificate, Residence Certificate, Bank Passbook, Aadhaar, Photograph, Educational Qualification Certificates, and Income Certificate.",
+      "The total annual income of the parents/guardians from all sources must not exceed ₹2.5 lakh.",
+      "The scholarship will be available for one year only for studying in any class."
+    ],
+    "application_process": {
+      "online": [
+        "Students apply online on the Government of India’s National Scholarship Portal (NSP) (",
+        "https://scholarships.gov.in",
+        ").",
+        "The following documents must be uploaded with the application: Caste Certificate, Residence Certificate, Bank Passbook, Aadhaar, Photograph, Educational Qualification Certificates, and Income Certificate.",
+        "The student submits the application to their educational institution using their own ID. The concerned educational institution forwards the received online application to the District Social Welfare Officer. The District Social Welfare Officer examines the received applications and conducts physical verification of the complete applications. Incomplete applications that can be corrected are temporarily marked as defective, while those that cannot be corrected are permanently rejected. The eligible applicants receive the scholarship amount directly in their bank accounts, subject to the availability of funds.",
+        "Procedure:",
+        "Step 1: The student registers and submits the application form online.",
+        "Step 2: The educational institution verifies the submitted applications.",
+        "Step 3: Physical verification of the students is conducted by the Social Welfare Department (DSWO) and/or a third-party agency appointed by the government.",
+        "Step 4: Online verification is completed at the Social Welfare Department (DSWO) level.",
+        "Step 5: The scholarship amount is disbursed to the students whose applications are fully verified, through the PFMS (Public Financial Management System)."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Photograph",
+      "Caste Certificate",
+      "Residence Certificate",
+      "Bank Passbook",
+      "Educational Qualification Certificates",
+      "Income Certificate",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 20)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scholarship?",
+      "answer": "Students must be residents of Uttarakhand, belong to the Scheduled Caste category, be enrolled in a recognized educational institution, and be studying in Class 11 or higher course."
+    },
+    {
+      "question": "What is the total scholarship amount?",
+      "answer": "The total scholarship amount is determined by the districts and includes Academic Allowance + Tuition Fee, varying by course and student type (hosteler or day scholar)."
+    },
+    {
+      "question": "Is this scholarship available for all classes?",
+      "answer": "No, the scholarship is available only from Class 11 onwards."
+    },
+    {
+      "question": "For how long is the scholarship awarded?",
+      "answer": "The scholarship is awarded for one academic year only."
+    },
+    {
+      "question": "How should students apply for the scholarship?",
+      "answer": "Students must apply online through the National Scholarship Portal (NSP) at https://scholarships.gov.in ."
+    },
+    {
+      "question": "How is physical verification done?",
+      "answer": "The District Social Welfare Officer (DSWO) and third-party officials visit the institution or student location to verify the authenticity of the student and documents."
+    },
+    {
+      "question": "How is the scholarship amount disbursed?",
+      "answer": "The scholarship is transferred directly to the bank account of the eligible applicant via the Public Financial Management System (PFMS)."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "scheme_name": "Development and Dissemination of e-Content",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dadoe",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Development and Dissemination of e-Content",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Development and Dissemination of e-Content” is implemented by the Uttarakhand Science Education and Research Centre (USERC) under the Department of Science and Technology, Government of Uttarakhand. The scheme aims to provide free, high-quality e-learning materials to students of classes 9 to 12, covering subjects such as Physics, Chemistry, Mathematics, English, etc. in collaboration with reputed ed-tech platforms."
+    ],
+    "benefits": [
+      "The high-quality e-learning materials from online education providers (platforms such as Byju's and Vedantu) are made available to students of classes 9 to 12 through free bilingual online and offline lectures in Physics, Chemistry, Mathematics, and English."
+    ],
+    "eligibility": [
+      "The applicant must be a student from Uttarakhand."
+    ],
+    "application_process": {
+      "online": [
+        "Students can access certain e-learning materials by visiting the USERC website,",
+        "https://www.userc.in",
+        ". However, to access the full course, they can download the Vidyasaar app from the Google Play Store and register their mobile number free of charge.",
+        "In schools without internet access, USERC provides a device to the school, enabling students to access the entire course offline."
+      ]
+    },
+    "documents_required": [
+      "Mobile Number"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 118)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Which classes are covered?",
+      "answer": "Students of classes 9 th to 12 th are eligible."
+    },
+    {
+      "question": "Which subjects are available?",
+      "answer": "The subject like Physics, Chemistry, Mathematics, English, etc. are available."
+    },
+    {
+      "question": "Is the content multilingual?",
+      "answer": "Yes, it is available in both Hindi and English."
+    },
+    {
+      "question": "How can students access the content?",
+      "answer": "Through the Vidya Saar mobile app or offline devices in schools."
+    },
+    {
+      "question": "Is the app free to use?",
+      "answer": "Yes, the Vidya Saar app is completely free."
+    },
+    {
+      "question": "What if a student has no internet access?",
+      "answer": "Offline devices with preloaded content are provided to schools."
+    },
+    {
+      "question": "Can students access content from home?",
+      "answer": "Yes, if they have internet and a mobile device with the Vidya Saar app."
+    },
+    {
+      "question": "Is registration mandatory?",
+      "answer": "Yes, students must register with a valid mobile number on the app."
+    },
+    {
+      "question": "Are there any charges for lectures?",
+      "answer": "No, the lectures are provided free of cost."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Scheduled Tribe Purvadasham Scholarship Scheme (Class 1 to 8) - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/stpss",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Scheduled Tribe Purvadasham Scholarship Scheme (Class 1 to 8) - Uttarakhand",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Scheduled Tribe Purvadasham Scholarship Scheme (Class 1 to 8)” has been implemented by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to provide financial assistance to Scheduled Tribe students to support their education from Class 1st to Class 8th."
+    ],
+    "benefits": [
+      "Rate of Scholarship:",
+      "Class 1 to 5: ₹600/-",
+      "Class 6 to 8: ₹960/-"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must belong to the Scheduled Tribe (ST) category.",
+      "The applicant must possess a valid caste certificate.",
+      "The applicant must be enrolled in a recognized school in Uttarakhand.",
+      "The applicant must be studying in a Class 1 to 8.",
+      "The scholarship will be available for one year only for studying in any class.",
+      "The applicant should not be receiving benefits under any other government scholarship scheme.",
+      "There is no income limit for this scholarship."
+    ],
+    "application_process": {
+      "online": [
+        "Students apply online on the Government of India’s National Scholarship Portal (NSP) (",
+        "https://scholarships.gov.in",
+        ").",
+        "The following documents must be attached with the application: the applicant’s Aadhaar card, caste certificate, mobile number, attested photograph, and a CBS bank account that is Aadhaar-linked/seeded; marksheet of the previous class passed; and a self-declaration stating that the applicant is not availing benefits under any other government scholarship scheme.",
+        "The student submits the application to their educational institution using their own ID. The concerned educational institution forwards the received online application to the District Social Welfare Officer. The District Social Welfare Officer examines the received applications and conducts physical verification of the complete applications. Incomplete applications that can be corrected are temporarily marked as defective, while those that cannot be corrected are permanently rejected. The eligible applicants receive the scholarship amount directly in their bank accounts, subject to the availability of funds.",
+        "Procedure:",
+        "Step 1: The student registers and submits the application form online.",
+        "Step 2: The educational institution verifies the submitted applications.",
+        "Step 3: Physical verification of the students is conducted by the Social Welfare Department (DSWO) and/or a third-party agency appointed by the government.",
+        "Step 4: Online verification is completed at the Social Welfare Department (DSWO) level.",
+        "Step 5: The scholarship amount is disbursed to the students whose applications are fully verified, through the PFMS (Public Financial Management System)."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of the applicant",
+      "Caste Certificate of the applicant",
+      "Mobile Number of the applicant",
+      "Attested Photograph of the applicant",
+      "Bank Account Details: A CBS bank account that is Aadhaar-linked/seeded",
+      "Marksheet of the previous class passed",
+      "Self-Declaration stating that the applicant is not availing benefits under any other government scholarship scheme",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 19)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the scholarship amount for Class 1 to 5 students?",
+      "answer": "The scholarship amount for students of Class 1 to 5 is ₹600/- per year."
+    },
+    {
+      "question": "What is the scholarship amount for Class 6 to 8 students?",
+      "answer": "The scholarship amount for students of Class 6 to 8 is ₹960/- per year."
+    },
+    {
+      "question": "For how long is the scholarship awarded?",
+      "answer": "The scholarship is granted for one academic year only for the respective class."
+    },
+    {
+      "question": "Is there any family income limit for this scholarship?",
+      "answer": "No, there is no income limit for eligibility."
+    },
+    {
+      "question": "How can students apply for this scholarship?",
+      "answer": "Students can apply online through the National Scholarship Portal (NSP) at https://scholarships.gov.in ."
+    },
+    {
+      "question": "How is the application submitted?",
+      "answer": "The student submits the online application using their own ID to their educational institution, which then forwards it to the District Social Welfare Officer (DSWO)."
+    },
+    {
+      "question": "How is the application verified?",
+      "answer": "The educational institution first verifies the application. Physical verification is conducted by the DSWO and/or a third-party agency appointed by the government. Online verification is done at the DSWO level. The educational institution first verifies the application. Physical verification is conducted by the DSWO and/or a third-party agency appointed by the government. Online verification is done at the DSWO level."
+    },
+    {
+      "question": "How is the scholarship amount disbursed?",
+      "answer": "The scholarship amount is transferred directly to the eligible student’s bank account through PFMS."
+    }
+  ]
+}

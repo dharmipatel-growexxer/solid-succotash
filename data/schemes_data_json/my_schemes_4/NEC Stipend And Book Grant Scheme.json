@@ -1,0 +1,91 @@
+{
+  "scheme_name": "NEC Stipend And Book Grant Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nsbgs",
+  "location_name": "Nagaland",
+  "location_type": "state",
+  "page_title": "NEC Stipend And Book Grant Scheme",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The Directorate of Higher Education, Government of Nagaland, offers the NEC Stipend and Book Grant Scheme for Nagaland domiciled students pursuing higher professional courses. The scheme is open to Scheduled Tribe and General category students. The number of stipends awarded each year depends on fund availability.",
+      "The scheme aims to promote national integration, global understanding, social responsibility, and encourage scientific, imaginative, and innovative thinking among students."
+    ],
+    "benefits": [
+      "The selection of the students will mainly depend upon their academic performance and the need for the scholarship.",
+      "The selected students will receive stipends and book grants for studies in India only."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Nagaland State.",
+      "The applicant should belong to Scheduled Tribe (ST) or General category.",
+      "The applicant should have secured a minimum of 60% marks in the last qualifying examination if belonging to the ST category.",
+      "The applicant should have secured a minimum of 75% marks in the last qualifying examination if belonging to the General category.",
+      "The applicant should be pursuing a Higher Professional course approved by the North Eastern Council (NEC)."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Visit the official Government of Nagaland",
+        "scholarship portal.",
+        "Step 2: Click on “New Registration” and complete the registration by entering the required details. Note down the registered User ID and Password for future login.",
+        "Step 3: Log in to the portal and click on “Online Services”. Select the desired scholarship scheme from the DHE menu.",
+        "Step 4: Fill in the remaining application details carefully and submit the online form.",
+        "Step 5: Take a printout of the submitted application form and submit it to your respective institution."
+      ]
+    },
+    "documents_required": [
+      "List of the required documents",
+      "Attested copy of the admission receipt.",
+      "Attested copy of school/college/university registration/affiliation certificate.",
+      "Attested copies of mark sheet, and admit card from class 10th onwards.",
+      "Attested copies of the ST certificate and indigenous certificate."
+    ],
+    "sources_and_references": [
+      "Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the benefit of this scheme?",
+      "answer": "The selection of the students will majorly depend upon the academic performance and the need for the scholarship"
+    },
+    {
+      "question": "What benefit does the students get from this scheme ?",
+      "answer": "The selected students will receive stipend and book grants for studies in India only."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "A candidate must be Nagaland domiciled."
+    },
+    {
+      "question": "Who are eligible for this scheme?",
+      "answer": "Scheduled Tribe (ST) and general category candidates are eligible to apply."
+    },
+    {
+      "question": "What are the criteria required to apply for this scheme?",
+      "answer": "To be eligible for this scholarship scheme, students belong to the general category have to obtain a minimum aggregate of 75% marks in the last qualifying examination (60% marks in case of ST category)"
+    },
+    {
+      "question": "Which courses student can pursue from this scheme?",
+      "answer": "Students must pursue higher professional courses like diploma, degree, postgraduate, Ph.D./M.Phil approved by NEC"
+    },
+    {
+      "question": "What is official website to apply for this scheme?",
+      "answer": "Visit the official website of the government of Nagaland from https://scholarship.nagaland.gov.in/register to apply for this scholarship scheme."
+    },
+    {
+      "question": "What is the first step of this application process?",
+      "answer": "The first step of the application process is registration and complete the registration process."
+    },
+    {
+      "question": "What is required for further login?",
+      "answer": "Your registered user ID and password is required for future login."
+    },
+    {
+      "question": "What is the next steps after registration?",
+      "answer": "After successful registration students can click on “Online Services” and select your desired scholarship scheme from the DHE menu."
+    },
+    {
+      "question": "What is the final steps required?",
+      "answer": "Applicants must take the printout of the filled-in application form and submit it to your institution. List of the required document 1) Attested copy of the admission receipt. 2) attested copy of school/college/university registration/affiliation certificate 3) attested copies of mark sheet, admit card from class 10th onwards. 4) attested copies of the ST certificate and indigenous certificate."
+    }
+  ]
+}

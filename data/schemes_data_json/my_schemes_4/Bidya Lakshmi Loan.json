@@ -1,0 +1,157 @@
+{
+  "scheme_name": "Bidya Lakshmi Loan",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bll",
+  "location_name": "Assam",
+  "location_type": "state",
+  "page_title": "Bidya Lakshmi Loan",
+  "scraped_at": "2026-03-12 05:41:34 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2016-17, the scheme \"Bidya Lakshmi\" by the Finance (Audit & Fund) Department, Government of Assam aims to provide higher education loans for the children of regular State Government employees in Assam under the Uecha Siksha Hitoishona Achani (USHA) for Karmachari. The scheme offers loans ranging from ₹5,00,000/- to ₹10,00,000/- at an interest rate of 4%, with additional benefits for employees under the Credit Linked Subsidy Scheme (CLSS). Eligible courses include professional and technical programs in India and abroad, such as Engineering, Medical, Management, and Doctorate programs. The scheme is implemented by the State Bank of India (SBI), with designated branches across all districts and civil sub-divisions."
+    ],
+    "benefits": [
+      "The State Government provides a loan of ₹5,00,000/- to ₹10,00,000/- at an interest rate of 4%.",
+      "Employees with an annual salary income exceeding ₹4,50,000/- can avail up to ₹10,00,000/- at 4% interest after State Government interest subvention.",
+      "Employees with annual income up to ₹4,50,000/- are eligible under the Credit Linked Subsidy Scheme (CLSS), with 100% subsidy during the moratorium period (course period plus one year). Post-moratorium, the effective interest rate is 4%.",
+      "Loans can be used for course fees, books, computers, educational equipment, and travel expenses (for studies abroad).",
+      "No collateral security or third-party guarantee is required for loans up to ₹10,00,000/-.",
+      "Life insurance policy option available to cover the loan amount.",
+      "Tax rebate under Section 80(E) of the Indian Income Tax Act.",
+      "Mode of Disbursement",
+      "The loan amount is transferred directly to the educational institution’s account (not to the parent/student). It covers Tuition fees, books, computers, equipment, and travel (for abroad studies). The amount is disbursed in lump sum or installments, as per the institution’s fee structure.",
+      "Frequency of Disbursement",
+      "Interest is charged monthly, and subsidy amounts are credited back to the individual account upon claim clearance.",
+      "Conditions for Disbursement",
+      "The utilization certificate must be submitted at the end of the financial year."
+    ],
+    "eligibility": [
+      "For the Parent",
+      "The parent should be a regular, in-service State Government Employee of Assam.",
+      "The parent should have at least 5 years of residual pensionable service.",
+      "The employees with annual income exceeding ₹4,50,000/- can avail up to ₹10,00,000/-.",
+      "The employees with annual income up to ₹4,50,000/- are eligible under CLSS.",
+      "The employee must have a salary account with check-off facility (for EMI deductions).",
+      "The employee must be a co-borrower in the loan application. The employee’s name must be included in the loan application alongside the child (the student).",
+      "For the Child",
+      "The child must be admitted to a technical/higher educational institution recognized by UGC (University Grants Commission)/ AICTE (All India Council for Technical Education)/ Government-approved colleges/universities in Assam or anywhere in India/ Premier institutions (for studies abroad).",
+      "The child must be pursuing one of the following approved courses:",
+      "In India:",
+      "Engineering, Medical, Agriculture, Veterinary, Law, Dental, Management, Computer Science, Chartered Accountancy (CA), Cost and Management Accountancy (ICWA), Chartered Financial Analyst (CFA), Master of Computer Applications (MCA), Master of Science (MS), Graduation in professional/technical courses, Doctorate (PhD).",
+      "Abroad:",
+      "Courses conducted by premier institutions like CIMA (Chartered Institute of Management Accountants, London) or CPA (Certified Public Accountant, USA).",
+      "The child must be a co-borrower in the loan application. The child’s name must be included in the loan application alongside the parent (government employee)."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The eligible employee should take a print of the",
+        "prescribed format",
+        "of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest them, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the respective Drawing and Disbursing Officer (DDO). Furnish a written undertaking for EMI deduction from salary.",
+        "Step 4:",
+        "The DDO sends the application package (form, documents, and check-off letter) to the designated SBI branch in the district or civil sub-division.",
+        "Post-Application Processes",
+        "The bank reviews the application, confirms eligibility, and approves the loan if all criteria are met. The loan amount is then disbursed directly to the educational institution.",
+        "Once repayment begins, SBI automatically deducts the Equated Monthly Installments (EMIs) from the applicant’s salary account using the check-off facility."
+      ]
+    },
+    "documents_required": [
+      "To Be Submitted By The Student",
+      "Passport Size Photograph (3 copies).",
+      "Copy of PAN Card (Identity Proof).",
+      "Electricity Bill/ Landline Telephone Bill Aadhar Card/ Driving License/ Passport (Address Proof).",
+      "Mark sheets and Pass Certificates up to the last qualifying examinations (Matric onwards).",
+      "Offer letter/Bonafide certificate from the institution.",
+      "Prospectus of the Course and Approval copy AICTE/UGC or Governing Body for the Course.",
+      "Detailed Fee Structure of the course on the letterhead of the institution.",
+      "Score sheet of Entrance Tests like JEE/PMT.",
+      "Any other documents if necessary.",
+      "Additional Documents for Studies Abroad",
+      "Passport.",
+      "Unconditional Offer Letter.",
+      "To Be Submitted By The Parent(s)",
+      "Electricity Bill Landline Telephone Bill; Aadhar Card/ Driving License/ Passport (Address Proof).",
+      "Copy of Bank Passbook or Bank account statement.",
+      "Form 16/ Income Tax Return/ Income Certificate from the appropriate authority (Income Proof)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Application Form",
+      "List Of Premier Institutions",
+      "Designated Branches For Sanction Of Loan"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Are there any income-based criteria for availing the loan?",
+      "answer": "Employees with an annual salary income exceeding ₹4,50,000/- can avail up to ₹10,00,000/-, while those earning up to ₹4,50,000/- qualify for additional subsidies under the Credit Linked Subsidy Scheme."
+    },
+    {
+      "question": "What courses are covered under this education loan scheme?",
+      "answer": "The scheme covers professional and technical courses like Engineering, Medical, Management, Law, Chartered Accountancy, and Doctorate programs, both in India and abroad."
+    },
+    {
+      "question": "Is collateral security required for loans up to ₹10,00,000/-?",
+      "answer": "No collateral security or third-party guarantee is required for loans up to ₹10,00,000/- under this scheme."
+    },
+    {
+      "question": "Can the loan be used for expenses other than tuition fees?",
+      "answer": "Yes, the loan can be used for course fees, books, computers, educational equipment, and travel expenses (for studies abroad)."
+    },
+    {
+      "question": "How is the loan amount disbursed to the beneficiary?",
+      "answer": "The loan amount is released directly to the educational institution where the student is enrolled."
+    },
+    {
+      "question": "What is the moratorium period for loan repayment?",
+      "answer": "The moratorium period includes the course duration plus one year, during which subsidies may apply for eligible candidates."
+    },
+    {
+      "question": "How is the interest subsidy provided by the government credited?",
+      "answer": "The interest subsidy is credited back to the borrower’s account monthly after the claims are cleared by the government."
+    },
+    {
+      "question": "What happens if an employee defaults on loan repayment?",
+      "answer": "In case of default, the amount will be recovered from the employee’s terminal benefits, including gratuity and leave encashment."
+    },
+    {
+      "question": "Is there a tax benefit associated with this education loan?",
+      "answer": "Yes, borrowers can avail tax rebates under Section 80(E) of the Indian Income Tax Act for the interest paid on the loan."
+    },
+    {
+      "question": "Which bank is responsible for implementing this loan scheme?",
+      "answer": "The State Bank of India (SBI) is the designated bank for disbursing and managing these education loans."
+    },
+    {
+      "question": "Are there any special provisions for employees with lower incomes?",
+      "answer": "Employees earning up to ₹4,50,000/- annually qualify for 100% subsidy under the Credit Linked Subsidy Scheme during the moratorium period."
+    },
+    {
+      "question": "How does the check-off facility work for loan repayment?",
+      "answer": "The bank deducts Equated Monthly Installments (EMIs) directly from the employee’s salary account through a standing instruction."
+    },
+    {
+      "question": "Can employees avail loans above ₹10,00,000/- under this scheme?",
+      "answer": "Yes, but the State Government’s interest subvention and concessions are limited to ₹10,00,000/-, and market rates apply for the additional amount."
+    },
+    {
+      "question": "What is the role of the Drawing and Disbursing Officer in the application process?",
+      "answer": "The Drawing and Disbursing Officer (DDO) forwards the loan application and provides a check-off facility letter for salary deduction."
+    },
+    {
+      "question": "How is the loan repayment structured after the moratorium period?",
+      "answer": "After the moratorium, borrowers must repay the loan in monthly installments deducted directly from their salary."
+    },
+    {
+      "question": "Are there any additional costs borne by the employee for the loan?",
+      "answer": "The employee must bear the cost of stamp duty, if applicable, for processing the loan."
+    },
+    {
+      "question": "What is the validity period for the interest subsidy under the Credit Linked Subsidy Scheme?",
+      "answer": "The subsidy is valid during the moratorium period (course duration plus one year) for eligible employees."
+    }
+  ]
+}

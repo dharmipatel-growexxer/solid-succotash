@@ -1,0 +1,110 @@
+{
+  "scheme_name": "Indira Gandhi Utkrisht Chattervriti Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/igucy",
+  "location_name": "Himachal Pradesh",
+  "location_type": "state",
+  "page_title": "Indira Gandhi Utkrisht Chattervriti Yojana",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The Department of Higher Education, Government of Himachal Pradesh introduced a scheme named \"",
+      "Indira Gandhi Utkrisht Chattervriti Yojana",
+      "\" for post plus two students. Through this scheme, a scholarship of ₹18,000/- per annum will be awarded to 10 meritorious students each from Class 12 (Arts, Science, and Commerce) and from the merit list of B.A., B.Sc. and B.Com. degree. The scholarship will be renewed yearly until they complete the degree/course. This scheme aims to recognize and financially support exceptionally meritorious students pursuing higher education, promoting academic excellence and equal opportunities across the state."
+    ],
+    "benefits": [
+      "A total of 150 meritorious students will receive ₹18,000 per annum based on merit."
+    ],
+    "eligibility": [
+      "To be eligible,",
+      "an applicant must",
+      "be a bonafide resident of Himachal Pradesh and fulfil the below academic criteria:",
+      "Class 12:",
+      "Students must have secured a minimum of 60% marks in the Himachal Pradesh Board of School Education (HPBOSE) Class 12 examination in any stream (Arts, Science, Commerce).",
+      "Graduate Level:",
+      "Students must have secured a minimum of 60% marks in the undergraduate degree examination from a recognized university.",
+      "be enrolled in an academic or professional stream at a recognized university or institution within or outside Himachal Pradesh."
+    ],
+    "application_process": {
+      "online": [
+        "Visit the Official Website of the",
+        "National Scholarship Portal",
+        ". and click “",
+        "New Registration",
+        "”. Guidelines for Registration will appear. Read the One Time Registration (OTR) Guidelines. Register using mobile number and complete e-KYC process and submit.",
+        "In case applicant has forgotten his OTR/Reference number, click on the",
+        "website",
+        "to retrieve the same.",
+        "Once registered, click on \"",
+        "Applicant login",
+        "\"",
+        "on the Scholarship portal. Enter your OTR/Reference number and password. Type the Captcha and click “Login”. On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen. Create a new password and confirm. Click “Submit”. You will be directed to the “Applicant’s Dashboard”.",
+        "Click “Application Form”. The fields marked as * are compulsory. Fill in the details and upload the documents. You can either click on “Save as Draft” to complete the application later. Else, click “Final Submit” to submit the application.",
+        "NOTE:",
+        "All the applicants are advised to fill the form correctly, no changes can be made once submitted. The applicants are also advised to fill in only one application as multiple applications will cancel the form."
+      ]
+    },
+    "documents_required": [
+      "Academic transcripts including marksheets and certificates.",
+      "Admission letter.",
+      "Caste certificate (if applicable)",
+      "Disability certificate (if applicable)",
+      "Domicile certificate.",
+      "Bank account details."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "FAQ",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Can you provide the link for scheme-specific documents required?",
+      "answer": "Scheme-specific documents are detailed at https://hpepass.cgg.gov.in/NewHomePage.do?actionParameter=stateSchemes."
+    },
+    {
+      "question": "What happens if a student fails to achieve the required marks for scholarship renewal?",
+      "answer": "Scholarship renewal is contingent on maintaining at least 55% marks in subsequent classes; failure to do so may result in non-renewal."
+    },
+    {
+      "question": "What is the rate of scholarship under this scheme?",
+      "answer": "The scholarship rate is ₹10,000 per annum per student."
+    },
+    {
+      "question": "Where can one find the detailed guidelines for the \"Indira Gandhi Utkrisht Chattervriti Yojana\"?",
+      "answer": "The comprehensive guidelines are available at https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Indira_Gandhi_Utkrisht_Chhatravriti_Yojna-merged-202324.pdf."
+    },
+    {
+      "question": "How is the scholarship amount distributed among the selected students?",
+      "answer": "The scholarship amount is ₹18,000 per annum, awarded to the top 10 students each from Class 12 and the merit list of B.A., B.Sc., and B.Com."
+    },
+    {
+      "question": "Are multiple applications allowed for this scholarship?",
+      "answer": "No, applicants are advised to submit only one application as multiple submissions will lead to cancellation."
+    },
+    {
+      "question": "What documents are needed for the application process?",
+      "answer": "Required documents include Passport Size Photo, Aadhaar Card, Himachal Bonafide Certificate, Previous Result Cards, and the Student's Bank Account Statement."
+    },
+    {
+      "question": "What are the eligibility criteria for applicants under this scheme?",
+      "answer": "Eligibility requires residency in Himachal Pradesh, a minimum 60% marks in Class 12, and admission to an academic or professional course."
+    },
+    {
+      "question": "What is the objective of the \"Indira Gandhi Utkrisht Chattervriti Yojana for Post Plus Two Students\" scholarship scheme?",
+      "answer": "The scheme aims to provide a scholarship of ₹18,000 per annum to meritorious students pursuing academic or professional courses in Himachal Pradesh."
+    },
+    {
+      "question": "Is there any application fee or cost associated with applying for this scheme?",
+      "answer": "The entire application process is entirely free of cost. There are no application fees."
+    },
+    {
+      "question": "Is It Mandatory to Have a Bank Account for This Scheme?",
+      "answer": "Yes, possession of a valid bank account is a mandatory requirement for participation in this scheme. All scheme benefits are disbursed directly to the beneficiary's registered bank account."
+    },
+    {
+      "question": "Can Applicants From The Neighboring States Also Apply To This Scheme?",
+      "answer": "This scheme is exclusively available to permanent residents of the state. Applicants from neighboring states, among others, are not eligible to apply."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Educational Award Scheme - Gujarat Labour Welfare Board",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/eas-glwb",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Educational Award Scheme - Gujarat Labour Welfare Board",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The “Educational Award Scheme” is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The scheme has been implemented to encourage the students of the Labours to increase their enthusiasm and to get higher education through it."
+    ],
+    "benefits": [
+      "Under the scheme, children of laborers who have passed 70% or above marks in the 10th Standard will receive ₹2,500/- as an award.",
+      "The children of laborers who have passed 70% or above marks in the 12th Standard will receive ₹5,000/- as an award."
+    ],
+    "eligibility": [
+      "Only the children (students) whose parents are working in a factory/institute in the state of Gujarat and whose parents have been paying the Labour Welfare Fund will be eligible for this scheme.",
+      "The children of labourers who have passed 70% and above marks in the 10th or 12th Standard can avail the benefits under the scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Step 01:",
+        "The applicant may visit the Sanman Portal:",
+        "https://sanman.gujarat.gov.in/",
+        "Step 02:",
+        "On the home page, under the tab ‘Citizen Login’, click on ‘",
+        "Please Register Here",
+        "’.",
+        "Step 03:",
+        "Enter your Aadhaar Card Number, select user type, and then enter Labour Welfare Fund Account Number.",
+        "Step 04:",
+        "Now, click on ‘Fetch’ & verify the details.",
+        "Step 05:",
+        "Enter user details and Password.",
+        "Step 06:",
+        "After successful registration, the applicants can login through their User ID and Password.",
+        "Step 07:",
+        "Now, select the scheme and read the instructions carefully for the selected scheme.",
+        "Step 08:",
+        "Fill out the application form and upload all the relevant documents.",
+        "Step 09:",
+        "Agree with the Rules & Regulations and submit the application form. A confirmation email with the application Number will be sent on the registered email ID."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "ID Card of Labour",
+      "Aadhaar Card of Labour",
+      "Labour Welfare Fund Account Number",
+      "Ration Card",
+      "Caste Category certificate, if applicable",
+      "Residence proof",
+      "Bank account details/Bank Passbook",
+      "Marksheet of Child/Passing Certificate",
+      "Identity proof of Child i.e. Aadhaar Card",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Sanman Portal",
+      "Scheme Details (Page No. 364)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Educational Award Scheme?",
+      "answer": "The Educational Award Scheme is an initiative by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat, aimed at encouraging the children of laborers to pursue higher education."
+    },
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "Children (students) whose parents work in a factory/institute in the state of Gujarat and have been contributing to the Labour Welfare Fund are eligible for this scheme."
+    },
+    {
+      "question": "What are the benefits offered under the scheme?",
+      "answer": "Under this scheme, students who have secured 70% or above marks in the 10th Standard will receive ₹2,500/- as an award, and those who have achieved the same in the 12th Standard will receive ₹5,000/- as an award."
+    },
+    {
+      "question": "How can eligible applicant apply for the scheme?",
+      "answer": "Eligible applicants can apply for the scheme by visiting the Sanman Portal at https://sanman.gujarat.gov.in/."
+    },
+    {
+      "question": "Can children of laborers from other states apply for this scheme if they are studying in Gujarat?",
+      "answer": "No, this scheme is specifically for the children of laborers working in factories/institutes within the state of Gujarat."
+    },
+    {
+      "question": "Are there any specific documents required for the application process?",
+      "answer": "Yes, applicants may be required to provide documents proving their employment in a factory/institute in Gujarat and proof of contribution to the Labour Welfare Fund."
+    }
+  ]
+}

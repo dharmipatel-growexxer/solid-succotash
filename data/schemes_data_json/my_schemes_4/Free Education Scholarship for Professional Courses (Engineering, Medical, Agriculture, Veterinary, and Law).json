@@ -1,0 +1,95 @@
+{
+  "scheme_name": "Free Education Scholarship for Professional Courses (Engineering, Medical, Agriculture, Veterinary, and Law)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fesfpc",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Free Education Scholarship for Professional Courses (Engineering, Medical, Agriculture, Veterinary, and Law)",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The \"Free Education Scholarship for Professional Courses (Engineering, Medical, Agriculture, Veterinary, and Law)\" launched on 7th May, 2012, by the Backward Classes, Most Backward Classes and Minorities Welfare Department, Tamil Nadu, is designed to assist students from Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC). The scheme covers tuition fees, special fees, and non-refundable compulsory fees as prescribed by the government, along with the full examination fee."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Full payment of tuition fees.",
+      "Coverage of special and other non-refundable compulsory fees.",
+      "Full reimbursement of examination fees as per government norms."
+    ],
+    "eligibility": [
+      "The beneficiary should be a student.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should belong to the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC).",
+      "The beneficiary should be pursuing a professional course in a Government/Government Aided or Self-Financing college.",
+      "The beneficiary’s family income should not exceed ₹1,00,000/- annually.",
+      "There should be no graduate in the family."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should collect the application form from the concerned educational institute.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the institution.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card or any other document as directed by the authority).",
+      "Caste certificate.",
+      "Admission letter or proof of enrollment (Government or Government Aided Arts and Science College).",
+      "Bank account details for fee reimbursement.",
+      "Income Certificate (proving family income is below ₹1,00,000/-).",
+      "No Graduate Certificate (self-declaration or from a gazetted officer)",
+      "Previous academic records (as required by the college).",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines-1",
+      "Guidelines-2"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "This scheme provides full coverage of tuition fees, special fees, and examination fees for Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC) students pursuing professional courses."
+    },
+    {
+      "question": "Who is eligible for this scholarship?",
+      "answer": "Students from the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC) are eligible, provided their family income does not exceed ₹1,00,000/- and there are no graduates in their family."
+    },
+    {
+      "question": "What courses are covered under this scheme?",
+      "answer": "The scholarship covers professional courses such as Engineering, Medical, Agriculture, Veterinary, and Law."
+    },
+    {
+      "question": "What fees are covered under this scholarship?",
+      "answer": "The scholarship covers tuition fees, special fees, other non-refundable compulsory fees, and the full examination fee."
+    },
+    {
+      "question": "Can students from self-financing colleges apply for this scholarship?",
+      "answer": "Yes, students enrolled in both government-aided and self-financing professional colleges are eligible."
+    },
+    {
+      "question": "What is the income limit for eligibility?",
+      "answer": "The family income of the applicant should not exceed ₹1,00,000/- per year."
+    },
+    {
+      "question": "What documents are necessary for the application?",
+      "answer": "Required documents include the caste certificate, income certificate, admission letter, no-graduate certificate, educational mark sheets, and address proof."
+    },
+    {
+      "question": "Where should the completed application be submitted?",
+      "answer": "The filled-out application, along with the necessary documents, should be submitted to the college administration for processing."
+    },
+    {
+      "question": "Are there any specific conditions related to the caste category?",
+      "answer": "Yes, the scholarship is only available to students belonging to the Backward Classes, Most Backward Classes, and Denotified Communities."
+    },
+    {
+      "question": "Does the scholarship cover hostel fees or other living expenses?",
+      "answer": "No, the scholarship only covers tuition fees, special fees, and examination fees; it does not include hostel fees or other living expenses."
+    }
+  ]
+}

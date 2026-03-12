@@ -1,0 +1,164 @@
+{
+  "scheme_name": "Margadeepam Scholarship",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/msk",
+  "location_name": "Kerala",
+  "location_type": "state",
+  "page_title": "Margadeepam Scholarship",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Margadeepam Scholarship\" was launched by the Minority Welfare Department, Government of Kerala. The scheme aims to provide educational financial assistance to minority community students studying in government and government-aided schools from Class 1st to Class 8th, addressing the educational needs of Hindu, Christian (all denominations), Sikh, Buddhist, Jain, and Parsi students in proportion to their population. The scheme provides a one-time annual scholarship amount of ₹1,500/- and targets permanent residents of Kerala from minority religious communities."
+    ],
+    "benefits": [
+      "Financial Assistance",
+      "Scholarship amount of ₹1,500/- per student per academic year.",
+      "One-time Direct Benefit Transfer (DBT) to Aadhaar-linked bank accounts in the name of selected students.",
+      "Conditions",
+      "The beneficiary must maintain an active Aadhaar-linked bank account with a nationalized or scheduled bank in their own name for Direct Benefit Transfer.",
+      "The beneficiary must provide accurate banking details to the institutional head for successful fund transfer.",
+      "The beneficiary must not receive any other scholarship benefits under other schemes simultaneously while availing this scholarship.",
+      "The beneficiary must apply fresh each academic year if they wish to continue receiving the scholarship in subsequent years.",
+      "The beneficiary must cooperate with institutional verification processes and provide original documents when requested by authorities.",
+      "The beneficiary must immediately inform the institutional head of any change in circumstances that may affect eligibility.",
+      "The beneficiary must return the entire scholarship amount if found guilty of providing false declarations or fraudulent information."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Kerala.",
+      "The applicant must be studying in Class 1st to Class 8th.",
+      "The applicant must be studying in a Government or Government-aided school.",
+      "The applicant must belong to a minority religious community (Hindu, Christian (all denominations), Sikh, Buddhist, Jain, or Parsi).",
+      "The applicant's family annual income must not exceed ₹2,50,000/-.",
+      "*If adequate applicants are not available in one category, students from other categories may be considered.",
+      "Earmarking",
+      "30% scholarships are reserved for female students.",
+      "The applicant (male students) may be considered for female-reserved positions if adequate female applications are not received.",
+      "Additional Merit Consideration",
+      "PwD:",
+      "The applicant should provide disability certificate if having 40% and above physical/mental disability.",
+      "Orphan:",
+      "The applicant should provide death certificate if orphaned (father/mother/both parents deceased).",
+      "Merit Point Calculation System",
+      "Family Income: Formula = (2,50,000 - Actual Income)/25,000 (Maximum 10 points).",
+      "Academic Grades: Maximum 12 points (A+ Grade = 12, A Grade = 11, B+ Grade = 10, B Grade = 9, C+ Grade = 8, C Grade = 7, D+ Grade = 6, D Grade = 5).",
+      "Orphaned Students: 4 points maximum (Both parents deceased = 4, Single parent deceased = 2).",
+      "Physical/Mental Disability: 4 points (40% and above disability and category 2 disability).",
+      "Total Maximum Points: 30.",
+      "*Academic excellence for Class 2nd to Class 8th students will be determined based on grade points received in academic year.",
+      "*Class 1st students will not be evaluated on academic marks but on income eligibility criteria.",
+      "Post-Selection Conditions",
+      "The applicant must reapply fresh each academic year to continue receiving benefits.",
+      "The applicant must maintain eligibility criteria throughout the benefit period.",
+      "The applicant must not provide false declarations as it will result in immediate scholarship cancellation and recovery of disbursed amount."
+    ],
+    "application_process": {
+      "offline": [
+        "For the Student",
+        "Step 1:",
+        "The interested applicant should take a printout of the",
+        "prescribed format",
+        "of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Head of the Institution.",
+        "For the Institution",
+        "Access the Portal and Log In",
+        "Go to the official",
+        "Margadeepam Scholarship portal",
+        "and select \"Official Login\" from the dropdown menu.",
+        "Log in using the last 5 digits of your Sampoorna School Code as both the username and password, then enter the captcha.",
+        "You will be prompted to reset your password. Choose a new one and proceed to the Institution's Home Page.",
+        "Add Courses and Students",
+        "First, navigate to the \"Add Course in Institution\" menu and add all available classes (1 to 8).",
+        "Next, go to the \"Add Student\" menu, enter the student's Admission Number, and click \"Get Details from Sampoorna\" to fetch their information.",
+        "Ensure the Aadhaar Number, Admission Number, and Account Number are unique, as data cannot be edited after it is added.",
+        "Add Scholarship Criteria",
+        "Click on the \"Add Scholarship Criteria\" menu to see a list of students who need details added.",
+        "Select a student from the list and click \"Add Criteria\" to enter the required information.",
+        "Fill in all necessary details, which include family income and academic grades.",
+        "Step 4:",
+        "Submit the Application",
+        "After entering the scholarship criteria, go to the \"Apply for Scholarship\" menu and select a class.",
+        "A list of eligible students will be displayed; untick any students you do not wish to include in the submission.",
+        "Review the list, tick the certification mark to confirm the details are correct, and click \"Process Application\" to submit.",
+        "Step 5:",
+        "View Status and Previous Records",
+        "To check the status of submitted applications, view the list under the \"Submitted Applications\" menu.",
+        "This list shows all applications that are awaiting verification by the Directorate.",
+        "You can also view a list of students who received scholarships in previous years by clicking on \"View Selected List\"."
+      ]
+    },
+    "documents_required": [
+      "Income Certificate.",
+      "Minority/Community Certificate.",
+      "Bank Passbook Copy.",
+      "Disability Certificate (applicable only for 40% and above disability and category 2 disability).",
+      "Death Certificate of Father/Mother/Both Parents (applicable only where parent/parents are deceased).",
+      "Grade Sheet Copy."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Notification",
+      "User Manual For Institutions",
+      "Application Form (PDF)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the maximum family annual income limit that I need to maintain to remain eligible for this educational assistance?",
+      "answer": "Your family's total annual income must not exceed ₹2,50,000/-. If your family income goes beyond this threshold, you will not be eligible for the scholarship."
+    },
+    {
+      "question": "Can students who have physical disabilities of 40% or above receive any additional consideration during the selection process?",
+      "answer": "Yes, students with physical or mental disabilities of 40% and above, including category 2 disabilities, receive special merit consideration with additional 4 points in the selection process."
+    },
+    {
+      "question": "If both my parents have passed away, will I receive any special consideration while applying for financial assistance?",
+      "answer": "Students who have lost both parents receive maximum special consideration of 4 points, while those who have lost either father or mother receive 2 points in the merit calculation system."
+    },
+    {
+      "question": "Which specific religious communities are considered eligible to apply for this educational financial support program?",
+      "answer": "Hindu, Christian (all denominations), Sikh, Buddhist, Jain, and Parsi religious communities are eligible to apply for this scholarship as they are recognized minority communities."
+    },
+    {
+      "question": "Is there any reservation or preference given to female students in the selection process for this financial assistance?",
+      "answer": "30% of scholarships are reserved for female students, however, if sufficient female applications are not received, male students will be considered for those reserved positions."
+    },
+    {
+      "question": "What is the exact scholarship amount that will be credited to my bank account if I get selected?",
+      "answer": "Selected students will receive ₹1,500/- as a one-time annual scholarship amount directly transferred to their Aadhaar-linked bank account through Direct Benefit Transfer."
+    },
+    {
+      "question": "Can I apply for other government scholarships while receiving benefits under this particular educational assistance program?",
+      "answer": "No, students receiving benefits under this scheme cannot simultaneously avail other scholarship benefits under any other government or institutional scholarship programs."
+    },
+    {
+      "question": "How many students from my family can simultaneously receive this educational financial assistance in the same academic year?",
+      "answer": "Maximum two students from the same family are eligible to receive this scholarship simultaneously, and institutional heads will verify family details through ration card information."
+    },
+    {
+      "question": "Do I need to apply fresh every year if I want to continue receiving this scholarship support?",
+      "answer": "Yes, students who have received the scholarship once must submit a fresh application each academic year if they wish to continue receiving the financial assistance."
+    },
+    {
+      "question": "What are the class range requirements for students to be eligible for applying to this educational support scheme?",
+      "answer": "Students must be studying in Class 1st to Class 8th in government schools or government-aided schools to be eligible for applying to this scholarship program."
+    },
+    {
+      "question": "Which specific bank account type is mandatory for receiving the scholarship amount through direct transfer facility?",
+      "answer": "You must have an Aadhaar-linked bank account opened in your name with a nationalized bank or scheduled bank to receive the scholarship amount."
+    },
+    {
+      "question": "What happens if I provide false information or fake documents while applying for this educational financial assistance?",
+      "answer": "If false declaration is detected, your scholarship will be immediately cancelled and you will be required to return the entire scholarship amount that was disbursed."
+    },
+    {
+      "question": "Can students studying in private schools or self-financing institutions apply for this particular educational support program?",
+      "answer": "No, only students studying in government schools or government-aided schools from Class 1st to Class 8th are eligible to apply for this scholarship."
+    },
+    {
+      "question": "What is the last date for submitting applications online for this academic year's scholarship program?",
+      "answer": "Student applications must be submitted online by 12-09-2025, while institutional heads have until 19-09-2025 to complete verification and submit to the Director."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "scheme_name": "Post Matric Scholarship for Class 11th 12th And College",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmsc",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Post Matric Scholarship for Class 11th 12th And College",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Post-Matric Scholarship\" started in 1945 by the Tribal Welfare and Scheduled Caste (SC) Department, Madhya Pradesh, provides scholarships to Scheduled Tribe students studying in classes 11th, 12th, Colleges, PhD, and Professional Courses."
+    ],
+    "benefits": [
+      "This scholarship is provided to Scheduled Tribe students."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Madhya Pradesh.",
+      "The applicant should be from the Scheduled Tribe category.",
+      "The applicant should be studying in class 11th, 12th, college, PhD, or professional courses.",
+      "The applicant should be studying in a government or government self-financed educational institution (income limit restriction has been abolished for these institutions).",
+      "The parents/guardians of the applicant should have an annual income of up to ₹6.00 lakh if the student is studying in a non-government institution (non-professional courses).",
+      "The applicant should be eligible for the payment of half the non-refundable compulsory fees, including tuition fees, at prescribed rates for government-related courses."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System",
+        "MPTAAS portal.",
+        "Step 2:",
+        "Click on \"New Beneficiary Profile",
+        ".\"",
+        "Step 3:",
+        "Fill in all the required details. Fields marked with * are mandatory. Complete the form by entering all necessary information.",
+        "Step 4:",
+        "Upload all required documents, such as ID proof and other relevant certificates.",
+        "Step 5:",
+        "After completing the form and uploading the documents, click \"Submit\".",
+        "Step 6:",
+        "After successful payment and submission, you will receive a registration number.",
+        "Application",
+        "Enter your user ID, password, and captcha code, then click \"Login.\"",
+        "Choose the scheme you wish to apply for to avail the benefits.",
+        "Enter all required information and upload the necessary documents as prompted.",
+        "Finally, click on \"Submit Application\" to complete the process."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste certificate",
+      "Previous class passing certificate/marksheet",
+      "Samagra ID",
+      "Bank account details/Bank Passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Post-Matric Scholarship Scheme?",
+      "answer": "It is a scholarship provided to Scheduled Tribe students in Madhya Pradesh for studies in classes 11th, 12th, colleges, PhD, and professional courses."
+    },
+    {
+      "question": "Who is eligible for this scholarship?",
+      "answer": "Scheduled Tribe students who are natives of Madhya Pradesh and studying in classes 11th, 12th, colleges, PhD, or professional courses."
+    },
+    {
+      "question": "Is there an income limit for eligibility?",
+      "answer": "The income limit restriction for students in government and government self-financed educational institutions has been abolished. For students in non-government institutions (non-professional courses), the annual family income should be up to ₹6.00 lakh."
+    },
+    {
+      "question": "Where can students apply for the scholarship?",
+      "answer": "Students can apply through the Tribal Welfare and Scheduled Caste (SC) Department of Madhya Pradesh."
+    },
+    {
+      "question": "What type of courses does this scholarship cover?",
+      "answer": "The scholarship covers classes 11th, 12th, college courses, PhD programs, and professional courses."
+    },
+    {
+      "question": "How is the scholarship amount disbursed?",
+      "answer": "The scholarship is provided as financial assistance to cover educational expenses, including tuition fees and other compulsory fees."
+    },
+    {
+      "question": "Is there a fee reimbursement for non-government institutions?",
+      "answer": "Yes, half the non-refundable compulsory fees, including tuition fees, are paid for non-government institution students, provided their family income is up to ₹6.00 lakh."
+    },
+    {
+      "question": "Do students need to be enrolled in government institutions to avail of this scholarship?",
+      "answer": "No, students can avail the scholarship in both government and non-government institutions, with certain income conditions for non-government institutions."
+    },
+    {
+      "question": "How many years is the scholarship provided for?",
+      "answer": "The scholarship is provided for the duration of the course, provided the student continues to meet the eligibility criteria."
+    },
+    {
+      "question": "Is there an age limit for applicants?",
+      "answer": "There is no specific age limit mentioned for this scheme."
+    }
+  ]
+}

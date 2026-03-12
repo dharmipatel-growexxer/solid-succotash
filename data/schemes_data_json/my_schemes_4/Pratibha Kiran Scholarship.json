@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Pratibha Kiran Scholarship",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pks",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Pratibha Kiran Scholarship",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme\" Pratibha Kiran Scholarship\", under the Higher Education Department, Government of Madhya Pradesh, provides financial assistance to girls from urban areas to pursue higher education. The scholarship is awarded for a duration of 10 months. This scheme aims to encourage and promote education among girl students. Girls who have secured 60% or more marks in Class 12 are eligible to avail the benefits of this scheme."
+    ],
+    "benefits": [
+      "Assistance up to ₹5000/- is provided annually to the girl student."
+    ],
+    "eligibility": [
+      "The applicant of the scheme should be a permanent resident of Madhya Pradesh.",
+      "The applicant can be a resident of the urban area of MP state.",
+      "The candidate of the scheme should have passed class 12th with 60% or more then.",
+      "The candidate who wants to apply for the scheme should belong below the poverty line. Financial assistance under the scheme will only be provided to BPL girl students."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Go to the",
+        "portal",
+        "and register as a new user. This is for SC/ST/OBC/General girl students.",
+        "Step 2: Click on New Registration for the Pratibha Kiran Scholarship and fill in all the required details.",
+        "Step 3: After registration, log in using your Registration ID at http://www.scholarshipportal.mp.nic.in/sLogin.aspx",
+        "and apply for the scholarship."
+      ]
+    },
+    "documents_required": [
+      "Aadhar card.",
+      "Urban residential certificate.",
+      "Income certificate.",
+      "BPL certificate.",
+      "12th class mark sheet.",
+      "Passport-size photo.",
+      "Copy of bank passbook.",
+      "Birth certificate.",
+      "Caste certificate.",
+      "Mobile number."
+    ],
+    "sources_and_references": [
+      "Guidelines-1",
+      "Guidelines-2"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is Pratibha Kiran Scholarship Scheme ?",
+      "answer": "Girls from all urban areas can get the benefits of this scheme to get higher education."
+    },
+    {
+      "question": "What are the benefits of the scheme ?",
+      "answer": "Scholarship under Pratibha Kiran Scholarship will be provided. This scholarship will be given for 10 months."
+    },
+    {
+      "question": "What is benefits amount under the scheme ?",
+      "answer": "A scholarship up to Rs. 5000/- is provided annually to the girl student."
+    },
+    {
+      "question": "Who can apply for the scheme ?",
+      "answer": "The girl Student should have secured 60% or more marks in the 12th examination and living in a Urban area."
+    },
+    {
+      "question": "Is this scheme for girl's students only ?",
+      "answer": "Yes, this scheme is only for the girl's students."
+    },
+    {
+      "question": "May Other state gild student apply ?",
+      "answer": "No. This is only for Madhya Pradesh Girl Student."
+    },
+    {
+      "question": "What is the minimum marks required in 12th standard ?",
+      "answer": "Minimum marks should be 60% in 12th standard."
+    },
+    {
+      "question": "Is this scheme only for BPL girl students ?",
+      "answer": "Yes, this scheme is only for BPL girl student."
+    },
+    {
+      "question": "What is the application process ?",
+      "answer": "1. First applicant needs to register herself. 2. Then log in again with credentials and complete the application process."
+    },
+    {
+      "question": "What documents are required ?",
+      "answer": "1. Aadhar card 2. Urban residential certificate 3. Income certificate 4. BPL certificate 5. 12th class mark sheet 6. Passport size photo 7. Copy of bank passbook 8. Birth certificate 9. Caste certificate 10. Mobile number"
+    }
+  ]
+}

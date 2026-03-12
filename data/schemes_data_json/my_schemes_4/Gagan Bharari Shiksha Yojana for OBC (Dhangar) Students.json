@@ -1,0 +1,121 @@
+{
+  "scheme_name": "Gagan Bharari Shiksha Yojana for OBC (Dhangar) Students",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/gbsyobc",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Gagan Bharari Shiksha Yojana for OBC (Dhangar) Students",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Gagan Bharari Shiksha Yojana for OBC (Dhangar) Students\" by the Directorate of Social Welfare, Government of Goa aims to provide additional financial assistance to OBC (Dhangar) students to supplement their Post Matric Scholarship maintenance allowance. Through this scheme, additional monthly allowances are provided to OBC (Dhangar) students to meet their food, travel, and disability-related expenses, as the existing Post Matric Scholarship amounts are inadequate. The applications for this scheme are accepted online. The scheme is being implemented by the Chief Minister Scholarship Portal, Government of Goa."
+    ],
+    "benefits": [
+      "Additional Maintenance Allowance",
+      "Day Scholars: ₹750 per month",
+      "Hostel Residents: ₹1,500 per month",
+      "Duration:",
+      "10 months during the academic year",
+      "Additional Disability Allowance",
+      "Amount: ₹750 per month"
+    ],
+    "eligibility": [
+      "The applicant should be a Student.",
+      "The applicant should belong to the OBC (Dhangar) community.",
+      "The applicant should have availed (or be eligible for) the Centrally Sponsored Post Matric Scholarship during the current academic year."
+    ],
+    "application_process": {
+      "online": [
+        "For Registration",
+        "Step 1:",
+        "Visit the",
+        "Official Website",
+        "of the Chief Minister Scholarship Portal, Government of Goa.",
+        "Step 2:",
+        "At the top right corner of the landing page, click \"Register\". You will be taken to the",
+        "registration page",
+        ".",
+        "Step 3:",
+        "On the registration page, under the \"Student Registration\" section, click \"Click Here\".",
+        "In the Student Registration Form, fill in the following fields:",
+        "Student's Name, Gender, Category, Date of Birth (DD-MM-YYYY), Aadhaar Number, House Number, Waddo/Street, Village Panchayat/Municipality, District, Taluka, Assembly/Constituency, City/Town/Village, PIN Code, Mobile Number, Email ID.",
+        "Step 4:",
+        "Create a password ranging between 8 to 15 characters and confirm the same.",
+        "Step 5:",
+        "Click \"Register\" and then click \"Yes\" to the Confirmation Popup.",
+        "For Application",
+        "Upon successful registration, visit the",
+        "At the top right corner of the landing page, click \"",
+        "Login",
+        "\".",
+        "On the login page, fill in your username, password, captcha code, and click \"Login\".",
+        "Upon logging in, a list of eligible schemes will be displayed. Click the scheme that you intend to apply for.",
+        "In the \"Apply\" section on the side navigation bar, click \"Fresh Application\".",
+        "Step 6:",
+        "Fill in all the mandatory fields of the Application Form and upload all the required documents in the specified format and size and click \"Submit\".",
+        "Post Application Process",
+        "1. After successful submission of the application, your school/institution will verify the application and submit it to the directorate for further scrutiny.",
+        "2. In case of an issue in the application form or documents uploaded, the school/institution can send back the application to the student for necessary corrections and resubmission.",
+        "Track Your Application",
+        "In the side navigation bar, click \"",
+        "Track Application",
+        "On the next page, provide your Aadhaar Number and Date of Birth, and click \"Submit\"."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate (Valid for 3 years from date of issue)",
+      "Income Certificate (Valid for 3 years from date of issue)",
+      "Mark Sheet Certificate (Attested)",
+      "Fees Payment Receipt",
+      "Bank Account Details of Student",
+      "Hostel Certificate (For hostel residents only)",
+      "Passport Size Photos"
+    ],
+    "sources_and_references": [
+      "Guideline",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the Gagan Bharari Shiksha Yojana for OBC (Dhangar) students?",
+      "answer": "The objective of the scheme is to provide additional financial assistance to Dhangar students to cover their expenses on food and travel, as the maintenance allowance under the Post Matric Scholarship is insufficient. It also aims to provide extra support to Dhangar students with disabilities."
+    },
+    {
+      "question": "Who is eligible for the Gagan Bharari Shiksha Yojana?",
+      "answer": "To be eligible, Dhangar students must have either availed or be eligible for the centrally sponsored Post Matric Scholarship during the current academic year."
+    },
+    {
+      "question": "What is the additional financial assistance provided for day scholars under this scheme?",
+      "answer": "Day scholar Dhangar students receive an additional maintenance allowance of ₹750 per month for a period of 10 months during the academic year."
+    },
+    {
+      "question": "What is the additional financial assistance provided for students staying in hostels?",
+      "answer": "Dhangar students staying in hostels receive an additional maintenance allowance of ₹1,500 per month for 10 months during the academic year."
+    },
+    {
+      "question": "Is there any additional allowance for Dhangar students with disabilities under this scheme?",
+      "answer": "Yes, students with disabilities receive an additional disability allowance of ₹750 per month for a period of 10 months during the academic year."
+    },
+    {
+      "question": "What documents are required to apply for the Gagan Bharari Shiksha Yojana?",
+      "answer": "The required documents include: Aadhaar Card Caste Certificate (valid for 3 years from the date of issue) Income Certificate (valid for 3 years from the date of issue) Attested copies of Mark Sheet/Certificate Proof of Fees Paid Bank Account details of the student Hostel certificate (if applicable) Passport-size photograph"
+    },
+    {
+      "question": "How long is the additional allowance paid for under this scheme?",
+      "answer": "The additional allowances (maintenance and disability) are paid for a period of 10 months during the academic year."
+    },
+    {
+      "question": "What is the income requirement for eligibility under this scheme?",
+      "answer": "The scheme does not specify an income requirement beyond the eligibility criteria for the centrally sponsored Post Matric Scholarship. However, the student must have an income certificate valid for 3 years."
+    },
+    {
+      "question": "Can students who are not staying in a hostel still receive financial assistance under this scheme?",
+      "answer": "Yes, day scholars are eligible for an additional maintenance allowance of ₹750 per month, while hostel students receive ₹1,500 per month."
+    },
+    {
+      "question": "Is this scheme applicable to all Dhangar students, including those with disabilities?",
+      "answer": "Yes, the scheme is applicable to all Dhangar students, and additional support is provided to those with disabilities in the form of a disability allowance."
+    }
+  ]
+}

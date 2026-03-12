@@ -1,0 +1,87 @@
+{
+  "scheme_name": "Sudama Pre-Matric Scholarship Scheme (Class 9th to 10th)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/spmssc910",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Sudama Pre-Matric Scholarship Scheme (Class 9th to 10th)",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Sudama Pre-Matric Scholarship Scheme\" was launched by the School Education Department, Government of Madhya Pradesh, to motivate students from lower economic backgrounds and support them economically. Under this scheme, scholarships are provided to students studying in Class 9 and Class 10 in government schools, whose annual family income is less than ₹1,00,000/- and who belong to the Below Poverty Line (BPL) category."
+    ],
+    "benefits": [
+      "Under this scheme, the girl student will get a scholarship of ₹400/- and boy student will get a scholarship of ₹300/- per year."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should be studying in Class 9 or Class 10.",
+      "The student should be enrolled in a government school.",
+      "The applicant should belong to the Below Poverty Line (BPL) category.",
+      "The applicant's family income from all sources should be less than ₹1,00,000/- per year.",
+      "The applicant should have passed the previous year's class."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail of the benefits under this scheme, eligible students can contact the Principal of their respective government schools.",
+        "Note:",
+        "The student's profile is entered on the education portal",
+        "https://shikshaportal.mp.gov.in/",
+        "by the teacher of the educational institution as per the record/certificate provided by the student."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "BPL category certificate/Ration card",
+      "Previous class marksheet",
+      "Income certificate",
+      "Samagra ID",
+      "Bank Passbook",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Guidelines (Page No. 26)",
+      "Online Shiksha Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the benefits of the scheme?",
+      "answer": "Under this scheme, girl students receive a scholarship of ₹400/- per year, and boy students receive ₹300/- per year."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Students studying in class 9th and 10th standards in government schools are eligible for the scheme."
+    },
+    {
+      "question": "How can students apply for the scheme?",
+      "answer": "Eligible students can apply by contacting the Principal of their respective government schools. The school’s teacher will enter the student's profile on the education portal based on the records or certificates provided by the student."
+    },
+    {
+      "question": "Is there an income limit under the scheme?",
+      "answer": "Yes, the applicant's family income from all sources should be less than ₹1,00,000/- per year."
+    },
+    {
+      "question": "Does the student need to pass the previous year's class to be eligible?",
+      "answer": "Yes, the student should have passed the previous year's class to be eligible for the scholarship."
+    },
+    {
+      "question": "Can students from private schools apply for this scholarship?",
+      "answer": "No, only students enrolled in government schools are eligible for the Sudama Pre-Matric Scholarship."
+    },
+    {
+      "question": "Is the scholarship amount the same for both boys and girls?",
+      "answer": "No."
+    },
+    {
+      "question": "How is the scholarship amount disbursed?",
+      "answer": "The scholarship amount is usually credited to the student's bank account."
+    },
+    {
+      "question": "Can students who failed the previous class apply for the scholarship?",
+      "answer": "No, students must have passed the previous class to be eligible for the scholarship."
+    }
+  ]
+}

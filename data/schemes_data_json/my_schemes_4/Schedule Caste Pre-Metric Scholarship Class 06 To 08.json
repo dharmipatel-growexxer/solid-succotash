@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Schedule Caste Pre-Metric Scholarship Class 06 To 08",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/scpmsc",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Schedule Caste Pre-Metric Scholarship Class 06 To 08",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The Rajasthan government aims to provide educational opportunities to students belonging to Schedule Caste student, specifically those studying in grades 6 to 8.",
+      "This program targets students from Schedule caste whose parents/guardians are not income taxpayers and not getting any other type of scholarship or allowance for study from central, state / public sources."
+    ],
+    "benefits": [
+      "For Schedule Caste Boy Students Rs. 75/- per month.",
+      "For Schedule Caste Girl Students Rs. 125/- per month."
+    ],
+    "eligibility": [
+      "The student should belong to the Scheduled Caste category.",
+      "The student should study as a regular student in classes 6 to 8 in schools run by the Central Government, State Government, Municipalities and schools recognized by the Department of Education.",
+      "Student guardians should not be income taxpayers in case of parent(s) are not alive.",
+      "The students who are not getting any other type of scholarship or allowance for study from central, state / public sources.",
+      "The student who has not failed in the lower class in the last session. If he fails in the examination of any year, his scholarship will be stopped, but if he passes the same class in the next examination, he will be eligible for scholarship in the new class from the next session. For this, the student will have to apply for a new scholarship again."
+    ],
+    "application_process": {
+      "online": [
+        "Applicant to log in to",
+        "RajSSO",
+        "Portal using his/her SSOID.",
+        "If SSOID is not available then the applicant to first register on RajSSO Portal to create SSOID and update SSO Profile at first login.",
+        "After successful authentication/login and updation of the SSOID Profile and select the scheme name.",
+        "Select his/her name, the bank account and fill in personal details.",
+        "Upload the required document.",
+        "Clicking the “SUBMIT” button."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Annual Income Of The Parent / Guardian - Non-Tax Payee.",
+      "Janaadhaar Card Details Of Family And Student.",
+      "Bank Details Linked With Janaadhaar Card Of Either The Family Head Or Student.",
+      "Caste Certificate.",
+      "Birth Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application",
+      "Office Order"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the scope of this scheme?",
+      "answer": "In the year 1998, Rajasthan Government started a scholarship to encourage the education of Schedule Cast."
+    },
+    {
+      "question": "What are the benefits under the scheme ?",
+      "answer": "1. For Schedule Cast Boy Students Rs. 75/- per month. 2. For Schedule Cast Girl Students Rs. 125/- per month."
+    },
+    {
+      "question": "Who can get the benefits of the scheme ?",
+      "answer": "The student should belong to the Scheduled Caste category and full fill the eligibility criteria."
+    },
+    {
+      "question": "Is other than SC student get the benefits of the scheme ?",
+      "answer": "No, The student should belong to the Scheduled Caste category only."
+    },
+    {
+      "question": "What Is The Education Qualification For The Scheme ?",
+      "answer": "The student should study as a regular student in classes 6 to 8 in schools run by the Central Government, State Government, Municipalities and schools recognized by the Department of Education."
+    },
+    {
+      "question": "Can other education scheme beneficiaries also get benefits from this scheme?",
+      "answer": "Only those Students may get the benefit of the schemes that are not Getting Any Other Type Of Scholarship Or Allowance For Study From Central, State / Public Sources."
+    },
+    {
+      "question": "What is the financial eligibility for applicant ?",
+      "answer": "Student guardians should not be income taxpayers."
+    },
+    {
+      "question": "How To Apply For The Scheme ?",
+      "answer": "1. Applicant to log in to RajSSO Portal using his/her SSOID. 2. After successful authentication/login and updation of the SSOID Profile and select the scheme name. 3. Select his/her name, the bank account and fill in personal details. 4. Upload the required documents. 5. Click on the “SUBMIT” button."
+    },
+    {
+      "question": "What Documents Are Needed ?",
+      "answer": "1. Aadhaar Card (Optional / Mandatory). 2. Annual Income Of The Parent / Guardian - Non-Tax Payee. 3. Janaadhaar Card Details Of Family And Student. 4. Bank Details Linked With Janaadhaar Card Of Either The Family Head Or Student. 5. Caste Certificate. 6. Birth Certificate."
+    },
+    {
+      "question": "What is the official web portal to apply ?",
+      "answer": "Use the fellow URL. Link : https://sso.rajasthan.gov.in/signin"
+    }
+  ]
+}

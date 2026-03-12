@@ -1,0 +1,123 @@
+{
+  "scheme_name": "The Wired Internet Scheme for Information and Communication Technology Laboratory in Schools in the State of Goa",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/twisictlssg",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "The Wired Internet Scheme for Information and Communication Technology Laboratory in Schools in the State of Goa",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"The Wired Internet Scheme for Information and Communication Technology Laboratory in Schools in the State of Goa\" was launched by the Directorate of Education, Government of Goa. The scheme aims to promulgate enhanced learning by providing internet services to the schools' Information and Communication Technology laboratories. The scheme provides a monthly rental reimbursement of up to ₹2,000/- to the Head of the Government and Government-Aided Schools in the State of Goa to avail internet service to their respective schools' Information and Communication Technology Laboratory. Priority would be given to remote/rural schools, and the internet service must offer 50 Megabits per second upload and download speeds at a 1:10 contention ratio with unlimited data through Optical Fibre Connection."
+    ],
+    "benefits": [
+      "Monthly rental reimbursement of up to ₹2,000/-.",
+      "The benefit is intended to avail internet service to the respective school's Information and Communication Technology Laboratory.",
+      "Disbursement",
+      "Financial support will be released to the Head of Government and Government-Aided Schools through the Directorate of Education.",
+      "The Deputy Director Education of each Educational Zone shall draw and disburse the financial support on receipt of the sanction order, based on the selection procedure.",
+      "Conditions",
+      "The school shall maintain proper records/register.",
+      "The financial support shall be utilized for the purpose for which it is sanctioned and shall not be utilized or diverted for any other purposes.",
+      "Any portion of financial support which is not utilized or is not ultimately required for the purpose for which it is sanctioned, shall be remitted to the Government Treasury.",
+      "The accounts/registers and other records of this scheme shall be open to check by the Director of Education or his authorized representatives."
+    ],
+    "eligibility": [
+      "The applicant must be a Government School or Government-Aided School in Goa.",
+      "The applicant must have a dedicated Information and Communication Technology Laboratory.",
+      "The applicant must have at least 03 working Computer Systems in the Information and Communication Technology (ICT) Laboratory.",
+      "The school must have a minimum student enrolment as prescribed by the Directorate of Education.",
+      "The school Information and Communication Technology Laboratory must not have availed of any internet services through any other schemes of the State or Central Government agencies or bodies.",
+      "Required Internet Service Provider/Internet Vendor Conditions",
+      "The Internet Service Provider/Internet Vendor must provide 50 Megabits per second upload and download speeds at a 1:10 contention ratio and unlimited data through Optical Fibre Connection.",
+      "The Internet Service Provider/Internet Vendor must provide a Service Level Agreement for rectification time after a complaint is logged in the Internet Service Provider/Internet Vendor provided portal: Minor Fault (Last mile issue, device issue, etc.) rectification time must be 04 to 08 hours.",
+      "The Internet Service Provider/Internet Vendor must provide a Service Level Agreement for rectification time after a complaint is logged in the Internet Service Provider/Internet Vendor provided portal: Major Fault (Major Links Down, Underground cable cut, etc.) rectification time must be 24-48 hours.",
+      "The link uptime should be not less than 97.5%.",
+      "Preference",
+      "Priority would be given to remote/rural schools."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Communication of the Scheme",
+        "The Directorate of Education shall make communication of the scheme to the management of eligible Government and Government-Aided Schools in the State of Goa.",
+        "Step 2:",
+        "Selection of Internet Service Provider/Internet Vendor",
+        "The Head of the eligible Government and Government-Aided Schools from the State of Goa would need to select the Internet Service Provider/Internet Vendor that would provide the required internet service.",
+        "Step 3:",
+        "Scrutiny/Inspection",
+        "The Directorate of Education, with the approval of the Government, shall constitute a committee for the purpose of scrutiny/inspection of the internet service availed by the Government and Government-Aided Schools from the State of Goa.",
+        "Step 4:",
+        "Release and Disbursement of Financial Support",
+        "The financial support will be released to the Head of Government and Government-Aided Schools through the Directorate of Education. The Deputy Director Education of each Educational Zone shall draw and disburse the financial support on receipt of the sanction order, based on the selection procedure.",
+        "Change of Vendor",
+        "The Head of the eligible Government and Government-Aided Schools from the State of Goa would have the flexibility to change or discontinue the services of the Internet Service Provider/Internet Vendor if they do not adhere to the Service Level Agreement. Any such change must be communicated to the Directorate of Education."
+      ]
+    },
+    "documents_required": [
+      "Post-Selection / Benefit Continuation",
+      "Proper Records/Register (The school shall maintain proper records/register).",
+      "Service Level Agreement (From the Internet Service Provider/Internet Vendor)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "If an educational institution meets all necessary criteria, is its selection for the financial reimbursement guaranteed?",
+      "answer": "No, the total number of schools selected to receive the benefits depends entirely on the availability of the financial provisions made under the scheme."
+    },
+    {
+      "question": "What is the minimum number of functional computer systems required in the Information and Communication Technology Laboratory for an educational institution to be eligible?",
+      "answer": "The Information and Communication Technology Laboratory must have at least 03 working Computer Systems."
+    },
+    {
+      "question": "What specific technical requirements must the selected Internet Service Provider fulfill regarding the speed, contention ratio, and data limit of the connection provided to the facility?",
+      "answer": "The Internet Service Provider/Internet Vendor must provide 50 Megabits per second upload and download speeds, maintain a 1:10 contention ratio, and offer unlimited data through an Optical Fibre Connection."
+    },
+    {
+      "question": "If a minor technical failure occurs, such as a last mile issue or a device issue, how quickly must the Internet Service Provider rectify the problem based on the Service Level Agreement stipulations?",
+      "answer": "For Minor Faults, which include last mile issues or device issues, the Internet Service Provider/Internet Vendor must adhere to a rectification time of 04 to 08 hours after the complaint is logged in their designated portal."
+    },
+    {
+      "question": "What physical infrastructure must be present in the school facility related to technology education in order to successfully qualify for this financial support?",
+      "answer": "The applicant school must possess a dedicated Information and Communication Technology Laboratory."
+    },
+    {
+      "question": "Is a school still eligible to receive assistance for internet connectivity if its Information and Communication Technology Laboratory is currently utilizing internet services through any other governmental program?",
+      "answer": "No, the school Information and Communication Technology Laboratory should not have availed of any internet services through any other schemes offered by State or Central Government agencies or bodies."
+    },
+    {
+      "question": "In the event of a significant service disruption, like a major link down or an underground cable cut, what is the maximum time allowed for the vendor to restore the connection?",
+      "answer": "For Major Faults, such as the disruption of major links or an underground cable cut, the Service Level Agreement mandates a rectification time of 24 to 48 hours after the issue is logged in the Internet Service Provider/Internet Vendor portal."
+    },
+    {
+      "question": "Are educational institutions established and operated directly by the state government within the territorial limits of the State eligible to apply for this reimbursement program?",
+      "answer": "Yes, all Government Schools in Goa are eligible to apply under this scheme."
+    },
+    {
+      "question": "Can educational institutions that receive financial support from the State Government, but are not fully state-run, participate and receive benefits under this assistance program?",
+      "answer": "Yes, all Government-Aided Schools under the Directorate of Education of the Government of Goa are eligible to apply."
+    },
+    {
+      "question": "What minimum percentage of uninterrupted operational time (uptime) must the chosen internet service link maintain to ensure compliance with the quality requirements?",
+      "answer": "The Service Level Agreement requires that the internet link uptime must be not less than 97.5%."
+    },
+    {
+      "question": "What is the maximum monthly financial assistance available for covering the cost of availing the wired internet service for the technology laboratory?",
+      "answer": "The scheme provides a maximum monthly rental reimbursement of ₹2,000/- to the Head of the school to cover the cost of the internet service."
+    },
+    {
+      "question": "Is there any specific consideration or priority given to the location of an educational institution when selecting applicants for internet service reimbursement?",
+      "answer": "Yes, priority would be given to schools located in remote or rural areas during the selection process."
+    },
+    {
+      "question": "Which specific State Government department is responsible for issuing the communication regarding the availability and management of this technology reimbursement program to eligible schools?",
+      "answer": "The Directorate of Education shall be responsible for making communication of the scheme to the management of eligible Government and Government-Aided Schools in Goa."
+    },
+    {
+      "question": "Besides the technical infrastructure, is there any student strength requirement that schools must meet to satisfy the application criteria for this program?",
+      "answer": "Yes, the school must have a minimum student enrolment number as prescribed by the Directorate of Education."
+    }
+  ]
+}

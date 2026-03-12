@@ -1,0 +1,117 @@
+{
+  "scheme_name": "Foreign Education Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fesg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Foreign Education Scheme",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The \"Foreign Education Scheme\" introduced by the Social Justice and Empowerment Department, Gujarat, is designed to support meritorious students from economically weaker sections who wish to pursue higher education abroad. The financial assistance helps cover tuition fees, living expenses, and other educational costs. The repayment structure is flexible, ensuring students can repay the loan after completing their studies. The scheme is being implemented by the Gujarat Unreserved Education and Economical Development Corporation."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "A loan of the total tuition fee of the entire course or ₹15,00,000/-, whichever is less, will be provided by the Corporation at a simple interest of 4%.",
+      "Collateral:",
+      "For loans of total loan amount of ₹7,50,000/- or less for the entire course, a charge of one and a half times the loan amount will have to be registered on the beneficiary's own property or that of a relative.",
+      "If the total loan amount for the entire course is more than ₹7,50,000/-, the immovable property of oneself or any other relative equal to that total amount will have to be mortgaged in favor of the Corporation.",
+      "Loan repayment:",
+      "In case of total loan up to ₹5,00,000/-, it will have to be repaid in equal monthly installments over 5 (five) years, 1 year after completion of studies.",
+      "In case of loan exceeding ₹5,00,000/-, it will have to be repaid in equal monthly installments over 6 (six) years, starting 1 year after completion of studies.",
+      "The money from the loan being repaid will continue to be deposited as interest first.",
+      "The borrower can repay the loan even before the specified time limit."
+    ],
+    "eligibility": [
+      "The applicant must belong to a unreserved category.",
+      "The applicant must have scored 60% or more in Standard 12.",
+      "The applicant must have secured admission to an MBBS, graduation, post-graduation, or equivalent diploma course abroad.",
+      "The applicant’s family's annual income must be ₹6,00,000/- or less."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "Go to the Corporation's",
+        "official website",
+        "and navigate to the \"Gujarat Unreserved Education and Economical Development Corporation\" section under Corporation menu.",
+        "Step 2:",
+        "Click on \"Foreign Education Scheme\" and then Apply Now.",
+        "Step 3:",
+        "Click on \"New User? Please Register Here\".",
+        "Step 4:",
+        "Enter the required details and click Register.",
+        "Application Process:",
+        "Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Read the scheme details carefully and click OK.",
+        "If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5:",
+        "If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6:",
+        "Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "School Leaving Certificate / Jam Certificate",
+      "Aadhaar Card Copy",
+      "Ration Card Copy",
+      "Residence Certificate",
+      "Non-Reserved Category Certificate",
+      "Annual Income Certificate",
+      "IT Return",
+      "Admission Letter from the foreign university/college (Application date must be before graduation completion)",
+      "If the course does not include a Bachelor's, Master's, or PG Diploma, upload details of the college/university previously attended",
+      "Proof of Student’s Income",
+      "Annual/Full Course Fee Payment Receipt",
+      "Property Encumbrance/Mortgage of Father/Guardian (Appendix-1)",
+      "Property Valuation Set and Property Documents of Father/Guardian",
+      "Student's Surety Bond for Loan Repayment (Appendix-2)",
+      "Copy of Passport",
+      "Copy of Air Ticket",
+      "Applicant’s Signature",
+      "Copy of Mark Sheet of all previous academic examinations",
+      "Copy of Degree Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Foreign Education Scheme\"?",
+      "answer": "\"Foreign Education Scheme\" is designed to support meritorious students from economically weaker sections who wish to pursue higher education abroad."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "The applicant must belong to a non-reserved category, have scored at least 60% in Standard-12, and have secured admission to an eligible foreign university for MBBS, graduation, post-graduation, or an equivalent diploma course. Additionally, the applicant’s family income must be ₹6,00,000/- or less."
+    },
+    {
+      "question": "What is the maximum loan amount that can be availed?",
+      "answer": "The applicant can avail a maximum loan amount of ₹15,00,000/- for higher studies abroad."
+    },
+    {
+      "question": "What is the interest rate of the loan?",
+      "answer": "The loan is provided at a simple interest rate of 4% per annum."
+    },
+    {
+      "question": "How long does the applicant have to repay the loan?",
+      "answer": "If the loan amount is up to ₹5,00,000/-, the applicant must repay it in 5 years, starting 1 year after course completion. If the loan amount exceeds ₹5,00,000/-, the repayment period is 6 years, starting 1 year after course completion."
+    },
+    {
+      "question": "Is early repayment of the loan allowed?",
+      "answer": "Yes, the applicant can repay the loan before the specified tenure without any penalties."
+    },
+    {
+      "question": "What type of collateral is required for the loan?",
+      "answer": "If the loan amount is up to ₹7,50,000/-, the applicant must provide a charge of 1.5 times the loan amount on their own or a relative's property. If the loan amount exceeds ₹7,50,000/-, immovable property of equal value must be mortgaged in favor of the Corporation."
+    },
+    {
+      "question": "Does the applicant need a guarantor for the loan?",
+      "answer": "No separate guarantor is required, but collateral in the form of property must be provided."
+    }
+  ]
+}

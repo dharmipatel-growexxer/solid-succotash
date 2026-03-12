@@ -1,0 +1,97 @@
+{
+  "scheme_name": "Pre-Matric Scholarship Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmsp",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Pre-Matric Scholarship Scheme",
+  "scraped_at": "2026-03-12 09:07:35 UTC",
+  "sections": {
+    "details": [
+      "The \"Pre-Matric Scholarship Scheme\" launched by the Backward Classes, Most Backward Classes and Minorities Welfare Department, Tamil Nadu, aimed at supporting students from Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC). It provides tuition fees for students from 6th to 10th standard."
+    ],
+    "benefits": [
+      "Tuition Fee for 6th to 8th Standard:",
+      "₹200/- per year (₹20/- per month for 10 months).",
+      "Tuition Fee for 9th to 10th Standard:",
+      "₹250/- per year (₹25/- per month for 10 months).",
+      "Examination Fee for 10th Standard:",
+      "Full coverage of the examination fee."
+    ],
+    "eligibility": [
+      "The beneficiary should be a student.",
+      "The beneficiary should be a resident of Tamil Nadu.",
+      "The beneficiary should belong to the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC).",
+      "Parents' income should not exceed ₹1,00,000/- (for Backward Classes (BC) students).",
+      "There should be no graduate in the family (for Backward Classes (BC) students).",
+      "The beneficiary should be studying in 11th or 12th standard in an English medium school."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should collect the application form from their concerned educational institution.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the institution.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity (Aadhar card or any other document as directed by the authority).",
+      "Caste certificate (BC/MBC/DNC).",
+      "Proof of income (for BC students).",
+      "Admission letter or proof of enrollment (6th to 10th standard admission).",
+      "Bank account details.",
+      "No-graduate certificate (for BC students)",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines-1",
+      "Guidelines-2",
+      "Community List"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the “Pre-Matric Scholarship Scheme” scheme?",
+      "answer": "The scheme offers financial assistance to students from Backward Classes (BC) and Most Backward Classes (MBC) studying in English medium from 6th to 10th standard. It covers tuition and examination fees."
+    },
+    {
+      "question": "Who is eligible for the Pre-Matric Scholarship Scheme?",
+      "answer": "Students from Backward Classes (BC) and Most Backward Classes (MBC) studying in English medium from 6th to 10th standard are eligible."
+    },
+    {
+      "question": "What is the income limit for BC students?",
+      "answer": "The income of the parents should not exceed ₹1,00,000/- for BC students."
+    },
+    {
+      "question": "Are there any income restrictions for MBC students?",
+      "answer": "No, there are no income restrictions for MBC students under this scheme."
+    },
+    {
+      "question": "What benefits are provided through the scheme?",
+      "answer": "The scheme provides tuition fees and covers the full examination fee for eligible students."
+    },
+    {
+      "question": "How much is the tuition fee for students in 6th to 8th standard?",
+      "answer": "The scheme provides ₹200/- per year (₹20/- per month for 10 months) as tuition fees for students in 6th to 8th standard."
+    },
+    {
+      "question": "How much is the tuition fee for students in 9th and 10th standard?",
+      "answer": "Students in 9th and 10th standard receive ₹250/- per year (₹25/- per month for 10 months) as tuition fees."
+    },
+    {
+      "question": "Is the examination fee covered under the scheme?",
+      "answer": "Yes, the full examination fee for students in the 10th standard is covered by the scheme."
+    },
+    {
+      "question": "Is there any age limit to apply for the scholarship?",
+      "answer": "No specific age limit is mentioned, but students must be studying in 6th to 10th standard."
+    },
+    {
+      "question": "Where can students get the application form?",
+      "answer": "The application form can be obtained from the student’s school."
+    }
+  ]
+}

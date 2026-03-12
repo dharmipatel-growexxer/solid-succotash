@@ -1,0 +1,82 @@
+{
+  "scheme_name": "General Poor Class Scholarship (Class 6 to 8)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/gpcs",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "General Poor Class Scholarship (Class 6 to 8)",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The \"General Poor Class Scholarship (Class 6 to 8)\" scheme, launched by the School Education Department, Government of Madhya Pradesh, aims to motivate and economically support students from lower economic backgrounds. Under this scheme, scholarships are provided to students studying in Classes 6 to 8 in government schools. Students whose annual family income is less than ₹1,00,000/- and who belong to the Below Poverty Line (BPL) category are eligible for the benefits."
+    ],
+    "benefits": [
+      "Girl students will receive a scholarship of ₹300/- per year.",
+      "Boy students will receive a scholarship of ₹200/- per year.",
+      "Note:",
+      "The scholarship amount is directly transferred to the student's bank account."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Madhya Pradesh.",
+      "The applicant should be studying in Class 6 to 8.",
+      "The student should be studying at a government school.",
+      "The student should belong to the Below Poverty Line (BPL) category.",
+      "The student's parents' total income from all sources should be less than ₹1,00,000/- per year.",
+      "The student should have passed the previous class."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail of the benefits under this scheme, eligible students can contact the Principal of their respective government schools/institutions.",
+        "Note:",
+        "The profile of the students is entered on the education portal",
+        "https://shikshaportal.mp.gov.in/",
+        "by the teacher of the educational institution as per the record/certificate provided by the student."
+      ]
+    },
+    "documents_required": [
+      "1. Passport-size Photograph",
+      "2. Aadhaar card",
+      "3. Domicile certificate of Madhya Pradesh",
+      "4. BPL category certificate/Ration card",
+      "5. Previous class marksheet",
+      "6. Income certificate",
+      "7. Samagra ID",
+      "8. Bank Passbook",
+      "9. Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Guidelines (Page No. 25)",
+      "Online Shiksha Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scholarship?",
+      "answer": "Students who are permanent residents of Madhya Pradesh, studying in Class 6 to 8 at government schools, belong to the Below Poverty Line (BPL) category, and have a family income of less than ₹1,00,000 per year are eligible."
+    },
+    {
+      "question": "What are the benefits of the scholarship?",
+      "answer": "Girl students receive ₹300 per year, and boy students receive ₹200 per year."
+    },
+    {
+      "question": "How is the scholarship amount transferred to students?",
+      "answer": "The scholarship amount is directly transferred to the student's bank account."
+    },
+    {
+      "question": "Can students from private schools apply for this scholarship?",
+      "answer": "No, this scholarship is only available to students studying in government schools."
+    },
+    {
+      "question": "How can students apply for the scholarship?",
+      "answer": "Eligible students should contact the Principal of their respective government schools for application procedures and further guidance."
+    },
+    {
+      "question": "Are there any academic performance criteria for this scholarship?",
+      "answer": "The student must have passed the previous class."
+    },
+    {
+      "question": "Can students from other states apply for this scholarship?",
+      "answer": "No, this scholarship is specifically for residents of Madhya Pradesh."
+    }
+  ]
+}

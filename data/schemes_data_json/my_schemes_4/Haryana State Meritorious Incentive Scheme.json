@@ -1,0 +1,120 @@
+{
+  "scheme_name": "Haryana State Meritorious Incentive Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/hsmis",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Haryana State Meritorious Incentive Scheme",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Haryana State Meritorious Incentive Scheme\" by the Department of Higher Education, Government of Haryana aims to support meritorious students studying in government colleges by providing them with financial incentives. Monetary rewards are granted to students who secure top positions in annual university examinations across Arts, Commerce, Science (Medical and Non-Medical), and Education streams."
+    ],
+    "benefits": [
+      "Monetary Incentive",
+      "₹5,000/- per annum for students securing the first position in their stream.",
+      "₹3,000/- per annum for students securing the second position in their stream.",
+      "₹2,000/- per annum for students securing the third position in their stream.",
+      "Mode of Disbursement",
+      "Payment is made through Direct Benefit Transfer (DBT).",
+      "Validity",
+      "The incentive is applicable only for the academic year in which the student secures a top position."
+    ],
+    "eligibility": [
+      "This scheme will be college-specific and three meritorious students in each stream who stood first, second and third in the annual university examination will be given this incentive.",
+      "The award will be given only to students pursuing general courses in the Government Colleges.",
+      "Candidates from Non-Government Colleges and those who pursue their studies through correspondence courses/open universities will not be eligible for the award.",
+      "NOTE",
+      "The merit list will be prepared separately for the Boys (General Category), Girls (General Category) and Scheduled Caste students (Combined list of girls and boys).",
+      "If Scheduled Caste students qualify for the general list, his/her name will be considered in the general list and an extra award will be given (on a merit basis only) to the students of the Scheduled Caste category.",
+      "The award holder under this scheme will hold any other scholarship/stipend from the State Government or any other source."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "Visit the",
+        "Official Website",
+        "of the \"Centralized Scholarship Portal\" of the Department of Higher Education, Haryana.",
+        "Step 2:",
+        "In the menu ribbon, click \"Student >",
+        "Student Registration",
+        "\".",
+        "Step 3:",
+        "On the next page, provide your Parivar Pehchan Patra (Family ID) and click \"Search\".",
+        "*Parivar Pehchan Patra (PPP) is mandatory for availing of any Scholarship benefit. Students are advised to ensure their all particulars such as Name, DOB, Aadhar No. etc are fully updated in PPP before applying for any scholarship scheme.",
+        "Step 4:",
+        "A List of the members of your family will be displayed. Select the checkbox against your name and click \"Generate OTP\". Enter the OTP received on your registered Mobile Number and click on \"Verify OTP\".",
+        "Step 5:",
+        "After OTP verification, you will be taken to the registration page. In the registration form, all the mandatory fields get auto-filled. You only need to cross-check the information.",
+        "Step 6:",
+        "Select your Department and College. Create a Password and click \"Register\".",
+        "Application",
+        "In the right corner of the menu ribbon, click \"",
+        "User Login",
+        "\". Use the username and password created during your registration to log in.",
+        "Navigate to the online form of the scheme you intend to apply for. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections.",
+        "Click \"Apply\" to submit your application. You'll receive a confirmation message."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card Copy",
+      "Applicant’s Photograph",
+      "Applicant's Signature",
+      "Income Certificate",
+      "Haryana Domicile Certificate",
+      "Caste Certificate",
+      "10th Class Certificate",
+      "12th Class Certificate",
+      "Parivar Pehchaan Patra",
+      "Fee Receipt",
+      "Last Exam Passed Certificate (Except for 1st Year Students),",
+      "BPL Certificate (if applicable)",
+      "Father's Death Certificate (if applicable)"
+    ],
+    "sources_and_references": [
+      "Guideline"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the financial incentives provided to students who secure top positions in their annual university examinations?",
+      "answer": "Students securing the first position receive ₹5,000 per annum, the second position receives ₹3,000, and the third position receives ₹2,000 annually."
+    },
+    {
+      "question": "How will the monetary incentive be disbursed to eligible students?",
+      "answer": "The payment is made through Direct Benefit Transfer (DBT) directly to the student’s account."
+    },
+    {
+      "question": "For which academic year is the monetary incentive applicable?",
+      "answer": "The incentive is applicable only for the academic year in which the student secures a top position in the university examination."
+    },
+    {
+      "question": "Are students from non-government colleges eligible for this incentive?",
+      "answer": "No, students from non-government colleges are not eligible for this monetary incentive."
+    },
+    {
+      "question": "Can students pursuing correspondence or open university courses apply for this incentive?",
+      "answer": "No, students studying through correspondence courses or open universities are not eligible for this scheme."
+    },
+    {
+      "question": "How many students per stream are eligible to receive the incentive in each college?",
+      "answer": "Three students per stream who secure first, second, and third positions in the annual university examination are eligible."
+    },
+    {
+      "question": "Is there a separate merit list prepared for different categories of students?",
+      "answer": "Yes, separate merit lists are prepared for boys (general category), girls (general category), and Scheduled Caste students (combined list)."
+    },
+    {
+      "question": "What happens if a Scheduled Caste student qualifies for the general merit list?",
+      "answer": "If a Scheduled Caste student qualifies for the general list, they will be considered in the general list and may also receive an extra award under the Scheduled Caste category."
+    },
+    {
+      "question": "Can a student avail of this incentive along with other government scholarships?",
+      "answer": "No, students receiving this incentive cannot hold any other scholarship or stipend from the state government or any other source."
+    },
+    {
+      "question": "Is a Parivar Pehchan Patra (PPP) mandatory for applying to this scheme?",
+      "answer": "Yes, a Parivar Pehchan Patra (PPP) is mandatory, and students must ensure their details are updated in PPP before applying."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "scheme_name": "Digital J&K Internship Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/djkis",
+  "location_name": "Jammu and Kashmir",
+  "location_type": "union_territory",
+  "page_title": "Digital J&K Internship Scheme",
+  "scraped_at": "2026-03-12 06:52:44 UTC",
+  "sections": {
+    "details": [
+      "The \"Digital J&K Internship Scheme\" was launched by the J&K e-Governance Agency of the Information Technology Department. An internship is an opportunity for the students to secure first-hand and practical work experience. It also aims at active participation in the learning process through experimentation and putting into practice the knowledge acquired in the studies.",
+      "Duration of Internship:",
+      "The minimum duration of the internship shall be 03 months.",
+      "Place of Internship:",
+      "The internship will be offered at Jammu and Kashmir."
+    ],
+    "benefits": [
+      "Stipend",
+      ":",
+      "A token stipend of ₹10,000/- per month would be paid to an Intern, subject to satisfactory performance.",
+      "Certificate of Internship",
+      "The J&K e-Governance Agency will issue certificates to the Interns upon the completion of the internship."
+    ],
+    "eligibility": [
+      "The student should be studying at recognized universities in India.",
+      "The student should have secured at least 60% marks in the last held degree or pursuing B.E/B.Tech/M.E/M.Tech (Computer Science & Engineering (CSE)/Computer Science (CS)/ IT/ Electronics & Communications (EC)/) M.Sc. (CS/IT/) MCA/DOEACC ‘B’ level.",
+      "Students in the last semester or the final year will be eligible to apply."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 01:",
+        "The applicant visits the",
+        "official website",
+        "and clicks the",
+        "notification",
+        "to apply.",
+        "Step 02:",
+        "Click on \"New User\" and fill in the basic details Name, Email ID, Mobile Number.",
+        "Step 03:",
+        "Generate the Password and enter the Captcha.",
+        "Application Process:",
+        "Log in to the profile and enter your email ID and password",
+        "Click the Apply internship scheme and enter the address, qualification, reference detail",
+        "Upload the domicile certificate, signature, resume, etc.",
+        "Step 04:",
+        "Click on the \"Submit\" button and your application number will be generated."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo.",
+      "Applicant Signature.",
+      "Domicile Certificate.",
+      "Resume."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Which organization is offering the Digital J&K Internship Scheme?",
+      "answer": "The internship is offered by the Jammu and Kashmir e-Governance Agency (JaKeGA)."
+    },
+    {
+      "question": "Who can apply for the Digital J&K Internship Scheme?",
+      "answer": "Students from recognized universities in India who have secured at least 60% marks in their last degree or are pursuing degrees such as B.E/B.Tech/M.E/M.Tech in relevant fields, M.Sc. (CS/IT), or MCA/DOEACC 'B' level are eligible to apply."
+    },
+    {
+      "question": "What is the minimum duration of the internship?",
+      "answer": "The minimum duration of the internship is 3 months."
+    },
+    {
+      "question": "Is there any stipend for the interns?",
+      "answer": "Yes, a token stipend of ₹10,000.00 per month will be paid to an intern, subject to satisfactory performance."
+    },
+    {
+      "question": "What kind of projects will interns work on during the internship?",
+      "answer": "Interns will work on projects such as e-Unnat, Auto Appeal System, e-Service platform, e-office, and dashboard application development."
+    },
+    {
+      "question": "What skills are required for the internship?",
+      "answer": "Skills required include programming (C#, Dot Net, HTML, CSS, JavaScript), database administration (SQL, Oracle, Postgres SQL), creating and consuming APIs, and mobile application development."
+    },
+    {
+      "question": "What are the general rules interns need to follow during the internship?",
+      "answer": "Interns must follow the rules and regulations applicable to department employees, maintain confidentiality, and adhere to work plans and schedules assigned by authorities."
+    },
+    {
+      "question": "Can interns present their work in academic forums?",
+      "answer": "Yes, interns may present their work to academic bodies and at seminars/conferences with prior permission from the department, ensuring no confidential information is revealed."
+    },
+    {
+      "question": "How can interested applicants apply for the internship?",
+      "answer": "Interested and eligible applicants need to apply online through the URL: https://jakega.jk.gov.in."
+    },
+    {
+      "question": "What is the selection process for the internship?",
+      "answer": "Interns will be shortlisted and selected by the committee/authorities and may include personal or online interviews if necessary."
+    },
+    {
+      "question": "Will the internship guarantee employment with JaKeGA?",
+      "answer": "No, the internship is neither an employment nor an assurance of employment with JaKeGA."
+    },
+    {
+      "question": "What happens if an intern's performance is unsatisfactory?",
+      "answer": "If an intern's performance is unsatisfactory, they may be advised by the department to discontinue the project work before the completion of the internship term."
+    },
+    {
+      "question": "What documentation is required from interns during the internship?",
+      "answer": "Interns need to submit a monthly report on the work assigned, necessary qualification certificates, and a character certificate by the competent authority to JaKeGA."
+    },
+    {
+      "question": "Can an intern terminate their internship before the completion of the term?",
+      "answer": "Yes, if the intern decides to disengage, they should provide a 2-week prior notice."
+    },
+    {
+      "question": "What should an intern do with departmental assets upon termination of the internship?",
+      "answer": "Upon termination, the intern must hand over any papers, equipment, or other assets given to them by JaKeGA during their project work."
+    }
+  ]
+}
