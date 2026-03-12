@@ -1,0 +1,65 @@
+{
+  "scheme_name": "Bhed Palan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bpy",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Bhed Palan Yojana",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Bhed Palan Yojana\" was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote sheep rearing as a source of self-employment and livelihood generation for eligible beneficiaries, particularly from SECC categories, by providing financial support for rearing a sheep unit."
+    ],
+    "benefits": [
+      "Self-employment in sheep rearing is facilitated by providing beneficiaries with a sheep rearing unit comprising 10 female sheep and 1 male sheep for a period of 10 to 14 months.",
+      "The total cost of the unit is ₹70,000/-, of which 90% (₹63,000/-) is funded by the State Government, and the remaining 10% (₹7,000/-) is contributed by the beneficiary."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must belong to the Scheduled Caste or Scheduled Tribe category.",
+      "The applicant must be included in the SECC (Socio-Economic and Caste Census) category.",
+      "The applicant should have an interest in sheep rearing."
+    ],
+    "application_process": {
+      "offline": [
+        "Interested beneficiaries must submit their proposal in an open meeting of the Gram Sabha. Once the proposal is approved, the beneficiary shall submit it to the Veterinary Officer, Livestock Extension Officer, or Gram Panchayat Development Officer of the respective area, or the Gram Panchayat may submit it on behalf of the beneficiary.",
+        "Based on the recommendation of the village-level selection committee, the final selection is made by the development block-level committee and forwarded to the Animal Husbandry Department. After selection, the beneficiary will receive funds for purchasing sheep through Direct Benefit Transfer (DBT) within one to two months.",
+        "Applicants must submit Aadhaar card, bank account details, and caste certificate along with their proposal."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Caste Certificate",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 236)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "The scheme is available to beneficiaries belonging to SECC categories of Scheduled Castes and Scheduled Tribes."
+    },
+    {
+      "question": "What support is provided under this scheme?",
+      "answer": "Beneficiaries are provided a sheep rearing unit consisting of 10 female sheep and 1 male sheep for a period of 10 to 14 months."
+    },
+    {
+      "question": "What is the total cost of the sheep rearing unit?",
+      "answer": "The total cost of a sheep rearing unit is ₹70,000."
+    },
+    {
+      "question": "How is the cost shared between the government and the beneficiary?",
+      "answer": "The State Government bears 90% (₹63,000) of the cost, while the beneficiary contributes 10% (₹7,000)."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Interested beneficiaries must submit their proposal in an open meeting of the Gram Sabha. After approval, the proposal is submitted to the Veterinary Officer, Livestock Extension Officer, or Gram Panchayat Development Officer, or the Gram Panchayat may submit on behalf of the beneficiary."
+    },
+    {
+      "question": "How will the funds be transferred to the selected beneficiaries?",
+      "answer": "Funds for purchasing sheep are transferred through Direct Benefit Transfer (DBT) within one to two months of selection."
+    }
+  ]
+}

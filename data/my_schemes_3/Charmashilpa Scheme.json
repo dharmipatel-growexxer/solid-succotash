@@ -1,0 +1,119 @@
+{
+  "scheme_name": "Charmashilpa Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cs",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Charmashilpa Scheme",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The Charmashilpa Scheme aims to modernize the leather artisans' production methods by offering financial assistance to setup mechanized production units. This support helps leather artisan SHGs and cooperative societies enhance the quality of their products, making them more competitive in the market. The scheme provides both financial and technical assistance, helping artisans shift from traditional methods to modern techniques."
+    ],
+    "benefits": [
+      "Total Financial Assistance:",
+      "₹10,00,000/- per unit.",
+      "₹5,00,000/- as subsidy.",
+      "₹5,00,000/- as a bank loan.",
+      "Breakdown of costs:",
+      "₹3,50,000/- for machinery.",
+      "₹6,00,000/- for working capital (raw materials and labor).",
+      "₹50,000 for other expenses."
+    ],
+    "eligibility": [
+      "The applicant should be leather artisans/Artisans SHGs/Co-operative societies.",
+      "The applicant should belongs to sub-castes Arundathiyar, Chammadiya, Chamar, Chambar, Chamagar, Madar, Madig, Madiga, Mini Madig, Jambavalu, Haralayya, Machigar, Mochigar, Mochi, muchi, Telugu Mochi, kamaati mocha, Rohidas, Dhor, kakkayya, Kankayya, Samagara, Samagar, Aadhi Anddra, Aadhi Dravida, Aadhi Karnataka among schedule castes.",
+      "The age of the applicant should be 18 years.",
+      "The applicant's annual family income should not exceed ₹30,000/ in rural areas and ₹25,000/- in urban areas.",
+      "The applicant or their family members must not have received benefits from other schemes, except training programs.",
+      "The applicant's family members should not be employed in government or semi-government organizations."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step-01:",
+        "Visit the official",
+        "Seva Sindhu Portal",
+        ".",
+        "Step-02:",
+        "Choose \"New Users Register Here\" and fill in your Aadhaar Number and the Captcha code.",
+        "Step-03:",
+        "An OTP will be sent to your Aadhaar-linked mobile number. Enter the OTP to continue.",
+        "Step-04:",
+        "Once your DigiLocker account is created, click \"Allow\" to proceed.",
+        "Step-05:",
+        "Fill out your email ID, mobile number, create a password, and enter the captcha, then click \"Submit\".",
+        "Step-06:",
+        "You will receive OTPs on both your email and mobile number. Enter both OTPs and select \"Validate\".",
+        "Step-07:",
+        "Once validated, a confirmation message will indicate your registration is successful.",
+        "Applying for a Scheme:",
+        "Go to",
+        "and select \"Department & Services\".",
+        "Select department \"Social Welfare Department\" and click on the scheme \"Charmashilpa Scheme\"",
+        "Click \"Apply Online\" and enter your registered email ID/mobile number and the OTP.",
+        "Select the scheme and provide your personal, address, and banking details as required.",
+        "Once submitted, you will receive an Application ID. You can use this ID to track your application status on the portal."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Caste certificate with RD number.",
+      "Annual Income Certificate.",
+      "Ration Card.",
+      "Passport-size Photograph of the applicant and spouse.",
+      "E-Shram card (for cobblers/shoemakers).",
+      "First page of SHG Bank Passbook.",
+      "Detailed Project Report .",
+      "Loan documents."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the Charmashilpa Scheme?",
+      "answer": "To help leather artisans modernize their production methods by providing financial and technical assistance."
+    },
+    {
+      "question": "How much financial assistance is offered under the scheme?",
+      "answer": "A total of ₹10,00,000, with ₹5,00,000 as a subsidy and ₹5,00,000 as a bank loan."
+    },
+    {
+      "question": "What is the income limit for rural applicants?",
+      "answer": "The annual family income should not exceed ₹30,000 in rural areas."
+    },
+    {
+      "question": "Is there a different income limit for urban applicants?",
+      "answer": "Yes, the income limit is ₹25,000 for urban areas."
+    },
+    {
+      "question": "Can applicants avail benefits from other corporation schemes?",
+      "answer": "No, except for the Training/Paaduke Kuteera schemes."
+    },
+    {
+      "question": "What documents are required to apply for the Charmashilpa Scheme?",
+      "answer": "Documents like Aadhaar, caste certificate, income certificate, SHG passbook, and loan documents are required."
+    },
+    {
+      "question": "Who verifies the applications?",
+      "answer": "The District Co-Ordinator verifies applications before submitting them to the District Level Selection Committee."
+    },
+    {
+      "question": "What is the role of the District Level Selection Committee?",
+      "answer": "The committee makes the final decision on the selection of beneficiaries."
+    },
+    {
+      "question": "Is there any technical assistance provided under the scheme?",
+      "answer": "Yes, continuous technical assistance is provided to help modernize production processes."
+    },
+    {
+      "question": "Are there any specific requirements for SHGs?",
+      "answer": "SHGs must include 10 female artisans to qualify for assistance under the Kayaka Spoorthi Scheme."
+    },
+    {
+      "question": "What happens after the application is approved?",
+      "answer": "The list of beneficiaries is displayed on the respective notice boards after administrative approval."
+    }
+  ]
+}

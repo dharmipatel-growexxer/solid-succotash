@@ -1,0 +1,110 @@
+{
+  "scheme_name": "Mahila Samrudhhi Yojana (Gujarat Gopalak Vikas Nigam)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/msyggvn",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Mahila Samrudhhi Yojana (Gujarat Gopalak Vikas Nigam)",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mahila Samrudhhi Yojana (Gujarat Gopalak Vikas Nigam)\" by the Social Justice and Empowerment Department, Government of Gujarat, aims to provide Microfinance for individual women entrepreneurs to create self-employment for women and make them self-reliant. Under this scheme, loans are provided on an individual basis to women beneficiaries to start a business of their choice. The scheme is implemented by the Gujarat Gopalak Vikas Nigam."
+    ],
+    "benefits": [
+      "The scheme provides 100% of the loan amount to eligible women beneficiaries, up to a maximum limit of ₹1,25,000/-.",
+      "The loan carries an interest rate of 4% per annum."
+    ],
+    "eligibility": [
+      "The applicant should belong to the Rabari and Bharwad castes from the socially and educationally backwards classes.",
+      "The applicant should be a woman.",
+      "The applicant's age should be between 21 and 45 years.",
+      "The applicant's annual income should not exceed ₹3,00,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Register on the Official Portal",
+        "Go to the",
+        "Official Website",
+        "Gujarat Gopalak Vikas Nigam.",
+        "Scroll down on the homepage, find the \"Mahila Samrudhhi Yojana\" and click on \"Apply Now\".",
+        "You will be directed to the application form.",
+        "Step 2: Access and Fill Out the Application Form",
+        "Select \"Mahila Samrudhhi Yojana\".",
+        "Provide Aadhaar, Ration, Voter ID, full name (Last, First, Father/Husband), address, district, taluka, village, PIN, date of birth, age, caste, subcaste, phone, mobile, email, gender, and marital status.",
+        "Enter income certificate number, issue date, issuing officer's name, total annual family income (up to ₹ 3,00,000/-), and parent/guardian's occupation.",
+        "If \"Physically Handicapped,\" select \"Yes\" or \"No\". If you selected \"Yes\", provide the percentage (in %).",
+        "Indicate if any family member works in a government or private job. If \"Yes,\" provide their Name, Designation, Place, and Salary details.",
+        "Select your Education Qualification: Uneducated, Educated, Graduation, Post Graduation, or Other Degree.",
+        "If you have taken a past loan, select \"Yes\" or \"No\". If you selected \"Yes\", provide loan details (date, amount, paid, remaining) and your account number.",
+        "Provide bank account number, bank name, branch name, name as per account, account type (Saving/Current), MICR code, and IFSC code.",
+        "Step 3: Review and Final Submission",
+        "Carefully review each module. Use the preview option to examine the application before final submission. Fill out the provided \"CAPTCHA\" and Click on “Submit”.",
+        "Track and Review Status",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.",
+        "of Gujarat Gopalak Development Corporation.",
+        "Scroll down and locate the Know App Status. Click on \"Know App Status\".",
+        "Select the Scheme name, Enter App No., and Birth Date. Fill out the Captcha and click on Submit."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Ration Card.",
+      "Voter ID.",
+      "Income Certificate.",
+      "Caste Certificate (to confirm belonging to the Rabari and Bharwad communities from SEBC).",
+      "Disability Certificate (if applicable).",
+      "Educational Qualification Documents.",
+      "Bank Account Details (Bank Passbook/Statement).",
+      "Past Loan Details (if applicable)."
+    ],
+    "sources_and_references": [
+      "Official Guidelines",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of this scheme?",
+      "answer": "This scheme is a microfinance initiative for individual women entrepreneurs, aiming to create self-employment and make women self-reliant by providing loans to start businesses of their choice."
+    },
+    {
+      "question": "Who are the intended beneficiaries of this scheme?",
+      "answer": "The intended beneficiaries are individual women entrepreneurs from the Rabari and Bharwad castes, identified as socially and educationally backwards classes."
+    },
+    {
+      "question": "What is the interest rate applicable on the loan amount?",
+      "answer": "The loan amount provided under this scheme has an interest rate of 4% per annum."
+    },
+    {
+      "question": "What percentage of the loan amount is provided under this scheme?",
+      "answer": "100% of the loan amount, up to the maximum limit, is provided under this scheme."
+    },
+    {
+      "question": "What is the age criteria to be eligible for this scheme?",
+      "answer": "To be eligible, your age should be between 21 and 45 years."
+    },
+    {
+      "question": "Which castes are specifically targeted under the eligibility criteria?",
+      "answer": "The scheme specifically targets women belonging to the Rabari and Bharwad castes from the socially and educationally backward classes."
+    },
+    {
+      "question": "Do I need to be a woman to apply for this scheme?",
+      "answer": "Yes, the scheme is exclusively for individual women entrepreneurs."
+    },
+    {
+      "question": "What is the first step to apply for this scheme online?",
+      "answer": "The first step is to register on the official portal by going to https://ggdconline.gujarat.gov.in/ and clicking \"Apply Now\" for the Mahila Samruddhi Yojana."
+    },
+    {
+      "question": "How can I track the status of my scheme application?",
+      "answer": "You can track your application status by going to https://ggdconline.gujarat.gov.in/, locating \"Know App Status,\" and entering your Scheme name, Application Number, Birth Date, and Captcha."
+    },
+    {
+      "question": "Will I receive any confirmation after submitting my application?",
+      "answer": "Yes, you will receive an Application ID/Reference Number after submission, which you should save or print for future tracking."
+    },
+    {
+      "question": "What documents are required to prove my caste for eligibility?",
+      "answer": "A Caste Certificate is required to prove your belonging to the Rabari or Bharwad castes."
+    }
+  ]
+}

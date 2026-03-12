@@ -1,0 +1,115 @@
+{
+  "scheme_name": "Handicraft Mela Participation",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/hmp",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Handicraft Mela Participation",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Handicraft Mela Participation\" by the Industrial Extension Cottage (iNDEXT-C), Industries & Mines Department, Government of Gujarat, aims to promote traditional handicrafts by providing artisans and organizations with platforms to showcase and sell their products at state and national-level fairs. The scheme facilitates participation in designated melas (fairs) by covering logistical support and stall allocations. Eligible applicants include individual artisans, self-help groups (SHGs), and registered handicraft organizations. The scheme is implemented by Indext-C (Industrial Extension Bureau, Gujarat), and applications are accepted offline through district offices or the Indext-C portal."
+    ],
+    "benefits": [
+      "Stall Allocation:",
+      "Free or subsidized stalls at designated melas.",
+      "Promotional Support:",
+      "Marketing and branding assistance for participants.",
+      "Sales Platform:",
+      "Direct access to customers and bulk buyers.",
+      "Logistical Aid:",
+      "Basic infrastructure (tables, signage) provided at mela venues.",
+      "Financial Incentives:",
+      "Priority for artisans from SC/ST/SEBC/EWS categories."
+    ],
+    "eligibility": [
+      "For Individual Artisans",
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must possess a valid Artisan ID Card issued by Indext-C or a recognized authority.",
+      "The applicant must specialize in a traditional handicraft listed under the scheme (e.g., embroidery, pottery, woodwork).",
+      "For Organizations/SHGs",
+      "The applicant must be a registered cluster/cooperative society/NGO.",
+      "The applicant must have a minimum of 10 artisans affiliated with the organization.",
+      "The applicant must submit audit reports and registration certificates."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should take a printout of the",
+        "prescribed format",
+        "of the application form from the Indext-C website.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields ( personal/organization details, artisan ID, and handicraft category, etc), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form, along with the documents, either to your nearest",
+        "District Industries Office",
+        "or to the following address:",
+        "Indext-C Headquarters, Industrial Extension Cottage, Block No. 7, 1st Floor, Udyog Bhavan, Sector-11, Gandhinagar - 382 011.",
+        "The Indext-C will review the applications and notify the selected participants via SMS/email."
+      ]
+    },
+    "documents_required": [
+      "Artisan ID Card (for Individuals).",
+      "Aadhaar Card (Proof of Residence).",
+      "Caste Certificate (if applying under SC/ST/SEBC/EWS Quota).",
+      "Organization Registration Proof (for SHGs/Clusters).",
+      "Bank Account Details (for Disbursements).",
+      "Recent Passport-Sized Photograph.",
+      "Handicraft Samples (Photographs or Physical Samples, if requested).",
+      "Audit Reports (for Organizations)."
+    ],
+    "sources_and_references": [
+      "Guidelines And Application Form",
+      "Schedule For The Year 2025-26"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Can artisans share or sublet their allocated stalls to others?",
+      "answer": "No, stall transfers are prohibited; violators will face penalties and future participation bans."
+    },
+    {
+      "question": "What types of handicrafts are eligible for display at these fairs?",
+      "answer": "Eligible crafts include 62 listed categories like embroidery, metalware, terracotta, woodwork, and traditional textiles."
+    },
+    {
+      "question": "What happens if an artisan fails to attend after registering for a fair?",
+      "answer": "The stall allocation will be canceled, and any paid fees may be forfeited unless prior notice is given to Indext-C."
+    },
+    {
+      "question": "Are there any awards or recognition for outstanding artisans at these fairs?",
+      "answer": "Artisans with awards can attach certificates (max 4) in their application, but no competition details are specified."
+    },
+    {
+      "question": "How are artisans identified during the fair for verification purposes?",
+      "answer": "They must carry and display their artisan ID card and recent photograph at the stall."
+    },
+    {
+      "question": "What are the rules regarding display and arrangement of products at the stall?",
+      "answer": "Artisans must display only within allocated space without obstructing pathways or other stalls, following Indext-C's guidelines."
+    },
+    {
+      "question": "Can artisans participate in fairs outside their home district or state?",
+      "answer": "Yes, the scheme covers both intra-state and inter-state fairs organized by Indext-C."
+    },
+    {
+      "question": "What banking details are required for application processing?",
+      "answer": "Artisans must provide bank account number, IFSC code, branch name, and account holder name."
+    },
+    {
+      "question": "Is there any insurance coverage for artisans' goods during the fair?",
+      "answer": "No, artisans are solely responsible for their goods' safety, though security may be provided at the venue."
+    },
+    {
+      "question": "Are artisans allowed to consume alcohol or tobacco at the fair venue?",
+      "answer": "No, narcotics, alcohol, or flammable materials are strictly prohibited at stalls or venues."
+    },
+    {
+      "question": "What are the eligibility criteria for artisans to participate in the handicraft fairs organized by the government?",
+      "answer": "Artisans must produce handmade crafts listed in the official Gujarat handicraft list and possess a valid artisan identification card issued by recognized institutions like Indext-C."
+    },
+    {
+      "question": "How does one prove domicile status as a Gujarat resident for participation?",
+      "answer": "The application form includes a domicile declaration section; supporting documents may be required."
+    }
+  ]
+}

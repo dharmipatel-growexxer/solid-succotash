@@ -1,0 +1,94 @@
+{
+  "scheme_name": "Halpati Housing Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/hhs",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Halpati Housing Scheme",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The “Halpati Housing Scheme” was launched by the Tribal Development Department, Government of Gujarat. The scheme aims to provide financial assistance to Halpati (Talaviya, Nayaka) families belonging to Scheduled Tribes for building safe and sustainable housing. Under this scheme, monetary aid is provided in phases directly into the bank accounts of the Halpati beneficiaries residing in South Gujarat districts such as Surat, Tapi, Valsad, Navsari, Narmada, Bharuch, Chhotaudepur, and Vadodara."
+    ],
+    "benefits": [
+      "Financial assistance of ₹1,20,000 provided for construction of housing."
+    ],
+    "eligibility": [
+      "The applicant should belong to the Halpati (Talaviya, Nayaka) caste, which is recognized under Scheduled Tribes.",
+      "The applicant should be a resident of South Gujarat districts: Surat, Tapi, Valsad, Navsari, Narmada, Bharuch, Chhotaudepur, or Vadodara.",
+      "The applicant should be a resident of rural areas within the specified districts."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Gandhinagar Head Office and Sub-Offices at Surat and Valsad and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the sub-offices located at Surat and Valsad.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the sub-offices located at Surat and Valsad to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Age Proof",
+      "Bank Passbook/Cancelled Cheque",
+      "Birth Certificate",
+      "Caste Certificate",
+      "Passport-size Photos",
+      "Ration Card"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Only Halpati (Talaviya, Nayaka) caste people included under Scheduled Tribes."
+    },
+    {
+      "question": "What is the financial assistance provided under the scheme?",
+      "answer": "₹1,20,000 is given for construction of a house."
+    },
+    {
+      "question": "Is the assistance given in cash?",
+      "answer": "No, it is transferred directly into the beneficiary’s bank account."
+    },
+    {
+      "question": "Which districts are covered under this scheme?",
+      "answer": "Surat, Tapi, Valsad, Navsari, Narmada, Bharuch, Chhotaudepur, and Vadodara."
+    },
+    {
+      "question": "Is this scheme applicable in urban areas?",
+      "answer": "No, only rural areas are covered."
+    },
+    {
+      "question": "Can people from other Scheduled Tribes apply?",
+      "answer": "No, only Halpati (Talaviya, Nayaka) caste members are eligible."
+    },
+    {
+      "question": "Is there any income limit to apply?",
+      "answer": "No, there is no individual or family income limit."
+    },
+    {
+      "question": "Who constructs the house?",
+      "answer": "The beneficiary constructs the house themselves."
+    },
+    {
+      "question": "Where can the application form be obtained?",
+      "answer": "From Gandhinagar Head Office and Sub-Offices at Surat and Valsad."
+    },
+    {
+      "question": "What is the cost of the application form?",
+      "answer": "The application process is free of cost."
+    },
+    {
+      "question": "Where should the application form be submitted?",
+      "answer": "At Sub-Offices located at Surat and Valsad."
+    },
+    {
+      "question": "Is online application available?",
+      "answer": "No, the process is completely offline."
+    }
+  ]
+}

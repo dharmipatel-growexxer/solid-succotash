@@ -1,0 +1,112 @@
+{
+  "scheme_name": "Santwana Scheme - Karnataka",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ss-k",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Santwana Scheme - Karnataka",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The \"Santwana Scheme\" was launched by the Minorities Welfare Department, Government of Karnataka, and implemented by the Karnataka Minorities Development Corporation. The scheme aims to support people belonging to religious minorities whose houses, and shops have been destroyed due to natural calamity and communal violence. Under this scheme, a loan amount of ₹5,00,000/- max per unit cost will be provided of which 50% loan and 50% subsidy."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "Up to ₹5,00,000/- per unit cost.",
+      "Subsidy Amount:",
+      "50% of the loan amount is provided as a subsidy, and the remaining 50% is a repayable loan."
+    ],
+    "eligibility": [
+      "The applicant should belong to the religious minority category of the Karnataka state.",
+      "The applicant should be a permanent resident of the state.",
+      "The applicant's age should be between 18 to 55 years.",
+      "The family income from all sources should not exceed more than ₹8,00,000/-",
+      "The applicant's family members should not be employees in the Central or State Government.",
+      "The applicant or his/her family should not have availed a loan facility from Karnataka Minorities Development Corporation (EXCEPT ARIVU EDUCATION LOAN SCHEME ) in the last five years."
+    ],
+    "application_process": {
+      "online": [
+        "Step-01:",
+        "Applicant need to visits the Karnataka Minorities Development Corporation",
+        "official website",
+        ".",
+        "Step-02:",
+        "Click",
+        "\"Apply Online\"",
+        "and Enter \"Mobile Number\" and \"Submit\".",
+        "Step-03:",
+        "Enter \"Aadhaar Number\" Fill in the \"Captcha\" and Select \"Next\".",
+        "Step-04:",
+        "Applicant will get OTP in his/her Aadhaar Linked Mobile Number.",
+        "Step-05:",
+        "Enter \"OTP\" and select \"Continue\", After that Allow the official notice.",
+        "Step-06:",
+        "After verifying the Aadhaar again fill in the \"OTP\" and Submit.",
+        "Step-07:",
+        "Select the scheme \"Sikhligar’s Community Development Scheme\" and fill in the basic details father's name, gender, qualification detail",
+        "Step-08:",
+        "Select \"Next\" Fill in the address detail and again select \"Next\".",
+        "Step-09:",
+        "Upload the required document passport-size photo, educational document, income certificate, etc.",
+        "Step-10:",
+        "Click \"Proceed\" and Select \"Submit Application\" and get an Application ID."
+      ]
+    },
+    "documents_required": [
+      "Photo of the Applicant.",
+      "Caste/Minority Certificate (issued by the competent authority).",
+      "Income Certificate (issued by the competent authority).",
+      "Copy of Aadhaar as Residential Proof.",
+      "Copy of Bank Passbook.",
+      "Self-declaration form from Surety.",
+      "Applicant s Self-Declaration.",
+      "Aggrieved beneficiaries should obtain a report from the relevant competent authority."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Login & Apply",
+      "Track Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Minority community members aged 18-55 who are permanent residents of Karnataka and have suffered property damage due to natural calamities or communal violence."
+    },
+    {
+      "question": "What financial assistance does the scheme offer?",
+      "answer": "A loan of up to ₹5,00,000/- with 50% as a subsidy and 50% as a repayable loan."
+    },
+    {
+      "question": "What is the income limit to apply for this scheme?",
+      "answer": "The annual family income should not exceed ₹8,00,000/-."
+    },
+    {
+      "question": "Can government employees apply for this scheme?",
+      "answer": "No, applicants or their family members should not be Central or State Government employees."
+    },
+    {
+      "question": "Can I apply if I have availed of a KMDC loan in the past?",
+      "answer": "No, unless it was an Arivu Education Loan within the last 5 years."
+    },
+    {
+      "question": "Do I need to provide a damage report?",
+      "answer": "Yes, a damage report from the relevant competent authority is required."
+    },
+    {
+      "question": "What is a back-end subsidy?",
+      "answer": "A back-end subsidy is provided after part of the loan is repaid, not upfront."
+    },
+    {
+      "question": "Can the loan be used for purposes other than rebuilding?",
+      "answer": "No, the loan must be used specifically for rebuilding and recovery."
+    },
+    {
+      "question": "What happens if I fail to use the funds as intended?",
+      "answer": "Misuse of funds can result in penalties, including repayment of the subsidy."
+    },
+    {
+      "question": "Can I apply for this scheme if I am already a sustainer of KMDC?",
+      "answer": "No, applicants should not have existing liabilities with the KMDC."
+    }
+  ]
+}

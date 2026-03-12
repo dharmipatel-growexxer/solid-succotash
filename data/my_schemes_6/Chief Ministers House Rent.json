@@ -1,0 +1,102 @@
+{
+  "scheme_name": "Chief Ministers House Rent",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cmhr",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Chief Ministers House Rent",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The \"Chief Minister's House Rent\" scheme, implemented by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides a house rent allowance of ₹2,000 per student per month in Bhopal, Indore, Jabalpur, Gwalior, and Ujjain; ₹1,250 per student per month at district headquarters; and ₹1,000 per student per month in tehsil/development block headquarters and other cities. A third-party evaluation will be conducted to assess the results and impact of the scheme. Any rent amount exceeding the prescribed allowance must be borne by the students themselves. Apart from the house rent allowance, no other facility will be provided by the department."
+    ],
+    "benefits": [
+      "₹2,000/- per student in Bhopal, Indore, Jabalpur, Gwalior, and Ujjain.",
+      "₹1,250/- at district headquarters.",
+      "₹1,000/- in tehsil/development block headquarters and other cities.",
+      "Helps students with housing expenses."
+    ],
+    "eligibility": [
+      "The applicant should be regularly admitted to colleges or equivalent institutions and not in any government hostel.",
+      "The applicant should be admitted before the last date and submit 'Appendix-B'.",
+      "The applicant should be within the income limit of the Post Metric Scholarship Scheme.",
+      "The applicant should be responsible for any excess rent beyond the prescribed allowance.",
+      "The applicant should be ineligible for the scheme if they fail in any year.",
+      "The applicant should be aware of the third-party evaluation and annual review of the scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "Visit the \"",
+        "Samarth Portal",
+        "\".",
+        "Step 2:",
+        "Navigate to the top right corner of the homepage and click \"",
+        "Registration\".",
+        "Step 3:",
+        "On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click \"Register\".",
+        "Application",
+        "Use the credentials you created during registration to log in.",
+        "Navigate to the online application form of the scheme you intend to apply for.",
+        "Step 4:",
+        "In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:",
+        "Carefully review all the information provided. Make any necessary corrections.",
+        "Step 6:",
+        "Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).",
+        "Step 7:",
+        "Click the \"Submit\" to submit your application."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar Card",
+      "Domicile Certificate",
+      "Caste Certificate",
+      "Samagra ID",
+      "Bank account Details"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the Chief Minister's House Rent Scheme?",
+      "answer": "The scheme aims to provide housing rent allowance to students from remote, nomadic, and semi-nomadic communities who stay in other cities for post-matriculation studies, ensuring their education continues uninterrupted."
+    },
+    {
+      "question": "Who is eligible for the house rent allowance under this scheme?",
+      "answer": "Students who are regularly admitted to colleges or higher-level government/non-government institutions and are not residing in any government hostel are eligible."
+    },
+    {
+      "question": "How can I apply for this scheme?",
+      "answer": "Students must apply by admitting before the prescribed last date and submitting the required document, 'Appendix-B', along with their application."
+    },
+    {
+      "question": "What are the income criteria for eligibility?",
+      "answer": "Students must meet the income limit specified under the Post Metric Scholarship Scheme to be eligible for the house rent allowance."
+    },
+    {
+      "question": "Will the scheme be available for students in government hostels?",
+      "answer": "No, students already residing in government hostels are not eligible for the scheme."
+    },
+    {
+      "question": "What happens if the rent exceeds the prescribed allowance?",
+      "answer": "Any rent exceeding the prescribed house rent allowance must be paid by the students themselves. No additional support will be provided by the department."
+    },
+    {
+      "question": "Are there any other benefits apart from the house rent allowance?",
+      "answer": "No, no other facilities will be provided by the department apart from the house rent allowance."
+    },
+    {
+      "question": "What happens if I fail in my exams?",
+      "answer": "Students who fail in their exams will be ineligible for the scheme in the subsequent year."
+    },
+    {
+      "question": "How long will the scheme be in place?",
+      "answer": "The scheme will be reviewed annually based on student results and its effectiveness in supporting their education."
+    }
+  ]
+}

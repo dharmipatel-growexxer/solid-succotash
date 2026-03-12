@@ -1,0 +1,62 @@
+{
+  "scheme_name": "Pradhan Mantri Awaas Yojana - Gramin, Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmayguk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pradhan Mantri Awaas Yojana - Gramin, Uttarakhand",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The “Pradhan Mantri Awaas Yojana - Gramin” is a centrally sponsored scheme implemented by the Department of Rural Development, Government of Uttarakhand. The scheme aims to provide pucca houses with basic amenities to eligible rural households in Uttarakhand, ensuring dignified living conditions for economically and socially disadvantaged families."
+    ],
+    "benefits": [
+      "Under this scheme, selected eligible beneficiaries receive financial assistance of ₹130,000/- for house construction. Beneficiaries are also provided ₹12,000/- for toilet construction under convergence with MGNREGA/Swajal, along with 95 man-days of labour employment from MGNREGA. After the house is completed, the State Government provides an additional ₹6,000/- for purchasing kitchen utensils as per the Hon’ble Chief Minister’s announcement."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The selection of eligible beneficiaries for housing is done based on the “Social, Economic and Caste Census 2011 (SECC-2011)” and the Awaas Plus Permanent Waiting List."
+    ],
+    "application_process": {
+      "offline": [
+        "There is no provision for submitting a separate application under the scheme. From time to time, the Ministry of Rural Development, Government of India, has selected eligible beneficiaries for housing based on the Social, Economic and Caste Census (SECC) 2011.",
+        "For families who were left out in the SECC 2011 survey but were eligible for PMAY-G housing, the Government of India conducted the Awaas Plus Survey through a mobile app from July 2017 to 30 June 2018. Based on the Awaas Plus survey data, a permanent waitlist was prepared, and since the year 2020-21, housing targets have been allocated by the Government of India on the basis of this list. Currently, the financial assistance is being transferred directly to the bank accounts of eligible beneficiaries."
+      ]
+    },
+    "documents_required": [
+      "Documents are required as per the guidelines prescribed by the Government for this scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 184)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much financial assistance is provided for constructing a house?",
+      "answer": "Eligible beneficiaries receive ₹130,000/- for constructing a house."
+    },
+    {
+      "question": "Is financial support available for toilet construction?",
+      "answer": "Yes. Beneficiaries receive ₹12,000/- for toilet construction through convergence with MGNREGA/Swajal."
+    },
+    {
+      "question": "Does the state government provide additional support?",
+      "answer": "Yes. After completion of the house, the Uttarakhand government provides ₹6,000 for purchasing kitchen utensils."
+    },
+    {
+      "question": "Who is eligible to receive benefits under PMAY-G?",
+      "answer": "Eligibility is determined on the basis of SECC-2011 data and the Awas Plus Permanent Waiting List."
+    },
+    {
+      "question": "Is there a separate application process for PMAY-G?",
+      "answer": "No. There is no provision for separate applications under this scheme."
+    },
+    {
+      "question": "How are beneficiaries selected?",
+      "answer": "Beneficiaries are selected based on the Social, Economic and Caste Census (SECC) 2011 and the Awas Plus survey."
+    },
+    {
+      "question": "How are funds provided to the beneficiaries?",
+      "answer": "Funds are transferred directly to the beneficiary’s bank account through Direct Benefit Transfer (DBT)."
+    }
+  ]
+}

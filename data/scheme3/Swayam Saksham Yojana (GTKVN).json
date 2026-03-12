@@ -1,0 +1,117 @@
+{
+  "scheme_name": "Swayam Saksham Yojana (GTKVN)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sssgtkdc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Swayam Saksham Yojana (GTKVN)",
+  "scraped_at": "2026-03-11 12:55:15 UTC",
+  "sections": {
+    "details": [
+      "The \"Swayam Saksham Yojana\" is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to promote economic self-reliance among professionally educated unemployed youth (both men and women) from the Thakor and Koli communities, aged between 18 and 35 years, who hold degrees in fields such as Pharmacy, Architecture, Software/Hardware, Automobile Engineering, Law, Chartered Accountancy, and others.",
+      "Under this scheme, financial assistance in the form of low-interest loans is provided to eligible beneficiaries who have completed higher professional education and wish to become self-reliant by starting their own business in their respective fields. It specifically supports individuals trained in professional fields like medicine, law, engineering, accounting, hotel management, and even wrestling or sculpture, to use their skills for gainful self-employment."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "Up to ₹5,00,000/-.",
+      "Interest Rate:",
+      "5% per annum.",
+      "Contribution Split:",
+      "95% of the business/project cost is covered under the scheme as a loan.",
+      "5% contribution must be made by the beneficiary.",
+      "Loan Repayment Terms:",
+      "Repayable in 60 equal monthly installments (maximum 5 years).",
+      "The repayment period depends on the nature of the business plan."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to the Thakor or Koli caste/community.",
+      "The applicant should be between 18 and 35 years of age on the date of application.",
+      "The applicant should have technical/professional education or experience in the field of business/trade.",
+      "The applicant should be unemployed and looking to start a self-employment unit.",
+      "The applicant family’s annual income should not exceed ₹3,00,000/-.",
+      "The applicant should have completed professional education in areas such as Medical, Law, Architecture, Engineering, Chartered Accountancy, Hotel Management, Software/Hardware, Financial Consultancy, Sculpture or Wrestling (with training) etc.",
+      "Note:",
+      "Out of total loans disbursed, at least 50% will be allocated to families with income up to ₹1,50,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Gujarat Thakor and Koli Vikas Nigam.",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Now\".",
+        "Step 3:",
+        "Click on the loan scheme name.",
+        "Step 4:",
+        "Select the loan category and fill in the loan amount.",
+        "Step 5:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 6:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 7:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 8:",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Passbook/Cancelled Cheque",
+      "Business Address Proof",
+      "Certificate of Professional Course",
+      "Income Certificate",
+      "Passport Size Photos",
+      "Quotations",
+      "True Copy of Election Card",
+      "Age Proof/Birth Certificate",
+      "Caste Certificate",
+      "Graduate Mark sheet",
+      "Post Graduate Mark sheet",
+      "School Leaving"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Youth from the Thakor or Koli castes aged 18 to 35 with professional education."
+    },
+    {
+      "question": "What type of businesses are supported?",
+      "answer": "Clinics, labs, law/CA offices, architecture firms, chemist shops, hotel businesses, etc."
+    },
+    {
+      "question": "Do I need to provide collateral?",
+      "answer": "The applicant must provide a guarantor or surety as per GTKVN rules."
+    },
+    {
+      "question": "What is the repayment period?",
+      "answer": "60 months (5 years), in equal monthly installments."
+    },
+    {
+      "question": "Is the scheme limited to Gujarat?",
+      "answer": "Yes, it is applicable only in Gujarat."
+    },
+    {
+      "question": "Is there an application process offline?",
+      "answer": "No, applications must be submitted online at gtkdconline.gujarat.gov.in"
+    },
+    {
+      "question": "Where can I track my application?",
+      "answer": "On the same portal: https://gtkdconline.gujarat.gov.in"
+    },
+    {
+      "question": "Is any margin money required?",
+      "answer": "Yes, 5% of the project cost must be contributed by the applicant."
+    }
+  ]
+}

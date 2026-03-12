@@ -1,0 +1,104 @@
+{
+  "scheme_name": "Free Caste Hostel (De-Notified, Nomadic and Semi-Nomadic Communities)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fchdnnasnc",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Free Caste Hostel (De-Notified, Nomadic and Semi-Nomadic Communities)",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The \"Free Caste Hostel\" scheme by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides a scholarship of ₹1,230 per month for boys and ₹1,270 per month for girls for 10 months. The scheme benefits students from De-notified, Nomadic, and Semi-Nomadic tribes studying in local educational institutions."
+    ],
+    "benefits": [
+      "A scholarship of ₹1,230 per month for boys.",
+      "A scholarship of ₹1,270 per month for girls.",
+      "The scholarship is given for 10 months."
+    ],
+    "eligibility": [
+      "The applicant should be a student belonging to the De-Notified, Nomadic, or Semi-Nomadic tribes.",
+      "The applicant should be studying in a local educational institution.",
+      "The applicant should apply for admission before the new academic session.",
+      "The applicant should secure a vacant seat, as new admissions depend on availability.",
+      "The applicant should have a higher percentage in the last passed examination for priority admission."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "Visit the \"",
+        "Samarth Portal",
+        "\".",
+        "Step 2:",
+        "Navigate to the top right corner of the homepage and click \"",
+        "Registration\".",
+        "Step 3:",
+        "On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click \"Register\".",
+        "Application",
+        "Use the credentials you created during registration to log in.",
+        "Navigate to the online application form of the scheme you intend to apply for.",
+        "Step 4:",
+        "In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:",
+        "Carefully review all the information provided. Make any necessary corrections.",
+        "Step 6:",
+        "Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).",
+        "Step 7:",
+        "Click the \"Submit\" to submit your application."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar Card",
+      "Domicile Certificate",
+      "Caste Certificate",
+      "Samagra ID",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Free caste hostel Scheme?",
+      "answer": "The scheme provides financial assistance to students of de-notified, nomadic, and semi-nomadic tribes studying in local educational institutions."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Students belonging to de-notified, nomadic, and semi-nomadic tribes who are enrolled in local educational institutions are eligible."
+    },
+    {
+      "question": "What is the amount of scholarship provided?",
+      "answer": "The scheme provides ₹1,230 per month for boys and ₹1,270 per month for girls for 10 months."
+    },
+    {
+      "question": "How can students apply for this scheme?",
+      "answer": "Eligible students must apply using the prescribed application form before the start of the academic session."
+    },
+    {
+      "question": "Is there a renewal process for existing beneficiaries?",
+      "answer": "Yes, renewal is automatic for resident students, and they do not need to reapply."
+    },
+    {
+      "question": "Are there any academic requirements for admission?",
+      "answer": "Admission is based on merit, with preference given to students who have secured higher marks in the previous academic year."
+    },
+    {
+      "question": "Can new students apply if seats are full?",
+      "answer": "No, new students can only apply if there are vacant seats in the hostel, ashram, or community welfare center."
+    },
+    {
+      "question": "What documents are required for application?",
+      "answer": "Applicants need to submit caste certificates, proof of enrollment in an educational institution, and previous academic records."
+    },
+    {
+      "question": "Is there any income limit for eligibility?",
+      "answer": "No, the scheme does not have an income limit for applicants."
+    },
+    {
+      "question": "What is the duration of the scholarship?",
+      "answer": "The scholarship is provided for 10 months in an academic year."
+    }
+  ]
+}

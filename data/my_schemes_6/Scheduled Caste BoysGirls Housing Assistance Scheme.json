@@ -1,0 +1,97 @@
+{
+  "scheme_name": "Scheduled Caste Boys/Girls Housing Assistance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/scbshas",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Scheduled Caste Boys/Girls Housing Assistance Scheme",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Scheduled Caste Boys/Girls Housing Assistance Scheme\" by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh, provides financial support for residential facilities to Scheduled Caste students who are studying in colleges outside their native village/city, enabling them to continue their college education."
+    ],
+    "benefits": [
+      "₹2,000/- per month, if the student is residing in a Divisional headquarters (Bhopal, Indore, Gwalior, Jabalpur, Ujjain).",
+      "₹1,250/- per month, if the student is residing in Other District Headquarters.",
+      "₹1,000/- per month, if the student is residing in a Tehsil/Development Block Headquarters."
+    ],
+    "eligibility": [
+      "The applicant should be from the Scheduled Caste (SC) category.",
+      "The applicant should be a native of Madhya Pradesh.",
+      "The applicant should be a College Student.",
+      "The applicant should meet the income limit prescribed under the Post Matric Scholarship Scheme.",
+      "The applicant should be residing outside their native city/village."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System",
+        "MPTAAS portal.",
+        "Step 2:",
+        "Click on \"New Beneficiary Profile",
+        ".\"",
+        "Step 3:",
+        "Fill in all the required details. Fields marked with * are mandatory. Complete the form by entering all necessary information.",
+        "Step 4:",
+        "Upload all required documents, such as ID proof and other relevant certificates.",
+        "Step 5:",
+        "After completing the form and uploading the documents, click \"Submit\".",
+        "Step 6:",
+        "After successful payment and submission, you will receive a registration number.",
+        "Application",
+        "Enter your user ID, password, and captcha code, then click \"Login.\"",
+        "Choose the scheme you wish to apply for to avail the benefits.",
+        "Enter all required information and upload the necessary documents as prompted.",
+        "Finally, click on \"Submit Application\" to complete the process."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity",
+      "Caste Certificate",
+      "Income Certificate",
+      "Proof of College Admission",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Scheduled Caste Boys/Girls Housing Assistance Scheme?",
+      "answer": "This scheme provides financial assistance for rental housing to Scheduled Caste (SC) students studying outside their native place."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "SC students meeting the income criteria of the Post Matric Scholarship Scheme and residing in rented accommodation in divisional, district, or tehsil headquarters."
+    },
+    {
+      "question": "Does the scheme consider the location of my college or my rented accommodation?",
+      "answer": "The assistance is based on the location of the rented accommodation, not the college's headquarters."
+    },
+    {
+      "question": "How can I apply for this scheme?",
+      "answer": "Students can apply online through the official Tribal Welfare and SC Department portal of Madhya Pradesh."
+    },
+    {
+      "question": "Is there any deadline for applying?",
+      "answer": "Deadlines may vary each year. Students should check the official portal for updated information."
+    },
+    {
+      "question": "Can students staying in a hostel avail of this scheme?",
+      "answer": "No, the scheme is only for students residing in rented accommodations."
+    },
+    {
+      "question": "How will I receive the financial assistance?",
+      "answer": "The amount is directly transferred to the student's bank account through DBT (Direct Benefit Transfer)."
+    },
+    {
+      "question": "Who should I contact for more details?",
+      "answer": "You can contact the Tribal Welfare and SC Department, Madhya Pradesh, or visit their official website for assistance."
+    },
+    {
+      "question": "Can students from other states apply for this scheme?",
+      "answer": "No, only domicile residents of Madhya Pradesh belonging to the Scheduled Caste (SC) category are eligible."
+    }
+  ]
+}

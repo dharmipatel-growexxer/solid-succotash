@@ -1,0 +1,96 @@
+{
+  "scheme_name": "Micro Credit Finance",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mcf",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Micro Credit Finance",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Micro Credit Finance\" scheme, implemented by the Department of Social Justice & Special Assistance of the Government of Maharashtra and funded by the National Scheduled Castes Finance and Development Corporation (NSFDC), aims to uplift the lifestyle of economically disadvantaged Charmakars (Dhor, Chambhar, Holar, Mochi, etc.) who are below the poverty line. This initiative focuses on developing their educational, economic, and social standing, enabling them to secure a respectable place in society while promoting the production of various footwear and leather articles for government supply and open market sales."
+    ],
+    "benefits": [
+      "Financial support ranging from ₹25,000 to ₹50,000 to invest in income-generating activities.",
+      "A low interest rate of 5% per annum, making it easier to repay the loan.",
+      "₹10,000 provided as a subsidy to reduce the financial burden."
+    ],
+    "eligibility": [
+      "The applicant should belong to the Charmakar Community.",
+      "The applicant should be between 18 to 50 years of age.",
+      "The applicant should be a permanent resident of Maharashtra.",
+      "The applicant should belong to a Below Poverty Line (BPL) category.",
+      "The applicant should be able to provide an Income and Caste Certificate from an authorized government officer.",
+      "The applicant must have knowledge of the business for which they are applying for the loan.",
+      "For the 50% Subsidy Scheme and Margin Money, the annual income must be below the poverty line.",
+      "For the NSFDC Scheme, the annual income should be ₹98,000 for rural areas and ₹1,20,000 for urban areas."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Office of the Leather Industries Development Corporation of Maharashtra (LIDCOM), and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph",
+      "Aadhaar Card",
+      "Income certificate",
+      "Caste certificate",
+      "Residence proof",
+      "Bank passbook/bank details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Micro Credit Finance Scheme?",
+      "answer": "It is a financial assistance program for the Charmakar Community, providing loans to uplift their socio-economic status."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Only applicants belonging to the Charmakar Community can apply."
+    },
+    {
+      "question": "What is the age limit for applicants?",
+      "answer": "Applicants must be between 18 to 50 years of age."
+    },
+    {
+      "question": "What is the maximum loan amount available under this scheme?",
+      "answer": "Financial assistance can range from ₹25,000 to ₹50,000."
+    },
+    {
+      "question": "What is the interest rate for the loans?",
+      "answer": "The interest rate for the loans is set at 5% per annum."
+    },
+    {
+      "question": "Is there a subsidy provided under this scheme?",
+      "answer": "Yes, a subsidy of ₹10,000 is provided as part of the loan."
+    },
+    {
+      "question": "What is the income criteria for applicants?",
+      "answer": "Applicants must belong to the Below Poverty Line (BPL) category, with specific income limits for rural and urban areas."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "Applications can be submitted at designated government offices, typically within the Department of Social Justice & Special Assistance."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "An Income Certificate and Caste Certificate from an authorized government officer are required."
+    },
+    {
+      "question": "Can the loan be used for any type of business?",
+      "answer": "The loan must be used for businesses related to the Charmakar community, such as production of footwear and leather articles."
+    }
+  ]
+}

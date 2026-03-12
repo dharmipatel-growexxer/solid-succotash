@@ -1,0 +1,131 @@
+{
+  "scheme_name": "Composite Loan Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cls",
+  "location_name": "Delhi",
+  "location_type": "union_territory",
+  "page_title": "Composite Loan Scheme",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Composite Loan Scheme\" is managed by the Delhi SC/ST/OBC/Minorities/Handicapped Financial & Development Corporation, Government of NCT of Delhi. The scheme aims to provide need-based financial support to individuals from Scheduled Castes, Scheduled Tribes, Other Backward Classes, Minorities, and Persons with Disabilities to help them pursue various income-generating activities. The scheme encourages self-employment and entrepreneurship, promoting economic independence and social inclusion for the targeted groups."
+    ],
+    "benefits": [
+      "Maximum Permissible Loan Amount",
+      "For the SC category, the need-based loan is up to ₹3,00,000/-.",
+      "For OBC, Minority and PwD categories, the need-based loan amount is up to ₹1,00,000/-."
+    ],
+    "eligibility": [
+      "The applicant should be from one of the following target groups - Scheduled Caste, Scheduled Tribe, Other Backward Class, Minority, Persons with Disability.",
+      "The applicant should be a resident of Delhi.",
+      "The applicant's age should be between 18 to 50 years.",
+      "The annual family income of the applicant (from all sources) should not exceed ₹1,20,000/-.",
+      "The applicant should be willing to pursue one of the",
+      "income-generating activities",
+      "given in the scheme guidelines.",
+      "The applicant must have a proper workplace, for starting the proposed activity, either owned or rented.",
+      "The applicant should not have been declared a defaulter under any of the schemes being implemented by DSFDC."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should take print of the",
+        "prescribed format",
+        "of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, to the",
+        "Branch In-Charge / Section In-Charge",
+        "of the Delhi SC/ST/OBC/Minorities/Handicapped Financial & Development Corporation, Government of NCT of Delhi.",
+        "Step 4:",
+        "Request a receipt or acknowledgement."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card as Proof of Identity and Residence.",
+      "Caste Certificate Issued by the Government of Delhi or Affidavit, in Case the Applicant Belongs to Any of the Minority Community.",
+      "PWD Certificate Issued by Govt. Hospital Showing Minimum 40% Disability, is Required if the Person Belongs to the PwD Category.",
+      "Age Proof in the Form of Birth Certificate / School Leaving Certificate / Affidavit.",
+      "Income Certificate in the Form of Affidavit.",
+      "Affidavit about Non-Availing of Loan from Any Financial Institution/Govt. Organization.",
+      "Estimate of the Items/Machines to be Procured for the Proposed Activity.",
+      "Ownership Proof of Workplace i.e. Electricity Bill/Water Bill/Telephone Bill (MTNL) or Any Other Document of Property.",
+      "Rent Agreement and ID Proof of the Owner of the Workplace in Case the Workplace is on Rent.",
+      "Affidavit of No Objection Certificate for Workplace, if the Workplace is Owned by Any of the Relatives (Blood Relation).",
+      "Affidavit of Personal Guarantee.",
+      "ECS (Electronic Clearing Service) Mandate in the Prescribed Format, Towards Repayment of Loan, Along with 05 Blank CTS (Cheque Truncation System) Post-Dated Cheques in Favour of DSFDC (Delhi SC/ST/OBC/Minority/Handicapped Financial and Development Corporation) and One Blank Cancelled Cheque for Making Payment Through RTGS (Real Time Gross Settlement).",
+      "Five Blank Post-Dated Cheques of the Guarantor are Also Required if the Loan Amount is Above ₹2,00,000/-.",
+      "Affidavit of Legal Heir of Applicant.",
+      "ID Proof of Legal Heir with Passport-Size Photo.",
+      "Copy of Insurance Receipt under Prime Minister Suraksha Bima Yojna (PMSBY) and Prime Minister Jiwan Jyoti Bima Yojna (PMJJBY).",
+      "The Applicant is Required to Bring Two Witnesses Along with Their ID Proof.",
+      "Group Photograph Showing Applicant, Guarantor, Two Witnesses, Branch In-Charge & Dealing Assistant.",
+      "Demand Draft of ₹350/- in Favour of DSFDC Towards Processing Fee.",
+      "Guarantor’s Documents",
+      "Original Pay Slip of Guarantor.",
+      "Copy of Office Identity Card of Guarantor.",
+      "Aadhaar Card of Guarantor as Proof of Residence.",
+      "Affidavit of Guarantor & Undertaking in the Prescribed Format.",
+      "Date of Birth Proof of Guarantor.",
+      "Five Passport-Size Photographs of the Guarantor.",
+      "In Case of a Loan Above ₹2,00,000/-, Five Blank Cheques from Guarantors",
+      "OR (in Case of Collateral Security) Original Property Document, in Case of Immovable Property and NOC (No Objection Certificate) from the Owner of the Property with Complete Chain Documents.",
+      "OR Original Collateral Security in the Shape of NSC (National Savings Certificates)/KVP (Kisan Vikas Patra)/FDR (Fixed Deposit Receipt) and Letter of Lien in Favour of DSFDC.",
+      "In the Case of Loan Up to ₹50,000/-, No Guarantor or Collateral Security is Required. However, the Same Shall be Discretionary. But the Applicant Shall Have to Produce Two References/Names of Prominent Persons, Who are Permanent Residents of Delhi and Reside in the Area Where the Applicant Resides."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the eligibility criteria for Persons with Disabilities applying under the scheme?",
+      "answer": "Applicants must have a disability of at least 40%, be Delhi residents, and have an annual family income below ₹1,20,000/-."
+    },
+    {
+      "question": "Is there a residency requirement for applicants under the scheme?",
+      "answer": "Yes, applicants must be residents of Delhi to be eligible for the scheme."
+    },
+    {
+      "question": "What is the age range required for applicants to qualify for the scheme?",
+      "answer": "Applicants must be between 18 and 50 years old to be eligible for the scheme."
+    },
+    {
+      "question": "What is the maximum annual family income allowed for applicants under the scheme?",
+      "answer": "The annual family income of the applicant must not exceed ₹1,20,000/- from all sources."
+    },
+    {
+      "question": "What type of activities must applicants be willing to pursue to qualify for the scheme?",
+      "answer": "Applicants must be willing to pursue income-generating activities listed in the scheme guidelines."
+    },
+    {
+      "question": "Is there a requirement for applicants to have a workplace for their proposed activity?",
+      "answer": "Yes, applicants must have a proper workplace, either owned or rented, to start their proposed activity."
+    },
+    {
+      "question": "Can applicants who have defaulted on other schemes apply for this scheme?",
+      "answer": "No, applicants must not have been declared defaulters under any schemes implemented by DSFDC."
+    },
+    {
+      "question": "What is the maximum loan amount available for applicants from the Scheduled Caste category?",
+      "answer": "Applicants from the Scheduled Caste category can avail of a need-based loan of up to ₹3,00,000/-."
+    },
+    {
+      "question": "What is the maximum loan amount for applicants from OBC, Minority, and PwD categories?",
+      "answer": "Applicants from OBC, Minority, and PwD categories can avail of a need-based loan of up to ₹1,00,000/-."
+    },
+    {
+      "question": "What documents are accepted as proof of age for applicants?",
+      "answer": "Accepted documents include a birth certificate, school leaving certificate, or an affidavit as proof of age."
+    },
+    {
+      "question": "What additional document is needed if the workplace is owned by a relative?",
+      "answer": "Applicants must provide an affidavit of a No Objection Certificate if the workplace is owned by a relative."
+    },
+    {
+      "question": "Are guarantors required for loans above ₹2,00,000/-?",
+      "answer": "Yes, for loans above ₹2,00,000/-, applicants must provide five blank post-dated cheques from a guarantor."
+    }
+  ]
+}

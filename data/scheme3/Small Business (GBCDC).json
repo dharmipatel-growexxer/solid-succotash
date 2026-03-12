@@ -1,0 +1,122 @@
+{
+  "scheme_name": "Small Business (GBCDC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mfsgbcdc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Small Business (GBCDC)",
+  "scraped_at": "2026-03-11 12:55:15 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Small Business (GBCDC)\" by the Social Justice and Empowerment Department, Government of Gujarat, aims to provide financial assistance to the Socially and Educationally Backward Classes (SEBC) for undertaking small businesses like grocery store, dairy parlour, animal fodder sales centre, mobile-computer repairing shop, etc., for casual business. Through this scheme, a loan amount is provided at a low interest rate to promote self-employment among SEBC individuals across the state. The scheme is implemented by the Gujarat Backward Classes Development Corporation (GBCDC). Beneficiaries can apply online without any application fee through the official GBCDC portal."
+    ],
+    "benefits": [
+      "Financial assistance in the form of a loan up to ₹2,00,000/-.",
+      "The loan can be utilised for starting small businesses such as grocery stores, dairy parlours, animal fodder sales centres, mobile and computer repairing shops, etc."
+    ],
+    "eligibility": [
+      "The applicant should belong to a socially and educationally backward class.",
+      "The applicant's total annual individual/family income should not exceed ₹3,00,000/-.",
+      "The applicant should be a resident of Gujarat."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Gujarat Backwards Caste Development Corporation.",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Online\".",
+        "Step 3:",
+        "If you’re a new user, click on \"New Registration\" Enter personal details (name, mobile number, email, aadhaar number, etc.), create a password, and complete OTP verification.",
+        "Step 4:",
+        "Use your registered credentials (User ID and password) to log in.",
+        "Step 5:",
+        "Click on “New Application”. Select “Small Business Scheme” from the list of available schemes.",
+        "Step 6:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 7:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 8:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 9:",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhar Card",
+      "Age Proof",
+      "Bank Pass Book/Cancelled Cheque",
+      "Birth Certificate",
+      "Business Address Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Passport Size Photos",
+      "Ration Card",
+      "School Leaving",
+      "True Copy of Election Card"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "Any individual belonging to the Socially and Educationally Backward Classes (SEBC) with an individual and family annual income not exceeding ₹3,00,000/- is eligible."
+    },
+    {
+      "question": "Is this scheme available to residents outside Gujarat?",
+      "answer": "No, this scheme is applicable only to residents of Gujarat."
+    },
+    {
+      "question": "Can women also apply under this scheme?",
+      "answer": "Yes, the scheme is open to applicants of any gender."
+    },
+    {
+      "question": "What types of businesses are supported under this scheme?",
+      "answer": "This scheme supports businesses like grocery stores, dairy parlours, animal fodder sales centres, and mobile or computer repairing shops."
+    },
+    {
+      "question": "What documents are needed to prove my income eligibility?",
+      "answer": "You need to submit an Income Certificate to prove your income eligibility under this scheme."
+    },
+    {
+      "question": "Is this scheme valid across all districts of Gujarat?",
+      "answer": "Yes, the scheme is applicable across the entire state of Gujarat."
+    },
+    {
+      "question": "Where can I find the online application form?",
+      "answer": "The application form is available on the website https://gbcdconline.gujarat.gov.in."
+    },
+    {
+      "question": "Is there any fee to apply under this scheme?",
+      "answer": "No, there is no fee for submitting the application form."
+    },
+    {
+      "question": "Where do I need to submit the completed application form?",
+      "answer": "You need to submit the application form online at https://gbcdconline.gujarat.gov.in."
+    },
+    {
+      "question": "What is required to prove my bank account details?",
+      "answer": "You need to provide a Bank Pass Book or a Cancelled Cheque."
+    },
+    {
+      "question": "What is the benefit type of this scheme?",
+      "answer": "The benefit type of this scheme is a loan."
+    },
+    {
+      "question": "What is the target of this scheme?",
+      "answer": "The scheme's target is to provide financial help."
+    },
+    {
+      "question": "What proof of residence is required for this scheme?",
+      "answer": "You can provide a True Copy of your Election Card or your Ration Card as proof of residence."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Khadi Karigar Janashree Bima Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kkjby",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Khadi Karigar Janashree Bima Yojana",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "A group insurance scheme by MoMSME for khadi artisans (spinners and weavers). The scheme provides insurance cover against normal death, accidental death, permanent or partial disability of the insured artisan. Scholarships are provided to the insurer’s children studying in class 9th to 12th.",
+      "The artisan must be member of the approved vocation / occupation groups. This scheme was formulated by Khadi and Village Industries Commission (KVIC) in association with the Life Insurance Corporation of India (LIC)."
+    ],
+    "benefits": [
+      "For death:",
+      "Natural causes – ₹20,000; and Accident – ₹50,000.",
+      "For permanent disability",
+      "(loss of two eyes or two limbs) – ₹50,000.",
+      "For partial disability",
+      "(loss of one eye or one limb) – ₹25,000.",
+      "Free add-on benefit",
+      ": Scholarship of ₹300 per quarter for children of Khadi Karigar, studying in class 9th to 12th standard, subject to a maximum of 2 children per family"
+    ],
+    "eligibility": [
+      "The applicant must be a Khadi Artisan (Khadi Karigar).",
+      "The age of the applicant must be between 18 and 59 years.",
+      "The applicant must be a member of the approved vocation/occupation groups.",
+      "The group must have a minimum of 25 members."
+    ],
+    "application_process": {
+      "offline": [
+        "The nominee of the deceased person will have to follow the below procedure:",
+        "Step 1:",
+        "The beneficiary will have to furnish the original death certificate of the deceased person to the Pension Group Schemes Department of LIC of India through the Khadi Institution under which the deceased was a member.",
+        "Step 2:",
+        "In case of accidental deaths, the police enquiry report will also need to be submitted along with the application.",
+        "Step 3:",
+        "The agency will proceed further to forward the documents along with the claim records/papers to LIC as the branch which has originally finalised in the insurance cover.",
+        "Step 4:",
+        "The Life Insurance Corporation will settle all the claims by sending account Payee Cheque directly to the beneficiary. This intimation has to be furnished to the concerned State Government."
+      ]
+    },
+    "documents_required": [
+      "Proof of Age",
+      "Proof of Income (Income Certificate)",
+      "Proof of Occupation",
+      "Aadhaar",
+      "Bank Details (Aadhaar Seeded)",
+      "Death Certificate / Certificate of Disability (case specific)"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What defines ‘permanent disability’ as per this scheme?",
+      "answer": "For the purpose of this scheme, “permanent disability” means the loss of two eyes or two limbs."
+    },
+    {
+      "question": "What is the maximum financial assistance provided for death due to natural causes?",
+      "answer": "A financial assistance of ₹20,000 is provided for death occurring from a natural cause."
+    },
+    {
+      "question": "Are there any benefits for the children of the applicant?",
+      "answer": "Yes, there is provision for providing scholarship of ₹300 per quarter for children of a Khadi Karigar, studying in 9th to 12th standard, (subject to a maximum of 2 children per family)."
+    },
+    {
+      "question": "I am a 45 year old khadi weaver. I seek to know if I am too old to apply for the scheme?",
+      "answer": "The upper age limit in this scheme is 59 yea₹ You are therefore eligible to apply."
+    },
+    {
+      "question": "Do I need to be from a particular state in order to be eligible for this scheme?",
+      "answer": "The scheme is equally applicable to citizens across all the states of India."
+    },
+    {
+      "question": "Is partial disability covered under this scheme?",
+      "answer": "Yes, partial disability, i.e. loss of one eye or one limb is completely covered in KKJBY."
+    },
+    {
+      "question": "By what means shall I be receiving the benefits of the scheme?",
+      "answer": "The scheme is under the LIC so it will be LIC who issues the benefit to the nominee of the deceased person."
+    },
+    {
+      "question": "I seek to know the breakup of the premium contribution?",
+      "answer": "Artisan - ₹ 12.5, Khadi Institution - ₹ 25, KVIC - ₹ 12.5 Social Security Fund administered by LIC - ₹ 50."
+    },
+    {
+      "question": "Is the application process online?",
+      "answer": "At the moment, the scheme only supports offline process of application."
+    }
+  ]
+}

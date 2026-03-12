@@ -1,0 +1,72 @@
+{
+  "scheme_name": "Assistance for Completely Damaged/Destroyed Houses",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bhavanuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Assistance for Completely Damaged/Destroyed Houses",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Assistance for Completely Damaged/Destroyed Houses” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to individuals whose residential houses have been completely or partially damaged due to natural disasters in Uttarakhand."
+    ],
+    "benefits": [
+      "Under this scheme, the following assistance is provided:",
+      "Pucca house, Kutcha house, severely damaged/destroyed house, or partially damaged/destroyed house: ₹1,20,000/- per house in plain areas.",
+      "For hilly areas (including districts covered under the Integrated Action Plan): ₹1,30,000/- per house.",
+      "Pucca house (other than hut) with at least 15% damage: ₹6,500/- per house.",
+      "Kutcha house (other than hut) with at least 15% damage: ₹4,000/- per house.",
+      "Damaged/destroyed hut: ₹8,000/- per hut. (A “hut” means a temporary, transferable, and below-grade unit constructed with materials such as thatch, mud, or plastic, and is traditionally recognised as a hut by the State/District Administration.) Note: The damaged house must be verified as an authorised construction by the competent authority of the State Government.",
+      "Cattle shed attached to the house: ₹3,000/- per cattle shed."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be the owner of a disaster-affected house."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+      ]
+    },
+    "documents_required": [
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No 307)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to receive assistance under this scheme?",
+      "answer": "Any disaster-affected house owner whose residential house has been completely or partially damaged during a notified natural disaster is eligible for assistance, subject to verification by competent authorities."
+    },
+    {
+      "question": "What types of houses are covered under this scheme?",
+      "answer": "The scheme covers Pucca houses, Kutcha houses, and huts that have been completely or partially damaged or destroyed due to a natural disaster."
+    },
+    {
+      "question": "What is the amount of assistance provided for a completely damaged or destroyed house in plain areas?",
+      "answer": "An amount of ₹1,20,000 per house is provided for Pucca or Kutcha houses that are completely damaged or destroyed in plain areas."
+    },
+    {
+      "question": "What is the amount of assistance provided for a completely damaged or destroyed house in hilly areas?",
+      "answer": "An amount of ₹1,30,000 per house is provided for Pucca or Kutcha houses that are completely damaged or destroyed in hilly areas, including districts covered under the Integrated Action Plan."
+    },
+    {
+      "question": "How much assistance is given for a damaged or destroyed hut?",
+      "answer": "A damaged or destroyed hut is eligible for ₹8,000 per hut as assistance."
+    },
+    {
+      "question": "Is there any assistance for cattle sheds attached to damaged houses?",
+      "answer": "Yes. A cattle shed attached to the house is eligible for ₹3,000 per cattle shed as assistance."
+    },
+    {
+      "question": "What is the process of damage verification?",
+      "answer": "The Patwari of the concerned area verifies the damage and records it in the P-20 form. The report is then verified by the Tehsildar and Sub-Divisional Magistrate (SDM) before being approved by the District Magistrate (DM)."
+    },
+    {
+      "question": "How are the relief funds disbursed to beneficiaries?",
+      "answer": "Once approved by the District Magistrate, the relief funds are disbursed at the Tehsil level directly to the eligible beneficiaries."
+    }
+  ]
+}

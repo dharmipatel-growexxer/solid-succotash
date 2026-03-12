@@ -1,0 +1,97 @@
+{
+  "scheme_name": "Ashram Schools (Scheduled Tribes)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/asst",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Ashram Schools (Scheduled Tribes)",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Ashram Schools\" was launched on 1st January 1966 by the Tribal Welfare and Scheduled Caste (SC) Department of Madhya Pradesh. The scheme provides free accommodation, mess, and education facilities to Scheduled Tribe students."
+    ],
+    "benefits": [
+      "Providing free accommodation, mess, and education facilities."
+    ],
+    "eligibility": [
+      "The student should be a native of Madhya Pradesh.",
+      "The student should belong to the Scheduled Tribe category.",
+      "The student should be studying in a government school in Madhya Pradesh."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System",
+        "MPTAAS portal.",
+        "Step 2:",
+        "Click on \"New Beneficiary Profile",
+        ".\"",
+        "Step 3:",
+        "Fill in all the required details. Fields marked with * are mandatory. Complete the form by entering all necessary information.",
+        "Step 4:",
+        "Upload all required documents, such as ID proof and other relevant certificates.",
+        "Step 5:",
+        "After completing the form and uploading the documents, click \"Submit\".",
+        "Step 6:",
+        "After successful payment and submission, you will receive a registration number.",
+        "Application",
+        "Enter your user ID, password, and captcha code, then click \"Login.\"",
+        "Choose the scheme you wish to apply for to avail the benefits.",
+        "Enter all required information and upload the necessary documents as prompted.",
+        "Finally, click on \"Submit Application\" to complete the process."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste certificate",
+      "Previous class passing certificate/marksheet",
+      "Samagra ID",
+      "Bank account details/Bank Passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Ashram Schools Scheme?",
+      "answer": "The scheme provides free accommodation, mess, and education facilities to Scheduled Tribe students within the same campus in Madhya Pradesh."
+    },
+    {
+      "question": "When was the Ashram Schools Scheme launched?",
+      "answer": "The scheme was launched on 1st January 1966."
+    },
+    {
+      "question": "Who is eligible for the Ashram Schools Scheme?",
+      "answer": "Students who are native to Madhya Pradesh, belong to the Scheduled Tribe category, and are studying in government schools in Madhya Pradesh."
+    },
+    {
+      "question": "What facilities are provided under this scheme?",
+      "answer": "The scheme offers free accommodation, mess, and education facilities for students."
+    },
+    {
+      "question": "Can students from private schools apply for the scheme?",
+      "answer": "No, the scheme is only for students studying in government schools in Madhya Pradesh."
+    },
+    {
+      "question": "Is there an age limit for applicants?",
+      "answer": "There is no specific age limit mentioned for this scheme, but the student must be enrolled in the relevant government school."
+    },
+    {
+      "question": "How can students apply for this scheme?",
+      "answer": "Students can apply through the Tribal Welfare and Scheduled Caste (SC) Department of Madhya Pradesh."
+    },
+    {
+      "question": "Are the facilities provided for both boys and girls?",
+      "answer": "Yes, both boys and girls from the Scheduled Tribe category are eligible to receive benefits under this scheme."
+    },
+    {
+      "question": "How are students selected for the Ashram Schools?",
+      "answer": "Selection is based on the eligibility criteria, and students can apply through the concerned government authorities in Madhya Pradesh."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "scheme_name": "Prime Small Enterprise Empowerment and Development(SEED) Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pseeads",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Prime Small Enterprise Empowerment and Development(SEED) Scheme",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The",
+      "SEED Prime – Small Enterprise Empowerment and Development (SEED) Scheme,",
+      "under the Chief Minister’s ELEVATE Program and implemented by the Planning Department, Government of Meghalaya, aims to empower youth and promote inclusive entrepreneurship across the state. The scheme provides financial support for setting up or expanding small business ventures. It primarily targets the unorganized sector and underserved business activities that contribute significantly to the local economy but have historically lacked institutional support."
+    ],
+    "benefits": [
+      "50% of total project cost supported as upfront subsidy by Government of Meghalaya (₹50,000 max)",
+      "5% of total project cost to be contributed by entrepreneur as own share",
+      "Remaining 45% of project cost eligible for bank loan",
+      "Loan tenure of 2 years with a 3-month moratorium period before EMI begins",
+      "Financial support strictly for asset creation (machinery, equipment), operational or working capital expenses not allowed",
+      "Opportunity to access scheme through single online portal under CM-ELEVATE initiative",
+      "Cash Credit loan option available for eligible beneficiaries",
+      "Support to entrepreneurs from unorganized and underserved sectors with emphasis on creating local employment"
+    ],
+    "eligibility": [
+      "For Individuals:",
+      "The applicant must be between 18 and 58 years of age.",
+      "The applicant must be a permanent resident of Meghalaya.",
+      "The applicant must provide proof of relevant experience in the field related to the proposed project.",
+      "The applicant must substantiate experience through past projects, portfolios, certifications, or testimonials from the village headman.",
+      "The applicant shall not be a credit defaulter with any bank or financial institution.",
+      "The applicant without demonstrated relevant experience will not be considered.",
+      "For Unregistered Entities:",
+      "The unregistered entity must be based in Meghalaya.",
+      "The unregistered entity may include village organizations, self-help groups, traditional communities, or similar groups.",
+      "The unregistered entity must provide proof of relevant experience in the field related to the proposed project.",
+      "The unregistered entity must substantiate experience through past projects, portfolios, certifications, or testimonials from the village headman.",
+      "The unregistered entity shall not be a credit defaulter with any bank or financial institution.",
+      "The unregistered entity without demonstrated relevant experience will not be considered."
+    ],
+    "application_process": {
+      "online": [
+        "Citizen Registration for Member ID",
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.",
+        "Step 2:",
+        "If you are a first-time user, click on “",
+        "Registration for New User",
+        "” and complete the registration process to create your account.",
+        "Step 3:",
+        "Select your Authentication ID from the available options, such as",
+        "PDS (Ration Card)",
+        "Election Photo ID Card (EPIC).",
+        "Step 4:",
+        "Enter your card number, select your name from the displayed list, and click on “Next” to continue.",
+        "Step 5:",
+        "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.",
+        "Step 6:",
+        "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.",
+        "Step 7:",
+        "Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.",
+        "Click on",
+        "“Sign In",
+        "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.",
+        "Enter your User ID and Password, then click on “Login” to access your account.",
+        "After logging in, click on “Apply for Services/Scheme” to start your application.",
+        "Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+      ]
+    },
+    "documents_required": [
+      "Individuals",
+      "Latest Bank Statement (Last 6 months)",
+      "Proof of Identity of Applicant (Voter ID / Passport / Driving License)",
+      "Self Declaration",
+      "Certification or testimonial from Village Headman or experience proof for existing operators (registration, photos, testimonials, etc.)",
+      "PAN Card",
+      "Ration Card of Applicant",
+      "Quotation for equipment to be purchased (must include vendor GST number)",
+      "Unregistered Entities",
+      "Proof of Identity of Applicant (Voter ID / Passport / Driving License) - President & Secretary"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of the scheme?",
+      "answer": "The scheme seeks to empower youth and entrepreneurs from the unorganized and underserved sectors by enabling asset creation, generating local employment, and strengthening small business ecosystems across Meghalaya."
+    },
+    {
+      "question": "Who can apply under the scheme?",
+      "answer": "Eligible applicants include individuals who are permanent residents of Meghalaya and unregistered entities such as village organizations, self-help groups, and traditional community groups based in the state, provided they meet the experience and financial eligibility criteria."
+    },
+    {
+      "question": "What financial assistance is provided under SEED Prime?",
+      "answer": "The Government of Meghalaya provides 50% of the total project cost as an upfront subsidy, subject to a maximum of ₹50,000. The remaining project cost is financed through the entrepreneur’s contribution and bank loan support."
+    },
+    {
+      "question": "What is the beneficiary’s contribution requirement?",
+      "answer": "The entrepreneur must contribute 5% of the total project cost as their own share. This ensures commitment and shared responsibility in the project."
+    },
+    {
+      "question": "How is the remaining project cost financed?",
+      "answer": "After the 50% subsidy and 5% beneficiary contribution, the remaining 45% of the project cost is eligible for financing through a bank loan."
+    },
+    {
+      "question": "What are the loan terms under the scheme?",
+      "answer": "The bank loan has a tenure of 2 years, with a 3-month moratorium period before the Equated Monthly Installments (EMIs) begin, providing initial financial relief to the entrepreneur."
+    },
+    {
+      "question": "What type of expenses are supported under the scheme?",
+      "answer": "The financial assistance is strictly for asset creation, such as machinery and equipment. Operational or working capital expenses are not permitted under the scheme."
+    },
+    {
+      "question": "Is there a restriction on the number of beneficiaries per family?",
+      "answer": "Yes, only one member from a family is eligible to avail benefits under the SEED Prime Scheme."
+    },
+    {
+      "question": "Can unregistered entities apply under the scheme?",
+      "answer": "Yes, unregistered entities such as village organizations and self-help groups based in Meghalaya can apply, provided they meet the eligibility conditions and are not part of the excluded categories."
+    },
+    {
+      "question": "How does the scheme contribute to employment generation?",
+      "answer": "By supporting small enterprises in the unorganized and underserved sectors, the scheme promotes asset creation, encourages entrepreneurship, and generates local employment opportunities across the state."
+    }
+  ]
+}

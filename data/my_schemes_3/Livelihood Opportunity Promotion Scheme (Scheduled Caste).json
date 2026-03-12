@@ -1,0 +1,97 @@
+{
+  "scheme_name": "Livelihood Opportunity Promotion Scheme (Scheduled Caste)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/lopssc",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Livelihood Opportunity Promotion Scheme (Scheduled Caste)",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The Social Welfare Department, Government of Uttarakhand, launched the \"Livelihood Opportunity Promotion Scheme (Scheduled Caste)\" scheme. It aims to promote self-employment and income generation among Scheduled Caste individuals by supporting small businesses and livelihood projects. Under this scheme, financial assistance in the form of bank loans, margin money, and grants is provided to the beneficiaries for projects ranging from ₹50,000/- to ₹2,00,000/-."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Project Cost Limit: ₹50,000/- to ₹2,00,000/-",
+      "Bank Loan: 60% of the project cost",
+      "Margin Money: 30% of the project cost (payable with applicable interest over 60 monthly installments)",
+      "Grant: Maximum of ₹10,000/-",
+      "Beneficiary Contribution:",
+      "No contribution for project cost up to ₹1,00,000/-",
+      "10% contribution for project cost between ₹1,01,000/- and ₹2,00,000/-."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must belong to the Scheduled Caste category.",
+      "The applicant’s age must be between 18 and 50 years.",
+      "The applicant’s annual income must not exceed ₹1,05,600/- for rural areas and ₹1,29,840/- for urban areas."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 1:",
+        "The interested applicant downloads the",
+        "application form",
+        "from the official website.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the office of the Vikas Khand (Block Development) Office.",
+        "Selection Process:",
+        "The application will be forwarded to the District Social Welfare Officer.",
+        "A District-Level Committee, headed by the District Social Welfare Officer, will review the proposals and select beneficiaries."
+      ]
+    },
+    "documents_required": [
+      "Identity & Address Proof (Aadhaar Card, Voter ID / Ration Card / Driving License).",
+      "Caste & Residence Verification (Caste Certificate, Domicile Certificate or valid residential proof )",
+      "Income Proof and Financial Documents.",
+      "Other additional Documents (If require)."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 33)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Only Scheduled Caste residents of Uttarakhand aged between 18 and 50 years."
+    },
+    {
+      "question": "What is the income limit to apply?",
+      "answer": "₹1,05,600 annually for rural applicants; ₹1,29,840 for urban applicants."
+    },
+    {
+      "question": "What kind of projects are allowed?",
+      "answer": "Small-scale business, self-employment, and livelihood-based projects."
+    },
+    {
+      "question": "Is any subsidy or grant provided?",
+      "answer": "Yes, a grant of up to ₹10,000 is provided."
+    },
+    {
+      "question": "What is the contribution required from the applicant?",
+      "answer": "None for projects up to ₹1,00,000; 10% for projects above ₹1,00,000."
+    },
+    {
+      "question": "Is training covered under this scheme?",
+      "answer": "No, training is covered under a separate scheme – Pradhan Mantri Anusuchit Jati Abhyuday Yojana."
+    },
+    {
+      "question": "Where can I get the application form?",
+      "answer": "From the Development Block Office in your area."
+    },
+    {
+      "question": "Who selects the beneficiaries?",
+      "answer": "A district-level committee led by the District Social Welfare Officer."
+    },
+    {
+      "question": "Can I apply online?",
+      "answer": "No, the process is offline through block and district offices."
+    },
+    {
+      "question": "How is the margin money paid back?",
+      "answer": "In 60 monthly installments, with applicable interest."
+    }
+  ]
+}

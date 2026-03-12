@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Microcredit Finance Scheme- Self Help Groups (DAADC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mfs-shg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Microcredit Finance Scheme- Self Help Groups (DAADC)",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Microcredit Finance Scheme- Self Help Groups\" is implemented by the Dr. Ambedkar Antyodaya Development Corporation (DAADC) under the Social Justice and Empowerment Department, Government of Gujarat. It aims to promote self-employment among Scheduled Caste (SC) individuals and Antyodaya Self-Help Groups by providing microloans for starting small-scale businesses. Under this scheme, unemployed individuals from SC communities receive financial assistance to become self-reliant through entrepreneurship."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "Up to ₹50,000/- (maximum ₹5,00,000/-)",
+      "Interest Rate:",
+      "6% annually",
+      "Loan Tenure:",
+      "36 months (3 years)",
+      "State Government Share:",
+      "95% (₹47,500/-)",
+      "Beneficiary Share:",
+      "5% (₹2,500/-)",
+      "Guarantor:",
+      "Not required",
+      "Possible Installment amount :",
+      "₹1,445/- per month."
+    ],
+    "eligibility": [
+      "The applicant must belong to a Scheduled Caste (SC) community.",
+      "The applicant must be part of an Antyodaya (AAY) family.",
+      "The applicant’s annual family income should not exceed ₹3,00,000/-.",
+      "The applicant must be a resident of Gujarat.",
+      "The applicant should be a self-help group of unemployed persons.",
+      "The applicant must be a member of a registered self-help group (SHG) or apply individually with valid business intent."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Dr. Ambedkar Antyodaya Vikas Nigam (SC).",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Now\".",
+        "Step 3:",
+        "Click on the loan scheme name.",
+        "Step 4:",
+        "Select the loan category and fill in the loan amount.",
+        "Step 5:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 6:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 7:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 8:",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Details Copy of Hier",
+      "Business Address Proof",
+      "Identity proof of Applicant",
+      "Passport Size Photos",
+      "School Leaving",
+      "Age Proof",
+      "Birth Certificate",
+      "Caste Certificate",
+      "Income Certificate",
+      "Ration Card"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the maximum loan amount I can get?",
+      "answer": "Up to ₹50,000 for individuals; in some cases, up to ₹5,00,000."
+    },
+    {
+      "question": "Do I need a guarantor to apply?",
+      "answer": "No guarantor is required for this scheme."
+    },
+    {
+      "question": "What is the interest rate on the loan?",
+      "answer": "A fixed interest rate of 4% per annum."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Aadhaar card, caste certificate, bank details, income certificate, etc."
+    },
+    {
+      "question": "How do I apply for the scheme?",
+      "answer": "Apply online through https://daadconline.gujarat.gov.in."
+    },
+    {
+      "question": "Do I need to pay any fees to apply?",
+      "answer": "No, the application is completely free."
+    },
+    {
+      "question": "Can I use the loan for personal purposes?",
+      "answer": "No, it must be used for setting up a business."
+    },
+    {
+      "question": "Can residents of other states apply?",
+      "answer": "No, only permanent residents of Gujarat are eligible."
+    }
+  ]
+}

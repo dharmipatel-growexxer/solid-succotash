@@ -1,0 +1,101 @@
+{
+  "scheme_name": "Boarding House Stipend Scheme (Tripura Govt.)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bhsstg",
+  "location_name": "Tripura",
+  "location_type": "state",
+  "page_title": "Boarding House Stipend Scheme (Tripura Govt.)",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Boarding House Stipend\" by the Tribal Welfare Department, Government of Tripura, aims to provide accommodation to ST boys and girls in hostels from remote areas, provide residential facilities to ST students whose residence is beyond 3 km of the school, and reduce dropout rates. Through this scheme, a Boarding House Stipend per day per student (inclusive of LPG subsidy and sweeping/cleaning allowance per day) is provided, covering up to 322 days (approximately 10 months) in an academic year to students from Class I to XII accommodated in Government-run hostels and approved NGO-run boarding houses. The scheme is implemented by the Tribal Welfare Department, Government of Tripura.",
+      "Objectives:",
+      "To provide accommodation to the ST boys and girls in the hostels hailing from remote areas.",
+      "To provide residential facilities to the ST student whose resident is beyond 3 km of the School.",
+      "To reduce the dropout rate."
+    ],
+    "benefits": [
+      "Boarding House Stipend at ₹ 65/- per day per student, covering LPG subsidy, and sweeping/cleaning at ₹ 1/- per day.",
+      "Provided for 322 days per academic year (approximately 10 months) in an academic year to the students from Class-I to Class-XII who are given accommodation in government-run hostels and approved NGO run Boarding Houses."
+    ],
+    "eligibility": [
+      "The applicant’s residence must be the resident of Tripura.",
+      "The applicant should be an ST student studying in classes I to XII.",
+      "The applicant’s residence must be beyond 3 km from the school.",
+      "The applicant must be accommodated in a Government-run hostel or an approved NGO-run boarding house."
+    ],
+    "application_process": {
+      "offline": [
+        "The concerned DM/SDM will collect the list of students from the Govt. run hostel and approved NGO-run Boarding Houses and send the list to the Directorate of Tribal Welfare."
+      ]
+    },
+    "documents_required": [
+      "Caste certificate",
+      "Ration Number",
+      "Aadhaar Number",
+      "Parent's Mobile Number",
+      "School admission Document / School ID Card",
+      "Income Certificate."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The Boarding House Stipend scheme is an initiative of the Tribal Welfare Department, Government of Tripura, to provide financial support for accommodation to Scheduled Tribe (ST) students staying in hostels."
+    },
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "ST students from Class I to XII who stay in Government-run hostels or approved NGO-run boarding houses are eligible for this scheme."
+    },
+    {
+      "question": "How much financial support is given under this scheme?",
+      "answer": "Each eligible student receives ₹65/- per day, which includes expenses for LPG, sweeping, and cleaning."
+    },
+    {
+      "question": "For how many days in a year is the stipend provided?",
+      "answer": "The stipend is provided for 322 days, which covers about 10 months of the academic year."
+    },
+    {
+      "question": "Why was this scheme launched?",
+      "answer": "The scheme was launched to provide hostel accommodation to ST students from remote areas, ensure residential facilities for those living more than 3 km from school, and reduce dropout rates."
+    },
+    {
+      "question": "What are the different types of hostels covered under this scheme?",
+      "answer": "The scheme covers State Government-run ST hostels, Tripura Tribal Areas Autonomous District Council (TTAADC) run ST hostels, Tripura Tribal Welfare Residential Educational Institution Society (TTWREIS) hostels, and NGO-run ST hostels."
+    },
+    {
+      "question": "How many State Government-run ST hostels are there under this scheme?",
+      "answer": "There are 161 State Government-run ST hostels, including 100 for boys and 61 for girls."
+    },
+    {
+      "question": "Are NGO-run hostels also covered under this scheme?",
+      "answer": "Yes, the scheme also extends benefits to ST students staying in 143 NGO-run hostels approved by the department."
+    },
+    {
+      "question": "What are the specific objectives of the Boarding House Stipend scheme?",
+      "answer": "The objectives are to provide hostel accommodation for ST students from remote areas, give residential facilities to those living beyond 3 km from school, and reduce dropouts."
+    },
+    {
+      "question": "Is there a distance requirement to be eligible for this scheme?",
+      "answer": "Yes, the student’s residence must be located more than 3 km away from the school."
+    },
+    {
+      "question": "Do students in lower classes also get this benefit?",
+      "answer": "Yes, the scheme covers students from Class I up to Class XII."
+    },
+    {
+      "question": "What documents are required to apply for the scheme in NGO-run hostels?",
+      "answer": "Applicants need an ST Certificate, Ration Number, Aadhaar Number, Parent’s Mobile Number, School Admission Document or School ID Card, and Income Certificate."
+    },
+    {
+      "question": "Does the stipend include cleaning and fuel costs?",
+      "answer": "Yes, the stipend of ₹65/- per day includes ₹1 per day for sweeping and cleaning, along with LPG subsidy."
+    },
+    {
+      "question": "How long can a student receive this stipend in one academic year?",
+      "answer": "A student can receive the stipend for 322 days in an academic year while staying in an eligible hostel."
+    }
+  ]
+}

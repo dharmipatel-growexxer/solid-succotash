@@ -1,0 +1,101 @@
+{
+  "scheme_name": "Construction Workers Night Shelter Scheme (MPBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cwnss",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Construction Workers Night Shelter Scheme (MPBOCWWB)",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The \"Construction Workers Night Shelter Scheme\" by the Labour Department, Government of Madhya Pradesh provides for the construction of night shelters in urban areas and large Gram Panchayats. These shelters are intended for construction workers and their dependent family members who temporarily relocate from other places for work."
+    ],
+    "benefits": [
+      "Night shelters for construction workers and their families."
+    ],
+    "eligibility": [
+      "For Registration",
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should be a Building/ Construction Worker.",
+      "The applicant should be between 18 and 60 years.",
+      "The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months.",
+      "The registration of the applicant should be renewed annually.",
+      "For Application",
+      "The applicant should be a Construction worker.",
+      "The Construction worker and their family members should possess valid identity cards.",
+      "The Construction worker and their family members should have temporarily relocated from other places for work."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Commissioner Municipal Corporation / Chief Municipal Officer Nagar palika / Nagar Panchayat and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof (e.g., Aadhaar Card)",
+      "Passport-size Photograph",
+      "Proof of Residence (e.g., Utility bill, Voter ID, etc.)",
+      "Ration Card (optional)",
+      "Bank Account Details (e.g., Copy of Bank Passbook)",
+      "Caste Certificate (if applicable)",
+      "Undertaking/Declaration",
+      "Age Certificate",
+      "Valid Identity Cards",
+      "Employment Certificate",
+      "Signature",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Labour Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the night shelter under this scheme?",
+      "answer": "Construction workers and their family members holding valid identity cards."
+    },
+    {
+      "question": "Where will the night shelters be built?",
+      "answer": "Night shelters will be built in urban bodies and large Gram Panchayats where construction workers temporarily stay for work."
+    },
+    {
+      "question": "How is the site for night shelters selected?",
+      "answer": "A district-level committee, including various local officials, selects the site and determines the shelter's capacity."
+    },
+    {
+      "question": "What costs are covered by the scheme for the night shelter?",
+      "answer": "Costs for building construction, decoration, furniture, bedding, lockers, and other essentials."
+    },
+    {
+      "question": "How is the funding for night shelters provided?",
+      "answer": "The Board provides the amount in two installments as a non-recurring expenditure grant, based on the recommendations of the committee."
+    },
+    {
+      "question": "What is the funding limit for major cities?",
+      "answer": "₹25 lakh for four metro cities: Bhopal, Gwalior, Indore, and Jabalpur."
+    },
+    {
+      "question": "What is the funding limit for other Municipal Corporations?",
+      "answer": "₹2 million for other Municipal Corporations."
+    },
+    {
+      "question": "What is the funding limit for Municipalities?",
+      "answer": "₹1.5 million for Municipalities."
+    },
+    {
+      "question": "How much funding is provided for Nagar Panchayats?",
+      "answer": "₹10 lakh for Nagar Panchayats."
+    },
+    {
+      "question": "What is the funding limit for Gram Panchayats?",
+      "answer": "₹10 lakh for Gram Panchayats, with conditions based on population and construction activity."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Rehabilitation of Sick Enterprises",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/samsmerse",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Rehabilitation of Sick Enterprises",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Scheme for Assistance to Micro, Small and Medium Enterprises (MSME)\" is an umbrella scheme launched by the Industries and Mines Department, Gujarat. It aims to empower the state's dynamic MSME sector, which significantly contributes to employment, GDP, and exports. Effective from August 7th, 2020 to August 6th, 2025, this initiative supports entrepreneurs and strengthens MSMEs, making them globally competitive.",
+      "The component \"Rehabilitation of Sick Enterprises\" aims to support MSME sick industrial enterprises that meet the RBI's criteria for sickness."
+    ],
+    "benefits": [
+      "Financial Reimbursement:",
+      "50% of the cost of preparing the Draft Rehabilitation Scheme is reimbursed, up to a maximum of ₹1,00,000/-."
+    ],
+    "eligibility": [
+      "The enterprise must be an MSME (Micro, Small, or Medium Enterprise).",
+      "The enterprise must satisfy the RBI guidelines for sickness.",
+      "The application must be submitted with audited balance sheets for verification."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step-1:",
+        "Visit the",
+        "Investor Facilitation Portal (IFP)",
+        "portal. Click on \"New Investor Registration\" to access the registration form.",
+        "Step-2:",
+        "Fill in the Registration Form. Click on \"Submit\".",
+        "Step-3:",
+        "Verify the E-mail ID using the link sent on your registered E-mail ID.",
+        "Step-4:",
+        "After verification, you will be registered successfully.",
+        "Post-Registration Process:",
+        "portal. Click on \"Login\".",
+        "Enter the email address and password you used during registration.",
+        "Click the \"Login\" button to access your account.",
+        "Now fill in the required details and mandatory documents about your business to complete the application process.",
+        "Helpdesk:",
+        "Contact Here."
+      ]
+    },
+    "documents_required": [
+      "For General Purpose Registration:",
+      "Application form in prescribed format",
+      "Copy of constitution of enterprise i.e partnership deed/ Article of Association/",
+      "Memorandum of Association, ROC certificate etc.",
+      "Copy of EM Part II registration or Udhyog Aadhar.",
+      "Last three years Audited Balance Sheet and Profit Loss account.",
+      "CA certificate for fulfillment of RBI guideline of sick unit by the Enterprise",
+      "For Assistance for Diagnostic Study Report:",
+      "Letter of Government Department / Bank/ Financial Institution who recommended to prepare diagnostic study report for rehabilitation of enterprise.",
+      "Copy of letter of confirmation by Expert/ Expert Agency agreed to prepare diagnostic study report with cost for preparation of report.",
+      "Copy of receipt of payment by Expert/ Expert Agency.",
+      "Copy of diagnostic study report submitted by Expert/ Expert Agency."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Scheme for Assistance to Micro, Small and Medium Enterprises (MSME)\"?",
+      "answer": "The \"Scheme for Assistance to Micro, Small and Medium Enterprises (MSME)\" aims to position Gujarat as a global business destination by promoting sustainable manufacturing, inclusive development, and balanced regional growth."
+    },
+    {
+      "question": "What is the duration of the scheme?",
+      "answer": "The scheme is effective from August 7, 2020, and will remain in operation until August 6, 2025."
+    },
+    {
+      "question": "What is the objective of the component \"Rehabilitation of Sick Enterprises\"?",
+      "answer": "The component \"Rehabilitation of Sick Enterprises\" is designed to identify and support MSME sick industrial enterprises that meet the RBI's criteria for sickness. It provides recognition of sick status and partial reimbursement for diagnostic report preparation."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Any MSME industrial enterprise that meets the RBI's criteria for sickness and has audited financial records proving its financial distress is eligible to apply."
+    },
+    {
+      "question": "What benefits does the scheme provide?",
+      "answer": "The scheme provides recognition as a sick enterprise and offers financial assistance of up to 50% of the cost of a diagnostic report, with a maximum limit of ₹1 lakh."
+    },
+    {
+      "question": "Does receiving sick enterprise registration guarantee financial assistance from the government?",
+      "answer": "No, the registration only certifies that the enterprise is sick according to RBI guidelines. Financial assistance, if any, must be sought from banks or financial institutions based on their prevailing policies."
+    },
+    {
+      "question": "How does an enterprise prove that it qualifies as sick?",
+      "answer": "An enterprise must submit audited balance sheets and financial statements demonstrating that it meets the RBI's criteria for sickness."
+    },
+    {
+      "question": "Can a newly established enterprise apply for sick enterprise registration?",
+      "answer": "No, only enterprises with financial records proving sustained financial distress over time are eligible for registration."
+    },
+    {
+      "question": "Are service-based MSMEs eligible for the scheme?",
+      "answer": "No, the scheme is specifically designed for industrial MSMEs and does not cover service-based enterprises."
+    }
+  ]
+}

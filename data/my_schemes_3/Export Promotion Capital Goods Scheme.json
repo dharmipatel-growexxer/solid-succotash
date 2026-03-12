@@ -1,0 +1,112 @@
+{
+  "scheme_name": "Export Promotion Capital Goods Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/epcg",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Export Promotion Capital Goods Scheme",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "EPCG Scheme allows import of capital goods (except those specified in negative list in Appendix 5 F) for preproduction, production and post-production at zero customs duty. Capital goods imported under EPCG Authorisation for physical exports are also exempt from IGST and Compensation Cess, leviable thereon under the subsection (7) and subsection (9) respectively, of section 3 of the Customs Tariff Act, 1975 (51 of 1975), as provided in the notification issued by Department of Revenue. Alternatively, the Authorisation holder may also procure Capital Goods from indigenous sources in accordance with provisions of paragraph 5.07 of FTP. Capital goods for the purpose of the EPCG scheme shall include:",
+      "Capital Goods as defined in Chapter 11 including in CKD/SKD condition thereof;",
+      "Computer systems and software which are a part of the Capital Goods being imported;",
+      "Spares, moulds, dies, jigs, fixtures, tools & refractories; and",
+      "Catalysts for initial charge plus one subsequent charge.",
+      "Import under EPCG Scheme shall be subject to an Export Obligation (EO) equivalent to 6 times of duties, taxes and cess saved on capital goods, to be fulfilled in 6 years reckoned from date of issue of Authorisation.",
+      "Import/procurement under EPCG scheme shall also be subjected to Average Export Obligation (AEO) as given in para 5.04(c) of FTP.",
+      "Authorisation shall be valid for import for 24 months from the date of issue of Authorisation. Revalidation of EPCG Authorisation shall not be permitted.",
+      "In case Integrated Tax and Compensation Cess are paid in cash on imports under EPCG, incidence of the said Integrated Tax and Compensation Cess would not be taken for computation of net duty saved provided Input Tax Credit is not availed.",
+      "Import of items which are restricted for import shall be permitted under EPCG Scheme only after approval from Exim Facilitation Committee (EFC) at DGFT Headquarters.",
+      "If the goods proposed to be exported under EPCG Authorisation are restricted for export, the EPCG Authorisation shall be issued only after approval for issuance of Export Authorisation from Exim Facilitation Committee (EFC) at DGFT Headquarters.",
+      "EPCG scheme covers manufacturer exporters with or without supporting manufacturer(s), merchant exporters tied to supporting manufacturer(s) and service providers. Name of supporting manufacturer(s) shall be endorsed on the EPCG Authorisation before installation of the capital goods in the factory / premises of the supporting manufacturer(s). In case of any change in supporting manufacturer(s), the RA shall intimate such change to jurisdictional Customs Authority of existing as well as changed supporting manufacturer(s) and the Customs at port of registration of Authorisation"
+    ],
+    "benefits": [
+      "EPCG Scheme allows import of capital goods for pre-production, production and post-production at Zero customs duty & IGST.",
+      "The specific export obligation may be reduced for the EPCG authorisation holder, in the following cases:",
+      "In cases, where they have completed 75% or more of specific export obligation and 100% of average export obligation till date (if any), in half or less than half of the original export obligation period specified. Then exemption will provided, remaining export obligation shall be condoned and the authorisation be redeemed by the RA concerned.",
+      "For exporters of Green Technology Products.Exmption will be provide Specific EO shall be 75% of the EO.",
+      "For units located in Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura and Jammu and Kashmir.Exemption will be given Specific EO shall be 25% of the EO."
+    ],
+    "eligibility": [
+      "Pre-conditions for applying for EPCG:",
+      "IEC Entity has already Imported Items by paying customs duty.",
+      "The applicant has an ‘Active’ IEC and is logged into the DGFT Customer Portal.",
+      "E-Sign and DSC are enabled for submission.",
+      "The applicant is authorised to draft and submit applications for an IEC.",
+      "GSTN details corresponding to the branches of the IEC. The same may be added from Services > IEC Profile Management > Modify IEC."
+    ],
+    "application_process": {
+      "online": [
+        "Application Link:",
+        "www.dgft.gov.in",
+        "Importer Exporter navigates through Services>>EPCG",
+        "Steps to apply for EPCG file number are as follows:",
+        "Login to the portal with valid credentials and click on ‘Services’menu present in the top of the screen"
+      ]
+    },
+    "documents_required": [
+      "EPCG and Post Export EPCG",
+      "Following are the list of documents/attachments that are mandatory to apply for the issuance of an EPCG authorisation:",
+      "Self-certified copy of MSME/IEM/LOI/IL in case of products or a self-certified copy of Service Tax Registration in case of Service Providers. (In case of Service Providers, who are not registered with Service Tax authorities, a declaration in this regard will be submitted as a part of the application (declaration no. 6); service tax registration is not required to be submitted. In such cases, RCMC from the EPC concerned will suffice.",
+      "Certificate from a Chartered Engineer in the format given in Appendix 5A.",
+      "Certificate from a Chartered Accountant/Cost Accountant/Company Secretary in the format given in Appendix 5 B.",
+      "In case of Import of spares, tools, refractories and catalyst for existing plant and machinery, a list of plant/machinery imported and already installed in the factory/premises of the applicant firm/ supporting manufacturer for which the above items are required, duly certified by a Chartered Engineer or jurisdictional Central Excise authority.",
+      "In case of EPCG applications made by EOU/SEZ units, a self-certified copy of the ‘No Objection Certificate’ from the Development Commissioner concerned showing the details of the capital goods imported/indigenously procured by the applicant firm, its value at the time of import/sourcing and the depreciated value for assessment of duty under the Scheme is to be submitted.",
+      "Amendment",
+      "Certificate from a Chartered Engineer in the format given in Appendix 5A in case of any additions/deletions of import/export items.",
+      "In case CG sought to be imported/item to be exported is under restricted category, a copy of clearance by EFC shall be uploaded, and EPCG Authorization that shall be issued by RA and will bear an endorsement that EFC has approved the issue of EPCG Authorization for restricted CG/export item.",
+      "Invalidation",
+      "• An EPCG Performa invoice of the Indigenous item intended to be invalidated.",
+      "Closure",
+      "Following are the list of documents/attachments that are mandatory to apply for the closure of an EPCG authorisation:",
+      "• TR-6 Challan for cases of regularisation.",
+      "• Certificate from a Chartered Accountant in the format given in Appendix 5C."
+    ],
+    "sources_and_references": [
+      "User Help File EPCG Module Version 0.3",
+      "EPCG FAQs"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What does EPCG stand for and what is the benefit of an EPCG authorisation?",
+      "answer": "EPCG stands for Export Promotion Capital Goods. The objective of this scheme is to facilitate the import of capital goods to produce quality goods and services to enhance India’s export competitiveness. EPCG scheme allows import of capital goods for pre-production, production, and post-production at zero customs duty."
+    },
+    {
+      "question": "Who can benefit from the EPCG Scheme?",
+      "answer": "Manufacturer exporters with or without supporting manufacturer(s), merchant exporters tied to supporting manufacturer(s) and service provider(s), and service providers. Refer to FTP and HBP for the latest details."
+    },
+    {
+      "question": "If my IEC is in DEL/cancelled/suspended, am I eligible to apply for the EPCG authorisation?",
+      "answer": "If your IEC is in DEL, you shall be allowed to proceed with the submission of your request for issuance of an EPCG authorisation; however, your application shall only be actioned upon once your IEC is removed from DEL. If your IEC is cancelled/suspended, you shall not be allowed to proceed with the submission of your request for the issuance of an EPCG authorisation."
+    },
+    {
+      "question": "How is my export obligation period divided into blocks?",
+      "answer": "Your export obligation period is defined for six years from the date of issuance of the authorisation. These six years are divided into two blocks, namely, the first block and the second block. The first block period is for the first four years from the date of issuance of the authorisation. Whereas, the following two years are known to be the second block period of your authorisation."
+    },
+    {
+      "question": "Is there a time period for amendment of an issued authorisation?",
+      "answer": "An authorisation may only be allowed for amendment until its import validity period. No authorisations shall be permitted for amendment post the validity period of the authorisation."
+    },
+    {
+      "question": "What is the significance of initial and revised value of my authorisation validity dates?",
+      "answer": "The initial and the revised values of the authorisation validity dates show the import and export validity dates as per the issued authorisations and amended validity dates (if any). If no extensions have been granted against the selected authorisation, the initial and the revised values shall be the same."
+    },
+    {
+      "question": "What is the application fee for amendment?",
+      "answer": "One per thousand for differential duty saved amount to be enhanced in addition to a flat fee of INR 200/- for amendment to the issued authorisation. No additional fee is required if the maximum prescribed fee has been paid initially."
+    },
+    {
+      "question": "Why can’t I decrease my import quantity of an item?",
+      "answer": "You can only decrease the quantities of imported items if the bill of entries of these items already exists in the Shipping Bill Repository, i.e., post importing the item, you shall not be allowed to decrease the quantity of the item."
+    },
+    {
+      "question": "What are the benefits of domestic sourcing?",
+      "answer": "You may be allowed a benefit of 25% in your specific Export Obligation for domestic sourcing."
+    },
+    {
+      "question": "What is an installation certificate?",
+      "answer": "An installation certificate is proof of the installation of capital goods at the said factory/premises of the authorisation holder or the supporting manufacturer of the authorisation holder. This certificate may be obtained from the jurisdictional customs authority or an independent chartered engineer."
+    }
+  ]
+}

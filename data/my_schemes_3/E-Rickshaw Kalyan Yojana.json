@@ -1,0 +1,76 @@
+{
+  "scheme_name": "E-Rickshaw Kalyan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/erky",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "E-Rickshaw Kalyan Yojana",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme “E-Rickshaw Kalyan Yojana” was launched by the Cooperative Department, Government of Uttarakhand. The scheme aims to promote self-employment among unemployed youth in the state by providing affordable loans for the purchase of e-rickshaws, thereby enhancing their livelihoods."
+    ],
+    "benefits": [
+      "Under this scheme, loans are provided to unemployed youth for the purchase of e-rickshaws at an annual interest rate of 9%. Additionally, under the Pradhan Mantri Suraksha Bima Yojana, savings account holders receive an insurance cover of ₹2.00 lakh for an annual premium of ₹12/-.",
+      "Beneficiaries aged between 18 and 50 can also avail benefits under the Pradhan Mantri Jeevan Jyoti Bima Yojana by paying a premium of ₹330/- through their savings accounts."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant should be currently unemployed.",
+      "The applicant must possess a valid driving license.",
+      "The applicant must not be more than 55 years of age."
+    ],
+    "application_process": {
+      "offline": [
+        "To obtain a loan for purchasing an e-rickshaw, applicant must visit the nearest cooperative bank and collect the application form. It is mandatory for the applicant to open an account with the respective cooperative bank, and both the applicant and two guarantors must be designated as nominal members of the bank.",
+        "The application form must be submitted along with the following documents: a dealer’s quotation, details of two guarantors, a permanent residence certificate, Aadhaar card, bank account statement from the relevant bank, voter ID card with a local address, electricity or water bill in the applicant’s name, and a valid driving license. Unemployed individuals residing in urban, semi-urban, or rural areas who are renting a house must also provide a tenancy certificate along with the Uttarakhand Permanent Resident Certificate.",
+        "Once the application and documents are submitted, the bank reviews and approves the loan. Upon approval, the bank disburses the funds directly to the dealer. The applicant is then required to repay the loan in daily or monthly installments, along with interest at an annual rate of 9%."
+      ]
+    },
+    "documents_required": [
+      "Dealer’s quotation for the e-rickshaw",
+      "Details of two guarantors",
+      "Permanent Residence Certificate",
+      "Aadhaar Card",
+      "Bank account statement from the relevant cooperative bank",
+      "Voter ID card with local address",
+      "Electricity bill or water bill in the applicant’s name",
+      "Valid driving license",
+      "Tenancy certificate (for applicants renting a house)",
+      "Uttarakhand Permanent Resident Certificate (mandatory for all applicants)"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 190)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Unemployed youth who are permanent residents of Uttarakhand, aged below 55 years, and possessing a valid driving license are eligible."
+    },
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "The scheme aims to enhance livelihoods by supporting self-employment and entrepreneurship through the purchase of e-rickshaws."
+    },
+    {
+      "question": "What is the interest rate on the loan?",
+      "answer": "Loans are provided at an annual interest rate of 9%."
+    },
+    {
+      "question": "How can I apply for a loan under this scheme?",
+      "answer": "Applicants must visit the nearest cooperative bank, obtain the application form, open an account, and submit the required documents."
+    },
+    {
+      "question": "Is there any insurance benefit under the scheme?",
+      "answer": "Yes. Under the Pradhan Mantri Suraksha Bima Yojana, savings account holders receive an insurance cover of ₹2.00 lakh for an annual premium of ₹12/-. Additionally, beneficiaries aged 18–50 can avail of Pradhan Mantri Jeevan Jyoti Bima by paying a premium of ₹330/-."
+    },
+    {
+      "question": "Can applicants from rural areas apply?",
+      "answer": "Yes, unemployed youth from urban, semi-urban, and rural areas are eligible."
+    },
+    {
+      "question": "How will the loan amount be disbursed?",
+      "answer": "Upon approval, the bank disburses the loan amount directly to the dealer from whom the e-rickshaw is purchased."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "scheme_name": "Loans and Advances for Construction of a House",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/lach",
+  "location_name": "Manipur",
+  "location_type": "state",
+  "page_title": "Loans and Advances for Construction of a House",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The \"Loans and Advances for Construction of a House\" scheme by the Manipur Building and Other Construction Workers' Welfare Board provides financial support to registered construction workers to build their own houses. Beneficiaries can avail loans based on their skill level, with amounts ranging from ₹1,00,000/- to ₹2,00,000/-. The loan carries a 5% simple interest, with a 5-year repayment period, and the worker must submit a completion certificate within six months of receiving the loan."
+    ],
+    "benefits": [
+      "Financial assistance for house construction for building workers:",
+      "Unskilled Labour: ₹1,00,000/-.",
+      "Simi-Skilled Labour: ₹1,50,000/-.",
+      "Skilled Labour: ₹2,00,000/-.",
+      "Rate of Interest:",
+      "Simple interest rate of 5% per annum.",
+      "Repayment:",
+      "5-year repayment period with monthly installments."
+    ],
+    "eligibility": [
+      "The construction worker should be registered under the Manipur Building and Other Construction Workers' Welfare Board.",
+      "The construction worker should have an active labor card.",
+      "The construction must execute a surety bond."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should visit (during office hours) the Manipur Building and Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant visits the",
+        "official website",
+        "and downloads the",
+        "application form",
+        ".",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labour Board Inspector",
+        "Step-4:",
+        "Request a receipt or acknowledgement from the Labour Board Inspector to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "The applicant submits the surety bond to the board.",
+        "The completion certificate shall be submitted to the Board by the beneficiary building worker within six months from the date of Drawal of the Loan or Advance."
+      ]
+    },
+    "documents_required": [
+      "Certificate of Registration.",
+      "Payment Receipt of the Last Contribution.",
+      "Estimate Cost Copy of the House Construction.",
+      "Sanction Order Copy (granting loan/advance for construction of house in respect of the subsidy up to 25% of the amount of loan/advance received).",
+      "Aadhaar Card of the applicant and construction worker.",
+      "First Page of Bank Passbook."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the maximum loan amount under this scheme?",
+      "answer": "Up to ₹2,00,000 depending on the skill level of the beneficiary."
+    },
+    {
+      "question": "What is the interest rate for the loan?",
+      "answer": "The loan carries a simple interest rate of 5% per annum."
+    },
+    {
+      "question": "Who is eligible for the house construction loan?",
+      "answer": "Registered building workers with an active labor card are eligible."
+    },
+    {
+      "question": "What is the repayment period for the loan?",
+      "answer": "The loan must be repaid within 5 years."
+    },
+    {
+      "question": "What happens if I fail to repay the loan on time?",
+      "answer": "Legal action may be taken by the Board if loan conditions are not fulfilled."
+    },
+    {
+      "question": "What documents are required for applying?",
+      "answer": "A valid labor card, completed loan form, and surety bond are required."
+    },
+    {
+      "question": "Is there a penalty for not submitting a completion certificate?",
+      "answer": "Yes, failure to submit the certificate within six months can lead to legal consequences."
+    },
+    {
+      "question": "How is the loan amount decided?",
+      "answer": "The loan amount is based on the skill level of the worker: unskilled, semi-skilled, or skilled."
+    },
+    {
+      "question": "How do I apply for the loan?",
+      "answer": "Apply through the Board with a completed form and surety bond."
+    },
+    {
+      "question": "What is the purpose of the surety bond?",
+      "answer": "The surety bond is a legal agreement for loan repayment."
+    },
+    {
+      "question": "When does the repayment of the loan start?",
+      "answer": "The repayment begins as per the Board's specified installment schedule."
+    }
+  ]
+}

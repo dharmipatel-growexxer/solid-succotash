@@ -1,0 +1,88 @@
+{
+  "scheme_name": "Atal Awas Yojana - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/aayu",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Atal Awas Yojana - Uttarakhand",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The scheme 'Atal Awas Yojana' has been implemented by the Social Welfare Department, Government of Uttarakhand, to provide financial assistance for the construction of houses in both hilly and plain areas of the state. Under this scheme, financial assistance is provided to homeless Scheduled Caste families who are below the poverty line (BPL) or fall within a defined income limit for constructing a house. The beneficiaries should not own any house and should possess their own land within the state."
+    ],
+    "benefits": [
+      "Financial Assistance",
+      "₹1,30,000/- for hilly areas",
+      "₹1,20,000/- for plain areas",
+      "Note:",
+      "The amount is disbursed in 3 installments to construct a house."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Uttarakhand.",
+      "The applicant should belong to a Scheduled Caste family.",
+      "The applicant should belong to the Below Poverty Line (BPL) category or have an annual income not exceeding ₹48,000/-.",
+      "The applicant should not have their own house.",
+      "The applicant should have their own land for constructing a house."
+    ],
+    "application_process": {
+      "offline": [
+        "Every year, targets are assigned to the districts. The districts allocate targets to the development blocks on the basis of population. Applications are received at the development block level.",
+        "It is mandatory to attach the caste certificate, income certificate, photograph, Aadhaar card, CBS Aadhaar-seeded/linked bank account details, and property documents with the application.",
+        "The application forms are verified by the Village Development Officer/Gram Panchayat Development Officer, after which a priority list is prepared at the block development level. From the applications received, eligible beneficiaries are selected by a committee comprising the Chief Development Officer, Block Development Officer, and District Social Welfare Officer. Thereafter, the District Social Welfare Officer initiates the process of fund allocation as per the committee’s recommendations."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Caste Certificate",
+      "Income Certificate",
+      "Aadhaar Card",
+      "CBS-Linked Bank Passbook Copy",
+      "Land Ownership Documents",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 2)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What benefit does the scheme offer?",
+      "answer": "Financial assistance of ₹1,20,000 (Plain areas) to ₹1,30,000 (Hilly areas) for house construction."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Scheduled Caste families with an income below ₹48,000 and who do not own a pucca house."
+    },
+    {
+      "question": "How is the amount disbursed?",
+      "answer": "In 3 installments, through DBT into the beneficiary’s Aadhaar-linked bank account."
+    },
+    {
+      "question": "Is there any income limit?",
+      "answer": "Yes, annual income should not exceed ₹48,000."
+    },
+    {
+      "question": "Is this scheme available in urban areas?",
+      "answer": "No, it primarily targets rural Scheduled Caste families."
+    },
+    {
+      "question": "How long does it take to get the funds?",
+      "answer": "After verification and approval, installments are disbursed as construction progresses."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "At your local Block Development Office."
+    },
+    {
+      "question": "What documents are needed?",
+      "answer": "Caste certificate, income certificate, Aadhar card, land papers, photo, and bank details."
+    },
+    {
+      "question": "How are applicants selected?",
+      "answer": "A district-level committee selects beneficiaries from verified applications."
+    },
+    {
+      "question": "Whom to contact for assistance?",
+      "answer": "Contact the Village Development Officer or the Block Development Officer in your area."
+    }
+  ]
+}

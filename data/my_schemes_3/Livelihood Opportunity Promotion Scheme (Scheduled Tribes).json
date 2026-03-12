@@ -1,0 +1,103 @@
+{
+  "scheme_name": "Livelihood Opportunity Promotion Scheme (Scheduled Tribes)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/lopsst",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Livelihood Opportunity Promotion Scheme (Scheduled Tribes)",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Livelihood Opportunity Promotion Scheme (Scheduled Tribe)\" scheme was launched by the Social Welfare Department, Government of Uttarakhand. It aims to promote sustainable self-employment and income generation among Scheduled Tribe individuals by supporting viable livelihood projects. Under this scheme, financial assistance, including a bank loan is provided to the beneficiaries for setting up income-generating units with a total project cost between ₹50,000 and ₹2,00,000."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Project Cost: Between ₹50,000/- and ₹2,00,000/-.",
+      "Bank Loan: 60% of the project cost",
+      "Margin Money: 30% of the project cost, repayable at 7% annual interest in 60 monthly installments",
+      "Grant: Up to ₹50,000/-.",
+      "Beneficiary Contribution:",
+      "No contribution for project cost up to ₹1,00,000/-",
+      "10% contribution for project cost between ₹1,01,000/- and ₹2,00,000/-"
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must belong to the Scheduled Tribe (ST) category.",
+      "The applicant's age must be between 18 and 50 years.",
+      "The applicant’s annual family income should not exceed ₹2,50,000/-."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 1:",
+        "The interested applicant downloads the",
+        "application form",
+        "from the official website.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the office of the Vikas Khand (Block Development) Office.",
+        "Selection Process:",
+        "The application will be forwarded to the District Social Welfare Officer.",
+        "A District-Level Committee, headed by the District Social Welfare Officer, will review the proposals and select beneficiaries."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Voter ID",
+      "Aadhaar Card",
+      "Disability Certificate (If applicable)",
+      "Caste Certificate (If applicable)",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 33)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Only Scheduled Tribe residents of Uttarakhand aged 18 to 50 years."
+    },
+    {
+      "question": "What is the income eligibility for this scheme?",
+      "answer": "Annual income should not exceed ₹2,50,000."
+    },
+    {
+      "question": "What is the range of project cost allowed under the scheme?",
+      "answer": "The range is from ₹50,000 to ₹2,00,000."
+    },
+    {
+      "question": "Is a grant included in the scheme?",
+      "answer": "Yes, up to ₹50,000 is provided as a grant."
+    },
+    {
+      "question": "What is margin money and how is it paid back?",
+      "answer": "30% of the project cost, repayable at 7% interest over 60 months."
+    },
+    {
+      "question": "Do I need to invest my own money?",
+      "answer": "No, if the project cost is up to ₹1,00,000. For higher costs, 10% contribution is required."
+    },
+    {
+      "question": "What kind of projects can be funded?",
+      "answer": "Self-employment and livelihood-based projects such as small businesses or services."
+    },
+    {
+      "question": "Where do I apply for the scheme?",
+      "answer": "At your local Development Block Office in Uttarakhand."
+    },
+    {
+      "question": "Who selects the beneficiaries?",
+      "answer": "A district-level committee headed by the District Social Welfare Officer."
+    },
+    {
+      "question": "What is the interest rate on margin money?",
+      "answer": "7% annual interest over a period of 60 months."
+    },
+    {
+      "question": "Can I apply online?",
+      "answer": "No, the process is offline for the application."
+    }
+  ]
+}

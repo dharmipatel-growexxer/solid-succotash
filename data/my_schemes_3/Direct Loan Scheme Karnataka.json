@@ -1,0 +1,110 @@
+{
+  "scheme_name": "Direct Loan Scheme Karnataka",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dlsk",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Direct Loan Scheme Karnataka",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Direct Loan Scheme\" was implemented by Karnataka Leather Industries Development Corporation Ltd, Department of Social Welfare, Govt of Karnataka. The scheme aims to provide financial assistance to unemployed scheduled caste individuals from the leather artisan community to start small businesses and empower artisans and improve their livelihoods by providing access to capital to start or expand small-scale enterprises."
+    ],
+    "benefits": [
+      "Financial assistance with a 50% subsidy and 50% loan.",
+      "Total unit cost is ₹1,00,000/-.",
+      "Loan repayment in 24 equal installments with a 4% interest rate."
+    ],
+    "eligibility": [
+      "The applicant should be leather artisans.",
+      "The applicant should belongs to sub-castes Arundathiyar, Chammadiya, Chamar, Chambar, Chamagar, Madar, Madig, Madiga, Mini Madig, Jambavalu, Haralayya, Machigar, Mochigar, Mochi, muchi, Telugu Mochi, kamaati mocha, Rohidas, Dhor, kakkayya, Kankayya, Samagara, Samagar, Aadhi Anddra, Aadhi Dravida, Aadhi Karnataka among scheduled castes.",
+      "The age of the applicant should be 18 years.",
+      "The applicant's annual family income should not exceed ₹30,000/- in rural areas and ₹25,000/- in urban areas.",
+      "The applicant or their family members must not have received benefits from other schemes, except training programs.",
+      "The applicant's family members should not be employed in government or semi-government organizations."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step-01:",
+        "Visit the official",
+        "Seva Sindhu Portal",
+        ".",
+        "Step-02:",
+        "Choose \"New Users Register Here\" and fill in your Aadhaar Number and the Captcha code.",
+        "Step-03:",
+        "An OTP will be sent to your Aadhaar-linked mobile number. Enter the OTP to continue.",
+        "Step-04:",
+        "Once your DigiLocker account is created, click \"Allow\" to proceed.",
+        "Step-05:",
+        "Fill out your email ID, mobile number, create a password, and enter the captcha, then click \"Submit\".",
+        "Step-06:",
+        "You will receive OTPs on both your email and mobile number. Enter both OTPs and select \"Validate\".",
+        "Step-07:",
+        "Once validated, a confirmation message will indicate your registration is successful.",
+        "Applying for a Scheme:",
+        "Go to",
+        "and select \"Department & Services\".",
+        "Select department \"Social Welfare Department\" and click on the scheme \"Direct Loan Scheme\"",
+        "Click \"Apply Online\" and enter your registered email ID/mobile number and the OTP.",
+        "Select the scheme and provide your personal, address, and banking details as required.",
+        "Once submitted, you will receive an Application ID. You can use this ID to track your application status on the portal."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Caste Certificate with RD number.",
+      "Annual Income Certificate.",
+      "Ration Card.",
+      "Passport-size Photograph of the applicant and his/her spouse.",
+      "Bank Passbook.",
+      "Detailed Project Report.",
+      "Profession Certificate/Skill Test Certificate (issued by the Technical section committee of the Corporation).",
+      "Loan Documents."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Direct Loan Scheme?",
+      "answer": "It is a scheme offering financial assistance to leather artisans with ₹50,000 as a loan and ₹50,000 as a subsidy for starting small businesses."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Leather artisans from specific SC sub-castes, including Arundathiyar, Chamar, Mochi, etc., are eligible."
+    },
+    {
+      "question": "What is the age limit for applicants?",
+      "answer": "The minimum age requirement is 18 years."
+    },
+    {
+      "question": "Are female artisans given any reservation?",
+      "answer": "Yes, 33% of the scheme’s benefits are reserved for female artisans."
+    },
+    {
+      "question": "Can physically challenged artisans apply?",
+      "answer": "Yes, 5% of the scheme's benefits are reserved for physically challenged candidates."
+    },
+    {
+      "question": "How do I apply for the scheme?",
+      "answer": "Applications can be submitted online via Suvidha or Seva Sindhu portals."
+    },
+    {
+      "question": "Can I apply if my family member works in the government?",
+      "answer": "No, applicants must not have any family member employed in government or semi-government organizations."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "Documents like Aadhaar Card, Caste Certificate, Income Certificate, and Ration Card are needed."
+    },
+    {
+      "question": "What is the process after application submission?",
+      "answer": "The District Co-Ordinator verifies applications, and a District Level Selection Committee finalizes the list of beneficiaries."
+    },
+    {
+      "question": "Where is the final list of selected beneficiaries published?",
+      "answer": "The final approved list is published on the notice boards of the respective units after administrative approval."
+    }
+  ]
+}

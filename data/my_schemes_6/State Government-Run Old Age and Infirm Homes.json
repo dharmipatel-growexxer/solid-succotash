@@ -1,0 +1,87 @@
+{
+  "scheme_name": "State Government-Run Old Age and Infirm Homes",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ogoaih",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "State Government-Run Old Age and Infirm Homes",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The “State Government-Run Old Age and Infirm Homes” scheme has been launched by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to provide shelter and essential care to destitute elderly residents of the state. Under this scheme, senior citizens are provided free accommodation, meals, clothing, and healthcare in state-run residential facilities. Currently, two homes are operational in the districts of Chamoli & Bageshwar."
+    ],
+    "benefits": [
+      "The following facilities are provided to elderly individuals in government-run Old Age and Infirm Homes:",
+      "Free accommodation",
+      "Free nutritious meals",
+      "Free clothing",
+      "Free medical care, etc."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant should be a male or female.",
+      "The applicant's age must be 60 years or above.",
+      "There is no income ceiling for eligibility.",
+      "The applicant must not have a communicable disease (certified by a government doctor)."
+    ],
+    "application_process": {
+      "offline": [
+        "The application can first be submitted by the concerned elderly woman or man at the office of the District Magistrate/Magistrate or the District Social Welfare Officer/Superintendent of the Government-Run Old Age and Infirmary Home. A copy of the family register, a copy of the Aadhaar card, and a report from the Pradhan/ Councillor must be attached to the application.",
+        "Thereafter, the District Magistrate forwards the matter for investigation by the Revenue Department, which includes obtaining the report of the Revenue Inspector, the recommendation of the Tehsildar, and a medical certificate from a doctor stating that the applicant’s illness is not contagious to other inmates.",
+        "After completing the investigation and reviewing the submitted application, the District Magistrate/Magistrate issues an order permitting the concerned person to reside in the Government-Run Old Age and Infirmary Home. The individual may then take residence in the said home."
+      ]
+    },
+    "documents_required": [
+      "Copy of Aadhaar Card",
+      "Copy of Family Register",
+      "Verification note by Gram Pradhan (rural) or Ward Member (urban)",
+      "Medical Certificate declaring non-infectious condition",
+      "Revenue Inspector’s Report and Tehsildar’s Recommendation"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 20)",
+      "Guidelines (Page No. 23)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the old age home facility?",
+      "answer": "The permanent resident of Uttarakhand aged 60 years or above."
+    },
+    {
+      "question": "Is there an income limit to apply?",
+      "answer": "No, there is no income ceiling for eligibility."
+    },
+    {
+      "question": "Is this scheme available to both men and women?",
+      "answer": "Yes, all genders above 60 years are eligible."
+    },
+    {
+      "question": "Are the services completely free?",
+      "answer": "Yes, all facilities including stay, food, clothing, and healthcare are provided free of cost."
+    },
+    {
+      "question": "How many old age homes are currently operational under this scheme?",
+      "answer": "Two, located in Chamoli & Bageshwar."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Aadhaar card, family register copy, medical and revenue certificates, and a recommendation letter."
+    },
+    {
+      "question": "Can a person with a contagious disease apply?",
+      "answer": "No, a medical certificate must confirm the absence of infectious disease."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "To the District Magistrate, District Social Welfare Officer/Superintendent or concerned shelter home."
+    },
+    {
+      "question": "Is a medical check-up mandatory?",
+      "answer": "Yes, a government doctor must certify the applicant’s health condition."
+    },
+    {
+      "question": "Who verifies the application?",
+      "answer": "Verification is done by the Revenue Inspector, Tehsildar, and a government medical officer."
+    }
+  ]
+}

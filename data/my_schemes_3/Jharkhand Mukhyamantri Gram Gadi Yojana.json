@@ -1,0 +1,125 @@
+{
+  "scheme_name": "Jharkhand Mukhyamantri Gram Gadi Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jmggy",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Jharkhand Mukhyamantri Gram Gadi Yojana",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Jharkhand Mukhyamantri Gram Gadi Yojana\" by the Transport Department, Government of Jharkhand, aims to improve rural connectivity by incentivizing private bus operators and enhancing transportation facilities for rural residents. Under this scheme, rural routes connect remote villages to block headquarters, district headquarters, schools, colleges, medical institutions, main roads, and commercial centers."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Operators receive financial support per kilometer based on bus seating capacity",
+      "33 to 42 seats: ₹18 per km.",
+      "25 to 32 seats: ₹14.50 per km.",
+      "13 to 24 seats: ₹10.50 per km.",
+      "7 to 12 seats: ₹7.50 per km.",
+      "Tax and Fee Waivers:",
+      "Exemption from road tax, permit fee (₹1), application fee (₹1), registration fee (₹1), and fitness inspection fee (₹1).",
+      "Priority Access:",
+      "Rural buses are given priority at government bus stands and are exempted from all stand fees, tolls, and municipal entry fees.",
+      "Route Permits:",
+      "Operators can obtain permits for routes up to 125 km, connecting villages to block/district headquarters and essential services.",
+      "Subsidies:",
+      "Operators can avail subsidies for operational costs such as fuel (diesel).",
+      "Renewal Options:",
+      "Permits are renewable after five years based on satisfactory performance or till the scheme's validity."
+    ],
+    "eligibility": [
+      "The applicant must be a private bus operator registered in Jharkhand.",
+      "The applicant must operate new light/medium commercial four-wheeled vehicles with seating capacities ranging from 7 to 42 (excluding the driver).",
+      "The applicant must ensure the vehicles comply with the Motor Vehicles Act, 1988, and have either a Hard Top or Soft Top body.",
+      "Preference will be given to vehicles connecting rural routes to block/district headquarters, schools, colleges, hospitals, and main roads.",
+      "The applicant must agree to operate vehicles on approved routes and adhere to the fare structure prescribed by the government.",
+      "Operators who have previously violated permit conditions may be excluded from the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Obtain the application form from the Regional Transport Office (RTO) or",
+        "download",
+        "it from the official transport department website.",
+        "Step 2:",
+        "Fill out the application form with all necessary details, including personal, vehicle, and route information.",
+        "Step 3:",
+        "Attach all required documents as mentioned above.",
+        "Step 4:",
+        "Submit the completed application form along with a nominal fee of ₹1 at the respective (Regional Transport Office) RTO.",
+        "NOTE:",
+        "The application is reviewed by the Regional Transport Authority (RTA). Upon approval, permits are issued for the specified route.",
+        "Start bus operations as per the approved schedule and maintain compliance with scheme conditions.",
+        "Apply for permit renewal after five years, if applicable."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photographs.",
+      "Aadhaar Card (Proof of Identity).",
+      "Vehicle Registration Certificate (For new vehicles purchased as per scheme requirements).",
+      "Driver’s License (For the vehicle driver).",
+      "Permit Application Form (Duly filled and signed).",
+      "Vehicle Fitness Certificate.",
+      "Route Map/Proposal (Showing the rural route the bus will operate on).",
+      "Bank Account Details.",
+      "Affidavit of Compliance (Declaring adherence to scheme rules and regulations)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme aims to improve rural connectivity by incentivizing private bus operators to run buses on rural routes."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Registered private bus operators with new vehicles (7-42 seats) can apply."
+    },
+    {
+      "question": "What financial assistance is provided?",
+      "answer": "Operators receive financial aid ranging from ₹7.50 to ₹18 per km, based on the seating capacity of the vehicle."
+    },
+    {
+      "question": "Are there any tax exemptions?",
+      "answer": "Yes, vehicles are exempt from road tax, permit fees, application fees, registration fees, and fitness inspection fees."
+    },
+    {
+      "question": "What is the maximum distance allowed for rural routes?",
+      "answer": "The maximum route length has been increased to 125 kilometers."
+    },
+    {
+      "question": "What happens if a vehicle owner surrenders the permit?",
+      "answer": "In such cases, the Regional Transport Authority will take appropriate legal action."
+    },
+    {
+      "question": "Is there a subsidy on diesel?",
+      "answer": "Yes, a diesel subsidy is available for operational cost reduction."
+    },
+    {
+      "question": "Can old vehicles be used under this scheme?",
+      "answer": "No, only new vehicles are eligible."
+    },
+    {
+      "question": "Can students avail fare concessions?",
+      "answer": "Yes, fare concessions are provided to students from government and private educational institutions."
+    },
+    {
+      "question": "Is there a penalty for non-compliance?",
+      "answer": "Yes, operators found violating permit conditions may face legal action."
+    },
+    {
+      "question": "Are vehicles prioritized at bus stands?",
+      "answer": "Yes, rural buses receive priority and exemption from stand fees."
+    },
+    {
+      "question": "What is the processing time for the application?",
+      "answer": "Applications are typically processed within 15 working days."
+    },
+    {
+      "question": "Where can I get more information?",
+      "answer": "More information can be obtained from the nearest RTO or the official transport department website."
+    }
+  ]
+}

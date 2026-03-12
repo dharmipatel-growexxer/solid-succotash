@@ -1,0 +1,105 @@
+{
+  "scheme_name": "Chief Minister Housing Assistance Programme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cmhap",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Chief Minister Housing Assistance Programme",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Chief Minister’s Housing Assistance Programme\" by the Housing Department, Government of Meghalaya, aims to assist economically weaker and low-income families by providing durable housing support. Through this scheme, roofing materials or dwelling houses are provided to Economically Weaker Section (EWS) and Low Income Group (LIG) families residing in Meghalaya.",
+      "Objectives:",
+      "To provide durable roofing materials to improve existing houses for the Economically Weaker Section (EWS) families.",
+      "To provide dwelling houses to the low-income group (LIG) families living in the State."
+    ],
+    "benefits": [
+      "Three bundles of 9-foot-long GCI sheets (roofing material) for EWS households as an outright grant.",
+      "Construction of a durable house with a carpet area of a minimum of 19.20 sqm (207 sq. ft) with at least 2 rooms for LIG households as a credit-linked subsidy.",
+      "Financial assistance up to ₹75,000 under the Credit Linked Subsidy Scheme for LIG houses.",
+      "Additional cost to be borne by beneficiary through own resources, MGNREGS, SRWP, or bank loan.",
+      "Houses to be constructed as per government-approved model (Annexure-A).",
+      "Land ownership and geo-tagging are mandatory for the beneficiary.",
+      "Note:",
+      "In case of Credit Linked Subsidy, funds are disbursed in installments through bank/post office account based on progress certified by the Housing Selection and Monitoring Committee."
+    ],
+    "eligibility": [
+      "The applicant should be a bona fide resident of the State of Meghalaya.",
+      "The applicant should belong to the Economically Weaker Section (annual income up to ₹1,00,000) or the Low Income Group (income between ₹1,00,001 and ₹2,00,000).",
+      "The applicant should be 18 years of age or above.",
+      "The applicant should not have any other member from the same family living under the same roof as a beneficiary under the same scheme.",
+      "The applicant should not own a pucca house in their or any family member's name.",
+      "The applicant should possess their own land (for construction in case of a dwelling house).",
+      "The applicant should submit the EPIC (Electors' Photo Identity Card) or any other valid document as proof of residence.",
+      "The applicant should not have received any previous housing loan or financial aid from any other government source in their or their spouse’s name.",
+      "The applicant should construct the house personally and not through a contractor."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 01: Visit the Block Development Officer (for rural areas) or District Housing Officer (for urban areas).",
+        "Step 02: Obtain the prescribed printed application form issued by the Directorate of Housing.",
+        "Step 03: Fill in the form with all personal, income, and housing details.",
+        "Step 04: Attach required documents (EPIC, income certificate, land proof, etc.).",
+        "Step 05: Submit the filled application to the same authority (BDO or DHO).",
+        "Step 06: BDO/DHO prepares a list of beneficiaries and sends it to the Block/Urban Level Selection and Monitoring Committee.",
+        "Step 07: The committee screens and approves the list.",
+        "Step 08: The approved list is forwarded to the District Housing Committee.",
+        "Step 09: District Committee sends the final list to the Director of Housing.",
+        "Step 10: Approved beneficiaries collect roofing material or get a sanction order for subsidy."
+      ]
+    },
+    "documents_required": [
+      "Election Photo Identity Card (EPIC) or Residence Proof Document",
+      "Income Certificate",
+      "Land Ownership Certificate (for those constructing new houses)",
+      "Self-declaration/Undertaking (for no pucca house ownership in own or family member’s name)",
+      "Declaration for no prior housing loan received",
+      "Photographs (of house during stages of construction — as per administrative expenses section)"
+    ],
+    "sources_and_references": [
+      "Official Link",
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to receive roofing material under this scheme?",
+      "answer": "Residents of Meghalaya who belong to the Economically Weaker Section (EWS) with an annual income up to ₹1,00,000 and do not own a pucca house are eligible."
+    },
+    {
+      "question": "What financial help is given to Low Income Group (LIG) families under this scheme?",
+      "answer": "LIG families receive a credit-linked subsidy of up to ₹75,000 to build a durable house with a minimum of two rooms."
+    },
+    {
+      "question": "Can the house under this scheme be constructed by a contractor?",
+      "answer": "No, the house must be constructed by the beneficiary themselves. Use of contractors is strictly not allowed."
+    },
+    {
+      "question": "Can I apply if I already own a pucca house in my or my family's name?",
+      "answer": "No, applicants owning a pucca house in their or any family member’s name are not eligible."
+    },
+    {
+      "question": "What is the carpet area of the house to be constructed under the scheme?",
+      "answer": "The carpet area must be at least 19.20 square meters (207 sq. ft.) with a minimum of two rooms."
+    },
+    {
+      "question": "What is the role of the Block Level Housing Selection and Monitoring Committee (BLHSMC)?",
+      "answer": "BLHSMC screens, approves applications, and certifies progress for fund disbursement."
+    },
+    {
+      "question": "Is any priority given to specific communities or groups?",
+      "answer": "Yes, preference is given to PH, SC, ST, senior citizens, minorities, single women, and other vulnerable sections."
+    },
+    {
+      "question": "What happens after submission of the form?",
+      "answer": "Your application will be screened and approved by the selection committee before final approval."
+    },
+    {
+      "question": "How is the income verified for eligibility?",
+      "answer": "The household income is certified by the appropriate authority (Deputy Commissioner or Block Development Officer)."
+    },
+    {
+      "question": "What is the role of Urban Level Housing Selection and Monitoring Committee (ULHSMC)?",
+      "answer": "ULHSMC performs the same duties as BLHSMC in urban areas."
+    }
+  ]
+}

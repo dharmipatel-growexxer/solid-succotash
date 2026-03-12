@@ -1,0 +1,128 @@
+{
+  "scheme_name": "Grant In Aid Hostels",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/giah",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Grant In Aid Hostels",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Grant In Aid Hostels\" was launched in 1969 by the Tribal Development Department, Government of Gujarat. The scheme aims to provide boarding and lodging facilities by government registered organizations to the tribal students who wish to pursue primary, secondary and higher secondary education. the scheme provides free lodging and boarding facilities, addressing the challenge that the Scheduled Tribe population has a lower literacy level due to the absence of secondary and higher secondary schools in tribal areas, causing students to leave studies after getting primary education. The scheme is implemented by Non-Governmental Organizations. the applications for this scheme are accepted at the district level at the office of the concerned Project Administrator/Assistant Commissioner (Vigilance)."
+    ],
+    "benefits": [
+      "Free lodging and boarding facilities are provided to the students.",
+      "Conditions for NGOs",
+      "The voluntary institution must agree to adhere to the current rules for Backward Class Hostels and any future changes.",
+      "The voluntary institution must agree to comply with administrative or other instructions received from the Tribal Development Department and the Director, Tribal Development."
+    ],
+    "eligibility": [
+      "For the Student",
+      "The applicant must be a student.",
+      "The applicant must be from a Scheduled Tribe.",
+      "The applicant must be studying in standard 5th to 12th.",
+      "The applicant’s family annual income must be up to ₹1,20,000/- for rural area.",
+      "The applicant’s family annual income must be up to ₹1,50,000/- for urban area.",
+      "For the Institution",
+      "The applicant must be a voluntary institution.",
+      "The applicant must be registered under one of the following acts: Public Trusts Act 1950, Societies Registration Act 1860",
+      "The applicant organization must have a bank balance (liquidity/working capital) certificate showing an amount exceeding ₹15,000/-.",
+      "The building must be suitable and equipped with complete facilities, including water and electricity, and available at the demanded site for the hostel.",
+      "Preference/Priority",
+      "Preference must be given to selecting hostels only in places where there is currently no hostel facility.",
+      "Priority should be given to backward and remote areas during hostel selection."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The representative of the NGO must obtain the prescribed application form from the Office of the concerned Project Administrator/Assistant Commissioner (Vigilance) at the district level by paying ₹10/- in cash.",
+        "Step 2:",
+        "In the form, fill in all the mandatory fields, and attach copies of all the mandatory documents. Submit the duly filled and signed application form along with the documents, to the designated staff at the Office of the concerned Project Administrator/Assistant Commissioner (Vigilance).",
+        "Step 3:",
+        "Submit the application within the prescribed period (generally 30th August of the respective year). The applicant must pay the non-refundable application processing fee of ₹50/- directly at the concerned office where the form was obtained.",
+        "Post-Application Process",
+        "After the application is successfully considered and accepted (sanctioned), the applicant institution must then pay a non-refundable fee of ₹500/- using a Challan."
+      ]
+    },
+    "documents_required": [
+      "Organization's Constitution Copy.",
+      "Organization's Registration Copy.",
+      "Latest Bank Balance Certificate Original Copy (Must be dated after the date of advertisement and before the last date of application acceptance).",
+      "List of Office Bearers' Names and Complete Addresses.",
+      "Copy of the Managing Committee Resolution or General Meeting Resolution Regarding Which Office Bearer of the Institution Will Handle Financial Correspondence.",
+      "Copy of the Managing Committee Resolution Agreeing to Comply with Current Rules and Future Changes For Backward Class Hostels, and Administrative or Other Instructions from the Tribal Development Department and the Director, Tribal Development.",
+      "Proposed Site Map Attached (With Full Details).",
+      "Building Assessment Letter Copy (Assessment Sheet Excerpt from Panchayat Register For Hostel Building).",
+      "Landlord's Consent Letter (In Case of Rented Building).",
+      "Property Card Copy (In Case of City Area).",
+      "Relevant Municipality Assessment Bill Copy (In Case of City Area).",
+      "Organization's Last Year's Audit Statement Copy.",
+      "Statement Detailing Other Social Welfare or Educational Activities Run By the Organization (Must Be Mentioned Even If Information Is Nil).",
+      "Statement Detailing School Facilities At the Proposed Location, Including School Name, Grade Level of Education Provided, and Details of Scheduled Tribe Children Studying There.",
+      "Details of Other Scheduled Tribe/Other Caste Hostels Run By the Organization (Including Location and Sanctioned Strength).",
+      "Undertaking Letter to Provide Admission to Ten Percent (10%) Economically Backward Class Students of the Sanctioned Strength In the Proposed Hostel.",
+      "Certificate with Undertaking Regarding Availability of A Suitable Building Equipped with Complete Facilities, Including Water and Electricity At the Demanded Hostel Location."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Instructions For Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What specific educational standards must students be currently studying in to be considered eligible for the complimentary residential facility?",
+      "answer": "Students intended to benefit from this initiative must be currently studying in standard 5th up to standard 12th."
+    },
+    {
+      "question": "Are there any alternative registration requirements, such as registration under the Societies Registration Act, that the applying institution must satisfy?",
+      "answer": "Yes, the voluntary institution is required to be officially registered under the provisions of the Societies Registration Act 1860."
+    },
+    {
+      "question": "Is the applying institution mandated to provide a formal certificate confirming the availability of a proper building equipped with essential utilities?",
+      "answer": "Yes, a certificate must be submitted as an undertaking confirming that a suitable building, complete with water and electricity facilities, is available at the requested site."
+    },
+    {
+      "question": "If the application form contains missing fields or is found to have incomplete required details, will the processing office proceed with its consideration?",
+      "answer": "No, applications that are submitted with incomplete required details or information will not be processed or taken into account."
+    },
+    {
+      "question": "What critical timeline restrictions apply to the date on the bank balance certificate required for submission along with the formal application form?",
+      "answer": "The certificate must be dated after the date the advertisement was published in newspapers, but before the final application acceptance date."
+    },
+    {
+      "question": "What is the maximum acceptable limit for the applicant student’s family’s annual income if they permanently reside in a rural geographical area?",
+      "answer": "The family's total annual income must not exceed ₹1,20,000/- (Indian Rupees one lakh twenty thousand) if the residence is in a rural area."
+    },
+    {
+      "question": "When the selection process commences, what primary geographical consideration is given preference regarding the proposed location of the new facility?",
+      "answer": "Preference is strictly mandated for selecting hostels only in those locations where there is currently an absence of existing hostel facilities."
+    },
+    {
+      "question": "Does the institution need to formally commit to following current rules and future administrative instructions issued by the relevant governing departments?",
+      "answer": "Yes, the organization must pass a resolution agreeing to comply with all current rules for Backward Class Hostels and any administrative instructions received from the Tribal Development Department and the Director, Tribal Development."
+    },
+    {
+      "question": "Is there a possibility that an application will be summarily rejected if the necessary original or certified supporting documents/proofs are not attached?",
+      "answer": "Yes, if the application does not include the required original or appropriately certified documents/proofs, it will be considered rejected."
+    },
+    {
+      "question": "What is the minimum threshold requirement regarding the bank balance or available liquid working capital that the applicant organization needs to demonstrate?",
+      "answer": "The applicant institution must submit a certificate showing that its bank balance or liquidity/working capital exceeds ₹15,000/- (Indian Rupees fifteen thousand)."
+    },
+    {
+      "question": "Could you please specify the maximum allowed threshold for the annual earnings of the beneficiary's family if they are residing in an urban location?",
+      "answer": "For families living in an urban area, the maximum permitted annual income limit is ₹1,50,000/- (Indian Rupees one lakh fifty thousand)."
+    },
+    {
+      "question": "Which specific legal registration status must the non-governmental voluntary institution possess under the Public Trusts Act to submit an application?",
+      "answer": "The voluntary organization applying for the facility must be registered under the legal framework of the Public Trusts Act 1950."
+    },
+    {
+      "question": "What happens to applications for starting a new Grant In Aid facility if the completed forms are physically received after the official submission time limit?",
+      "answer": "Applications that are received after the specific time limit established for submission will definitely not be taken into consideration."
+    },
+    {
+      "question": "In addition to the availability check, what characteristics of the area surrounding the proposed site are given specific priority during the selection?",
+      "answer": "Priority for approval and selection should be specifically assigned to areas identified as backward or remote geographical locations."
+    }
+  ]
+}

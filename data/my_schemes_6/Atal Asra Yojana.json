@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Atal Asra Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/aay-goa",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Atal Asra Yojana",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "\"Atal Asra Yojana\" by the Department of Tribal Welfare, Government of Goa provides financial assistance of up to ₹ 3,00,000 to individuals from Scheduled Tribes communities for construction/ re-construction and repairs of the house."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹ 3,00,000 for the construction of a new house/re-construction of the existing house.",
+      "Financial Assistance of ₹ 1,50,000 for the repair of the existing house."
+    ],
+    "eligibility": [
+      "The applicant should be an individual from the Scheduled Tribes community of the State of Goa.",
+      "The annual income of the family of the applicant should be less than or equal to ₹ 3,00,000."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the Department of Tribal Welfare, Govt. of Goa, Shram Shakti Bhavan,",
+        "5th Floor, Patto, Panaji-Goa, - 403 001.",
+        "Step 2:",
+        "Take a print of the proforma of the application form, or request a hard copy from the concerned authority.",
+        "Step 3:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required).",
+        "Step 4:",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority."
+      ]
+    },
+    "documents_required": [
+      "1. Affidavit in the Prescribed Form.",
+      "2. House Tax Receipt.",
+      "3. Income Certificate.",
+      "4. ST Certificate Issued by Competent Authority.",
+      "5. Sanction Order under JAY / RAY (if any).",
+      "6. Detailed Estimate from Registered Engineer / Architect / Contractor who is registered under PWD / GSIDC / Government Department or Autonomous Body.",
+      "7. Passbook Copy.",
+      "8. Photograph of the Existing Along With the Applicant.",
+      "9. Copy of Aadhar Card.",
+      "10. Copy of Ration Card.",
+      "11. Mandate Form.",
+      "Additional Documents in the Case of New Construction & Re-Construction",
+      "1. Ownership Documents or NOC From the Landowner.",
+      "2. Construction License Issued by Competent Authority."
+    ],
+    "sources_and_references": [
+      "Citizen's Charter",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the role of the \"Ownership Documents or NOC From the Landowner\" in the context of new construction and re-construction?",
+      "answer": "The ownership documents or NOC from the landowner are essential to establish legal ownership or permission for the construction on the particular property. This ensures that construction activities are conducted with the necessary rights and permissions in place."
+    },
+    {
+      "question": "How does the scheme determine the amount of financial assistance for construction and repairs?",
+      "answer": "The financial assistance for construction, re-construction, and repairs is fixed at ₹ 3,00,000 and ₹ 1,50,000, respectively. These amounts are established to cover the costs associated with house-related activities and ensure equitable distribution of assistance."
+    },
+    {
+      "question": "Can an applicant avail both the construction and repair benefits under this scheme?",
+      "answer": "Yes, an applicant can avail either the benefit for construction/re-construction or the one for repairs. However, they cannot avail both benefits simultaneously for the same property."
+    },
+    {
+      "question": "Could you provide insights into the additional documents required for new construction or re-construction under the scheme?",
+      "answer": "Certainly. For new construction or re-construction, ownership documents or a No Objection Certificate (NOC) from the landowner and a construction license issued by the competent authority are required. These documents ensure legal compliance and transparency in the construction process."
+    },
+    {
+      "question": "What are the specific benefits offered under this scheme?",
+      "answer": "The scheme offers two categories of financial assistance: ₹ 3,00,000 for the construction of a new house or re-construction of an existing one, and ₹ 1,50,000 for repairs to an existing house."
+    },
+    {
+      "question": "Who is eligible to apply for the benefits of the \"Atal Asra Yojana\"?",
+      "answer": "Any individual who is part of the Scheduled Tribes community residing in Goa can apply for the scheme. Eligibility is also determined by the annual income of the applicant's family, which should not exceed ₹ 3,00,000."
+    },
+    {
+      "question": "Could you explain the main purpose of the \"Atal Asra Yojana\" initiated by the Department of Tribal Welfare, Government of Goa?",
+      "answer": "The \"Atal Asra Yojana\" has been established to provide financial support to individuals belonging to Scheduled Tribes communities within the state of Goa. The scheme aims to assist them in house-related matters such as construction, re-construction, and repairs, thus improving their living conditions."
+    },
+    {
+      "question": "Which department manages this scheme?",
+      "answer": "This scheme is managed by the Department of Tribal Welfare, Government of Goa."
+    },
+    {
+      "question": "What is the address of the Department of Tribal Welfare?",
+      "answer": "The address of the Department of Tribal Welfare is: Shram Shakti Bhavan, 5th Floor, Patto, Panaji-Goa, - 403 001."
+    },
+    {
+      "question": "Does this scheme accept online applications?",
+      "answer": "No, as of 18/08/2023 this scheme only accepts offline mode of application."
+    },
+    {
+      "question": "Where can I find the URL of the Citizen's Charter?",
+      "answer": "The URL of the Citizen's Charter is: https://www.goa.gov.in/wp-content/uploads/2022/05/Citizen-Charter-2022-tribal-welfare.pdf"
+    },
+    {
+      "question": "Where can I find the URL of the Proforma of the Application Form?",
+      "answer": "The URL of the Notification is: https://tribalwelfare.goa.gov.in/attachments/article/45/ATAL%20ASRA%20FORM%20(New).pdf"
+    },
+    {
+      "question": "Does this scheme accept applications from Transgenders?",
+      "answer": "Yes, the scheme is open to applicants from all genders."
+    },
+    {
+      "question": "Can individuals from Scheduled Castes / Scheduled Tribe also apply to this scheme?",
+      "answer": "Yes, the scheme is open to applicants from all Social Categories."
+    },
+    {
+      "question": "What is the full form of GSIDC?",
+      "answer": "The full form of GSIDC is \"Goa State Infrastructure Development Corporation Limited\"."
+    }
+  ]
+}

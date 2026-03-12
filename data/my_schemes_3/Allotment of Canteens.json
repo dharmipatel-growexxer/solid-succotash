@@ -1,0 +1,74 @@
+{
+  "scheme_name": "Allotment of Canteens",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/acuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Allotment of Canteens",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Allotment of Canteens” is implemented by the Uttarakhand Agricultural Production & Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote trade and entrepreneurship by allotting canteens for selling tea and other food items to eligible residents of Uttarakhand through a fair and transparent tender process."
+    ],
+    "benefits": [
+      "The scheme facilitates the promotion of trade in tea and other food items by allotting canteens to eligible residents of Uttarakhand."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Information regarding the allotment of canteens is published in newspapers and through public notices displayed at public places, and interested applicants can obtain the tender form by paying the prescribed amount at the committee office.",
+        "Submit the completed tender form in the tender box on the due date.",
+        "Selection Process:",
+        "The allotment of canteens is carried out by a committee formed at the committee level.",
+        "The tenders are opened by the committee in the presence of the tenderers.",
+        "The canteen is allotted to the applicant/tenderer offering the highest amount for a period of one year."
+      ]
+    },
+    "documents_required": [
+      "Documents are to be submitted as per the requirements specified by the Canteen Allotment Committee/tender guidelines."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 167)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of the scheme?",
+      "answer": "The scheme aims to promote local trade and entrepreneurship through the allotment of canteens via a fair and transparent tender process."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "All residents of Uttarakhand who meet the committee’s eligibility criteria are eligible to apply."
+    },
+    {
+      "question": "What types of trade are covered under this scheme?",
+      "answer": "The scheme primarily covers trade in tea and other food items through allotted canteens."
+    },
+    {
+      "question": "How is information about canteen allotment communicated?",
+      "answer": "Information is published through newspapers and public notices displayed at public places."
+    },
+    {
+      "question": "How can one obtain the tender form?",
+      "answer": "The tender form can be obtained from the committee office by paying the prescribed amount."
+    },
+    {
+      "question": "How should the completed tender form be submitted?",
+      "answer": "The completed tender form must be submitted in the tender box on or before the due date."
+    },
+    {
+      "question": "Who is responsible for allotting the canteens?",
+      "answer": "A committee formed at the committee level is responsible for the allotment."
+    },
+    {
+      "question": "How are tenders evaluated?",
+      "answer": "Tenders are opened and evaluated by the committee in the presence of the tenderers, and the highest bidder is allotted the canteen."
+    },
+    {
+      "question": "What is the duration of the canteen allotment?",
+      "answer": "Canteens are allotted for a period of one year."
+    }
+  ]
+}

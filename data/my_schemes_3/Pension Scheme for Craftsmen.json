@@ -1,0 +1,77 @@
+{
+  "scheme_name": "Pension Scheme for Craftsmen",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/psc",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pension Scheme for Craftsmen",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The “Pension Scheme for Craftsmen” is implemented by the Micro, Small, and Medium Enterprises (MSMEs) Department under the Department of Industries, Government of Uttarakhand. The scheme aims to provide financial support and social security to traditional artisans of Uttarakhand who are aged 60 years or above and belong to families living below the poverty line."
+    ],
+    "benefits": [
+      "Under this scheme, craftsmen aged 60 years or above who are already receiving an old age pension are provided with an additional incentive of ₹400/- per month."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an artisan/craftsman aged 60 years or above.",
+      "The applicant must be already receiving an old age pension from the government.",
+      "The applicant must belong to a Below Poverty Line (BPL) family.",
+      "If the son or grandson of the artisan is 20 years of age or above and the family still lives below the poverty line, the applicant remains eligible.",
+      "The applicant must be engaged in traditional handicrafts such as stone, wood, iron, lamp, ringal, bamboo, and product development from natural fibres, or in any other crafts approved by the government from time to time."
+    ],
+    "application_process": {
+      "online": [
+        "Application forms can be obtained from the office of the General Manager, District Industries Centre, or downloaded from the departmental website",
+        "https://doi.uk.org",
+        ".",
+        "Along with the application form, applicants must submit the following documents to the General Manager, District Industries Centre of the concerned district: Aadhaar card, bank account details, proof of receiving old age pension, BPL certificate, birth certificate/Aadhaar as proof of date of birth, a certified copy of the family register to define the family, and a certificate confirming the applicant’s status as a craftsman.",
+        "Selection Process:",
+        "The documents of eligible artisans are verified by a committee constituted under the chairmanship of the General Manager, District Industries Centre. Based on this verification, the eligible applicants are selected for the pension.",
+        "After selection, the additional incentive pension is disbursed quarterly into the artisan’s bank or post office account."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank account details (passbook copy)",
+      "Proof of receiving old age pension",
+      "Below Poverty Line (BPL) certificate",
+      "Birth certificate or Aadhaar card (as proof of date of birth)",
+      "Certified copy of the family register (to define family details)",
+      "Certificate confirming the applicant’s status as a craftsman"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 155)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Eligible artisans receive an additional incentive of ₹400 per month along with their existing old age pension."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Artisans aged 60 years or above, belonging to below poverty line (BPL) families, and receiving an old age pension are eligible to apply."
+    },
+    {
+      "question": "Are there any exceptions for younger family members?",
+      "answer": "Yes. If the son or grandson of an artisan is 20 years or above and living below the poverty line, he is also eligible to receive the artisan pension."
+    },
+    {
+      "question": "Which types of craftsmen are covered under this scheme?",
+      "answer": "The scheme covers artisans traditionally engaged in stone, wood, copper, iron, lamp, ringal, bamboo, and natural fibre-based product development, as well as any crafts approved by the government from time to time."
+    },
+    {
+      "question": "What is the mode of payment for the pension amount?",
+      "answer": "The additional incentive pension is paid quarterly into the artisan’s bank or post office account."
+    },
+    {
+      "question": "From where can an artisan obtain the application form?",
+      "answer": "Application forms are available at the office of the General Manager, District Industries Centre or can be downloaded from the departmental website https://doi.uk.org ."
+    },
+    {
+      "question": "Where should the filled application form be submitted?",
+      "answer": "The completed application form along with all required documents should be submitted to the General Manager, District Industries Centre of the concerned district."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "scheme_name": "Micro Finance Scheme (GNDTDC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mfgntdnt",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Micro Finance Scheme (GNDTDC)",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Micro Finance Scheme\" is implemented by the Gujarat Nomadic and Denotified Tribes Development Corporation (GNDTDC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to promote self-employment among individuals from the Nomadic and Denotified Tribes communities by providing financial assistance to start a small-scale business/enterprise. Under this scheme, beneficiaries can avail loans at concessional interest rates to purchase equipment, raw materials, or working capital."
+    ],
+    "benefits": [
+      "Loan Amount Details:",
+      "Loan Amount:",
+      "Up to ₹1,25,000/-.",
+      "Interest Rate:",
+      "5% per annum.",
+      "Loan Contribution:",
+      "90% will be from the National Corporation, 5% from the State Government, 5% from the beneficiary.",
+      "Repayment:",
+      "The loan amount will have to be repaid in 48 equal monthly installments, including interest."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to the Nomadic Tribe or Denotified Tribe.",
+      "The applicant's family's annual income should not exceed ₹3,00,000/-.",
+      "The applicant's age should be between 21 to 50 years on the date of application.",
+      "The applicant should have experience & technical skill in the proposed trade/business.",
+      "The applicant will have to provide suitable collateral to get the loan.",
+      "Note:",
+      "At least 50% of the total loan amount under this scheme will be specifically allocated to families with an annual income of up to ₹1,50,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1: Visit the Official Portal",
+        "Go to the",
+        "Official Website",
+        "Gujarat Nomadic and Denotified Tribes Development Corporation.",
+        "Scroll down on the homepage, find the \"Micro Finance\" and click on \"Apply Now\".",
+        "You will be directed to the application form.",
+        "Step 2: Access and Fill Out the Application Form",
+        "Complete all sections under \"Applicant information,\" including full name, father/husband's name, gender, complete address details, contact numbers, Aadhaar No., parents/husband/guardian occupation and income details. Also provide Date of Birth, Age, Caste, and Subspecies. Also, if you are disabled and provide a percentage.",
+        "If you have taken a past loan, select \"Yes\" or \"No\". If you selected \"Yes\", provide loan details (date, amount, paid, remaining) and your account number.",
+        "Provide bank account number, bank name, branch name, name as per account, account type (Saving/Current), MICR code, and IFSC code.",
+        "Step 3: Upload Documents",
+        "Go to \"Upload Photo\" in the menu, then upload your photograph and signature (each file less than 15 KB). Click \"Save Photo and Signature\"",
+        "Navigate to \"Upload Document\" in the menu and upload all required files (PDF, JPG, JPEG, PNG only).",
+        "Step 4: Review and Final Submission",
+        "Carefully review each module. Use the preview option to examine the application before final submission. Fill out the provided \"CAPTCHA\" and Click on “Submit”.",
+        "Track and Review Status",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.",
+        "Scroll down and locate the Know App Status. Click on \"Know App Status\".",
+        "Select the Scheme name, Enter App No., and Birth Date. Fill out the Captcha and click on Submit."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Age Proof",
+      "Experience Certificate",
+      "Collateral Documents",
+      "Photograph",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the primary purpose of this scheme?",
+      "answer": "The scheme provides loans and assistance to individuals for starting small-scale businesses or enterprises."
+    },
+    {
+      "question": "Who is eligible to apply for a loan under the scheme?",
+      "answer": "The applicant must be from a Nomadic or Denotified Tribe to be eligible for this scheme."
+    },
+    {
+      "question": "What is the minimum age required to apply for the scheme?",
+      "answer": "The applicant's age should be at least 21 years as of the date of application."
+    },
+    {
+      "question": "What is the maximum age limit for applicants of the scheme?",
+      "answer": "The applicant's age should not be more than 50 years as on the date of application."
+    },
+    {
+      "question": "Do I need to have prior experience in a specific field to apply for this loan?",
+      "answer": "Yes, applicant must have prior experience in the proposed trade or business."
+    },
+    {
+      "question": "Is collateral required to obtain a loan under the scheme?",
+      "answer": "Yes, the applicant will have to provide suitable collateral to get the loan."
+    },
+    {
+      "question": "How is the loan amount contributed by different entities?",
+      "answer": "90% of the loan is contributed by the National Corporation, and 5% is contributed by the State Government."
+    },
+    {
+      "question": "What is the annual interest rate for the loan?",
+      "answer": "The interest rate will be 5% per annum."
+    },
+    {
+      "question": "How will the loan amount be repaid?",
+      "answer": "The loan amount will have to be repaid in 48 equal monthly instalments, including interest."
+    },
+    {
+      "question": "What kind of businesses or enterprises are supported by this loan?",
+      "answer": "Loans are provided to start a small-scale business or enterprise."
+    }
+  ]
+}

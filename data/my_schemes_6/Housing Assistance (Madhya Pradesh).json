@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Housing Assistance (Madhya Pradesh)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ha",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Housing Assistance (Madhya Pradesh)",
+  "scraped_at": "2026-03-11 13:25:47 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Housing Assistance (Madhya Pradesh)\" by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh, provides housing support to tribal boys and girls pursuing higher education outside their hometown, where hostels are not available."
+    ],
+    "benefits": [
+      "The scheme provides housing assistance to tribal boys/girls to continue their higher and higher education outside their home town (for whom hostels are not available)."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Madhya Pradesh.",
+      "The applicant should have passed class 12th from a government or non-government college.",
+      "The applicant should be enrolled in a graduate, graduate diploma, technical, or paramedical course.",
+      "The applicant should be regularly admitted in the course they are pursuing.",
+      "The applicant should not have received admission to a government hostel."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Hostel Superintendent Vikas Khand Education Officer Principal District Coordinator/Assistant Commissioner, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste certificate",
+      "Previous class passing certificate/marksheet",
+      "Samagra ID",
+      "Bank account details/Bank Passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Housing Assistance Scheme?",
+      "answer": "It provides housing support to tribal boys and girls pursuing higher education outside their hometown where hostels are not available."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Tribal students from Madhya Pradesh who have passed class 12th and are enrolled in higher education courses."
+    },
+    {
+      "question": "Does the scheme cover technical and paramedical courses?",
+      "answer": "Yes, the scheme includes technical, paramedical, graduate, and graduate diploma courses."
+    },
+    {
+      "question": "Can students in private colleges apply for this scheme?",
+      "answer": "Yes, students in non-government colleges are eligible."
+    },
+    {
+      "question": "Is the scheme available to students who are already staying in government hostels?",
+      "answer": "No, the scheme is only for students who have not received admission to government hostels."
+    },
+    {
+      "question": "What type of financial support is provided?",
+      "answer": "Housing assistance is provided to cover accommodation costs for eligible students."
+    },
+    {
+      "question": "Is there an income limit for eligibility?",
+      "answer": "The scheme does not specify an income limit, but applicants must meet other eligibility criteria."
+    },
+    {
+      "question": "Can students from all districts of Madhya Pradesh apply?",
+      "answer": "Yes, students from any district in Madhya Pradesh who meet the criteria can apply."
+    },
+    {
+      "question": "How do students apply for the scheme?",
+      "answer": "Applications can be submitted through the Tribal Welfare and Scheduled Caste (SC) Department of Madhya Pradesh."
+    },
+    {
+      "question": "Is the scheme available for postgraduate students?",
+      "answer": "The scheme is primarily for students pursuing graduate-level courses and specific diplomas. Postgraduate eligibility may depend on the course and department guidelines."
+    }
+  ]
+}

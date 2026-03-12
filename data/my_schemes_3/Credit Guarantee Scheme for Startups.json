@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Credit Guarantee Scheme for Startups",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cgss",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Credit Guarantee Scheme for Startups",
+  "scraped_at": "2026-03-11 11:16:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme is the “Credit Guarantee Scheme for Startups (CGSS)”, notified by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India launched on 6th October 2022. The revised notification was issued on 8 May 2025 and comes into force from that date, covering loan/debt facilities sanctioned to eligible startups on or after the notification.",
+      "The scope of CGSS is to provide credit guarantees on a wide range of debt instruments—such as venture debt, working capital, subordinated/mezzanine debt, debentures and other fund and non‑fund-based facilities that crystallise into debt—extended by eligible Member Institutions to DPIIT‑recognised startups. Its core objective is to offer guarantee cover up to specified limits against these credit instruments so as to enable collateral‑free debt funding for eligible startups and improve their access to institutional finance.",
+      "Salient features include transaction‑based and umbrella‑based guarantee structures, maximum guarantee cover of Rs. 20 crore per borrower, and differentiated Annual Guarantee Fee/Annual Commitment Charge slabs, with concessional rates for North‑East units, women entrepreneurs and 27 identified “Champion Sectors”. Target beneficiaries are DPIIT‑recognised startups that are not in default or classified as NPAs and are certified as eligible by Member Institutions such as scheduled commercial banks, select NBFCs, financial institutions and SEBI‑registered AIFs. Benefits include collateral‑free debt, enhanced lender comfort through unconditional and irrevocable guarantees, and improved flow of formal credit to innovative startups across sectors and stages.",
+      "It offers 85% guarantee coverage for credit facilities up to ₹10 crore and 75% guarantee coverage for facilities up to ₹20 crore."
+    ],
+    "benefits": [
+      "1. Provides collateral free debt funding to eligible DPIIT recognised startups by backing their loans with a government guarantee.",
+      "2. Improves access to a wide range of instruments such as venture debt, working capital limits, subordinated/mezzanine debt, debentures and other fund and non fund based facilities.",
+      "3. Offers high guarantee coverage of up to 85% of the amount in default for loans up to Rs. 10 crore, significantly reducing loss risk for lenders on smaller exposures.",
+      "4. Provides 75% guarantee coverage of the amount in default for loan amounts above Rs. 10 crore, up to an overall cap of Rs. 20 crore per borrower.",
+      "5. Lowers risk for Member Institutions (banks, NBFCs, FIs, AIF based venture debt funds), encouraging them to lend more actively to startups.",
+      "6. Supports both transaction based and umbrella based guarantees, enabling individual startup loans as well as pooled venture debt portfolios to be covered.",
+      "7. Offers concessional guarantee fee/commitment charge for North East units, women led startups and entities in the 27 Champion Sectors, reducing their effective cost of borrowing.",
+      "8. Provides unconditional and irrevocable guarantee cover, increasing lender confidence and stability in credit flows to startups.",
+      "9. Permits restructuring and enhancement of existing CGSS covered credit facilities while retaining guarantee cover, subject to the overall limit.",
+      "10. Strengthens the startup ecosystem by improving formal credit availability, enabling innovative startups to scale, invest in technology and create employment."
+    ],
+    "eligibility": [
+      "1. The Legal Status of the applicant should be: an entity recognised as a Startup by DPIIT as per the applicable Gazette Notifications.",
+      "2. The Credit History of the applicant should be: not in default to any lending or investing institution and not classified as a Non Performing Asset as per RBI guidelines.",
+      "3. The Certification requirement of the applicant should be: its eligibility must be certified by the concerned Member Institution for the purpose of obtaining guarantee cover.",
+      "4. The Nature of activity of the applicant should be: engaged in eligible startup business activities as per DPIIT recognition, and continuing the activity for which the credit facility is being sought.",
+      "5. Any other: The applicant must comply with all other eligibility criteria and scheme conditions prescribed under the Credit Guarantee Scheme for Startups (CGSS) from time to time."
+    ],
+    "application_process": {
+      "online": [
+        "Step-by-Step: Apply for CGSS via JanSamarth Portal (Online)",
+        "1. Open the JanSamarth Portal",
+        "Visit: https://www.jansamarth.in n",
+        "This is the Government of India’s unified credit-linked schemes platform.",
+        "2. Create an Account or Login: If you are a first-time user, register using a mobile number and OTP. Provide basic details and complete the login/verification process.",
+        "3. Check Your Eligibility: Click “Check Eligibility” and enter: Startup entity details (PAN, Udyam, etc.) DPIIT recognition number, Basic business information The portal will show whether you qualify for the Startup loan under CGSS.",
+        "4. Start the Loan Application",
+        "Select “Loan for Startups” / “Startup Common Application”.",
+        "Follow the guided online form:",
+        "Verify PAN of the startup",
+        "Verify Udyam details",
+        "Enter DPIIT recognition number",
+        "Select the GSTIN (auto-populated where applicable)",
+        "Fill in business operational and financial details",
+        "Upload required documents (e.g., incorporation certificate, financials).",
+        "5. Provide Loan Details",
+        "Enter:",
+        "Loan amount needed",
+        "Purpose (working capital, term loan, etc.)",
+        "Desired repayment tenure",
+        "The portal may pre-fill some data via integration with PAN, GST, and other databases.",
+        "6. Submit and Match with Banks",
+        "After submitting the application:",
+        "The portal will match your profile with loan products from participating public sector banks.",
+        "You will see available bank options, interest rates, and product terms.",
+        "7. Choose Bank & Branch",
+        "Select a bank and branch (filtered by state/city) where you want to process your loan application.",
+        "Confirm your choice and forward the application to that bank.",
+        "8. In-Principle Sanction / Digital Approval",
+        "If the bank finds the application acceptable:",
+        "You may receive an in-principal sanction digitally.",
+        "Download the digital approval letter for your records.",
+        "9. Follow Up & Status Tracking",
+        "You can track your application status via login.",
+        "Status updates may also be sent via SMS and email.",
+        "10. Bank Final Processing & Disbursement",
+        "After approval from the bank, the standard due diligence (KYC, documents, board resolutions, etc.) will proceed.",
+        "Once final sanction and documentation are completed at the bank branch:",
+        "The loan is disbursed.",
+        "The bank will then apply for CGSS guarantee coverage (handled by the bank via NCGTC).",
+        "Step-by-Step: Apply for CGSS (Offline)",
+        "1. Reach out to nearby branch of Member Lending Institutions. List of Member Lending Institutions(MLIs) is available on the NCGTC Website. https://www.ncgtc.in/en/product-details/CGSS/Credit-Guarantee-Scheme-for-Start-ups-(CGSS)",
+        "2. Get more information from MLIs and submit documents as required by MLIs."
+      ]
+    },
+    "documents_required": [
+      "No Documents required for this Scheme"
+    ],
+    "sources_and_references": [
+      "Startup India CGSS"
+    ]
+  },
+  "faqs": []
+}
