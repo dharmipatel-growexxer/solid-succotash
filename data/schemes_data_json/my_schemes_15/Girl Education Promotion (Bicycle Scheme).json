@@ -1,0 +1,68 @@
+{
+  "scheme_name": "Girl Education Promotion (Bicycle Scheme)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pgcecycleuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Girl Education Promotion (Bicycle Scheme)",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Girl Education Promotion (Bicycle Scheme)\" is implemented by the Secondary Education Department under the Department of Education, Government of Uttarakhand. The scheme aims to promote girls’ education in the state by providing financial assistance to Class 9 girl students for purchasing bicycles."
+    ],
+    "benefits": [
+      "Each eligible girl student in class 9 receives ₹2,850/-.",
+      "The benefit includes a bicycle for plain areas and an FD (Fixed Deposit) worth ₹2,850/- for hilly areas."
+    ],
+    "eligibility": [
+      "The applicant must be a girl student studying in Class 9.",
+      "The applicant must be enrolled in a government or government-aided non-government secondary school under the Uttarakhand Board."
+    ],
+    "application_process": {
+      "offline": [
+        "The Uttarakhand Board provides bicycles/FDs to schools based on the number of girl students enrolled in Class 9 in government and government-aided secondary schools.",
+        "The schools then distribute the bicycles/FDs to the enrolled girl students.",
+        "No student is required to apply for this scheme."
+      ]
+    },
+    "documents_required": [
+      "No documents are required for this scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 75)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of the scheme?",
+      "answer": "The main objective is to encourage girls to continue their education by providing them with bicycles for commuting or financial support in the form of FDs."
+    },
+    {
+      "question": "Who are the beneficiaries of the scheme?",
+      "answer": "Girls studying in Class 9 in government and government-aided non-government secondary schools under the Uttarakhand Board are eligible beneficiaries."
+    },
+    {
+      "question": "How much financial assistance is given under the scheme?",
+      "answer": "Each girl student in Class 9 receives ₹2850/-."
+    },
+    {
+      "question": "How is the assistance provided in plain areas?",
+      "answer": "In plain areas, the assistance is given in the form of a bicycle worth ₹2850/-."
+    },
+    {
+      "question": "How is the assistance provided in hilly areas?",
+      "answer": "In hilly areas, assistance of ₹2850 is given through a Fixed Deposit (FD) in the student’s name."
+    },
+    {
+      "question": "Do students need to apply for this scheme?",
+      "answer": "No. Students do not need to apply."
+    },
+    {
+      "question": "How are bicycles/FDs distributed to students?",
+      "answer": "The Uttarakhand Board provides bicycles/FDs to schools, and schools distribute them to eligible Class 9 girl students."
+    },
+    {
+      "question": "Which schools are covered under the scheme?",
+      "answer": "The scheme covers government and government-aided non-government secondary schools affiliated with the Uttarakhand Board."
+    }
+  ]
+}

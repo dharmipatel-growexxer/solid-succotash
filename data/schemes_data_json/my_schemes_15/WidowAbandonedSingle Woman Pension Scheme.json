@@ -1,0 +1,75 @@
+{
+  "scheme_name": "Widow/Abandoned/Single Woman Pension Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wdenp",
+  "location_name": "Himachal Pradesh",
+  "location_type": "state",
+  "page_title": "Widow/Abandoned/Single Woman Pension Scheme",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "Widow/Abandoned/Single Woman Pension Scheme",
+      "is a scheme under the Social Welfare and Empowerment Department, Government of Himachal Pradesh. The scheme aims to provide financial help to widows, abandoned women, and unmarried women shall be entitled to receive pension for a sum of Rs.1,150/-per month. The scheme aims to improve the quality of life of these women who are unable to support themselves financially."
+    ],
+    "benefits": [
+      "Financial assistance of Rs.1,150/- per month to eligible widows, deserted women, and unmarried women.",
+      "The pension amount is disbursed directly to the beneficiary's bank account.",
+      "It helps improve the standard of living of eligible women and reduces their financial burden.",
+      "Provides a sense of security and support to eligible women."
+    ],
+    "eligibility": [
+      "Applicant must be a resident of Himachal Pradesh.",
+      "Applicant must be a widow, deserted woman, or unmarried woman.",
+      "Applicant's annual income should not exceed Rs. 35,000."
+    ],
+    "application_process": {
+      "offline": [
+        "Eligible women may download or obtain the",
+        "application form",
+        "for the Widow/Abandoned/Single Woman Pension Scheme and submit to respective Gram Panchayat or block development office.",
+        "Fill out the application form with accurate personal and income details.",
+        "Attach the required documents such as income certificate, identity proof, age proof, and bank account details.",
+        "Submit the completed application form along with the necessary documents to the respective Gram Panchayat or block development office."
+      ]
+    },
+    "documents_required": [
+      "Recommendation from the concerned Gram Panchayat.",
+      "Copy of the Parivar Register",
+      "Aadhaar Card.",
+      "Bank Account."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What Is The Amount Of Pension Provided Under The Widow/Deserted/Ekal Nari Pension Scheme?",
+      "answer": "The pension amount provided under the scheme is Rs. 700 per month."
+    },
+    {
+      "question": "Who Is Eligible For The Scheme?",
+      "answer": "Widows, deserted women, and unmarried women above the age of 45 years with an annual income of less than Rs. 35,000 are eligible for the scheme."
+    },
+    {
+      "question": "How Can I Apply For The Scheme?",
+      "answer": "Eligible women can obtain the application form from the respective Gram Panchayat or block development office, fill it out accurately, attach the necessary documents, and submit it to the respective office."
+    },
+    {
+      "question": "Is There Any Application Fee For The Scheme?",
+      "answer": "No, there is no application fee for the scheme."
+    },
+    {
+      "question": "How Is The Pension Amount Disbursed?",
+      "answer": "The pension amount is directly disbursed to the beneficiary's bank account."
+    },
+    {
+      "question": "Can A Woman Below 45 Years Of Age Apply For The Scheme?",
+      "answer": "No, only women above the age of 45 years are eligible for the scheme."
+    },
+    {
+      "question": "Is The Scheme Applicable Only For Widows?",
+      "answer": "No, the scheme is applicable for widows, deserted women, and unmarried women above the age of 45 years."
+    }
+  ]
+}

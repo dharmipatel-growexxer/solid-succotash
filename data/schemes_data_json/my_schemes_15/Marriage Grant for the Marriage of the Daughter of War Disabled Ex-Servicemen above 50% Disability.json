@@ -1,0 +1,109 @@
+{
+  "scheme_name": "Marriage Grant for the Marriage of the Daughter of War Disabled Ex-Servicemen above 50% Disability",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mgmdwdesmd",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Marriage Grant for the Marriage of the Daughter of War Disabled Ex-Servicemen above 50% Disability",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Marriage Grant for the Marriage of the Daughter of War Disabled Ex-Servicemen above 50% Disability\" scheme is implemented by the Sainik and Ardh Sainik Welfare Department, Government of Haryana. Under this scheme, financial assistance of ₹21,000/- is provided for the marriage of each dependent daughter of war-disabled ex-servicemen whose disability has been assessed above 50%, for up to two daughters who are at least 18 years old."
+    ],
+    "benefits": [
+      "Financial assistance of ₹21,000/- is given for the marriage of each dependent daughter of war-disabled ex-servicemen whose disability has been assessed as over 50%."
+    ],
+    "eligibility": [
+      "The applicant should be a bonafide resident of Haryana.",
+      "The applicant should be a war-disabled ex-serviceman with a disability assessed above 50%.",
+      "The daughter should be at least 18 years old.",
+      "The applicant can receive the benefit for up to two daughters only."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "The eligible applicant may apply online through the Official Portal-",
+        "Antyodaya-SARAL Portal",
+        ".",
+        "Step 2:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 3:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 4: Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to apply for the scheme:",
+        "To avail the benefits of the scheme, visit the Official",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "Step 3: After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’.",
+        "Step 4:",
+        "Now, you can search for the scheme and download the pre-defined documents form/template and you will need to upload the filled-in/signed form/template in the 'Attach Enclosures' screen.",
+        "Step 5:",
+        "Click on ‘Proceed to Apply’ to fill out the application form. Enter your Parivar Pehchan Patra number- Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 6:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 7:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 8:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track their applications through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "Copy of Identity Card of Ex-serviceman",
+      "Parivar Pehchan Patra",
+      "Original Discharge Book of Ex-serviceman (Complete)",
+      "Domicile Certificate of Haryana",
+      "Copy of Bank Passbook linked with Aadhaar Card",
+      "Applicant’s Photo ID Proof (Ration Card/Driving Licence/Voter ID Card/PAN Card etc.)",
+      "P.P.O",
+      "Battle Casualty Report from Military Authority",
+      "Aadhaar Card",
+      "Age Proof- Matric Exam Certificate for Date of Birth verification (attested)",
+      "Wedding Card",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Notification",
+      "Antyodaya-SARAL Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the primary benefit of this scheme?",
+      "answer": "The primary benefit is financial assistance of ₹21,000 for the marriage of each dependent daughter of eligible war-disabled ex-servicemen."
+    },
+    {
+      "question": "How many daughters can receive this benefit under the scheme?",
+      "answer": "The benefit is provided for up to two daughters of the eligible war-disabled ex-servicemen."
+    },
+    {
+      "question": "What is the minimum age requirement for the daughters to receive the marriage grant?",
+      "answer": "The daughter must be at least 18 years old."
+    },
+    {
+      "question": "What is the eligibility criterion for the war-disabled ex-servicemen?",
+      "answer": "The ex-serviceman should have a disability assessed above 50%."
+    },
+    {
+      "question": "Does the applicant need to be a resident of Haryana?",
+      "answer": "Yes, the applicant should be a bonafide resident of Haryana."
+    },
+    {
+      "question": "How can an eligible applicant apply for this scheme?",
+      "answer": "The applicant can apply online through the Official Portal- Antyodaya-SARAL Portal at https://saralharyana.gov.in/"
+    },
+    {
+      "question": "Can applications be tracked?",
+      "answer": "Yes, applications can be tracked through the Official Antyodaya-SARAL Portal by entering the Department Name, Scheme Name, and Application Reference ID at https://status.saralharyana.nic.in/"
+    },
+    {
+      "question": "Can the scheme benefit be availed for the marriage of sons?",
+      "answer": "No, the scheme is specifically for the marriage of daughters."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scheme_name": "Mahila Kisan Yojana (Maharashtra)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mkym",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Mahila Kisan Yojana (Maharashtra)",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mahila Kisan Yojana\" is implemented by the Department of Social Justice & Special Assistance, Government of Maharashtra, in collaboration with the National Scheduled Castes Finance and Development Corporation (NSFDC). The scheme aims to uplift the lifestyle of economically disadvantaged Charmakar communities (such as Dhor, Chambhar, Holar, and Mochi). The scheme promotes educational, economic, and social development to ensure a respectable place in society. Additionally, it supports the production and sale of various types of footwear and leather articles to government departments and the open market."
+    ],
+    "benefits": [
+      "Total Loan Amount:",
+      "The scheme provides financial assistance of ₹50,000 for eligible female beneficiaries.",
+      "Subsidy Provided:",
+      "A subsidy of ₹10,000 is granted, reducing the effective loan burden on the beneficiary",
+      "Loan Component:",
+      "The remaining ₹40,000 is provided as a loan with an affordable interest rate of 5% per annum."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Maharashtra.",
+      "The applicant should be a female.",
+      "The applicant should belong to the Charmakar Community.",
+      "The applicant's age should be between 18 to 50 years.",
+      "The applicant must have knowledge of the business for which they are applying for a loan.",
+      "The applicant must have her own name, or joint name with her husband, or her husband’s name (with affidavit) on the 7/12 land extract for agricultural project loans.",
+      "For the 50% Subsidy Scheme and Margin Money, her annual income must be below the poverty line.",
+      "For the NSFDC Scheme, the income limit is ₹98,000 for rural areas and ₹1,20,000 for urban areas."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Office of Leather Industries Development Corporation of Maharashtra (LIDCOM),",
+        "and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the District Office of Leather Industries Development Corporation of Maharashtra (LIDCOM).",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Completed application form from the LIDCOM District Office.",
+      "Recent passport-size photograph.",
+      "Valid Income Certificate (issued by an authorized government officer).",
+      "Caste Certificate (Charmakar Community).",
+      "Proof of Residence (Maharashtra).",
+      "7/12 Land Extract:",
+      "Applicant’s name, joint name with husband, or husband’s name (with affidavit) for agricultural loans.",
+      "Knowledge or experience proof relevant to the proposed business/project."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Mahila Kisan Yojana?",
+      "answer": "It is a scheme aimed at economically empowering the Charmakar community through financial assistance for agricultural projects."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Female beneficiaries of the Charmakar Community aged 18 to 50 years."
+    },
+    {
+      "question": "What is the total loan amount available under this scheme?",
+      "answer": "A total loan amount of ₹50,000 is available."
+    },
+    {
+      "question": "What portion of the loan is subsidized?",
+      "answer": "₹10,000 of the loan amount is provided as a subsidy."
+    },
+    {
+      "question": "What is the interest rate on the loan?",
+      "answer": "The interest rate is set at 5% per annum for the loan component."
+    },
+    {
+      "question": "What are the income criteria for applicants?",
+      "answer": "Annual income must be below poverty line for the subsidy scheme, and below ₹98,000 in rural areas or ₹1,20,000 in urban areas for NSFDC Scheme."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Income Certificate, Caste Certificate, 7/12 land extract, and a completed application form."
+    },
+    {
+      "question": "Where can I obtain the application form?",
+      "answer": "The application form can be obtained at the District Office of LIDCOM."
+    },
+    {
+      "question": "How do I submit my application?",
+      "answer": "Submit the completed application form along with required documents at the District Office of LIDCOM."
+    },
+    {
+      "question": "Is there a specific deadline for submitting applications?",
+      "answer": "Applicants should check with the District Office for any specific deadlines."
+    },
+    {
+      "question": "What happens after I submit my application?",
+      "answer": "You will receive an acknowledgment receipt from the District Office."
+    }
+  ]
+}

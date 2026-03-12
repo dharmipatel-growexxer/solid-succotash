@@ -1,0 +1,61 @@
+{
+  "scheme_name": "Mukhyamantri Aanchal Amrit Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/maayu",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Aanchal Amrit Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mukhyamantri Anchal Amrit Yojana\" has been launched by the Department of Women Empowerment & Child Development, Government of Uttarakhand. The scheme aims to improve the health of children between 3 to 6 years of age by providing them fortified and flavored milk containing Vitamins A and D, four days a week, at Anganwadi Centres."
+    ],
+    "benefits": [
+      "Under this scheme, children between 3 to 6 years of age are provided fortified and flavored milk enriched with Vitamins A and D, four days a week."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary must be a child between 3 and 6 years of age."
+    ],
+    "application_process": {
+      "offline": [
+        "Children who go to/are registered at the Anganwadi Centre receive benefits directly at the centre."
+      ]
+    },
+    "documents_required": [
+      "Birth certificate of the child"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 35)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who are the beneficiaries of this scheme?",
+      "answer": "Children between 3 to 6 years of age are eligible to receive benefits under the scheme."
+    },
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "Eligible children are provided fortified and flavoured milk containing Vitamins A and D, four days a week."
+    },
+    {
+      "question": "Where do children receive these benefits?",
+      "answer": "Benefits are provided directly at the Anganwadi Centres."
+    },
+    {
+      "question": "How often is milk provided to children?",
+      "answer": "Milk is provided four days a week."
+    },
+    {
+      "question": "What types of milk are given under the scheme?",
+      "answer": "Children are provided both fortified and flavoured milk enriched with Vitamins A and D."
+    },
+    {
+      "question": "Is there any cost for the beneficiaries?",
+      "answer": "No, the benefits are provided free of cost at the Anganwadi Centres."
+    },
+    {
+      "question": "Can children receive benefits at home?",
+      "answer": "No, benefits are provided only at the Anganwadi Centres."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "scheme_name": "SUBHADRA",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/subhadra",
+  "location_name": "Odisha",
+  "location_type": "state",
+  "page_title": "SUBHADRA",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "“SUBHADRA” is a flagship scheme by the Women And Child Development Department, Government of Odisha aimed at empowering women through financial support, enhanced digital literacy, and access to social safety nets. The scheme provides direct benefits and incentivizes digital transactions, focusing on improving the socio-economic conditions of women and their families."
+    ],
+    "benefits": [
+      "SUBHADRA Card:",
+      "All beneficiaries receive a SUBHADRA card (ATM-cum-debit card) to enhance identity and empowerment.",
+      "Financial Support:",
+      "Eligible beneficiaries receive a total of ₹50,000/- over 5 years (₹10,000/- annually between 2024-25 to 2028-29).",
+      "Digital Transactions Incentive:",
+      "Top 100 women in each Gram Panchayat/Urban Local Body with the highest number of digital transactions in a year receive an additional ₹500/-."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Odisha.",
+      "The applicant should be covered under the National Food Security Act (NFSA)/ State Food Security Scheme (SFSS).",
+      "Applicant without an NFSA or SFSS Card can apply under SUBHADRA if her family income is not more than ₹2,50,000/-.",
+      "The applicant’s age should be 21 years or more and less than 60 years as on the qualifying date.",
+      "Applicants receiving financial assistance such as pension, scholarship etc. of ₹1,500/- per month or more or ₹18,000/- per annum or more under any State or Central Government Scheme would be ineligible.",
+      "The applicant should not be a current or former Member of Parliament (MP) or Member of the Legislative Assembly (MLA).",
+      "The applicant should not be an Income Tax Payee.",
+      "The applicant should not be an elected public representative in any Urban Local Body or Panchayati Raj Institution (excluding Ward Member / Councillor)",
+      "The applicant should not be Employed as a regular or contractual employee in State Government or Government of India or Public Sector Undertaking or Board or Local Body or Government Organization or is receiving pension after retirement. However, all workers receiving honorarium such as ASHA, Anganwadi Worker, Community Resource Person, Master Bookkeeper, etc. and all those engaged through outsourcing agencies would be considered, if otherwise eligible under this Scheme.",
+      "The applicant should not be an elected / nominated/ appointed representative in any Government Department or Undertaking or Board or Organization of Government of India or State Government.",
+      "An owner of a 4-wheeler Motor Vehicle except tractors, mini-trucks, small commercial vehicles and other similar light goods vehicles.",
+      "Note:",
+      "For 2024-25, if a woman attains the age of 21 years after 01.07.2024, she will get Rs.10,000 per year, only for the remaining years of the scheme period. In 2024-25, women who complete 60 years of age after 01.07.2024, will not receive the benefits for the remaining years of the scheme period."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should collect the application form from the local Anganwadi Centres, Block Offices, Urban Local Body Offices, Mo Seba Kendras, Common Service Centres, etc.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the submit the same at the nearest Mo Seba Kendra/ Common Service Centre.",
+        "Step 10:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable).",
+        "e-KYC Process:",
+        "The preferred mode of e-KYC would be through face-authentication whereby beneficiaries can complete the process through the",
+        "SUBHADRA Mobile application",
+        "by providing their Aadhaar number."
+      ]
+    },
+    "documents_required": [
+      "Copy of Aadhaar Card.",
+      "A mobile number linked to Aadhaar,",
+      "Copy of Bank Account Details (single-holder Aadhaar-enabled and DBT-enabled)."
+    ],
+    "sources_and_references": [
+      "Guidelines (English)",
+      "Guidelines (Odia)",
+      "Standard Operating Procedure (SOP)",
+      "FAQs"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the SUBHADRA scheme?",
+      "answer": "The SUBHADRA scheme is a flagship initiative by the Government of Odisha aimed at financially empowering women, improving their socio-economic status, and promoting their safety and well-being."
+    },
+    {
+      "question": "What benefits does the SUBHADRA scheme offer?",
+      "answer": "Beneficiaries receive a SUBHADRA Card, annual financial support of ₹10,000/- over five years, and rewards for digital transactions."
+    },
+    {
+      "question": "When will the financial support be disbursed each year?",
+      "answer": "The annual instalment of ₹10,000/- will be credited in two instalments: Rs. 5,000 on Rakhi Purnima and Rs. 5,000 on International Women’s Day (8th March)."
+    },
+    {
+      "question": "What is the SUBHADRA Card?",
+      "answer": "The SUBHADRA Card is an ATM-cum-debit card provided to all beneficiaries to create a sense of identity and facilitate financial transactions."
+    },
+    {
+      "question": "Are women receiving financial assistance from other schemes eligible?",
+      "answer": "No, women receiving ₹1,500/- per month or more under other schemes are not eligible."
+    },
+    {
+      "question": "Where can I get the application form?",
+      "answer": "Forms are available at Anganwadi Centres, Blocks, Mo Seba Kendras, and Common Service Centres."
+    },
+    {
+      "question": "What happens if there is a discrepancy in the application?",
+      "answer": "Information in Aadhaar will be taken as final in case of discrepancies."
+    },
+    {
+      "question": "Are there any fees for the application form?",
+      "answer": "The application forms are free of cost, and the applicants are not required to pay any fees at any of the distribution centres."
+    },
+    {
+      "question": "Does the applicant have to pay fees at the CSCs/MSKs while submitting their applications?",
+      "answer": "No, the applicant does not have to pay any fees while submitting their applications at the CSCs/MSKs. It is free of cost."
+    },
+    {
+      "question": "On submission of the application, does the applicant get an acknowledgement receipt?",
+      "answer": "On successful submission of the application form on the online portal by the CSC/MSK personnel, a system-generated acknowledgement receipt will be printed and provided to the applicant with a unique ID for tracking the status of the application."
+    },
+    {
+      "question": "What should an applicant do if there is a data mismatch in their Aadhaar card?",
+      "answer": "The applicant must correct the information in their Aadhaar card before applying for the scheme."
+    },
+    {
+      "question": "What happens if an applicant does not have a DBT-enabled bank account?",
+      "answer": "The applicant will be given an opportunity to open and link a bank account that is Aadhaar-enabled and DBT-enabled."
+    }
+  ]
+}

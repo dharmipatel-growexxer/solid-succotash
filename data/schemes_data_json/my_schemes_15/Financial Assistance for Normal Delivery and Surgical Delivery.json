@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Financial Assistance for Normal Delivery and Surgical Delivery",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fandsd",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Financial Assistance for Normal Delivery and Surgical Delivery",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The Financial Assistance for Normal Delivery and Surgical Delivery scheme was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra. The scheme aims to provide financial assistance for natural delivery and delivery by cesarean operation to the wife of a registered male worker and/or to the registered female worker."
+    ],
+    "benefits": [
+      "Financial Assistance For:",
+      "Normal Delivery- ₹15,000/-",
+      "Surgical Delivery- ₹20,000/-"
+    ],
+    "eligibility": [
+      "The applicant should be a registered women construction worker under the MBOCWW or the wife of a registered male worker.",
+      "The applicant should be Pregnant.",
+      "Benefit is available for the first two deliveries only."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant downloads the",
+        "application form",
+        "from the MBOCWW official website.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labor Commissioner/Government Labor Officer.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo",
+      "Aadhaar Card",
+      "Identity Card of Maharashtra Building and Other Construction Workers Welfare Board",
+      "Bank Passbook",
+      "Natural/Surgical Maternity Certificate (issued by competent medical authorities)",
+      "Medical Treatment Payments",
+      "Proof of Residence (One of Aadhaar Card/Passport/Driving Licence/Ration Sheet/Last Month's Electricity Bill/Gram Panchayat Certificate)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Registered female construction workers or the wives of registered male workers."
+    },
+    {
+      "question": "What is the financial assistance provided for normal delivery?",
+      "answer": "₹15,000 for normal delivery."
+    },
+    {
+      "question": "How much assistance is provided for surgical delivery (C-section)?",
+      "answer": "₹20,000 for surgical delivery."
+    },
+    {
+      "question": "How many deliveries are covered under this scheme?",
+      "answer": "The benefit is available for the first two deliveries only."
+    },
+    {
+      "question": "Is this scheme applicable for unregistered workers?",
+      "answer": "No, only registered workers are eligible."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Aadhaar card, medical certificate, identity card, and bank passbook."
+    },
+    {
+      "question": "Where do I submit the application form?",
+      "answer": "At the Labor Commissioner's office or to the Government Labor Officer."
+    },
+    {
+      "question": "Do I need proof of pregnancy to apply?",
+      "answer": "Yes, a maternity certificate issued by a competent medical authority is required."
+    },
+    {
+      "question": "Can I apply for the third delivery?",
+      "answer": "No, only the first two deliveries are covered."
+    },
+    {
+      "question": "What should I do after submitting the form?",
+      "answer": "Request a receipt or acknowledgment from the submission office."
+    }
+  ]
+}

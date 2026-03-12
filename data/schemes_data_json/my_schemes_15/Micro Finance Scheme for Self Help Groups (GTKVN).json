@@ -1,0 +1,118 @@
+{
+  "scheme_name": "Micro Finance Scheme for Self Help Groups (GTKVN)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mfsfshg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Micro Finance Scheme for Self Help Groups (GTKVN)",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Micro Finance Scheme for Self Help Groups\" is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to economically empower women from Thakor and Koli castes through self-employment opportunities via Self Help Groups (SHGs). Under this scheme, eligible members of SHGs receive a loan at low interest to start or expand small-scale businesses/enterprises."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "Up to ₹60,000/- for eligible small businesses.",
+      "Interest Rate:",
+      "5% per annum.",
+      "Loan Coverage:",
+      "95% of the project/business cost is covered; 5% contribution is to be made by the beneficiary.",
+      "Repayment Term:",
+      "48 equal monthly installments (4 years), including interest."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should be a member of a Self Help Group (SHG).",
+      "The applicant should belong to the Thakor or Koli caste.",
+      "The applicant's age should be at least 21 years and not more than 50 years as on the date of application.",
+      "The applicant’s annual family income should not exceed ₹3,00,000/-.",
+      "The applicant should have relevant experience in the proposed trade/business field.",
+      "The applicant will have to provide suitable collateral to get the loan.",
+      "Note:",
+      "At least 50% of the total loan allocation is reserved for those with family income up to ₹1,50,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Gujarat Thakor and Koli Vikas Nigam.",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Now\".",
+        "Step 3:",
+        "Click on the loan scheme name.",
+        "Step 4:",
+        "Select the loan category and fill in the loan amount.",
+        "Step 5:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 6:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 7:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 8:",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Voter ID",
+      "Passport Size Photos",
+      "Business Address Proof",
+      "Birth Certificate",
+      "Caste Certificate",
+      "Bank Passbook",
+      "Income Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply under the scheme?",
+      "answer": "SHG members from Thakor or Koli caste aged 21–50 years."
+    },
+    {
+      "question": "What percentage of the business cost is financed?",
+      "answer": "95% is financed; 5% must be contributed by the beneficiary."
+    },
+    {
+      "question": "What is the repayment period?",
+      "answer": "The 48 monthly installments."
+    },
+    {
+      "question": "Can I use the loan for any type of business?",
+      "answer": "Yes, any skilled or small business."
+    },
+    {
+      "question": "Is prior business experience required?",
+      "answer": "Yes, experience in trade or technical skill is required."
+    },
+    {
+      "question": "Is a guarantor needed?",
+      "answer": "Yes, loan sanction requires a bail/guarantor."
+    },
+    {
+      "question": "Are individual applicants apply?",
+      "answer": "No, only SHG members can apply."
+    },
+    {
+      "question": "Is there a reservation for lower income groups?",
+      "answer": "Yes, 50% of loans are for families earning ≤ ₹1,50,000."
+    },
+    {
+      "question": "Can I apply offline?",
+      "answer": "No, the application is accepted online only."
+    },
+    {
+      "question": "Where can I check my application status?",
+      "answer": "On the GTKDC online portal using your login."
+    }
+  ]
+}

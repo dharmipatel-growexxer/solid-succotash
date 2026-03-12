@@ -1,0 +1,70 @@
+{
+  "scheme_name": "Mahila Nursery Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mny",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mahila Nursery Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mahila Nursery Yojana\" was launched by the Department of Forest, Government of Uttarakhand. The scheme aims to promote nursery establishment by providing women's groups with high-quality seedlings or saplings from certified sources, along with a fixed grant, technical support, and training to ensure effective nursery operations. Department also purchases the plants grown by women in these nurseries on a contract basis."
+    ],
+    "benefits": [
+      "Under this scheme, women’s groups are enabled to establish nurseries. High-quality seeds are procured from Silvahill or Silvasal, and the resources required for nursery operations are provided through a fixed grant. Technical support and training are also provided.",
+      "Department purchases the plants grown by women in these nurseries on a contract basis."
+    ],
+    "eligibility": [
+      "1. The applicant must be a Women Self-Help Group, Mahila Mangal Dal, or a Local Women’s Group from Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "Women Self-Help Groups, Mahila Mangal Dals, and local women’s groups will be registered at the Divisional Forest Rights Office. Women farmers will be provided with a copy of the nursery manual and technical guidance for developing the nursery.",
+        "For registration, the following documents are required: Khatauni of the proposed nursery site, proposal of the women’s group meeting, mobile number, Aadhaar card, and bank passbook.",
+        "Once the saplings in the nursery are ready, the Forest Department purchases them species-wise from the group as per the agreement between the Self-Help Group and the Forest Department.",
+        "After the group purchases the necessary materials for establishing the nursery, the Department releases the grant in installments into the account of the Self-Help Group."
+      ]
+    },
+    "documents_required": [
+      "Group Registration Certificate (from Divisional Forest Officer)",
+      "Khatauni of Proposed Nursery Site",
+      "Proposal of Group Meeting (approving nursery project)",
+      "Aadhaar Card",
+      "Bank Passbook Copy",
+      "Mobile Number",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 251)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "Women Self-Help Groups (SHGs), Mahila Mangal Dals, and Local Women’s Groups of Uttarakhand are eligible to apply under this scheme."
+    },
+    {
+      "question": "What type of assistance is provided under the scheme?",
+      "answer": "The scheme provides financial assistance in the form of fixed grants, high-quality seeds, nursery resources, technical training, and assured plant purchase by the Forest Department."
+    },
+    {
+      "question": "From where are the seeds obtained for the nurseries?",
+      "answer": "High-quality seeds are procured from Silvahill or Silvasal, ensuring that the nurseries produce healthy and high-survival-rate plants."
+    },
+    {
+      "question": "How are the women’s groups registered under the scheme?",
+      "answer": "Women Self-Help Groups, Mahila Mangal Dals, and local women’s groups are registered at the Divisional Forest Rights Office of the respective forest division."
+    },
+    {
+      "question": "What kind of training or technical support is provided?",
+      "answer": "The Forest Department provides technical training, guidance, and a nursery manual to help women farmers understand nursery development & plant care."
+    },
+    {
+      "question": "How does the Forest Department purchase plants from the nurseries?",
+      "answer": "Once the saplings are ready, the Forest Department purchases the plants species-wise from the women’s group based on a pre-signed agreement between the department and the Self-Help Group."
+    },
+    {
+      "question": "How is the grant released to the women’s groups?",
+      "answer": "After the group procures the necessary materials for nursery development, the department releases the grant in installments directly into the group’s bank account."
+    }
+  ]
+}

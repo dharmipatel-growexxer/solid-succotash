@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Mukhyamantri Sampoorna Pushti Yojana: Adolescent Girls Nutrition",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/samproonapushtiagn",
+  "location_name": "Odisha",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Sampoorna Pushti Yojana: Adolescent Girls Nutrition",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The “Adolescent Girls Nutrition” scheme is a component of the \"Mukhyamantri Sampoorna Pushti Yojana (MSPY)\" scheme, introduced by the Department of Women & Child Development, Government of Odisha. The scheme aims to enhance nutritional support for all adolescent girls aged 15 -19 years across the state. However, in the 10 Aspirational Districts, the coverage is limited to girls aged 18 - 19 years. The scheme has been implemented for a five-year period, commencing from FY 2023-24 to FY 2027-28."
+    ],
+    "benefits": [
+      "Supplementary Nutrition:",
+      "Since adolescence is a period of growth spurt, nutritional requirement during the period is at its peak. Nutritional interventions at this stage would help in ensuring proper growth, addressing anaemia and ensure better outcomes during pregnancy and childbirth at a later stage.",
+      "Daily Ration Cost:",
+      "₹9.50/- per beneficiary per day for 300 days a year.",
+      "Weekly Nutrition Supplements for Adolescent Girls (15-19 years):",
+      "The following items as Take Home Ration (THR) will be given to the Adolescent Girls (15-19 years) under this scheme for 300 days per year.",
+      "Sl. No",
+      "Type of Take Home Ration",
+      "Monthly Quantity",
+      "1",
+      "Eggs",
+      "16 Pieces",
+      "2",
+      "Roasted Chana",
+      "1.5 kg",
+      "3",
+      "Paushtik Bhel (Bengal Gram or Chana is to be roasted and mixed in the Bhel or Mudhi)",
+      "1.0 kg",
+      "Date of delivery:",
+      "All items will be provided to the beneficiaries at the Anganwadi Centre (AWC) on the 1st of every month."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Odisha.",
+      "The beneficiary must be an adolescent girl.",
+      "In the 10 Aspirational districts (Bolangir, Dhenkanal, Gajapati, Kalahandi, Kandhamal, Koraput, Malkangiri, Nabarangpur, Nuapada, Rayagada), girls aged 18-19 years shall be included under the MSPY scheme as the adolescent girls in the 14 -18 years category are enrolled in the Scheme for Adolescent Girls (SAG) of Government of India.",
+      "In the Non-Aspirational districts, all Adolescent Girls (15 -19 years) in the service area of the Anganwadi Centres (AWCs) shall be provided with Take Home Ration under MSPY.",
+      "Anganwadi Workers (AWWs) will prepare a line listing of the Adolescent girls (15 -19 years) in the service area and enroll the girls under the Programme."
+    ],
+    "application_process": {
+      "offline": [
+        "The beneficiaries must visit or contact their nearest Anganwadi Centres or Anganwadi Workers to avail the benefits under the scheme.",
+        "Notes:",
+        "Take Home Ration (THR) under MSPY is distributed to the beneficiaries on the 1st of every month at the Anganwadi Centres (AWCs).",
+        "Eggs are provided to the Adolescent girls by the Anganwadi Workers (AWWs) on weekly basis (4 per week) during the Advika/Kishori Diwas sessions on Saturdays. The AWW has to ensure supervised feeding of the egg along with the IFA tablets."
+      ]
+    },
+    "documents_required": [
+      "Identity proof (Aadhaar Card, etc.)",
+      "Date of Birth Certificate",
+      "Any Other Documents (as per requirement)"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who are the primary beneficiaries of the adolescent nutrition component?",
+      "answer": "All adolescent girls aged 15–19 years in non-aspirational districts and 18–19 years in aspirational districts under MSPY."
+    },
+    {
+      "question": "What nutritional support do adolescent girls receive under scheme?",
+      "answer": "Girls receive Take-Home Ration (THR) including eggs, roasted chana, and paushtik bhel for 300 days a year."
+    },
+    {
+      "question": "How much is the ration cost per beneficiary per day?",
+      "answer": "The ration cost under MSPY is ₹9.50 per day for each adolescent girl for 300 days a year."
+    },
+    {
+      "question": "What specific items are included in the Take-Home Ration?",
+      "answer": "Monthly entitlements include: Eggs: 16 pieces Roasted Chana: 1.5 kg Paushtik Bhel: 1.0 kg Eggs: 16 pieces Roasted Chana: 1.5 kg Paushtik Bhel: 1.0 kg"
+    },
+    {
+      "question": "How are the Take-Home Ration items provided to beneficiaries?",
+      "answer": "Take-Home Ration is prepared with items procured by SHGs and distributed at Anganwadi Centres (AWCs)."
+    },
+    {
+      "question": "What role do Anganwadi Workers (AWWs) play?",
+      "answer": "Anganwadi Workers (AWWs) distribute weekly eggs during Kishori Diwas/Advika sessions and ensure supervised consumption along with IFA tablets."
+    },
+    {
+      "question": "How is beneficiary data tracked?",
+      "answer": "Data for adolescent girls in aspirational districts is entered in the POSHAN Tracker; in non-aspirational districts, it is recorded in the Tathya App."
+    }
+  ]
+}

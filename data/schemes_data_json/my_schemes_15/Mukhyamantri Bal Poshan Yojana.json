@@ -1,0 +1,61 @@
+{
+  "scheme_name": "Mukhyamantri Bal Poshan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mbpyu",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Bal Poshan Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mukhyamantri Bal Poshan Yojana\" has been launched by the Department of Women Empowerment & Child Development, Government of Uttarakhand. The scheme aims to improve the health of pre-school children (aged 3 to 6 years) by providing nutritious food, including eggs twice a week and banana chips twice a week, at Anganwadi Centres."
+    ],
+    "benefits": [
+      "Under the scheme, pre-school children (aged 3 to 6 years) are provided with eggs twice a week and banana chips twice a week."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "Children aged 3 to 6 years are eligible to receive nutritious food under this scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Children who go/get registered at Anganwadi Centre are provided benefits at the centre itself."
+      ]
+    },
+    "documents_required": [
+      "Birth Certificate of child"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 35)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who are the beneficiaries of this scheme?",
+      "answer": "Pre-school children aged 3 to 6 years who are registered at Anganwadi Centres are eligible."
+    },
+    {
+      "question": "What nutritional benefits are provided under the scheme?",
+      "answer": "Children are provided eggs twice a week and banana chips twice a week at the Anganwadi Centre."
+    },
+    {
+      "question": "Where are the benefits provided?",
+      "answer": "The benefits are provided directly at the Anganwadi Centre where the child is registered."
+    },
+    {
+      "question": "How often are eggs provided under the scheme?",
+      "answer": "Eggs are provided twice a week."
+    },
+    {
+      "question": "How often are banana chips provided under the scheme?",
+      "answer": "Banana chips are provided twice a week."
+    },
+    {
+      "question": "What is the age limit for children to receive benefits?",
+      "answer": "Children aged 3 to 6 years are eligible."
+    },
+    {
+      "question": "How can parents register their child for this scheme?",
+      "answer": "Parents can register their child at the nearest Anganwadi Centre in their area."
+    }
+  ]
+}

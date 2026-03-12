@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Maintenance Grant for Children with Disabilities from Birth",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/vbpa",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Maintenance Grant for Children with Disabilities from Birth",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Maintenance Grant for Children with Disabilities from Birth” has been implemented by the Department of Social Welfare, Government of Uttarakhand. It aims to provide financial assistance to parents or guardians for caring for their children below 18 years of age with more than 40% disability."
+    ],
+    "benefits": [
+      "₹700/- per month is provided to parents or guardians for caring for their children."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be the parent or guardian of a child with more than 40% disability.",
+      "The child must be below 18 years of age.",
+      "The family’s monthly income must be less than ₹4,000/- or the family must belong to the Below Poverty Line (BPL) category."
+    ],
+    "application_process": {
+      "online": [
+        "The applicant can apply online either by themselves or through a Common Service Center (CSC) via the Department’s Pension Portal (",
+        "https://ssp.uk.gov.in",
+        "), the",
+        "UMANG",
+        "Mobile App, or the Apuni Sarkar Portal (",
+        "https://eservices.uk.gov.in",
+        ").",
+        "The following documents are mandatory at the time of applying: Applicant’s mobile number, Passport-size photograph (attested by Gram Pradhan / V.P.D.O. / certified by Councillor), Photocopy of Aadhaar card and Voter ID card, CBS bank account details (linked/seeded with Aadhaar), Valid family income certificate or BPL certificate, Certificate of disability of more than 40%, child's birth certificate, Copy of family register (for rural areas only), Copy of the resolution passed in the open meeting of Gram Panchayat (for rural areas) / certified by Councillor (for urban areas)",
+        "All the above documents must be issued from the district where the application is being submitted.",
+        "For verification of the online application form in rural areas, the final decision is taken by the District Social Welfare Officer after recommendations from the Gram Panchayat Development Officer, Assistant Social Welfare Officer, and Block Development Officer, respectively. In urban areas, verification and recommendation are done by the Assistant Social Welfare Officer and Sub-District Magistrate. If the application is found correct, the District Social Welfare Officer approves it, after which the pension payment process is initiated.",
+        "But along with the above documents, a certificate of disability of more than 40% and a UID certificate from the Chief Medical Officer will also have to be given.",
+        "The pension amount will be credited to the parent's bank account within one month after the application is approved."
+      ]
+    },
+    "documents_required": [
+      "Applicant’s mobile number",
+      "Passport-size photograph (certified by Gram Pradhan / V.P.D.O. / Councillor)",
+      "Aadhaar card",
+      "Voter ID card",
+      "CBS bank account linked/seeded with Aadhaar card",
+      "Valid family income certificate or BPL certificate",
+      "Disability certificate of child showing more than 40% disability",
+      "Child’s birth certificate",
+      "Copy of family register (for rural areas)",
+      "Copy of the resolution passed in the open meeting of the Gram Panchayat (for rural areas) or by the Councillor (for urban areas)",
+      "Note:",
+      "All the above documents must be issued from the district where the application is submitted."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 3)",
+      "Online Application Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme aims to support parents or guardians in meeting the maintenance and care needs of children with disabilities."
+    },
+    {
+      "question": "How much financial assistance is provided?",
+      "answer": "₹700/- per month is provided to eligible parents or guardians."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Residents of Uttarakhand who are parents or guardians of children with more than 40% disability and under 18 years of age."
+    },
+    {
+      "question": "Is there any income limit for eligibility?",
+      "answer": "Yes, the family’s monthly income must be less than ₹4,000 or the family must belong to the Below Poverty Line (BPL) category."
+    },
+    {
+      "question": "What is the age limit for the child?",
+      "answer": "The child must be below 18 years of age."
+    },
+    {
+      "question": "What type of disability is considered?",
+      "answer": "The child must have a disability of more than 40% as certified by a competent medical authority."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "You can apply online through the Department’s pension portal h ttps://ssp.uk.gov.in/ , Umang mobile app, Apni Sarkar portal https://eservices.uk.gov.in , or by visiting a Common Service Centre (CSC)."
+    },
+    {
+      "question": "How is the grant amount paid?",
+      "answer": "The approved amount is directly transferred to the applicant’s bank account through Direct Benefit Transfer (DBT)."
+    }
+  ]
+}

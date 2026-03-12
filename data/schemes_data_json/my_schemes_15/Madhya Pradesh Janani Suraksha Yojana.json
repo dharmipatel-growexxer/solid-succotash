@@ -1,0 +1,97 @@
+{
+  "scheme_name": "Madhya Pradesh Janani Suraksha Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mpjsy",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Madhya Pradesh Janani Suraksha Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Janani Suraksha Yojana\" was launched by the Department of Public Health and Medical Education, Government of Madhya Pradesh. The scheme aims to promote institutional deliveries among pregnant women to reduce maternal and neonatal mortality by providing cash incentives to women delivering in government and accredited private hospitals, as well as to motivators (ASHA workers or family escorts) who assist them."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹1,400 to rural pregnant women delivering in government or accredited private hospitals.",
+      "₹1,000 to urban pregnant women for institutional delivery.",
+      "₹350 incentive to the motivator (ASHA or escort) assisting a rural woman for delivery.",
+      "₹200 incentive to the motivator (ASHA or escort) assisting an urban woman for delivery.",
+      "₹250 as transport allowance, if the motivator or family arranges transportation to the hospital.",
+      "Free hospital stay and maternal health services in government or accredited private hospitals."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant should be a pregnant woman.",
+      "The applicant should deliver in a government or accredited private hospital.",
+      "The applicant should belong to a BPL (Below Poverty Line) or Antyodaya family."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "Visit the Official Website of \"",
+        "Madhya Pradesh Lok Sewa Guarantee Portal",
+        "\".",
+        "Step 2:",
+        "On the homepage, click \"Citizen Registration\". You will be taken to the registration page.",
+        "Step 3:",
+        "On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click \"Verify Mobile Number.\"",
+        "Step 4:",
+        "A verification code will be sent to your mobile number. Enter the code and complete the registration.",
+        "Application",
+        "Visit the Official Website of \"Madhya Pradesh Lok Sewa Guarantee Portal\".",
+        "Enter your User ID, Password, and Captcha Code, and click \"Login.\"",
+        "Click on \"Apply Online Service\" and select the scheme you intend to apply for.",
+        "In the scheme's online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click \"Submit\"."
+      ]
+    },
+    "documents_required": [
+      "BPL (Below Poverty Line) Card or Antyodaya, Blue, or Yellow Ration Card (poverty line card related to livelihood in the case of home delivery)",
+      "Hospital Discharge Certificate (in case of delivery at a government health institution)",
+      "Maternity and Child Health Card",
+      "Copy of Aadhaar Card",
+      "Copy of the Passbook of the Aadhaar-linked Bank Account"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for JSY benefits?",
+      "answer": "Pregnant women from BPL or Antyodaya families delivering in government or accredited private hospitals."
+    },
+    {
+      "question": "Is there any transport allowance?",
+      "answer": "Yes, ₹250 is given if transportation is arranged by the motivator or family."
+    },
+    {
+      "question": "Are private hospitals included?",
+      "answer": "Only accredited private hospitals are covered."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "BPL (Below Poverty Line) Card or Antyodaya, Blue, or Yellow Ration Card, etc."
+    },
+    {
+      "question": "Can women above poverty line apply?",
+      "answer": "No, only BPL or Antyodaya families are eligible."
+    },
+    {
+      "question": "Is there an application form or fee?",
+      "answer": "No, services are automatic upon hospital registration."
+    },
+    {
+      "question": "Are motivators or escorts eligible for incentives?",
+      "answer": "Yes, ₹350 for rural and ₹200 for urban areas."
+    },
+    {
+      "question": "How much incentive is given to rural mothers?",
+      "answer": "Incentive of ₹1,400 for each institutional delivery."
+    },
+    {
+      "question": "How much incentive is given to urban mothers?",
+      "answer": "Incentive of ₹1,000 for each institutional delivery."
+    }
+  ]
+}

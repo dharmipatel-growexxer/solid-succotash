@@ -1,0 +1,115 @@
+{
+  "scheme_name": "Working Women Hostel",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wwhh",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Working Women Hostel",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Working Women Hostel\" by the Women and Child Development Department, Government of Haryana aims to provide secure, affordable, and conveniently located housing to employed women to enable them to become socially and economically independent. The scheme also intends to ensure a supportive environment for working women, particularly those away from their homes. The scheme is implemented by the respective designated implementing organizations managing the hostels. These hostels are meant to serve women who are working professionals and need residential support in cities or towns where they are employed."
+    ],
+    "benefits": [
+      "Rental Charges:",
+      "Single Bedrooms:",
+      "Not exceeding 15% of total emoluments/gross salary.",
+      "Double Bedrooms:",
+      "Not exceeding 10% of total emoluments/gross salary.",
+      "Dormitories:",
+      "Not exceeding 7.5% of total emoluments/gross salary."
+    ],
+    "eligibility": [
+      "The applicant should be a woman.",
+      "The applicant should be working individual."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in"
+      ]
+    },
+    "documents_required": [
+      "Parivar Pehchan Patra Number.",
+      "Visitor List.",
+      "Appointment of local Guardian.",
+      "Acceptance of Local guardian.",
+      "Medical Certificate.",
+      "Undertaking.",
+      "Character Certificate.",
+      "Financial Guarantee."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the “Working Women Hostel” scheme?",
+      "answer": "The objective of the “Working Women Hostel” scheme is to provide safe, secure, and affordable residential facilities to employed women, especially those who have migrated for work and need reliable accommodation near their place of employment."
+    },
+    {
+      "question": "Which department is responsible for implementing the “Working Women Hostel” scheme in Haryana?",
+      "answer": "The Women and Child Development Department, Government of Haryana, is responsible for the implementation and overall supervision of the “Working Women Hostel” scheme across various designated locations in the state."
+    },
+    {
+      "question": "Who is eligible to apply under the “Working Women Hostel” scheme?",
+      "answer": "Any woman who is currently working and requires accommodation due to employment away from her native residence is eligible to apply under the “Working Women Hostel” scheme."
+    },
+    {
+      "question": "What are the rent charges applicable to beneficiaries staying in hostels under the scheme?",
+      "answer": "Under the “Working Women Hostel” scheme, the rent charged from beneficiaries is subsidized and varies depending on the type of room; it is limited to 15% of gross salary for single bedrooms, 10% for double bedrooms, and 7.5% for dormitory accommodation."
+    },
+    {
+      "question": "Are there any income limits or salary caps for availing hostel accommodation?",
+      "answer": "Although the scheme does not specify a strict income cap, the rent charged is proportionate to the applicant’s salary, thereby making the accommodation affordable for working women across different income brackets."
+    },
+    {
+      "question": "What is the process for applying to the \"Working Women Hostel\" scheme?",
+      "answer": "The applicants may visit the Antyodaya-SARAL Portal to apply for the scheme."
+    },
+    {
+      "question": "What is the offline process for applying the scheme?",
+      "answer": "To apply for the \"Working Women Hostel\" scheme, the applicant may visit the nearest Atal Seva Kendra (Common Service Centre)."
+    },
+    {
+      "question": "Is there any fee applicable for applying under this scheme through Atal Seva Kendra (Common Service Centre)?",
+      "answer": "Yes, a nominal service fee of ₹10/- is charged by the Common Service Centre for the application."
+    },
+    {
+      "question": "Are there any specific documents that need to be submitted with the application form?",
+      "answer": "Yes, applicants are required to submit several documents, including the Parivar Pehchan Patra Number, visitor list, local guardian appointment and acceptance, medical certificate, undertaking, character certificate, and a financial guarantee."
+    },
+    {
+      "question": "Does the scheme provide hostel facilities in all districts of Haryana?",
+      "answer": "Yes, hostel facilities under the “Working Women Hostel” scheme is provided in all districts of Haryana."
+    }
+  ]
+}

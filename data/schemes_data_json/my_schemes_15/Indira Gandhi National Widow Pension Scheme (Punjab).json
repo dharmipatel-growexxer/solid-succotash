@@ -1,0 +1,109 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme (Punjab)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ignwpsp",
+  "location_name": "Punjab",
+  "location_type": "state",
+  "page_title": "Indira Gandhi National Widow Pension Scheme (Punjab)",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Indira Gandhi National Widow Pension Scheme (IGNWPS)\" is implemented by the Department of Social Security and Development of Women and Children, Government of Punjab. Under this scheme, widows aged 40 years and above receive a pension of ₹300/- per month. After attaining the age of 80 years, the pension amount increases to ₹500/- per month."
+    ],
+    "benefits": [
+      "Pension of ₹300/- per month for widows aged 40 to 79 years.",
+      "Pension of ₹500/- per month for widows aged 80 years and above."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Punjab.",
+      "The applicant should be a widow.",
+      "The age of the applicant should be above 40 years in age.",
+      "The applicant should belong to a Below Poverty Line (BPL) family."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The interested applicant should visit the District Social Security Officer and request a hard copy of the prescribed format of the application form from the concerned staff.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the",
+        "District Social Security Officer",
+        ".",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof i.e. Voter ID Card, Driving License",
+      "Death Certificate of Husband",
+      "Residence Proof",
+      "Proof of Age",
+      "Below Poverty Line (BPL) Card/ Related Documents",
+      "Caste Certificate, if Applicable",
+      "Address Proof",
+      "Bank Passbook/ Bank Account Details",
+      "Any Other Documents as Required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the age and residency requirements to be eligible for the widow pension scheme?",
+      "answer": "The applicant must be a resident of Punjab, a widow, and aged above 40 years. Additionally, she must belong to a Below Poverty Line (BPL) family."
+    },
+    {
+      "question": "How much monthly pension will I receive if I am between 40 and 79 years old?",
+      "answer": "Eligible widows aged 40 years and above receive ₹300/- per month until they turn 80, after which it increases to ₹500/-."
+    },
+    {
+      "question": "Is there an increased pension amount for beneficiaries above a certain age?",
+      "answer": "Yes, after attaining 80 years of age, the pension amount increases from ₹300/- to ₹500/- per month."
+    },
+    {
+      "question": "Do I need to provide proof that my family is below the poverty line?",
+      "answer": "Yes, a valid Below Poverty Line (BPL) card must be submitted as part of the application process."
+    },
+    {
+      "question": "What documents are required to prove my identity when applying for the pension?",
+      "answer": "You must submit identity proof such as a Voter ID Card or Driving License."
+    },
+    {
+      "question": "Is a death certificate mandatory to prove widowhood for this pension scheme?",
+      "answer": "Yes, the death certificate of the husband must be provided as part of the application."
+    },
+    {
+      "question": "Do I need to submit my bank account details for this pension scheme?",
+      "answer": "Yes, bank account details are required to facilitate direct pension payments."
+    },
+    {
+      "question": "Where can I obtain the application form if I want to apply offline?",
+      "answer": "You must visit the District Social Security Officer to request a hard copy of the application form."
+    },
+    {
+      "question": "Should I keep any proof of submission after applying offline?",
+      "answer": "Yes, request an acknowledgement receipt containing submission details like date, time, and a unique identification number (if applicable)."
+    },
+    {
+      "question": "Can I apply online for this widow pension scheme, and if so, how?",
+      "answer": "Yes, you can apply online through the UMANG portal by registering and accessing the National Social Assistance Programme (NSAP) section."
+    },
+    {
+      "question": "What is the first step to apply online through the UMANG portal?",
+      "answer": "Visit the UMANG website, click \"Register,\" fill in the required details, and complete mobile verification via OTP."
+    },
+    {
+      "question": "Where do I find the online application form for the pension scheme on UMANG?",
+      "answer": "After logging in, navigate to the National Social Assistance Programme (NSAP) page and click \"Apply Online.\""
+    },
+    {
+      "question": "Is it necessary to self-attest documents when applying offline?",
+      "answer": "Yes, copies of documents should be self-attested before submission if required."
+    },
+    {
+      "question": "Can I apply if I am a widow below 40 years of age?",
+      "answer": "No, the scheme is only for widows aged 40 years and above."
+    }
+  ]
+}

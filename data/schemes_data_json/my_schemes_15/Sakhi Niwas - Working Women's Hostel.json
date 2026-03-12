@@ -1,0 +1,68 @@
+{
+  "scheme_name": "Sakhi Niwas - Working Women's Hostel",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/snwwh",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Sakhi Niwas - Working Women's Hostel",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Sakhi Niwas - Working Women's Hostel\" is implemented by the Department of Women Empowerment & Child Development, Government of Uttarakhand. The scheme aims to provide hostel facilities for women with higher education or professional training, as well as working women, to stay in urban areas."
+    ],
+    "benefits": [
+      "Under this scheme, hostels have been arranged for women to stay in urban areas by paying a nominal fee.",
+      "Facilities include: Accommodation, Mess, Library, Gym, TV Hall, Creche, and more."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a woman pursuing higher education or professional training, or a working woman."
+    ],
+    "application_process": {
+      "offline": [
+        "At present, hostel facilities are operational in the districts of Dehradun, Haridwar, and Udham Singh Nagar.",
+        "Applicants need to visit the hostel, submit a form along with their Aadhaar card and family details, and pay the required fees to stay in the hostel."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Details of family members"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 33)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for the hostel?",
+      "answer": "Women who are pursuing higher education, professional training, or working women are eligible to apply."
+    },
+    {
+      "question": "In which districts are the hostels currently operational?",
+      "answer": "Hostels are currently operational in Dehradun, Haridwar, and Udham Singh Nagar districts."
+    },
+    {
+      "question": "What facilities are provided in the hostel?",
+      "answer": "Facilities include accommodation, mess, library, gym, TV hall, creche, and other essential amenities."
+    },
+    {
+      "question": "How can one apply for admission to the hostel?",
+      "answer": "Applicants need to visit the hostel in person and submit the application form along with the required documents."
+    },
+    {
+      "question": "What documents are required for admission?",
+      "answer": "Applicants must submit their Aadhaar card and details of family members along with the application form."
+    },
+    {
+      "question": "Is there a fee for staying in the hostel?",
+      "answer": "Yes, women can stay in the hostel by paying a nominal fee."
+    },
+    {
+      "question": "Is the hostel only for women from Uttarakhand?",
+      "answer": "Yes, the applicant must be a resident of Uttarakhand."
+    },
+    {
+      "question": "Are meals provided in the hostel?",
+      "answer": "Yes, mess facilities are available for residents."
+    }
+  ]
+}

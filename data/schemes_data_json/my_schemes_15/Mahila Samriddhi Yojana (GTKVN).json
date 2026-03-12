@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Mahila Samriddhi Yojana (GTKVN)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/msygtkdc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Mahila Samriddhi Yojana (GTKVN)",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Mahila Samriddhi Yojana\" is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to empower women entrepreneurs from the Thakor and Koli communities by providing access to micro-loans for self-employment. Under this scheme, financial assistance in the form of low-interest loans is provided to eligible women beneficiaries to help them set up small businesses or trades based on their skills."
+    ],
+    "benefits": [
+      "Maximum Loan Amount:",
+      "Up to ₹60,000/-.",
+      "Interest Rate:",
+      "4% per annum.",
+      "Loan Coverage:",
+      "Up to 100% of the loan will be given for the proposed business/trade.",
+      "Repayment:",
+      "The loan amount will have to be repaid in 48 equal monthly installments (4 years) including interest."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should be a woman from Thakor or Koli caste.",
+      "The applicant should be between 21 to 50 years of age at the time of application.",
+      "The applicant’s annual family income should not exceed ₹3,00,000/-.",
+      "The applicant should have relevant technical skills and experience in the proposed trade/business.",
+      "The applicant will have to provide suitable collateral to get the loan.",
+      "Note:",
+      "At least 50% of the total loan amount will be allocated for families with annual income up to ₹1,50,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Gujarat Thakor and Koli Vikas Nigam.",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Now\".",
+        "Step 3:",
+        "Click on the loan scheme name.",
+        "Step 4:",
+        "Select the loan category and fill in the loan amount.",
+        "Step 5:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 6:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 7:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 8:",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Voter ID",
+      "Passport Size Photos",
+      "Business Address Proof",
+      "Birth Certificate",
+      "Caste Certificate",
+      "Income certificate",
+      "Bank Passbook",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Women belonging to the Thakor or Koli communities are eligible to apply."
+    },
+    {
+      "question": "What is the income eligibility criterion under the scheme?",
+      "answer": "The annual family income should not exceed ₹3 lakh. Priority is given to families with income up to ₹1.50 lakh."
+    },
+    {
+      "question": "What is the repayment term?",
+      "answer": "The loan has to be repaid in 48 equal monthly installments along with interest."
+    },
+    {
+      "question": "Can women from other communities apply for this scheme?",
+      "answer": "No, only women from the Thakor or Koli communities are eligible."
+    },
+    {
+      "question": "Is there any margin money required from the applicant?",
+      "answer": "No margin money is required. The scheme covers 100% of the proposed business loan amount."
+    },
+    {
+      "question": "Is collateral needed?",
+      "answer": "A guarantor or surety is required."
+    },
+    {
+      "question": "Where do I apply online?",
+      "answer": "Applicants apply online through https://gtkdconline.gujarat.gov.in/"
+    },
+    {
+      "question": "Can the loan be used for purposes other than business?",
+      "answer": "No, the loan is strictly meant for starting or expanding a trade or business."
+    },
+    {
+      "question": "What is the rate of interest on the loan?",
+      "answer": "The loan carries an interest rate of 4% per annum."
+    }
+  ]
+}

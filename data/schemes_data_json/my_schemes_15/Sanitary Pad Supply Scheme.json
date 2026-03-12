@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Sanitary Pad Supply Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/spss",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Sanitary Pad Supply Scheme",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Sanitary Pad Supply Scheme\" implemented by the Women, Child Development & Social Security Department, Government of Jharkhand, aims to promote better hygiene practices and health awareness among women and adolescent girls. Under this scheme, free sanitary pads are provided quarterly to women aged 20–40 years, enhancing their health and hygiene standards while reducing the risk of diseases."
+    ],
+    "benefits": [
+      "Free Sanitary Pads Distribution:",
+      "Beneficiaries receive 3 packs (each containing 6 sanitary pads) every quarter."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Jharkhand.",
+      "The applicant should be a women.",
+      "The applicant age should be between 20–40 years.",
+      "The applicant or her dependent must not be:",
+      "Permanently employed in central/state government or public sector enterprises.",
+      "Retired government employees or pension recipients.",
+      "An income tax payer."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration:",
+        "Visit the nearest Anganwadi center to register for the scheme.",
+        "Provide valid identification documents (Aadhaar, PAN, etc.).",
+        "Submit a self-declaration form for eligibility confirmation.",
+        "Verification:",
+        "Anganwadi workers will verify the details and register beneficiaries.",
+        "Women without Aadhaar will be assisted in obtaining it, while alternative IDs will be accepted temporarily.",
+        "Distribution:",
+        "Beneficiaries will receive sanitary pads during quarterly Village Health, Sanitation, and Nutrition Day (VHSND) programs.",
+        "Anganwadi workers will maintain stock and beneficiary records."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Any other Government-Approved ID, such as a PAN Card, Ration Card, Voter ID Card",
+      "Self-Declaration Form"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can avail of this scheme?",
+      "answer": "Women aged 20–40 years residing in Jharkhand can avail of this scheme."
+    },
+    {
+      "question": "Are sanitary pads provided free of cost?",
+      "answer": "Yes, the pads are distributed free of cost to eligible beneficiaries."
+    },
+    {
+      "question": "How often are the sanitary pads distributed?",
+      "answer": "Pads are distributed quarterly through Anganwadi centers."
+    },
+    {
+      "question": "What if I do not have an Aadhaar card?",
+      "answer": "Alternative ID documents can be used temporarily, and assistance will be provided to obtain Aadhaar."
+    },
+    {
+      "question": "Who supervises the distribution process?",
+      "answer": "Distribution is supervised by Anganwadi workers during VHSND programs."
+    },
+    {
+      "question": "Can women above 40 years apply?",
+      "answer": "No, the scheme is limited to women aged 20–40 years."
+    },
+    {
+      "question": "What is the estimated cost per beneficiary?",
+      "answer": "The estimated cost is ₹54 per beneficiary per quarter."
+    },
+    {
+      "question": "What if I miss the quarterly distribution?",
+      "answer": "Contact the Anganwadi center to check for alternative distribution dates."
+    },
+    {
+      "question": "What documents are required for registration?",
+      "answer": "Aadhaar Card (preferred) or other government-approved IDs like PAN, Ration Card, or Voter ID."
+    },
+    {
+      "question": "Where can I register for the scheme?",
+      "answer": "Registration can be done at your nearest Anganwadi center."
+    }
+  ]
+}

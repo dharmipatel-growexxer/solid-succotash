@@ -1,0 +1,63 @@
+{
+  "scheme_name": "Women Helpline",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/whl-181",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Women Helpline",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "Women Helpline provides 24X7 emergency and non-emergency response through telephonic short-code 181 to women, by linking them with appropriate authorities such as Police, One Stop Centres, Hospitals, Legal Services Authorities etc. Additionally, it provides information about women welfare schemes and services.The Women Helpline has been integrated with the Emergency Response Support System 112 (ERSS-112) helpline of the Ministry of Home Affairs (MHA) and Child Helpline (1098). Furthermore, the Women Helpline (WHL) is being integrated with the One Stop Centre Scheme (OSC) and Hub for Empowerment of Women (HEW) to refer women affected by violence in need of redressal services."
+    ],
+    "benefits": [
+      "1)Emergency assistance",
+      "2)Non-emergency assistance",
+      "3)Information about government schemes and services",
+      "4) Referral services"
+    ],
+    "eligibility": [
+      "Any women in distress seeking emergency/non- emergency services or information or any other individual on her behalf can connect with the Women Helpline by calling the toll free 181."
+    ],
+    "application_process": {
+      "offline": [
+        "The Women Helpline can be contacted through a single universal toll-free number across the country, which is 181"
+      ]
+    },
+    "documents_required": [
+      "No Documents required for this Scheme"
+    ],
+    "sources_and_references": [
+      "Mission Shakti Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is Women Helpline?",
+      "answer": "Women Helpline under Sambal component of Mission Shakti intends to provide toll-free 24x7 emergency and non-emergency response to women affected by violence and other distress. It facilitates referral services, linking them with appropriate authorities such as the police, One Stop Centre, and hospitals. Additionally, it provides information about government schemes and programs for women across the country through a single uniform number."
+    },
+    {
+      "question": "Who can call the Women Helpline?",
+      "answer": "Any woman in distress or facing difficult circumstances, or someone calling on her behalf, can contact the Women Helpline for assistance."
+    },
+    {
+      "question": "How can I contact the Women Helpline?",
+      "answer": "The Women Helpline can be contacted through a single universal toll-free number across the country, which is 181. Individuals can call this number for assistance, information, or support."
+    },
+    {
+      "question": "What services does the Women Helpline provide?",
+      "answer": "The Women Helpline provides a range of services including emergency assistance through ERSS, information on government schemes, non-emergency assistance through OSCs and other institutions for legal support, psycho-social counselling, and empowerment initiatives."
+    },
+    {
+      "question": "Can I remain anonymous when contacting the Women Helpline?",
+      "answer": "Yes, you can choose to remain anonymous when contacting the Women Helpline. However, providing some basic information may help the call operators better assist you, especially in emergency situations."
+    },
+    {
+      "question": "Are the services provided by the Women Helpline confidential?",
+      "answer": "Yes, the services provided by the Women Helpline are confidential. Your privacy is respected, and information shared during the call is kept confidential unless there is a need to involve authorities for your safety and well-being."
+    },
+    {
+      "question": "How is the Women Helpline integrated with other helplines and institutions?",
+      "answer": "The Women Helpline is integrated with other helplines such as 1098 Childline, ERSS 112 and institutions like OSC and more to ensure comprehensive support for women, girls, and children. This integration facilitates seamless transfer of cases for emergency and non-emergency assistance."
+    }
+  ]
+}

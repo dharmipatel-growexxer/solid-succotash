@@ -1,0 +1,155 @@
+{
+  "scheme_name": "Indira Gandhi Matritva Poshan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/igmpy",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Indira Gandhi Matritva Poshan Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Indira Gandhi Matritva Poshan Yojana (IGMPY)\" was implemented on 1st November 2020 by the Department of Women and Child Development, Government of Rajasthan, in five tribal districts of the state. The scheme aims to improve maternal and child nutrition, encourage institutional deliveries, and reduce maternal and infant mortality in tribal regions of the state. Under this scheme, a conditional cash benefit is provided to pregnant and lactating women for their second child, ensuring proper nutrition and healthcare.",
+      "Scheme Implementation",
+      "The scheme is implemented by the Integrated Child Development Services (ICDS) under the Department of Women and Child Development.",
+      "Area's Cover",
+      "It primarily covers women in Banswara, Dungarpur, Pratapgarh, Udaipur, and Baran districts."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "A financial assistance of ₹6,000/- is provided in five conditional installments to the beneficiary.",
+      "Installment",
+      "Conditions",
+      "Amount",
+      "First Installment",
+      "On pregnancy registration at Anganwadi Centre and health check-up within 120 days (4 months) of pregnancy.",
+      "₹1000",
+      "Second Installment",
+      "After completion of second antenatal check-up during the 6th month of pregnancy.",
+      "Upon delivery at a government or empanelled private hospital and registration of child’s birth.",
+      "On successful administration of 3 key immunizations (BCG, OPV, DPT, Hepatitis B) within 105 days of birth.",
+      "₹2000",
+      "After administration of measles vaccinations and child weight measurement at 9th months",
+      "Validity:",
+      "Valid only for the birth of second child.",
+      "Mode of Disbursement:",
+      "Direct Benefit Transfer (DBT) to the beneficiary’s bank account.",
+      "NOTE:",
+      "Beneficiaries who miss a stage's requirements won't receive payment for it. However, fulfilling later stage conditions will make them eligible for subsequent payments."
+    ],
+    "eligibility": [
+      "1. The applicant should be a married woman.",
+      "2. The applicant should be a permanent resident of one of the five tribal districts of Rajasthan: Pratapgarh, Dungarpur, Banswara, Udaipur, or Baran.",
+      "3. Woman will be eligible if they meet either of the following conditions:",
+      "She become pregnant with her second child on or after 1st November 2020.",
+      "She has registered her first antenatal check-up (ANC) for the second child after 1st November 2020.",
+      "4. Pregnant or lactating woman working as Anganwadi worker, Anganwadi helper, Asha Sahayogi, or Saathin will also be eligible under the scheme, subject to fulfillment of the scheme’s conditions.",
+      "5. In the event of abortion or stillbirth, the beneficiary woman will remain eligible for the scheme if she conceives again in the future.",
+      "6. The applicant should deliver her child at a government health facility or an empanelled private health institution.",
+      "7. The applicant should not have more than two living children.",
+      "Notes:",
+      "Eligible beneficiaries will receive cash assistance in addition to benefits from other central and state government schemes such as Janani Suraksha Yojana (JSY) and Rajshree Yojana.",
+      "The date of pregnancy will be calculated based on the last menstrual period (LMP) recorded in the Pregnancy and Child Tracking System (PCTS) online portal maintained by the Medical and Health Department.",
+      "If a beneficiary does not comply with any phase of the scheme, the payment for that phase will be withheld. However, if the beneficiary meets the conditions of subsequent phases, the payment for those phases will be disbursed accordingly.",
+      "The applicant must complete all health milestones and ensure the child's immunizations are done as per the schedule."
+    ],
+    "application_process": {
+      "offline": [
+        "This primarily applies to women pregnant with their second child on or after November 1st, 2020.",
+        "Step 1:",
+        "The applicant visits your local Anganwadi center and registers their second pregnancy (This should ideally be done within 120 days of your Last Menstrual Period (LMP) to be eligible for the first installment).",
+        "Step 2:",
+        "During registration at the Anganwadi center, you must provide your Jan-Aadhaar/Bhamashah ID and your mobile phone number. This is crucial for your details to be recorded in the PCTS (Pregnancy and Child Tracking System).",
+        "NOTE:",
+        "If you do not have a Jan-Aadhaar ID, you will need to obtain one. The Anganwadi worker will inform and guide you on how to do this, potentially directing you to e-Mitra centers or the online portal.",
+        "Cooperate with the Anganwadi worker and ASHA Sahyogini/ANM for the recording of your pregnancy details, check-ups, delivery information, and child's immunization details in the PCTS.",
+        "Anganwadi Worker Role:",
+        "Identify and ensure eligible beneficiaries fulfill the scheme's conditions (as per points 2 & 3 of the guidelines).",
+        "Ensure pregnant women get their first ANC registered in PCTS within 120 days of their last menstrual period.",
+        "Ensure services are fully recorded in the RCH register and the JSY case closure form is submitted on PCTS by the 15th of each month.",
+        "For private facility check-ups, ensure the ANM records it in the Mamta card for PCTS visibility.",
+        "For institutional deliveries outside listed centers, collect the self-declaration form and provide one copy to the ASHA/ANM for PCTS entry.",
+        "Assist the Woman Supervisor in verifying beneficiary eligibility.",
+        "Inform and encourage beneficiaries without Jan-Aadhaar to obtain one.",
+        "Submit amendment forms for any discrepancies found in PCTS data.",
+        "ASHA Sahyogini/ANM Role:",
+        "Ensure services are fully recorded in the RCH register.",
+        "Submit the JSY case closure form on PCTS by the 15th of each month for eligible IGMPY beneficiaries.",
+        "Record private facility check-ups in the Mamta card for PCTS visibility.",
+        "Enter details from the self-declaration form into PCTS for deliveries in non-listed private facilities.",
+        "Ensure family planning details are entered into PCTS by the 15th of each month.",
+        "Woman Supervisor (LS) Role:",
+        "Verify eligible women based on PCTS data against scheme rules in their Rajposhan web login.",
+        "Initially, manually verify using printouts and Anganwadi worker assistance.",
+        "Approve or reject beneficiary eligibility with reasons in Rajposhan.",
+        "Ensure the beneficiary is registered at the correct Anganwadi center, is eligible, and has complete data in PCTS.",
+        "Report reasons for ineligibility in Rajposhan.",
+        "Submit amendment forms for data discrepancies in Rajposhan.",
+        "Update beneficiary Jan-Aadhaar, bank details, IFSC code, and mobile number in Rajposhan based on amendment forms.",
+        "Continuously monitor if new beneficiary registration forms are entered into PCTS.",
+        "Enter data for new beneficiaries in Rajposhan (for lifting purposes initially).",
+        "Verify the linking of the beneficiary's bank account to their Jan-Aadhaar via the Rajposhan portal.",
+        "Amend beneficiary names in Rajposhan to match Jan-Aadhaar.",
+        "Child Development Project Officer (CDPO) Role:",
+        "Review and approve/reject beneficiary data for installment payments based on the Woman Supervisor's verification report."
+      ]
+    },
+    "documents_required": [
+      "Pregnancy Registration Slip (issued by Anganwadi Centre)",
+      "Bank Passbook Copy (linked with Aadhaar for DBT)",
+      "Residential Proof",
+      "Maternity Health Check-Up Cards (to track antenatal milestones)",
+      "Delivery Certificate",
+      "Child's Birth Certificate",
+      "Child Immunization Record/Health Card",
+      "Bhamashah Card or Jan Aadhaar Card"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the IGMPY scheme?",
+      "answer": "Pregnant or lactating women undergoing their second pregnancy in 5 tribal districts of Rajasthan."
+    },
+    {
+      "question": "How much financial assistance is provided under IGMPY?",
+      "answer": "₹6,000 is provided in five conditional installments."
+    },
+    {
+      "question": "Is the scheme applicable for the first child?",
+      "answer": "No, the scheme is applicable only for the second live birth."
+    },
+    {
+      "question": "What is the purpose of this scheme?",
+      "answer": "To improve maternal and child nutrition, promote institutional deliveries, and ensure vaccinations."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "At the nearest Anganwadi Centre in the eligible districts."
+    },
+    {
+      "question": "Can I receive the benefit without institutional delivery?",
+      "answer": "No, institutional delivery in a government or empanelled private hospital is mandatory."
+    },
+    {
+      "question": "Is the scheme applicable across Rajasthan?",
+      "answer": "No, currently it's limited to 5 tribal districts only."
+    },
+    {
+      "question": "Can I apply for the scheme in my third pregnancy?",
+      "answer": "No, the scheme is not valid beyond the second pregnancy."
+    },
+    {
+      "question": "Is the benefit amount taxable?",
+      "answer": "No, the benefit is a welfare measure and is not taxable."
+    },
+    {
+      "question": "Is there any fee for registration under the scheme?",
+      "answer": "No, registration under IGMPY is free of cost."
+    },
+    {
+      "question": "Whom should I contact in case of delay or grievance?",
+      "answer": "The applicant may contact your local Anganwadi Centre or the ICDS Supervisor for assistance."
+    }
+  ]
+}

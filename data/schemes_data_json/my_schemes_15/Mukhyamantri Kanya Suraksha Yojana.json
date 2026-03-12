@@ -1,0 +1,76 @@
+{
+  "scheme_name": "Mukhyamantri Kanya Suraksha Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mksybb",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Kanya Suraksha Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "Launched by the Government of Bihar, the Mukhyamantri Kanya Suraksha Yojana (MKSY) aims to provide financial support to girl children belonging to BPL families. The scheme strives to enhance the value of girl children in society, prevent female foeticide, improve the sex ratio, and ensure the registration of births."
+    ],
+    "benefits": [
+      "₹2,000/- is invested as a fixed deposit for each eligible girl child.",
+      "Note:",
+      "In the event of the girl child’s death, the amount is returned to the Women & Child Development Corporation, Bihar."
+    ],
+    "eligibility": [
+      "The Girl must be a resident of Bihar.",
+      "The Girl child must born on or after November 22, 2007.",
+      "The family must belong to the Below Poverty Line (BPL) category.",
+      "Note: A maximum of 2 girl children per family can avail of the benefit."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Obtain the application form from the Women & Child Development Corporation or from the local designated government offices.",
+        "Step 2:",
+        "Fill out the form with accurate details and attach the required documents.",
+        "Step 3:",
+        "Submit the application form to the nearest government office or relevant authority.",
+        "Step 4:",
+        "The documents will be verified, and eligible beneficiaries will be informed."
+      ]
+    },
+    "documents_required": [
+      "Birth certificate of the girl child.",
+      "BPL certificate of the family.",
+      "Aadhaar card of the parents.",
+      "Bank details.",
+      "Death certificate of the girl child (if applicable during the intervening period)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is \"Mukhyamantri Kanya Suraksha Yojana\"?",
+      "answer": "It is a welfare scheme by the Bihar government to provide financial support to girl children in BPL families."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Girl children born on or after November 22, 2007, belonging to BPL families in Bihar are eligible."
+    },
+    {
+      "question": "What is the financial benefit under MKSY?",
+      "answer": "₹2,000/- is invested as a fixed deposit for each eligible girl child."
+    },
+    {
+      "question": "How many girls per family can benefit from the scheme?",
+      "answer": "A maximum of 2 girls per family are eligible."
+    },
+    {
+      "question": "How is the benefit amount managed?",
+      "answer": "The amount is invested in fixed deposits and paid upon maturity when the girl child turns 18."
+    },
+    {
+      "question": "Where is the amount invested?",
+      "answer": "The amount is invested in fixed deposits with UCO and IDBI banks."
+    },
+    {
+      "question": "What happens to the amount in case of the girl child’s death before maturity?",
+      "answer": "In the event of the girl child’s death, the amount is returned to the Women & Child Development Corporation, Bihar."
+    }
+  ]
+}

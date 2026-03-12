@@ -1,0 +1,115 @@
+{
+  "scheme_name": "Maternity Benefit Scheme - Telangana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mbs-t",
+  "location_name": "Telangana",
+  "location_type": "state",
+  "page_title": "Maternity Benefit Scheme - Telangana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Marriage Gift Scheme\" is a welfare initiative implemented by the Telangana Building and Other Construction Workers Welfare Board (TB&OCWWB), LET&F (Labour) Department, Telangana. The scheme provides financial assistance to registered women workers, as well as the wives and daughters of registered workers, to support them during and after pregnancy."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "A total amount of ₹30,000/- per delivery is provided, limited to two deliveries.",
+      "Payment Breakdown:",
+      "₹10,000/- is paid during the 7",
+      "th",
+      "month of pregnancy to compensate for wage loss during the later stages of pregnancy.",
+      "₹20,000/- is paid after the delivery."
+    ],
+    "eligibility": [
+      "For construction workers themselves (Women only)",
+      "The construction worker should be registered under the Telangana Building & Other Construction Workers Welfare Board.",
+      "The construction worker should be a woman.",
+      "The construction worker should have been registered for at least 12 months before the date of delivery.",
+      "The construction work can get this assistance only twice.",
+      "For wife/daughters of construction workers",
+      "The construction workers should be registered under the Telangana Building & Other Construction Workers Welfare Board.",
+      "The construction worker can receive the scheme benefits twice for up to two daughters.",
+      "If both parents are registered workers, only one parent is eligible for the scheme amount."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 1:",
+        "The interested applicant visits to the",
+        "official website",
+        "and click on \"Downloads\" for the",
+        "application form",
+        ".",
+        "Step 2",
+        ": In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the concerned officer in the labour department.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Applications must be submitted within one year from the date of delivery."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph.",
+      "Registration Card under BOCW Act (Attested copy).",
+      "Renewal Challan Copy.",
+      "Delivery Certificate issued by the PHC/ Local area hospital or Medical Officer of the Pvt. Hospital (Attested copy).",
+      "Pre-home Delivery Certificate issued by the Panchayat Secretary in case of delivery in a Village.",
+      "Birth Certificate of the child.",
+      "Advance Stamped Receipt.",
+      "1",
+      "st",
+      "page of Bank pass book (Attested copy)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Maternity Benefit Scheme?",
+      "answer": "Registered construction workers and their families, including the wife of a male worker and up to two daughters, are eligible."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "₹30,000 per delivery, limited to two deliveries."
+    },
+    {
+      "question": "What is the payment structure of the scheme?",
+      "answer": "₹10,000 during the 7th month of pregnancy and ₹20,000 after delivery."
+    },
+    {
+      "question": "Can a male construction worker's wife avail of this benefit?",
+      "answer": "Yes, the wife of a registered male worker is eligible."
+    },
+    {
+      "question": "How many deliveries are covered under this scheme?",
+      "answer": "The scheme covers up to two deliveries per woman."
+    },
+    {
+      "question": "Is there a minimum registration period required?",
+      "answer": "Yes, the worker must have been registered for at least 12 months before delivery."
+    },
+    {
+      "question": "Can the benefit be claimed for more than two deliveries?",
+      "answer": "No, the scheme is limited to two deliveries."
+    },
+    {
+      "question": "Where can I submit the application?",
+      "answer": "Submit the application to the concerned Labour Department officer."
+    },
+    {
+      "question": "Is the benefit amount in addition to other government schemes?",
+      "answer": "Yes, it is in addition to any other similar schemes."
+    },
+    {
+      "question": "Who scrutinizes the application?",
+      "answer": "The District Scrutiny Committee, based on a report from the Assistant Labour Officer."
+    },
+    {
+      "question": "When will the benefit amount be disbursed?",
+      "answer": "After approval, the amount will be transferred to the applicant's bank account."
+    }
+  ]
+}

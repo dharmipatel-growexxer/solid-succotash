@@ -1,0 +1,87 @@
+{
+  "scheme_name": "Sarvajan Pension Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/spy",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Sarvajan Pension Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Sarvajan Pension Yojana\" was launched by the Department of Women, Child Development & Social Security, Government of Jharkhand. The scheme aims to provide financial assistance of ₹1,000/- per month to elderly individuals, widows, destitute women, differently-abled persons, primitive tribes, and HIV/AIDS patients. The scheme eliminates previous age restrictions and targets inclusivity by guaranteeing pensions to all eligible citizens above the age of 60."
+    ],
+    "benefits": [
+      "A pension of ₹1,000/- per month.",
+      "Note: Timely pension disbursal by the 5th of every month."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Jharkhand.",
+      "The applicants should be elderly, widows, destitute women, differently-abled, primitive tribes and people suffering from HIV/AIDS.",
+      "The senior citizen's age should be 60 years or above.",
+      "The destitute women's age should be 18 years or above",
+      "The differently-abled age should be 5 years or above."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Block Development Officer in the rural area and the Circle Officer in the urban area and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Block Development Officer in the rural area and the Circle Officer in the urban area.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the Block Development Officer in the rural area and the Circle Officer in the urban area to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Voter ID",
+      "Disability Certificate (if applicable)",
+      "HIV/AIDS Medical Certificate (if applicable)",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Sarvajan Pension Yojana?",
+      "answer": "All residents of Jharkhand aged 60 or above, widows, differently-abled individuals, destitute women, primitive tribes, and HIV/AIDS patients."
+    },
+    {
+      "question": "What is the monthly pension amount?",
+      "answer": "Beneficiaries receive ₹1,000 per month."
+    },
+    {
+      "question": "What happens if I do not receive my pension on time?",
+      "answer": "Delays beyond the 5th of every month will result in penalties for responsible officials."
+    },
+    {
+      "question": "Are primitive tribe members eligible?",
+      "answer": "Yes, primitive tribe members are eligible under this scheme."
+    },
+    {
+      "question": "Can HIV/AIDS patients apply?",
+      "answer": "Yes, they are included in the scheme."
+    },
+    {
+      "question": "Can non-residents of Jharkhand apply for this scheme?",
+      "answer": "No, only permanent residents of Jharkhand are eligible."
+    },
+    {
+      "question": "Is there a specific process for submitting applications?",
+      "answer": "The application process typically involves completing and submitting the prescribed application form to the Block Development Officer in the rural area and the Circle Officer in the urban area."
+    },
+    {
+      "question": "Is there an application fee for the scheme?",
+      "answer": "No, applying for the scheme is free of charge."
+    },
+    {
+      "question": "What documents are required for application?",
+      "answer": "Voter ID and specific certificates for widows, differently-abled persons, or HIV/AIDS patients."
+    },
+    {
+      "question": "Is there an age limit for differently-abled persons?",
+      "answer": "Yes, the age should be five years or above."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Maternity Benefit to the Female Beneficiary",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mbttfb",
+  "location_name": "Manipur",
+  "location_type": "state",
+  "page_title": "Maternity Benefit to the Female Beneficiary",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The Manipur Building and Other Construction Workers' Welfare Board (MBOCWWB) launched welfare scheme \"Maternity Benefit to the Female Beneficiary\". The scheme provides financial assistance in cases of miscarriage or medical termination of pregnancy, up to two times. This benefit is aimed at ensuring health and financial support for female workers during such critical situations."
+    ],
+    "benefits": [
+      "Financial assistance of ₹6,000/- for miscarriage or medical termination."
+    ],
+    "eligibility": [
+      "The applicant should be a female construction worker.",
+      "The worker should be registered under the Manipur Building and Other Construction Workers Welfare Board.",
+      "The applicant should have gone through a miscarriage or medical termination."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should visit (during office hours) the Manipur Building and Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant visits the",
+        "official website",
+        "and downloads the",
+        "application form",
+        ".",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labour Board Inspector",
+        "Step-4:",
+        "Request a receipt or acknowledgement from the Labour Board Inspector to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Certificate of Registration.",
+      "Payment Receipt of the Last Contribution.",
+      "Medical Certificate (along with relevant papers for the delivery, medical termination of pregnancy or miscarriage for the maternity benefit).",
+      "Aadhaar Card.",
+      "First Page of Bank Passbook."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the maternity benefit scheme?",
+      "answer": "Female building workers registered with the Manipur Building and Other Construction Workers' Welfare Board are eligible."
+    },
+    {
+      "question": "What is the financial assistance provided under this scheme?",
+      "answer": "Beneficiaries receive ₹6,000 for each instance of miscarriage or medical termination of pregnancy."
+    },
+    {
+      "question": "How many times can a worker avail of this benefit?",
+      "answer": "The benefit can be availed up to two times during the worker's lifetime."
+    },
+    {
+      "question": "What qualifies as a miscarriage under this scheme?",
+      "answer": "Miscarriage refers to the expulsion of the uterus contents before or during the 26th week of pregnancy, excluding punishable acts under the Indian Penal Code."
+    },
+    {
+      "question": "What is meant by medical termination of pregnancy?",
+      "answer": "It refers to the legally permissible termination of pregnancy under the Medical Termination of Pregnancy Act, 1971."
+    },
+    {
+      "question": "Is there a time limit for claiming this benefit after a miscarriage?",
+      "answer": "No, the benefit should be claimed soon after the miscarriage or medical termination, with proper medical documentation."
+    },
+    {
+      "question": "What happens if my miscarriage does not align with the Indian Penal Code?",
+      "answer": "Miscarriages that involve punishable causes under the Indian Penal Code are not eligible for this benefit."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "You need to submit a self-attested copy of your labour card and a medical certificate confirming the miscarriage."
+    },
+    {
+      "question": "Where do I submit my application?",
+      "answer": "Applications can be submitted to the MBOCWWB office or other designated welfare offices."
+    },
+    {
+      "question": "What if I have already received assistance twice?",
+      "answer": "The scheme allows financial assistance for up to two miscarriages. After this, the benefit is no longer applicable."
+    }
+  ]
+}

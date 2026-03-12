@@ -1,0 +1,98 @@
+{
+  "scheme_name": "Mahila Nirman Shramik Vivah Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mnsvy",
+  "location_name": "Tripura",
+  "location_type": "state",
+  "page_title": "Mahila Nirman Shramik Vivah Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Mahila Nirman Shramik Vivah Yojana\" was launched by the Tripura Building and Other Construction Workers Welfare Board, Labour Department Tripura. The scheme aims to provide financial assistance to registered female construction workers and maximum of two daughters of registered construction workers for marriage purposes. The registered beneficiary will apply in the prescribed form through electronically."
+    ],
+    "benefits": [
+      "A one-time grant of ₹50,000/- is provided to meet the marriage expenses of the female registered construction worker and a maximum of two daughters of a registered construction worker."
+    ],
+    "eligibility": [
+      "The applicant should be a female registered construction worker.",
+      "The female construction worker should have been registered for at least one year continuously.",
+      "The family of a registered construction worker can avail of this assistance only twice: however, there shall be only one claim in respect of a given marriage irrespective of the number of registered construction workers in the family.",
+      "The registered construction workers should not have any dues payable to the Board.",
+      "The registered construction worker's daughter should have attained the age prescribed by law for marriage for whose marriage the assistance is sought.",
+      "The registered construction worker's daughter should not be an employee in government or quasi-government."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Step 1:",
+        "The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2:",
+        "The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.",
+        "Step 3:",
+        "The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Application shall be submitted within 6 months of the marriage."
+      ]
+    },
+    "documents_required": [
+      "Copy of BOC Worker Registration Card.",
+      "Bank Account Details.",
+      "Marriage Certificate by Register of the Marriage.",
+      "Affidavit (if marriage is outside Tripura State).",
+      "Marriage Invitation Card.",
+      "Ration card.",
+      "Any other documents if required."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Mahila Nirman Shramik Vivah Yojana?",
+      "answer": "A registered construction worker who has been a continuous beneficiary for at least one year is eligible."
+    },
+    {
+      "question": "Are there any dues payable to the Board by the registered construction worker?",
+      "answer": "No, the registered construction worker should have no dues payable to the Board."
+    },
+    {
+      "question": "What is the age requirement for the daughter of the registered construction worker?",
+      "answer": "The daughter should have attained the age prescribed by law for marriage."
+    },
+    {
+      "question": "Is the benefit applicable for remarriage?",
+      "answer": "No, the benefit is not provided for remarriage."
+    },
+    {
+      "question": "When should the application be submitted?",
+      "answer": "The application should be submitted within six months of the marriage."
+    },
+    {
+      "question": "How can a registered beneficiary apply for this scheme?",
+      "answer": "The beneficiary can apply in the prescribed form electronically. The Labour Inspector will process and verify the application, and the Labour Officer will review and approve it."
+    },
+    {
+      "question": "What is the amount of the grant provided under this scheme?",
+      "answer": "A one-time grant of ₹50,000 is provided for marriage expenses."
+    },
+    {
+      "question": "Is there any financial assistance for the marriage of male construction workers' daughters?",
+      "answer": "No, the scheme specifically provides assistance for registered female construction workers and up to two daughters of registered construction workers."
+    },
+    {
+      "question": "What is the process for verifying the application?",
+      "answer": "The Labour Inspector processes and verifies the application, and the Labour Officer reviews and approves it."
+    },
+    {
+      "question": "Can the benefit be availed if the marriage takes place outside Tripura State?",
+      "answer": "Yes, but an affidavit must be provided if the marriage is outside Tripura State."
+    },
+    {
+      "question": "What happens if the application is submitted after six months of the marriage?",
+      "answer": "The application may not be considered if submitted after six months of the marriage."
+    }
+  ]
+}

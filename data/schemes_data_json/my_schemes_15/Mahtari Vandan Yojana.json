@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Mahtari Vandan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mvy",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "Mahtari Vandan Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mahatari Vandan Yojana\" by the Government of Chhattisgarh aims to provide financial assistance and support to eligible beneficiaries for socio-economic empowerment. The scheme offers monetary benefits and access to essential services, targeting underserved communities. Key eligibility criteria include residency in Chhattisgarh and possession of an EPIC Card. The scheme is implemented by the Department of Social Welfare, and applications are accepted online through the official portal."
+    ],
+    "benefits": [
+      "Each eligible woman will receive ₹1000/- per month.",
+      "Women receiving less than ₹1000/- per month under social assistance programs and various pension schemes through the Samaj Kalyan Vibhag will receive additional assistance to a total ₹1,000/- per month.",
+      "The assistance will be directly deposited into the applicant's Aadhaar-linked DBT-based bank account."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Chhattisgarh.",
+      "The applicant must be a married woman.",
+      "The applicant must be at least 21 years old as of 1st January of the year of application.",
+      "The applicant can also be a widow / divorced / abandoned woman."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Visit the",
+        "\"Mahtari Vandan Yojana\" portal, c",
+        "lick on the registration link. In the",
+        "registration form,",
+        "provide required details such as name, contact information, and EPIC Card number.",
+        "Step 2:",
+        "Use the credentials you created during registration to log in. Navigate to the online form of the scheme. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections.",
+        "Step 3:",
+        "Click \"Submit\" to submit your application. Save the application reference number or confirmation message for future tracking.",
+        "Post-Application Processes",
+        "After the last date of application, a provisional list of applicants will be displayed on the portal/app. A printout of the list will also be displayed on the notice board at the Gram Panchayat/ward level.",
+        "The Gram Sachiv/ward in-charge will issue an approval letter to the eligible beneficiaries in the final list. This list will also be displayed on the portal."
+      ]
+    },
+    "documents_required": [
+      "Self-attested passport-size photo",
+      "Local residence document (residence certificate/ration card/voter ID card)",
+      "Aadhaar card of the applicant and her husband",
+      "PAN card of the applicant and her husband (if available)",
+      "Marriage certificate/certificate issued by the Gram Panchayat or local bodies",
+      "Husband's death certificate (in case of widow)",
+      "Certificate issued by the society/ward/Gram Panchayat (in case of abandoned woman)",
+      "Birth certificate/10th or 12th class marksheet/transfer certificate/PAN card/voter ID card/driving license (any one)",
+      "Bank account details and photocopy of the bank passbook of the eligible beneficiary",
+      "Self-declaration form/affidavit (attached with the application)",
+      "*Applicants may be required to be present at designated locations for verification of the documents submitted with their application."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the eligibility criteria regarding marital status for applying to this financial assistance scheme?",
+      "answer": "The applicant must be a married woman, widow, divorcee, or abandoned woman who is a local resident of Chhattisgarh."
+    },
+    {
+      "question": "Is there a minimum age requirement to qualify for the monthly financial assistance?",
+      "answer": "Yes, the applicant must be 21 years or older as of 1st January of the year of application."
+    },
+    {
+      "question": "How much financial assistance will an eligible woman receive under this scheme?",
+      "answer": "Each eligible beneficiary will receive ₹1,000 per month directly deposited into her Aadhaar-linked bank account."
+    },
+    {
+      "question": "What happens if a woman already receives some amount under other social assistance programs?",
+      "answer": "If she receives less than ₹1,000, she will get additional assistance to make the total ₹1,000 per month."
+    },
+    {
+      "question": "How will the financial assistance amount be disbursed to the beneficiaries?",
+      "answer": "The amount will be transferred directly into the applicant’s Aadhaar-linked DBT-enabled bank account."
+    },
+    {
+      "question": "Is it mandatory to have an Aadhaar-linked bank account to receive the benefits?",
+      "answer": "Yes, the applicant must have her own Aadhaar-linked DBT-based bank account to receive the assistance."
+    },
+    {
+      "question": "Are there any tax-related exclusions for the applicant’s family under this scheme?",
+      "answer": "Yes, no member of the applicant’s family should be an income taxpayer."
+    },
+    {
+      "question": "Can a woman apply if any family member is employed by the government?",
+      "answer": "No, if any family member is a government employee (permanent, temporary, or contractual), she is ineligible."
+    },
+    {
+      "question": "Are former or current MPs or MLAs or their family members eligible for this scheme?",
+      "answer": "No, if any family member is or was an MP, MLA, or held certain government positions, the applicant is excluded."
+    },
+    {
+      "question": "What documents are required to prove local residency in Chhattisgarh?",
+      "answer": "Acceptable documents include a residence certificate, ration card, or voter ID card."
+    },
+    {
+      "question": "Is a marriage certificate mandatory for married women applying to the scheme?",
+      "answer": "Yes, a marriage certificate or a certificate issued by the Gram Panchayat/local bodies is required."
+    },
+    {
+      "question": "What proof is needed if a woman is abandoned by her husband?",
+      "answer": "An abandoned woman must submit a certificate issued by the society/ward/Gram Panchayat as proof."
+    },
+    {
+      "question": "Which documents can be submitted as proof of age for the applicant?",
+      "answer": "Acceptable documents include a birth certificate, 10th/12th marksheet, PAN card, voter ID, or driving license."
+    },
+    {
+      "question": "Do applicants need to submit a self-declaration or affidavit?",
+      "answer": "Yes, a self-declaration form or affidavit must be attached with the application."
+    }
+  ]
+}

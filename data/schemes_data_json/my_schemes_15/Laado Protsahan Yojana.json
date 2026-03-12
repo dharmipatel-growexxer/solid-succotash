@@ -1,0 +1,156 @@
+{
+  "scheme_name": "Laado Protsahan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/lpy",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Laado Protsahan Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The Scheme \"Laado Protsahan Yojana\" was launched on 1st August 2024 by the Department of Women Empowerment, Government of Rajasthan. The scheme aims to encourage the birth of girl children in poor families and promote their holistic development. Under this scheme, financial support is provided in seven installments to the parents or guardians of girls born in Government/authorized Medical Institutions.",
+      "Objectives:",
+      "Promote a positive mindset towards the birth of a girl child and ensure her holistic development.",
+      "Eliminate gender discrimination in childcare, education, and health.",
+      "Promote institutional deliveries and reduce maternal mortality.",
+      "Reduce infant mortality among girls and improve the child sex ratio.",
+      "Ensure enrollment and retention of girls in schools.",
+      "Encourage higher education for girls and reduce child marriage."
+    ],
+    "benefits": [
+      "Monetary Benefit:",
+      "Total financial benefit of ₹1,50,000/- disbursed in 7 installments:",
+      "Installment",
+      "Description",
+      "Amount (₹)",
+      "1",
+      "Girl's birth in eligible medical institutions",
+      "2500/-",
+      "2",
+      "Girl completes one year of age and all vaccinations",
+      "3",
+      "Girl's admission to Class 1",
+      "st",
+      "in a government/government-recognized private school",
+      "4000/-",
+      "4",
+      "Girl's admission to Class 6",
+      "th",
+      "5000/-",
+      "5",
+      "Girl's admission to Class 10",
+      "11000/-",
+      "6",
+      "Girl's admission to Class 12",
+      "25000/-",
+      "7",
+      "Girl passes graduation from government-recognized educational institutions and completes 21 years of age",
+      "1,00,000/-",
+      "Total Amount ₹1,50,000",
+      "Mode of Disbursement:",
+      "A commitment letter of ₹1.50 lakh will be issued at the birth of a girl child.",
+      "The entire amount will be disbursed online through Direct Benefit Transfer (DBT) in seven installments.",
+      "Until the girl attains adulthood, the first six installments will be transferred to the bank account of her parents or guardian, and the seventh installment will be transferred to the girl's own bank account through DBT.",
+      "Notes:",
+      "If the benefit of any installment is not availed at any stage after the first two installments of the scheme, the eligible girl child may still be granted the next installment, provided a valid and reasonable justification is given.",
+      "There is no limit on the number of girl children eligible to receive the third and subsequent installments under the scheme. All girls who have already received the first two installments will be entitled to continue receiving benefits under the scheme.",
+      "The Rajshree Yojana will be merged with the Laado Protsahan Yojana, and the remaining installments of the Rajshree Yojana will be provided under the Laado Protsahan Yojana as per eligibility."
+    ],
+    "eligibility": [
+      "The applicant should be a woman who is a native of Rajasthan.",
+      "The applicant should deliver the girl child in a government medical institution or a private medical institution authorized under the Janani Suraksha Yojana (JSY).",
+      "The applicant should ensure full immunization of the child (for second installment).",
+      "The applicant's child should be enrolled in a recognized school or institution for subsequent installments.",
+      "The applicant’s daughter should graduate from a recognized higher education institution and attain the age of 21 to receive the final installment."
+    ],
+    "application_process": {
+      "offline": [
+        "Application process for the Applicant:",
+        "Step 1:",
+        "The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2:",
+        "The applicant should visit the nearest office of the Department of Medical, Health & Family Welfare.",
+        "Application process for the Department of Medical, Health & Family Welfare",
+        "For First and Second Installments:",
+        "Data is entered on PCTS portal during antenatal checkups and post-institutional delivery.",
+        "DBT is done automatically by the Department of Medical, Health & Family Welfare.",
+        "For Second Installment:",
+        "Full immunization record must be uploaded on the",
+        "PCTS",
+        "/",
+        "OJAS",
+        "portal.",
+        "Based on verification, payment is made to parent/guardian’s account.",
+        "For Installments 3 to 6 (School Admissions):",
+        "Automatically tracked by schools through the portal using earlier installment IDs.",
+        "No fresh application is required from parents/guardians.",
+        "For Final (Seventh) Installment:",
+        "The Department of Higher Education uploads the girl’s graduation documents.",
+        "Payment is made to the girl’s own bank account after verifying she is 21 years old."
+      ]
+    },
+    "documents_required": [
+      "Permanent Resident Certificate of Rajasthan",
+      "Marriage Registration Certificate",
+      "Bank Account Details of Mother/Father/Guardian",
+      "Birth Certificate of the Girl Child",
+      "Institutional Delivery Proof from Government or JSY-Authorized Medical Facility",
+      "Age Proof Document (for verifying completion of 21 years of age)",
+      "Unique ID/PCTS ID issued at birth",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for the Laado Protsahan Yojana?",
+      "answer": "Only permanent residents of Rajasthan who give birth to a girl child in government or JSY-authorized medical institutions."
+    },
+    {
+      "question": "What is the total benefit amount under this scheme?",
+      "answer": "A total of ₹1,50,000 is given in 7 installments."
+    },
+    {
+      "question": "Is any application form required for the first installment?",
+      "answer": "No. The benefit is processed automatically via the PCTS portal."
+    },
+    {
+      "question": "Is the scheme available for girls born at home?",
+      "answer": "No. Only institutional deliveries in authorized facilities are eligible."
+    },
+    {
+      "question": "What if one installment is missed?",
+      "answer": "The next eligible installment can be availed with a valid reason for the missed stage."
+    },
+    {
+      "question": "Who receives the final installment?",
+      "answer": "The girl herself, after graduating and turning 21."
+    },
+    {
+      "question": "Which schools are valid for school-stage installments?",
+      "answer": "Government schools or private schools recognized by the Rajasthan Government."
+    },
+    {
+      "question": "Can private school students get the benefits?",
+      "answer": "Yes, if the school is recognized by the Rajasthan Government."
+    },
+    {
+      "question": "How is the scheme tracked?",
+      "answer": "Through PCTS and OJAS portals using a Unique ID generated at birth."
+    },
+    {
+      "question": "What happens if the girl doesn’t pursue graduation?",
+      "answer": "The final installment is not awarded unless she graduates and turns 21."
+    },
+    {
+      "question": "Who supervises the scheme at the state level?",
+      "answer": "Directorate of Women Empowerment, Women & Child Development Department."
+    },
+    {
+      "question": "How frequently is the scheme reviewed?",
+      "answer": "Every three months by the District Collector and BBBP Task Force."
+    }
+  ]
+}

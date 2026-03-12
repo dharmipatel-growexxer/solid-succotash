@@ -1,0 +1,109 @@
+{
+  "scheme_name": "Marriage Grant to War Widows’ Daughters of Ex-Servicemen",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mgwwdesm",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Marriage Grant to War Widows’ Daughters of Ex-Servicemen",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Marriage Grant to War Widows’ Daughters of Ex-Servicemen\" scheme is implemented by the Sainik and Ardh Sainik Welfare Department, Government of Haryana. Under this scheme, financial assistance of ₹21,000/- is provided to the war widows for the marriage of their dependent daughters, for up to two daughters who are at least 18 years old."
+    ],
+    "benefits": [
+      "Financial assistance of ₹21,000/- is given to the war widows for the marriage of their dependent daughters."
+    ],
+    "eligibility": [
+      "The applicant should be a bonafide resident of Haryana.",
+      "The applicant should be the widow of an ex-serviceman who died in the war.",
+      "The daughter should be at least 18 years old.",
+      "The widow can receive the benefit for up to two of her daughters."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "The eligible applicant may apply online through the Official Portal-",
+        "Antyodaya-SARAL Portal",
+        ".",
+        "Step 2:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 3:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 4:",
+        "Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to apply for the scheme:",
+        "To avail the benefits of the scheme, visit the Official",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’.",
+        "Now, you can search for the scheme and download the pre-defined documents form/template and you will need to upload the filled-in/signed form/template in the 'Attach Enclosures' screen.",
+        "Step 5:",
+        "Click on ‘Proceed to Apply’ to fill out the application form. Enter your Parivar Pehchan Patra number- Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 6:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 7:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 8:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track their applications through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "Copy of Ex-serviceman/Widow of Ex-serviceman Identity Card",
+      "Parivar Pehchan Patra",
+      "Original Discharge Book of Ex-serviceman (Complete)",
+      "Domicile Certificate of Haryana",
+      "Copy of Bank Passbook linked with Aadhaar Card",
+      "Applicant’s Photo ID Proof (Ration Card/Driving Licence/ Voter ID Card/PAN Card etc.)",
+      "P.P.O",
+      "Battle Casualty Report from Military Authority",
+      "Aadhaar Card",
+      "Age Proof- Matric Exam Certificate for Date of Birth verification (attested)",
+      "Wedding Card",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Notification",
+      "Antyodaya-SARAL Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the amount of financial assistance provided under this scheme?",
+      "answer": "The scheme provides financial assistance of ₹21,000/- for the marriage of each eligible daughter."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "The applicant must be a bonafide resident of Haryana, a widow of an ex-serviceman who died in the war."
+    },
+    {
+      "question": "How many daughters can benefit from this scheme?",
+      "answer": "The widow can receive the benefit for up to two daughters."
+    },
+    {
+      "question": "Is there an age requirement for the daughters?",
+      "answer": "Yes, the daughters must be at least 18 years old."
+    },
+    {
+      "question": "How can one apply for this scheme?",
+      "answer": "Eligible applicants can apply online through the Official Portal- Antyodaya-SARAL Portal. The link to apply is https://saralharyana.gov.in/."
+    },
+    {
+      "question": "Can the assistance be availed for more than two daughters?",
+      "answer": "No, the benefit is restricted to a maximum of two daughters."
+    },
+    {
+      "question": "How can applicants track their application status?",
+      "answer": "You can track your application through the Official Antyodaya-SARAL Portal by entering your Department Name, Scheme Name, and Application Reference ID at https://status.saralharyana.nic.in/."
+    },
+    {
+      "question": "Can the Marriage Grant be availed by war widows who are residing outside Haryana?",
+      "answer": "No, the scheme is only available to bonafide residents of Haryana."
+    }
+  ]
+}

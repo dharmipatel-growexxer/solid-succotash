@@ -1,0 +1,96 @@
+{
+  "scheme_name": "Financial Assistance to Non-Pensioner World War-II Veterans and Their Widows",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fanpvwws",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Financial Assistance to Non-Pensioner World War-II Veterans and Their Widows",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The “Financial Assistance to Non-Pensioner World War-II Veterans and Their Widows” scheme was launched by the Home Department, Government of Madhya Pradesh. The scheme aims to provide financial aid to ensure a dignified livelihood for world War-II veterans who are non-pensioners and their lawful wives."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "Financial assistance of ₹8,000 per month is provided to non-pensioner world War-II veterans and their lawful widows.",
+      "Mode of Disbursement:",
+      "The financial assistance amount is directly credited to the beneficiary’s bank account through the District Sainik Welfare Office.",
+      "Frequency of Disbursement:",
+      "The financial assistance is disbursed monthly.",
+      "Expected Time of Disbursement:",
+      "Disbursement is made within one week of application verification and approval."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Madhya Pradesh.",
+      "The applicant must be a non-pensioner World War-II veteran who served between 1 September 1939 and 14 August 1945, or his lawful widow.",
+      "The veteran must have been discharged from military service due to demobilization after the end of World War-II.",
+      "The applicant must not be receiving any pension from defense services or any other source.",
+      "In case of the veteran’s death, only the lawful widow is eligible for the benefit.",
+      "Upon the death of the widow, no other heir (children or relatives) becomes eligible."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "Visit the official website of \"",
+        "Sainik Welfare",
+        "\", and click \"Log-in\".",
+        "Step 2:",
+        "In the online registration form, fill the following mandatory fields: Email ID, Mobile Number. Create a password and confirm. Finally, click \"Submit\" to complete the registration.",
+        "Step 3:",
+        "After successful registration, the User ID and Password will be generated.",
+        "Application",
+        "Visit the official website. Sign in using your Username and Password created during registration.",
+        "Navigate to the online form of the scheme. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Click \"Save Application\". You'll receive a confirmation message upon successful submission of the application, along with an \"application number\". Click \"Print Application\" to print the application."
+      ]
+    },
+    "documents_required": [
+      "Residence Certificate",
+      "Marriage Certificate (in case of widow applicant)",
+      "Death Certificate of Veteran (in case of widow applicant)",
+      "Bank Passbook"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible under this scheme?",
+      "answer": "Non-pensioner World War-II veterans and their lawful widows who are permanent residents of Madhya Pradesh."
+    },
+    {
+      "question": "What is the amount of assistance provided?",
+      "answer": "Financial assistance of ₹8,000 per month."
+    },
+    {
+      "question": "Who verifies the applications?",
+      "answer": "The application verifies by the District Sainik Welfare Office."
+    },
+    {
+      "question": "What is the mode of disbursement?",
+      "answer": "Direct bank transfer to the beneficiary’s account."
+    },
+    {
+      "question": "Is there an income limit?",
+      "answer": "No specific income limit mention in the guidelines."
+    },
+    {
+      "question": "Can heirs other than the widow claim benefits?",
+      "answer": "No, after the widow’s death, no heir is eligible."
+    },
+    {
+      "question": "What is the processing time for approval?",
+      "answer": "The processing time within one week of application verification."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, the process is free of cost."
+    },
+    {
+      "question": "Where can one get more information?",
+      "answer": "From the District Sainik Welfare Office or the Directorate of Sainik Welfare, Bhopal."
+    }
+  ]
+}

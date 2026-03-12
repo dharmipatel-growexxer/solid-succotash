@@ -1,0 +1,71 @@
+{
+  "scheme_name": "Paalna Ghar (Crèche)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pgc",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Paalna Ghar (Crèche)",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Paalna Ghar (Crèche)” is implemented by the Women Welfare Department, Government of Uttarakhand. The scheme aims to provide day care facilities for children aged 6 months to 6 years of working couples."
+    ],
+    "benefits": [
+      "Under the scheme, a crèche is run for the children of working couples, providing day care facilities for children in the age group of 6 months to 6 years.",
+      "The following fees are applicable under the scheme:",
+      "For BPL families: ₹20/- per child per month",
+      "For families with an income less than ₹12,000/-: ₹100/- per child per month",
+      "For families with an income above ₹12,000/-: ₹200/- per child per month"
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary must be a child aged between 6 months and 6 years."
+    ],
+    "application_process": {
+      "offline": [
+        "A crèche is established in every district of Uttarakhand. Working couples can avail of the benefits by paying the applicable fee."
+      ]
+    },
+    "documents_required": [
+      "Proof of age of the child",
+      "Income proof of the child’s parents/guardians",
+      "Any other documents as may be required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 24)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "Working couples with children aged 6 months to 6 years are eligible."
+    },
+    {
+      "question": "Is the scheme available for all children?",
+      "answer": "No, children between 6 months and 6 years of age can avail the facility."
+    },
+    {
+      "question": "Where are the crèches located?",
+      "answer": "Crèches are established in every district of Uttarakhand."
+    },
+    {
+      "question": "What facilities are provided under the scheme?",
+      "answer": "Day care services"
+    },
+    {
+      "question": "What is the monthly fee for BPL families?",
+      "answer": "BPL families are required to pay ₹20 per child per month."
+    },
+    {
+      "question": "What is the monthly fee for families with income less than ₹12,000?",
+      "answer": "Families with income less than ₹12,000 per month need to pay ₹100 per child per month."
+    },
+    {
+      "question": "What is the monthly fee for families with income above ₹12,000?",
+      "answer": "Families with income above ₹12,000 per month need to pay ₹200 per child per month."
+    },
+    {
+      "question": "How can working couples apply for this scheme?",
+      "answer": "They can approach the nearest crèche in their district and submit the required documents along with the applicable fee."
+    }
+  ]
+}

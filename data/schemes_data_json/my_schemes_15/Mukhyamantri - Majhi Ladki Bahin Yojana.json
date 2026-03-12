@@ -1,0 +1,123 @@
+{
+  "scheme_name": "Mukhyamantri - Majhi Ladki Bahin Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mmlby",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Mukhyamantri - Majhi Ladki Bahin Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Mukhyamantri - Majhi Ladki Bahin Yojana\" scheme was launched by the Women and Child Development Department, Government of Maharashtra. The scheme aims to give economic freedom to women in the state age group of 21 to 65 years, improving their health and nutrition and strengthening their decisive role in the family. The women will get a financial benefit of ₹1,500/- through direct benefit transfer (DBT)."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹1,500/- per month."
+    ],
+    "eligibility": [
+      "The applicant should be a female.",
+      "The applicant should be a resident of Maharashtra state.",
+      "The applicant's age should be between 21-65 years.",
+      "The applicant should have their bank account with an Aadhaar link.",
+      "The annual income of the applicant's family should not exceed ₹2,50,000/-.",
+      "Outsourced employees, voluntary workers, and contract workers with income up to ₹2,50,000/- are eligible.",
+      "The applicant should be any one of the following:",
+      "Married Woman",
+      "Widowed",
+      "Divorced Woman",
+      "Abandoned and Destitute Women",
+      "One Unmarried Woman in the family"
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 01:",
+        "The interested applicant visit the",
+        "official website",
+        ".",
+        "Step 02:",
+        "Select \"",
+        "Applicant Login",
+        "\" and click on \"",
+        "Create Account",
+        ".\"",
+        "Step 03:",
+        "Complete the registration form with the following details: Full Name as per Aadhaar, Mobile No, Password, Confirm Password, District, Taluka, Village, Municipal Corporation / Council, Authorized Person & Accept Terms and Conditions.",
+        "Step 04:",
+        "Enter the Captcha code and click \"Sign-up.\" You will receive an OTP.",
+        "Step 05:",
+        "Enter the OTP and the Captcha code again.",
+        "Step 06:",
+        "Click \"",
+        "Verify the OTP",
+        "\" to receive a message confirming that your login was successful.",
+        "Application Process:",
+        "Log in to the portal using your Mobile number, Password, and Captcha to log in.",
+        "Click on \"",
+        "Application of Mukhyamantri - Majhi Ladki Bahin Yojana",
+        "\" and enter your Aadhaar Number and Captcha.",
+        "Valid Aadhaar",
+        "\" and complete the registration form with the applicant's name, bank details, and permanent address.",
+        "Upload relevant documents such as an Aadhaar card, Domicile certificate, Ration card, etc.",
+        "Submit",
+        "\" to receive your application ID via SMS.",
+        "Check the Status:",
+        "Applications Made Earlier",
+        "\" to view the status of your applications."
+      ]
+    },
+    "documents_required": [
+      "Photograph of the Beneficiary Woman",
+      "Aadhaar Card",
+      "Domicile Certificate (If the Domicile Certificate is not available, any one of the following can be submitted: Ration Card issued before 15 years, Voter ID card issued before 15 years, Birth Certificate, or School Leaving Certificate).",
+      "For Women Born Abroad (Submit the Husband's Ration Card issued before 15 years, Voter ID card issued before 15 years, Birth Certificate, School Leaving Certificate, or Domicile Certificate).",
+      "Income Certificate (Not required if the woman has a Yellow or Orange Ration Card. Required if the woman has a White Ration Card or no Ration Card).",
+      "Marriage Certificate (If your name is not listed on the Ration Card and you are newly married, your husband’s Ration Card can be used as proof of income)",
+      "Bank Account Details (account should be Aadhaar-linked)",
+      "Affirmation Letter"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Mukhyamantri - Majhi Ladki Bahin Yojana?",
+      "answer": "This scheme is aimed at providing financial and social support to economically weaker women in Maharashtra, especially those facing hardships."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Women who are residents of Maharashtra and belong to economically weaker sections are eligible, provided they meet the scheme's specific criteria."
+    },
+    {
+      "question": "Is there any fee to apply for the scheme?",
+      "answer": "No, the application process is free of charge. No money or fee should be paid to anyone for applying."
+    },
+    {
+      "question": "How will I know if I am selected for the scheme?",
+      "answer": "Selected beneficiaries will receive an SMS notification. The final list of beneficiaries will also be published at the local level."
+    },
+    {
+      "question": "How are the benefits disbursed?",
+      "answer": "Benefits are disbursed through direct bank transfers to the beneficiaries' accounts."
+    },
+    {
+      "question": "Is there a helpline for the scheme?",
+      "answer": "Yes, the women's helpline toll-free contact number is 181. The Women and Child Development Commissionerate Pune will set up a call center to assist applicants and resolve any issues related to the scheme."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Applications can be submitted online through the official portal. You must register on the portal, complete your profile, and fill out the application form with all the required details and documents."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "Essential documents include an Aadhaar card, domicile certificate, income certificate, marriage certificate, and bank account details. Additional documents may be required depending on the specific circumstances of the applicant."
+    },
+    {
+      "question": "What is the process after submitting the application?",
+      "answer": "After submission, applications are scrutinized by a Taluka/Ward level committee, and a provisional list of eligible beneficiaries is prepared. Applicants will be notified via SMS."
+    },
+    {
+      "question": "Who reviews the applications at the local level?",
+      "answer": "Applications are reviewed by a Taluka/Ward level committee, which includes non-governmental members selected by the district's guardian minister."
+    }
+  ]
+}

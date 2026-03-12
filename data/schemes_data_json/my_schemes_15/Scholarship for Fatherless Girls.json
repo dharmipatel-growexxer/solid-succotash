@@ -1,0 +1,99 @@
+{
+  "scheme_name": "Scholarship for Fatherless Girls",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sfg",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Scholarship for Fatherless Girls",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Scholarship for Fatherless Girls\" scheme was launched by the School Education Department, Government of Madhya Pradesh, to support the education of girls who have lost their fathers and are studying in government schools. Under this scheme, scholarships ranging from ₹350/- to ₹450/- are provided to eligible girls from Class 1 to Class 12. To be eligible, girls students should not be beneficiaries of any other scholarship and must have passed their previous class."
+    ],
+    "benefits": [
+      "Under this scheme, the scholarships will be given at the following rates:-",
+      "Class 1 to 5:",
+      "₹350/- per year",
+      "Class 6 to 8:",
+      "₹400/- per year",
+      "Class 9 to 12:",
+      "₹450/- per year",
+      "Note:",
+      "The scholarship will be deposited directly into the student's bank account."
+    ],
+    "eligibility": [
+      "The applicant should be a girl student.",
+      "The girl student should be a permanent resident of Madhya Pradesh.",
+      "The girl student should be studying in Class 1 to 12.",
+      "The girl student should be studying at a government school in Madhya Pradesh.",
+      "The girl student who has lost her father is eligible for benefits under this scheme.",
+      "The girl student should not be a beneficiary of any other scholarship.",
+      "The girl student should have passed the previous class."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail of the benefits under this scheme, eligible girl students can contact the Principal of their respective government schools/institutions.",
+        "Note:",
+        "The student's profile is entered on the education portal",
+        "https://shikshaportal.mp.gov.in/",
+        "by the teacher of the educational institution as per the record/certificate provided by the student."
+      ]
+    },
+    "documents_required": [
+      "1. Passport-size Photo",
+      "2. Aadhaar card",
+      "3. Domicile certificate of Madhya Pradesh",
+      "4. Death certificate of the father",
+      "5. Previous year passing certificate/marksheet",
+      "6. Samagra ID",
+      "7. Bank Passbook",
+      "8. Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Guidelines (Page No. 31)",
+      "Online Shiksha Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The scheme provides financial support to girl students who have lost their fathers and are studying in government schools in Madhya Pradesh."
+    },
+    {
+      "question": "Who is eligible to apply for this scholarship?",
+      "answer": "Girls who are permanent residents of Madhya Pradesh, studying in government schools from Class 1 to 12, and have lost their father. They should not be beneficiaries of any other scholarship and must have passed the previous class."
+    },
+    {
+      "question": "How much scholarship is provided for students in Class 1 to 5?",
+      "answer": "Students in Class 1 to 5 receive ₹350/- per year."
+    },
+    {
+      "question": "How much scholarship is provided for students in Class 6 to 8?",
+      "answer": "Students in Class 6 to 8 receive ₹400/- per year."
+    },
+    {
+      "question": "How much scholarship is provided for students in Class 9 to 12?",
+      "answer": "Students in Class 9 to 12 receive ₹450/- per year."
+    },
+    {
+      "question": "How is the scholarship amount disbursed?",
+      "answer": "The scholarship amount is deposited directly into the student's bank account."
+    },
+    {
+      "question": "Can students who are already receiving other scholarships apply for this scheme?",
+      "answer": "No, students who are beneficiaries of any other scholarship are not eligible for this scheme."
+    },
+    {
+      "question": "How can eligible students apply for the scholarship?",
+      "answer": "Eligible students should contact the Principal of their respective government schools/institutions to apply for the scholarship."
+    },
+    {
+      "question": "Can a student apply for this scholarship if she has lost her father recently?",
+      "answer": "Yes, as long as she meets all other eligibility criteria and has provided the necessary documentation."
+    },
+    {
+      "question": "Is this scholarship scheme available for students studying in private schools?",
+      "answer": "No, this scheme is only for students studying in government schools."
+    }
+  ]
+}

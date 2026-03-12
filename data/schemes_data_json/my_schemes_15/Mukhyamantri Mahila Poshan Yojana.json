@@ -1,0 +1,65 @@
+{
+  "scheme_name": "Mukhyamantri Mahila Poshan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mmpyu",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Mahila Poshan Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mukhyamantri Mahila Poshan Yojana\" has been launched by the Department of Women Empowerment & Child Development, Government of Uttarakhand. The scheme aims to improve the health of pregnant and lactating women by providing nutritional food such as eggs twice a week and dates twice a week at Anganwadi Centres."
+    ],
+    "benefits": [
+      "Under the scheme, pregnant and lactating women are provided eggs two days a week and dates two days a week. Dates are given to those registered women who do not consume eggs."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a pregnant or lactating woman."
+    ],
+    "application_process": {
+      "offline": [
+        "Women who are registered at the Anganwadi Centre receive the benefits at the centre itself."
+      ]
+    },
+    "documents_required": [
+      "Identity proof i.e. Aadhaar card, etc."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 35)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "All pregnant and lactating women who are residents of Uttarakhand and registered at an Anganwadi Centre are eligible."
+    },
+    {
+      "question": "What benefits are provided under this scheme?",
+      "answer": "Eligible women are given eggs two days a week and dates two days a week at Anganwadi Centres."
+    },
+    {
+      "question": "What if a woman does not eat eggs?",
+      "answer": "Women who do not consume eggs are provided dates as an alternative."
+    },
+    {
+      "question": "Where are the benefits distributed?",
+      "answer": "The benefits are provided directly at the Anganwadi Centres to registered beneficiaries."
+    },
+    {
+      "question": "Is there any cost for receiving these benefits?",
+      "answer": "No, the benefits are provided free of cost to eligible women."
+    },
+    {
+      "question": "How can women register for the scheme?",
+      "answer": "Women need to enroll at the nearest Anganwadi Centre during pregnancy or lactation to avail the benefits."
+    },
+    {
+      "question": "How often are eggs and dates given?",
+      "answer": "Eggs: 2 days a week Dates: 2 days a week (or as a substitute for eggs if not consumed) Eggs: 2 days a week Dates: 2 days a week (or as a substitute for eggs if not consumed)"
+    },
+    {
+      "question": "Are these benefits available throughout pregnancy and lactation?",
+      "answer": "Yes, benefits are provided during the entire period of pregnancy and lactation to ensure maternal health."
+    }
+  ]
+}

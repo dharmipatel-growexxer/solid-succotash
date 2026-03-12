@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Mahila Swavlamban Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mssg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Mahila Swavlamban Scheme",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Mahila Swavlamban Scheme\" launched by the Women and Child Development Department, Gujarat, aims to empower women by providing financial assistance for starting or expanding economic activities. This initiative targets women from rural and urban areas, especially those from families living below the poverty line. The scheme offers a subsidy and a loan to support the economic development of women, helping them become self-reliant."
+    ],
+    "benefits": [
+      "Subsidy Support:",
+      "A subsidy of 15% or up to ₹30,000/- (whichever is lower) is provided to eligible women to support their business ventures.",
+      "Loan Facility:",
+      "Women can avail of loans up to ₹2,00,000/- to start or expand their economic activities."
+    ],
+    "eligibility": [
+      "The applicant must be a woman.",
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must belong to the BPL (Below Poverty Line) category",
+      "The applicant's annual income must be ₹1,20,000/- in rural areas and ₹1,50,000/-in urban areas."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The applicant must fill out the prescribed form with complete details.",
+        "Step-2:",
+        "Submit the form along with the necessary documents to the Women's Economic Development Corporation.",
+        "Helpdesk:",
+        "Contact Details."
+      ]
+    },
+    "documents_required": [
+      "Age proof.",
+      "Aadhaar card.",
+      "Quotation for business activities.",
+      "Experience certificate.",
+      "Income proof.",
+      "Copy of Ration card."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Mahila Swavlamban Scheme?",
+      "answer": "The Mahila Swavlamban Scheme is a financial assistance program aimed at empowering women from rural and urban areas to undertake economic activities."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "The applicant must be a woman with a family living below the poverty line, with an annual income of ₹1,00,000/- in rural areas and ₹1,50,000/- in urban areas."
+    },
+    {
+      "question": "What financial assistance does the scheme provide?",
+      "answer": "The scheme provides a subsidy of 15% or ₹30,000/- (whichever is lower) and loans up to Rs. 2 lakh to eligible women for business activities."
+    },
+    {
+      "question": "How will the loan be disbursed?",
+      "answer": "The Women's Economic Development Corporation verifies the application, approves the loan, and facilitates the disbursement through the bank."
+    },
+    {
+      "question": "Can women from urban areas apply for the scheme?",
+      "answer": "Yes, the scheme is open to women from both rural and urban areas who meet the eligibility criteria."
+    },
+    {
+      "question": "Is there any age limit for applying to the scheme?",
+      "answer": "The scheme does not specify an age limit, but the applicant must submit age proof during the application process."
+    },
+    {
+      "question": "What is the maximum loan amount available?",
+      "answer": "The maximum loan available under the scheme is ₹2,00,000/- for eligible women to undertake economic activities."
+    },
+    {
+      "question": "How is the subsidy calculated?",
+      "answer": "The subsidy is calculated at 15% of the loan amount or a maximum of ₹30,000/-, whichever is lower."
+    },
+    {
+      "question": "Can the loan be used for any type of business?",
+      "answer": "Yes, the loan can be used for any economic activity or business venture that supports the applicant's financial independence."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "The application must be submitted to the Gujarat State Women's Economic Development Corporation at their office in Gandhinagar."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "Documents required include age proof, Aadhar card, quotation, experience certificate, income proof, and ration card copy."
+    }
+  ]
+}

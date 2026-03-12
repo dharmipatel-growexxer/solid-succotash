@@ -1,0 +1,73 @@
+{
+  "scheme_name": "Anganwadi Workers Welfare Fund",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/awwfu",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Anganwadi Workers Welfare Fund",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Anganwadi Workers Welfare Fund\" was launched by the Department of Women Empowerment and Child Development, Government of Uttarakhand. The scheme aims to provide financial assistance to Anganwadi workers/mini workers/assistants of the state upon attaining the superannuation age of 60 years."
+    ],
+    "benefits": [
+      "A minimum amount of ₹30,000/- will be provided.",
+      "Upon completing 20 years of service, ₹1,30,000/- will be provided.",
+      "Note",
+      ": There is a provision for a 5% annual increase on the deposited amount."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an Anganwadi woman worker/mini worker/assistant working on an honorarium basis.",
+      "The applicant must have completed 60 years of age."
+    ],
+    "application_process": {
+      "offline": [
+        "To receive the amount under the Anganwadi Workers Welfare Fund, Anganwadi workers/mini workers/assistants must apply at the concerned CDPO office.",
+        "A retirement certificate from the Anganwadi Centre, Aadhar card, and bank account details must be attached with the application."
+      ]
+    },
+    "documents_required": [
+      "A retirement certificate from the Anganwadi Centre",
+      "Aadhaar card",
+      "Bank account details"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 36)",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who are eligible for this scheme?",
+      "answer": "Anganwadi workers, mini workers, and assistants working on an honorarium basis in Uttarakhand who have attained the age of 60 years are eligible."
+    },
+    {
+      "question": "What is the minimum financial assistance under the scheme?",
+      "answer": "The minimum amount provided under the scheme is ₹30,000/-."
+    },
+    {
+      "question": "What is the maximum financial assistance under the scheme?",
+      "answer": "On completion of 20 years of service, an eligible worker can receive ₹1,30,000/-."
+    },
+    {
+      "question": "Is there any annual increment on the fund?",
+      "answer": "Yes, there is a provision of a 5% increase on the deposited amount every year."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Applications must be submitted to the concerned Child Development Project Officer (CDPO) office."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Applicants must attach a retirement certificate from the Anganwadi Centre, Aadhar card, and bank account details with their application."
+    },
+    {
+      "question": "Is the scheme applicable to regular salaried Anganwadi workers?",
+      "answer": "No, the scheme is only for workers, mini workers, and assistants serving on an honorarium basis."
+    },
+    {
+      "question": "What is the age criterion for eligibility?",
+      "answer": "The applicant must have attained 60 years of age."
+    }
+  ]
+}

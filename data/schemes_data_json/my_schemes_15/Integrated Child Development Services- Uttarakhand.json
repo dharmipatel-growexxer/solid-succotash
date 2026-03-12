@@ -1,0 +1,75 @@
+{
+  "scheme_name": "Integrated Child Development Services- Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/icdsuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Integrated Child Development Services- Uttarakhand",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Integrated Child Development Services” is implemented by the Department of Women Empowerment & Child Development, Government of Uttarakhand. The scheme aims to improve the nutritional and health status of all children aged 6 months to 6 years, along with pregnant women and lactating mothers in the state, by providing supplementary nutrition, immunisation, and regular health check-ups."
+    ],
+    "benefits": [
+      "The following services are provided free of cost through Anganwadi Centres:",
+      "Supplementary nutrition, immunisation/vaccination, and related services for children between 6 months and 3 years.",
+      "Immunisation/vaccination, pre-school education, and related services for children aged 3 to 6 years.",
+      "Immunisation/vaccination, health check-ups, nutrition, and health education services for pregnant and lactating mothers."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "All children between 6 months and 6 years, as well as pregnant women and lactating mothers, are eligible to avail benefits under this scheme.",
+      "There is no income limit for availing the benefits of this scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration for availing benefits under the scheme is done either by the Anganwadi worker of the concerned area or by the beneficiary herself by visiting the nearest Anganwadi Centre. The Aadhaar card of the pregnant woman, lactating mother, or child is required for registration.",
+        "The following benefits under the scheme are provided through Anganwadi workers, with beneficiary details registered on the Poshan Tracker mobile app:",
+        "Cooked Food:",
+        "Pre-school children aged 3 to 6 years, registered at Anganwadi Centres, are provided breakfast and freshly cooked meals 25 days a month at the centres.",
+        "Take Home Ration (THR):",
+        "Wheat and fortified rice are provided every month to children aged 6 months to 3 years, children aged 3 to 6 years, severely malnourished children, as well as pregnant and lactating women through Anganwadi workers. In addition, immunisation, vaccination, and health check-ups are provided with the support of the Health Department."
+      ]
+    },
+    "documents_required": [
+      "Copy of Aadhaar Card of the pregnant/lactating woman or child",
+      "Birth certificate of child"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 32)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "All children aged 6 months to 6 years, pregnant women, and lactating mothers residing in Uttarakhand are eligible."
+    },
+    {
+      "question": "Is there any income limit to avail benefits under ICDS?",
+      "answer": "No, there is no income limit to avail benefits under this scheme."
+    },
+    {
+      "question": "How can one register for the scheme?",
+      "answer": "Registration can be done either by the Anganwadi worker of the area or by visiting the nearest Anganwadi Centre."
+    },
+    {
+      "question": "What are the main services provided under the scheme?",
+      "answer": "Services include supplementary nutrition, pre-school education, immunisation/vaccination, health check-ups, and health & nutrition education."
+    },
+    {
+      "question": "What is Cooked Food provision under the scheme?",
+      "answer": "Pre-school children aged 3 to 6 years receive breakfast and freshly cooked meals at Anganwadi Centres for 25 days each month."
+    },
+    {
+      "question": "What is Take Home Ration (THR)?",
+      "answer": "Wheat and fortified rice are provided monthly to children aged 6 months to 6 years, severely malnourished children, and pregnant/lactating women."
+    },
+    {
+      "question": "Is pre-school education part of the scheme?",
+      "answer": "Yes, children aged 3 to 6 years receive early childhood education at Anganwadi Centres."
+    },
+    {
+      "question": "Are services free of cost?",
+      "answer": "Yes, all services provided under the scheme are completely free for eligible beneficiaries."
+    }
+  ]
+}

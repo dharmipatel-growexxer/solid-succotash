@@ -1,0 +1,71 @@
+{
+  "scheme_name": "Mahila Bakri Palan",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mbp",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mahila Bakri Palan",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mahila Bakri Palan\" was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to empower women, especially abandoned, widowed, destitute, single, and disaster-affected women, by providing them support for goat rearing to generate livelihood and improve household income."
+    ],
+    "benefits": [
+      "Under this scheme, one unit of goats (3 females and 1 male) aged 12 to 18 months is provided to eligible women. The entire cost of the scheme, ₹35,000, is borne by the State Government."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a woman.",
+      "The applicant must be from one of the following categories:",
+      "Abandoned",
+      "Widow",
+      "Destitute",
+      "Single woman",
+      "Disaster-affected woman"
+    ],
+    "application_process": {
+      "offline": [
+        "Selection of beneficiaries will be made on a \"first come, first served\" basis.",
+        "Applicants must submit Aadhaar card, bank account details, and other documents related to criteria mentioned, along with their proposal."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details",
+      "Caste certificate",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 237)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who are eligible for this scheme?",
+      "answer": "Abandoned, widowed, destitute, single, and disaster-affected women are eligible for benefits under this scheme."
+    },
+    {
+      "question": "What support is provided under the scheme?",
+      "answer": "One unit of goats (03 females and 01 male) aged 12 to 18 months is provided to eligible women."
+    },
+    {
+      "question": "Who bears the cost of the scheme?",
+      "answer": "The entire cost of ₹ 35,000 per unit is borne by the State Government of Uttarakhand."
+    },
+    {
+      "question": "How can women apply for this scheme?",
+      "answer": "Interested beneficiaries must submit their proposal in an open meeting of the Gram Sabha."
+    },
+    {
+      "question": "To whom should the proposal be submitted?",
+      "answer": "The proposal should be submitted to the Veterinary Officer, Livestock Extension Officer, or Gram Panchayat Development Officer of the respective area."
+    },
+    {
+      "question": "How are funds provided to the beneficiaries?",
+      "answer": "After selection, funds for purchasing goats are transferred to the beneficiary’s bank account through Direct Benefit Transfer (DBT) within one to two months."
+    },
+    {
+      "question": "On what basis are beneficiaries selected?",
+      "answer": "Beneficiaries are selected on a \"first come, first served\" basis."
+    }
+  ]
+}

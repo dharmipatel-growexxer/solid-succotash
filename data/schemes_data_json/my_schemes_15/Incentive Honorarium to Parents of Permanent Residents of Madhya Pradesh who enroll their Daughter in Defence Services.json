@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Incentive Honorarium to Parents of Permanent Residents of Madhya Pradesh who enroll their Daughter in Defence Services",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/hipprmpdds",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Incentive Honorarium to Parents of Permanent Residents of Madhya Pradesh who enroll their Daughter in Defence Services",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The “Incentive Honorarium to Parents of Permanent Residents of Madhya Pradesh who enroll their Daughter in Defence Services” scheme was launched by the Home Department, Government of Madhya Pradesh. Under this scheme, a monetary incentive per year is provided to the parents of daughters who are serving or have served in the defense services."
+    ],
+    "benefits": [
+      "Annual Honorarium:",
+      "₹20,000 per year is granted to the parents whose daughters are serving or have retired from the defense services.",
+      "Mode of Disbursement:",
+      "The sanctioned amount is directly credited to the beneficiary’s bank account through the District Sainik Welfare Office."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Madhya Pradesh.",
+      "The applicant must be the mother or father of a daughter serving or retired from any recognized defense service (Army, Navy, or Air Force).",
+      "The applicant’s daughter must be serving in a recognized defense unit or retired not more than five years ago."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "Visit the official website of \"",
+        "Sainik Welfare",
+        "\", and click \"Log-in\".",
+        "Step 2:",
+        "In the online registration form, fill the following mandatory fields: Email ID, Mobile Number. Create a password and confirm. Finally, click \"Submit\" to complete the registration.",
+        "Step 3:",
+        "After successful registration, the User ID and Password will be generated.",
+        "Application",
+        "Visit the official website. Sign in using your Username and Password created during registration.",
+        "Navigate to the online form of the scheme. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Click \"Save Application\". You'll receive a confirmation message upon successful submission of the application, along with an \"application number\". Click \"Print Application\" to print the application."
+      ]
+    },
+    "documents_required": [
+      "Service Certificate of Daughter (Issued by the Concerned Defense Unit)",
+      "Residence Certificate (Permanent Domicile of Madhya Pradesh)",
+      "Bank Details"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Parents of daughters serving or retired from defense services who are permanent residents of Madhya Pradesh."
+    },
+    {
+      "question": "What is the incentive amount provided?",
+      "answer": "Financial assistanve of ₹10,000 per year is provided."
+    },
+    {
+      "question": "How long is the benefit available?",
+      "answer": "During the daughter’s service and up to 5 years after her retirement."
+    },
+    {
+      "question": "Who verifies the applications?",
+      "answer": "The application verify by the District Sainik Welfare Officer."
+    },
+    {
+      "question": "What is the mode of disbursement?",
+      "answer": "Financial assistance direct bank transfer to the beneficiary’s account."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Domicile certificate, Aadhaar, service certificate of the daughter, bank details, etc."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, the application process is completely free."
+    },
+    {
+      "question": "Where can I apply?",
+      "answer": "The application submit at the District Sainik Welfare Office or through the online portal https://sainikkalyan.mp.gov.in/Home.aspx"
+    },
+    {
+      "question": "How long does approval take?",
+      "answer": "The applicantion approval around one week after verification."
+    },
+    {
+      "question": "Can both parents apply separately?",
+      "answer": "No, only one parent (mother or father) can apply per daughter."
+    }
+  ]
+}

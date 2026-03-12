@@ -1,0 +1,114 @@
+{
+  "scheme_name": "Mukhyamantri Sampoorna Pushti Yojana: Maternal Nutrition",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/maternalnutritionuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Sampoorna Pushti Yojana: Maternal Nutrition",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The “Maternal Nutrition” scheme is a component under the \"Mukhyamantri Sampoorna Pushti Yojana (MSPY)\" scheme, introduced by the Department of Women & Child Development, Government of Odisha. The scheme aims to provide supplementary Take Home Ration (THR) in the form of nutrient-rich food products to pregnant women and lactating mothers across the state. Additionally, essential services such as antenatal care (ANC) check-ups during Mamata Diwas, immunisation, and IFA and calcium supplementation are also provided. The scheme has been implemented for a five-year period, commencing from FY 2023-24 to FY 2027-28."
+    ],
+    "benefits": [
+      "Take Home Ration:",
+      "Chikki/ladoo(s) and eggs are provided to pregnant women and lactating mothers under Supplementary Nutrition Programme (SNP). Additionally, the following nutrient-rich products would be provided under this scheme in addition to their existing entitlements.",
+      "Sl. No",
+      "Type of Take Home Ration",
+      "Monthly Quantity",
+      "1",
+      "Til Ladoo",
+      "500 gram (25 pieces of 20 gram each)",
+      "2",
+      "Paushtik Bhel",
+      "750 gram",
+      "3",
+      "Roasted Chana",
+      "1.5 kg",
+      "4",
+      "Dates",
+      "500 gram",
+      "Consumption of IFA, calcium and deworming tablets would also be monitored by the Anganwadi Workers (AWW) and ASHA. Nutrition and health counseling will also be effectively provided at the Anganwadi Centre (AWC) and at the household level during home visits.",
+      "Daily Ration cost:",
+      "₹15.50/- per beneficiary/day for 150 days during pregnancy and 150 days during lactation.",
+      "Date of delivery:",
+      "All items to be delivered to the beneficiaries at the AWC on the 1st of every month."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Odisha.",
+      "The beneficiary must be a pregnant woman or a lactating mother registered and residing within the service area of the concerned Anganwadi Centre (AWC)."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Visit the nearest Anganwadi Centre (AWC) in your locality.",
+        "Step 2:",
+        "Obtain the scheme enrollment form from the Anganwadi Worker (AWW).",
+        "Step 3:",
+        "Fill in the details in the form with attach the required documents.",
+        "Step 4:",
+        "Submit the filled form and documents to the AWC.",
+        "After Submission of Application:",
+        "The Anganwadi Worker verifies the eligibility and registers the applicant under MSPY – Maternal Nutrition.",
+        "Beneficiary receives acknowledgement of enrolment and is included in the monthly THR distribution list.",
+        "On the 1st of every month, the AWW distributes the entitled THR packages (Til Ladoo, Chana, Paushtik Bhel, Dates) at the AWC.",
+        "Health services such as ANC check-ups, IFA and Calcium supplementation continue as per schedule."
+      ]
+    },
+    "documents_required": [
+      "Identity proof (Aadhaar Card, etc.)",
+      "Proof of Residence",
+      "Pregnancy Certificate / Maternal Health Card/Medical Report",
+      "Any other documents (as per requirement)"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Maternal Nutrition component under the MSPY scheme?",
+      "answer": "The Maternal Nutrition component provides additional Take Home Ration (THR) containing nutrient-rich food products to pregnant women and lactating mothers to improve their overall nutrition and reduce anaemia."
+    },
+    {
+      "question": "Who can benefit from the Maternal Nutrition component?",
+      "answer": "Pregnant women and lactating mothers registered under the ICDS projects across Odisha are eligible to receive the benefits."
+    },
+    {
+      "question": "Is this scheme available in all districts of Odisha?",
+      "answer": "Yes, the scheme covers all districts of Odisha through the network of Anganwadi Centres (AWCs)."
+    },
+    {
+      "question": "What kind of benefit is given under this scheme?",
+      "answer": "Eligible women receive supplementary Take Home Ration (THR) in addition to their existing entitlements under the Supplementary Nutrition Programme (SNP)."
+    },
+    {
+      "question": "What is the purpose of providing additional Take Home Rations?",
+      "answer": "The purpose is to enhance maternal health, combat malnutrition and anaemia, and ensure an adequate intake of proteins and micronutrients during pregnancy and lactation."
+    },
+    {
+      "question": "What is the daily ration cost under the Maternal Nutrition component?",
+      "answer": "The daily ration cost is fixed at ₹15.50/- per pregnant woman or lactating mother for 300 days each year."
+    },
+    {
+      "question": "What are the specific food items provided in the Take Home Ration?",
+      "answer": "Each beneficiary receives Til Ladoo (25 pieces), Roasted Chana (1.5 kg), Paushtik Bhel (750 g), and Dates (500 g)."
+    },
+    {
+      "question": "On which date are the items distributed each month?",
+      "answer": "All items are delivered to the beneficiaries on the 1st day of every month at their Anganwadi Centre."
+    },
+    {
+      "question": "Where can a beneficiary collect her Take Home Ration?",
+      "answer": "Beneficiaries can collect their rations directly from the Anganwadi Centre where they are registered."
+    },
+    {
+      "question": "Are lactating mothers eligible to receive these benefits?",
+      "answer": "Yes, lactating mothers with infants up to 6 months of age are entitled to receive the Take Home Rations."
+    },
+    {
+      "question": "For how long can a woman receive the benefits?",
+      "answer": "Each eligible woman can receive benefits for 300 days per year during pregnancy and lactation."
+    }
+  ]
+}

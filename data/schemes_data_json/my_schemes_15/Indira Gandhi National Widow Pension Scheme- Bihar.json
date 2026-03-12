@@ -1,0 +1,112 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme- Bihar",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ignwpsb",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Indira Gandhi National Widow Pension Scheme- Bihar",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Indira Gandhi National Widow Pension Scheme\" is implemented by the Social Welfare Department, Government of Bihar. Under this scheme, a monthly pension is provided to widows in the age group of 40 to 79 years who belong to Below Poverty Line (BPL) families to support them financially. This scheme is centrally sponsored.",
+      "Objective:",
+      "The objective of this scheme is to provide social security to the widows of poor families of the society by providing them financial assistance."
+    ],
+    "benefits": [
+      "Under this scheme, eligible widows will receive a monthly pension of ₹400/-.",
+      "Note:",
+      "The pension amount is being paid to the beneficiaries under the Direct Benefit Transfer (DBT) process. In this process, the pension amount is paid directly into the accounts of the beneficiaries through PFMS from the state level on the basis of the account number provided by the beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Bihar.",
+      "The applicant should be a widow.",
+      "The widow's age should be between 40 and 79 years.",
+      "The widow should belong to a Below Poverty Line (BPL) family.",
+      "The widow should not be receiving pension benefits under any social security scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "To avail of the benefits of this scheme, eligible applicants should submit their duly filled and signed application in the",
+        "prescribed format",
+        ", along with the required attachments, at the Right to Public Service (RTPS) counter located at the block office level.",
+        "Step 2:",
+        "Upon submission, applicants will receive an acknowledgment receipt from the RTPS counter, which should be kept for future reference.",
+        "Step 3:",
+        "Applicants will be notified of the application's approval or rejection via SMS or email.",
+        "Step 4:",
+        "If approved, the Sanction Order can be collected from the same RTPS counter where the application was submitted, upon presenting the acknowledgment receipt and a valid identity card.",
+        "Complaints & Grievance Redressal:",
+        "A special portal has been developed for grievance redressal in relation to the Social Security Pension Scheme (",
+        "https://www.sspmis.bihar.gov.in/",
+        ") where the beneficiary can go and register his complaint himself or can call on toll-free number 18003456262 and register his complaint free of cost through the helpdesk.",
+        "The complaint can be lodged in the office of the Block Development Officer, Sub-divisional Office, Assistant Director, District Social Security Cell/District Child Protection Unit, Director, Social Security Office, and Additional Chief Secretary/Principal Secretary/Secretary, Social Welfare Department. Apart from this, under the Bihar Public Grievance Redressal Rights Act, 2016, the office of the Public Grievance Redressal Officer at the sub-divisional level and the District Public Grievance Redressal Officer at the district level are functioning."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card of the applicant",
+      "Passport-size photograph",
+      "Identity proof i.e. Voter ID Card, Driving License",
+      "Death certificate of husband",
+      "Residence Proof",
+      "Proof of age",
+      "Below Poverty Line (BPL) Card/related documents",
+      "Caste certificate, if applicable",
+      "Address proof",
+      "Bank Passbook/Bank account details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Application Format",
+      "Official Website",
+      "SSPMIS Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The objective of the scheme is to provide social security to widows from poor families by offering them financial assistance in the form of a monthly pension."
+    },
+    {
+      "question": "Who is eligible to apply for this pension scheme?",
+      "answer": "Widows residing in Bihar, aged between 40 and 79 years, belonging to Below Poverty Line (BPL) families, and not receiving pension benefits under any other social security scheme are eligible."
+    },
+    {
+      "question": "How much pension is provided under this scheme?",
+      "answer": "Eligible widows receive a monthly pension of ₹400/- under this scheme."
+    },
+    {
+      "question": "How is the pension amount disbursed to beneficiaries?",
+      "answer": "The pension amount is disbursed directly into the beneficiaries' bank accounts through the Direct Benefit Transfer (DBT) process via the Public Financial Management System (PFMS)."
+    },
+    {
+      "question": "What is the age criterion for eligibility?",
+      "answer": "The widow's age should be between 40 and 79 years to be eligible for the pension."
+    },
+    {
+      "question": "Can a widow receiving another pension apply for this scheme?",
+      "answer": "No, widows who are receiving pension benefits under any other social security scheme are not eligible for this scheme."
+    },
+    {
+      "question": "Is there any income criterion for eligibility?",
+      "answer": "Yes, the widow must belong to a Below Poverty Line (BPL) family to be eligible for this scheme."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Eligible applicants can apply by submitting a duly filled and signed application in the prescribed format, along with required attachments, at the Right to Public Service (RTPS) counter located at the block office level."
+    },
+    {
+      "question": "Where should the application for the pension scheme be submitted?",
+      "answer": "The application should be submitted at the Right to Public Service (RTPS) counter at the block office level."
+    },
+    {
+      "question": "What happens after submitting the application?",
+      "answer": "After submission, applicants receive an acknowledgment receipt. They will be notified of the application's approval or rejection via SMS or email."
+    },
+    {
+      "question": "What if an application is rejected?",
+      "answer": "If an application is rejected, the applicant will be notified of the reasons for rejection. They can reapply after addressing the issues or contact the grievance redressal system for further assistance."
+    }
+  ]
+}

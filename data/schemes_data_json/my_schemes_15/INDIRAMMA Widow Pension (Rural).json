@@ -1,0 +1,77 @@
+{
+  "scheme_name": "INDIRAMMA Widow Pension (Rural)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/iwp-andhra",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "INDIRAMMA Widow Pension (Rural)",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2006-07, the scheme \"INDIRAMMA Widow Pension (Rural)\" by the Department of Rural Development, Government of Andhra Pradesh, aims to disburse monthly pensions to widows, irrespective of their age. To be eligible, they should be from a BPL family, be a resident of the district, and not be covered under any other Pension Scheme. The eligible widows will be identified by their respective Gram Sabhas. The Panchayat Secretary disburses the pension to the eligible widows on the first date of every month."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+      "Mode of Disbursement:",
+      "The Panchayat Secretary disburses the pension to the eligible citizens, in the presence of Sarpanch, Gram Panchayat Members and the Office Bearers of Village Organization.",
+      "Time of Disbursement:",
+      "The pension is disbursed on the first date of every month."
+    ],
+    "eligibility": [
+      "The applicant should be from a Below Poverty Line (BPL) family.",
+      "The applicant should be a local resident of a district of Andhra Pradesh.",
+      "The applicant should be from a rural area.",
+      "The applicant should not be covered under any other Pension Scheme.",
+      "The applicant should be a Widow.",
+      "* The eligible citizens will be identified by their respective Gram Sabhas. The register containing the list of eligible citizens will be shared by the Panchayat Secretary with the Mandal Parishad Development Officer (MPDO)."
+    ],
+    "application_process": {
+      "offline": [
+        "The eligible citizens will be identified by their respective Gram Panchayat during the Gram Sabhas. The Panchayat Secretary maintains a register of eligible persons and sends the Gram Sabha resolution recommending eligible persons to the Mandal Parishad Development Officer (MPDO)."
+      ]
+    },
+    "documents_required": [
+      "Proof of Age",
+      "Domicile Certificate",
+      "Below Poverty Line (BPL) Certificate",
+      "Proof of Widowhood"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How are funds for the INDIRAMMA Widow Pension scheme allocated to districts?",
+      "answer": "Funds are allocated district-wise by the Project Director, DRDA, based on the number of eligible widows."
+    },
+    {
+      "question": "What is the role of the Gram Panchayat members during pension disbursement?",
+      "answer": "Gram Panchayat members are present during disbursement to ensure the process is conducted fairly and transparently."
+    },
+    {
+      "question": "How does the MPDO ensure the correct allocation of pensions under the scheme?",
+      "answer": "The MPDO scrutinizes the eligibility of recommended widows and allocates pensions based on district-wise availability."
+    },
+    {
+      "question": "What is the significance of the proof of widowhood document in the application process?",
+      "answer": "Proof of widowhood is required to verify the applicant’s eligibility as a widow under the scheme."
+    },
+    {
+      "question": "How is the pension amount determined under the INDIRAMMA Widow Pension scheme?",
+      "answer": "The pension amount is determined and notified by the Government of Andhra Pradesh."
+    },
+    {
+      "question": "How are existing pensioners managed under the INDIRAMMA Widow Pension scheme?",
+      "answer": "Existing pensioners are listed in Part A of the register maintained by the Panchayat Secretary for continued disbursement."
+    },
+    {
+      "question": "What is the process for new applicants to be included in the INDIRAMMA Widow Pension scheme?",
+      "answer": "New applicants are identified by the Gram Sabha, recommended to the MPDO, and added to Part B of the register."
+    },
+    {
+      "question": "Is there an age requirement for widows to apply for the INDIRAMMA Widow Pension scheme?",
+      "answer": "No, the scheme is available to widows irrespective of their age, provided they meet other eligibility criteria."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "scheme_name": "Nagaland Stipend for Girls of Secondary Students",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sfgsss",
+  "location_name": "Nagaland",
+  "location_type": "state",
+  "page_title": "Nagaland Stipend for Girls of Secondary Students",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Nagaland Stipend for Girls of Secondary Students” is a state-sponsored scheme launched by the Department of School Education, Government of Nagaland. The scheme aims to encourage girl students of class IX and X studying at Government High Schools (GHS) and Government Higher Secondary Schools (GHSS) who belong to economically weaker families. Under this scheme, a stipend will be provided to two girls from each class, nominated by the Headmaster or Principal of the concerned school."
+    ],
+    "benefits": [
+      "Girl students receive a stipend of ₹1,000/-."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Nagaland.",
+      "The applicant should be a girl student.",
+      "The applicant should be studying in class IX or X.",
+      "The applicant should be studying at a Government High School or Government Higher Secondary School.",
+      "The applicant should belong to an economically weaker family."
+    ],
+    "application_process": {
+      "offline": [
+        "Eligible girl students can apply for the scheme by contacting the Principal/Headmaster, or the concerned authority at their respective school/institution.",
+        "Note:",
+        "The Headmaster and Principal of Government High Schools and Government Higher Secondary Schools can nominate two girls from each class and submit along with the PCR at the end of the academic session, to the Directorate to avail the Stipend."
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph",
+      "Identity proof",
+      "Address proof",
+      "Income certificate of the parents/guardians",
+      "Caste certificate (if applicable)",
+      "Previous year's mark sheet",
+      "Bank account details"
+    ],
+    "sources_and_references": [
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the amount of stipend provided to the eligible girl students under this scheme?",
+      "answer": "The amount of stipend provided to eligible girl students under this scheme is Rs. 1000 per annum."
+    },
+    {
+      "question": "Can a girl student who is studying in a private school apply for this scheme?",
+      "answer": "No."
+    },
+    {
+      "question": "Is there any preference given to the students belonging to a particular community or category?",
+      "answer": "No, there is no preference given to the students belonging to a particular community or category. The scheme is open to all eligible girl students of Nagaland who belong to economically weaker families."
+    },
+    {
+      "question": "What is the objective of providing stipend under this scheme?",
+      "answer": "The objective of providing stipend under this scheme is to encourage more girl students to continue their secondary education and to reduce the dropout rate among them."
+    },
+    {
+      "question": "How is the stipend amount disbursed to the eligible girl students?",
+      "answer": "The stipend amount is disbursed to the eligible girl students through their respective schools."
+    },
+    {
+      "question": "Who is eligible under the scheme?",
+      "answer": "Girl students who are studying in class 9 or 10 in any Government High Schools or Government Higher Secondary Schools who belong to economically weaker families."
+    },
+    {
+      "question": "Can students from private schools apply for the scheme?",
+      "answer": "No."
+    },
+    {
+      "question": "Can students from other states apply for the scheme?",
+      "answer": "No."
+    },
+    {
+      "question": "Can a student receive the stipend more than once?",
+      "answer": "No, the stipend is provided only once during the academic year."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "scheme_name": "Janani Express Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jey",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Janani Express Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Janani Express Yojana\" was launched by the Public Health and Family Welfare Department, Government of Madhya Pradesh. The scheme aims to provide free transport facilities for pregnant women to reach government health institutions for safe delivery."
+    ],
+    "benefits": [
+      "Free transport facility is provided to pregnant women for traveling to government hospitals for delivery."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must be a pregnant woman."
+    ],
+    "application_process": {
+      "offline": [
+        "If the pregnant woman fulfills all the eligibility criteria of the scheme, she is automatically entitled to avail the benefits of the scheme. She (or her family member) can simply call on the Janani Express helpline number and provide the basic information along with the location for pickup. The local Janani Express vehicle will arrive at the location for pickup."
+      ]
+    },
+    "documents_required": [
+      "No documents are required to avail the benefits of this scheme."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Which department implements this scheme?",
+      "answer": "The Department of Public Health and Medical Education, Government of Madhya Pradesh."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "All pregnant women residing in Madhya Pradesh."
+    },
+    {
+      "question": "Is the service available in rural areas?",
+      "answer": "Yes, it covers both urban and rural areas."
+    },
+    {
+      "question": "How can a beneficiary avail the service?",
+      "answer": "By calling the nearest Janani Express vehicle driver or the government hospital."
+    },
+    {
+      "question": "Is there any application process?",
+      "answer": "No formal application is required; only a phone call is needed."
+    },
+    {
+      "question": "Is there any cost for availing the service?",
+      "answer": "No, the transport service is completely free of cost."
+    },
+    {
+      "question": "Do beneficiaries need to submit any documents?",
+      "answer": "No documents are needed for availing the service."
+    }
+  ]
+}

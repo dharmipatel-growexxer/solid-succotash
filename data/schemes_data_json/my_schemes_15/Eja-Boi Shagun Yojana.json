@@ -1,0 +1,58 @@
+{
+  "scheme_name": "Eja-Boi Shagun Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ebsyuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Eja-Boi Shagun Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Eja-Boi Shagun Yojana” was launched by the Department of Medical Health and Family Welfare, Government of Uttarakhand. The scheme aims to promote the safe health and well-being of mothers and newborns by encouraging institutional deliveries and ensuring that mothers stay in government hospitals for at least 48 hours after childbirth."
+    ],
+    "benefits": [
+      "For ensuring the safe health of both mother and child, an incentive amount of ₹2000/- is provided to all eligible mothers who stay in the government hospital for at least 48 hours after delivery."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant must be a pregnant woman who has delivered her child in a government hospital within the state of Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "After the delivery of a pregnant woman in a government hospital, the concerned hospital collects her Aadhaar card and bank account details and initiates the process for transferring the incentive amount of ₹2000/-, which is later credited directly to the woman’s bank account."
+      ]
+    },
+    "documents_required": [
+      "1. Aadhaar Card",
+      "2. Bank account details"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 127)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to benefit from this scheme?",
+      "answer": "The scheme is available to women who are permanent residents of Uttarakhand and have delivered their baby in a government hospital within the state."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "An incentive amount of ₹2000/- is provided to each eligible mother who stays in a government hospital for at least 48 hours after delivery."
+    },
+    {
+      "question": "What is the purpose of the 48-hour hospital stay requirement?",
+      "answer": "The 48-hour stay ensures that both mother and newborn receive proper postnatal care, medical observation, and necessary support to prevent complications after childbirth."
+    },
+    {
+      "question": "Is the scheme applicable for deliveries in private hospitals?",
+      "answer": "No."
+    },
+    {
+      "question": "How can an eligible woman apply for the incentive amount?",
+      "answer": "After delivery in a government hospital, the hospital authorities collect the woman’s Aadhaar card and bank account details and process the incentive payment on her behalf."
+    },
+    {
+      "question": "How is the incentive amount disbursed to the beneficiary?",
+      "answer": "The incentive amount is directly transferred to the beneficiary’s bank account after verification by the concerned hospital."
+    }
+  ]
+}

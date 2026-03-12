@@ -1,0 +1,87 @@
+{
+  "scheme_name": "Destitute Widow Pension Scheme - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/uwps",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Destitute Widow Pension Scheme - Uttarakhand",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Destitute Widow Pension Scheme\" has been launched by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to help destitute widows meet their basic needs and improve their quality of life. Under this scheme, a monthly pension is provided to widows whose family monthly income is up to ₹4,000/- or who belong to the BPL category, and who are not availing of any other pension benefits."
+    ],
+    "benefits": [
+      "A pension of ₹1,500/- per month is provided to eligible beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a widow.",
+      "The widow must be at least 18 years of age.",
+      "The widow’s family monthly income should not exceed ₹4,000/-, or she must possess a valid BPL (Below Poverty Line) certificate.",
+      "The widow must not be receiving any other pension benefits."
+    ],
+    "application_process": {
+      "online": [
+        "The applicant can apply online either by themselves or through a Common Service Center (CSC) via the Department’s Pension Portal (",
+        "https://ssp.uk.gov.in",
+        "), the",
+        "UMANG",
+        "Mobile App, or the Apuni Sarkar Portal (",
+        "https://eservices.uk.gov.in",
+        ").",
+        "The following documents are mandatory at the time of applying:",
+        "Applicant’s mobile number, Passport-size photograph (attested by Gram Pradhan / V.P.D.O. / certified by Councillor), Photocopy of Aadhaar card and Voter ID card, Husband's Death Certificate, CBS bank account details (linked/seeded with Aadhaar), Valid family income certificate or BPL certificate, Copy of family register (for rural areas only), Copy of the resolution passed in the open meeting of Gram Panchayat (for rural areas) / certified by Councillor (for urban areas)",
+        "All the above documents must be issued from the district where the application is being submitted.",
+        "For verification of the online application form in rural areas, the final decision is taken by the District Social Welfare Officer after recommendations from the Gram Panchayat Development Officer, Assistant Social Welfare Officer, and Block Development Officer, respectively. In urban areas, verification and recommendation are done by the Assistant Social Welfare Officer and Sub-District Magistrate. If the application is found correct, the District Social Welfare Officer approves it, after which the pension payment process is initiated.",
+        "The pension is credited to the applicant’s bank account one month after the approval of the application."
+      ]
+    },
+    "documents_required": [
+      "Applicant’s mobile number",
+      "Passport-size photograph (certified by Gram Pradhan / V.P.D.O. / Councillor)",
+      "Aadhaar card",
+      "Voter ID card",
+      "CBS bank account linked/seeded with Aadhaar card",
+      "Valid family income certificate or BPL certificate",
+      "Husband's Death Certificate",
+      "Copy of family register (only for rural areas)",
+      "Copy of the resolution passed in the open meeting of the Gram Panchayat (for rural areas) or by the Councillor (for urban areas)",
+      "Note:",
+      "All the above documents must be issued from the district where the application is submitted."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 16)",
+      "Online Application Portal",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this pension?",
+      "answer": "A widow aged 18 years or above, with a family monthly income up to ₹4,000 or possessing a BPL (Below Poverty Line) certificate, and not receiving any other pension, is eligible."
+    },
+    {
+      "question": "What is the minimum age requirement to apply?",
+      "answer": "The applicant must be at least 18 years old at the time of application."
+    },
+    {
+      "question": "Is there any income limit to avail of this pension?",
+      "answer": "Yes. The family’s monthly income should not exceed ₹4,000, or the applicant should have a valid BPL certificate."
+    },
+    {
+      "question": "Can a widow who is already receiving another pension apply?",
+      "answer": "No. Applicants should not be availing of any other pension benefits."
+    },
+    {
+      "question": "How much pension amount will be provided under this scheme?",
+      "answer": "A pension of ₹1,500 per month will be provided."
+    },
+    {
+      "question": "How can I apply for this pension?",
+      "answer": "You can apply online through: Department’s Pension Portal UMANG Mobile App Apni Sarkar Portal Department’s Pension Portal UMANG Mobile App Apni Sarkar Portal"
+    },
+    {
+      "question": "How long does it take to receive the pension after approval?",
+      "answer": "The pension amount will be credited to the beneficiary’s bank account within one month after approval."
+    }
+  ]
+}

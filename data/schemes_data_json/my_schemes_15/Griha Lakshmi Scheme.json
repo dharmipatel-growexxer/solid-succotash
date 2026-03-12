@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Griha Lakshmi Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/gls",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Griha Lakshmi Scheme",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Griha Lakshmi\" by the by the Department of Women and Child Development, Government of Karnataka aims to empower women by providing financial assistance to female heads of households. The scheme offers a monthly financial aid of ₹2,000/- to eligible women, helping them manage household expenses and improve their quality of life. Eligible beneficiaries include women who are listed as the head of the family in the ration card, and the scheme is open to families holding Below Poverty Line (BPL) or Above Poverty Line (APL) ration cards."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹2,000/- per month.",
+      "The amount is directly transferred to the beneficiary's bank account linked with Aadhaar (DBT) or through RTGS for non-Aadhaar linked accounts."
+    ],
+    "eligibility": [
+      "The applicant should be a woman.",
+      "The applicant should be listed as the head of the family on the ration card.",
+      "The applicant should be the head of the family as per the ration card (BPL or APL).",
+      "The family of the applicant should be a resident of Karnataka.",
+      "Preference/Priority/Reservation/Relaxation",
+      "Women from BPL families are given priority.",
+      "In case of the death of the family head, the next eligible female member can be registered."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Visit the Official Website of",
+        "Seva Sindhu Guarantee Schemes Portal",
+        ".",
+        "Step 2:",
+        "Register on the portal using your Aadhaar Number and Mobile Number.",
+        "Step 3:",
+        "Use the credentials you created during registration to log in. Navigate to the online application form for the scheme.",
+        "Step 4:",
+        "In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Carefully review all the information provided and the documents uploaded. Make any necessary corrections.",
+        "Step 5:",
+        "Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any). Click the \"Submit\" or \"Apply\" button to submit your application. You'll receive a confirmation message. Note the application reference number for tracking."
+      ]
+    },
+    "documents_required": [
+      "Copy of the Ration Card Where the Woman is Listed as the Head of the Family.",
+      "Copy of the Aadhaar Card of the Beneficiary.",
+      "Passbook of the Bank Account Linked With Aadhaar or RTGS Details for Non Aadhaar-linked Accounts.",
+      "Any Document Proving Residence in Karnataka.",
+      "Income Certificate (if applicable).",
+      "Self-Declaration Form (confirming head of household status).",
+      "Death Certificate of Husband (for widows, if applicable)."
+    ],
+    "sources_and_references": [
+      "Guideline",
+      "Official Website",
+      "FAQs",
+      "Government Order"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the monthly financial assistance provided to eligible women under the scheme?",
+      "answer": "The scheme provides a monthly financial assistance of ₹2,000/- to eligible women to help manage household expenses and improve their quality of life."
+    },
+    {
+      "question": "Is the scheme open to families holding Above Poverty Line (APL) ration cards?",
+      "answer": "Yes, the scheme is open to families holding both Below Poverty Line (BPL) and Above Poverty Line (APL) ration cards."
+    },
+    {
+      "question": "What is the priority criteria for selecting beneficiaries under the scheme?",
+      "answer": "Women from Below Poverty Line (BPL) families are given priority under the scheme."
+    },
+    {
+      "question": "Are women who pay income tax or GST eligible for the scheme?",
+      "answer": "No, women who are paying income tax or GST are not eligible for the scheme."
+    },
+    {
+      "question": "What documents are required to prove the applicant’s status as the head of the family?",
+      "answer": "A copy of the ration card where the woman is listed as the head of the family is required to prove her status."
+    },
+    {
+      "question": "Is an Aadhaar card mandatory for applying to the scheme?",
+      "answer": "Yes, a copy of the Aadhaar card of the beneficiary is required for the application process."
+    },
+    {
+      "question": "What banking details are needed for the financial assistance transfer?",
+      "answer": "A passbook of the bank account linked with Aadhaar or RTGS details for non-Aadhaar linked accounts is required."
+    },
+    {
+      "question": "What additional document is required for widows applying under the scheme?",
+      "answer": "Widows need to provide a death certificate of their husband as part of the application process."
+    },
+    {
+      "question": "Where can applicants submit their offline application forms?",
+      "answer": "Applicants can submit their forms at the nearest Grama One, Bangalore One, Karnataka One, or BBMP Ward Office."
+    },
+    {
+      "question": "Can government representatives visit homes for enrollment under the scheme?",
+      "answer": "Yes, government-appointed representatives may visit homes for enrollment under the scheme."
+    },
+    {
+      "question": "Is there a fee for submitting the application form?",
+      "answer": "No, the application process is completely free of cost for all applicants."
+    },
+    {
+      "question": "Is there a last date for enrollment under the scheme?",
+      "answer": "No, there is no last date for enrollment; beneficiaries can register at any time."
+    },
+    {
+      "question": "What credentials are needed to register on the online portal?",
+      "answer": "Applicants need to register using their Aadhaar number and mobile number on the online portal."
+    },
+    {
+      "question": "What is the purpose of the financial assistance provided under the scheme?",
+      "answer": "The financial assistance aims to help women manage household expenses and improve their economic stability."
+    }
+  ]
+}

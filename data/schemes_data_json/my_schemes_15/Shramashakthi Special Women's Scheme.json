@@ -1,0 +1,101 @@
+{
+  "scheme_name": "Shramashakthi Special Women's Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ssws",
+  "location_name": "Karnataka",
+  "location_type": "state",
+  "page_title": "Shramashakthi Special Women's Scheme",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The \"Shramashakthi Special Women's Scheme\" was launched by the Minorities Welfare Department, Government of Karnataka, and implemented by the Karnataka Minorities Development Corporation. This is a special scheme for the economic empowerment of widowed, divorced, unmarried women of the minority community. Under this scheme, ₹25,000/- loan and ₹25,000/- subsidy will be provided to undertake various economic activities."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "A total of ₹50,000/- is provided, comprising ₹25,000/- as a loan and ₹25,000/- as a subsidy."
+    ],
+    "eligibility": [
+      "The applicant should be a female.",
+      "The applicant should be a widowed, divorced, unmarried woman.",
+      "The applicant should belong to a religious minority community as defined in the Government Order.",
+      "The applicant should be a permanent resident of Karnataka.",
+      "The applicant's age should be between 18 to 55 years.",
+      "The annual family income of the applicant from all sources should be below ₹3,50,000/-.",
+      "The applicant's family member should not be a State/Central Government employee.",
+      "The applicant or family members should not have availed of benefits under any other scheme (Excluding the Arivu Scheme) of the KMDCL in the last 5 years."
+    ],
+    "application_process": {
+      "online": [
+        "Step-01: Applicant need to visits the Karnataka Minorities Development Corporation",
+        "official website",
+        ".",
+        "Step-02: Click \"",
+        "Apply Online",
+        "\" and Enter \"Mobile Number\" and \"Submit\".",
+        "Step-03: Enter \"Aadhaar Number\" Fill in the \"Captcha\" and Select \"Next\".",
+        "Step-04: Applicant will get OTP in his/her Aadhaar Linked Mobile Number.",
+        "Step-05: Enter \"OTP\" and select \"Continue\", After that Allow the official notice.",
+        "Step-06: After verifying the Aadhaar again fill in the \"OTP\" and Submit.",
+        "Step-07: Select the scheme \"Sikhligar’s Community Development Scheme\" and fill in the basic details father's name, gender, qualification detail",
+        "Step-08: Select \"Next\" Fill in the address detail and again select \"Next\".",
+        "Step-09: Upload the required document passport-size photo, educational document, income certificate, etc.",
+        "Step-10: Click \"Proceed\" and Select \"Submit Application\" and get an Application ID."
+      ]
+    },
+    "documents_required": [
+      "Project Report.",
+      "Caste/Minority Certificate (issued by the competent authority).",
+      "Income Certificate (issued by the competent authority).",
+      "Copy of Aadhaar as Residential Proof.",
+      "Copy of Bank Passbook.",
+      "Self-Declaration Form from Surety.",
+      "Self-Declaration Form."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Login & Apply",
+      "Track Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is this scheme about?",
+      "answer": "This scheme provides financial assistance to minority women for economic activities."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Widowed, divorced, and unmarried minority women aged 18-55 from Karnataka."
+    },
+    {
+      "question": "What is the financial assistance provided?",
+      "answer": "₹25,000/- loan and ₹25,000/- subsidy."
+    },
+    {
+      "question": "What documents are needed for the application?",
+      "answer": "Project report, caste/minority certificate, income certificate, Aadhaar card, bank passbook, and self-declaration forms."
+    },
+    {
+      "question": "How do I apply for the scheme?",
+      "answer": "Applications can be submitted at KMDCL's official website online."
+    },
+    {
+      "question": "Can I apply if I work for the government?",
+      "answer": "No, applicants or their family members should not be government employees."
+    },
+    {
+      "question": "Can I reapply if I received benefits from KMDCL before?",
+      "answer": "No, you cannot apply if you have availed benefits from KMDCL in the last 5 years, except for the Arivu Education Loan Scheme."
+    },
+    {
+      "question": "Is a guarantor required for the loan?",
+      "answer": "Yes, a surety is needed for the loan application."
+    },
+    {
+      "question": "What is the purpose of the subsidy?",
+      "answer": "The subsidy helps reduce the financial burden of starting an economic activity."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, recently no mention of any fee for more information check with KMDCL website."
+    }
+  ]
+}

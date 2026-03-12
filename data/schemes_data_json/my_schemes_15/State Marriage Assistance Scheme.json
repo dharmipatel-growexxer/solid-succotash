@@ -1,0 +1,98 @@
+{
+  "scheme_name": "State Marriage Assistance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/smas",
+  "location_name": "Ladakh",
+  "location_type": "union_territory",
+  "page_title": "State Marriage Assistance Scheme",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "\"The 'State Marriage Assistance Scheme,' launched by the Department of Social and Tribal Welfare, UT Ladakh, aims to provide one-time financial assistance of ₹50,000/- to female beneficiaries from AAY or PHH ration cardholder families. Additionally, Divyangjan beneficiaries receive ₹1,00,000/-. Applications can be submitted through the District or Tehsil Social Welfare Officer in Leh or Kargil.\""
+    ],
+    "benefits": [
+      "One-time financial assistance of ₹50,000/- shall be given to female beneficiaries.",
+      "Financial assistance of ₹1,00,000/- has been given to Divyangjan beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant should belong to Antodaya Anna Yojana (AAY) or Priority Household (PHH) ration cardholder families.",
+      "The bride and bridegroom should be permanent residents of Ladakh",
+      "The bride should be above 18 years of age.",
+      "The bridegroom should be above 21 years of age.",
+      "The marriage should be the first marriage between the bride and the groom.",
+      "The divyangjan applicants with benchmark disabilities as defined in “The Rights of Persons with Disabilities Act, 2016 are eligible."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the office of the District Social Welfare and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant should take print of the",
+        "prescribed format",
+        "of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Social Welfare Officer/ Tehsil Social Welfare Officer/Social Worker of the Department at Leh/Kargil",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Social Welfare Officer/ Tehsil Social Welfare Officer/Social Worker of the Department at Leh/Kargil to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Two Passport-size Photographs – Both Bride and Bridegroom.",
+      "Aadhaar Card – Both Bride and Bridegroom.",
+      "Birth Certificate – Both Bride and Bridegroom.",
+      "AAY/PHH Ration card in which Applicant’s or her Father/Husband's (in case of widow) name is mentioned (certificate issued by S.D.M/Tehsildar).",
+      "Resident Certificate (issued by S.D.M/Tehsildar).",
+      "Death Certificate of ex-husband in case of widow applicant.",
+      "Divorce Decree (issued by a court in case of the divorced applicant).",
+      "Affidavit (she has not been married before for the unmarried female applicant).",
+      "UDID Card Copy or Certificate of Disability."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Ladakh State Marriage Assistance Scheme?",
+      "answer": "The Ladakh State Marriage Assistance Scheme is a financial aid program providing one-time assistance to eligible female beneficiaries for their marriage."
+    },
+    {
+      "question": "Who is eligible for the Ladakh State Marriage Assistance Scheme?",
+      "answer": "Female beneficiaries belonging to Antodaya Anna Yojana (AAY) or Priority Household (PHH) ration cardholder families, and Divyangjan beneficiaries with benchmark disabilities as defined in “The Rights of Persons with Disabilities Act, 2016”."
+    },
+    {
+      "question": "What financial assistance is provided under this scheme?",
+      "answer": "Female beneficiaries receive ₹50,000, while Divyangjan beneficiaries receive ₹1,00,000/-."
+    },
+    {
+      "question": "What are the age requirements for the bride and groom to be eligible for the scheme?",
+      "answer": "The bride must be 18 years or above, and the groom must be 21 years or above."
+    },
+    {
+      "question": "Must the beneficiaries be residents of Ladakh?",
+      "answer": "Yes, both the bride and groom must be permanent residents of Ladakh."
+    },
+    {
+      "question": "How is the financial assistance provided to the beneficiaries?",
+      "answer": "The financial assistance is credited to the beneficiary's Aadhar-linked savings bank account through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Applicants need to provide proof of AAY or PHH ration card, Aadhar card, proof of residence in Ladakh, age proof, and disability certificate (for Divyangjan beneficiaries)."
+    },
+    {
+      "question": "Where should applications be submitted?",
+      "answer": "Applications must be submitted to the District Social Welfare Officer, Tehsil Social Welfare Officer, or Social Worker of the Department in Leh/Kargil."
+    },
+    {
+      "question": "When did the revised scheme become effective?",
+      "answer": "The revised scheme became effective on January 1, 2024."
+    },
+    {
+      "question": "How is eligibility determined and financial assistance sanctioned?",
+      "answer": "Eligibility is determined as per the guidelines, and the committee sanctions the financial assistance, subject to the availability of funds."
+    }
+  ]
+}

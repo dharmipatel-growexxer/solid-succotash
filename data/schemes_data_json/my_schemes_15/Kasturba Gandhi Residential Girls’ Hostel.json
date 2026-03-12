@@ -1,0 +1,75 @@
+{
+  "scheme_name": "Kasturba Gandhi Residential Girls’ Hostel",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kgbvrghuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Kasturba Gandhi Residential Girls’ Hostel",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Kasturba Gandhi Residential Girls’ Hostel” is an initiative under the Samagra Shiksha Programme, implemented by the Secondary Education Department, Government of Uttarakhand. The scheme aims to encourage girls’ participation in education at the upper primary and secondary levels and to provide quality education to girls from disadvantaged groups studying in Classes 6 to 12."
+    ],
+    "benefits": [
+      "Girls from various disadvantaged groups such as socially disadvantaged classes (Scheduled Castes, Scheduled Tribes, Minorities, and Backward Classes), economically weaker sections, and girls with special needs are identified and enrolled in the hostels at the upper primary and secondary levels (Classes 6 to 12)."
+    ],
+    "eligibility": [
+      "The applicant (girl student) must be a resident of Uttarakhand.",
+      "The applicant should be a studying at the upper primary or secondary level (Class 6 to Class 12).",
+      "In line with the target group of the scheme, 75% of the seats in KGBVs are reserved for girls from SC, ST, OBC, and minority communities, while the remaining 25% are reserved for girls from families living Below Poverty Line (BPL).",
+      "In addition, girls from economically weaker families (with an annual income of less than ₹55,000/-) or those who have lost both parents or one parent will also be eligible for admission."
+    ],
+    "application_process": {
+      "offline": [
+        "Before the commencement of the academic session, applications for vacant seats are invited through wide publicity.",
+        "Documents/Certificates required for admission:",
+        "School leaving certificate / certificate of never having attended school / affidavit / declaration.",
+        "BPL certificate / ration card.",
+        "Income certificate / caste certificate.",
+        "Certificate stating that the distance between the school and the residence is more than 3 km."
+      ]
+    },
+    "documents_required": [
+      "School leaving certificate / certificate of never having attended school / affidavit / declaration.",
+      "BPL certificate / ration card.",
+      "Income certificate / caste certificate.",
+      "Certificate stating that the distance between the school and the residence is more than 3 km."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 80)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of the scheme?",
+      "answer": "The scheme aims to encourage girls’ education by providing free residential and schooling facilities up to Class XII, especially for girls from disadvantaged groups."
+    },
+    {
+      "question": "Which classes are covered under this scheme?",
+      "answer": "The scheme covers upper primary (Classes VI–VIII) and secondary level (Classes IX–XII)."
+    },
+    {
+      "question": "Who is eligible for admission?",
+      "answer": "Girls from SC, ST, OBC, minority communities, economically weaker sections, and girls with special needs are eligible."
+    },
+    {
+      "question": "What is the reservation of seats under the scheme?",
+      "answer": "75% seats are reserved for SC, ST, OBC, and minority community girls, while 25% seats are for girls from below poverty line (BPL) families."
+    },
+    {
+      "question": "Are orphan girls eligible for admission?",
+      "answer": "Yes, girls who have lost both parents or one parent are also eligible for admission."
+    },
+    {
+      "question": "What is the income limit for economically weaker families under this scheme?",
+      "answer": "Girls from families with an annual income of less than ₹55,000 are eligible."
+    },
+    {
+      "question": "Is there any requirement related to the distance of residence from school?",
+      "answer": "Yes, the residence of the girl’s family must be more than 3 km away from the school."
+    },
+    {
+      "question": "When are applications invited for admission?",
+      "answer": "Applications are invited before the commencement of the academic session through wide publicity."
+    }
+  ]
+}

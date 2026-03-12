@@ -1,0 +1,121 @@
+{
+  "scheme_name": "New Swarnima Scheme (GBCDC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nssgbcdc",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "New Swarnima Scheme (GBCDC)",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"New Swarnima Scheme\" by the Social Justice and Empowerment Department, Government of Gujarat, aims to provide a special scheme for self-employment of women from backward classes living below the poverty line. Through this scheme, financial assistance for chosen businesses is provided to female beneficiaries from socially and educationally backward classes. The scheme is implemented by the Gujarat Backward Classes Development Corporation."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "The maximum loan limit under this scheme is up to ₹200,000/- per beneficiary.",
+      "Interest Rate:",
+      "The interest rate in these schemes will be 5% per annum.",
+      "Loan Coverage:",
+      "95% of unit cost financed by the national corporation (NBCFDC), 5% by the state government.",
+      "Repayment Terms:",
+      "Repayable in 60 equal monthly installments, including interest.",
+      "Mode of Disbursement:",
+      "The loan amount is disbursed, with 95 percent of the unit cost from the national corporation and 5 percent from the state government."
+    ],
+    "eligibility": [
+      "The applicant should belong to a socially and educationally backward class.",
+      "The total annual income of the applicant's family should not exceed ₹3,00,000/-.",
+      "The applicant's age should be between 21 and 45 years as on the date of application.",
+      "The applicant must have experience in a business requiring technical and other skills."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Gujarat Backwards Caste Development Corporation.",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Online\".",
+        "Step 3:",
+        "If you’re a new user, click on \"New Registration\" Enter personal details (name, mobile number, email, aadhaar number, etc.), create a password, and complete OTP verification.",
+        "Step 4:",
+        "Use your registered credentials (User ID and password) to log in.",
+        "Step 5:",
+        "Click on “New Application”. Select “Swayam Saksham Yojana” from the list of available schemes.",
+        "Step 6:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 7:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 8:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 9:",
+        "The",
+        "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Voter ID",
+      "Passport Size Photos",
+      "Business Address Proof",
+      "Birth Certificate",
+      "Caste Certificate",
+      "Bank Passbook"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of this scheme?",
+      "answer": "This scheme is meant to support self-employment opportunities for women from socially and educationally backward classes living below the poverty line."
+    },
+    {
+      "question": "Is there any age requirement to apply for this scheme?",
+      "answer": "Yes, the applicant must be between 21 and 45 years of age at the time of application."
+    },
+    {
+      "question": "At what interest rate will the loan be provided?",
+      "answer": "The loan is provided at a concessional interest rate of 5% per annum."
+    },
+    {
+      "question": "How much of the unit cost will be financed through the loan?",
+      "answer": "95% of the unit cost will be financed through the loan, with contributions from the national corporation and the state government."
+    },
+    {
+      "question": "What is the loan repayment period under this scheme?",
+      "answer": "The loan must be repaid in 60 equal monthly instalments, including interest."
+    },
+    {
+      "question": "Who provides the majority of the loan amount?",
+      "answer": "95% of the loan amount is provided by the national corporation."
+    },
+    {
+      "question": "What is the contribution of the state government in this scheme?",
+      "answer": "The state government contributes 5% of the unit cost for the loan."
+    },
+    {
+      "question": "Do I need to have prior experience to apply for the loan?",
+      "answer": "Yes, the applicant must have experience in a business that requires technical or other skills."
+    },
+    {
+      "question": "What happens if I fail to repay the loan in time?",
+      "answer": "The document does not provide information on penalties for non-repayment."
+    },
+    {
+      "question": "Which document is required to prove my age?",
+      "answer": "You must provide age proof, such as a birth certificate or Aadhaar card, to verify that you are between 21 and 45 years old."
+    },
+    {
+      "question": "Where can I get the application form for this scheme?",
+      "answer": "The application form can be obtained from the Gujarat Backward Class Development Corporation website: https://gbcdconline.gujarat.gov.in/."
+    }
+  ]
+}

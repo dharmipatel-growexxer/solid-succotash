@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Mukhyamantri Aadim Jan Jati Pension Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/majjpy",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Aadim Jan Jati Pension Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "Launched on 08-07-2015, the scheme \"Mukhyamantri Aadim Jan Jati Pension Yojana\" by the Women, Child Development & Social Security Department, Government of Jharkhand, aims to support primitive tribal families in the state. Financial assistance is provided to the adult married woman in each family. If there is no adult married woman, financial assistance is provided to the male head of the family. This is a family-based pension scheme. The scheme was earlier known as \"Aadim Jan Jati Pension Yojana\"."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹1,000 per month is directly transferred to the bank account of the beneficiary through the Aadhaar-Based Payment System (ABPS) and Public Financial Management System (PFMS)."
+    ],
+    "eligibility": [
+      "The applicant should be an adult woman.",
+      "The applicant should be married.",
+      "The applicant must belong to one of the recognized primitive tribal groups: Asur, Birhor, Hill-Kharia, Korwa, Mal-Paharia, etc.",
+      "No family member of the applicant should have a government or public sector job that provides a regular salary.",
+      "The family should not have a steady income from any government or public sector employment.",
+      "The applicant cannot receive benefits from other pension schemes like the Indira Gandhi National Old Age Pension, Indira Gandhi National Widow Pension, or similar schemes.",
+      "NOTE:",
+      "If there is no married adult woman in the family, the male head of the family can receive the pension."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Block Development Officer (rural) or Zonal Officer (urban), and request the hard copy of the prescribed format of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate.",
+      "Photocopy of Voter ID Card.",
+      "Family Membership Certificate.",
+      "Aadhaar Card or a self-declaration to this effect if he/she does not have Aadhaar Card.",
+      "Photocopy of Bank Account Passbook."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Mukhyamantri Aadim Jan Jati Pension Yojana?",
+      "answer": "This scheme provides financial assistance to primitive tribal families in Jharkhand."
+    },
+    {
+      "question": "Who can apply for the pension under this scheme?",
+      "answer": "The adult married woman in the family can apply. If no married woman is present, the male head of the family can apply."
+    },
+    {
+      "question": "Which tribal groups are eligible for this scheme?",
+      "answer": "Primitive tribal groups like Asur, Birhor, Hill-Kharia, Korwa, Mal-Paharia, and others are eligible."
+    },
+    {
+      "question": "What is the age requirement for the applicant?",
+      "answer": "The applicant must be an adult (18 years or older)."
+    },
+    {
+      "question": "Can a family with a government employee apply?",
+      "answer": "No, the family must not have any member employed in the government or public sector with a regular income."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Eligible beneficiaries receive a monthly pension of ₹1,000."
+    },
+    {
+      "question": "Is there any income limit for eligibility?",
+      "answer": "Yes, the family must not have a steady income from government or public sector employment."
+    },
+    {
+      "question": "Can I apply if I am already receiving another pension?",
+      "answer": "No, beneficiaries receiving pensions from schemes like Indira Gandhi National Old Age Pension cannot apply for this scheme."
+    },
+    {
+      "question": "Where should I submit the application?",
+      "answer": "Rural applicants submit to the Block Development Officer and urban applicants submit to the Zonal Officer."
+    },
+    {
+      "question": "How is the pension amount disbursed?",
+      "answer": "The pension is transferred to the beneficiary’s bank account through ABPS/PFMS."
+    }
+  ]
+}

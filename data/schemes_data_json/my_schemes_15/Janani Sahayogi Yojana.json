@@ -1,0 +1,68 @@
+{
+  "scheme_name": "Janani Sahayogi Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jsymp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Janani Sahayogi Yojana",
+  "scraped_at": "2026-03-11 12:13:57 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Janani Sahayogi Yojana\" is launched by the Department of Public Health and Medical Education, Government of Madhya Pradesh. It aims to provide safe motherhood and child healthcare services to women belonging to Below Poverty Line (BPL) families by offering free medical care, including normal delivery, cesarean section, abortion, and newborn care, in government and accredited private hospitals to ensure maternal and infant health."
+    ],
+    "benefits": [
+      "Free delivery services (both normal and cesarean) for pregnant women belonging to BPL families.",
+      "Free maternal and newborn healthcare, including antenatal, delivery, postnatal, and neonatal services.",
+      "Free abortion and emergency obstetric care when medically required.",
+      "Free medicines, diagnostics, and hospitalization at government or accredited private hospitals.",
+      "Linkage with Janani Suraksha Yojana (JSY) for eligible women to receive additional incentives."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Madhya Pradesh.",
+      "The applicant must be a pregnant woman.",
+      "The applicant must belong to a Below Poverty Line (BPL) family.",
+      "The applicant must present a valid BPL Health Card such as Blue, Yellow, or Antyodaya Card."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant should visit a government or accredited private hospital participating in the Janani Sahayogi Yojana."
+      ]
+    },
+    "documents_required": [
+      "BPL (Below Poverty Line) Card or Antyodaya, Blue, or Yellow Health Card",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Pregnant women from Below Poverty Line (BPL) families residing in Madhya Pradesh."
+    },
+    {
+      "question": "Is the scheme available in rural areas?",
+      "answer": "Yes, it covers both urban and rural regions."
+    },
+    {
+      "question": "What healthcare services are provided?",
+      "answer": "Free delivery (normal/cesarean), abortion, diagnostics, medicines, and newborn care."
+    },
+    {
+      "question": "Are private hospitals included?",
+      "answer": "Yes, only accredited private hospitals recognized under the scheme."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "BPL or Antyodaya Health Card, Aadhaar Card, and hospital registration proof."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, all services are free."
+    },
+    {
+      "question": "Can non-BPL families apply?",
+      "answer": "No, only BPL-registered families are eligible."
+    }
+  ]
+}
