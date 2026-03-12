@@ -1,0 +1,87 @@
+{
+  "scheme_name": "Sishu Saathi",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wbsishusathi",
+  "location_name": "West Bengal",
+  "location_type": "state",
+  "page_title": "Sishu Saathi",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The 'Sishu Saathi' scheme is a healthcare initiative launched by the Health and Family Welfare Department, Government of West Bengal, that aims to provide free treatment to children needing heart surgeries. Partnering with both government and private hospitals, the scheme ensures that children up to the age of 12, diagnosed with heart conditions, receive free surgery and related care."
+    ],
+    "benefits": [
+      "Health Screening in Schools:",
+      "Free health check-ups in government schools to detect heart ailments at an early stage among children.",
+      "Free Cardiac Surgeries:",
+      "Completely free cardiac surgeries for children up to 12 years of age who are diagnosed with heart ailments, ensuring no financial burden on families."
+    ],
+    "eligibility": [
+      "All children from 0 to 18 years are eligible.",
+      "Applicable to children residing in both rural and urban areas of West Bengal.",
+      "There is no income criterion; the scheme is open to all children regardless of their family's financial capacity.",
+      "The child must be diagnosed with a cardiac ailment requiring surgical intervention."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Children diagnosed through Rashtriya Bal Swasthya Karyakram or other health check-ups are referred for further treatment.",
+        "Step 2:",
+        "Parents or guardians can contact government hospitals or partner private hospitals for free surgery under the scheme.",
+        "Step 3:",
+        "Hospitals handle the registration and approval process for eligible children."
+      ]
+    },
+    "documents_required": [
+      "Child’s birth certificate or age proof (below 18 years).",
+      "Medical records or diagnostic reports showing the heart ailment.",
+      "Identity proof of parents or guardians (Aadhaar card, Voter ID, etc.).",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Amendments"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Sishu Saathi\" Scheme?",
+      "answer": "The \"Sishu Saathi\" Scheme is a health initiative launched by the Government of West Bengal to provide free cardiac surgeries and treatment to children aged 0 to 18 years, irrespective of their financial background."
+    },
+    {
+      "question": "What is the main objective of the \"Sishu Saathi\" Scheme?",
+      "answer": "The main objective of the scheme is to offer free treatment to children with cardiac and congenital conditions, ensuring that no child is denied surgery due to financial constraints."
+    },
+    {
+      "question": "Who is eligible for the \"Sishu Saathi\" Scheme?",
+      "answer": "All children between 0 to 18 years of age, living in rural or urban areas of West Bengal, are eligible for the scheme regardless of their family income."
+    },
+    {
+      "question": "Which medical conditions are covered under the Scheme?",
+      "answer": "The scheme primarily covers paediatric cardiac conditions and is being expanded to include surgeries for congenital cataract, cleft lips, and cleft palates."
+    },
+    {
+      "question": "Are there any income criteria to avail benefits under this scheme?",
+      "answer": "No, the scheme does not have any income criteria. Children from all economic backgrounds are eligible."
+    },
+    {
+      "question": "Which hospitals provide treatment under the \"Sishu Saathi\" Scheme?",
+      "answer": "Treatment is provided at both government and empanelled private hospitals including BM Birla Heart Research Centre, RN Tagore Institute of Cardiac Sciences, Mission Hospital (Durgapur), B.C. Roy Memorial Hospital for Children, and others."
+    },
+    {
+      "question": "How can a child be identified for treatment under the scheme?",
+      "answer": "Children are identified through school health screenings under the Rashtriya Bal Swasthya Karyakram or referred by medical professionals from government hospitals."
+    },
+    {
+      "question": "Does the scheme cover the cost of surgery and post-operative care?",
+      "answer": "Yes, the West Bengal Government bears all expenses related to the surgery, hospital stay, and post-operative care."
+    },
+    {
+      "question": "What steps has the government taken to identify children in need of treatment?",
+      "answer": "The government conducts regular health screenings in schools to identify children with cardiac or congenital issues and refers them for further treatment."
+    },
+    {
+      "question": "Where can parents apply or seek help for enrolling their child in the scheme?",
+      "answer": "Parents or guardians can contact government hospitals or partner private hospitals for free surgery under the scheme."
+    }
+  ]
+}

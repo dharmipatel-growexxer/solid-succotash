@@ -1,0 +1,95 @@
+{
+  "scheme_name": "Kaidi Sahay Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ksygsw",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Kaidi Sahay Yojana",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The Kaidi Sahay Yojana, initiated by the Social Justice and Empowerment Department, Gujarat, aims to provide financial relief to families of prisoners who are undergoing sentences in jails and are the main or sole earners of their households. Under this scheme, a one-time financial assistance of ₹25,000/- is granted to the prisoner’s family, ensuring that they can sustain themselves through self-employment during the imprisonment period."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "A one-time assistance of ₹25,000/-."
+    ],
+    "eligibility": [
+      "Applicant must be a family member of a prisoner currently serving sentence in a state jail in Gujarat.",
+      "The prisoner should be the sole or main earner of the family.",
+      "The prisoner's family must be economically dependent on the prisoner.",
+      "The total family income should not exceed ₹1,50,000/- per annum.",
+      "The family should not be fragmented (i.e., should be living together and dependent on the prisoner)."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Visit the District Jail/ Sub Jail/ District Social Defense Office and obtain the",
+        "application form",
+        ".",
+        "Step 2:",
+        "Fill out the form with all required details and attach the necessary documents (Self-attested, if required).",
+        "Step 3:",
+        "Submit the completed application to the office of the District Welfare Officer/ Sub Jail."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Bank Pass Book/Cancelled Cheque.",
+      "Income Certificate.",
+      "Ration Card."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 286)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Kaidi Sahay Yojana\" and what is its objective?",
+      "answer": "The \"Kaidi Sahay Yojana\" is a welfare scheme launched by the Social Justice and Empowerment Department of the Government of Gujarat with the objective of providing one-time financial assistance of ₹25,000 to the families of prisoners who are undergoing a sentence and were the sole or primary earners of their households prior to their imprisonment."
+    },
+    {
+      "question": "Who is eligible to receive benefits under the \"Kaidi Sahay Yojana\"?",
+      "answer": "The scheme is specifically designed for the dependent families of prisoners who are currently serving a sentence in any of the jails within Gujarat and who were the main or sole source of income for their families before their imprisonment."
+    },
+    {
+      "question": "What is the amount of financial assistance provided under this scheme?",
+      "answer": "Under the Kaidi Sahay Yojana, eligible applicants are granted a one-time financial assistance amounting to ₹25,000/-, which is intended to support the family through self-employment or other livelihood-generating activities during the period of imprisonment."
+    },
+    {
+      "question": "What are the income criteria that need to be fulfilled to avail the scheme benefits?",
+      "answer": "The total annual income of the prisoner's family must not exceed ₹1,50,000/-, and this financial threshold ensures that the benefits are targeted towards economically weaker families who are most in need of support."
+    },
+    {
+      "question": "Is it mandatory that the prisoner's family should not be fragmented to avail the scheme?",
+      "answer": "Yes, it is a necessary condition that the prisoner's family must not be fragmented, meaning the family should be living together and should be financially and socially dependent on the prisoner for their livelihood."
+    },
+    {
+      "question": "Can any family member of the prisoner apply for this scheme on behalf of the family?",
+      "answer": "Yes, any immediate and dependent family member of the prisoner, such as the spouse, parent, or adult child, is allowed to apply for the scheme, provided all eligibility criteria are fulfilled and supporting documents are submitted."
+    },
+    {
+      "question": "Is there any application fee that needs to be paid while submitting the form?",
+      "answer": "No, there is no application fee for this scheme, and the application form is available free of cost at designated government offices such as the District Jail, Sub Jail, and District Social Defense Office."
+    },
+    {
+      "question": "Can a family apply for the scheme if the prisoner is not the sole earner?",
+      "answer": "No, the scheme strictly applies only to those cases where the prisoner was the sole or main earning member of the family prior to being imprisoned, and this criterion is critical for determining eligibility."
+    },
+    {
+      "question": "How is the financial assistance amount disbursed to the beneficiaries under this scheme?",
+      "answer": "Once the application is approved and verified by the concerned authorities, the financial assistance amount of ₹25,000/- is directly transferred to the bank account of the applicant family member through a secure and traceable banking process."
+    },
+    {
+      "question": "Where should the completed application form be submitted?",
+      "answer": "Once all the required information is filled in and supporting documents are attached, the completed application form should be submitted to the Welfare Officer of the concerned District or Sub Jail."
+    },
+    {
+      "question": "What types of documents must be attached along with the application form?",
+      "answer": "Applicants must provide essential documents such as the Aadhaar card of the family member applying, a bank passbook or a cancelled cheque, an income certificate, and a copy of the ration card to establish their identity, financial status, and eligibility."
+    },
+    {
+      "question": "Does the applicant need to belong to a specific caste or community to apply?",
+      "answer": "The scheme is open to all castes and communities; it does not impose any caste-based or community-based eligibility restrictions."
+    }
+  ]
+}

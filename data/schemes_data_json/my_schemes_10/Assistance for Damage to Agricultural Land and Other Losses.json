@@ -1,0 +1,65 @@
+{
+  "scheme_name": "Assistance for Damage to Agricultural Land and Other Losses",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/aaoduk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Assistance for Damage to Agricultural Land and Other Losses",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Assistance for Damage to Agricultural Land and Other Losses” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial relief to farmers whose agricultural land has been damaged due to natural disasters such as floods, landslides, avalanches, or river diversions."
+    ],
+    "benefits": [
+      "Under this scheme, in cases where farmers with agricultural land up to 2 hectares suffer damage and the layer of sand or sediment exceeds 3 inches, financial assistance is provided at the rate of ₹18,000/- per hectare for the removal of debris, leveling of land, or repair and restoration of fisheries reservoirs in hilly areas. A minimum of ₹2,200/- is payable to each beneficiary under this relief.",
+      "Farmers are provided ₹47,000/- per hectare for land damaged due to landslides, avalanches, or river diversions, with a minimum assistance of ₹5,000/- payable to each beneficiary."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a farmer/family who has suffered disaster-related losses.",
+      "The beneficiary must not be receiving or have received benefits for the same loss under any other scheme.",
+      "The applicant must have suffered damage to land that they legally own, according to revenue records."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+      ]
+    },
+    "documents_required": [
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 305)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to receive assistance under this scheme?",
+      "answer": "Farmers or families who own agricultural land as per revenue records and have suffered damage due to a natural disaster are eligible."
+    },
+    {
+      "question": "What is the limit of agricultural land eligible for assistance?",
+      "answer": "Farmers having agricultural land up to 2 hectares are eligible for financial assistance under this scheme."
+    },
+    {
+      "question": "How much financial assistance is provided for removal of sand, debris, or sediment?",
+      "answer": "An amount of ₹18,000 per hectare is provided for removal of debris or restoration of land, with a minimum of ₹2,200 payable to each beneficiary."
+    },
+    {
+      "question": "What is the assistance amount for land damaged by landslides or avalanches?",
+      "answer": "For land damaged by landslides, avalanches, or river diversions, ₹47,000 per hectare is provided, with a minimum assistance of ₹5,000 per beneficiary."
+    },
+    {
+      "question": "Are fisheries reservoirs covered under this scheme?",
+      "answer": "Yes. Assistance is provided for removal of debris, depression repair, and restoration of fisheries reservoirs affected by natural disasters."
+    },
+    {
+      "question": "What is the eligibility condition regarding ownership of land?",
+      "answer": "The land must be legally owned by the beneficiary as per revenue records to qualify for financial assistance."
+    },
+    {
+      "question": "Who verifies the damage to agricultural land?",
+      "answer": "The concerned Patwari verifies the damage and records it in the P-20 form."
+    }
+  ]
+}

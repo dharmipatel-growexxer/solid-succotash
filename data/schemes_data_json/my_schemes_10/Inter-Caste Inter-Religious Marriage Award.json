@@ -1,0 +1,78 @@
+{
+  "scheme_name": "Inter-Caste / Inter-Religious Marriage Award",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/icirma",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Inter-Caste / Inter-Religious Marriage Award",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Inter-Caste / Inter-Religious Marriage Award” has been implemented by the Department of Social Welfare, Government of Uttarakhand, aims to promote social harmony and discourage caste and religious discrimination. Under this scheme, financial assistance is provided to married couples where, in the case of an inter-caste marriage, one spouse belongs to a Scheduled Caste, and in the case of an inter-religious marriage, both spouses belong to different religions."
+    ],
+    "benefits": [
+      "The married couple is jointly provided with a financial amount of ₹50,000/-."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must a married couple who has entered into either an inter-caste or an inter-religious marriage.",
+      "In the case of an inter-caste marriage, one spouse must belong to a Scheduled Caste.",
+      "In the case of an inter-religious marriage, both spouses must belong to different religions."
+    ],
+    "application_process": {
+      "offline": [
+        "The received application is forwarded to the government for approval through the Directorate, along with the recommendation of the District Magistrate, after necessary scrutiny by the District Social Welfare Officer.",
+        "It is mandatory to attach the following documents with the application form: a copy of the bride and groom's date of birth certificate (High School Certificate/Birth Certificate/Family Register/Aadhaar Card), marriage registration certificate, and details of a CBS bank account linked/seeded with Aadhaar.",
+        "After approval at the government level, the bank draft is issued from the designation of the concerned District Magistrate."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Proof of date of birth of the bride and groom (high school certificate / birth certificate / family register / Aadhaar card)",
+      "Marriage registration certificate",
+      "CBS bank account which is linked/seeded to Aadhaar",
+      "Copy of caste/community certificate",
+      "Proof of residence"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 4)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Any married couple fulfilling the eligibility criteria and residing permanently in Uttarakhand can apply."
+    },
+    {
+      "question": "What is the financial assistance amount under this scheme?",
+      "answer": "A financial assistance of ₹50,000/- is jointly provided to the couple."
+    },
+    {
+      "question": "What are the eligibility criteria for inter-caste marriages under the scheme?",
+      "answer": "In an inter-caste marriage, at least one spouse must belong to a Scheduled Caste."
+    },
+    {
+      "question": "What are the eligibility criteria for inter-religious marriages under the scheme?",
+      "answer": "In an inter-religious marriage, both spouses must belong to different religions."
+    },
+    {
+      "question": "Is marriage registration mandatory?",
+      "answer": "Yes, applicants must provide a valid marriage registration certificate."
+    },
+    {
+      "question": "Where can I get the application form?",
+      "answer": "The application form can be collected from the office of the District Social Welfare Officer."
+    },
+    {
+      "question": "How do I submit my application?",
+      "answer": "The filled application form, along with all necessary documents, should be submitted to the office of the District Social Welfare Officer."
+    },
+    {
+      "question": "What happens after I submit my application?",
+      "answer": "The District Social Welfare Officer verifies the application, and if found eligible, forwards it with the District Magistrate’s recommendation through the Directorate to the government for approval."
+    },
+    {
+      "question": "Can couples living outside Uttarakhand apply?",
+      "answer": "No, only permanent residents of Uttarakhand are eligible."
+    }
+  ]
+}

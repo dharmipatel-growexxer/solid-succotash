@@ -1,0 +1,84 @@
+{
+  "scheme_name": "Payment of Ex-Gratia Amount on Death of the UPNL Employee During Service",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pegadeds",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Payment of Ex-Gratia Amount on Death of the UPNL Employee During Service",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Payment of Ex-Gratia Amount on Death of UPNL Employees During Service\" is implemented by Uttarakhand Purv Sainik Kalyan Nigam Limited (UPNL) under the Sainik Welfare Department, Government of Uttarakhand. The scheme aims to provide financial assistance to the legal dependents of deceased UPNL employees in the event of the employee’s death during their service period."
+    ],
+    "benefits": [
+      "A one-time ex-gratia payment of ₹1,00,000/- shall be made from the UPNL fund to the family/legal dependents of a UPNL employee in the event of the employee’s death during the service period."
+    ],
+    "eligibility": [
+      "The applicant must be a legal dependent of the deceased UPNL employee.",
+      "The deceased employee must have been a resident of Uttarakhand.",
+      "The applicant must have been nominated during the service period of the deceased employee to receive the ex-gratia amount."
+    ],
+    "application_process": {
+      "offline": [
+        "In the event of the death of a UPNL employee during service, the legal dependent must submit the application form to the UPNL Headquarter Office at the earliest, along with the following documents:",
+        "Death certificate of the employee",
+        "Service certificate from the department of the deceased employee, as per the enclosed format",
+        "Aadhaar card of the dependent",
+        "Bank account details of the dependent (photocopy of passbook)",
+        "Photograph of the dependent",
+        "Copy of Aadhaar card of family members along with a certified copy of the family register",
+        "No Objection Certificate on an affidavit of ₹10/- from other dependents mentioned in the family register, along with a certificate stating that the ex-gratia grant has not been paid to them previously"
+      ]
+    },
+    "documents_required": [
+      "Death certificate of the employee",
+      "Service certificate from the department of the deceased employee, as per the prescribed format",
+      "Aadhaar card of the dependent",
+      "Bank account details of the dependent (photocopy of passbook)",
+      "Photograph of the dependent",
+      "Copy of Aadhaar card of family members along with a certified copy of the family register",
+      "No Objection Certificate on an affidavit of ₹10/- from other dependents mentioned in the family register, along with a certificate stating that the ex-gratia grant has not been paid to them previously"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 22)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the ex-gratia payment?",
+      "answer": "The nominated legal dependent of a deceased UPNL employee."
+    },
+    {
+      "question": "What is the amount of ex-gratia provided?",
+      "answer": "Financial support of ₹1,00,000/- (one lakh rupees)."
+    },
+    {
+      "question": "Is the amount paid monthly or one-time?",
+      "answer": "It is a one-time payment."
+    },
+    {
+      "question": "What is the source of this fund?",
+      "answer": "The ex-gratia is paid from the UPNL (Uttarakhand Purva Sainik Kalyan Nigam Limited) fund."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Documents include death certificate, service certificate, Aadhaar card, bank details, family register, etc."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "At the UPNL Headquarters Office."
+    },
+    {
+      "question": "Can more than one dependent claim the benefit?",
+      "answer": "No, only the legally nominated dependent can claim."
+    },
+    {
+      "question": "What if the deceased did not nominate anyone?",
+      "answer": "In such cases, dependents may not be eligible under this scheme."
+    },
+    {
+      "question": "Is the benefit available if the employee dies after retirement?",
+      "answer": "No, it is only applicable if the employee dies during service."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "scheme_name": "Payment of Death Benefit ( HPBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/podbhpbocwwb",
+  "location_name": "Himachal Pradesh",
+  "location_type": "state",
+  "page_title": "Payment of Death Benefit ( HPBOCWWB)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Payment of Death Benefit\" scheme, introduced by the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB) under the Government of Himachal Pradesh, provides ₹4,00,000 (four lakhs) to the nominees or dependents of a registered member in the event of accidental death, and ₹2,00,000 (two lakhs) in case of natural death."
+    ],
+    "benefits": [
+      "₹4,00,000 in the event of accidental death.",
+      "₹2,00,000 in the event of natural death."
+    ],
+    "eligibility": [
+      "The applicant should be a nominee/legal heir of the deceased worker.",
+      "The deceased worker should have been registered with the \"Himachal Pradesh Building and Other Construction Workers Welfare Board\".",
+      "The membership of the deceased worker with the Welfare Board must be active."
+    ],
+    "application_process": {
+      "offline": [
+        "Scheme Application Process:",
+        "Step 1: The applicant must visit the official website of the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+        "Step 2: Click on the option \"Apply for Benefits.\"",
+        "Step 3: Enter your beneficiary details and date of birth, then click \"Search\" to view your information.",
+        "Step 4: Select the scheme you wish to apply for to avail of the benefits.",
+        "Step 5: Enter all required information and upload the necessary documents.",
+        "Step 6: Click on \"Submit Application\" to complete the process.",
+        "Application Tracking:",
+        "Applicants can track their application status online through the official website of the Himachal Pradesh Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    },
+    "documents_required": [
+      "Identity proof i.e. Aadhaar Card, Voter Card",
+      "Passport-size photograph",
+      "Undertaking",
+      "A copy Work Slip",
+      "Proof of residence",
+      "Ration Card",
+      "Bank account details/copy of bank passbook",
+      "Caste Certificate",
+      "Age proof",
+      "Labour Card",
+      "Death Certificate",
+      "Identity proof of the nominee/legal heir",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Website",
+      "Scheme Form",
+      "Online Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "To provide financial assistance to nominees or dependents of registered members in case of death."
+    },
+    {
+      "question": "How much is given for accidental death?",
+      "answer": "₹4,00,000 is provided for accidental death."
+    },
+    {
+      "question": "How much is given for natural death?",
+      "answer": "₹2,00,000 is provided for natural death."
+    },
+    {
+      "question": "Who is eligible for the benefit?",
+      "answer": "Nominees or dependents of registered members."
+    },
+    {
+      "question": "Is the benefit limited to accidental deaths?",
+      "answer": "No, it also covers natural deaths."
+    },
+    {
+      "question": "What is the registration requirement?",
+      "answer": "The deceased must be a registered member of the scheme."
+    },
+    {
+      "question": "Who can be nominees or dependents?",
+      "answer": "Family members designated as nominees or legal dependents."
+    },
+    {
+      "question": "Is there an age limit for members?",
+      "answer": "Age criteria may apply as per scheme rules."
+    },
+    {
+      "question": "What documents are required to claim the benefit?",
+      "answer": "ID proof, death certificate, and nominee verification documents."
+    },
+    {
+      "question": "How can nominees apply for the benefit?",
+      "answer": "By submitting the required documents to the Labour and Employment Department."
+    }
+  ]
+}

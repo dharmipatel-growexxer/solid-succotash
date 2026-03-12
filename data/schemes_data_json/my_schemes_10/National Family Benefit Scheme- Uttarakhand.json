@@ -1,0 +1,78 @@
+{
+  "scheme_name": "National Family Benefit Scheme- Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nfbs-bf",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "National Family Benefit Scheme- Uttarakhand",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"National Family Benefit Scheme\" is a centrally sponsored scheme implemented by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to provide financial assistance to Below Poverty Line (BPL) families upon the death of the primary breadwinner (main earning member of the family), helping them cope with immediate financial hardships."
+    ],
+    "benefits": [
+      "A one-time financial assistance of ₹20,000/- is provided to the family in the event of the death of the primary earning member."
+    ],
+    "eligibility": [
+      "The applicant must be a family member of the deceased primary breadwinner.",
+      "The deceased primary breadwinner must have been a permanent resident of Uttarakhand.",
+      "The family must be classified under the Below Poverty Line (BPL) category.",
+      "The deceased must have been between 18 and 59 years of age at the time of death."
+    ],
+    "application_process": {
+      "offline": [
+        "At present, applications for this scheme are submitted offline. The eligible applicants can obtain the application form from the office of the Assistant Social Welfare Officer or download from the departmental website (",
+        "https://socialwelfare.uk.gov.in",
+        ").",
+        "After that, the duly filled application form must be submitted along with the following documents: Aadhaar card of the family member/applicant, mobile number, attested photograph, bank account passbook linked/seeded with Aadhaar, BPL certificate, copy of family register, death certificate of the earning member, and Aadhaar card of the earning member.",
+        "The application form along with the necessary documents are submitted to the office of the Assistant Social Welfare Officer. The application is sent to the Government of India from the district level and if the documents are found to be correct, the amount is paid directly into the beneficiary's account."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of the Applicant/Family Member",
+      "Mobile Number",
+      "Passport-size Photograph",
+      "Bank Account Passbook (Aadhaar-linked)",
+      "BPL Certificate",
+      "Copy of Family Register",
+      "Aadhaar Card of the Deceased Breadwinner",
+      "Death Certificate of the Deceased Breadwinner"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 19)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much assistance is provided?",
+      "answer": "A one-time amount of ₹20,000/-."
+    },
+    {
+      "question": "Who is considered a breadwinner?",
+      "answer": "The primary earning member of a family."
+    },
+    {
+      "question": "Who can apply for this benefit?",
+      "answer": "Any surviving family member of the deceased breadwinner."
+    },
+    {
+      "question": "Where can I get the application form?",
+      "answer": "From the Social Welfare Officer’s office or the official website."
+    },
+    {
+      "question": "How is the payment made?",
+      "answer": "Through Direct Benefit Transfer to the beneficiary’s Aadhaar-linked bank account."
+    },
+    {
+      "question": "What if the deceased was over 59 years old?",
+      "answer": "The family is not eligible under this scheme."
+    },
+    {
+      "question": "Who verifies the documents?",
+      "answer": "The district-level Social Welfare Office before forwarding to the Government of India."
+    },
+    {
+      "question": "Can I apply online?",
+      "answer": "No, the currently application process is offline."
+    }
+  ]
+}

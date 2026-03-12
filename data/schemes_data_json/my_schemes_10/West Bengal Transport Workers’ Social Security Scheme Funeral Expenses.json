@@ -1,0 +1,90 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Funeral Expenses",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wbtwsfe",
+  "location_name": "West Bengal",
+  "location_type": "state",
+  "page_title": "West Bengal Transport Workers’ Social Security Scheme: Funeral Expenses",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The “West Bengal Transport Workers’ Social Security Scheme: Funeral Expenses” by the Labour Department, West Bengal, offers monetary support to help cover funeral costs in the unfortunate event of a beneficiary's demise. Beneficiaries can avail of this assistance by submitting an application alongside the relief request for accidental or natural death compensation."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹3,000/-."
+    ],
+    "eligibility": [
+      "The applicant must be between 18 and 60 years of age at the time of enrolment.",
+      "The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses.",
+      "The applicant’s vehicle must be used for commercial purposes and not solely for personal or family use."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the “",
+        "eDistrict 2.0",
+        "” portal. Click on Log In/Sign Up.",
+        "Step 2:",
+        "In the User Login window, scroll down to the bottom and click on “Register”.",
+        "Step 3:",
+        "Fill in all the details carefully, enter a username, and click on “Register”.",
+        "Step 4:",
+        "Upon entering the One Time Password received on your mobile, you will be successfully registered.",
+        "Step 5:",
+        "Now in the User Login window, enter your Username or email and captcha and click on “Sign In”.",
+        "Step 6:",
+        "Enter the received O.T.P and click on “Submit”.",
+        "Step 7:",
+        "Upon successful Login, You will be redirected to the “Dashboard”. From the right side menu apply for the concerned scheme."
+      ]
+    },
+    "documents_required": [
+      "For New Registration:",
+      "Certification by Prescribed Authority in the Prescribed format,",
+      "Passport Size Photo (self and for each dependent member).",
+      "Age Proof Document.",
+      "Driving Licence in case of Drivers.",
+      "EPIC/ AADHAR Card.",
+      "For the Application of the Welfare Scheme:",
+      "Death certificate of the beneficiary.",
+      "Any other documents (if required)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the “Funeral Expenses” scheme under the “West Bengal Transport Workers’ Social Security Scheme”?",
+      "answer": "The “Funeral Expenses” Scheme is a government initiative that provides monetary support to help cover funeral costs in the unfortunate event of a beneficiary's demise."
+    },
+    {
+      "question": "Who can apply for the funeral expenses assistance?",
+      "answer": "Family members or dependents of a registered beneficiary can apply."
+    },
+    {
+      "question": "What is the amount provided under this scheme?",
+      "answer": "Financial assistance of ₹3,000/- is provided for funeral expenses."
+    },
+    {
+      "question": "Can this assistance be claimed separately from death relief benefits?",
+      "answer": "No, it must be claimed along with the application for accidental or normal death relief."
+    },
+    {
+      "question": "How will the amount be disbursed?",
+      "answer": "The amount will be directly transferred to the applicant’s bank account."
+    },
+    {
+      "question": "What happens if an application is rejected?",
+      "answer": "If an application is rejected, the applicant will be informed of the reasons for rejection and can reapply after addressing the issues raised."
+    },
+    {
+      "question": "Is the scheme applicable for all types of deaths?",
+      "answer": "Yes, it covers both accidental and natural deaths of registered beneficiaries."
+    },
+    {
+      "question": "Is there any age limit for eligibility?",
+      "answer": "Yes, the scheme applies to those beneficiaries aged between 18-60 years."
+    }
+  ]
+}

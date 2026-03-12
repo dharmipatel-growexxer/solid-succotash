@@ -1,0 +1,109 @@
+{
+  "scheme_name": "Financial Assistance to Destitute Elderly and Disabled Person",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fadedp",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Financial Assistance to Destitute Elderly and Disabled Person",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Financial Assistance to Destitute Elderly and Disabled Person\" is a welfare scheme by the Social Justice and Empowerment Department of Gujarat. The scheme aims to support economically vulnerable elderly individuals and persons with severe disabilities. Elderly individuals aged 60 years or more who do not have an adult son (21 years or older), and persons with more than 75% disability aged 45 or more, are eligible under this scheme."
+    ],
+    "benefits": [
+      "For beneficiaries aged 60 to 79 years:",
+      "₹1,000/- per month",
+      "For beneficiaries aged 80 years or more:",
+      "₹1,250/- per month"
+    ],
+    "eligibility": [
+      "Applicant must be a resident of Gujarat.",
+      "Applicant must be:",
+      "Aged 60 years or more and does not have a son aged 21 years or above.",
+      "OR, aged 45 years or more and has a disability of more than 75%.",
+      "OR, listed in the BPL category (Score 0–20) in rural areas or included in the urban BPL list.",
+      "Annual Family Income must be:",
+      "₹1,20,000 or less for rural residents.",
+      "₹1,50,000 or less for urban residents."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the Mamlatdar office and request a hard copy of the prescribed format of the application form.",
+        "Step 2:",
+        "In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the supporting documents to the Mamlatdar office.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card.",
+      "Age Proof.",
+      "Bank Pass Book/Cancelled Cheque.",
+      "Birth Certificate.",
+      "Identity Card.",
+      "Income Certificate.",
+      "Passport Size Photos.",
+      "PH Certificate from Civil Surgeon.",
+      "Ration Card."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 187)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Financial Assistance to Destitute Elderly and Disabled Person\" scheme?",
+      "answer": "The \"Financial Assistance to Destitute Elderly and Disabled Person\" scheme, run by the Social Justice and Empowerment Department, Gujarat, aims to support economically vulnerable elderly individuals and persons with severe disabilities."
+    },
+    {
+      "question": "Who is eligible to receive benefits under the \"Financial Assistance to Destitute Elderly and Disabled Person\" Scheme?",
+      "answer": "Any individual who is a resident of Gujarat and either aged 60 years or more without a 21-year-old son, or a person aged 45 years or more with more than 75% disability, or an elderly individual listed in the rural BPL list (score 0–20) or the urban BPL list recognized by the Ministry of Urban Housing and Poverty Alleviation, may be eligible for the scheme if they also meet the income criteria."
+    },
+    {
+      "question": "What is the amount of financial assistance provided to eligible beneficiaries under this scheme?",
+      "answer": "The scheme provides a monthly financial assistance of ₹1,000/- to beneficiaries aged between 60 and 79 years, and ₹1,250/- per month to those aged 80 years or above."
+    },
+    {
+      "question": "How is the financial assistance disbursed to the beneficiaries under this scheme?",
+      "answer": "The financial assistance is credited directly to the bank account of the eligible beneficiary through the Direct Benefit Transfer (DBT) mechanism to ensure transparency and timely payment."
+    },
+    {
+      "question": "Is there an income limit that a beneficiary must meet to qualify for this scheme?",
+      "answer": "Yes, to qualify for this scheme, the annual family income of the applicant must not exceed ₹1,20,000 in rural areas and ₹1,50,000 in urban areas."
+    },
+    {
+      "question": "Can a person who has a 21-year-old or older son apply for this scheme?",
+      "answer": "No, if the applicant has a son who is 21 years of age or older, they are not eligible to receive benefits under this scheme."
+    },
+    {
+      "question": "Are disabled persons eligible for this scheme even if they are below the age of 60?",
+      "answer": "Yes, persons who are aged 45 years or more and possess a disability of more than 75% are eligible to apply for benefits under this scheme, provided they meet the income and residency criteria."
+    },
+    {
+      "question": "Does the scheme provide benefits to individuals belonging to all castes and communities?",
+      "answer": "Yes, the scheme is applicable to all categories, castes, and communities, and does not impose restrictions based on social group or professional background."
+    },
+    {
+      "question": "Is the applicant required to belong to a Below Poverty Line (BPL) family to be eligible?",
+      "answer": "Yes, in some cases, such as for elderly individuals aged 60 or above living in rural areas or those in urban areas, the applicant must be listed in the official BPL lists to be considered eligible."
+    },
+    {
+      "question": "Where can an applicant obtain the application form for this scheme?",
+      "answer": "The application form for this scheme can be obtained from the Mamlatdar Office or downloaded from the following link: https://sje.gujarat.gov.in/dsd/downloads/nirathar-apang-yojana.pdf ."
+    },
+    {
+      "question": "Where should the completed application form be submitted by the applicant?",
+      "answer": "After completing the application form and attaching all necessary documents, the applicant should submit it to the Mamlatdar Office or through the Village Computer Entrepreneur (VCE)."
+    },
+    {
+      "question": "Is there any cost involved in purchasing or submitting the application form?",
+      "answer": "No, the application form is provided free of charge and there is no fee required to submit the form for this scheme."
+    },
+    {
+      "question": "What are the key documents required to apply for this scheme?",
+      "answer": "Applicants are required to submit documents such as Aadhaar card, age proof, income certificate, disability certificate (if applicable), bank passbook or cancelled cheque, ration card, identity proof, and passport size photographs."
+    }
+  ]
+}

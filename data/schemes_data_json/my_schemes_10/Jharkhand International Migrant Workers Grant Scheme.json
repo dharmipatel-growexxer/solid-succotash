@@ -1,0 +1,101 @@
+{
+  "scheme_name": "Jharkhand International Migrant Workers Grant Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jimwgs",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Jharkhand International Migrant Workers Grant Scheme",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Chief Minister Jharkhand International Migrant Worker Grant Scheme\" was launched by the Department of Labour, Employment & Training, Government of Jharkhand. The scheme aims aims to provide financial assistance of ₹5,00,000/- to the dependents of Jharkhand residents who pass away while working abroad. This scheme ensures timely support to families affected by unforeseen tragedies during overseas employment.",
+      "Objective:",
+      "Covers accidental deaths, acts of violence, or natural causes.",
+      "Assistance includes cases of deaths caused by animal attacks, road accidents, and terrorism.",
+      "Coverage extends to nuclear radiation and war-related deaths."
+    ],
+    "benefits": [
+      "Financial assistance of ₹5,00,000/- to dependents of deceased workers."
+    ],
+    "eligibility": [
+      "The applicant should be a dependent of the deceased workers.",
+      "The deceased must be a Jharkhand resident and an Indian citizen.",
+      "The family’s annual income should not exceed ₹72,000/-.",
+      "The deceased age should be between 15 to 65 years.",
+      "Eligible dependents include spouses, children, parents, or legal heirs.",
+      "Death must be certified by the Ministry of External Affairs, Government of India."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Commissioner’s office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "Download the",
+        "application form",
+        "from the official website.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Commissioner’s office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Commissioner’s office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Death Certificate.",
+      "Copy of FIR/Post-mortem Report (if applicable).",
+      "Copy of the deceased migrant’s passport and visa.",
+      "Income Certificate of the dependent.",
+      "Residence Certificate of the deceased migrant in Jharkhand.",
+      "Two Self-attested Photographs of the dependent/claimant."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Residents of Jharkhand working abroad aged between 15 to 65 years who pass away during their employment."
+    },
+    {
+      "question": "What is the amount of financial assistance?",
+      "answer": "₹5,00,000 is provided to the dependents of the deceased."
+    },
+    {
+      "question": "Which deaths are covered under this scheme?",
+      "answer": "Deaths caused by accidents, acts of violence, or other unforeseen incidents, including war or nuclear radiation."
+    },
+    {
+      "question": "What types of deaths are excluded?",
+      "answer": "Deaths caused by suicide, self-inflicted injuries, substance abuse, or during criminal activities are excluded."
+    },
+    {
+      "question": "Who can apply for the assistance?",
+      "answer": "Dependents such as spouse, children, parents, or legal heirs of the deceased worker."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "Death certificate, income certificate, residence proof, relationship proof, and identification documents."
+    },
+    {
+      "question": "Where should I submit the application?",
+      "answer": "Applications must be submitted to the respective District Commissioner’s office."
+    },
+    {
+      "question": "Is there any age restriction for eligibility?",
+      "answer": "Yes, the deceased must be between 15 and 65 years old."
+    },
+    {
+      "question": "How is the assistance amount disbursed?",
+      "answer": "The amount is directly transferred by the District Commissioner to the beneficiary’s account."
+    },
+    {
+      "question": "Can I claim assistance if the deceased was unmarried?",
+      "answer": "Yes, the parents of the deceased can claim the assistance."
+    },
+    {
+      "question": "Who is the responsible authority for this scheme?",
+      "answer": "The Labour Commissioner at the state level and the respective District Commissioner at the district level handle the scheme’s implementation."
+    }
+  ]
+}

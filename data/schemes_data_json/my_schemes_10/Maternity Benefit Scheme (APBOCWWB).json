@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Maternity Benefit Scheme (APBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mbsapbocwwb",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "Maternity Benefit Scheme (APBOCWWB)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Maternity Benefit Scheme\" is a Welfare Scheme by the Andhra Pradesh Building & Other Construction Workers LET&F (Labour) Department. The scheme aims shall be given ₹20,000/- to support registered women workers, wives of registered male workers, and their daughters during maternity, reducing the financial strain faced by workers in the construction sector."
+    ],
+    "benefits": [
+      "Financial assistance for maternity: ₹20,000/-"
+    ],
+    "eligibility": [
+      "The applicant should be a registered women construction worker under the APBOCWWB, wives of registered male workers, and their daughters.",
+      "The applicant should be Pregnant.",
+      "Benefit is available for the first two live births.",
+      "The worker should have completed one year of registration with the board before applying."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should visit (during office hours) the A.P. Building & Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Assistant Labour Officer/Assistant Commissioner of Labour.",
+        "Step-4:",
+        "Request a receipt or acknowledgement from the Assistant Labour Officer/Assistant Commissioner of Labour to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "The applicant must submit the claim within 6 months of childbirth."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of the applicant and registered worker.",
+      "Medical Certificate indicating childbirth.",
+      "Birth Certificate of the Child.",
+      "Bank Account Passbook.",
+      "Any Other Documents if required."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Andhra Pradesh Maternity Benefit Scheme for Construction Workers?",
+      "answer": "The scheme provides ₹20,000 as financial assistance to support maternity expenses for registered construction workers and their families."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Registered women construction workers, wives of registered male workers, and their daughters are eligible."
+    },
+    {
+      "question": "What is the amount of financial assistance provided?",
+      "answer": "The scheme provides ₹20,000 as a maternity benefit."
+    },
+    {
+      "question": "Is there an eligibility requirement for registration?",
+      "answer": "Yes, the applicant or her husband must have been a registered construction worker with the welfare board for at least one year."
+    },
+    {
+      "question": "How many births are covered under the scheme?",
+      "answer": "The benefit is applicable for the first two live births."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Applications can be submitted online through the official web portal or offline at the nearest Labour Department office."
+    },
+    {
+      "question": "Is there a deadline for applying after childbirth?",
+      "answer": "Yes, applications must be submitted within 6 months of childbirth."
+    },
+    {
+      "question": "How is the maternity benefit amount disbursed?",
+      "answer": "The amount is directly credited to the beneficiary’s bank account after successful document verification."
+    },
+    {
+      "question": "Where can I check the status of my application?",
+      "answer": "You can check the status on the official web portal of the Andhra Pradesh Building & Other Construction Workers Welfare Board."
+    },
+    {
+      "question": "Who is responsible for verifying the documents?",
+      "answer": "The Labour Department officials or an authorized officer will verify the submitted documents before disbursing the benefit."
+    }
+  ]
+}

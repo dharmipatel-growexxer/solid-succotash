@@ -1,0 +1,114 @@
+{
+  "scheme_name": "Ambedkar DBT Voucher Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/adbtvs",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Ambedkar DBT Voucher Scheme",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The \"Ambedkar DBT Voucher Scheme\" was launched by the Social Justice and Empowerment Department, Government of Rajasthan, during the financial year 2021–22. It aims to provide financial assistance for accommodation to students from SC, ST, OBC, MBC, and EWS categories who are regularly studying in undergraduate or postgraduate courses at government colleges located at the district level in Rajasthan. Under this scheme, eligible students residing in rented accommodations receive ₹2,000 per month for a maximum of 10 months per academic year."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹2,000/- per month for a maximum of 10 months per academic year.",
+      "Note:",
+      "Students will be paid on monthly/monthly basis.",
+      "Duration of Benefit:",
+      "Maximum 5 years per student.",
+      "Total Number of Beneficiaries:",
+      "5,000 students annually."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Rajasthan.",
+      "The applicant should belong to Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), Most Backward Class (MBC) or Economically Weaker Section (EWS) category.",
+      "The applicant should be studying in a government college at the district level for the academic course.",
+      "The student should be regularly enrolled in an undergraduate or postgraduate course at a government college.",
+      "The student should be pursuing an academic course in a government college located at the district level.",
+      "The student should not be a resident of the Municipal Corporation, Municipal Council, or Municipality of the district where they are studying.",
+      "The student whose parent/guardian owns a house in the city or town where they are studying is not eligible for benefits under this scheme.",
+      "The student who is residing in government-run hostel will not be eligible for benefits under the scheme.",
+      "The benefit of the scheme will be available to the student for a maximum of five years.",
+      "The annual income of the applicant’s family should not exceed:",
+      "SC/ST/MBC: ₹2,50,000/-",
+      "OBC: ₹1,50,000/-",
+      "EWS: ₹1,00,000/-"
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2:",
+        "The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.",
+        "Step 3:",
+        "The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "College-Level Verification:",
+        "The government college where the student is enrolled verifies the application and forwards it to the District Social Justice and Empowerment Office.",
+        "Approval Process:",
+        "The Deputy Director/Assistant Director (District Magistrate) approves applications based on the category-wise allocation."
+      ],
+      "unspecified": [
+        "Online - via CSCs"
+      ]
+    },
+    "documents_required": [
+      "Domicile Certificate (issued by a competent authority)",
+      "Caste Certificate (issued by a competent authority)",
+      "Self-Declared Income Certificate (as per category requirements)",
+      "Jan Aaadhar Card",
+      "Aadhar Card (for identity verification)",
+      "Bank Account Details (Bank Name, Account Number, IFSC Code, Branch Name)",
+      "Certificate of Regular Enrollment in a government college",
+      "Self-Certified Rental Proof (Rental Agreement/Receipt)",
+      "Marksheet of the Last Passed Examination",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Students from SC, ST, OBC, MBC, and EWS categories who are enrolled in government colleges and live in rented accommodations can apply."
+    },
+    {
+      "question": "What is the amount provided under this scheme?",
+      "answer": "Eligible students receive ₹2,000 per month for a maximum of 10 months per academic year."
+    },
+    {
+      "question": "How many students benefit from this scheme annually?",
+      "answer": "A total of 5,000 students are selected each year."
+    },
+    {
+      "question": "Can I apply if I live in a government hostel?",
+      "answer": "No, students residing in government hostels are not eligible for this scheme."
+    },
+    {
+      "question": "How can I apply for this scheme?",
+      "answer": "Applicant can apply online through the e-Mitra or SSO ID portal using their Janaadhar Card."
+    },
+    {
+      "question": "What is the maximum duration for receiving benefits?",
+      "answer": "A student can receive benefits for a maximum of 5 years."
+    },
+    {
+      "question": "What documents are required for application?",
+      "answer": "Applicant needs a Domicile Certificate, Caste Certificate, Income Certificate, Janaadhar Card, Bank Account Details, Enrollment Certificate, Rental Proof, and Last Passed Marksheet."
+    },
+    {
+      "question": "How is the amount disbursed?",
+      "answer": "The stipend is directly transferred to the student’s bank account via DBT every month."
+    },
+    {
+      "question": "Can I apply if my parents own a house in my college city?",
+      "answer": "No, students whose parents own a house in their study location are not eligible."
+    },
+    {
+      "question": "When will I receive my first payment?",
+      "answer": "Once your application is verified and approved, payments start within a few weeks of approval."
+    }
+  ]
+}

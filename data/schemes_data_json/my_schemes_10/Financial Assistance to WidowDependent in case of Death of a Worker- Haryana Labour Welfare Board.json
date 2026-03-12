@@ -1,0 +1,100 @@
+{
+  "scheme_name": "Financial Assistance to Widow/Dependent in case of Death of a Worker- Haryana Labour Welfare Board",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fawddwhlwb",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Financial Assistance to Widow/Dependent in case of Death of a Worker- Haryana Labour Welfare Board",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Financial Assistance to Widow/Dependent in case of Death of a Worker” is implemented by the Haryana Labour Welfare Board (HLWB), Labour Department, Government of Haryana. Under this scheme, financial assistance of ₹2,00,000/- is given to the widow or dependent of the worker working in the industrial and commercial establishments of Haryana state in case of his death due to any reason."
+    ],
+    "benefits": [
+      "Under this scheme, financial assistance of ₹2,00,000/- is given to the widow or dependent of the deceased worker."
+    ],
+    "eligibility": [
+      "The applicant should be the widow or dependent of a deceased worker.",
+      "The deceased worker should have been employed in an industrial or commercial establishment in Haryana.",
+      "The deceased worker should have been registered with the Haryana Labour Welfare Board.",
+      "There is no maximum limit set for the monthly salary of the worker.",
+      "There is no fixed service period requirement for the worker.",
+      "The application should be submitted within two years from the date of death of the worker."
+    ],
+    "application_process": {
+      "online": [
+        "Apply for scheme benefits through the Antyodaya-SARAL Portal:",
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 01:",
+        "To avail of the benefits of the scheme, the applicant needs to visit the Official Portal -Antyodaya-SARAL Portal:",
+        "https://saralharyana.gov.in/",
+        "Step 02:",
+        "If the applicant is not registered on the portal, then he/she gets registered on the portal.",
+        "Step 03:",
+        "For registration, click on “New User” under ‘Sign In Here’ and fill in all the mandatory details i.e. Full Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 04:",
+        "Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to Apply for the Scheme:",
+        "Now, to avail the benefits of the scheme, visit the Official Portal -",
+        "Antyodaya-SARAL Portal",
+        "and login through the email ID that is used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’",
+        "Now, search for the scheme and click on the scheme to proceed to fill out the application form.",
+        "Step 05:",
+        "Enter Parivar Pehchan Patra number - Family ID and Click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 06:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 07:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 08:",
+        "Preview the application form and click on ‘Submit’."
+      ]
+    },
+    "documents_required": [
+      "1. ID proof of the worker issued by the organization/Smart Card /Office ID Proof",
+      "2. Employer Certificate",
+      "3. Employee Salary Slip (Previous Month)",
+      "4. Death Certificate",
+      "5. Affidavit (fully dependent upon the deceased worker and earlier he/she has not availed of the said scheme)",
+      "6. Undertaking (self)",
+      "7. Ration Card / ESI Card / Parivar Pehchan Patra (Family ID)",
+      "8. Bank account details",
+      "9. Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Scheme Details",
+      "Antyodaya-SARAL Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The objective of the scheme is to provide financial assistance to the widow or dependent of a worker who passed away while working in industrial or commercial establishments in Haryana."
+    },
+    {
+      "question": "How much financial assistance does the scheme provide?",
+      "answer": "The scheme offers a financial assistance of ₹2,00,000/- to the widow or dependent of the deceased worker."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "The applicant must be the widow or dependent of the deceased worker who was employed in an industrial or commercial establishment in Haryana."
+    },
+    {
+      "question": "Are there any specific requirements regarding the worker's salary?",
+      "answer": "No, there is no maximum limit set for the monthly salary of the worker."
+    },
+    {
+      "question": "Is there any minimum service period requirement for the worker?",
+      "answer": "No."
+    },
+    {
+      "question": "What is the time limit for submitting the application?",
+      "answer": "The application should be submitted within two years from the date of death of the worker."
+    },
+    {
+      "question": "How can I apply for the scheme benefits?",
+      "answer": "To apply for the benefits, visit the Official Portal - Antyodaya-SARAL Portal: https://saralharyana.gov.in/"
+    }
+  ]
+}

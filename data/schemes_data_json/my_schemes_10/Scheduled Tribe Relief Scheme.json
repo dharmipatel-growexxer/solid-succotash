@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Scheduled Tribe Relief Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/strs",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Scheduled Tribe Relief Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "Launched on 31st March 2017, the \"Scheduled Tribe Relief Scheme\" by the Tribal Welfare and Scheduled Caste Department, Government of Madhya Pradesh, provides immediate support for destitute tribal brides and assistance to disabled, elderly, blind, and impoverished individuals."
+    ],
+    "benefits": [
+      "₹15,000/- in the case of house burning.",
+      "₹5,000/- in the case of loss of livelihood-related movable property.",
+      "₹5,000/- as relief by the Sub-Divisional Officer.",
+      "₹5,000/-in the case of damages to wells, tube wells, motors, or economic resources."
+    ],
+    "eligibility": [
+      "The applicant should be a destitute tribal bride or an individual who is disabled, destitute, elderly, blind, or extremely destitute.",
+      "The applicant should belong to the Scheduled Tribes.",
+      "The applicant should hold a valid caste certificate confirming their Scheduled Tribe status.",
+      "The applicant should be a resident of Madhya Pradesh."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) theOffice of the Collector/Assistant Commissioner/District Coordinator, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste certificate",
+      "Samagra ID",
+      "Bank account details/Bank Passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the Scheduled Tribe Relief Scheme?",
+      "answer": "The scheme provides immediate relief to destitute tribal brides, as well as disabled, elderly, blind, and extremely destitute individuals belonging to the Scheduled Tribes."
+    },
+    {
+      "question": "When was the scheme launched?",
+      "answer": "The scheme was launched on March 31, 2017."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Applicants must be Scheduled Tribe members, residents of Madhya Pradesh, and meet specific conditions such as being destitute, elderly, blind, disabled, or a tribal bride."
+    },
+    {
+      "question": "What type of relief does the scheme offer?",
+      "answer": "Relief includes financial assistance for marriages, damages to movable and immovable property, and support for economic losses like the destruction of wells or livestock."
+    },
+    {
+      "question": "What is the maximum amount provided for house burning incidents?",
+      "answer": "The scheme offers a maximum of ₹15,000 for relief in case of house burning."
+    },
+    {
+      "question": "How much relief is provided for the loss of movable property like livestock or vehicles?",
+      "answer": "₹5,000 is provided as immediate relief for such losses."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Applicants must provide a valid caste certificate, proof of residence in Madhya Pradesh, and other relevant documents depending on the type of relief sought."
+    },
+    {
+      "question": "Who approves the relief applications?",
+      "answer": "Relief up to ₹5,000 is approved by the Sub-Divisional Officer, while higher amounts are examined and approved by the Collector or the Departmental District Magistrate."
+    },
+    {
+      "question": "Where can I submit my application?",
+      "answer": "Applications can be submitted to the District Office of the Tribal Welfare Department or through the Assistant Commissioner Tribal Development."
+    }
+  ]
+}

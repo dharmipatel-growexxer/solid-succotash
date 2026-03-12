@@ -1,0 +1,83 @@
+{
+  "scheme_name": "Prakashan Sahayata Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pasr",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Prakashan Sahayata Yojana",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Prakashan Sahayata Yojana\" was launched by the Department of Tribal Area Development, Government of Rajasthan in year 2000. It aims to promote and support original literary and research work related to tribal communities by offering publication assistance. Under this scheme, financial assistance is provided to scheduled tribe authors for publishing their original literature / manuscripts / research work with reputed publishers. This scheme encourages documenting and disseminating tribal knowledge, culture, and issues by supporting tribal scholars and writers."
+    ],
+    "benefits": [
+      "Monetary Assistance:",
+      "Authors of original manuscripts or research work related to tribal subjects receive financial support ranging from ₹6,000/- to ₹12,000/- for publication through reputed publishers."
+    ],
+    "eligibility": [
+      "The applicant should be native of Rajasthan.",
+      "The applicant should be an author and belong to the Scheduled Tribe community.",
+      "The manuscript/research work/literature should be related to Scheduled Tribes and should be an original creation by the author.",
+      "The manuscript should be unpublished and original in nature."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should write the application on plain paper.",
+        "Step 2:",
+        "Attach copies of all the mandatory documents (self-attested, if required) along with the application.",
+        "Step 3:",
+        "Submit the duly filled and signed application along with the documents to the Director, Manikya Lal Verma Tribal Research and Training Institute, Udiapur, Rajasthan.",
+        "Note:",
+        "Attach the original manuscript and an affidavit declaring the originality of the work.",
+        "Obtain a quotation from a publication house for publication assistance."
+      ]
+    },
+    "documents_required": [
+      "Affidavit Declaring the Work is Original (on Stamp Paper)",
+      "Quotation from the Publication House for Publishing Charges",
+      "Caste Certificate",
+      "Manuscript Copy for Review (if required by the institute)"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "Scheduled Tribe individuals who are the original authors of tribal-related manuscripts."
+    },
+    {
+      "question": "What is the financial assistance provided under the scheme?",
+      "answer": "₹6,000 to ₹12,000 depending on the publication requirements."
+    },
+    {
+      "question": "What kind of works are supported?",
+      "answer": "Manuscripts, literary pieces, or research works related to tribal subjects."
+    },
+    {
+      "question": "Is the support given for unpublished work only?",
+      "answer": "Yes, only unpublished and original works are eligible."
+    },
+    {
+      "question": "Can organizations apply under this scheme?",
+      "answer": "No, only individual authors from Scheduled Tribes are eligible."
+    },
+    {
+      "question": "Is there a deadline for submission?",
+      "answer": "There is no fixed deadline; applications are accepted throughout the year."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "At the Manikya Lal Verma Tribal Research and Training Institute, Udaipur."
+    },
+    {
+      "question": "What if the work is found to be plagiarized?",
+      "answer": "The application will be rejected and assistance will not be granted."
+    },
+    {
+      "question": "How often can one apply for this scheme?",
+      "answer": "Once per manuscript."
+    }
+  ]
+}

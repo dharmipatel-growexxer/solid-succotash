@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Distribution of Pulses",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dop",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Distribution of Pulses",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Distribution of Pulses\" by the Department of Food, Public Distribution, and Consumer Affairs, Government of Jharkhand, aims to provide pulses at affordable rates to eligible households, ensuring nutritional support and food security. Under this scheme, pulses at subsidized rates are made available to beneficiaries holding AAY and PHH cards under NFSA and Green Cards under JSFSS."
+    ],
+    "benefits": [
+      "Subsidized pulses are provided to the households.",
+      "The scheme supports food security by reducing the cost of essential pulses for low-income families.",
+      "Benefits are delivered monthly through designated ration shops.",
+      "Households holding AAY and PHH cards under NFSA and Green Cards under JSFSS are given Pulses."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Jharkhand.",
+      "The applicant should hold an Antyodaya Anna Yojana (AAY) or Priority Household (PHH) card under NFSA or a Green Card under JSFSS."
+    ],
+    "application_process": {
+      "offline": [
+        "Visit the nearest ration shop or designated enrollment center with the required documents.",
+        "If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center.",
+        "Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration.",
+        "Verify the eligibility and documents with the designated officer.",
+        "Collect the pulses from the distribution center as per the monthly schedule."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card or Aadhaar Enrolment Identification Slip.",
+      "Bank or Post Office Passbook with Photo.",
+      "Permanent Account Number (PAN) Card.",
+      "Passport (if available).",
+      "Ration Card.",
+      "Voter Identity Card.",
+      "MGNREGA Card.",
+      "Kisan Photo Passbook.",
+      "Driving License issued under the Motor Vehicles Act, 1988.",
+      "Certificate of Identity with a photo issued by a Gazetted Officer or Tehsildar on official letterhead."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Households with AAY or PHH cards under NFSA and Green Cards under JSFSS are eligible."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "Aadhaar Card, Ration Card, and other identity documents mentioned above."
+    },
+    {
+      "question": "Can I apply if I don't have an Aadhaar Card?",
+      "answer": "Yes, you can apply by submitting an Aadhaar Enrollment Identification Slip."
+    },
+    {
+      "question": "Where can I collect the pulses?",
+      "answer": "Pulses can be collected from designated ration shops."
+    },
+    {
+      "question": "What is the frequency of benefit distribution?",
+      "answer": "Benefits are distributed monthly."
+    },
+    {
+      "question": "What should I do if Aadhaar authentication fails?",
+      "answer": "Use alternative mechanisms like iris scan, face authentication, or OTP-based verification."
+    },
+    {
+      "question": "Is there a fee for Aadhaar enrollment?",
+      "answer": "No, Aadhaar enrollment is free of cost."
+    },
+    {
+      "question": "What happens if I miss a distribution date?",
+      "answer": "Contact the local ration shop for guidance on missed distribution."
+    },
+    {
+      "question": "Are pulses provided free of cost?",
+      "answer": "No, they are provided at subsidized rates."
+    },
+    {
+      "question": "Can I avail benefits in other states?",
+      "answer": "No, the scheme is specific to Jharkhand."
+    }
+  ]
+}

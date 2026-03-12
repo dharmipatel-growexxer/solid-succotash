@@ -1,0 +1,115 @@
+{
+  "scheme_name": "Disability Benefit Who Met With an Accident at Worksite",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dbwmwaaaw",
+  "location_name": "Tripura",
+  "location_type": "state",
+  "page_title": "Disability Benefit Who Met With an Accident at Worksite",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The \"Disability Benefit Who Met With an Accident at Worksite\" was launched by the Tripura Building and Other Construction Workers Welfare Board, Labour Department Tripura. The scheme aims to provide financial assistance to the registered construction workers who met with an accident at worksite. Under this scheme a registered construction worker who becomes disabled due to an accident at a worksite gets a disability benefit temporary or permanent."
+    ],
+    "benefits": [
+      "Temporary Disablement:",
+      "Financial Assistance:",
+      "50% of the minimum wage rate for unskilled construction workers, as notified by the Labour Department, Govt. of Tripura.",
+      "Duration:",
+      "Up to a maximum of 3 months, provided the worker is unable to work due to the accident.",
+      "Permanent Disablement:",
+      "₹3,000/- per month for workers with a disability exceeding 90%, leading to a complete loss of earning ability.",
+      "The benefit is provided until the worker reaches 60 years of age. After 60, the worker becomes eligible for a pension under the TBOCWW Board."
+    ],
+    "eligibility": [
+      "General Eligibility:",
+      "The applicant should be a registered construction worker at the time of the accident.",
+      "The disablement must have occurred due to an accident at the worksite.",
+      "Such disablement may be either temporary or permanent.",
+      "Specific Eligibility for Disable Person:",
+      "Temporary Disablement:",
+      "The worker must suffer a temporary loss of earning ability for at least one month due to the accident.",
+      "Permanent Disablement:",
+      "The worker must have a disability exceeding 90%, as certified by a competent authority, leading to a complete loss of earning ability.",
+      "NOTE:",
+      "The injured worker, or someone on their behalf, must notify the Labour Inspector of the area about the accident as soon as possible. This can be done either in writing or orally."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Step 1:",
+        "The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2:",
+        "The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.",
+        "Step 3:",
+        "The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "For Temporary Disablement:",
+        "The application must be submitted within two months of the accident, along with medical reports certified by an ESI doctor or a doctor appointed by the board.",
+        "For Permanent Disablement:",
+        "The application must be submitted within 90 days of the certification of permanent disability, along with a disablement certificate from a competent authority and a recommendation from the Medical Board.",
+        "For permanent disablement, beneficiaries must periodically (every 5 years) submit updated medical documentation to ensure continued eligibility for the benefit."
+      ]
+    },
+    "documents_required": [
+      "Medical Board Recommendation Certification (for Permanent Disability Benefit issued by the competent authority)",
+      "Certified Medical Report (for Temporary Disability Benefit by the ESI Doctor/any doctor appointed by the board)",
+      "Proof for Intimation of Notice of Accident",
+      "Disablement Certificate (from the competent authority for permanent)",
+      "Photocopy of the Disabled Beneficiary",
+      "Photocopy of BOCW Card",
+      "Age Proof",
+      "Self-Undertaking",
+      "Bank Passbook of the Registered Worker",
+      "Ration Card",
+      "Survival Certificate (as per the rule to continue the permanent disability benefit)",
+      "Any other documents if required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Disability Benefit under this scheme?",
+      "answer": "A registered construction worker who suffers a disability due to an accident at a worksite is eligible for the Disability Benefit. The worker must have been registered at the time of the accident."
+    },
+    {
+      "question": "What types of disabilities are covered under this scheme?",
+      "answer": "The scheme covers both temporary and permanent disabilities caused by an accident at the worksite."
+    },
+    {
+      "question": "How soon after an accident should the injury be reported to the Labour Inspector?",
+      "answer": "The injury should be reported to the Labour Inspector as soon as practicable after the accident, either in writing or orally."
+    },
+    {
+      "question": "What is the role of the Medical Board in determining permanent disability?",
+      "answer": "The Medical Board determines the extent of the beneficiary’s loss of earning capacity. They also issue disability certificates, which are used by the TBOCWW Board to decide on the benefit amount."
+    },
+    {
+      "question": "Is there a requirement to submit a Survival Certificate?",
+      "answer": "Yes, a Survival Certificate must be submitted as per the rules to continue receiving the permanent disability benefit."
+    },
+    {
+      "question": "Can the Disability Benefit application be rejected, and if so, on what grounds?",
+      "answer": "No application for the Disability Benefit shall be rejected without giving the applicant an opportunity to be heard."
+    },
+    {
+      "question": "How is the benefit payment made to the beneficiary?",
+      "answer": "The benefit payment is made directly to the bank account of the registered worker."
+    },
+    {
+      "question": "Who should be contacted for further assistance or questions about the Disability Benefit scheme?",
+      "answer": "For further assistance or questions, beneficiaries should contact the local Labour Inspector or the Labour Department of the area where they are registered."
+    },
+    {
+      "question": "What happens if the disability improves over time due to medical intervention?",
+      "answer": "If the disability improves over time, the Medical Board will review the situation again. The continuation of benefits will be based on this review."
+    },
+    {
+      "question": "How long can a worker receive the benefit for permanent disablement?",
+      "answer": "The permanent disability benefit is provided until the worker reaches 60 years of age. Afterward, the worker will automatically be eligible for a pension from the TBOCWW Board."
+    }
+  ]
+}

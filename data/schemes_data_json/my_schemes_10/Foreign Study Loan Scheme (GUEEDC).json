@@ -1,0 +1,137 @@
+{
+  "scheme_name": "Foreign Study Loan Scheme (GUEEDC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fsls",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Foreign Study Loan Scheme (GUEEDC)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme provides",
+      "financial loan assistance",
+      "to students from the",
+      "unreserved category",
+      "to pursue",
+      "higher education abroad.",
+      "Loans up to",
+      "₹15 lakh",
+      "are granted at simple interest of",
+      "4% per annum",
+      ", with flexible repayment options. Security and repayment conditions depend on the loan amount. This scheme aims to support meritorious, economically weaker students for global education opportunities."
+    ],
+    "benefits": [
+      "Loan Amount:",
+      "Up to ₹15.00 lakh",
+      "Interest Rate:",
+      "Simple interest at 4% per annum",
+      "Collateral:",
+      "Up to ₹7.50 lakh:",
+      "Property valued at 1.5 times the loan amount",
+      "Above ₹7.50 lakh:",
+      "Property equal to the loan amount",
+      "Loan Repayment:",
+      "Up to ₹5 lakh:",
+      "repay in 5 years after 1-year moratorium",
+      "Above ₹5 lakh",
+      ": repay in 6 years after 1-year moratorium",
+      "Borrower can pre-pay without penalty"
+    ],
+    "eligibility": [
+      "The applicant must be a",
+      "citizen of India",
+      "and a",
+      "resident of Gujarat.",
+      "The applicant must belong to the",
+      "Unreserved category",
+      ".",
+      "The applicant must have passed",
+      "Class 12 with 60% or more marks",
+      "The applicant must be seeking admission to",
+      "MBBS, Master’s, PG Diploma, or equivalent programs abroad.",
+      "The applicant’s annual family income must be",
+      "₹6.00 lakh or less."
+    ],
+    "application_process": {
+      "online": [
+        "Visit the Official Website:",
+        "https://gueedc.gujarat.gov.in",
+        "Click on “",
+        "Register",
+        "” and fill in your basic details such as name, email, mobile number, and create a password.",
+        "Login",
+        "to Your Account.",
+        "From the dashboard, select the “",
+        "Foreign Study Loan",
+        "” scheme .",
+        "Fill the Online Application Form.",
+        "Upload Required Documents.",
+        "Submit the Application.",
+        "Save or note down your",
+        "unique application ID",
+        "for future reference.",
+        "Print the Application Form.",
+        "Submit the signed hard copy and original documents for verification",
+        "at the GUEEDC office or as directed",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Class 12 Marksheet (60% or above)",
+      "Unreserved category proof",
+      "Income certificate (₹6 lakh or less)",
+      "Admission letter to foreign university",
+      "Collateral documents (immovable property details):",
+      "For up to ₹7.5 lakh: property worth 1.5 times of loan amount",
+      "Above ₹7.5 lakh: property worth 100% of loan amount",
+      "Post-dated cheques (5 nos.) in favor of Corporation",
+      "Identity proof (Aadhaar/Voter ID/Passport)",
+      "Passport copy and visa (once issued)",
+      "Bank passbook or cancelled cheque"
+    ],
+    "sources_and_references": [
+      "Guideline"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this loan?",
+      "answer": "Students from unreserved category with 60%+ in Class 12 and annual income ≤ ₹6 lakh. 60%+ in Class 12 annual income ≤ ₹6 lakh."
+    },
+    {
+      "question": "What courses are covered under this scheme?",
+      "answer": "MBBS, Master's degrees, PG diplomas, or equivalent programs abroad."
+    },
+    {
+      "question": "What is the maximum loan amount available?",
+      "answer": "₹15 lakh."
+    },
+    {
+      "question": "What is the rate of interest?",
+      "answer": "Simple interest at 4% per annum."
+    },
+    {
+      "question": "Is there any collateral required?",
+      "answer": "Yes. Property must be mortgaged—1.5× value for loans ≤ ₹7.5 lakh, 1× for higher amounts. Yes."
+    },
+    {
+      "question": "When does the repayment start?",
+      "answer": "One year after course completion."
+    },
+    {
+      "question": "How long is the repayment period?",
+      "answer": "5 years for loans ≤ ₹5 lakh, and 6 years for loans > ₹5 lakh. 5 years 6 years"
+    },
+    {
+      "question": "Can I repay the loan early?",
+      "answer": "Yes, prepayment is allowed without penalty. Yes,"
+    },
+    {
+      "question": "Do I need to submit post-dated cheques?",
+      "answer": "Yes, five post-dated cheques in favor of the Corporation. Yes,"
+    },
+    {
+      "question": "Where do I apply?",
+      "answer": "Visit the Official Website: https://gueedc.gujarat.gov.in Visit the Official Website: https://gueedc.gujarat.gov.in"
+    }
+  ]
+}

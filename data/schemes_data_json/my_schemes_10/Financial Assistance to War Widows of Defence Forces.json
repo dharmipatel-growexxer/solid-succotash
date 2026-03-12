@@ -1,0 +1,114 @@
+{
+  "scheme_name": "Financial Assistance to War Widows of Defence Forces",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fawwdf",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Financial Assistance to War Widows of Defence Forces",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Financial Assistance to War Widows of Defence Forces\" is implemented by the Sainik and Ardh Sainik Welfare Department, Government of Haryana. Under the scheme, financial assistance of ₹3,000/- per month shall be granted to widows of Defence Force personnel (Army, Navy, and Air Force) who were killed in action during the declared wars of 1962, 1965, and 1971, in addition to the family pension they are already receiving from the Government of India."
+    ],
+    "benefits": [
+      "Under the scheme, financial assistance of ₹3,000/- per month is given to the widow of an ex-serviceman whose husband died in action during the declared wars of 1962, 1965, and 1971, with an annual increase of ₹400/- w.e.f. 01.11.2017 every year in November.",
+      "Note:",
+      "This financial assistance is provided in addition to the family pension already getting from the Government of India."
+    ],
+    "eligibility": [
+      "The applicant must be a bona fide resident of Haryana.",
+      "The applicant must be the widow of Defence Force personnel (Army, Navy, or Air Force) who was killed in action during the declared wars of 1962, 1965, or 1971."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "The eligible applicant may apply online through the Official Portal-",
+        "Antyodaya-SARAL Portal",
+        ".",
+        "Step 2:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 3:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 4: Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to apply for the scheme:",
+        "To avail the benefits of the scheme, visit the Official",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’.",
+        "Step 4:",
+        "Now, you can search for the scheme and download the pre-defined documents form/template and you will need to upload the filled-in/signed form/template in the 'Attach Enclosures' screen.",
+        "Step 5:",
+        "Click on ‘Proceed to Apply’ to fill out the application form. Enter your Parivar Pehchan Patra number- Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 6:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 7:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 8:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track their applications through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "Copy of Ex-serviceman Identity Card",
+      "Parivar Pehchan Patra",
+      "Aadhaar Card",
+      "Original Discharge Book (Complete)",
+      "Haryana Resident Certificate",
+      "Certificate of Liberalized Family Pension",
+      "Revenue Report verified from Tehsildar",
+      "Copy of Bank Passbook linked with Aadhaar Number",
+      "Non-Employment Certificate",
+      "Casualty Certificate from the concerned record office",
+      "Applicant’s Photo ID card (Ration Card/Driving License/ Voter ID Card/PAN Card etc.)",
+      "NOC from the concerned District Social Welfare Department regarding not receiving any Financial Assistance/Pension",
+      "Death Certificate of Ex-serviceman",
+      "Non-remarriage Certificate of the widow",
+      "Delay Report",
+      "Affidavit for verifying the particulars given by the widow of Ex-serviceman",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Notification",
+      "Antyodaya-SARAL Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "The scheme provides ₹3,000 per month, with an annual increase of ₹400 every November starting from 01.11.2017."
+    },
+    {
+      "question": "Is this financial assistance in addition to other pensions?",
+      "answer": "Yes, this financial assistance is provided in addition to the family pension already received from the Government of India."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "The applicant must be a bona fide resident of Haryana and the widow of Defence Force personnel who was killed in action during the declared wars of 1962, 1965, or 1971."
+    },
+    {
+      "question": "How can one apply for this scheme?",
+      "answer": "Eligible applicants can apply online through the Antyodaya-SARAL Portal at https://saralharyana.gov.in/"
+    },
+    {
+      "question": "Can the application be tracked online?",
+      "answer": "Yes, applicants can track their applications through the Antyodaya-SARAL Portal by entering the Department Name, Scheme Name, and Application Reference ID at https://status.saralharyana.nic.in/"
+    },
+    {
+      "question": "What is the frequency of the financial assistance payments?",
+      "answer": "The financial assistance is provided on a monthly basis."
+    },
+    {
+      "question": "When does the annual increase in financial assistance take effect?",
+      "answer": "The annual increase of ₹400 takes effect every November."
+    },
+    {
+      "question": "Is there an age limit for the widow to receive the assistance?",
+      "answer": "No, there is no age limit for the widow to receive the financial assistance."
+    }
+  ]
+}

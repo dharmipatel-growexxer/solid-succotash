@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Family Pension (HBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/haryana-building-and-other-construction-workers-welfare-board",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Family Pension (HBOCWWB)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Family Pension” is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department, Government of Haryana. Under this scheme, on the death of a pensioner worker who is being given pension by the Haryana Building & Other Construction Workers Welfare Board, half of his/her pension is given to his/her spouse (as the case may be)."
+    ],
+    "benefits": [
+      "After the death of the worker-pensioner, half of the pension amount will be given to the dependent wife/husband as family pension every month."
+    ],
+    "eligibility": [
+      "The applicant should be the spouse of the deceased worker.",
+      "The deceased worker should have been registered with the Haryana Building & Other Construction Workers Welfare Board.",
+      "The registered deceased worker must have been getting the pension from the Board."
+    ],
+    "application_process": {
+      "online": [
+        "Apply for Scheme: Registration Process on Antyodaya-SARAL Portal:",
+        "Step 01:",
+        "To avail of the benefits of the scheme, the applicant needs to visit the Official Portal -",
+        "Antyodaya-SARAL Portal",
+        "Step 02:",
+        "If the applicant is not registered on the portal, then he/she gets registered on the portal.",
+        "Step 03:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 04:",
+        "Applicants will receive the login ID on their mobile number.",
+        "Login to Apply for the Scheme:",
+        "Visit the Official Portal -",
+        "The “Sign in here” option is available on the right side of the screen. Applicant needs to fill in their credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 05:",
+        "Fill in all the details asked in the online application form and submit the application form.",
+        "HBOCW Registration User Manual"
+      ]
+    },
+    "documents_required": [
+      "Documents required for Scheme Benefits:",
+      "Identity card of the registered deceased worker",
+      "Identity proof of the spouse",
+      "Passport-size photographs",
+      "Proof of Spouse",
+      "Death Certificate of the worker",
+      "Proof of Residence",
+      "Ration Card",
+      "Bank account details",
+      "Undertaking by applicant",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Scheme Details",
+      "Registration",
+      "Online Application Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who administers this scheme?",
+      "answer": "The \"Family Pension\" scheme is administered by the Labour Department, Government of Haryana, through the HBOCWWB."
+    },
+    {
+      "question": "What happens to the pension of a deceased worker under the scheme?",
+      "answer": "Upon the death of a pensioner worker registered with the Haryana Building & Other Construction Workers Welfare Board, half of their pension is provided to their spouse."
+    },
+    {
+      "question": "How is the pension distributed to the spouse?",
+      "answer": "Half of the pension amount is given to the dependent wife or husband of the deceased worker as family pension on a monthly basis."
+    },
+    {
+      "question": "Who is eligible to receive benefits under the scheme?",
+      "answer": "The spouse of the deceased worker is eligible to receive benefits under the \"Family Pension\" scheme."
+    },
+    {
+      "question": "What are the requirements for eligibility?",
+      "answer": "The applicant must be the spouse of the deceased worker who was registered with the Haryana Building & Other Construction Workers Welfare Board."
+    },
+    {
+      "question": "Does the deceased worker need to be receiving pension for eligibility?",
+      "answer": "Yes, the registered deceased worker must have been receiving pension from the Board."
+    },
+    {
+      "question": "How can one apply for the \"Family Pension\" scheme?",
+      "answer": "To apply for the scheme, the applicant should visit the Official Portal - Antyodaya-SARAL Portal."
+    }
+  ]
+}

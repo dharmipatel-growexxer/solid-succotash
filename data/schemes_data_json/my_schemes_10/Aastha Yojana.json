@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Aastha Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/asr",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Aastha Yojana",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Aastha Yojana\" was launched by the Department of Social Justice and Empowerment, Government of Rajasthan. It aims to provide BPL-equivalent benefits to families with multiple specially-abled members. Under this scheme, eligible families receive free medical treatment, ration supplies, and other welfare benefits. To avail of the benefits, a family must possess an Aastha Card, and their annual income should not exceed ₹1.20 lakh."
+    ],
+    "benefits": [
+      "Aastha cardholder families receive benefits similar to BPL families, including free medical treatment and ration supplies.",
+      "Note:",
+      "Aastha cardholders are entitled to benefits from all BPL-related schemes run by different state government departments."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Rajasthan.",
+      "The two or more members should be specially abled from the same family.",
+      "The applicant must have a disability of 40%.",
+      "The annual family income should not exceed ₹1,20,000/-."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit office of the District Social Justice & Empowerment Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Social Justice & Empowerment Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Social Justice & Empowerment Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Domicile Certificate",
+      "Disability Certificate",
+      "Aadhaar Card",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Aastha Scheme?",
+      "answer": "Families with at least two specially-abled members (40% or more disability) and an annual income below ₹1,20,000 are eligible."
+    },
+    {
+      "question": "What benefits does the scheme provide?",
+      "answer": "The scheme provides free medical services, ration supplies, and access to BPL-equivalent welfare schemes."
+    },
+    {
+      "question": "Is there any fee for applying for the Aastha Card?",
+      "answer": "No, applying for the Aastha Card is completely free of cost."
+    },
+    {
+      "question": "Can an individual apply for this scheme?",
+      "answer": "No, this scheme is for families with at least two eligible members with disabilities."
+    },
+    {
+      "question": "Can Aastha Cardholders avail of other government schemes?",
+      "answer": "Yes, they are eligible for all BPL-category welfare schemes run by various departments."
+    },
+    {
+      "question": "Whom should I contact for more information?",
+      "answer": "The applicant can contact the District Social Justice & Empowerment Office for queries and application assistance."
+    },
+    {
+      "question": "Can I apply online for this scheme?",
+      "answer": "No, the application process is offline."
+    },
+    {
+      "question": "Will the Aastha Card expire?",
+      "answer": "The card remains valid as long as the eligibility criteria are met and for the latest update, contact the department."
+    },
+    {
+      "question": "Where can I apply for the Aastha Card?",
+      "answer": "The applicant can apply at the District Social Justice & Empowerment Office in your district."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "Need an Aadhaar Card, Residence Proof, Disability Certificate, etc."
+    }
+  ]
+}

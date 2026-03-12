@@ -1,0 +1,69 @@
+{
+  "scheme_name": "Maternity Financial Assistance (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mbsukbocwwb",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Maternity Financial Assistance (UKBOCWWB)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The “Maternity Financial Assistance” scheme is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide financial support to registered women construction workers during the maternity period. This assistance is admissible only for the birth of up to two children."
+    ],
+    "benefits": [
+      "₹6,000/- per child (limited to a maximum of two children)."
+    ],
+    "eligibility": [
+      "The applicant must be a woman construction worker registered with the Uttarakhand Building and Other Construction Workers Welfare Board.",
+      "Financial assistance is admissible only for the birth of up to two children."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "The online application is submitted through Shramik Suvidha Kendras.",
+        "Along with the application form, the Shramik Card, ANC Card, a certificate issued by the medical officer regarding delivery, and a self-declaration stating that no assistance has been availed from any other department must be attached.",
+        "The application must be submitted within one year from the date of delivery. This benefit is admissible only for the birth of up to two children.",
+        "After submission, the department conducts verification, and if the application is found correct, the sanctioned amount is transferred directly to the bank account of the construction worker."
+      ]
+    },
+    "documents_required": [
+      "Labour Card",
+      "ANC Card",
+      "Certificate issued by the medical officer regarding delivery",
+      "Self-declaration stating that no assistance has been availed from any other department"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 55)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Only women construction workers registered with the Uttarakhand Building and Other Construction Workers Welfare Board are eligible."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "₹6,000/- is provided for each child."
+    },
+    {
+      "question": "Is the benefit available for more than two children?",
+      "answer": "No, the assistance is admissible only for the birth of up to two children."
+    },
+    {
+      "question": "What is the time limit to apply after childbirth?",
+      "answer": "The application must be submitted within one year from the date of delivery."
+    },
+    {
+      "question": "Where can the application be submitted?",
+      "answer": "Applications are submitted online through Shramik Suvidha Kendras."
+    },
+    {
+      "question": "What is the self-declaration certificate?",
+      "answer": "It is a statement by the applicant confirming that she has not received maternity assistance from any other department."
+    },
+    {
+      "question": "How is the assistance amount disbursed?",
+      "answer": "Once verified, the sanctioned amount is directly transferred to the bank account of the construction worker."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Family Pension",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wbtwssfp",
+  "location_name": "West Bengal",
+  "location_type": "state",
+  "page_title": "West Bengal Transport Workers’ Social Security Scheme: Family Pension",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The “West Bengal Transport Workers’ Social Security Scheme: Family Pension” by the Labour Department, is aimed at ensuring financial support for the families of unorganized transport workers in the state. Beneficiaries, upon retirement or unfortunate demise, will have 50% of their last drawn amount transferred monthly to their families through a Direct Benefit Transfer (DBT) system."
+    ],
+    "benefits": [
+      "Monthly Family Pension:",
+      "50% of the amount last drawn by the beneficiary."
+    ],
+    "eligibility": [
+      "The applicant must be between 18 and 60 years of age at the time of enrolment.",
+      "The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses.",
+      "The applicant’s vehicle must be used for commercial purposes and not solely for personal or family use.",
+      "Note:",
+      "A nominee/ dependent of a beneficiary shall be entitled for the benefits."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the “",
+        "eDistrict 2.0",
+        "” portal. Click on Log In/Sign Up.",
+        "Step 2:",
+        "In the User Login window, scroll down to the bottom and click on “Register”.",
+        "Step 3:",
+        "Fill in all the details carefully, enter a username, and click on “Register”.",
+        "Step 4:",
+        "Upon entering the One Time Password received on your mobile, you will be successfully registered.",
+        "Step 5:",
+        "Now in the User Login window, enter your Username or email and captcha and click on “Sign In”.",
+        "Step 6:",
+        "Enter the received O.T.P and click on “Submit”.",
+        "Step 7:",
+        "Upon successful Login, You will be redirected to the “Dashboard”. From the right side menu apply for the concerned scheme."
+      ]
+    },
+    "documents_required": [
+      "For New Registration:",
+      "Certification by Prescribed Authority in the Prescribed format,",
+      "Passport Size Photo (self and for each dependent member).",
+      "Age Proof Document.",
+      "Driving License in case of Drivers.",
+      "EPIC/ AADHAR Card.",
+      "For the Application of the Welfare Scheme:",
+      "Details of the Nominee/ Dependent.",
+      "Proof of identity (Aadhaar card, Voter ID, etc.).",
+      "Age proof document (Birth certificate, Aadhaar, etc.)."
+    ],
+    "sources_and_references": [
+      "Guideline-1",
+      "Guideline-2",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "Under this scheme, beneficiaries, upon retirement or unfortunate demise, will have 50% of their last drawn amount transferred monthly to their families through a Direct Benefit Transfer (DBT) system."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "The scheme is open to unorganized transport workers aged 18-60 years who operate commercial vehicles in West Bengal."
+    },
+    {
+      "question": "What is the pension amount provided under the scheme?",
+      "answer": "Nominee/ Dependent receives a pension amount equal to 50% of the amount last drawn by the beneficiary."
+    },
+    {
+      "question": "What happens to the pension after the death of the beneficiary?",
+      "answer": "After the beneficiary’s death, the Nominee/ Dependent receives 50% of the pension amount that the beneficiary was receiving."
+    },
+    {
+      "question": "Can individuals below 60 years of age receive a pension?",
+      "answer": "In cases of total permanent disability, the scheme provides a monthly pension of ₹750/- to eligible beneficiaries under 60 years of age."
+    },
+    {
+      "question": "What types of vehicles are covered under this scheme?",
+      "answer": "The scheme applies to commercial vehicles such as taxis, auto-rickshaws, buses, trucks, vans, tempos, and other similar vehicles."
+    },
+    {
+      "question": "Are vehicles used solely for personal or family purposes eligible?",
+      "answer": "No, vehicles solely used for personal or family purposes are not eligible for the scheme."
+    },
+    {
+      "question": "How are pension benefits disbursed?",
+      "answer": "Pension benefits are directly transferred to the bank accounts of the beneficiaries through the Direct Benefit Transfer (DBT) system."
+    },
+    {
+      "question": "Can female transport workers apply for this scheme?",
+      "answer": "Yes, the scheme is open to both male and female transport workers who meet the eligibility criteria."
+    },
+    {
+      "question": "Where can workers seek additional information or assistance regarding the scheme?",
+      "answer": "Workers can contact the respective Regional Labor Offices or Labor Welfare Facilitation Centers in their area for more details."
+    }
+  ]
+}

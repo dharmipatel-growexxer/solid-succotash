@@ -1,0 +1,129 @@
+{
+  "scheme_name": "Manav Kalyan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mky-gujarat",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Manav Kalyan Yojana",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched on 11th September 1995, the scheme \"Manav Kalyan Yojana\" implemented by the Commissioner of Cottage and Rural Industries, Industries & Mines Department, Government of Gujarat, aims to uplift economically disadvantaged sections by providing toolkit assistance (via e-vouchers) for self-employment in 10 designated trades. The scheme replaces previous self-employment initiatives and targets individuals/families with an annual income of up to ₹6,00,000/- in rural/urban areas. It focuses on empowering artisans and marginalized communities, including SC/ST and nomadic tribes, with no income limit for the most backward sub-castes. Applications are submitted online via the e-Kutir portal, and beneficiaries receive toolkits through a transparent e-voucher system."
+    ],
+    "benefits": [
+      "Toolkit Assistance:",
+      "E-vouchers for toolkits in 10 specified trades.",
+      "Trades Covered:",
+      "Dairy Product Sales, Plumber, Bharat Kaam (Embroidery), Centering Work, Beauty Parlor, Electric Appliances Repairing, Papad Making, Pickle Making, Vehicle Servicing, Puncture Kit",
+      "*The maximum cost limits per toolkit are predefined (exact amounts not specified in the document).",
+      "Training Option:",
+      "Applicants can opt for skill training during the application process.",
+      "Transparent Disbursement:",
+      "E-vouchers (QR codes) are generated post-approval and redeemed at approved dealers."
+    ],
+    "eligibility": [
+      "The applicants must be between 18 and 60 years of age to qualify for the scheme.",
+      "The applicants from Scheduled Castes (SC), Scheduled Tribes (ST), or Socially and Educationally Backward Classes (SEBC) nomadic tribes are eligible without any income proof requirement.",
+      "The applicants from general categories must have a family annual income of ₹6,00,000/- or less, and must submit an income certificate as proof.",
+      "Additional Requirement for Rural Applicants",
+      "The rural applicants must -",
+      "a) either be listed in the Below Poverty Line (BPL) list with a poverty score of 0 to 16.",
+      "b) or submit an income certificate issued by the relevant authority.",
+      "Income Criteria Exemptions",
+      "The income limit does not apply to the following:",
+      "a) Individuals from the 12 most backward sub-castes within the Scheduled Castes.",
+      "b) Members of the most backward, nomadic, or de-notified tribes under the SEBC category.",
+      "*For all other applicants, the annual family income must not exceed ₹6,00,000/-, whether residing in rural or urban areas."
+    ],
+    "application_process": {
+      "online": [
+        "Steps for New Registration",
+        "Step 1:",
+        "Visit the",
+        "eKutir portal",
+        ". In the right pane of the landing page, click \"",
+        "For New Individual Registration, click Here",
+        "\".",
+        "Step 2:",
+        "On the registration page, fill in all mandatory fields (marked with an asterisk): Full Name (in English), Aadhaar Card Number, Gender, Date of Birth, Mobile Number, E-mail, Password (confirm the password by typing it again). Fill in the Captcha Code, and click \"Register\".",
+        "Step 3:",
+        "A confirmation pop-up will display the entered name, mobile number, and other details. If all the details are correct, click \"Confirm\" to proceed. If any information is incorrect, click \"Cancel\", make the necessary corrections, and then click \"Register\" again.",
+        "Step 4:",
+        "Upon successful registration, the User ID and Password will be sent to your registered mobile number via SMS. If an email address has been provided, the credentials will also be sent via email.",
+        "Steps for Login Procedure and User Profile Update",
+        ". In the right pane of the landing page (in the \"Login to Portal\" section), provide your User ID, Password, and the Captcha Code. Then click \"Login\".",
+        "Upon first login, the user must complete the \"User Profile\" by providing personal and organisational details. All fields marked with an asterisk are mandatory. Some fields will already be pre-filled based on the information provided during registration.",
+        "*Most of these details can later be updated from the “View Profile” section, except for the fields initially filled during registration.",
+        "Steps for Scheme Application",
+        "After logging in and completing the profile, the system displays schemes relevant to the user on the homepage. Click on the name of the scheme that you intend to apply for. You will be redirected to the online application form of the scheme. The application form is divided into multiple tabs.",
+        "In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. For each uploaded document, the corresponding document number must be entered wherever required. Click the “Save & Next” button to proceed to the subsequent tabs.",
+        "Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any) by ticking the designated checkbox.",
+        "Clicking “Save & Next” in the last tab of the application form generates an application number, which is displayed on the screen. The applicant must record this number for future reference. If the applicant wishes to print the application, they may click the “Print Application” button.",
+        "*If you do not wish to continue with the application at that point, you may click \"Cancel\".",
+        "Application Printing and Modification",
+        "If the user wishes to print the application, they may click “Print Application.”",
+        "If the application has been returned for revision, a “Modify” button will appear. The user can then edit the application and resubmit it.",
+        "Helpdesk/Grievance Redressal",
+        "Call 9909926280 / 9909926180.",
+        "Connect with the",
+        "District Industries Centre (DIC)",
+        "of your district.",
+        "Check Application Status",
+        "Application Status",
+        "page Provide the Application Number of the scheme, and your Date of Birth. Then click \"View Status\"."
+      ]
+    },
+    "documents_required": [
+      "Caste Certificate (for SC/ST/SEBC applicants).",
+      "Income Certificate (issued by Taluka Mamlatdar/Municipal Officer), mandatory for general category applicants.",
+      "e-Shram Card Number.",
+      "Bank Details (for e-voucher disbursement)."
+    ],
+    "sources_and_references": [
+      "Guidelines [e-Kutir]",
+      "Guidelines [Commissioner Of Cottage & Rural Industries]",
+      "List Of District Industries Centres"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for the toolkit assistance under this scheme?",
+      "answer": "Individuals aged 18-60 years from economically weaker sections (annual income ≤ ₹6,00,000/-) can apply, with no income limit for SC/ST/SEBC nomadic tribes and 12 most backward SC sub-castes."
+    },
+    {
+      "question": "What types of toolkits are available under this scheme?",
+      "answer": "The scheme covers 10 trades including dairy product sales, plumbing, beauty parlors, electric appliance repair, and papad/pickle making, with predefined maximum cost limits for each toolkit."
+    },
+    {
+      "question": "How do I prove my eligibility if I belong to the general category?",
+      "answer": "General category applicants must submit an income certificate (issued by Taluka Mamlatdar/Municipal Officer) showing family income ≤ ₹6,00,000/- annually. Rural applicants additionally need BPL listing (score 0–16) or an income certificate."
+    },
+    {
+      "question": "Is there any income proof requirement for SC/ST/SEBC applicants?",
+      "answer": "No, applicants from SC/ST/SEBC nomadic tribes and the 12 most backward SC sub-castes are exempt from income criteria. Only a valid caste certificate is required."
+    },
+    {
+      "question": "How will I receive the toolkit if my application is approved?",
+      "answer": "Approved beneficiaries receive an e-voucher (QR code) via SMS, which can be redeemed at approved dealers in Gujarat for toolkits within the scheme’s price limits."
+    },
+    {
+      "question": "Can I purchase tools beyond the scheme’s price limit?",
+      "answer": "Yes, but you must pay the extra amount yourself. The e-voucher covers only up to the predefined maximum cost for your selected toolkit."
+    },
+    {
+      "question": "Is training provided under this scheme?",
+      "answer": "Yes, applicants can opt for skill training during the application process, though details of training duration/location are not specified in the document."
+    },
+    {
+      "question": "What happens if I misuse the toolkit or don’t use it for its intended purpose?",
+      "answer": "Post-purchase physical verification is conducted by officials. Misuse/non-usage may lead to subsidy recovery and penal action."
+    },
+    {
+      "question": "Can I correct mistakes after submitting my registration details?",
+      "answer": "Yes, a confirmation pop-up appears before final submission. Click \"Cancel\" to edit incorrect details, then re-register."
+    },
+    {
+      "question": "How can I track or modify my submitted application?",
+      "answer": "Click \"View Application\" on the portal. Use \"Print Application\" for hard copies or \"Modify\" (if application is returned for revisions)."
+    }
+  ]
+}

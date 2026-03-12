@@ -1,0 +1,79 @@
+{
+  "scheme_name": "Funeral Assistance (HBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fahbocwwb",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Funeral Assistance (HBOCWWB)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Funeral Assistance” is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department, Government of Haryana. Under this scheme, the Board provides financial assistance for funeral expenses to the nominee or legal heir of a registered worker in the event of their death."
+    ],
+    "benefits": [
+      "In case of the death of a registered worker, an amount of ₹15,000/- is payable as funeral assistance to his/her nominee/legal heirs."
+    ],
+    "eligibility": [
+      "The applicant should be a nominee/legal heir of the deceased worker.",
+      "The deceased worker should have been registered with the Haryana Building & Other Construction Workers Welfare Board.",
+      "The registered deceased worker should have held a regular membership with the Board.",
+      "The scheme allows for application only once."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 01:",
+        "To avail of the benefits of the scheme, the applicant needs to visit the Official Portal -",
+        "Antyodaya-SARAL Portal",
+        "Step 02:",
+        "If the applicant is not registered on the portal, then he/she gets registered on the portal.",
+        "Step 03:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 04:",
+        "Applicants will receive the login ID on their mobile number.",
+        "Login to Apply for the Scheme:",
+        "Visit the Official Portal -",
+        "The “Sign in here” option is available on the right side of the screen. Applicant needs to fill in their credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 05:",
+        "Fill in all the details asked in the online application form and submit the application form."
+      ]
+    },
+    "documents_required": [
+      "Identity card of the registered deceased worker",
+      "Identity proof of the nominee/legal heir",
+      "Certificate of being a nominee/legal heir",
+      "Passport-size photograph",
+      "Death Certificate",
+      "Undertaking",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Scheme Details",
+      "Online Application Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "An amount of ₹15,000/- is payable as funeral assistance to the nominee or legal heirs of the deceased worker."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "The nominee or legal heir of the deceased worker is eligible to apply for the scheme."
+    },
+    {
+      "question": "How many times can one apply for the scheme?",
+      "answer": "The scheme allows for application only once."
+    },
+    {
+      "question": "Is there any specific documentation required to apply for the scheme?",
+      "answer": "Yes, the applicant needs to provide necessary documents such as death certificate, proof of relationship with the deceased worker, and proof of the worker's registration with the Board."
+    },
+    {
+      "question": "Where can one apply for the Funeral Assistance scheme?",
+      "answer": "To avail the benefits of the scheme, the applicant needs to visit the Official Portal - Antyodaya-SARAL Portal."
+    }
+  ]
+}

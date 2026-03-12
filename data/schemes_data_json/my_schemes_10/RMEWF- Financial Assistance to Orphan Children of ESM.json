@@ -1,0 +1,94 @@
+{
+  "scheme_name": "RMEWF- Financial Assistance to Orphan Children of ESM",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rmewf-faocesm",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "RMEWF- Financial Assistance to Orphan Children of ESM",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"RMEWF- Financial Assistance to Orphan Children of ESM\" scheme was launched by the Kendriya Sainik Board (KSB), Department of Ex-Servicemen Welfare, Ministry of Defence, Government of India. Under this scheme, a monthly assistance paid annually is provided to support the orphan’s education and settlement. The scheme is implemented by the Kendriya Sainik Board Secretariat in coordination with Zila Sainik Boards (ZSB) and Rajya Sainik Boards (RSB).",
+      "Scheme Aim:",
+      "The aim of this aid gratis is to provide a small measure of relief from total penury to an orphaned child of an ESM."
+    ],
+    "benefits": [
+      "Financial assistance of ₹3,000/- per month disbursed annually to each orphan child.",
+      "NOTE:",
+      "Direct credit to the beneficiary’s bank account via Electronic Clearing Service (ECS)",
+      "."
+    ],
+    "eligibility": [
+      "The applicant must be a legitimate offspring of an Ex-Serviceman, with details recorded in the Service Book.",
+      "The applicant must be a son below 21 years of age or an unmarried daughter.",
+      "The applicant must have lost both parents (ESM and spouse).",
+      "The application must be recommended by the respective Zila Sainik Board (ZSB)."
+    ],
+    "application_process": {
+      "online": [
+        "Interested and eligible students need to apply online at the",
+        "Kendriya Sainik Board Secretariat",
+        ".",
+        "New User Registration",
+        "Select the \"Register\" option.",
+        "Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, mobile number, and bank details.",
+        "Establish a password for your account.",
+        "Upon successful registration, the applicant will receive a User ID and password.",
+        "Login & Application Process:",
+        "Log in using the provided User ID and password to access the application form.",
+        "Click \"New Application\" and select the scheme name.",
+        "Fill in the complete application form.",
+        "Upload the required documents, including a photograph, caste certificate, residential certificate, and bank passbook etc.",
+        "Click on the \"Save & Forward\" and take the printout of the application form.",
+        "The applicant submits the printed application along with all the required documents to the District Sainik Board.”",
+        "NOTE:",
+        "Once the application reaches KSB Sectt., the staff and officers at KSB carry out vetting and approval of the application. Final payment is made online in due course based on the availability of funds in AFFD."
+      ]
+    },
+    "documents_required": [
+      "Service Discharge Book/Document (must have entry regarding child).",
+      "Death certificate of both parents.",
+      "Dependent I Card issued by concerned ZSB.",
+      "Birth Certificate of each orphan.",
+      "Certificate",
+      "from competent authority (for girl) certifying that the girl is not married.",
+      "Details of Bank A/c No and IFS Code."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of this scheme?",
+      "answer": "To provide financial relief to orphan children of ex-servicemen."
+    },
+    {
+      "question": "How much is the assistance?",
+      "answer": "₹3,000 per month, paid annually."
+    },
+    {
+      "question": "Who implements the scheme?",
+      "answer": "The scheme was implemented by the Kendriya Sainik Board Secretariat."
+    },
+    {
+      "question": "Who is eligible?",
+      "answer": "Sons below 21 years and unmarried daughters of deceased ESM and spouse."
+    },
+    {
+      "question": "What if the daughter gets married?",
+      "answer": "The assistance stops immediately."
+    },
+    {
+      "question": "What documents are needed?",
+      "answer": "Service discharge book, death certificates, birth certificate, bank details, and unmarried certificate (for girls)."
+    },
+    {
+      "question": "Can the payment be made monthly?",
+      "answer": "No, it is paid annually."
+    },
+    {
+      "question": "How is payment made?",
+      "answer": "Through ECS directly to the bank account."
+    }
+  ]
+}

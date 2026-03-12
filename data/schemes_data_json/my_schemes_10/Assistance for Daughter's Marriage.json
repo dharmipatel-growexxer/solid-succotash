@@ -1,0 +1,130 @@
+{
+  "scheme_name": "Assistance for Daughter's Marriage",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/afdm",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "Assistance for Daughter's Marriage",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The \"Assistance for Daughter's Marriage\" scheme, introduced by the Department of Sainik Welfare, Government of Rajasthan, aims to provide financial support to widows of ex-servicemen for their daughters' marriages. Under this scheme, financial assistance of ₹25,000/- per daughter is provided for a maximum of two marriageable daughters of widows of ex-servicemen up to the rank of Havaldar, who are not receiving the Marriage Grant from the Kendriya Sainik Board (KSB). The financial assistance, drawn from the Amalgamated Fund, is payable to the beneficiary upon applying within one year from the date of marriage."
+    ],
+    "benefits": [
+      "Financial assistance of ₹25,000/- per daughter (up to two daughters) is provided."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Rajasthan.",
+      "The applicant should be the widow of an ex-serviceman of the rank of Havildar or below.",
+      "The assistance is available for a maximum of two daughters of the widow of an ex-serviceman.",
+      "The daughter should be at least 18 years of age at the time of marriage.",
+      "The daughter’s name should be duly recorded in the ex-serviceman’s discharge book or Part-2 order.",
+      "The applicant should possess a valid Ex-Serviceman/Widow Identity Card issued by the respective District Sainik Welfare Office.",
+      "The applicant should not have received marriage assistance for the same purpose from the Kendriya Sainik Board.",
+      "The application should be submitted within one year from the date of marriage to be eligible for assistance under this scheme.",
+      "Widows of ex-servicemen who are classified as Battle Casualties or Physical Casualties (attributable cases) are not eligible under this scheme, as marriage assistance in such cases is provided by the Army Headquarters.",
+      "If the applicant is eligible for the Daughter Marriage Assistance Scheme run by the Kendriya Sainik Board for ex-servicemen, then financial aid from the Amalgamated Fund shall not be granted.",
+      "The benefit shall be extended only to the widow of an ex-serviceman who meets the definition of an ex-serviceman as prescribed by the Government of India."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 1:",
+        "The interested applicant should visit the office of the District Sainik Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The applicant should download the",
+        "application form",
+        "(Page No. 4) from the official website.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Sainik Welfare Officer.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Sainik Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).",
+        "NOTE:",
+        "The application must be submitted within one year of the marriage date.",
+        "The application should be made through the same District Sainik Welfare Officer from whom the ex-serviceman/widow's identity card was issued.",
+        "Post-Application Process:",
+        "The District Sainik Welfare Officer will verify the application and documents.",
+        "Verified applications will be forwarded to the Director, Sainik Kalyan Vibhag, Rajasthan. A committee will review applications every six months.",
+        "If approved, the financial assistance will be transferred online to the applicant’s bank account.",
+        "The District Sainik Welfare Officer will inform the applicant about the payment status."
+      ]
+    },
+    "documents_required": [
+      "Attested copy of the ex-serviceman's discharge book/Service Particulars",
+      "Ex-Serviceman Widow Identity Card (Valid Ex-Serviceman/Widow Identity Card issued by the District Sainik Welfare Office)",
+      "Aadhaar Card of the Widow",
+      "Proof of Residence",
+      "Marriage Certificate",
+      "Pension Payment Order (PPO)",
+      "Age Proof of Daughter",
+      "Proof of Daughter's Name in Official Records- Document showing the daughter's name recorded in the ex-serviceman’s Discharge Book or Part-II Order.",
+      "Undertaking for Non-Receipt of Similar Assistance",
+      "Death Certificate of the ex-serviceman",
+      "Marriage Invitation Card",
+      "Bank account details",
+      "Recent passport-sized photographs of the applicant and the daughter",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website",
+      "Application Form (Page No. 4)",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Widows of ex-servicemen (Havildar or below rank) who have not availed marriage assistance from the Central Sainik Board."
+    },
+    {
+      "question": "What is the amount provided under this scheme?",
+      "answer": "₹25,000/- per daughter, up to two daughters."
+    },
+    {
+      "question": "Can I apply if my husband was a battle casualty?",
+      "answer": "No, as separate financial assistance is provided by the Army Headquarters."
+    },
+    {
+      "question": "Can I apply for more than two daughters?",
+      "answer": "No, assistance is provided for a maximum of two daughters."
+    },
+    {
+      "question": "Is there any income limit for eligibility?",
+      "answer": "No, there is no income limit."
+    },
+    {
+      "question": "What is the application deadline?",
+      "answer": "Within one year from the date of marriage."
+    },
+    {
+      "question": "How is the assistance amount disbursed?",
+      "answer": "Through an online transfer to the applicant’s bank account."
+    },
+    {
+      "question": "How can I apply for this scheme?",
+      "answer": "Submit the prescribed application form with required documents to the District Sainik Welfare Officer."
+    },
+    {
+      "question": "What if I have already received assistance from the Central Sainik Board?",
+      "answer": "The applicant will not be eligible for this scheme."
+    },
+    {
+      "question": "Can an applicant from another state apply?",
+      "answer": "No, only permanent residents of Rajasthan are eligible."
+    },
+    {
+      "question": "Should the daughter's name be mentioned in any official documents?",
+      "answer": "Yes, the daughter’s name must be recorded in the Discharge Book or Part-II Order of the ex-serviceman."
+    },
+    {
+      "question": "Can the widow apply if she has already received marriage assistance from the Kendriya Sainik Board?",
+      "answer": "No, applicants who have already received similar assistance from the Kendriya Sainik Board are not eligible."
+    },
+    {
+      "question": "Is the scheme applicable to all ranks of ex-servicemen?",
+      "answer": "No, it is applicable only to ex-servicemen of Havildar rank or below."
+    }
+  ]
+}

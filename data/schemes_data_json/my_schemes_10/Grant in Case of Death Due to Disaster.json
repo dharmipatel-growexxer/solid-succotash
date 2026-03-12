@@ -1,0 +1,54 @@
+{
+  "scheme_name": "Grant in Case of Death Due to Disaster",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/disastergrantuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Grant in Case of Death Due to Disaster",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Grant in Case of Death Due to Disaster” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to the families or dependents of individuals who lose their lives due to any disaster."
+    ],
+    "benefits": [
+      "Under this scheme, the dependents of the deceased receive financial assistance of ₹4,00,000/- as an ex-gratia grant."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant should be a disaster-affected person/ belong to a disaster-affected family or an individual involved in relief or pre-preparation related work."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+      ]
+    },
+    "documents_required": [
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 304)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "An ex-gratia grant of ₹4.00 lakh is provided to the dependent of each deceased person."
+    },
+    {
+      "question": "Who is eligible to receive this financial assistance?",
+      "answer": "The dependents or family members of persons who lose their lives due to any disaster in Uttarakhand are eligible for this grant."
+    },
+    {
+      "question": "Are relief workers also eligible under this scheme?",
+      "answer": "Yes. Individuals involved in relief operations or pre-preparation activities who die during such duties are also eligible under this scheme."
+    },
+    {
+      "question": "Who verifies the information about the disaster and the death?",
+      "answer": "The concerned Patwari verifies and records the details in Form P-20, which is further confirmed by the Tehsildar and Sub-Divisional Magistrate (SDM)."
+    },
+    {
+      "question": "What is the role of the District Magistrate in this process?",
+      "answer": "The District Magistrate reviews and approves the verified reports submitted by the SDM before the relief funds are disbursed. How are the relief funds disbursed After the District Magistrate’s approval, the relief funds are disbursed at the Tehsil level to the eligible dependent or family of the deceased."
+    }
+  ]
+}

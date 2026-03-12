@@ -1,0 +1,87 @@
+{
+  "scheme_name": "Labour Card and Renewal of Labour Card",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/lcrlc",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Labour Card and Renewal of Labour Card",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The “Labour Card and Renewal of Labour Card” facilities is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. Under this scheme, a labour card is issued to workers engaged in construction, repair, maintenance, and other construction works such as bridges, roads, airstrips, etc."
+    ],
+    "benefits": [
+      "The labour card is mandatory to avail the benefits of all schemes offered by the Building and Other Construction Workers Welfare Board.",
+      "The labour card also be used as an identification document for building and construction workers."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a worker engaged in construction, repair, maintenance, or related activities involving government and non-government buildings, as well as other construction works such as bridges, roads, airstrips, irrigation projects, water drainage systems, embankments, tunnels, flood control structures, power generation, transmission and distribution, water works, oil and gas installations, dams, canals, reservoirs, pipelines, towers, television towers, mobile/telephone towers, etc.",
+      "The workers under MNREGA (such as labourers, masons, electricians, plumbers, etc.) and other construction workers are also eligible.",
+      "The applicant must be between 18 and 60 years of age.",
+      "The applicant must possess a certificate confirming that they have worked as a construction or other related worker for at least 90 days in the previous year."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Building and construction workers can register or renew their labour card online through the nearest Jan Suvidha Kendra or Shramik Suvidha Kendra.",
+        "To apply online, the applicant must submit two passport-size photographs along with the application form. For age verification, any one of the following documents is required: 10th certificate, birth certificate, certificate issued by a medical officer, notarized affidavit of the construction worker, voter identity card, ration card, or a certificate issued by the Village Panchayat Officer, Village Head, or Councillor.",
+        "A certificate of having worked as a construction worker for at least 90 days in the previous year, along with a nomination form for nominating legal heirs, must also be submitted.",
+        "The applicant is further required to provide the Aadhaar card, ration card, Aadhaar-linked bank account details, self-certification or self-declaration form (available only at Jan Suvidha Kendra or Shramik Suvidha Kendra), and Aadhaar cards of dependents. After uploading all the required documents, a registration fee of ₹100/- must be deposited.",
+        "The application is then forwarded to the concerned department. If the documents are verified and found correct, the worker’s details will be entered in the Labour Register, and the registration number assigned will serve as the worker’s official registration number.",
+        "Once the registration is approved, the Registration Officer will issue a Photo Identity Card, which the worker can collect from the Public Service Centre of the concerned department or from the office of the Labour Department. This card is valid for three years.",
+        "Renewal Process:",
+        "The application for renewal must be submitted before the completion of three years.",
+        "For every renewal cycle of three years, the construction worker is required to deposit a contribution of ₹100/-. If a worker fails to renew the card within the stipulated time, they will not be eligible to avail the benefits in the future. However, with the permission of the authorized officer, the membership may be reinstated by depositing the outstanding amount. This facility of reinstatement can be availed only twice."
+      ]
+    },
+    "documents_required": [
+      "For Labour Card:",
+      "Two passport-size photographs",
+      "Proof of Age (any one of the following): 10th Certificate, Birth Certificate, Certificate issued by a Medical Officer, Notarized Affidavit of the Construction Worker, Voter Identity Card, Ration Card, Certificate issued by the Village Panchayat Officer / Village Head / Councillor",
+      "Proof of having worked as a construction worker for at least 90 days in the previous year",
+      "Aadhaar card of worker and dependents",
+      "Ration card",
+      "Aadhaar-linked bank account details",
+      "Self-certification/declaration form (available at Jan Suvidha Kendra)",
+      "Nomination form for legal heirs"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 52)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Why is the labour card important?",
+      "answer": "The labour card is mandatory to avail benefits of all welfare schemes provided by UKBOCWWB and also serves as an official identification document for construction workers."
+    },
+    {
+      "question": "What is the validity period of the labour card?",
+      "answer": "The labour card is valid for three years from the date of issuance."
+    },
+    {
+      "question": "What types of works are covered under this scheme?",
+      "answer": "Workers engaged in government and non-government building construction, bridges, roads, airstrips, irrigation projects, embankments, tunnels, flood control, power generation and transmission, water works, oil and gas installations, dams, canals, pipelines, towers, MNREGA, plumbing, electrical, and other construction works are eligible."
+    },
+    {
+      "question": "Who can apply for the labour card?",
+      "answer": "Any resident of Uttarakhand aged between 18 and 60 years, working as a construction or other related worker, and having proof of at least 90 days of work in the previous year can apply."
+    },
+    {
+      "question": "Are MNREGA workers eligible?",
+      "answer": "Yes. MNREGA labourers such as masons, electricians, and other construction-related workers are eligible."
+    },
+    {
+      "question": "Can a worker above 60 years of age apply?",
+      "answer": "No. Only workers aged between 18 and 60 years are eligible."
+    },
+    {
+      "question": "Is there a minimum work requirement to apply?",
+      "answer": "Yes. The worker must have proof of at least 90 days of work in the previous year in construction or related fields."
+    },
+    {
+      "question": "How can a worker apply for a labour card?",
+      "answer": "Workers can apply online through the nearest Jan Suvidha Kendra or Shramik Suvidha Kendra by submitting the required documents and paying the registration fee."
+    }
+  ]
+}

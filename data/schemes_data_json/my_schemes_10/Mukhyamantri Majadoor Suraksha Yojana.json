@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Mukhyamantri Majadoor Suraksha Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mmsymp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Majadoor Suraksha Yojana",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme is implemented by the Government of Madhya Pradesh to benefit labourers residing in rural and agricultural sectors. Under this scheme: registered workers receive maternity assistance, scholarships for their children, and insurance cover. It aims to bring social and economic security to families of unorganised agricultural workers by facilitating access to welfare assistance and ensuring eligibility criteria are met."
+    ],
+    "benefits": [
+      "Maternity Leave Assistance –",
+      "45 days’ wage equivalent for registered female workers or wives of registered workers (first two deliveries).",
+      "15 days’ wage equivalent for fathers (paternity leave).",
+      "Maternity Expense Assistance –",
+      "Institutional deliveries covered under Janani Suraksha Yojana.",
+      "₹500/- aid for home deliveries of below-poverty-line women.",
+      "Managed by the Public Health & Family Welfare Department.",
+      "Medical Assistance –",
+      "Coverage under Deendayal Antyodaya Upchar Yojana and State Illness Assistance Scheme.",
+      "Child heart-disease treatment under Mukhyamantri Bal Hriday Upchar Yojana.",
+      "Scholarship / Student Award –",
+      "Children of registered beneficiaries belonging to Scheduled Castes, Scheduled Tribes, Other Backward Classes, or General Category will receive scholarships under respective departmental schemes.",
+      "Beneficiaries covered under Aam Aadmi Bima Yojana whose two children are studying in Classes 9–12 will receive educational scholarships through Life Insurance Corporation (LIC).",
+      "Disabled children of registered workers with a disability of 40% or more will be eligible for disability scholarships.",
+      "Marriage Assistance –",
+      "Financial support for first marriage of registered workers’ daughters aged 18 + under Mukhyamantri Kanyadan/Nikah Yojana.",
+      "Insurance Assistance – Insurance via Aam Aadmi Bima Yojana:",
+      "Normal death – ₹30,000/-",
+      "Accidental death – ₹75,000/-",
+      "Permanent disability – ₹75,000/-",
+      "Partial disability – ₹37,500/-",
+      "Funeral Assistance –",
+      "₹2,000/- immediate help for funeral expenses upon death of worker or family member, provided through Gram Panchayat."
+    ],
+    "eligibility": [
+      "The applicant should have been residing regularly in the Gram Panchayat for at least five years.",
+      "The age of the applicant should be between 18 and 59 years.",
+      "The applicant should be capable of performing wage labor.",
+      "The applicant should earn his livelihood by working as a laborer in agriculture, horticulture, afforestation, collection of forest produce, fishing, etc.",
+      "Neither the applicant nor any member of his family should own agricultural land."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "- On the recommendation of the Gram Panchayat, it will be done by the Chief Executive Officer of the District Panchayat within a period of 7 days.",
+        "The registration fee will be Rs. 10/-, which will be deposited in the Gram Panchayat and at the end of every year, the details of the deposited amount will be sent to the Commissioner, Social Justice through the Chief Executive Officer, Janpad Panchayat.",
+        "The registration period will be 5 years.",
+        "Renewal of Registration",
+        "– Next date from the date of expiry of the original registration period. On the recommendation of the Gram Panchayat, renewal for 5 years can be done for the next 5 years, for this it will be mandatory that the beneficiary is working as a labourer while living in the Gram Panchayat and falls under the eligibility conditions.",
+        "Cancellation of registration",
+        "– Registered beneficiaries have deviated from the norms of the scheme and have opted for other schemes. He has started doing some other labour/business/job for earning livelihood and it has been more than six months since he was displaced from his original place of residence. The Secretary, Gram Panchayat will read out the names of the registered beneficiaries in every Gram Sabha and get them approved and will be responsible for sending a proposal to the Chief Executive Officer, District Panchayat for cancellation of registration of those who have died or have been displaced. An appeal against the order can be made before the Tehsildar within 30 days.",
+        "Registered beneficiary information will be maintained on the Samagra portal at",
+        "http://socialsecurity.mp.gov.in/",
+        "or",
+        "http://sssm.nic.in/",
+        ". Beneficiaries can apply for registration and assistance through this portal. Application forms are attached in",
+        "Appendices 1 and 2."
+      ]
+    },
+    "documents_required": [
+      "Two photographs of yourself,",
+      "BPL card or destitute/poor certificate,",
+      "Age verification certificate,",
+      "Disability certificate,",
+      "Photocopy of labor security card"
+    ],
+    "sources_and_references": [
+      "Guideline",
+      "Amendment"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible under the scheme?",
+      "answer": "Benefits such as maternity assistance or scholarship are claimable as per scheme guidelines and eligibility at that time."
+    },
+    {
+      "question": "Is it only for rural labourers?",
+      "answer": "Yes, primarily for those in rural/agriculture-based sectors."
+    },
+    {
+      "question": "What is the age range for the applicant?",
+      "answer": "18 to 60 years."
+    },
+    {
+      "question": "Can a female labourer apply in her own name?",
+      "answer": "Yes, a registered female labourer can apply for benefits."
+    },
+    {
+      "question": "What maternity assistance is provided?",
+      "answer": "Assistance to the wife of a registered labourer or registered female labourer as per scheme norms."
+    },
+    {
+      "question": "Are children of labourers eligible for scholarships?",
+      "answer": "Yes, children of registered labourers are eligible for scholarships under the scheme."
+    },
+    {
+      "question": "Is there insurance cover under this scheme?",
+      "answer": "Yes, registered labourers receive insurance cover under relevant labour welfare provisions."
+    },
+    {
+      "question": "Where to apply?",
+      "answer": "At the Gram Panchayat or Janpad office in the applicant’s area."
+    },
+    {
+      "question": "Can a labourer register under multiple welfare boards?",
+      "answer": "The labourer should not be registered under the State Building & Other Construction Workers Welfare Board to apply under this scheme."
+    },
+    {
+      "question": "How many times can benefits be claimed?",
+      "answer": "Benefits such as maternity assistance or scholarship are claimable as per scheme guidelines and eligibility at that time."
+    }
+  ]
+}

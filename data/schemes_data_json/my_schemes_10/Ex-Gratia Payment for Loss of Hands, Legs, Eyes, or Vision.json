@@ -1,0 +1,60 @@
+{
+  "scheme_name": "Ex-Gratia Payment for Loss of Hands, Legs, Eyes, or Vision",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/exgalimbseye",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Ex-Gratia Payment for Loss of Hands, Legs, Eyes, or Vision",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Ex-Gratia Payment for Loss of Hands, Legs, Eyes, or Vision” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial relief to individuals who suffer physical disabilities such as loss of limbs or vision as a result of disasters or while participating in relief and preparedness activities."
+    ],
+    "benefits": [
+      "Under this scheme, an ex-gratia grant of ₹74,000/- is provided to each affected person. In cases where the disability exceeds 60%, a higher amount of ₹2,50,000/- per person is provided."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be either disaster-affected individual or involved in disaster relief or preparedness-related activities.",
+      "The extent and cause of the disability must be certified by a doctor from a government hospital or dispensary."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+      ]
+    },
+    "documents_required": [
+      "Medical Disability Certificate (issued by Government Hospital or Authorized Medical Officer)",
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 304)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to receive assistance under this scheme?",
+      "answer": "Both disaster-affected persons and individuals involved in relief or preparedness-related work are eligible for financial assistance under this scheme."
+    },
+    {
+      "question": "What type of disabilities are covered under the scheme?",
+      "answer": "The scheme covers disabilities such as the loss of hands, legs, eyes, or complete loss of vision caused by a disaster or while engaged in disaster-related activities."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "An ex-gratia grant of ₹74,000/- is provided per person. In cases where the disability exceeds 60%, a higher amount of ₹2.50 lakh per person is sanctioned."
+    },
+    {
+      "question": "How is the level of disability determined?",
+      "answer": "The level and cause of disability must be verified and certified by a doctor from a government hospital or dispensary."
+    },
+    {
+      "question": "Who verifies the information regarding the disaster and the affected individuals?",
+      "answer": "The concerned Patwari verifies the damage and records it in the P-20 form, which is further verified by the Tehsildar and Sub-Divisional Magistrate (SDM)."
+    },
+    {
+      "question": "How are the relief funds disbursed to beneficiaries?",
+      "answer": "Once approved by the District Magistrate, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+    }
+  ]
+}

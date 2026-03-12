@@ -1,0 +1,71 @@
+{
+  "scheme_name": "Solar Energy Assistance Scheme (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/seasukbocwwb",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Solar Energy Assistance Scheme (UKBOCWWB)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Solar Energy Assistance Scheme” is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide solar energy plates/panels to the families of registered construction workers."
+    ],
+    "benefits": [
+      "Under this scheme, solar energy plates/panels will be provided, and for maintenance and service charges, beneficiaries will have to contact the concerned supplier."
+    ],
+    "eligibility": [
+      "The applicant must be a registered construction worker with the Uttarakhand Building and Other Construction Workers Welfare Board."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "The online application can be submitted through Shramik Suvidha Kendras. Along with the application form, applicants are required to attach a self-attested photocopy of their Shramik Card, Aadhaar Card, Self-Declaration Certificate, and a certificate confirming that no similar benefit has been availed from any other department.",
+        "After verification during the departmental investigation, solar energy plates/panels are provided to the beneficiary through the concerned supplier/dealer.",
+        "This benefit can be availed only once in a lifetime."
+      ]
+    },
+    "documents_required": [
+      "Labour Card",
+      "Aadhaar Card",
+      "Self-Declaration Certificate",
+      "A certificate confirming that no similar benefit has been availed from any other department"
+    ],
+    "sources_and_references": [
+      "Scheme Details (Page No. 53)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Only registered construction workers with the UKBOCWWB are eligible to apply for this scheme."
+    },
+    {
+      "question": "What benefit is provided under the scheme?",
+      "answer": "The eligible beneficiary’s family receives solar energy plates/panels through the concerned supplier/dealer."
+    },
+    {
+      "question": "Can a worker avail this benefit more than once?",
+      "answer": "No. The benefit under this scheme can be availed only once in a lifetime by a registered worker."
+    },
+    {
+      "question": "Who provides the solar energy plates/panels?",
+      "answer": "The solar energy plates/panels are provided through suppliers/dealers designated by the department."
+    },
+    {
+      "question": "Who is responsible for the maintenance of the solar panels?",
+      "answer": "Beneficiaries must contact the concerned supplier/dealer for maintenance and service-related issues."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applications can be submitted online through Shramik Suvidha Kendras along with the required documents."
+    },
+    {
+      "question": "Who can benefit from the scheme?",
+      "answer": "The solar energy plates/panels are provided to the family of the registered construction worker."
+    },
+    {
+      "question": "How is the application verified?",
+      "answer": "After submission, applications undergo departmental investigation to verify the details and documents provided by the applicant."
+    }
+  ]
+}

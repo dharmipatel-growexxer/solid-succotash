@@ -1,0 +1,63 @@
+{
+  "scheme_name": "Yuvak Mangal Dal and Mahila Mangal Dal Swavalamban Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ymdwmdsrs",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Yuvak Mangal Dal and Mahila Mangal Dal Swavalamban Yojana",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Yuvak Mangal Dal and Mahila Mangal Dal Swavalamban Yojana” was launched by the Department of Youth Welfare and prantiy rakshak dal (PRD), Government of Uttarakhand. The scheme aims to promote self-reliance among village-level male and female youth groups (Mangal Dals) by providing financial support for the purchase of essential materials, enabling them to become self-reliant and undertake community-based activities."
+    ],
+    "benefits": [
+      "Under this scheme, financial assistance of ₹14,268/- is provided to purchase essential materials for community use, aimed at making the Mangal Dals self-reliant."
+    ],
+    "eligibility": [
+      "The applicant must be a recognized Yuvak Mangal Dal or Mahila Mangal Dal in Uttarakhand, formally affiliated with the Department of Youth Welfare and PRD, Government of Uttarakhand."
+    ],
+    "application_process": {
+      "offline": [
+        "The groups must pass a resolution in the Gram Panchayat general meeting and submit it to the PRD office. The proposal should be accompanied by the Aadhaar cards of all members, a permanent residence certificate, and the group’s bank account details.",
+        "If the proposal is found appropriate by a committee headed by the Chief Development Officer, the District Youth Welfare Officer is directed to recommend the payment, which is then credited to the group’s bank account."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of All Group Members",
+      "Permanent Residence Certificates of All Group Members",
+      "Bank Account Details of the Group"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 105)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much financial support is given?",
+      "answer": "Financial assistance of ₹14,268/- per group."
+    },
+    {
+      "question": "Who can apply under this scheme?",
+      "answer": "Only Yuvak Mangal Dal and Mahila Mangal Dals are affiliated with the Youth Welfare & PRD Department."
+    },
+    {
+      "question": "Is this scheme open to individuals?",
+      "answer": "No, only registered groups (Mangal Dals) are eligible."
+    },
+    {
+      "question": "What are the documents required?",
+      "answer": "Aadhaar and residence certificates of members, group bank details, and approved Gram Sabha proposal."
+    },
+    {
+      "question": "How is the proposal submitted?",
+      "answer": "It is submitted to the PRD office after Gram Sabha approval."
+    },
+    {
+      "question": "Who approves the proposal?",
+      "answer": "A committee chaired by the Chief Development Officer."
+    },
+    {
+      "question": "How is the payment made?",
+      "answer": "Directly into the group’s official bank account."
+    }
+  ]
+}

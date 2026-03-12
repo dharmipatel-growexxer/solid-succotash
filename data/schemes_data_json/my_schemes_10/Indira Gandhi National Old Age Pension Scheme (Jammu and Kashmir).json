@@ -1,0 +1,100 @@
+{
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme (Jammu and Kashmir)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ignoapsjak",
+  "location_name": "Jammu and Kashmir",
+  "location_type": "union_territory",
+  "page_title": "Indira Gandhi National Old Age Pension Scheme (Jammu and Kashmir)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched on 15th August 1995, the \"Indira Gandhi National Old Age Pension Scheme\" is a pension scheme by the Social Welfare Department, Union Territory of Jammu and Kashmir. The scheme provides financial assistance to Below Poverty Line (BPL) households. Individuals aged 60 to 79 years are eligible to receive a monthly pension of ₹1,000/- as part of the old-age pension support."
+    ],
+    "benefits": [
+      "Amount of Pension:",
+      "₹1000/- per month.",
+      "Mode of Disbursement:",
+      "The amount is disbursed directly to the beneficiary through bank transfers or money orders."
+    ],
+    "eligibility": [
+      "The applicant should be a Jammu and Kashmir.",
+      "The applicant should be 60 years of age or older.",
+      "The applicant should belong to a Below Poverty Line (BPL) family."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant should visit the Tehsil Social Welfare Officer (TSWO) in the concerned area. during office hours and request a hard copy of the",
+        "prescribed application form",
+        "from the concerned authority.",
+        "Step 2:",
+        "Fill in all the mandatory fields in the application form. Paste a passport-sized photograph (signed across, if required), and attach copies of all necessary documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Tehsil Social Welfare Officer (TSWO).",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "Post Application Processes",
+        "The TSWO verifies the submitted forms and forwards them to the District Social Welfare Officer (DSWO) for review.",
+        "The District Level Committee reviews the application and sanctions the pension.",
+        "NOTE 1:",
+        "Upon submission of the completed application form and the necessary documents, make sure to take a photocopy of the filled application form and the acknowledgement receipt for your future reference.",
+        "NOTE 2:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Passport-size Photograph",
+      "Identity Proof i.e. Voter ID Card or Driving License",
+      "Proof of Age",
+      "Below Poverty Line (BPL) Card/ Ration Card",
+      "Caste Certificate (if applicable)",
+      "Address Proof",
+      "Bank Passbook/Bank Account Details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 4)",
+      "Website",
+      "Application Form",
+      "Amendment (Page No. 2)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Indira Gandhi National Old Age Pension Scheme?",
+      "answer": "The scheme provides financial assistance to elderly individuals (60-79 years) from Below Poverty Line (BPL) families, offering a monthly pension of ₹1,000."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Individuals aged 60 to 79 years who belong to Below Poverty Line (BPL) families are eligible."
+    },
+    {
+      "question": "How much pension is provided under this scheme?",
+      "answer": "Eligible beneficiaries receive ₹1,000 per month as an old-age pension"
+    },
+    {
+      "question": "How is the pension funded?",
+      "answer": "The pension is funded 70% by the Central Government and 30% by the State Government of Jammu and Kashmir."
+    },
+    {
+      "question": "What is the purpose of this scheme?",
+      "answer": "The scheme aims to provide financial security to elderly individuals in need, ensuring social justice for the most vulnerable sections of society."
+    },
+    {
+      "question": "When was the scheme launched?",
+      "answer": "The scheme was launched on 15th August 1995 under the National Social Assistance Programme (NSAP)."
+    },
+    {
+      "question": "Can people above 79 years of age apply?",
+      "answer": "No, the scheme is available only for individuals aged between 60 and 79 years."
+    },
+    {
+      "question": "How do I apply for the pension?",
+      "answer": "Applications can be submitted through the Social Welfare Department of Jammu and Kashmir, either online or at designated local offices."
+    },
+    {
+      "question": "Is there any income limit for eligibility?",
+      "answer": "Yes, applicants must belong to Below Poverty Line (BPL) households to qualify for the scheme."
+    }
+  ]
+}

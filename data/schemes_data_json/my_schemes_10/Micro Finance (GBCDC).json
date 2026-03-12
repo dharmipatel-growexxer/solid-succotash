@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Micro Finance (GBCDC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mfgbcdc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Micro Finance (GBCDC)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Micro Finance (GBCDC)\" by the Social Justice and Empowerment Department, Government of Gujarat, aims to create self-employment for men from the backwards classes. Through this scheme, low interest rates and financial help are provided to the backwards class men. The scheme is implemented by the Gujarat Backwards Classes Development Corporation."
+    ],
+    "benefits": [
+      "The maximum loan limit under this scheme is up to ₹1,25,000/-.",
+      "The interest rate in these schemes is 5 percent per annum.",
+      "In these schemes, 90 per cent of the unit cost will be provided as a loan, with 90 per cent from the national corporation, 5 per cent from the state government, and 5 per cent from the beneficiary contribution.",
+      "This loan is to be repaid in 48 equal monthly instalments, including interest."
+    ],
+    "eligibility": [
+      "The applicant should belong to a socially and educationally backwards class.",
+      "The total annual income of the applicant's family should not exceed ₹3,00,000/-.",
+      "The applicant's age should be between 21 and 45 years as on the date of application.",
+      "The applicant must have experience in a business requiring technical and other skills."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Gujarat Backwards Caste Development Corporation.",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Online\".",
+        "Step 3:",
+        "If you’re a new user, click on \"New Registration\" Enter personal details (name, mobile number, email, aadhaar number, etc.), create a password, and complete OTP verification.",
+        "Step 4:",
+        "Use your registered credentials (User ID and password) to log in.",
+        "Step 5:",
+        "Click on “New Application”. Select “Micro Finance Scheme” from the list of available schemes.",
+        "Step 6:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc.",
+        "Address Information: Permanent and correspondence address",
+        "Income Details: Monthly family income and source",
+        "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details: For loan disbursement",
+        "Step 7:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 8:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 9:",
+        "You will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof",
+      "Address Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Bank Account Passbook",
+      "Passport‑size Photographs"
+    ],
+    "sources_and_references": [
+      "Official Guidelines",
+      "Scheme Details",
+      "Application Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the scheme about?",
+      "answer": "This scheme is a micro-credit initiative aimed at generating self-employment for men from the backwards classes."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Men belonging to a socially and educationally backwards class are eligible to apply."
+    },
+    {
+      "question": "What is the age requirement to apply for the scheme?",
+      "answer": "The applicant's age must be between 21 and 45 years as on the date of application."
+    },
+    {
+      "question": "Do I need any specific experience to be eligible for the loan?",
+      "answer": "Yes, the applicant must have experience in a business requiring technical and other skills."
+    },
+    {
+      "question": "What is the interest rate for the scheme loan?",
+      "answer": "The interest rate for this loan is 5 per cent per annum."
+    },
+    {
+      "question": "From which sources does the 90 percent loan amount come from?",
+      "answer": "90 per cent of the loan will be from the national corporation, 5 per cent from the state government, and 5 per cent from the beneficiary's contribution."
+    },
+    {
+      "question": "How many instalments do I have to repay the loan in?",
+      "answer": "This loan is to be repaid in 48 equal monthly instalments, including interest."
+    },
+    {
+      "question": "Where can I find the online application form for this scheme?",
+      "answer": "The online application form is available at https://gbcdconline.gujarat.gov.in."
+    },
+    {
+      "question": "Where can I find more details about the scheme service?",
+      "answer": "You can find more details on the service's dedicated site at https://gbcdconline.gujarat.gov.in."
+    },
+    {
+      "question": "Do I need to be currently unemployed to qualify for the loan?",
+      "answer": "The scheme targets individuals for self-employment, implying it is for those seeking employment or to establish their own business."
+    },
+    {
+      "question": "Does the scheme cover all social and economic standards?",
+      "answer": "Yes, the scheme applies to individuals of any social and economic standard within the eligible backwards classes."
+    }
+  ]
+}

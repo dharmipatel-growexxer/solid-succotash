@@ -1,0 +1,74 @@
+{
+  "scheme_name": "Deployment of Prantiya Rakshak Dal (PRD) Volunteers (For volunteer & their Dependents)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dprdvd",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Deployment of Prantiya Rakshak Dal (PRD) Volunteers (For volunteer & their Dependents)",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Deployment of Prantiya Rakshak Dal (PRD) Volunteers\" was launched by the Department of Youth Welfare and prantiy rakshak dal (PRD), Government of Uttarakhand. The scheme aims to provide financial assistance to PRD volunteers, or to their dependents in the event of death, disability, or injury sustained while on duty."
+    ],
+    "benefits": [
+      "In the event of death, permanent disability, or an accident during duty under adverse conditions, financial assistance is provided as follows:",
+      "Death during communal riots: ₹2.00 lakh",
+      "Death during special high-risk duty: ₹1.50 lakh",
+      "Death during normal duty: ₹1.00 lakh",
+      "Permanent disability: Half of the ex-gratia amount admissible for the higher category.",
+      "Serious injury: One-fourth of the ex-gratia amount admissible."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a trained Prantiya Rakshak Dal (PRD) volunteer or a legal dependent of a PRD volunteer (in the event of the volunteer’s death)."
+    ],
+    "application_process": {
+      "offline": [
+        "In the event of the death of a PRD volunteer, or for their dependent, the application must be submitted to the District Youth Welfare and PRD Office along with the death certificate, training certificate, and survivor certificate.",
+        "In the event of a disability, a medical certificate must be submitted.",
+        "For a dependent, a copy of the dependent's birth certificate, survivor certificate, bank account details, and family register or ration card must also be provided.",
+        "After assessing the adverse circumstances, the department disburses the financial assistance to the PRD volunteer or their dependents."
+      ]
+    },
+    "documents_required": [
+      "In Case of Death",
+      "Death Certificate",
+      "PRD Training Certificate",
+      "Survivor Certificate",
+      "Dependent’s Birth Certificate",
+      "Bank Account Details",
+      "Copy of Ration Card/Family Register",
+      "In Case of Disability/Injury:",
+      "Medical Certificate confirming nature and severity of disability",
+      "Identity Proof"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 103)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who are the beneficiaries of the scheme?",
+      "answer": "Trained PRD volunteers and their legal dependents in the event of the volunteer’s death are eligible for financial assistance."
+    },
+    {
+      "question": "What types of incidents are covered under this scheme?",
+      "answer": "The scheme covers death, permanent disability, and serious injuries sustained during duty under adverse conditions."
+    },
+    {
+      "question": "How is financial assistance determined in case of death?",
+      "answer": "Financial assistance is provided based on the nature and severity of the incident."
+    },
+    {
+      "question": "Who can apply for financial assistance under the scheme?",
+      "answer": "A trained PRD volunteer or their legal dependent can apply for assistance."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Applications must be submitted to the District Youth Welfare and PRD Office."
+    },
+    {
+      "question": "How is the application processed?",
+      "answer": "The department assesses the adverse circumstances of the incident before approving the financial assistance."
+    }
+  ]
+}

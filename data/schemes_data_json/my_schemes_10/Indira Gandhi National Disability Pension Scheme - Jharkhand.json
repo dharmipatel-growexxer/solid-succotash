@@ -1,0 +1,84 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme - Jharkhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/igndpsj",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Indira Gandhi National Disability Pension Scheme - Jharkhand",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Indira Gandhi National Disability Pension Scheme\" is implemented by the Department of Women, Child Development & Social Security, Government of Jharkhand. Under this scheme, financial assistance is provided to severely disabled and multi-disabled individuals aged 18 and above who are living below the poverty line (BPL) to support them in living a respectful life."
+    ],
+    "benefits": [
+      "Under this scheme, eligible beneficiaries will receive a monthly pension of ₹1000/- (Central contribution- ₹300/-, State Contribution- ₹700/-)."
+    ],
+    "eligibility": [
+      "The age of the applicant should be 18 years or above.",
+      "The applicant's name should be included in the list of families living Below Poverty Line.",
+      "The applicant should be suffering from severe or multiple disabilities",
+      "(Rights of Persons with Disabilities Act, 2016 & Section-2.",
+      "The applicant should not be receiving pension benefits from any other Central or State Government pension scheme (Chief Minister State Widow Honor Pension Scheme (formerly State Widow Honor Pension Scheme), Chief Minister State HIV/AIDS Affected Person Sahayataarth Pension Scheme (formerly State Security Pension Scheme for HIV/AIDS Affected Persons) and Swami Vivekanand Disabled Self-Reliance Promotion Scheme)."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 2:",
+        "Submit the duly filled and signed application form along with the documents to the Block Development Officer in rural areas and the concerned Zonal Officer in urban areas."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card or Self-Declaration (if an Aadhaar card is not available).",
+      "Voter ID Card.",
+      "Disability Certificate.",
+      "Bank Account Passbook.",
+      "Declaration."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the benefits provided under this scheme?",
+      "answer": "Beneficiaries receive a monthly pension of ₹1,000 (₹300 from the Central Government and ₹700 from the State Government)."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Applicants must be 18 years or older, live below the poverty line (BPL), and have severe or multiple disabilities as defined under the Rights of Persons with Disabilities Act, 2016."
+    },
+    {
+      "question": "What is meant by \"severe disability\" under this scheme?",
+      "answer": "Severe disability is defined as a disability level of 80% or more in one or more areas."
+    },
+    {
+      "question": "What does \"multiple disabilities\" mean in the context of this scheme?",
+      "answer": "Multiple disabilities refer to an individual having more than one specified disability, such as a combination of visual and hearing impairments."
+    },
+    {
+      "question": "Is there an age limit for applying to the scheme?",
+      "answer": "Yes, applicants must be at least 18 years old."
+    },
+    {
+      "question": "Does the applicant need to be a native of Jharkhand to be eligible?",
+      "answer": "Yes, only residents of Jharkhand are eligible for this scheme."
+    },
+    {
+      "question": "Can an individual receiving pension benefits from another Central or State Government scheme apply for this scheme?",
+      "answer": "No, applicants who already receive a pension from another government scheme are not eligible."
+    },
+    {
+      "question": "What is the offline application process for rural areas?",
+      "answer": "Rural applicants must submit their applications to the Block Development Officer along with required documents."
+    },
+    {
+      "question": "What is the offline application process for urban areas?",
+      "answer": "Urban applicants should submit their applications to the Zonal Officer, providing all necessary documentation."
+    },
+    {
+      "question": "Who has the authority to approve or reject applications?",
+      "answer": "The Block Development Officer in rural areas and the Zonal Officer in urban areas are responsible for approving or rejecting applications based on eligibility and documentation."
+    }
+  ]
+}

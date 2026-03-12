@@ -1,0 +1,131 @@
+{
+  "scheme_name": "Scheme To Support Orphan Child/Children Of Widows Belonging To Scheduled Tribe Community",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ssoccwbstc",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Scheme To Support Orphan Child/Children Of Widows Belonging To Scheduled Tribe Community",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Scheme To Support Orphan Child/Children Of Widows Belonging To Scheduled Tribe Community” was launched by the Department of Tribal Welfare, Government of Goa. The scheme aims to give financial support to the orphan children and the children of widows for meeting the expenditure on food, clothing, and shelter until the children attain the age of eighteen years. The applications for this scheme are accepted by the Directorate of Social Welfare (for widows) or the Directorate of Tribal Welfare (for guardians of orphans)."
+    ],
+    "benefits": [
+      "Fixed maintenance allowance of ₹1,500/- per month, per child of a widow.",
+      "Fixed maintenance allowance of ₹2,000/- per month, per child who is an orphan.",
+      "Disbursement Conditions/Criteria",
+      "The financial support is provided until the children attain the age of eighteen years.",
+      "For children of widows, the benefit is limited to two children.",
+      "Mode of Disbursement",
+      "For Children of Widows:",
+      "The amount is released to the beneficiary along with the benefits under the Dayanand Social Security Scheme (DSS).",
+      "For Orphans:",
+      "The benefit amount will be transferred through the Electronic Clearance System (ECS) to the Joint Account of the orphan and the guardian."
+    ],
+    "eligibility": [
+      "The applicant must belong to the Scheduled Tribe (ST) Community.",
+      "For Children of Widows (Applicant is the Widow)",
+      "The applicant must be a Dayanand Social Security Scheme (DSSS) beneficiary.",
+      "The applicant must have minor children.",
+      "For Orphans (Applicant is the Guardian)",
+      "The applicant must be the guardian of an orphan.",
+      "The orphan must be under the care of a guardian, which includes grandparents, near relatives, or a protective home/dharmasala.",
+      "The orphan must be up to the age of eighteen years."
+    ],
+    "application_process": {
+      "offline": [
+        "For Widows (Dayanand Social Security Scheme Beneficiaries)",
+        "Step 1:",
+        "Application Submission",
+        "The applicant, who is a widow and a beneficiary of the Dayanand Social Security Scheme, must apply in the prescribed Application Form (",
+        "Annexure A",
+        ") to the Directorate of Social Welfare.",
+        "Step 2:",
+        "Scrutiny and Sanction",
+        "The Director of Social Welfare will sanction the amount of benefit under the scheme after scrutinizing the application.",
+        "Step 3:",
+        "Fund Release and Disbursement",
+        "The Director of Tribal Welfare will release the sanctioned amount upon receipt of the sanction order information to the Director of Social Welfare, who in turn will release the amount to the beneficiary along with the benefits under the Dayanand Social Security Scheme.",
+        "For Orphans (Guardians)",
+        "The guardian of an orphan must apply in the prescribed Application Form (",
+        "Annexure B",
+        ") to the Directorate of Tribal Welfare.",
+        "After the scrutiny of the application, the Director of Tribal Welfare will sanction the amount of benefit.",
+        "Fund Disbursement",
+        "The amount of benefit will be transferred through the Electronic Clearance System (ESC) to the Joint Account of the orphan and the guardian."
+      ]
+    },
+    "documents_required": [
+      "For Children Of Widows (Application To Directorate Of Social Welfare)",
+      "Marriage Certificate Of The Applicant.",
+      "Death Certificate Of The Husband Of The Applicant.",
+      "Scheduled Tribe Certificate Issued By The Competent Authority.",
+      "Income Certificate.",
+      "Dayanand Social Security Scheme Beneficiary Evidence.",
+      "For Orphans (Application To Directorate Of Tribal Welfare)",
+      "Birth Certificate Of The Orphan Child.",
+      "Death Certificate Of The Father/Mother.",
+      "Copy Of The Election Card/Ration Card Of The Applicant (Guardian)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "If I am the legal guardian of an eligible orphan, where do I need to submit the application form (Annexure B) and supporting documentation?",
+      "answer": "The guardian of an orphan must submit the application in the prescribed form (Annexure B) to the Directorate of Tribal Welfare."
+    },
+    {
+      "question": "What is the total financial support amount provided every month to an eligible applicant who is a widow having minor children?",
+      "answer": "A fixed maintenance allowance of ₹1,500/- per month is provided for each eligible child belonging to the Scheduled Tribe Community."
+    },
+    {
+      "question": "How much is the fixed monthly maintenance allowance provided to the guardian responsible for meeting the needs of an orphan child?",
+      "answer": "The fixed maintenance allowance for a child who is an orphan is ₹2,000/- per month."
+    },
+    {
+      "question": "Is it absolutely mandatory for a widow seeking this support for her children to already be enrolled in the existing social security benefit plan?",
+      "answer": "Yes, the widow must be a Dayanand Social Security Scheme beneficiary belonging to the Scheduled Tribe Community to qualify for this support."
+    },
+    {
+      "question": "When a widow applies for financial assistance, what document is mandatory to confirm the passing of her spouse?",
+      "answer": "The applicant must submit the Death Certificate of the husband along with the application."
+    },
+    {
+      "question": "If I am an eligible widow applying for support for my minor children, is there any limitation on the maximum number of children who can receive this monthly financial assistance?",
+      "answer": "Yes, the benefit is restricted to a maximum of 2 children of the widow belonging to the Scheduled Tribe Community."
+    },
+    {
+      "question": "Until what specific age can a child who is an orphan receive the monthly maintenance allowance provided under this government initiative?",
+      "answer": "The financial support is granted until the child, who is an orphan, attains the age of 18 years."
+    },
+    {
+      "question": "As the guardian of an orphan, what primary identity proof of mine must be submitted along with the application?",
+      "answer": "A copy of the Election Card or Ration Card belonging to the guardian (the applicant) is required."
+    },
+    {
+      "question": "What is the specific financial mechanism used by the implementing department to transfer the maintenance allowance to the orphan’s account?",
+      "answer": "The benefit amount is transferred through the Electronic Clearance System into a Joint Account held by the orphan and the guardian."
+    },
+    {
+      "question": "Which specific document must the applicant submit to prove she is currently receiving benefits under the social security program?",
+      "answer": "The applicant must enclose evidence that she is a beneficiary of the Dayanand Social Security Scheme."
+    },
+    {
+      "question": "To which government office or department should a widow who is a beneficiary submit the necessary application documents to avail of the financial help?",
+      "answer": "Widows who are beneficiaries of the Dayanand Social Security Scheme must submit their application using Annexure A to the Directorate of Social Welfare."
+    },
+    {
+      "question": "What specific community background must the widow or orphan belong to in order to be considered for financial support under this scheme?",
+      "answer": "The widow or orphan child must belong to the Scheduled Tribe Community."
+    },
+    {
+      "question": "How is the financial support amount released to the widow beneficiary once the application has been approved and sanctioned?",
+      "answer": "The approved amount is released to the widow beneficiary alongside the existing benefits received under the Dayanand Social Security Scheme."
+    },
+    {
+      "question": "If any unforeseen problems or issues arise during the operation and implementation of this assistance program, which specific body is responsible for resolving them?",
+      "answer": "A committee chaired by the Secretary, Tribal Welfare, and including the Directors of Social Welfare, Tribal Welfare, and Women & Child Development, will address problems and issue directions."
+    }
+  ]
+}

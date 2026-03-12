@@ -1,0 +1,97 @@
+{
+  "scheme_name": "First Self Marriage Expenses",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fsme",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "First Self Marriage Expenses",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"First Self Marriage Expenses\" scheme was implemented by the Maharashtra Building and Other Construction Workers' Welfare Board, Labour Department Government of Maharashtra. Under this scheme, financial assistance of ₹30,000/- towards the first self-marriage expenses to the registered worker."
+    ],
+    "benefits": [
+      "Financial assistance of ₹30,000/- provided to registered construction worker for first marriage expenses."
+    ],
+    "eligibility": [
+      "The applicant should be engaged in building or construction work.",
+      "The applicant should be registered under the Maharashtra Building and Other Construction Workers Welfare Board."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant downloads the",
+        "application form",
+        "from the MBOCWW official website.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labor Commissioner / Government Labor Officer.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo.",
+      "Aadhaar Card.",
+      "Identity Card of Maharashtra Building and Other Construction Workers Welfare Board.",
+      "Bank Passbook.",
+      "Proof of Residence (One of Aadhaar Card/Passport/Driving Licence/Ration Sheet/Last Month's Electricity Bill/Gram Panchayat Certificate).",
+      "Marriage Certificate.",
+      "Affidavit for First Marriage."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the First Self Marriage Expenses scheme?",
+      "answer": "The scheme provides ₹30,000 in financial assistance to registered construction workers for their first marriage."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Any registered construction worker under the Maharashtra Building and Other Construction Workers Welfare Board can apply."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "₹30,000 is provided to cover the expenses for the worker’s first marriage."
+    },
+    {
+      "question": "Is the scheme only for the worker’s first marriage?",
+      "answer": "Yes, the scheme is specifically for the worker's first marriage."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Passport-size photo, Aadhaar card, the worker’s ID card, bank passbook, proof of residence, marriage certificate, and an affidavit for the first marriage."
+    },
+    {
+      "question": "Can both male and female workers apply for this scheme?",
+      "answer": "Yes, both male and female registered construction workers can apply."
+    },
+    {
+      "question": "Is the scheme available only in Maharashtra?",
+      "answer": "Yes, it is only available for workers registered in Maharashtra."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "The applicant needs to download the application form from the MBOCWW website, fill it out, attach the required documents, and submit it to the Labour Commissioner or Government Labour Officer."
+    },
+    {
+      "question": "Can I apply for this scheme after my marriage?",
+      "answer": "Yes, the applicant can apply after their first marriage, but ensure to provide a marriage certificate and other required documents."
+    },
+    {
+      "question": "Is there any income limit for applying?",
+      "answer": "No, there is no specific income limit for this scheme."
+    },
+    {
+      "question": "What proof of marriage is required?",
+      "answer": "A valid marriage certificate must be submitted along with an affidavit stating that it is your first marriage."
+    },
+    {
+      "question": "Can I reapply if I get married again?",
+      "answer": "No, the scheme is applicable only for the first marriage."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "scheme_name": "INDIRAMMA Old Age Pension (Urban)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ioap-u",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "INDIRAMMA Old Age Pension (Urban)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2006-07, the scheme \"INDIRAMMA Old Age Pension (Urban)\" by the Department of Rural Development, Government of Andhra Pradesh, aims to provide financial assistance to destitute elderly persons aged 65 years or above. To be eligible, they should be from a BPL family, be a resident of a district of Andhra Pradesh, and not be covered under any other Pension Scheme. The eligible individuals will be identified by their respective Ward Sabhas. The Bill Collector disburses the pension to the eligible individuals on the first date of every month."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+      "Mode of Disbursement:",
+      "The Bill Collector disburses the pension to the eligible individuals in the presence of Ward members and office bearers of DWCUA.",
+      "Time of Disbursement:",
+      "The pension is disbursed on the first date of every month."
+    ],
+    "eligibility": [
+      "The applicant should be from a Below Poverty Line (BPL) family.",
+      "The applicant should be from an urban area.",
+      "The applicant should be a local resident of a district of Andhra Pradesh.",
+      "The applicant should not be covered under any other Pension Scheme.",
+      "The applicant should be 65 years of age or above.",
+      "The applicant should be destitute (with little or no means of subsistence and no family or relative to depend upon).",
+      "*The eligible citizens will be identified by their respective Ward Sabhas. The register containing the list of eligible citizens will be shared by the Bill Collector with the Municipal Commissioner."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Identification of Eligible Persons",
+        "The Ward Sabha identifies eligible persons based on the eligibility criteria. A ward-wise register of eligible persons (Part A for existing pensioners, Part B for new eligible persons) is maintained by the Bill Collector.",
+        "Step 2:",
+        "Recommendation and Sanction",
+        "The Bill Collector sends Ward Sabha resolution recommending eligible persons to the Municipal Commissioner.",
+        "The Municipal Commissioner scrutinizes eligibility and sanctions pensions based on municipality-wise allocation.",
+        "Step 3:",
+        "Disbursement of Pensions",
+        "The Project Director (DRDA) sends pension acquittance list and funds to Municipal Commissioners.",
+        "The Municipal Commissioner issues cheques to Bill Collectors.",
+        "The Bill Collector disburses pensions to pensioners in the presence of Ward members and DWCUA office bearers."
+      ]
+    },
+    "documents_required": [
+      "Domicile Certificate",
+      "Proof of Age",
+      "Proof of Residence",
+      "Below Poverty Line (BPL) Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How is the INDIRAMMA Old Age Pension (Urban) scheme funded and disbursed to eligible applicants?",
+      "answer": "The pension is funded by the Government of Andhra Pradesh and disbursed by the Bill Collector on the first date of every month in the presence of Ward members and DWCUA office bearers."
+    },
+    {
+      "question": "What are the eligibility criteria for the INDIRAMMA Old Age Pension (Urban) scheme in Andhra Pradesh?",
+      "answer": "Applicants must be 65 years or older, from a BPL family, reside in an urban area of Andhra Pradesh, and not be covered under any other pension scheme. They should also be destitute with no means of subsistence or family support."
+    },
+    {
+      "question": "Who is responsible for identifying eligible individuals for the INDIRAMMA Old Age Pension (Urban) scheme?",
+      "answer": "Eligible individuals are identified by their respective Ward Sabhas based on the eligibility criteria provided by the scheme."
+    },
+    {
+      "question": "What is the role of the Bill Collector in the INDIRAMMA Old Age Pension (Urban) scheme?",
+      "answer": "The Bill Collector is responsible for disbursing the pension to eligible individuals on the first date of every month and maintaining the ward-wise register of eligible persons."
+    },
+    {
+      "question": "How does the Municipal Commissioner contribute to the INDIRAMMA Old Age Pension (Urban) scheme?",
+      "answer": "The Municipal Commissioner scrutinizes the eligibility of recommended applicants, sanctions pensions, and issues cheques to Bill Collectors for disbursement."
+    },
+    {
+      "question": "How are existing pensioners and new applicants categorized under the INDIRAMMA Old Age Pension (Urban) scheme?",
+      "answer": "Existing pensioners are listed in Part A of the ward-wise register, while new eligible persons are listed in Part B, maintained by the Bill Collector."
+    },
+    {
+      "question": "What happens after the Municipal Commissioner sanctions the pension under the INDIRAMMA Old Age Pension (Urban) scheme?",
+      "answer": "Once sanctioned, the Project Director (DRDA) sends the pension acquittance list and funds to the Municipal Commissioner, who then issues cheques to the Bill Collector for disbursement."
+    },
+    {
+      "question": "How often is the pension disbursed under the INDIRAMMA Old Age Pension (Urban) scheme?",
+      "answer": "The pension is disbursed monthly, specifically on the first date of every month, to eligible individuals."
+    },
+    {
+      "question": "What is the role of DWCUA office bearers in the INDIRAMMA Old Age Pension (Urban) scheme?",
+      "answer": "DWCUA office bearers are present during the disbursement of pensions to ensure transparency and proper distribution to eligible individuals."
+    },
+    {
+      "question": "Can individuals covered under other pension schemes apply for the INDIRAMMA Old Age Pension (Urban) scheme?",
+      "answer": "No, applicants must not be covered under any other pension scheme to be eligible for the INDIRAMMA Old Age Pension (Urban) scheme."
+    },
+    {
+      "question": "What is the age requirement for applicants under the INDIRAMMA Old Age Pension (Urban) scheme?",
+      "answer": "Applicants must be 65 years of age or older to qualify for the INDIRAMMA Old Age Pension (Urban) scheme."
+    },
+    {
+      "question": "What does it mean to be \"destitute\" under the INDIRAMMA Old Age Pension (Urban) scheme?",
+      "answer": "Being destitute means having little or no means of subsistence and no family or relatives to depend upon for support."
+    }
+  ]
+}

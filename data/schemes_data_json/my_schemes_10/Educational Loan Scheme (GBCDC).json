@@ -1,0 +1,143 @@
+{
+  "scheme_name": "Educational Loan Scheme (GBCDC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/elgbcdc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Educational Loan Scheme (GBCDC)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Educational Loan Scheme\" is implemented by the Gujarat Backward Classes Development Corporation (GBCDC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide financial support for higher technical and professional education to students belonging to belonging to socially and educationally backward classes. Under this scheme, loans are provided at concessional interest rates to eligible students pursuing approved graduate and postgraduate professional & technical courses in fields such as engineering, medical, MBA, MCA, etc."
+    ],
+    "benefits": [
+      "1. The maximum loan limit under this scheme is up to ₹ 15,00,000/-.",
+      "2.",
+      "The interest rate:",
+      "4% per annum for male students.",
+      "3.5% per annum for female students.",
+      "3.",
+      "Loan Contribution Breakdown:",
+      "90% by the National Corporation.",
+      "5% by the State Government.",
+      "5% by the beneficiary.",
+      "4.",
+      "The loan amount will include the following:",
+      "Admission fees and tuition fees",
+      "Accommodation and food expenses",
+      "Validity:",
+      "This loan is to be repaid in 60 equal monthly instalments, including interest. The loan must be repaid within 6 months of completing the course or 1 month after getting a job, whichever is earlier."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant should belong to a socially and educationally backward class.",
+      "The total annual family income should not exceed ₹3,00,000/-.",
+      "The student must have secured admission through a recognized entrance examination conducted by the Central or State Government, or through a selection process, with at least 50% marks in Class 12 or the qualifying examination.",
+      "The applicant should have secured admission in a recognized institution for one of the following courses:",
+      "MBA or its equivalent (recognized by AICTE)",
+      "Master of Computer Applications (MCA) or its equivalent (recognized by AICTE)",
+      "Graduate-level engineering courses conducted by IITs or other institutions (recognized by AICTE)",
+      "Medical or allied education such as Ayurvedic, Homeopathy, Unani, etc., from institutions recognized by the Medical Council of India",
+      "Diploma course in Hospitality Management recognized by the National Council of Hotel Management",
+      "Note:",
+      "Priority will be given to applicants whose family income is up to ₹1,50,000/- per annum."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the",
+        "official website",
+        "of the Gujarat Backwards Caste Development Corporation.",
+        "Step 2:",
+        "On the top menu bar, click on \"Apply Online\".",
+        "Step 3:",
+        "If you’re a new user, click on \"New Registration\" Enter personal details (name, mobile number, email, aadhaar number, etc.), create a password, and complete OTP verification.",
+        "Step 4:",
+        "Use your registered credentials (User ID and password) to log in.",
+        "Step 5:",
+        "Click on “New Application”. Select “Educational Loan Scheme” from the list of available schemes.",
+        "Step 6:",
+        "Fill out the Application Form, enter the following details:",
+        "Personal Information:",
+        "Name, gender, date of birth, caste, etc.",
+        "Address Information:",
+        "Permanent and correspondence address",
+        "Income Details:",
+        "Monthly family income and source",
+        "Loan Requirement:",
+        "Amount needed, proposed use (e.g., business, self-employment)",
+        "Bank Account Details",
+        ": For loan disbursement",
+        "Step 7:",
+        "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 8:",
+        "Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.",
+        "Step 9:",
+        "The Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Class 12 Marksheet/Qualifying Examination Marksheet",
+      "Admission Letter from a government-approved admission committee or under the government quota.",
+      "Fee Structure Certificate from the institution",
+      "Bank Account Details",
+      "Declaration/Proof of Non-Receipt of Assistance under the Hon'ble Chief Minister's Youth Self-Reliance Scheme (if applicable)."
+    ],
+    "sources_and_references": [
+      "Official Guidelines",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of this scheme?",
+      "answer": "This scheme provides financial support to socially and educationally backward class students to pursue graduate and postgraduate professional and technical education."
+    },
+    {
+      "question": "Who is eligible to apply under this scheme?",
+      "answer": "The applicant should belong to a socially and educationally backward class."
+    },
+    {
+      "question": "Is there any preference given based on family income?",
+      "answer": "Yes, preference is given if the applicant’s family income is up to ₹1,50,000 per annum."
+    },
+    {
+      "question": "What is the minimum percentage required in academics to apply under this scheme?",
+      "answer": "The applicant must have secured at least 50% marks in Class 12 or the qualifying examination."
+    },
+    {
+      "question": "What kind of admission process is required for eligibility under this scheme?",
+      "answer": "The student must have secured admission through a recognized entrance examination conducted by the Central/State Government or through a selection process with at least 50% marks in the qualifying examination."
+    },
+    {
+      "question": "Are there specific courses covered under this scheme?",
+      "answer": "Yes, this scheme covers MBA, MCA, graduate-level engineering, medical education, and hospitality management courses."
+    },
+    {
+      "question": "Does this scheme cover engineering courses from all institutions?",
+      "answer": "Only engineering courses conducted by IITs or other institutions recognised by AICTE are covered."
+    },
+    {
+      "question": "Is medical education included in this scheme?",
+      "answer": "Yes, medical education, including Ayurvedic, Homoeopathic, and Unani courses recognised by the Medical Council of India, is covered."
+    },
+    {
+      "question": "Is hospitality management covered under this scheme?",
+      "answer": "Yes, diploma courses in hospitality management recognized by the National Council of Hotel Management are included."
+    },
+    {
+      "question": "What expenses are covered under this scheme?",
+      "answer": "This scheme covers admission fees, tuition fees, accommodation, and food expenses."
+    },
+    {
+      "question": "Does this scheme deduct any other financial assistance before sanctioning?",
+      "answer": "Yes, the loan amount is sanctioned after deducting any amount received under the Mukhyamantri Yuva Swavalamban Yojana."
+    },
+    {
+      "question": "Will fees be paid if the student has failed or has ATKT?",
+      "answer": "No, if the student has failed or has ATKT, the fee for the second semester will not be paid."
+    }
+  ]
+}

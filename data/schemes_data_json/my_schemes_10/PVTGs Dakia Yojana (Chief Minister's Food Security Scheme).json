@@ -1,0 +1,81 @@
+{
+  "scheme_name": "PVTGs Dakia Yojana (Chief Minister's Food Security Scheme)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pdycmfss",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "PVTGs Dakia Yojana (Chief Minister's Food Security Scheme)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"PVTGs Dakia Yojana (Chief Minister's Food Security Scheme)\" by the Welfare Department, Government of Jharkhand, aims to ensure food security for Particularly Vulnerable Tribal Groups (PVTGs). Under this scheme, subsidized food grains are provided to PVTG families to improve their living conditions."
+    ],
+    "benefits": [
+      "Food Security for PTG Families:",
+      "Free provision of 35 kg of wheat and rice per family per month at ₹1 per kg.",
+      "Direct Village-Level Distribution:",
+      "Food grains are distributed at the village level by Block Welfare Officers.",
+      "Support for National Food Security:",
+      "Complements the \"Antyodaya Yojana\" by including all PVTG families in Jharkhand."
+    ],
+    "eligibility": [
+      "The applicant must belong to Particularly Vulnerable Tribal Groups (PVTGs).",
+      "The applicant’s family must be enrolled under the \"Antyodaya Yojana.\"",
+      "The family should reside in designated PVTG areas or remote locations."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail the benefits of the scheme, the eligible applicant may visit the nearest Block Welfare Office with all the relevant documents."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card (If applicable).",
+      "Ration Card (If applicable)."
+    ],
+    "sources_and_references": [
+      "Guidelines (New)",
+      "Guidelines (Old)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the PVTGs Dakia Yojana?",
+      "answer": "The PVTGs Dakia Yojana is a food security initiative launched by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, to provide subsidized food grains to PVTGs."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Families belonging to Primitive Tribal Groups (PTGs) and enrolled under the \"Antyodaya Yojana\" are eligible for this scheme."
+    },
+    {
+      "question": "What benefits are provided under this scheme?",
+      "answer": "Beneficiaries receive 35 kg of wheat and rice per family per month at a subsidized rate of ₹1 per kg."
+    },
+    {
+      "question": "Is there any cost to avail of the benefits under this scheme?",
+      "answer": "No, the food grains are provided free of cost to eligible beneficiaries."
+    },
+    {
+      "question": "How is the food distributed to beneficiaries?",
+      "answer": "Food grains are distributed at the village level by the Block Welfare Officers. Beneficiaries are notified in advance about the distribution schedule."
+    },
+    {
+      "question": "How can I apply for this scheme?",
+      "answer": "The applicant can apply from the Block Welfare Office, completing it with the necessary details, and submitting it along with the required documents."
+    },
+    {
+      "question": "Are there any exclusions under this scheme?",
+      "answer": "Yes, families not belonging to PVTGs or not enrolled under the Antyodaya Yojana are excluded from the scheme."
+    },
+    {
+      "question": "How is the scheme monitored?",
+      "answer": "The scheme is monitored by the District Welfare Officers and the Tribal Welfare Commissioner. Regular audits and reports ensure transparency."
+    },
+    {
+      "question": "What happens if a beneficiary family is unable to collect food grains?",
+      "answer": "Beneficiaries can inform the Block Welfare Office in advance. Arrangements may be made for an authorized person to collect the grains on their behalf."
+    },
+    {
+      "question": "How frequently are food grains distributed under this scheme?",
+      "answer": "Food grains are distributed every month, with each family entitled to 35 kg of wheat and rice."
+    }
+  ]
+}

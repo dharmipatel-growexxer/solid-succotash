@@ -1,0 +1,109 @@
+{
+  "scheme_name": "Mukhyamantri Madad Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mmmy",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Madad Yojana",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Mukhyamantri Madad Yojana\" scheme, launched by the Tribal Affairs Department, Government of Madhya Pradesh on 02.10.2019, aims to provide ration-related assistance to Scheduled Tribe families on the birth of a child and the death of a family member. Under this scheme, a Scheduled Tribe family receives 50kg of wheat or rice and cooking utensils from the Panchayat upon the birth of a child. In the event of a family member's death, the family is provided with 1 quintal of wheat or rice. Additionally, ₹25,000/- is allocated to each village, deposited in the bank account of the Gram Panchayat Secretary, for purchasing utensils.",
+      "The scheme covers 20 identified tribal districts of Madhya Pradesh. Rice is provided in six tribal districts: Mandla, Dindori, Balaghat, Shahdol, Anuppur, and Umaria. Wheat is provided in the remaining 14 districts: Jhabua, Alirajpur, Barwani, Ratlam, Hoshangabad, Betul, Sidhi, Seoni, Chhindwara, Dhar, Khargone, Khandwa, Burhanpur, and Sheopur."
+    ],
+    "benefits": [
+      "The scheme offers the following assistance to Scheduled Tribe families:",
+      "Birth of a Child:",
+      "Upon the birth of a boy or girl, the family will receive 50 kg of wheat and rice, along with cooking utensils, provided at the panchayat level.",
+      "Death of a Family Member:",
+      "In the event of a family member's death, the family will receive 1 quintal (100 kg) of either wheat or rice.",
+      "Note:",
+      "The food grains are provided to the beneficiaries free of cost."
+    ],
+    "eligibility": [
+      "The beneficiary should be a native of Madhya Pradesh.",
+      "The beneficiary should belong to the Scheduled Tribe category.",
+      "The beneficiary should reside in a rural area.",
+      "No family member should be employed in government service (Class 1/2/3) or hold a high-ranking post.",
+      "The beneficiary must reside in one of the 20 identified tribal districts of Madhya Pradesh: Mandla, Dindori, Balaghat, Shahdol, Anuppur, Umaria, Jhabua, Alirajpur, Barwani, Ratlam, Hoshangabad, Betul, Sidhi, Seoni, Chhindwara, Dhar, Khargone, Khandwa, Burhanpur, and Sheopur.",
+      "Note:",
+      "Benefits under the scheme are provided for the birth of the first or second child of the couple."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Eligible applicants should contact the Gram Panchayat Secretary to avail of the benefits under this scheme.",
+        "Step 2:",
+        "Register the birth or death on the SPR Portal (",
+        "http://spr.samagra.gov.in/",
+        ") through the Gram Panchayat Secretary.",
+        "Step 3:",
+        "At the time of registration of birth or death on the SPR Portal, the Gram Panchayat Secretary will select the beneficiaries and provide a help receipt for the benefit of this scheme.",
+        "Step 4:",
+        "On the basis of this help receipt, the beneficiary can get food grains from the fair price shop linked to that Gram Panchayat.",
+        "User Manual"
+      ]
+    },
+    "documents_required": [
+      "1. Identify proof",
+      "2. Domicile certificate of Madhya Pradesh",
+      "3. Caste certificate",
+      "4. Samagra ID",
+      "5. Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "User Manual",
+      "SPR Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "When was the scheme launched?",
+      "answer": "The scheme was launched on 2nd October 2019."
+    },
+    {
+      "question": "What assistance is provided under the scheme on the birth of a child?",
+      "answer": "Upon the birth of a child, the family receives 50 kg of wheat or rice and cooking utensils from the Panchayat."
+    },
+    {
+      "question": "What assistance is provided under the scheme on the death of a family member?",
+      "answer": "In the event of a family member's death, the family receives 1 quintal (100 kg) of wheat or rice."
+    },
+    {
+      "question": "Is the food grain provided under the scheme free of cost?",
+      "answer": "Yes, the food grain is provided to the beneficiaries free of cost."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "To be eligible, the beneficiary must be a native of Madhya Pradesh, belong to the Scheduled Tribe category, reside in a rural area, and have no family member employed in government service (Class 1/2/3) or holding a high-ranking post. They must reside in one of the 20 identified tribal districts."
+    },
+    {
+      "question": "Which districts are covered under the scheme?",
+      "answer": "The scheme covers Mandla, Dindori, Balaghat, Shahdol, Anuppur, Umaria, Jhabua, Alirajpur, Barwani, Ratlam, Hoshangabad, Betul, Sidhi, Seoni, Chhindwara, Dhar, Khargone, Khandwa, Burhanpur, and Sheopur districts."
+    },
+    {
+      "question": "Is the scheme applicable for both urban and rural areas?",
+      "answer": "No, the scheme is applicable only for rural areas."
+    },
+    {
+      "question": "Can a family with a government employee avail benefits under this scheme?",
+      "answer": "No, families with a member employed in government service (Class 1/2/3) or holding a high-ranking post are not eligible."
+    },
+    {
+      "question": "Is there a limit to the number of children for which the benefits can be claimed?",
+      "answer": "Yes, benefits under the scheme are provided for the birth of the first or second child of the couple."
+    },
+    {
+      "question": "How can eligible applicants avail benefits under the scheme?",
+      "answer": "Eligible applicants should contact the Gram Panchayat Secretary to avail benefits under this scheme."
+    },
+    {
+      "question": "Where should the birth or death be registered to avail benefits?",
+      "answer": "The birth or death should be registered on the SPR Portal (http://spr.samagra.gov.in/) through the Gram Panchayat Secretary."
+    },
+    {
+      "question": "Who selects the beneficiaries for the scheme?",
+      "answer": "The Gram Panchayat Secretary selects the beneficiaries at the time of registration of birth or death on the SPR Portal."
+    }
+  ]
+}

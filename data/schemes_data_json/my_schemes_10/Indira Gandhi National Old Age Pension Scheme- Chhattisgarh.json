@@ -1,0 +1,119 @@
+{
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme- Chhattisgarh",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ignoapsch",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "Indira Gandhi National Old Age Pension Scheme- Chhattisgarh",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Indira Gandhi National Old Age Pension Scheme\" is implemented by the Social Welfare Department, Government of Chhattisgarh. Under this scheme, financial assistance is provided to elderly people aged 60 years and above living Below the Poverty Line (BPL) to support them in living a respectful life. This scheme is centrally sponsored."
+    ],
+    "benefits": [
+      "Eligible beneficiaries under this scheme will receive monthly financial assistance as follows:",
+      "Beneficiaries aged 60 to 79 years:",
+      "₹500/- per month (Central contribution: ₹200/-, State contribution: ₹300/-).",
+      "Beneficiaries aged 80 years or above:",
+      "₹650/- per month (Central contribution: ₹500/-, State contribution: ₹150/-)."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Chhattisgarh.",
+      "The applicant should be a senior citizen.",
+      "The applicant should be 60 years of age or older.",
+      "The applicant's name should be included in the list of families living Below Poverty Line.",
+      "The applicant should not be receiving pension benefits from any other Central or State Government pension scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration Process:",
+        "Step 1:",
+        "Go to the",
+        "eDistrict Chhattisgarh Portal",
+        ".",
+        "Step 2:",
+        "Click on \"",
+        "Citizen Login",
+        "\".",
+        "Step 3:",
+        "If you are a new user, select \"",
+        "New Registration",
+        "Step 4:",
+        "Enter your registration details and click \"Submit\".",
+        "Step 5:",
+        "Your Registration Summary will be displayed, and you will receive your password on your registered mobile number.",
+        "Application Process:",
+        "Click on ‘Login’ or \"",
+        "Enter your username and password and click ‘Login’.",
+        "After logging in, click on \"My Service\" and search for the scheme to apply for.",
+        "Click on ‘Apply Online’ and fill in all required details, upload important documents, and click ‘Submit.’"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card of the applicant",
+      "Passport-size photograph",
+      "Identity proof",
+      "Domicile certificate of Chhattisgarh (Issued by a Gazetted Officer, Sarpanch or Councillor)",
+      "Proof of age (Doctor's certificate, Birth Certificate, Certificate issued by an Administrator, Sarpanch, or Mayor, school certificate, etc.)",
+      "Below Poverty Line (BPL) Card/related documents",
+      "Address proof",
+      "Bank Passbook/Post Office Account Passbook",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Guidelines",
+      "Notification",
+      "Online Application Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this pension scheme?",
+      "answer": "The applicant must be a native of Chhattisgarh, aged 60 years or older, listed as BPL, and not receiving pension benefits from any other Central or State Government scheme."
+    },
+    {
+      "question": "What is the monthly financial assistance provided under this scheme?",
+      "answer": "Beneficiaries aged 60 to 79 years receive ₹500 per month, while those aged 80 years or above receive ₹650 per month."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Proof of age, proof of residence in Chhattisgarh, BPL certificate, and a declaration that the applicant is not receiving benefits from other pension schemes."
+    },
+    {
+      "question": "Where can applicants obtain the application form for rural areas?",
+      "answer": "Application forms are available free of cost at the Gram Panchayat office."
+    },
+    {
+      "question": "What is the procedure for applying in rural areas?",
+      "answer": "Collect the application form from the Gram Panchayat, fill it out, submit it to the Gram Panchayat, and receive an acknowledgment receipt. The Gram Panchayat will then review and forward the application to the District Panchayat within 7 days."
+    },
+    {
+      "question": "Where can applicants obtain the application form for urban areas?",
+      "answer": "Application forms are available free of cost at the office of the Municipal Corporation, Municipality, Nagar Panchayat, or Panchayat Raj institution."
+    },
+    {
+      "question": "What is the process for applying in urban areas?",
+      "answer": "Collect the application form from the relevant urban body, fill it out, and submit it to the respective office. You will receive an acknowledgment receipt from the office."
+    },
+    {
+      "question": "What if there is no printed application form available in urban areas?",
+      "answer": "You may submit your application on plain paper if a printed form is not available."
+    },
+    {
+      "question": "How can applicants apply online?",
+      "answer": "Eligible individuals can apply through the eDistrict Chhattisgarh Portal: https://edistrict.cgstate.gov.in/PACE/login.do#login"
+    },
+    {
+      "question": "Can an applicant apply if they are already receiving a pension from another scheme?",
+      "answer": "No, applicants who are already receiving pension benefits from any other Central or State Government pension scheme are not eligible."
+    },
+    {
+      "question": "How often is the pension amount disbursed?",
+      "answer": "The pension is disbursed monthly."
+    },
+    {
+      "question": "Can the pension amount be transferred to a bank account?",
+      "answer": "Yes, the pension amount is usually transferred directly to the beneficiary’s bank account."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "scheme_name": "Term Loan Scheme (GMFDC)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/tlsgmfdc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Term Loan Scheme (GMFDC)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Term Loan Scheme\" is implemented by Gujarat Minorities Finance and Development Corporation (GMFDC) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to promote self-employment among individuals from the minority communities by providing financial assistance for agriculture and allied activities, small-scale businesses, craftsmanship, transport sector, traditional occupations, and service-based businesses/trades. Under this scheme, beneficiaries can avail loans at concessional interest rates to purchase equipment, raw materials, or working capital."
+    ],
+    "benefits": [
+      "Financial Assistance for Business:",
+      "Loans ranging from ₹1,00,000/- to ₹20,00,000/- are provided businesses/trades in various sectors listed below:",
+      "Agriculture and allied businesses, such as animal husbandry, fisheries, etc.",
+      "Technical & Skilled self-employment businesses.",
+      "Service-oriented businesses such as provision stores, ready-made garment shops, cyber cafés, cold drink parlors, auto repairing, beauty parlors, etc.",
+      "Handicraft businesses.",
+      "Transport sector.",
+      "Interest Rates:",
+      "For annual income up to ₹1,20,000/- (rural) and ₹1,20,000/- (urban), the interest rate is 6% per annum.",
+      "For families with annual income above ₹1,20,000/- and up to ₹8,00,000/-, the interest rate is 8% for male beneficiaries and 6% for female beneficiaries.",
+      "3. Repayment:",
+      "The loan amount has to be repaid to the corporation in 60 equal installments over five years, including interest."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should belong to a minority religious community (Muslim, Christian, Sikh, Jain, Buddhist, Parsi, or Jewish) or a linguistic community (Sindhi, Marathi, or Urdu) in the state of Gujarat.",
+      "The applicant, or any member of their family, should not have obtained a loan from Gujarat Minority Finance and Development Corporation Limited, Gujarat Backwards Class Development Corporation, Gandhinagar, including any other corporation/institution or bank of the Central or State Government.",
+      "The annual income of the applicant's family should be:",
+      "₹98,000/- for rural areas.",
+      "₹1,20,000/- for urban areas.",
+      "However, families with income exceeding ₹1,20,000/- and up to ₹8,00,000/- are also eligible, albeit with different interest rates.",
+      "The applicant's age should be between 21 and 45 years."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "Visit the Gujarat Minority Finance and Development Corporation",
+        "official website",
+        ".",
+        "Step 2:",
+        "Register as a new user with name, mobile number, email, Aadhaar number, and create a password.",
+        "Step 3:",
+        "In the form, provide all the mandatory fields, fill in the captcha code, and click \"Submit\" to complete the registration process. A pop-up will appear acknowledging successful registration and displaying your User ID for Login.",
+        "Application",
+        "Log in using your registered credentials. Select the Term Loan Scheme from the available schemes.",
+        "Fill in personal details, income information, business details, and bank account details.",
+        "Step 4:",
+        "Upload required documents: Identity Proof, Address Proof, Income Certificate, Minority Certificate, Educational Qualification Certificate, Experience Certificate (if any), Business Proposal, and Bank Passbook.",
+        "Step 5:",
+        "You will be taken to the online application form of the scheme. In the form, provide all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 6:",
+        "Carefully review all the information provided and the documents uploaded. Make corrections, if any.",
+        "Step 7:",
+        "Click \"Submit\" to submit your application. You'll receive a confirmation message. Note down your Application Number for future reference. You can also take a printout of the submitted application form.",
+        "Track Application Status",
+        "Navigate to the bottom of the home page, and click \"Your Application Status\".",
+        "On the next page, provide your Application Number, Date of Birth, and click \"View Status\". The current status of your application will be displayed.",
+        "Contact:",
+        "For any assistance, contact 079-23253843, 23254583, 23253757 or email md-gmfdcl@gujarat.gov.in."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity (Aadhaar Card, Voter ID, PAN Card, etc.)",
+      "Proof of Address (Utility Bill, Aadhaar Card, etc.)",
+      "Proof of Age (Birth Certificate, School Leaving Certificate, etc.)",
+      "Minority Community Certificate",
+      "Income Certificate",
+      "Educational Qualification Certificates (relevant to the business)",
+      "Experience Certificate (relevant to the business)",
+      "Bank Passbook/Statement",
+      "Business Project Report",
+      "Collateral/Guarantor Documents (as per loan amount)"
+    ],
+    "sources_and_references": [
+      "Information Leaflet On Economic Upliftment Schemes Of Gujarat Minority Finance And Development Corporation",
+      "Official Website",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Applicants from minority religious communities like Muslim, Christian, Sikh, Jain, Buddhist, Parsi, and Jewish or linguistic communities like Sindhi, Marathi, and Urdu in Gujarat can apply."
+    },
+    {
+      "question": "Is there any age limit to apply for the benefit?",
+      "answer": "Yes, applicants must be between 21 and 45 years of age."
+    },
+    {
+      "question": "Is it necessary to have technical education for availing the scheme?",
+      "answer": "Yes, applicants should possess either experience or the necessary technical education relevant to the business they intend to start."
+    },
+    {
+      "question": "Can I apply if I already received a loan from any other government corporation?",
+      "answer": "No, applicants or their family members should not have received a loan from GMFDC, Gujarat Backward Class Development Corporation, or any central/state government institution or bank."
+    },
+    {
+      "question": "What are the business sectors eligible under this scheme?",
+      "answer": "Eligible business sectors include agriculture, allied businesses, technical self-employment, service-type businesses, handicrafts, and the transport sector."
+    },
+    {
+      "question": "What is the mode of repayment for this scheme?",
+      "answer": "Repayment is made in 60 equal monthly instalments within five years."
+    },
+    {
+      "question": "Is there any penalty for delayed repayment?",
+      "answer": "Yes, a penal interest of 2% is charged on delayed payments."
+    },
+    {
+      "question": "Can both male and female applicants avail this scheme?",
+      "answer": "Yes, both male and female applicants can avail of the scheme, subject to income criteria and interest rates."
+    },
+    {
+      "question": "Where can I get the offline application form?",
+      "answer": "The application form can be obtained from the GMFDC office in Gandhinagar or from the District Deputy Director/District Social Welfare Officer (Developing Castes) in the respective districts."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "Documents required include the application form, identity proof, address proof, age proof, minority certificate, income certificate, educational qualification, experience certificate, bank passbook, business proposal, and collateral documents if needed."
+    },
+    {
+      "question": "Does this scheme aim to improve the technical skills of beneficiaries?",
+      "answer": "Yes, one of the objectives of the program is to help improve the technical and entrepreneurial skills of individuals from minority communities."
+    },
+    {
+      "question": "Can an applicant apply if they or their family have previously received a loan from this specific Corporation?",
+      "answer": "No, if the applicant or any member of their family has previously received a loan from Gujarat Minority Finance and Development Corporation Limited, they are not eligible."
+    }
+  ]
+}

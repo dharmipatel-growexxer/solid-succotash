@@ -1,0 +1,75 @@
+{
+  "scheme_name": "Financial Assistance for Construction of Toilet (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sctukbocwwb",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Financial Assistance for Construction of Toilet (UKBOCWWB)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The “Financial Assistance for Construction of Toilet” scheme is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide financial support to registered construction workers for building toilets. The financial assistance is disbursed in two installments."
+    ],
+    "benefits": [
+      "Under the scheme, registered construction workers receive financial assistance of ₹12,000/- in two installments for the construction of toilets.",
+      "First Installment:",
+      "₹8,000/-",
+      "Second Installment:",
+      "₹4,000/-"
+    ],
+    "eligibility": [
+      "The applicant must be a construction worker registered with the Uttarakhand Building and Other Construction Workers Welfare Board."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "The online application can be submitted through Shramik Suvidha Kendras. At the time of application, the following documents are required: Shramik Card, Aadhaar Card, Self-Declaration Certificate, Aadhaar-linked bank account details, and a photograph showing the worker along with the toilet under construction. The photograph must clearly show the toilet with concrete walls, roof with lintel, tank, water arrangement, and seat.",
+        "Land-related documents of the site where the toilet is constructed, such as Dakhal Kharij/Khatauni/Registry or land ownership certificate, along with a permanent residence certificate, must also be attached. Additionally, an affidavit is required stating that the applicant has not availed benefits from any other scheme and has not applied for assistance from any other department.",
+        "If the application is verified and found correct during the departmental investigation, the first installment is credited to the applicant’s bank account. After completion of the construction, the applicant must reapply after one month with all relevant documents to receive the second installment of ₹4,000/-."
+      ]
+    },
+    "documents_required": [
+      "Labour Card",
+      "Aadhaar Card",
+      "Self-Declaration Certificate",
+      "Aadhaar-linked bank account details",
+      "A photograph showing the worker along with the toilet under construction (Photograph must clearly show the toilet with concrete walls, roof with lintel, tank, water arrangement, and seat)",
+      "Land-related documents of the site where the toilet is constructed, such as Dakhal Kharij/Khatauni/Registry or land ownership certificate",
+      "A permanent residence certificate",
+      "An affidavit is required stating that the applicant has not availed benefits from any other scheme and has not applied for assistance from any other department."
+    ],
+    "sources_and_references": [
+      "Scheme Details (Page No. 54)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for financial assistance under the scheme?",
+      "answer": "Registered construction workers are eligible for financial assistance under this scheme."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Registered eligible construction workers receive ₹12,000/- in two installments for toilet construction."
+    },
+    {
+      "question": "How are the installments distributed?",
+      "answer": "The first installment is ₹8,000/- and the second installment is ₹4,000/-."
+    },
+    {
+      "question": "When is the first installment paid?",
+      "answer": "The first installment is paid into the beneficiary’s bank account upon successful completion of the departmental inquiry."
+    },
+    {
+      "question": "When is the second installment paid?",
+      "answer": "The second installment is paid after 1 month of the completion of construction, upon reapplication and verification."
+    },
+    {
+      "question": "What is required to receive the second installment?",
+      "answer": "The worker needs to reapply and provide all necessary documentation for the second installment."
+    },
+    {
+      "question": "How can one avail the benefits of the scheme?",
+      "answer": "Eligible applicants can visit the nearest Shram Suvidha Kendra with relevant documents to avail the benefits."
+    }
+  ]
+}

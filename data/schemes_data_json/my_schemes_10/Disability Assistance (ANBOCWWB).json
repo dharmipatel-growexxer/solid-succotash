@@ -1,0 +1,118 @@
+{
+  "scheme_name": "Disability Assistance (ANBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/daanbocwwb",
+  "location_name": "Andaman and Nicobar Islands",
+  "location_type": "union_territory",
+  "page_title": "Disability Assistance (ANBOCWWB)",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Disability Assistance” was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB), Department of Labour, Employment & Training, Andaman & Nicobar Administration. Under this scheme, the Secretary of the Board may sanction an amount not exceeding 25% of the total amount of compensation due, as calculated under the Employees Compensation Act 1923 on the production of a certificate from competent medical authorities in respect of the percentage of disability along with application for grant of assistance along with last pay slip & age proof. The ex-facto approval from the Board shall be obtained for the same."
+    ],
+    "benefits": [
+      "Under this scheme, the Board may sanction an amount not exceeding 25% of the total amount of compensation due, as calculated under the Employees Compensation Act 1923 on the production of a certificate from competent medical authorities in respect of the percentage of disability."
+    ],
+    "eligibility": [
+      "The beneficiary should be a resident of the Union territory of Andaman & Nicobar Islands.",
+      "The beneficiary should be engaged in any building & other construction work.",
+      "The beneficiary should be registered under the A&N Islands Building and Other Construction Workers Welfare Board.",
+      "The beneficiary should have an active membership of the Board.",
+      "Construction workers who become disabled due to an accident during the course of their employment are eligible to apply under the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Portal Registration Process:",
+        "Step 01:",
+        "Visit the online Portal:",
+        "https://serviceonline.gov.in/",
+        "Step 02:",
+        "On the home page, click on ‘Register’ and fill in all the mandatory details.",
+        "Step 03:",
+        "Click on the ‘Submit’ button and validate your Email ID & Mobile Number using OTP received.",
+        "Step 04:",
+        "After successful validation, the applicant will be registered.",
+        "Registration Process of Construction Workers under A&N Islands Building & Other Construction Workers Welfare Board:",
+        "Applicant can",
+        "login",
+        "through their email ID that is used while registering",
+        "Enter Password & Captcha",
+        "Click on ‘Login’",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’",
+        "Step 05:",
+        "Now, search for the “Registration of Construction Workers in AN BOCWWB” and then click to proceed registration process.",
+        "Step 06:",
+        "Fill in all the mandatory details and upload all the relevant documents.",
+        "Step 07:",
+        "Preview the form and click on ‘Submit’.",
+        "Step 08:",
+        "After successful registration, the applicant will receive a registration ID.",
+        "Application Process for Disability Financial Assistance:",
+        "Now, to avail the benefits of the scheme, the applicants can",
+        "Now, search for the ‘Disability Financial Assistance’ and click on the scheme to proceed to fill out the application form.",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Preview the application form and click on ‘Submit’.",
+        "Application Tracking:",
+        "To track the application status, the applicant can visit the online Portal and",
+        "through their ‘User ID’ & ‘Password’.",
+        "On the home page, click on “View Application Status’ and then click on ‘Track Application Status’.",
+        "Enter the Application Reference Number and click on ‘Get Data’ to know the status of your application."
+      ]
+    },
+    "documents_required": [
+      "Documents required for registration under A&N Islands Building & Other Construction Workers Welfare Board:",
+      "Passport size photograph",
+      "Proof of age",
+      "Identity proof",
+      "Details of EPF, if any",
+      "Proof of address",
+      "90 Days Work Duration Certificate issued by the competent authority",
+      "Bank account details",
+      "Any other document as required",
+      "Documents required for Disability Assistance Scheme:",
+      "Registration ID Card of Worker",
+      "Identity proof of worker i.e. Aadhaar Card",
+      "Latest Subscription Receipt",
+      "Last pay slip",
+      "Proof of age proof",
+      "Medical certificate in respect of the percentage of disability from the competent medical authority",
+      "Address proof",
+      "Bank account details of worker/Copy of passbook"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Application Portal",
+      "Application Form For Registration As A Beneficiary",
+      "Application Form For Disability Assistance"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What benefits does the Scheme provide?",
+      "answer": "The scheme allows for the sanctioning of an amount not exceeding 25% of the total compensation due under the Employees Compensation Act 1923, upon submission of a disability certificate from competent medical authorities."
+    },
+    {
+      "question": "Who is eligible to apply for the Disability Assistance Scheme?",
+      "answer": "Construction workers who become disabled due to an accident during the course of their employment are eligible to apply under the scheme."
+    },
+    {
+      "question": "How is the percentage of disability determined for eligibility?",
+      "answer": "The percentage of disability is determined by competent medical authorities in accordance with established protocols."
+    },
+    {
+      "question": "Is there a limit to the amount of assistance provided under the scheme?",
+      "answer": "Yes, the assistance provided cannot exceed 25% of the total compensation due under the Employees Compensation Act 1923."
+    },
+    {
+      "question": "What type of work must the beneficiary be engaged in to qualify for the scheme?",
+      "answer": "He beneficiary must be engaged in building and other construction work within the territory."
+    },
+    {
+      "question": "Is registration mandatory under the Board?",
+      "answer": "Yes, beneficiaries must be registered under the A&N Islands Building and Other Construction Workers Welfare Board."
+    },
+    {
+      "question": "How to apply under the scheme?",
+      "answer": "The eligible applicant may apply online through the Portal: https://serviceonline.gov.in/"
+    }
+  ]
+}

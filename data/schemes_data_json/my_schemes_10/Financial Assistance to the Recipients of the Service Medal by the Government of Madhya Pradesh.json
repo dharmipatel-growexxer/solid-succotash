@@ -1,0 +1,84 @@
+{
+  "scheme_name": "Financial Assistance to the Recipients of the Service Medal by the Government of Madhya Pradesh",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/farsmgmp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Financial Assistance to the Recipients of the Service Medal by the Government of Madhya Pradesh",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The “Financial Assistance to the Recipients of the Service Medal by the Government of Madhya Pradesh\" scheme was launched by the Home Department, Government of Madhya Pradesh. The scheme aims to provide financial support and recognition to defense personnel who have received service or gallantry medals and are permanent residents of the state."
+    ],
+    "benefits": [
+      "Financial assistance is provided to soldier medal awardees."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Madhya Pradesh.",
+      "The applicant must belong a soldier category.",
+      "The applicant must be a service medal awardee."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Sainik Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Sainik Welfare Office.",
+        "Post-Application Process",
+        "The District Sainik Welfare Office verifies the application and attached documents.",
+        "The verified application is forwarded to the Directorate of Sainik Welfare, Bhopal, for approval.",
+        "The Directorate sends the approved case to the General Administration Department (GAD-4), Government of Madhya Pradesh, for sanction.",
+        "Step 4:",
+        "Upon approval, the payment order is issued to the concerned District Collector.",
+        "Step 5:",
+        "The District Collector disburses the sanctioned amount directly into the beneficiary’s bank account."
+      ]
+    },
+    "documents_required": [
+      "Residence Certificate",
+      "Copy of Service Medal Award Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Medal awardees from the defense services who are permanent residents of Madhya Pradesh."
+    },
+    {
+      "question": "Who processes the applications?",
+      "answer": "The applications process by the District Sainik Welfare Office."
+    },
+    {
+      "question": "Is there an application fee?",
+      "answer": "No, the application process is free of cost."
+    },
+    {
+      "question": "How is the financial assistance disbursed?",
+      "answer": "Financial assistance disbursed through direct transfer to the beneficiary’s bank account by the District Collector."
+    },
+    {
+      "question": "Is online application available?",
+      "answer": "No, the applications are accepted only offline."
+    },
+    {
+      "question": "What is the role of the Directorate of Sainik Welfare?",
+      "answer": "To verify applications and forward them for government sanction."
+    },
+    {
+      "question": "Which authority approves the financial sanction?",
+      "answer": "The General Administration Department (GAD), Government of Madhya Pradesh."
+    },
+    {
+      "question": "Does the scheme apply in both urban and rural areas?",
+      "answer": "Yes, it covers all areas across the state."
+    },
+    {
+      "question": "Where can I get more information?",
+      "answer": "From the nearest District Sainik Welfare Office or the Directorate of Sainik Welfare, Bhopal."
+    }
+  ]
+}

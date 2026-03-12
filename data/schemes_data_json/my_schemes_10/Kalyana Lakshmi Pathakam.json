@@ -1,0 +1,103 @@
+{
+  "scheme_name": "Kalyana Lakshmi Pathakam",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/klp",
+  "location_name": "Telangana",
+  "location_type": "state",
+  "page_title": "Kalyana Lakshmi Pathakam",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Kalyana Lakshmi Pathakam\" was launched in 2014 by the Backward Classes Welfare Department, Government of Telangana, aims to alleviate financial distress in SC/ST and minority families by providing financial assistance to unmarried girls at the time of marriage. this scheme, a one-time financial assistance of ₹1,00,116 (₹1,25,145 for disabled girls) is provided to eligible girls at the time of marriage."
+    ],
+    "benefits": [
+      "One-time financial assistance of ₹1,00,116/- for unmarried SC/ST and minority girls at the time of marriage.",
+      "One-time financial assistance of ₹1,25,145/- for disabled girls, irrespective of caste, under the Rights of Persons with Disabilities Act, 2016.",
+      "The amount is directly credited to the bride’s bank account.",
+      "Only one-time assistance is allowed in a lifetime."
+    ],
+    "eligibility": [
+      "The applicant should be an unmarried girl belonging to the SC/ST/BC/EBC community.",
+      "The applicant should be a resident of Telangana.",
+      "The applicant should be 18 years of age at the time of marriage.",
+      "The applicant's marriage should be scheduled on or after October 2, 2014.",
+      "The applicant’s parental income should not exceed ₹2,00,000/- per annum.",
+      "Note:",
+      "Enhanced financial support is available for disabled girls under Section 24(1) of the Rights of Persons with Disabilities Act, 2016."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Visit the official ePASS website at",
+        "https://telanganaepass.cgg.gov.in/",
+        ".",
+        "Step 2:",
+        "Select \"Kalyana Lakshmi Pathakam\" scheme.",
+        "Step 3:",
+        "Fill in the bride’s personal, caste, income, and address details.",
+        "Step 4:",
+        "Upload scanned documents including Aadhaar, caste/income certificates, bank passbook, marriage certificate/photo, etc.",
+        "Step 5:",
+        "Apply online.",
+        "Step 6:",
+        "A unique application number will be generated.",
+        "Step 7:",
+        "Await verification from the Welfare Department.",
+        "Step 8:",
+        "Upon approval, the sanctioned amount will be credited to the bride’s bank account.",
+        "Step 9:",
+        "Save acknowledgment/receipt for future reference."
+      ]
+    },
+    "documents_required": [
+      "Date of Birth Certificate (issued through Meeseva)",
+      "Caste Certificate (issued through Meeseva)",
+      "Income Certificate (latest, issued within 6 months of the marriage date)",
+      "Aadhaar Cards of the bride and groom (scanned and uploaded)",
+      "Bank Passbook (first page, bride’s photo, account details in her name)",
+      "Wedding Card (if available)",
+      "Wedding Photograph",
+      "Letter by Gram Panchayat/Church/Mosque/Marriage Institution (certifying marriage)",
+      "SSC Hall Ticket Number and Year of Passing (optional, where applicable)"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Guidelines",
+      "Financial Enhancement Order",
+      "Application Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "The scheme was launched by the Government of Telangana to provide financial assistance to the marriage of girls belonging to the Scheduled Castes/Scheduled Tribes/Backward Classes/Economically Backward Classes communities."
+    },
+    {
+      "question": "What is the minimum age required to apply under this scheme?",
+      "answer": "The bride must be at least 18 years old at the time of marriage."
+    },
+    {
+      "question": "Can I apply if my parents earn more than ₹2,00,000 per year?",
+      "answer": "No, the combined annual income of the applicant's parents must not exceed ₹2,00,000."
+    },
+    {
+      "question": "Can this scheme be availed more than once?",
+      "answer": "No, it is a one-time financial assistance and can be availed only once in a lifetime."
+    },
+    {
+      "question": "Is a wedding card compulsory for application?",
+      "answer": "No, it is optional but can be uploaded if available."
+    },
+    {
+      "question": "How is the money disbursed under the scheme?",
+      "answer": "After verification, the amount is directly transferred to the bank account of the bride."
+    },
+    {
+      "question": "What optional documents can be submitted?",
+      "answer": "SSC Hall ticket number and year of passing may be submitted where applicable."
+    },
+    {
+      "question": "Where can I track my application status?",
+      "answer": "You can check the status on https://telanganaepass.cgg.gov.in/ After login."
+    }
+  ]
+}

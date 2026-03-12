@@ -1,0 +1,110 @@
+{
+  "scheme_name": "Death Assistance Scheme (MPBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dasmpbocwwb",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Death Assistance Scheme (MPBOCWWB)",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2004, the \"Death Assistance Scheme\" is a welfare initiative by the Building and Other Construction Workers Welfare Board (MPBOCWWB), Government of Madhya Pradesh. The scheme provides funeral assistance and ex-gratia payment to the heir of a worker in the event of their death. It also offers ex-gratia in case of permanent or partial temporary disability of a registered worker due to an accident. The application must be submitted within 6 months from the date of the accident or death."
+    ],
+    "benefits": [
+      "Funeral Assistance:",
+      "₹6,000/-",
+      "Ex-gratia Payment:",
+      "In case of normal death: ₹2,00,000/-",
+      "In case of death due to accident: ₹4,00,000/-",
+      "In case of permanent disability due to accident: ₹2,0,000/-",
+      "In case of partial permanent disability due to accident: ₹1,00,000/-"
+    ],
+    "eligibility": [
+      "The construction worker must have passed away while he/she was registered with the Madhya Pradesh Building and Other Construction Workers Welfare Board (MPBOCWWB) when he/she died.",
+      "The construction worker must have passed away while he/she held an active regular membership with the MPBOCWWB.",
+      "Only the legal heir or dependent family member of the deceased registered worker is eligible to apply for benefits under the scheme.",
+      "The construction worker must have passed away while he/she had a valid identity card."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Public Service Center/District Panchayat/Urban Body Office and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE 1:",
+        "Ensure that the application is submitted within the prescribed period, if any.",
+        "NOTE 2:",
+        "The application must be submitted within 6 months from the date of the accident or death.",
+        "Designated Officer for Approval -",
+        "For Rural Areas:",
+        "Chief Executive Officer, District Panchayat",
+        "For Urban Areas:",
+        "Commissioner/Chief Municipal Officer, Urban Body"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of the applicant (nominee/Legal heirs)",
+      "Passport-size photograph",
+      "Proof of residence",
+      "Ration Card",
+      "Bank account details",
+      "Death certificate of worker",
+      "Regular registration certificate of the worker",
+      "Nominee/legal heir certificate",
+      "An attested copy of the identity card of the registered worker in which payment of contribution up to the date of application is recorded."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Registration"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Death Assistance Scheme\"?",
+      "answer": "The \"Death Assistance Scheme\" provides funeral assistance and ex-gratia payments to the heirs of registered construction workers in case of their death or disability."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "The legal heir or dependent family member of a registered worker who holds an active membership with the MPBOCWWB is eligible."
+    },
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "Benefits include funeral assistance of ₹6,000 and ex-gratia payments ranging from ₹1 lakh to ₹4 lakh depending on the nature of the death or disability."
+    },
+    {
+      "question": "How much funeral assistance is provided?",
+      "answer": "₹6,000 is provided as funeral assistance."
+    },
+    {
+      "question": "What is the ex-gratia payment for a normal death?",
+      "answer": "₹2 lakh is provided in case of a normal death."
+    },
+    {
+      "question": "What is the ex-gratia payment for death due to an accident?",
+      "answer": "₹4 lakh is provided if the death is due to an accident."
+    },
+    {
+      "question": "What is the ex-gratia payment for permanent disability due to an accident?",
+      "answer": "₹2 lakh is provided for permanent disability due to an accident."
+    },
+    {
+      "question": "What is the ex-gratia payment for partial permanent disability due to an accident?",
+      "answer": "₹1 lakh is provided for partial permanent disability due to an accident."
+    },
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "The legal heir or dependent family member, such as the spouse, children, or parents, can apply."
+    },
+    {
+      "question": "Can a distant relative apply for the scheme?",
+      "answer": "No, only the legal heir or dependent family members of the deceased worker are eligible to apply."
+    },
+    {
+      "question": "Is the worker required to have a valid identity card?",
+      "answer": "Yes, the deceased worker must have a valid identity card issued by the MPBOCWWB."
+    }
+  ]
+}

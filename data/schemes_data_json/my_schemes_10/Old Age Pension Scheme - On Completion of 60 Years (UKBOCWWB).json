@@ -1,0 +1,67 @@
+{
+  "scheme_name": "Old Age Pension Scheme - On Completion of 60 Years (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/oapcwcs",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Old Age Pension Scheme - On Completion of 60 Years (UKBOCWWB)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Old Age Pension Scheme” is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide a monthly pension to registered construction workers who have attained the age of 60 years."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "₹1,000/- per month"
+    ],
+    "eligibility": [
+      "The applicant must be a construction worker registered with the Uttarakhand Building and Other Construction Workers Welfare Board.",
+      "The applicant must have completed 60 years of age."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "The online application can be submitted through Shramik Suvidha Kendras.",
+        "During the application process, the applicant is required to provide the Shramik Card, Aadhaar Card, Bank Passbook, a Self-Declaration Certificate, and an affidavit stating that no benefit from any other scheme is being availed.",
+        "If the documents are found correct during departmental investigation/verification, the pension is sanctioned and disbursed on a half-yearly basis.",
+        "After every six months, the worker must submit a life certificate to continue receiving the pension."
+      ]
+    },
+    "documents_required": [
+      "Labour Card",
+      "Aadhaar Card",
+      "Bank Passbook",
+      "A Self-Declaration Certificate",
+      "An affidavit stating that no benefit from any other scheme is being availed"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 56)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Any registered construction worker with the Uttarakhand Building and Other Construction Workers Welfare Board who has attained the age of 60 years is eligible."
+    },
+    {
+      "question": "What is the pension amount provided under the scheme?",
+      "answer": "A monthly pension of ₹1,000/- is provided to eligible beneficiaries."
+    },
+    {
+      "question": "At what age can a worker apply for this pension?",
+      "answer": "A worker can apply once they have completed 60 years of age."
+    },
+    {
+      "question": "Is it necessary to be registered with the board to get this pension?",
+      "answer": "Yes, only registered construction workers with the Uttarakhand Building and Other Construction Workers Welfare Board are eligible for the scheme."
+    },
+    {
+      "question": "How can one apply for the Scheme?",
+      "answer": "Applications can be submitted online through Shramik Suvidha Kendras."
+    },
+    {
+      "question": "What is the process after submitting the application?",
+      "answer": "The submitted documents are verified through departmental investigation, and if found correct, the pension is sanctioned."
+    }
+  ]
+}

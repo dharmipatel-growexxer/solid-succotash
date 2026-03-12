@@ -1,0 +1,83 @@
+{
+  "scheme_name": "Samuhik Kanya Vivah Sahayata Yojana (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/skvsyukbocwwb",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Samuhik Kanya Vivah Sahayata Yojana (UKBOCWWB)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Samuhik Kanya Vivah Sahayata Yojana\" was launched by the Labour Department, Government of Uttarakhand. The scheme aims to provide financial assistance and support for the marriage of daughters of registered construction workers through organized group marriage events. The scheme is implemented by the Building and Other Construction Workers Welfare Board, Uttarakhand."
+    ],
+    "benefits": [
+      "₹61,000/- will be provided as financial assistance to registered construction workers for the marriage of their daughters.",
+      "₹10,000/- per couple will be paid to the organizer to cover expenses incurred in organizing the mass marriage.",
+      "₹5,000/- will be provided to each bride and groom for purchasing their wedding attire."
+    ],
+    "eligibility": [
+      "The applicant must be a registered construction worker.",
+      "In the case of a mass marriage, registration must be completed at least 15 days prior to the scheduled date of the marriage."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Applications for mass marriage can be submitted at least 15 days prior to the scheduled date.",
+        "It is mandatory to attach the necessary documents with the application form. The daughter and the proposed groom should be at least 18 years and 21 years of age, respectively. Aadhar authentication of the daughter of the construction worker is required under the mass marriage scheme. A self-attested copy of the birth certificate, school leaving certificate, or family register verifying age must be submitted, and the marriage card should be certified and verified by the local village head, tehsildar, member, or councilor.",
+        "Additionally, a self-written certificate stating that the applicant has not received assistance from any other department in this regard must be provided."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of the daughter (mandatory for Aadhaar authentication)",
+      "Proof of Age (Birth Certificate/School Leaving Certificate/Self-attested copy of Family Register, any one)",
+      "Self-attested copy of the marriage card",
+      "A certificate issued by the local head/tehsildar/sarpanch verifying the marriage and authenticity of the applicant",
+      "Self-Declaration Certificate (the applicant confirming that no assistance has been availed under similar schemes from any other department)"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 33)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Only registered construction workers and their daughters are eligible."
+    },
+    {
+      "question": "What is the minimum age requirement for the bride and groom?",
+      "answer": "The bride must be 18 years or older, and the groom must be 21 years or older."
+    },
+    {
+      "question": "What financial assistance is provided under the scheme?",
+      "answer": "₹61,000/- to the bride, ₹10,000/- per couple to organizers, and ₹5,000/- each for attire."
+    },
+    {
+      "question": "Can I apply if I already received help from another department?",
+      "answer": "No, assistance under this scheme is not allowed if any similar benefit has already been received."
+    },
+    {
+      "question": "What is the deadline for application submission?",
+      "answer": "At least 15 days prior to the scheduled date of marriage."
+    },
+    {
+      "question": "What proof of age is required?",
+      "answer": "Birth certificate, school leaving certificate, or a self-attested family register."
+    },
+    {
+      "question": "Is Aadhaar authentication mandatory?",
+      "answer": "Yes, Aadhaar authentication of the bride is required."
+    },
+    {
+      "question": "Is the scheme applicable for individual marriages?",
+      "answer": "No, it applies only to group marriages."
+    },
+    {
+      "question": "Do I need to attach the marriage card?",
+      "answer": "Yes, and it must be verified by an authorized official."
+    },
+    {
+      "question": "Where can I get the more information?",
+      "answer": "Visit the Labour Department offices or their official website ( https://ukbocw.uk.gov.in/ )"
+    }
+  ]
+}

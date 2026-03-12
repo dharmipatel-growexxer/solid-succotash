@@ -1,0 +1,111 @@
+{
+  "scheme_name": "Union Territory of Lakshadweep Pension Scheme for Specially Abled Persons",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sapsp",
+  "location_name": "Lakshadweep",
+  "location_type": "union_territory",
+  "page_title": "Union Territory of Lakshadweep Pension Scheme for Specially Abled Persons",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "​The scheme \"Union Territory of Lakshadweep Pension Scheme for Specially Abled Persons\" was introduced by the Social Welfare & Tribal Affairs Department, Union Territory of Lakshadweep, aims to provide monthly financial assistance to Persons with Disabilities who have no source of income. The scheme covers persons with disabilities, including those who are deaf, mute, blind, mentally retarded, or orthopedically disabled, with a disability level of 40% or more. The District Panchayat and Village (Dweep) Panchayats (VDPs) of the Union Territory of Lakshadweep implement the scheme to ensure smooth processing and disbursement. The pension amount is directly transferred to the beneficiary’s bank account."
+    ],
+    "benefits": [
+      "Under this scheme, eligible individuals receive a monthly pension of ₹1,500/- (₹18,000/- per annum).",
+      "Mode of Disbursement:",
+      "The pension is directly transferred to the beneficiary’s bank account.",
+      "Frequency of Disbursement:",
+      "The pension is disbursed on a monthly basis."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Union Territory of Lakshadweep.",
+      "The applicant should be a specially-abled person who is deaf, dumb, blind, mentally retarded, or orthopedically disabled.",
+      "The applicant should have at least 40% disability, certified by a competent authority.",
+      "The applicant should not have a monthly income exceeding ₹1,500/- (₹18,000 per annum).",
+      "The applicant should not have any source of income.",
+      "The applicant should not be a recipient of any other similar pension scheme provided by the government."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 1:",
+        "The eligible applicants may collect the application form from the nearest Village (Dweep) Panchayat office.",
+        "Step 2:",
+        "Carefully fill out the application form and attach all supporting documents.",
+        "Step 3:",
+        "Submit the completed application form along with the required documents to the Executive Officer at the Village (Dweep) Panchayat office.",
+        "Post-Application Process:",
+        "The application is verified by the members of the Evaluation Committee of the respective Village (Dweep) Panchayat.",
+        "After successful verification, the application is forwarded to the Chief Executive Officer, District Panchayat (HQ), Kavaratti, for further processing.",
+        "The forwarded application undergoes re-verification by District Panchayat officials.",
+        "Step 4:",
+        "Upon successful re-verification at the District Panchayat level, the list of eligible pensioners is prepared through the Public Financial Management System (PFMS) and submitted to the Social Welfare & Tribal Affairs Department for payment processing.",
+        "Step 5:",
+        "Payments are made through the Direct Benefit Transfer (DBT) mode, money is paid through Aadhaar-linked bank accounts."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Disability Certificate",
+      "Proof of Age",
+      "Proof of Residence",
+      "Income Certificate",
+      "Bank Account Details",
+      "Self-Declaration",
+      "Any other documents if required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How is the pension amount disbursed?",
+      "answer": "The pension is directly transferred to the beneficiary’s registered bank account every month."
+    },
+    {
+      "question": "Can an applicant receive this pension along with another government pension?",
+      "answer": "No, applicants already receiving a government pension are not eligible for this scheme."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Applicants need to collect the application form from the nearest Village (Dweep) Panchayat office and submit it along with the required documents."
+    },
+    {
+      "question": "Where should I submit the completed application form?",
+      "answer": "The completed application form must be submitted to the Executive Officer of the respective Village (Dweep) Panchayat."
+    },
+    {
+      "question": "Who verifies the application and documents?",
+      "answer": "The Executive Officer of the Village (Dweep) Panchayat reviews the application, verifies the documents, and forwards it for approval."
+    },
+    {
+      "question": "What documents are required for applying?",
+      "answer": "Applicants need to submit a Disability Certificate, Proof of Age, Proof of Residence, Income Certificate, Bank Account Details, Self-Declaration, and Family Details Document (if applicable)."
+    },
+    {
+      "question": "Is a medical certificate required to prove disability?",
+      "answer": "Yes, a Disability Certificate issued by a competent authority confirming at least 40% disability is required."
+    },
+    {
+      "question": "Who issues the income certificate required for this scheme?",
+      "answer": "The income certificate must be issued by a competent authority as proof that the applicant's income does not exceed the prescribed limit."
+    },
+    {
+      "question": "What happens if an applicant starts earning after receiving the pension?",
+      "answer": "If the applicant’s income exceeds the eligibility limit, they will no longer be eligible to receive the pension."
+    },
+    {
+      "question": "What should an applicant do if they stop receiving the pension?",
+      "answer": "The applicant should contact the Village (Dweep) Panchayat office to check for any issues and resolve them accordingly."
+    },
+    {
+      "question": "Can an applicant receive the pension if they are already availing of another government benefit?",
+      "answer": "The applicant is not eligible if they are receiving any other government pension, but they may receive other benefits as long as they meet eligibility criteria."
+    },
+    {
+      "question": "Where can an applicant get more information or assistance?",
+      "answer": "Applicants can visit the nearest Village (Dweep) Panchayat office for guidance on the scheme and application process."
+    }
+  ]
+}

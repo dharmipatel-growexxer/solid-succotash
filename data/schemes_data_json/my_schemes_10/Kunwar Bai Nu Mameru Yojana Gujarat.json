@@ -1,0 +1,123 @@
+{
+  "scheme_name": "Kunwar Bai Nu Mameru Yojana Gujarat",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kbnmyg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Kunwar Bai Nu Mameru Yojana Gujarat",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Kunwar Bai Nu Mameru Yojana\" was launched by the Tribal Development Department, Government of Gujarat. The scheme aims to provide financial assistance to families of Scheduled Tribe (ST) girls at the time of their marriage. Under this scheme, a financial benefit per couple is provided to ensure economic support to families and to encourage social welfare."
+    ],
+    "benefits": [
+      "Financial assistance of ₹12,000/- per couple is provided during the marriage."
+    ],
+    "eligibility": [
+      "The applicant must be a native of the Gujarat.",
+      "The applicant must belong to a Scheduled Tribe.",
+      "The applicant's annual family income must not exceed ₹6,00,000/-.",
+      "The benefits under this scheme are eligible for till the occasion of the marriage of two (2) adult girls of the family.",
+      "The bride's age must be 18 years at the time of marriage.",
+      "The groom's age must be 21 years at the time of marriage."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process",
+        "Visit the Directorate of Tribal Development",
+        "official website",
+        ".",
+        "Click on the \"",
+        "Please Register Here link",
+        "\".",
+        "Fill the registration form: Full Name (as per Aadhaar Card), Gender, Date of Birth, Aadhaar Number, Email ID, Caste, Mobile Number",
+        "Password for login, Confirm Password.",
+        "Click on the \"Confirm\" tab.",
+        "After successful registration, User ID and Password will be sent via SMS.",
+        "Login Process",
+        "Enter User ID, Password, and Captcha Code.",
+        "After login, schemes applicable to your caste will be displayed.",
+        "Click on the scheme you want to apply for.",
+        "Fill the \"Application Form\" and upload the required documents",
+        "Click Save Application. The system will generate an Application Number.",
+        "Click Print Application.",
+        "Track Application",
+        "Click View Application Status.",
+        "Enter Application Number and Date of Birth.",
+        "Click view Status to check the status of your application.",
+        "*The application for assistance has to be made within two years of the engagement.",
+        "*Kunwarbai's Mameru scheme will be eligible for support from the district where the saat phera mass marriage is held.",
+        "*The beneficiary girl participating in the mass marriage will be eligible to get benefits under both these schemes if she fulfills all the conditions of the Seven Phera Group Marriage Scheme as well as Kunwarbai's Mameru Scheme."
+      ]
+    },
+    "documents_required": [
+      "Girl's Aadhaar Card",
+      "Aadhaar Card of the Girl's Father/g=Guardian",
+      "Example of the caste of the girl obtained from the competent officer",
+      "Example of the caste of the youth obtained from the competent authority (if any)",
+      "Proof of Residence (any one of electricity bill/ license/ tenancy contract/ election card/ ration card)",
+      "Example of annual income of the bride's father/guardian",
+      "Marriage Registration Certificate",
+      "Copy of first page of bank passbook/ cancelled cheque (father/guardian's name is behind the bride's name)",
+      "Example of death if the father is not alive"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Scheduled Tribe (ST) women of Gujarat state who are 18 years or above at the time of marriage."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "Financial assistance of ₹12,000 per couple."
+    },
+    {
+      "question": "Is there an income limit for eligibility?",
+      "answer": "Yes, the annual family income should not exceed ₹6,00,000 in both rural and urban areas."
+    },
+    {
+      "question": "Can the benefit be availed for more than two daughters?",
+      "answer": "No, the benefit is available for a maximum of two adult daughters in a family."
+    },
+    {
+      "question": "Is assistance provided in case of remarriage?",
+      "answer": "No, benefits are not applicable in cases of remarriage."
+    },
+    {
+      "question": "Can the scheme be availed in case of mass marriage?",
+      "answer": "Yes, it can be availed, and beneficiaries may also be eligible for the Saat Phera Group Marriage Scheme."
+    },
+    {
+      "question": "Within how much time should the application be made?",
+      "answer": "Submit within 2 years of the engagement."
+    },
+    {
+      "question": "Where can the application be submitted?",
+      "answer": "The application is submitted online at evanbandhu.gujarat.gov.in"
+    },
+    {
+      "question": "Is there any cost to apply?",
+      "answer": "No, the application form is free of cost."
+    },
+    {
+      "question": "Can I apply for this scheme offline?",
+      "answer": "No, the application process is online."
+    },
+    {
+      "question": "Can the applicant’s guardian apply on her behalf?",
+      "answer": "Yes, the father/guardian can apply with valid documents."
+    },
+    {
+      "question": "How will the assistance be provided?",
+      "answer": "Direct transfer into the applicant’s or guardian’s bank account."
+    },
+    {
+      "question": "What happens if the father of the bride is deceased?",
+      "answer": "A Death Certificate must be submitted along with the application."
+    }
+  ]
+}

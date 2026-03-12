@@ -1,0 +1,62 @@
+{
+  "scheme_name": "Pension Scheme for State Agitators Other Than Category of Agitators Who Went to Jail for 7 Days or got Injured during the Uttarakhand State Movement",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/usapfos",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pension Scheme for State Agitators Other Than Category of Agitators Who Went to Jail for 7 Days or got Injured during the Uttarakhand State Movement",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Pension Scheme for State Agitators Other Than Category of Agitators Who went to Jail for 7 Days or got Injured during the Uttarakhand State Movement\" scheme is implemented by the Police Department under the Department of Home, Government of Uttarakhand. The scheme aims to provide a monthly pension to state agitators who do not fall under the category of those imprisoned for 7 days or injured during the Uttarakhand State Movement, and who are not entitled to an agitational pension or any other government pension, nor are employed in government service."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "₹4,500/- per month"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an identified state agitator, excluding those who were jailed for seven days or injured during the Uttarakhand state movement.",
+      "The applicant must not be entitled to an agitational pension or any other pension from a government source.",
+      "The applicant must not be employed in any government service."
+    ],
+    "application_process": {
+      "offline": [
+        "The application must be submitted to the office of the District Magistrate of the concerned district.",
+        "The required documents must be attached with the application form, and the pension will be sanctioned only after verification by the District Magistrate."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 64)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the monthly pension amount?",
+      "answer": "The pension amount is ₹4,500/- per month."
+    },
+    {
+      "question": "How can I apply for this pension?",
+      "answer": "Applications must be submitted in person at the office of the District Magistrate of the concerned district."
+    },
+    {
+      "question": "Can those who were jailed or injured during the Uttarakhand state movement apply?",
+      "answer": "No, this scheme specifically excludes agitators who were jailed for seven days or injured during the state movement."
+    },
+    {
+      "question": "Can government employees apply for this pension?",
+      "answer": "No, applicants must not be employed in any government service."
+    },
+    {
+      "question": "Can someone already receiving another government pension apply?",
+      "answer": "No, only those not entitled to any other government pension are eligible."
+    },
+    {
+      "question": "Where should the completed application form be submitted?",
+      "answer": "The completed form, along with supporting documents, must be submitted to the office of the District Magistrate of the applicant’s district."
+    }
+  ]
+}

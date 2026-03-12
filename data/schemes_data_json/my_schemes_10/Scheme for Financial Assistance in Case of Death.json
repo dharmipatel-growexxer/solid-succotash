@@ -1,0 +1,94 @@
+{
+  "scheme_name": "Scheme for Financial Assistance in Case of Death",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sfacd",
+  "location_name": "Tripura",
+  "location_type": "state",
+  "page_title": "Scheme for Financial Assistance in Case of Death",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Scheme for Financial Assistance in Case of Death\" scheme was launched by the Tripura Building and Other Construction Workers Welfare Board, Labour Department Tripura. The scheme aims to provide financial assistance to the nominee or spouse or dependent of the deceased registered beneficiary. The registered beneficiary will apply in the prescribed form through electronically."
+    ],
+    "benefits": [
+      "One time grant in case of natural death : ₹2,00,000/-",
+      "One time grant, if the death is due to accident during the course of employment: ₹4,00,000/-"
+    ],
+    "eligibility": [
+      "The applicant should be a nominee, spouse, or dependent of the deceased registered worker.",
+      "The registered construction workers should not have any dues payable to the Board.",
+      "Application shall be submitted within 1 year of death.",
+      "If the registered beneficiary is covered under Group Life Insurance scheme, is taken by the Board, death benefit as envisaged in this scheme will not apply."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Step 1:",
+        "The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2:",
+        "The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.",
+        "Step 3:",
+        "The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "The application shall be submitted within 1 year of death."
+      ]
+    },
+    "documents_required": [
+      "Original BOCW Registration Card.",
+      "Nominee's Bank Account Details.",
+      "Death Certificate (from an appropriate authority or death report from the recognized registered Medical Officer).",
+      "Ration Card.",
+      "Declaration/No Objection Letter (submitted by all the nominees/survivors of the deceased registered construction worker in favour of the applicant).",
+      "Photo ID Proof of the Nominee.",
+      "First Information Report (FIR) (From the nearest police station in case of death due to an accident).",
+      "Any other documents if required."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for financial assistance under this scheme?",
+      "answer": "The nominee, spouse, or dependent of the deceased registered beneficiary."
+    },
+    {
+      "question": "What is the amount of financial assistance provided?",
+      "answer": "1. One time grant in case of natural death : ₹2,00,000/- 2. One time grant, if the death is due to accident during the course of employment: ₹4,00,000/-"
+    },
+    {
+      "question": "What is the time limit for submitting an application?",
+      "answer": "The application must be submitted within one year of the death of the beneficiary."
+    },
+    {
+      "question": "Who processes and approves the application?",
+      "answer": "The Labour Inspector processes and verifies the application, and the Labour Officer reviews and approves it."
+    },
+    {
+      "question": "Is financial assistance available if the deceased was covered under a Group Life Insurance scheme?",
+      "answer": "No, beneficiaries covered under a Group Life Insurance scheme taken by the Board are not eligible."
+    },
+    {
+      "question": "What should be done in case of death due to an accident during employment?",
+      "answer": "An FIR from the nearest police station must be provided to the Board."
+    },
+    {
+      "question": "Where can I obtain the death certificate?",
+      "answer": "From the Registrar of Births and Deaths or a recognized registered Medical Officer."
+    },
+    {
+      "question": "Can the application be submitted offline?",
+      "answer": "No, the application must be submitted electronically."
+    },
+    {
+      "question": "Can multiple nominees apply for the financial assistance?",
+      "answer": "No, only one nominee can apply with a declaration/no objection certificate from all other nominees/survivors."
+    },
+    {
+      "question": "How do I apply for financial assistance?",
+      "answer": "The applicant visits the nearest Common Service Center (CSC) and applies electronically using the prescribed form."
+    }
+  ]
+}

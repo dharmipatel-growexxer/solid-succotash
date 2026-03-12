@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme (Punjab)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ignoapsp",
+  "location_name": "Punjab",
+  "location_type": "state",
+  "page_title": "Indira Gandhi National Old Age Pension Scheme (Punjab)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Indira Gandhi National Old Age Pension Scheme (IGNOAPS)\" is a social welfare initiative by the Department of Social Security and Development of Women and Children, Government of Punjab. In this scheme, persons aged between 60 and 79 years receive a pension of ₹200/- per month, while those aged 80 years and above receive ₹500/- per month. The scheme applies only to persons belonging to the Below Poverty Line (BPL) category."
+    ],
+    "benefits": [
+      "₹200/- month, for persons aged 60 to 79 years.",
+      "₹500/- month, for persons aged 80 years and above."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Punjab.",
+      "The applicant should be 60 years of age or older.",
+      "The applicant should be from a Below Poverty Line (BPL) family.",
+      "The applicant should not be receiving pension benefits under any social security scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The interested applicant should visit the District Social Security Officer and request a hard copy of the prescribed format of the application form from the concerned staff.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the",
+        "District Social Security Officer",
+        ".",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof (Voter ID Card, Driving License)",
+      "Residence Proof",
+      "Proof of Age",
+      "Below Poverty Line (BPL) Card",
+      "Address Proof",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "FAQs"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the age requirement to be eligible for the pension scheme under the 60 to 79 years category?",
+      "answer": "Applicants must be aged between 60 and 79 years to receive a monthly pension of ₹200 under this scheme."
+    },
+    {
+      "question": "What is the pension amount for applicants aged 80 years and above?",
+      "answer": "Applicants aged 80 years and above receive a higher pension amount of ₹500 per month under this scheme."
+    },
+    {
+      "question": "Do I need to be a resident of Punjab to apply for this pension scheme?",
+      "answer": "Yes, only residents of Punjab are eligible to apply for this pension scheme."
+    },
+    {
+      "question": "Is there an income or financial status requirement to qualify for this pension?",
+      "answer": "Yes, applicants must belong to a Below Poverty Line (BPL) family to be eligible for the pension."
+    },
+    {
+      "question": "Can I apply for this pension if I am already receiving benefits under another social security scheme?",
+      "answer": "No, applicants should not be receiving pension benefits under any other social security scheme to qualify."
+    },
+    {
+      "question": "Where can I obtain the application form if I want to apply offline?",
+      "answer": "You must visit the District Social Security Officer to request a hard copy of the prescribed application form."
+    },
+    {
+      "question": "What steps should I follow to submit my application offline?",
+      "answer": "Fill the form, attach required documents, and submit it to the District Social Security Officer while ensuring you get an acknowledgement receipt."
+    },
+    {
+      "question": "What details should the acknowledgement receipt contain after submitting the application?",
+      "answer": "The receipt should include the date and time of submission and a unique identification number, if applicable."
+    },
+    {
+      "question": "Where do I find the pension scheme application on the UMANG Portal?",
+      "answer": "Navigate to the National Social Assistance Programme (NSAP) page on UMANG and click \"Apply Online.\""
+    },
+    {
+      "question": "What documents are required to apply for this pension scheme?",
+      "answer": "You need identity proof, residence proof, age proof, BPL card, address proof, and bank account details."
+    },
+    {
+      "question": "Is a BPL card mandatory for applying to this pension scheme?",
+      "answer": "Yes, applicants must provide a Below Poverty Line (BPL) card as proof of eligibility."
+    },
+    {
+      "question": "Do I need to submit bank account details for this pension scheme?",
+      "answer": "Yes, you must provide your bank account details for pension disbursement."
+    },
+    {
+      "question": "Can I submit a driving license as identity proof for the application?",
+      "answer": "Yes, a driving license is accepted as valid identity proof for the application."
+    },
+    {
+      "question": "Should I self-attest the documents before submitting them with the application?",
+      "answer": "Yes, you must self-attest copies of all mandatory documents if required."
+    }
+  ]
+}

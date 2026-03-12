@@ -1,0 +1,102 @@
+{
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme (Maharashtra)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/igoapsm",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Indira Gandhi National Old Age Pension Scheme (Maharashtra)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Indira Gandhi National Old Age Pension\" is a social welfare scheme by the Social Justice & Special Assistance Department, Government of Maharashtra. In this scheme, ₹600 per month is provided to elderly individuals aged 65 years and above from BPL families."
+    ],
+    "benefits": [
+      "A monthly financial assistance of ₹600/-."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Maharashtra.",
+      "The applicant should be 65 years of age or older.",
+      "The applicant should be from a Below Poverty Line (BPL) family.",
+      "The applicant should not be receiving pension benefits under any social security scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Collector Office/Tahsildar/Talathi of your district, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card of the applicant",
+      "Passport-size photograph",
+      "Identity proof i.e. Voter ID Card, Driving License",
+      "Residence Proof",
+      "Proof of age",
+      "Below Poverty Line (BPL) Card/related documents",
+      "Caste certificate, if applicable",
+      "Address proof",
+      "Bank Passbook/Bank account details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "The applicant must be a senior citizen aged 65 years or older."
+    },
+    {
+      "question": "Is residency in Maharashtra required?",
+      "answer": "Yes, the applicant must be a resident of Maharashtra."
+    },
+    {
+      "question": "What age must the applicant be to qualify?",
+      "answer": "The applicant must be 65 years of age or older."
+    },
+    {
+      "question": "Do I need to belong to a specific economic category?",
+      "answer": "Yes, the applicant must belong to a Below Poverty Line (BPL) family."
+    },
+    {
+      "question": "Can the applicant be a man or a woman?",
+      "answer": "Yes, both men and women can apply for the scheme."
+    },
+    {
+      "question": "Can I apply if I am already receiving another pension?",
+      "answer": "No, applicants should not be receiving pension benefits under any other social security scheme."
+    },
+    {
+      "question": "How do I prove my BPL status?",
+      "answer": "You will need to provide a valid BPL certificate as part of your application."
+    },
+    {
+      "question": "What documents are needed to prove age?",
+      "answer": "You can submit documents such as a birth certificate or Aadhaar card to verify your age."
+    },
+    {
+      "question": "Is there an income limit for the family?",
+      "answer": "Yes, the family must meet the criteria to be classified as Below Poverty Line (BPL)."
+    },
+    {
+      "question": "Where can I apply for this pension scheme?",
+      "answer": "Applications can be submitted at the Collector Office, Tahsildar, or Talathi."
+    },
+    {
+      "question": "Is there an application fee?",
+      "answer": "There is typically no application fee for this scheme, but you should confirm at the office."
+    },
+    {
+      "question": "How long does it take to process the application?",
+      "answer": "Processing times may vary, so it's best to inquire at the time of application submission."
+    }
+  ]
+}

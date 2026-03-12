@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Shravan Tirthdarshan Yojna",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sty",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Shravan Tirthdarshan Yojna",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Shravan Tirthdarshan Yojna\" by the Department of Social Justice and Empowerment, Government of Gujarat, aims to provide financial assistance to senior citizens for pilgrimage travel. The scheme covers travel expenses through authorized agents and ensures comfortable pilgrimage arrangements. To be eligible, the applicant must be a senior citizen of Gujarat and registered under the scheme through an authorized travel agent or organizer. The scheme is implemented by the Government of Gujarat, and applications are accepted offline."
+    ],
+    "benefits": [
+      "Financial Assistance for Pilgrimage Travel Expenses",
+      "Upto ₹5,000/- per person for travel by State Transport (ST) buses.",
+      "Upto ₹7,000/- per person for travel by Private Buses.",
+      "*The financial assistance provided is subject to actual travel cost or the above-mentioned amount, whichever is lower.",
+      "*Only group travel is allowed (minimum 20 pilgrims required)."
+    ],
+    "eligibility": [
+      "The applicant must be a senior citizen aged 60 years or above.",
+      "The applicant must be a permanent resident of Gujarat.",
+      "The applicant must not have availed of the benefit previously under this scheme.",
+      "The applicant must be physically fit to undertake the journey.",
+      "The pilgrimage must be booked through an authorized travel agent/organizer."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should take a printout of the",
+        "prescribed format",
+        "of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields (details of the authorized travel agent/organizer, details of the pilgrims), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to your nearest District Social Welfare Office.",
+        "*Retain a copy of the submitted application for reference."
+      ]
+    },
+    "documents_required": [
+      "List of Pilgrims (Name, Address, District, Birth Date, Aadhaar Number).",
+      "Proof of Authorization (for Travel Agents/Organizers).",
+      "Bus Type Details (S.T./Private Bus)."
+    ],
+    "sources_and_references": [
+      "Guidelines & Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the minimum age requirement to qualify for this pilgrimage financial assistance scheme?",
+      "answer": "Applicants must be senior citizens aged 60 years or above to be eligible for the scheme."
+    },
+    {
+      "question": "Do I need to be a resident of Gujarat to apply for this travel assistance?",
+      "answer": "Yes, only permanent residents of Gujarat are eligible to avail of this benefit."
+    },
+    {
+      "question": "Can I apply for this scheme if I have already used it once before?",
+      "answer": "No, applicants who have previously availed of this scheme’s benefits are not eligible to reapply."
+    },
+    {
+      "question": "Is there any health requirement to qualify for this pilgrimage assistance?",
+      "answer": "Yes, applicants must be physically fit to undertake the pilgrimage journey."
+    },
+    {
+      "question": "Do I need to book my pilgrimage through a specific agency to be eligible?",
+      "answer": "Yes, travel must be arranged only through an authorized travel agent or organizer to qualify."
+    },
+    {
+      "question": "What is the maximum financial assistance provided for travel by State Transport (ST) buses?",
+      "answer": "Eligible applicants can receive up to ₹5,000/- per person, subject to actual travel costs (whichever is lower)."
+    },
+    {
+      "question": "How much financial support is given if I travel by a private bus for the pilgrimage?",
+      "answer": "The scheme provides up to ₹7,000/- per person for private bus travel, limited to actual expenses."
+    },
+    {
+      "question": "Is individual travel allowed, or do I need to be part of a group?",
+      "answer": "Only group travel is permitted, with a minimum of 20 pilgrims required per trip."
+    },
+    {
+      "question": "Are government employees or their dependents eligible for this scheme?",
+      "answer": "No, serving/retired government employees and their dependents are excluded from availing this benefit."
+    },
+    {
+      "question": "Where do I need to submit my application form and supporting documents?",
+      "answer": "Duly filled applications must be submitted to the nearest District Social Welfare Office within the prescribed timeline."
+    }
+  ]
+}

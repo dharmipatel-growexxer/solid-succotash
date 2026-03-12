@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Matritva, Shishu Evam Baalika Madad Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mesy",
+  "location_name": "Uttar Pradesh",
+  "location_type": "state",
+  "page_title": "Matritva, Shishu Evam Baalika Madad Yojana",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Matritva, Shishu Evam Baalika Madad Yojana\" is a scheme launched by the Uttar Pradesh government to provide financial assistance to construction worker women and wives of construction workers in the state during pregnancy and childbirth. The aim of this scheme is to ensure safe and healthy pregnancies and deliveries for women.",
+      "The objective of the scheme is to provide nutritious food to the newborn babies of eligible beneficiaries working in building and other construction processes from their birth till they complete 02 years of age and to the wives of registered female workers and registered male workers after delivery. Along with this, the objective of the scheme is to create positive thinking in the society towards the birth of girls and to give positive results by encouraging legal system like adult marriage."
+    ],
+    "benefits": [
+      "Matritva Hitlabh (Maternity benefits)",
+      "Registered male workers: ₹6,000/- lump sum.",
+      "Female workers for institutional delivery: 3 months' minimum wage equivalent + ₹1,000/- medical bonus.",
+      "Female workers for miscarriage: 6 weeks' minimum wage equivalent.",
+      "Female workers for sterilization: 2 weeks' minimum wage equivalent.",
+      "Shishu Hitlabh (Child benefits)",
+      "For son: ₹20,000/- lump sum.",
+      "For daughter: ₹25,000/- lump sum.",
+      "For first or second daughter, or legally adopted daughter: ₹25,000/- fixed deposit (matures if unmarried at 18).",
+      "For handicapped daughter: ₹50,000/- fixed deposit (matures if unmarried at 18)."
+    ],
+    "eligibility": [
+      "Matritva Hitlabh (Maternity benefits):",
+      "Beneficiary women must be a permanent resident of Uttar Pradesh.",
+      "Beneficiary women must be a registered construction worker.",
+      "Beneficiary women must be above 18 years of age.",
+      "Benefits will be provided only to the first two deliveries of the worker.",
+      "Shishu Hitlabh (Child benefits)",
+      "First girl child born in the family (up to one girl child).",
+      "Second girl child only if both first and second child are girls.",
+      "If more than one girl child in first and second delivery, all girls are eligible.",
+      "Applies to legally adopted girl child (first girl only) in childless families.",
+      "Birth of girl child must be registered.",
+      "Girl must remain unmarried until 18 to receive fixed deposit.",
+      "Benefits will not be provided eligible if recipient of another similar government scheme."
+    ],
+    "application_process": {
+      "online": [
+        "How to get register and apply for the scheme",
+        "Applicant must visit the below offices",
+        "Nearest labor office.",
+        "Tehsildar of the concerned tehsil.",
+        "Block Development Officer of the concerned development block.",
+        "Get the application form and fill out the completely.",
+        "Attach required documents in the prescribed format.",
+        "Submit the application form in the same office."
+      ]
+    },
+    "documents_required": [
+      "Essential Documents:",
+      "Proof of identity: Attested photocopy of the registered construction worker's identity card.",
+      "Child's birth certificate: Attested photocopy of the child's birth certificate (boy or girl).",
+      "Delivery/Medical Documents:",
+      "Delivery certificate: Prescribed certificate issued by the medical officer for institutional delivery.",
+      "Abortion/Sterilization certificate: Certificate issued by the medical officer for abortion or sterilization.",
+      "Girl Child Support documents:",
+      "Anganwadi registration certificate: Certificate from the Anganwadi worker confirming child's registration.",
+      "Survival certificate: Proof of child's survival required for claiming the second year's benefit.",
+      "Adoption records: Certified records if the child is adopted (applicable for girl child benefit)."
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Guidelines",
+      "Registration Portal",
+      "Apply Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is this scheme about ?",
+      "answer": "\"Maatrtv, Shishu Evan Baalika Madad Yojana\" is a initiative of Uttar Pradesh state Government to provide the financial assistance to the woman and their girl child."
+    },
+    {
+      "question": "What is the scheme benefits ?",
+      "answer": "Financial assistance will be provided under the scheme."
+    },
+    {
+      "question": "Does only the mother get the scheme benefits?",
+      "answer": "Mother and her girl child both will also get the scheme benefits."
+    },
+    {
+      "question": "What is the eligibility criteria for a mother ?",
+      "answer": "1. Beneficiary women must be a permanent resident of Uttar Pradesh. 2. Beneficiary women must be a registered construction worker. 3. Beneficiary women must be above 18 years of age. 4. Benefits will be provided only to the first two deliveries of the worker."
+    },
+    {
+      "question": "What is the eligibility criteria for a girl child?",
+      "answer": "1. First girl child born in the family (up to one girl child). 2. Second girl child only if both first and second child are girls. 3. If more than one girl child in first and second delivery, all girls are eligible. 4. Applies to legally adopted girl child (first girl only) in childless families. 5. Birth of girl child must be registered. 6. Girl must remain unmarried until 18 to receive fixed deposit. 7. Benefits will not be provided eligible if recipient of another similar government scheme."
+    },
+    {
+      "question": "What is the procedure to get the scheme benefits ?",
+      "answer": "Firstly either one parent must be a registered construction worker, then he/she must be apply via offline or online for the scheme benefits."
+    },
+    {
+      "question": "What is registration link ?",
+      "answer": "URL : https://www.uplmis.in/Guest/frm_createlogin_forlabs.aspx"
+    },
+    {
+      "question": "What is application link ?",
+      "answer": "URL :https://www.uplmis.in/Guest/frm_CreateLogin.aspx?type=2"
+    },
+    {
+      "question": "Can a applicant get the scheme benefit via offline?",
+      "answer": "Yes, applicant must visit the following offices for the same. 1. Nearest labor office. 2. Tehsildar of the concerned tehsil. 3. Block Development Officer of the concerned development block."
+    },
+    {
+      "question": "What Essential Documents are required ?",
+      "answer": "1. Proof of identity: Attested photocopy of the registered construction worker's identity card. 2. Child's birth certificate: Attested photocopy of the child's birth certificate (boy or girl)."
+    }
+  ]
+}

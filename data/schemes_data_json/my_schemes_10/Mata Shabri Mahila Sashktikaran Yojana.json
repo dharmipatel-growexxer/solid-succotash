@@ -1,0 +1,95 @@
+{
+  "scheme_name": "Mata Shabri Mahila Sashktikaran Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/msmsy",
+  "location_name": "Himachal Pradesh",
+  "location_type": "state",
+  "page_title": "Mata Shabri Mahila Sashktikaran Yojana",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Mata Shabri Mahila Sashktikaran Yojana\" scheme was launched by the Social Justice and Empowerment Department, Government of Himachal Pradesh. The main objective of this scheme is to provide grants to women of Scheduled Caste or Scheduled Tribe families living below the poverty line and provide them relief from tasks like collecting firewood for domestic purposes and improving the environment."
+    ],
+    "benefits": [
+      "Subsidy:",
+      "The maximum subsidy amount is ₹1,300/-.",
+      "Note:",
+      "The subsidy covers 50% of the total cost of purchasing an LPG connection and stove."
+    ],
+    "eligibility": [
+      "The applicant should be a woman.",
+      "The applicant should belong to the Below Poverty Line (BPL) category.",
+      "The applicant should belong to a scheduled caste or scheduled tribe family.",
+      "The applicant's family income should not exceed ₹35,000/-."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant downloads the application form \"",
+        "Form-1",
+        "\".",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the Child Development Project Officer (CDPO).",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the Child Development Project Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph.",
+      "Caste Certificate.",
+      "BPL Certificate.",
+      "Income Certificate (issued by the competent authority).",
+      "Bank Passbook."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Scheduled Caste and Scheduled Tribe women from BPL families or families with an annual income of ₹35,000 or less are eligible, provided they do not already have an LPG gas connection."
+    },
+    {
+      "question": "How many beneficiaries are selected each year?",
+      "answer": "75 beneficiaries are selected from each assembly constituency, totaling 5,100 across the state."
+    },
+    {
+      "question": "Is there a fee to apply for this scheme?",
+      "answer": "No, there is no fee to apply for the scheme."
+    },
+    {
+      "question": "Can women from families with an existing LPG connection apply?",
+      "answer": "No, the scheme is only for families that do not have an existing LPG connection."
+    },
+    {
+      "question": "Is there an age limit for applicants?",
+      "answer": "No specific age limit is mentioned for eligibility."
+    },
+    {
+      "question": "What is the role of the Himachal Pradesh State Supply Corporation?",
+      "answer": "The HP State Supply Corporation is responsible for issuing the gas connections to the beneficiaries."
+    },
+    {
+      "question": "Are there any exclusions in income for eligibility?",
+      "answer": "Yes, income from MNREGA is excluded from the income calculations for eligibility."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Applicant needs to submit Scheduled Caste Certificate, BPL Certificate, and Income Certificate."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Eligible women can apply through their Gram Sabha/Nagar Panchayat by submitting Form-1 along with required documents to the CDPO."
+    },
+    {
+      "question": "What happens after submitting the application to the CDPO?",
+      "answer": "The CDPO will review your application for completeness and accuracy. If everything is in order, your application will be forwarded to the District Program Officer (DPO) for further processing and approval."
+    },
+    {
+      "question": "Where can I submit the application form?",
+      "answer": "The application form should be submitted to the Child Development Project Officer of your area."
+    }
+  ]
+}

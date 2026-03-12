@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Sugar Distribution Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sds",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Sugar Distribution Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Sugar Distribution Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide sugar at subsidized rates to the households under the Antyodaya Anna Yojana (AAY) scheme of the National Food Security Act (NFSA), 2013. Under this scheme, beneficiaries are ensured access to essential commodities at affordable prices to enhance food security."
+    ],
+    "benefits": [
+      "Subsidized Sugar Distribution:",
+      "Eligible households receive sugar at reduced prices to improve affordability and accessibility.",
+      "Targeted Beneficiaries:",
+      "Focus on households under the Antyodaya Anna Yojana (AAY) for effective support to vulnerable sections.",
+      "Disbursement:",
+      "Monthly distribution ensures consistent support to beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Jharkhand.",
+      "The applicant must belong to a household holding an Antyodaya Anna Yojana (AAY) ration card under the NFSA.",
+      "The applicant should provide Aadhaar authentication or an Aadhaar number for identity verification."
+    ],
+    "application_process": {
+      "offline": [
+        "Visit the nearest ration shop or designated enrollment center with the required documents.",
+        "If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center.",
+        "Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration.",
+        "Verify the eligibility and documents with the designated officer.",
+        "Collect the sugar from the distribution center as per the monthly schedule."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card or Aadhaar Enrolment ID Slip.",
+      "Bank or Post Office Passbook with Photo.",
+      "Permanent Account Number (PAN) Card.",
+      "Passport (if applicable).",
+      "Ration Card.",
+      "Voter Identity Card.",
+      "MGNREGA Job Card.",
+      "Kisan Photo Passbook.",
+      "Driving License.",
+      "Certificate of Identity with Photo (issued by a Gazetted Officer or Tehsildar)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Sugar Distribution Scheme?",
+      "answer": "Households with an Antyodaya Anna Yojana (AAY) ration card under NFSA."
+    },
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "Subsidized sugar for eligible households."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Submit an application with the required documents at your local distribution center."
+    },
+    {
+      "question": "What documents are mandatory?",
+      "answer": "Aadhaar Card or Aadhaar Enrolment ID Slip and one additional identity document."
+    },
+    {
+      "question": "Is Aadhaar mandatory for this scheme?",
+      "answer": "Yes, Aadhaar authentication is required."
+    },
+    {
+      "question": "What if my Aadhaar authentication fails?",
+      "answer": "Alternative methods like iris or face authentication will be used, or Aadhaar QR code verification may be conducted."
+    },
+    {
+      "question": "What is the frequency of sugar distribution?",
+      "answer": "Subsidized sugar is distributed monthly."
+    },
+    {
+      "question": "Is the scheme available statewide?",
+      "answer": "Yes, the scheme covers all districts in Jharkhand."
+    },
+    {
+      "question": "Can non-AAY households apply?",
+      "answer": "No, the scheme is exclusive to AAY cardholders."
+    },
+    {
+      "question": "What if I lose my Aadhaar card?",
+      "answer": "Use an Aadhaar enrolment slip or retrieve a copy online."
+    }
+  ]
+}

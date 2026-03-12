@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Medical Assistance to Beneficiaries (HPBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/matbhpbocwwb",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Medical Assistance to Beneficiaries (HPBOCWWB)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Medical Assistance to Beneficiaries\" scheme, launched by the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB) under the Government of Himachal Pradesh, offers registered beneficiaries and their dependents annual financial support for medical expenses, including ₹50,000 for outdoor treatment, ₹1,00,000 for indoor medical reimbursement, and ₹5,00,000 for critical illnesses, provided they submit valid medical bills from government hospitals or government-approved facilities."
+    ],
+    "benefits": [
+      "₹50,000 is provided annually for outdoor medical treatment.",
+      "₹1,00,000 is available each year for indoor medical expenses.",
+      "₹5,00,000 is granted yearly for critical illness treatment for the registered beneficiary and dependents, with valid medical bills."
+    ],
+    "eligibility": [
+      "For Registration",
+      "The applicant should be a resident of Himachal Pradesh",
+      "The applicant should be a Building/ Construction Worker.",
+      "The applicant should be aged between 18 and 60 years.",
+      "The worker should have completed at least 90 days of building and other construction work in the last 12 months.",
+      "The registration of the applicant should be renewed annually.",
+      "For Application",
+      "The applicant must be engaged in building or construction work.",
+      "The applicant must be registered under the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB).",
+      "The worker’s membership with the Welfare Board must be active at the time of application."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The interested applicant should visit the Labor Welfare Office (during office hours) and request a hard copy of the prescribed application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste a passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with a wage slip or appointment letter from the employer, verifying 90 days of construction work. If unavailable, a certificate from a local authority (such as a councillor, executive officer, or Panchayat Secretary) can be submitted to verify employment.",
+        "Step 4:",
+        "After submitting the documents and payment, the worker will receive an acknowledgement receipt confirming their registration.",
+        "Application Form",
+        "For the Scheme",
+        "Labour Registration",
+        "NOTE 1:",
+        "Ensure that the application is submitted within the prescribed period, if any.",
+        "NOTE 2:",
+        "After three years, the worker must visit the office to pay a renewal fee and submit proof of 90 days of work each year to maintain eligibility for benefits.",
+        "NOTE 3:",
+        "A one-time registration fee must be paid at the office, and it will be valid for three years."
+      ]
+    },
+    "documents_required": [
+      "Identity proof i.e. Aadhaar Card, Voter Card",
+      "Passport-size photograph",
+      "Undertaking",
+      "A copy Work Slip",
+      "Proof of residence",
+      "Ration Card",
+      "Bank account details/copy of bank passbook",
+      "Caste Certificate",
+      "Age proof",
+      "Labour Card",
+      "Medical Document",
+      "Medical Bills",
+      "Identity proof of the nominee/legal heir",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Website",
+      "Online Labour Registration",
+      "Scheme Form",
+      "Labour Registration Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Medical Assistance to Beneficiaries\" scheme?",
+      "answer": "It provides financial support for medical expenses to registered construction workers and their dependents under the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB)."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Registered beneficiaries of the HPBOCWWB, aged between 18 and 60 years, who have completed at least 90 days of building or construction work."
+    },
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "₹50,000 for outdoor medical treatment ₹1,00,000 for indoor medical treatment ₹5,00,000 for critical illness treatment"
+    },
+    {
+      "question": "How can I register for the scheme?",
+      "answer": "Registration can be done by visiting the Labour Welfare Office or through self-registration on the official portal."
+    },
+    {
+      "question": "Is there any age limit for registration?",
+      "answer": "Yes, applicants must be between 18 and 60 years of age."
+    },
+    {
+      "question": "What documents are required for registration?",
+      "answer": "A certificate confirming at least 90 days of building or construction work, along with proof of residence in Himachal Pradesh."
+    },
+    {
+      "question": "Do I need to be a resident of Himachal Pradesh to apply?",
+      "answer": "Yes, applicants must be residents of Himachal Pradesh."
+    },
+    {
+      "question": "Can I claim the medical benefits for my dependents?",
+      "answer": "Yes, the scheme covers the registered beneficiary and their dependents for medical expenses."
+    },
+    {
+      "question": "What kind of medical treatment is covered?",
+      "answer": "The scheme covers outdoor treatment, indoor treatment, and critical illness treatment."
+    },
+    {
+      "question": "Are there any restrictions on the hospitals for treatment?",
+      "answer": "Only government hospitals or government-approved hospitals can be used for medical treatment to claim the benefits."
+    }
+  ]
+}

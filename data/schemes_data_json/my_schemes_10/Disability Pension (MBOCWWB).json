@@ -1,0 +1,134 @@
+{
+  "scheme_name": "Disability Pension (MBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dpmbocwwb",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Disability Pension (MBOCWWB)",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Disability Pension” is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, the Board shall provide financial assistance in the form of a disability pension to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc. Additionally, the worker will be eligible for an ex-gratia payment based on the percentage of disability and subject to conditions as may fixed by the Board."
+    ],
+    "benefits": [
+      "The financial assistance of ₹150/- per month as disability pension shall be given to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc.",
+      "In addition to this pension, the worker will also be eligible for an exgratia payment of not more than ₹5,000/- depending upon the percentage of disability and subject to such conditions as may fixed by the Board."
+    ],
+    "eligibility": [
+      "The beneficiary should be a resident of Meghalaya.",
+      "The beneficiary should be engaged in a building or other construction work.",
+      "The beneficiary should be registered under the Meghalaya Building & Other Construction Workers Welfare Board.",
+      "The beneficiary should have an active membership of the Board.",
+      "Registered construction workers who have become permanently disabled due to conditions such as paralysis, leprosy, tuberculosis (T.B.), accidents, etc., are eligible to avail of the benefits under the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Online Worker Registration Process (Portal):",
+        "Step 01:",
+        "The applicants may visit the online Portal:",
+        "https://megbocwwb.gov.in/bocw_services/login.htm",
+        "Step 02:",
+        "The applicant can register by creating a new account, on the home page click on the ‘Worker’ button and enter all the mandatory information.",
+        "Step 03:",
+        "After filling in all the details, click on ‘Register’.",
+        "Step 04:",
+        "After successful registration, the applicant will see the message “Registered Successfully”.",
+        "Application Process for New Registration under the MBOCWWB:",
+        "Visit the online Portal:",
+        "Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.",
+        "After successful login, click on ‘Apply for New Registration’ from the menu.",
+        "Fill in all the required details in the Registration Form i.e. Personal Details, Service/Work Details, Bank Details, and Demographic Details, etc.",
+        "Step 05:",
+        "Click on 'Submit'.",
+        "Step 06:",
+        "After successful registration, you will be directed to another page to manage all the Family & Nominee Details. Click on ‘Add New’ to add Family members and Nominee Details.",
+        "Step 07:",
+        "After adding all the Family & Nominee Details, click on Proceed.",
+        "Step 08:",
+        "Now upload all the required enclosures i.e. Photograph, ID Proof, Employer Certificate/Self Certification, Bank Passbook of the Worker.",
+        "Step 09:",
+        "Click on the ‘Complete’ Button to complete the registration process.",
+        "Step 10:",
+        "Once your application has been processed and verified by Block/District LDA, Block/District Labour Inspector, and approved District Labour Commissioner (DLC), Registration Certificate will be generated.",
+        "Application Process for Disability Pension:",
+        "After successful login, click on the “Disability Pension” scheme from the Dashboard.",
+        "Fill in all the required information and necessary enclosures.",
+        "Click Submit to apply for benefits.",
+        "Application Process to Track/Update:",
+        "From the menu, click on ‘Track Application Status’.",
+        "Click on ‘View Details’ to view your application.",
+        "Click on ‘Application History’ to view the application history.",
+        "Click on ‘Update’ to update your application.",
+        "Note:",
+        "Once your application is under process or processed, you cannot update it.",
+        "(Worker’s",
+        "User Manual",
+        ")"
+      ]
+    },
+    "documents_required": [
+      "Enclosures required for New Registration under MBOCWWB:",
+      "Photograph of the worker",
+      "ID Proof of worker (Electoral Card, Ration Card, Driver's License, Aadhaar Card, Passport are acceptable)",
+      "Employer Certificate/Self Certification (Issued Either by the Labour Inspector or the Employer or SDO/AEE of Works Department)",
+      "Bank Passbook of the worker",
+      "eShram ID card, if any",
+      "Age proof of concerned building worker/applicant i.e. School certificate, Certificate from the Registrar of Birth and Deaths, Certificate from the Medical Officer not below the rank of an Assistant Surgeon in Government Service, Electoral Photo Identity Card",
+      "Nomination Form duly signed by the applicant",
+      "Self-declaration towards non-enrolment as a member of any other welfare fund/ board",
+      "SC/ST Certificate (if applicable)",
+      "Any other documents as required",
+      "Enclosures required for application of Disability Pension:",
+      "MBOCWWB ID Card of the concerned worker",
+      "Medical Certificate",
+      "Disability Certificate",
+      "Medical Bills (In case Applicant is admitted into Hospital)",
+      "Discharge Slip (In case Applicant is admitted into Hospital)",
+      "Bank account details/Bank Passbook"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Scheme Details",
+      "Online Application Portal",
+      "Registration Form",
+      "Application Form For Disability Pension",
+      "Nomination Form",
+      "Family Members Form",
+      "SDO Certificate",
+      "Employer Certificate"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who administers the Scheme?",
+      "answer": "The scheme is administered by the Labour Department, Government of Meghalaya, through the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB)."
+    },
+    {
+      "question": "Who is eligible for the Disability Pension Scheme?",
+      "answer": "Registered construction workers who have become permanently disabled due to conditions such as paralysis, leprosy, tuberculosis (T.B.), accidents, etc., are eligible to avail of the benefits under the scheme."
+    },
+    {
+      "question": "How much is the monthly disability pension?",
+      "answer": "The monthly disability pension provided under the scheme is ₹150/-."
+    },
+    {
+      "question": "How is the ex-gratia payment determined?",
+      "answer": "The ex-gratia payment, which can be up to ₹5,000/-, depends on the percentage of disability and is subject to conditions established by the Board."
+    },
+    {
+      "question": "Can a beneficiary receive both the disability pension and the ex-gratia payment?",
+      "answer": "Yes, eligible beneficiaries can receive both the monthly disability pension and the ex-gratia payment."
+    },
+    {
+      "question": "Are there any specific disabilities covered under the scheme?",
+      "answer": "Yes, the scheme covers disabilities resulting from conditions such as paralysis, leprosy, tuberculosis (T.B.), accidents, etc."
+    },
+    {
+      "question": "How does one apply for the Disability Pension Scheme?",
+      "answer": "Applications can be made online at http://megbocwwb.gov.in/bocw_services"
+    },
+    {
+      "question": "Can the application be tracked?",
+      "answer": "Yes, applications can be tracked from the Dashboard after logging into http://megbocwwb.gov.in/bocw_services"
+    }
+  ]
+}

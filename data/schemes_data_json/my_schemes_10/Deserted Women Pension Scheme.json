@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Deserted Women Pension Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dwp",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Deserted Women Pension Scheme",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The \"Deserted Women Pension Scheme\" has been launched by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to provide a monthly pension to deserted married women, mentally ill deserted husbands or wives, and destitute unmarried women above 40 years of age residing in the state."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "₹1,200/- per month.",
+      "For Mentally Disabled ill Husband/Wife:",
+      "₹1,400/- per month."
+    ],
+    "eligibility": [
+      "The applicant must be a permanent resident of Uttarakhand.",
+      "The applicant’s family monthly income must not exceed ₹4,000/- or the applicant must belong to the Below Poverty Line (BPL) category.",
+      "The applicant should fall into one of the following categories:",
+      "An abandoned/deserted married woman, or",
+      "A mentally ill deserted husband or wife, or",
+      "A destitute unmarried woman aged above 40 years.",
+      "For abandoned/deserted married women:",
+      "Marriage duration must be more than 1 year.",
+      "Husband must have been missing/absent for more than 1 year or must have deserted her.",
+      "A self-declaration regarding desertion must be certified by the Gram Pradhan/Ward Member.",
+      "For mentally ill deserted husbands/wives:",
+      "Must submit a disability certificate from a government hospital certifying the inability to earn a livelihood due to mental disability.",
+      "For destitute unmarried women:",
+      "Must be above 40 years of age.",
+      "Pension will be discontinued if the woman gets married."
+    ],
+    "application_process": {
+      "online": [
+        "The applicant can apply online either by themselves or through a Common Service Center (CSC) via the Department’s Pension Portal (",
+        "https://ssp.uk.gov.in",
+        "), the",
+        "UMANG",
+        "Mobile App, or the Apuni Sarkar Portal (",
+        "https://eservices.uk.gov.in",
+        ").",
+        "The following documents are mandatory at the time of applying:,",
+        "Applicant’s mobile number, Passport-size photograph (attested by Gram Pradhan / V.P.D.O. / certified by Councillor), Photocopy of Aadhaar card and Voter ID card, CBS bank account details (linked/seeded with Aadhaar), Valid family income certificate or BPL certificate, Copy of family register (for rural areas only), Copy of the resolution passed in the open meeting of Gram Panchayat (for rural areas) / certified by Councillor (for urban areas)",
+        "In the case of deserted women:",
+        "If the marriage has lasted for more than 01 year and the husband has been missing/abandoned for more than 01 year, the woman must submit a self-declaration regarding the matter. This declaration must be verified by the concerned Gram Pradhan/Ward Member.",
+        "In the case of mentally ill persons:",
+        "If a husband or wife is mentally ill, a certificate issued by the Medical Officer of a government hospital is required. The certificate must clearly indicate that the applicant is unable to earn a livelihood due to mental illness.",
+        "All the above documents must be issued from the district where the application is being submitted.",
+        "For verification of the online application form in rural areas, the final decision is taken by the District Social Welfare Officer after recommendations from the Gram Panchayat Development Officer, Assistant Social Welfare Officer, and Block Development Officer, respectively. In urban areas, verification and recommendation are done by the Assistant Social Welfare Officer and Sub-District Magistrate. If the application is found correct, the District Social Welfare Officer approves it, after which the pension payment process is initiated.",
+        "The pension is credited to the applicant’s bank account one month after the approval of the application."
+      ]
+    },
+    "documents_required": [
+      "Applicant’s mobile number",
+      "Passport-size photograph (certified by Gram Pradhan / V.P.D.O. / Councillor)",
+      "Aadhaar card",
+      "Voter ID card",
+      "CBS bank account linked/seeded with Aadhaar card",
+      "Valid family income certificate or BPL certificate",
+      "Proof of age (In case of destitute unmarried woman)",
+      "Must submit a disability certificate from a government hospital certifying the inability to earn a livelihood due to mental disability (For mentally ill deserted husbands/wives)",
+      "A self-declaration regarding desertion must be certified by the Gram Pradhan/Ward Member (For abandoned/deserted married woman)",
+      "Copy of family register (only for rural areas)",
+      "Note:",
+      "All the above documents must be issued from the district where the application is submitted."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 17)",
+      "Online Application Portal",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Deserted Woman Pension Scheme?",
+      "answer": "Deserted women, women with mentally challenged spouses, and unmarried destitute women above 40 years living in Uttarakhand."
+    },
+    {
+      "question": "What is the monthly pension amount?",
+      "answer": "₹1,200 or ₹1,400 per month depending on the beneficiary category."
+    },
+    {
+      "question": "Is it necessary to be a resident of Uttarakhand?",
+      "answer": "Yes, permanent residency is mandatory."
+    },
+    {
+      "question": "Can a widow apply under this scheme?",
+      "answer": "No."
+    },
+    {
+      "question": "What is the income limit for eligibility?",
+      "answer": "The applicant’s family monthly income must not exceed ₹4,000 or the applicant must belong to the Below Poverty Line (BPL) category."
+    },
+    {
+      "question": "Is bank account linking required?",
+      "answer": "Yes, the Aadhaar-linked bank account is mandatory for DBT."
+    },
+    {
+      "question": "Is there an age requirement?",
+      "answer": "Yes, for destitute unmarried women, the minimum age requirement is above 40 years."
+    },
+    {
+      "question": "Will the pension continue if a destitute unmarried woman gets married?",
+      "answer": "No, the pension will be discontinued if the woman gets married."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "You can apply online through the Department’s pension portal: h ttps://ssp.uk.gov.in/ , Umang mobile app, Apni Sarkar portal: https://eservices.uk.gov.in , or by visiting a Common Service Centre (CSC)."
+    }
+  ]
+}

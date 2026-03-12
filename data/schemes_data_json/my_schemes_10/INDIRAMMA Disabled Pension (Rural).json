@@ -1,0 +1,94 @@
+{
+  "scheme_name": "INDIRAMMA Disabled Pension (Rural)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/idp-andhra",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "INDIRAMMA Disabled Pension (Rural)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2006-07, the scheme \"INDIRAMMA Disabled Pension (Rural)\" by the Department of Rural Development, Government of Andhra Pradesh, aims to disburse monthly pensions to the individuals 18 years or above in age and having a disability of 40% or above. To be eligible, they should be from a BPL family, be a resident of the district, and not be covered under any other Pension Scheme. The eligible individuals will be identified by their respective Gram Sabhas. The Panchayat Secretary disburses the pension to the eligible individuals on the first date of every month."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+      "Mode of Disbursement:",
+      "The Panchayat Secretary disburses the pension to the eligible citizens, in the presence of Sarpanch, Gram Panchayat Members and the Office Bearers of Village Organization.",
+      "Time of Disbursement:",
+      "The pension is disbursed on the first date of every month."
+    ],
+    "eligibility": [
+      "The applicant should be from a Below Poverty Line (BPL) family.",
+      "The applicant should be a local resident of the district.",
+      "The applicant should be from a rural area.",
+      "The applicant should not be covered under any other Pension Scheme.",
+      "The applicant should have a disability of 40% or above.",
+      "The applicant should be 18 years or above in age.",
+      "* The eligible citizens will be identified by their respective Gram Sabhas. The register containing the list of eligible citizens will be shared by the Panchayat Secretary with the Mandal Parishad Development Officer (MPDO)."
+    ],
+    "application_process": {
+      "offline": [
+        "The eligible citizens will be identified by their respective Gram Panchayat during the Gram Sabhas. The Panchayat Secretary maintains a register of eligible persons and sends the Gram Sabha resolution recommending eligible persons to the Mandal Parishad Development Officer (MPDO)."
+      ]
+    },
+    "documents_required": [
+      "Proof of Age",
+      "Domicile Certificate",
+      "Below Poverty Line (BPL) Certificate",
+      "Proof of Disability"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the eligibility criteria for applying for the INDIRAMMA Disabled Pension scheme?",
+      "answer": "Applicants must be 18 years or older, have a disability of 40% or above, belong to a BPL family, be a local resident of the district, and not be covered under any other pension scheme."
+    },
+    {
+      "question": "How is the INDIRAMMA Disabled Pension amount determined for eligible applicants?",
+      "answer": "The pension amount is determined and notified by the Government of Andhra Pradesh, with disbursement made on the first date of every month."
+    },
+    {
+      "question": "What documents are required to apply for the INDIRAMMA Disabled Pension scheme?",
+      "answer": "Applicants need to provide proof of age, a domicile certificate, a BPL certificate, and proof of disability to be considered for the pension."
+    },
+    {
+      "question": "Who is responsible for identifying eligible individuals for the INDIRAMMA Disabled Pension scheme?",
+      "answer": "Eligible individuals are identified by their respective Gram Sabhas, and the Panchayat Secretary maintains a register of these individuals."
+    },
+    {
+      "question": "How and when is the INDIRAMMA Disabled Pension disbursed to eligible applicants?",
+      "answer": "The pension is disbursed by the Panchayat Secretary on the first date of every month in the presence of Sarpanch and Gram Panchayat members."
+    },
+    {
+      "question": "Can individuals already covered under another pension scheme apply for the INDIRAMMA Disabled Pension?",
+      "answer": "No, applicants must not be covered under any other pension scheme to be eligible for the INDIRAMMA Disabled Pension."
+    },
+    {
+      "question": "What role does the Gram Sabha play in the INDIRAMMA Disabled Pension application process?",
+      "answer": "The Gram Sabha conducts meetings to identify eligible persons based on the scheme’s eligibility criteria and recommends them for the pension."
+    },
+    {
+      "question": "Who maintains the register of eligible individuals for the INDIRAMMA Disabled Pension scheme?",
+      "answer": "The Panchayat Secretary maintains a register of eligible individuals, including existing pensioners and new applicants."
+    },
+    {
+      "question": "What is the role of the Mandal Parishad Development Officer (MPDO) in the pension process?",
+      "answer": "The MPDO scrutinizes the eligibility of recommended applicants and sanctions pensions based on district-wise allocations."
+    },
+    {
+      "question": "How are new applicants added to the INDIRAMMA Disabled Pension scheme?",
+      "answer": "New applicants are identified by the Gram Sabha and added to Part B of the register maintained by the Panchayat Secretary."
+    },
+    {
+      "question": "Who issues the cheques for the INDIRAMMA Disabled Pension disbursement?",
+      "answer": "The MPDO issues cheques to the Panchayat Secretaries, who then disburse the pensions to eligible individuals."
+    },
+    {
+      "question": "How are existing pensioners accounted for in the INDIRAMMA Disabled Pension scheme?",
+      "answer": "Existing pensioners are listed in Part A of the register maintained by the Panchayat Secretary."
+    }
+  ]
+}

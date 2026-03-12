@@ -1,0 +1,122 @@
+{
+  "scheme_name": "Haryana Divyang Pension Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/hdps",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Haryana Divyang Pension Scheme",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The “Haryana Divyang Pension Scheme” was introduced by the Government of Haryana in the financial year 1981-82 to provide social security to disabled individuals in the state. The scheme aims to support disabled persons who are unable to sustain themselves through their own resources and require financial assistance from the state. Under this scheme, disabled persons who are domiciles of Haryana, have a minimum of 60% disability, and are 18 years of age or older, are eligible for a pension based on the criteria outlined in the scheme’s rules."
+    ],
+    "benefits": [
+      "Under this scheme, financial assistance of ₹3,000/- per month is provided as a pension to disabled persons with a minimum of 60% disability."
+    ],
+    "eligibility": [
+      "1. The applicant should be a domicile of Haryana and should have been residing in the state for at least 3 years at the time of submitting the application.",
+      "2. The applicant should be 18 years of age or older.",
+      "3. The applicant’s self-income from all sources should not exceed the minimum wage for unskilled labour as notified by the Labour Department.",
+      "4. The applicant should have a disability ranging from 60% to 100%.",
+      "5. The applicant should have one of the following disabilities:",
+      "• Blindness",
+      "• Low vision",
+      "• Leprosy cured",
+      "• Hearing impairment",
+      "• Locomotor disability",
+      "• Intellectual disability (Mental Retardation)",
+      "• Mental illness"
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "The eligible applicant may apply online through the Official Portal-",
+        "Antyodaya-SARAL Portal",
+        ".",
+        "Step 2:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 3:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 4:",
+        "Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to apply for the scheme:",
+        "To avail the benefits of the scheme, visit the Official",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’.",
+        "Now, you can search for the scheme and click on ‘Proceed to Apply’ to fill out the application form.",
+        "Step 5:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 6:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track their applications through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "Identity proof i.e. Aadhaar Card",
+      "Passport-size photograph",
+      "Domicile certificate",
+      "Disability certificate of 60% & above",
+      "Proof of age",
+      "Proof of address",
+      "Income proof/certificate",
+      "Ration Card",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details-1",
+      "Scheme Details-2",
+      "Scheme Details-3",
+      "Notification-1",
+      "Guidelines",
+      "Notification- 2"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of this Scheme?",
+      "answer": "The scheme aims to offer financial support to disabled individuals who need assistance from the state due to their inability to sustain themselves through personal resources."
+    },
+    {
+      "question": "What is the minimum percentage of disability?",
+      "answer": "Disability range should be from 60-100%."
+    },
+    {
+      "question": "What are the benefits under the Scheme?",
+      "answer": "Eligible beneficiaries receive a monthly pension of ₹3,000 under this scheme."
+    },
+    {
+      "question": "Who is eligible for the Scheme?",
+      "answer": "To be eligible, the applicant must: 1. Be a domicile of Haryana and have resided in the state for at least 3 years. 2. Be 18 years or older. 3. Have a disability of at least 60%. 4. Have an income below the minimum wage for unskilled labor as notified by the Labour Department."
+    },
+    {
+      "question": "What are the types of disabilities covered under this scheme?",
+      "answer": "1. Blindness 2. Low vision 3. Leprosy cured 4. Hearing impairment 5. Locomotor disability 6. Intellectual disability (Mental Retardation) 7. Mental illness"
+    },
+    {
+      "question": "What is the minimum disability percentage required for the pension?",
+      "answer": "The applicant must have a minimum disability of 60%."
+    },
+    {
+      "question": "Is there an age limit for the applicant?",
+      "answer": "Yes, the applicant must be at least 18 years old to qualify for the scheme."
+    },
+    {
+      "question": "Can individuals from other states apply for this pension?",
+      "answer": "No, the applicant must be a domicile of Haryana and should have been living in the state for at least 3 years before applying."
+    },
+    {
+      "question": "Is there an income limit for applicants?",
+      "answer": "Yes, the applicant’s self-income from all sources must not exceed the minimum wage for unskilled labor as notified by the Haryana Labour Department."
+    },
+    {
+      "question": "How can one apply for the Scheme?",
+      "answer": "Applicants can apply through the nearest e-disha Center and Atal Seva Kendra, or online on the Antyodaya-SARAL Portal."
+    }
+  ]
+}

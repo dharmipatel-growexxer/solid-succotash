@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Disability Pension (BBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dpbbocwwb",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Disability Pension (BBOCWWB)",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The 'Disability Pension' scheme is implemented by the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB), Labour Resources Department, Government of Bihar. The scheme aims to provide financial assistance to registered construction workers with disabilities. Eligible workers receive ₹1,000/- per month for permanent disabilities caused by conditions such as paralysis, leprosy, tuberculosis, or accidents. Additionally, a one-time assistance of ₹75,000/- is granted for total permanent disability, and ₹50,000/- for partial disability. To avail of benefits under this scheme, workers should maintain an active membership with the Board."
+    ],
+    "benefits": [
+      "Eligible registered construction workers under this scheme will receive the following financial assistance:",
+      "A monthly financial assistance of ₹1,000/- is given to workers with permanent disabilities caused by conditions such as paralysis, leprosy, tuberculosis, or accidents.",
+      "A one-time assistance of ₹75,000/- is given to workers in case of permanent total disability.",
+      "A one-time assistance of ₹50,000/- is given to workers in case of partial disability."
+    ],
+    "eligibility": [
+      "The worker should be engaged in building or construction work.",
+      "The worker should be registered with the Bihar Building & Other Construction Workers Welfare Board.",
+      "The worker's membership with the Board should be active.",
+      "The worker should have a permanent total or partial disability caused by illness or an accident to be eligible for the scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Registration of a Construction Worker under BBOCWWB:",
+        "Step 1:",
+        "Visit the",
+        "Official Website",
+        "of the Bihar Building and Other Construction Workers Welfare Board.",
+        "Step 2:",
+        "On the homepage, click on \"",
+        "Labour Registration",
+        "\".",
+        "Step 3:",
+        "Enter your Aadhar card number and name, then click \"Authenticate\".",
+        "Step 4:",
+        "A dashboard will appear. Enter all required details, ensuring that all fields marked with an asterisk (*) are filled in correctly.",
+        "Step 5:",
+        "Click on \"Submit\" and proceed to pay the application fee online.",
+        "Step 6:",
+        "You will receive your construction worker registration number upon successful registration.",
+        "Apply for Scheme Benefits:",
+        "Click on \"Login\" and select \"Labour\".",
+        "Enter your registration number & year of Birth, click \"Show\" to view your details.",
+        "Select the scheme you wish to apply for to avail the benefits.",
+        "Enter all required information and upload the necessary documents.",
+        "Click on \"Submit Application\" to complete the process.",
+        "Application Tracking:",
+        "Applicant can track their application status online through the",
+        "of the Bihar Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Registration Number of worker",
+      "Passport-size photograph",
+      "Proof of residence",
+      "Ration card",
+      "Bank account details/copy of bank passbook",
+      "Disability Certificate issued by the Civil Surgeon-cum- Chief Medical Officer",
+      "Life certificate",
+      "Medical details from government hospital, date of admission and certificate related to discharge, if applicable",
+      "Medical bill countersigned by the doctor, if applicable",
+      "Undertaking/declaration",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Labour Registration",
+      "Scheme Application",
+      "Check Scheme Application Status"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Registered construction workers with permanent total or partial disabilities caused by illness or accidents are eligible, provided they have an active membership with the BBOCWWB."
+    },
+    {
+      "question": "What financial assistance is provided under this scheme?",
+      "answer": "Eligible workers receive ₹1,000/- per month for permanent disabilities. One-time assistance of ₹75,000/- is given for total permanent disability, and ₹50,000/- is granted for partial disability."
+    },
+    {
+      "question": "Which types of disabilities are covered under the scheme?",
+      "answer": "The scheme covers disabilities caused by conditions such as paralysis, leprosy, tuberculosis, accidents, and other serious health conditions resulting in permanent disability."
+    },
+    {
+      "question": "Are both total and partial disabilities covered under the scheme?",
+      "answer": "Yes, both total and partial disabilities are covered. Total disability results in ₹75,000/- one-time assistance, and partial disability results in ₹50,000/- one-time assistance."
+    },
+    {
+      "question": "How can a construction worker register for this scheme?",
+      "answer": "Construction workers can register through the official website of the Bihar Building & Other Construction Workers Welfare Board: https://bocwscheme.bihar.gov.in/home"
+    },
+    {
+      "question": "Can unorganized workers apply for this scheme?",
+      "answer": "Yes, unorganized workers engaged in construction work, such as masons, carpenters, electricians, painters, and others, are eligible if they meet the criteria."
+    },
+    {
+      "question": "What is the process for applying for benefits under this scheme?",
+      "answer": "Workers can apply for the scheme benefits through the official BBOCWWB website: https://bocwscheme.bihar.gov.in/home"
+    },
+    {
+      "question": "Which workers are covered under the scheme?",
+      "answer": "The scheme covers a wide range of unorganized workers, including masons, carpenters, electricians, painters, laborers, and many others working in construction."
+    },
+    {
+      "question": "How can I track my application for the scheme?",
+      "answer": "You can track the application status online through the official BBOCWWB website: https://bocwscheme.bihar.gov.in/home"
+    }
+  ]
+}

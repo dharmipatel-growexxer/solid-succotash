@@ -1,0 +1,132 @@
+{
+  "scheme_name": "Education Loan Scheme for Backward Classes Haryana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/elsbch",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Education Loan Scheme for Backward Classes Haryana",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Education Loan Scheme for Backward Classes\" by the Haryana Backwards Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana, aims to provide education loans to members of Backward Classes for pursuing professional and technical education at the graduate and higher levels. Through this scheme, education loans are provided to eligible Backward Classes students to help them pursue professional and technical courses. The scheme is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam."
+    ],
+    "benefits": [
+      "Education loan for pursuing professional and technical education at the graduate and higher levels.",
+      "The maximum loan amount provided is ₹15,00,000/- for studies in India.",
+      "The maximum loan amount provided is ₹20,00,000/- for studies abroad.",
+      "The interest rate is 4% per annum.",
+      "For girl students, the interest rate is 3.5% per annum."
+    ],
+    "eligibility": [
+      "The applicant should be between 18 to 55 years of age.",
+      "The applicant should be a permanent resident of Haryana.",
+      "The annual family income of the applicant should not exceed ₹3,00,000/- in both rural and urban areas.",
+      "The applicant should belong to Backward Classes.",
+      "The applicant should have obtained admission for any professional and technical courses approved by an appropriate agency, such as AICTE, Medical Council of India, UGC, etc., in a duly accredited/recognised institute.",
+      "The applicant should have a minimum of 50% marks in the qualifying exam, i.e., the exam whose qualification is a prerequisite for the course.",
+      "The applicant should have a Pariwar Pehchan Patra (PPP ID)."
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Registration Process on Antyodaya-SARAL Portal",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details,i.e., Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Apply for the Scheme",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS",
+        "Registered Mobile Number:",
+        "Type 'SARAL' and send it to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket."
+      ]
+    },
+    "documents_required": [
+      "Identity/Citizenship/Age Proof (Aadhar Card)",
+      "Resident Proof/Address Proof/Ownership Proof (Haryana Domicile Certificate)",
+      "Caste/Religion Proof",
+      "Caste Certificate for the Reserved Category",
+      "Photo of Applicant",
+      "Pariwar Pehchan Patra (PPP ID)",
+      "Admission Proof",
+      "Fee Structure",
+      "Previous Qualification Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the schemes primarily aimed at?",
+      "answer": "The scheme is primarily aimed at providing education loans to members of Backward Classes for pursuing professional and technical education at graduate and higher levels."
+    },
+    {
+      "question": "What is the age limit to be eligible for this education loan scheme?",
+      "answer": "The applicant's age should be between 18 to 55 years to be eligible for the scheme."
+    },
+    {
+      "question": "Do I need to be a resident of Haryana to apply for this education loan?",
+      "answer": "Yes, you must be a permanent resident of Haryana to be eligible for this education loan."
+    },
+    {
+      "question": "Which social class do I need to belong to to avail of this loan?",
+      "answer": "You must belong to Backward Classes to be eligible for this education loan scheme."
+    },
+    {
+      "question": "What kind of courses are covered under this education loan scheme?",
+      "answer": "The scheme covers professional and technical courses approved by appropriate agencies such as AICTE, Medical Council of India, UGC, etc., in a duly accredited/recognised institute."
+    },
+    {
+      "question": "Is there a minimum marks requirement in the qualifying exam to be eligible for the loan?",
+      "answer": "Yes, the applicant should have obtained a minimum of 50% marks in the qualifying exam, which is a prerequisite for the course."
+    },
+    {
+      "question": "What is the interest rate on the education loan for male students?",
+      "answer": "The interest rate for the education loan is 4% interest per annum for male students."
+    },
+    {
+      "question": "Is there a different interest rate for girl students under this scheme?",
+      "answer": "Yes, for girl students, the education loan is provided at an interest rate of 3.5% per annum."
+    },
+    {
+      "question": "Does the scheme cover education at higher levels beyond graduate?",
+      "answer": "Yes, the scheme provides education loans for professional and technical education at higher levels."
+    },
+    {
+      "question": "Is there a specific name for the department that manages this scheme?",
+      "answer": "Yes, the scheme is managed by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam."
+    },
+    {
+      "question": "Is there a helpline number available for queries related to the scheme?",
+      "answer": "Yes, the helpline number is 0172-3968400."
+    },
+    {
+      "question": "Is there an email address where I can send inquiries regarding the scheme?",
+      "answer": "Yes, you can send inquiries to saral.haryana@gov.in."
+    },
+    {
+      "question": "What academic documents from my past qualifications are needed?",
+      "answer": "You will need to provide your previous qualification certificate."
+    },
+    {
+      "question": "Will I need to submit details about the course fees?",
+      "answer": "Yes, a fee structure document is required."
+    }
+  ]
+}

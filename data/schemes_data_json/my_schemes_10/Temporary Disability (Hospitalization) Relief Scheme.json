@@ -1,0 +1,85 @@
+{
+  "scheme_name": "Temporary Disability (Hospitalization) Relief Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/tdhrs",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "Temporary Disability (Hospitalization) Relief Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Temporary Disability (Hospitalization) Relief Scheme\" welfare scheme by the Andhra Pradesh Building and Other Construction Workers Welfare Board offers financial assistance to registered construction workers who face temporary disability due to accidents or diseases. The scheme aims to help workers and their families manage the financial impact of temporary disability by offering timely relief."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹3,000/- per month."
+    ],
+    "eligibility": [
+      "The construction worker should be registered under the Andhra Pradesh Building and Other Construction Workers Welfare Board.",
+      "The worker should have a temporary disability due to an accident/disease."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should visit (during office hours) the A.P. Building & Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Assistant Labour Officer/Assistant Commissioner of Labour.",
+        "Step-4:",
+        "Request a receipt or acknowledgement from the Assistant Labour Officer/Assistant Commissioner of Labour to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of the worker.",
+      "Medical Certificate indicating the nature of the disability.",
+      "Registration Certificate with the Welfare Board.",
+      "Bank Account Details.",
+      "Any Other Documents if required."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Temporary Disability Relief Scheme?",
+      "answer": "This scheme provides financial assistance to construction workers suffering from temporary disabilities due to accidents or diseases."
+    },
+    {
+      "question": "How much money is provided under the scheme?",
+      "answer": "The scheme offers ₹3,000 per month during the period of disability or hospitalization."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Any registered construction worker with the Andhra Pradesh Building and Other Construction Workers Welfare Board who has suffered a temporary disability."
+    },
+    {
+      "question": "How long can I receive the monthly relief?",
+      "answer": "The benefit is provided as long as the worker is hospitalized or unable to work due to the disability."
+    },
+    {
+      "question": "Can family members apply on behalf of the worker?",
+      "answer": "Yes, family members can apply if the worker is unable to submit the application personally."
+    },
+    {
+      "question": "How is the money disbursed?",
+      "answer": "The relief amount is directly transferred to the worker's bank account monthly."
+    },
+    {
+      "question": "Where can I find more details about this scheme?",
+      "answer": "You can visit the official website of the Andhra Pradesh Building and Other Construction Workers Welfare Board or visit the nearest Labour Department office for more information."
+    },
+    {
+      "question": "What proof is needed for hospitalization?",
+      "answer": "You will need to provide hospital bills or medical records that verify the hospitalization."
+    },
+    {
+      "question": "Can I apply for the benefit if the disability is caused by an illness?",
+      "answer": "Yes, the scheme covers disabilities caused by both accidents and diseases."
+    },
+    {
+      "question": "Can I receive the benefit if I was hospitalized for a non-work-related accident?",
+      "answer": "Yes, as long as you are a registered construction worker, the scheme covers both work-related and non-work-related accidents."
+    }
+  ]
+}

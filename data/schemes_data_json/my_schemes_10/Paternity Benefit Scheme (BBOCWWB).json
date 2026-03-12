@@ -1,0 +1,119 @@
+{
+  "scheme_name": "Paternity Benefit Scheme (BBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pbsbbocwwb",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Paternity Benefit Scheme (BBOCWWB)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Paternity Benefit Scheme\" by the Bihar Building & Other Construction Workers' Welfare Board, Labour Resources Department, Government of Bihar, provides ₹6,000/- per childbirth to the male workers, provided that their wife is not registered with the Board."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹6,000/- per childbirth for upto two childbirths."
+    ],
+    "eligibility": [
+      "The applicant should be a worker.",
+      "The applicant should be a male.",
+      "The applicant should be engaged in building or construction work.",
+      "The applicant should be registered with the \"Bihar Building & Other Construction Workers Welfare Board\".",
+      "The applicant's membership with the Welfare Board must be active at the time of application.",
+      "The applicant should have at least one year of membership with the Board.",
+      "The wife of the applicant should not be registered with the Board.",
+      "The benefits will be applicable for the first two childbirths."
+    ],
+    "application_process": {
+      "online": [
+        "Registration of a Construction Worker under BBOCWWB:",
+        "Step 1:",
+        "Visit the",
+        "Official Website",
+        "of the Bihar Building and Other Construction Workers Welfare Board.",
+        "Step 2:",
+        "On the homepage, click on \"",
+        "Labour Registration",
+        "\".",
+        "Step 3:",
+        "Enter your Aadhar card number and name, then click \"Authenticate\".",
+        "Step 4:",
+        "A dashboard will appear. Enter all required details, ensuring that all fields marked with an asterisk (*) are filled in correctly.",
+        "Step 5:",
+        "Click on \"Submit\" and proceed to pay the application fee online.",
+        "Step 6:",
+        "You will receive your construction worker registration number upon successful registration.",
+        "Apply for Scheme Benefits:",
+        "Click on \"Login\" and select \"Labour\".",
+        "Enter your registration number & year of Birth, click \"Show\" to view your details.",
+        "Select the scheme you wish to apply for to avail the benefits.",
+        "Enter all required information and upload the necessary documents.",
+        "Click on \"Submit Application\" to complete the process.",
+        "Application Tracking:",
+        "Applicant can track their application status online through the",
+        "of the Bihar Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    },
+    "documents_required": [
+      "Identity Card of the Registered Worker",
+      "Bank Account Details",
+      "Birth Certificate",
+      "Proof of Membership",
+      "Proof of Age at the Time of Registration",
+      "Any Other Documents as Required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Website",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "As a male construction worker in Bihar, how do I confirm if I'm eligible for financial assistance during my wife's childbirth, and what is the amount I could receive?",
+      "answer": "The benefit amount is ₹6,000/- per childbirth. To be eligible, you must be a registered male construction worker with the Bihar Building & Other Construction Workers Welfare Board, with at least one year of active membership. Your wife should not be registered with the Board."
+    },
+    {
+      "question": "If I am planning to have more children in the future, would I be able to receive the paternity benefit for each childbirth as a registered construction worker?",
+      "answer": "The benefit of ₹6,000/- is only applicable for the first two childbirths. Any subsequent childbirths will not be eligible for this financial assistance under the scheme."
+    },
+    {
+      "question": "What is the minimum duration of membership required with the Bihar Building & Other Construction Workers Welfare Board to avail of the paternity benefit?",
+      "answer": "You must have completed at least one year of membership with the Board, and your membership should be active at the time of applying for the benefit."
+    },
+    {
+      "question": "I am a registered construction worker, but my wife is also registered with the Bihar Building & Other Construction Workers Welfare Board. Can I still apply for the benefit?",
+      "answer": "No, you are not eligible for the benefit if your wife is registered with the Board. This scheme is specifically for male workers whose wives are not registered with the Board."
+    },
+    {
+      "question": "How can I begin the registration process as a construction worker to eventually apply for various benefits offered by the welfare board?",
+      "answer": "Visit the official website of the Bihar Building and Other Construction Workers Welfare Board and click \"Apply for New Registration\". You'll need to provide your Aadhaar Number for authentication, fill in all mandatory fields marked with an asterisk (*), and pay the application fee online."
+    },
+    {
+      "question": "What is the process to apply for the benefit after I have completed my registration as a construction worker with the welfare board?",
+      "answer": "Visit the Board's official website, click on \"Scheme Application\" and select \"Apply for Scheme\". Enter your registration number to view your details, select the relevant scheme, enter all mandatory information, and upload the required documents in the specified format and size."
+    },
+    {
+      "question": "As an applicant, what are the essential documents I need to keep ready before starting the application process for the benefit?",
+      "answer": "You need to prepare your Identity Card as a Registered Worker, Bank Account Details, Birth Certificate, Proof of Membership, Proof of Age at the Time of Registration, and any additional documents that may be required by the Board."
+    },
+    {
+      "question": "How can I track the status of my benefit application after submission?",
+      "answer": "You can track your application status online through the Board's official website by entering your registration number in the tracking system."
+    },
+    {
+      "question": "I work part-time in construction and have other jobs as well. Would I still be eligible for the paternity benefit as a registered worker?",
+      "answer": "As long as you are engaged in building or construction work and are registered with the Bihar Building & Other Construction Workers Welfare Board, you are eligible. The scheme doesn't specify exclusive employment in construction."
+    },
+    {
+      "question": "If I registered with the welfare board six months ago and my wife is expecting soon, would I qualify for the paternity benefit?",
+      "answer": "No, you would not qualify yet. The scheme requires a minimum of one year of membership with the Board before you can apply for the benefit."
+    },
+    {
+      "question": "After registering online as a construction worker, how long should I wait before I can proceed with applying for the paternity benefit through the board's website?",
+      "answer": "While the application process is available online through the \"Scheme Application\" section, you must ensure you meet the one-year membership requirement before applying. The system will verify your eligibility when you enter your registration number."
+    },
+    {
+      "question": "What information will I need to have ready when clicking the \"Show\" button after entering my registration number during the benefit application?",
+      "answer": "The system will display your details based on your registration number. You should be prepared to verify this information and have your documents ready to proceed with selecting the scheme and entering mandatory information."
+    }
+  ]
+}

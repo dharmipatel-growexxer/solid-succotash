@@ -1,0 +1,92 @@
+{
+  "scheme_name": "Financial Assistance for Widow or Widower of Registered Construction Worker",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fawwrcw",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Financial Assistance for Widow or Widower of Registered Construction Worker",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The “Financial Assistance for Widow or Widower of Registered Construction Worker” scheme was implemented by the Maharashtra Building and Other Construction Workers Welfare Board. Under this scheme, financial assistance of ₹24,000/- p.a. up to 5 years to the widow or widower in case of death of a registered worker during the course of employment."
+    ],
+    "benefits": [
+      "Financial assistance of ₹24,000/- per annum up to 5 years to the widow or widower."
+    ],
+    "eligibility": [
+      "The applicant should be the widow or widower of a deceased construction worker.",
+      "The deceased worker must have been registered with the Maharashtra Building and Other Construction Workers Welfare Board."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant downloads the",
+        "application form",
+        "from the MBOCWW official website.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labor Commissioner/Government Labor Officer.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo",
+      "Aadhaar Card",
+      "Identity Card of Maharashtra Building and Other Construction Workers Welfare Board",
+      "Bank Passbook",
+      "Death Certificate (Issued by competent medical authorities)",
+      "Proof of Residence (One of Aadhaar Card/Passport/Driving Licence/Ration Sheet/Last Month's Electricity Bill/Gram Panchayat Certificate)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of this scheme?",
+      "answer": "The scheme provides financial support to the widow or widower of a deceased registered construction worker."
+    },
+    {
+      "question": "How much financial assistance is provided?",
+      "answer": "₹24,000 per year is provided for up to five years."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "The widow or widower of a construction worker registered with the Maharashtra Building and Other Construction Workers Welfare Board."
+    },
+    {
+      "question": "How long will the assistance be given?",
+      "answer": "The assistance will be provided for five years after the worker’s death."
+    },
+    {
+      "question": "Is this scheme available outside Maharashtra?",
+      "answer": "No, it is only for registered construction workers in Maharashtra."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "Passport-size photo, Aadhaar card, worker’s ID card, bank passbook, death certificate, and proof of residence."
+    },
+    {
+      "question": "Can the application be submitted online?",
+      "answer": "No, applications must be submitted offline at the Labour Commissioner’s office."
+    },
+    {
+      "question": "Where can I get the application form?",
+      "answer": "The form is available on the MBOCWW website (mahabocw.in)."
+    },
+    {
+      "question": "Can I apply if my spouse wasn’t registered?",
+      "answer": "No, the construction worker must have been registered with the Board."
+    },
+    {
+      "question": "Does the scheme cover non-work-related deaths?",
+      "answer": "No, it only applies if the worker died during employment."
+    },
+    {
+      "question": "Is there a time limit to apply after the worker’s death?",
+      "answer": "There’s no strict deadline, but applying as soon as possible is recommended."
+    }
+  ]
+}

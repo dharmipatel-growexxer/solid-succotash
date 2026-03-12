@@ -1,0 +1,57 @@
+{
+  "scheme_name": "Ex-Gratia Grant for Clothes, Utensils, and Household Items to Disaster-Affected Families",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/defamiliesuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Ex-Gratia Grant for Clothes, Utensils, and Household Items to Disaster-Affected Families",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Ex-Gratia Grant for Clothes, Utensils, and Household Items to Disaster-Affected Families” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to disaster-affected families for clothes, utensils, or household items in cases where their house has been washed away, completely or substantially damaged due to a natural calamity, or affected by waterlogging for a period of more than two days."
+    ],
+    "benefits": [
+      "Under this scheme, an ex-gratia grant of ₹2,500/- per family is provided for damage to clothes, and an additional ex-gratia grant of ₹2,500/- per family is provided for damage to utensils or household items."
+    ],
+    "eligibility": [
+      "The beneficiary must be a disaster-affected family from Uttarakhand whose house has been affected by a natural disaster."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+      ]
+    },
+    "documents_required": [
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 304)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to receive assistance under this scheme?",
+      "answer": "Families whose houses have been washed away, completely or substantially damaged, or affected by waterlogging for more than two days due to a natural disaster are eligible."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "An ex-gratia grant of ₹2,500 per family is provided for damage to clothes and an additional ₹2,500 per family is provided for damage to utensils or household items."
+    },
+    {
+      "question": "How are the relief funds distributed to the beneficiaries?",
+      "answer": "After approval from the District Magistrate, the relief funds are disbursed to beneficiaries at the Tehsil level."
+    },
+    {
+      "question": "Is this financial assistance given per person or per family?",
+      "answer": "The assistance is provided per family."
+    },
+    {
+      "question": "Who verifies the damage caused by the disaster?",
+      "answer": "The Patwari of the concerned area verifies the damage and records it in the P-20 form."
+    },
+    {
+      "question": "Who gives the final approval for providing financial assistance?",
+      "answer": "The District Magistrate gives the final approval for the disbursement of relief funds."
+    }
+  ]
+}

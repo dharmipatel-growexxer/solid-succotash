@@ -1,0 +1,71 @@
+{
+  "scheme_name": "Pension Scheme to the Dependents (Husband/Wife) of Identified State Agitators, Other than those Who either went to Jail for 7 Days or were Injured During the Uttarakhand State Movement, after the Death of the Agitator",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/uksaptd",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pension Scheme to the Dependents (Husband/Wife) of Identified State Agitators, Other than those Who either went to Jail for 7 Days or were Injured During the Uttarakhand State Movement, after the Death of the Agitator",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Pension Scheme to the Dependents (Husband/Wife) of Identified State Agitators, Other than those Who either went to Jail for 7 Days or were Injured During the Uttarakhand State Movement\" scheme is implemented by the Police Department under the Department of Home, Government of Uttarakhand. The scheme aims to provide a monthly pension to the dependents (husband/wife) of such identified state agitators who do not fall under the category of agitators jailed for 7 days or injured during the movement, and who were neither receiving agitator pension or any other government pension, nor employed in government service."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "₹4,500/- per month"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be the dependent (husband/wife) of a deceased identified state agitator.",
+      "The deceased agitator must not fall under the category of those who went to jail for 7 days or were injured during the Uttarakhand State Movement.",
+      "The deceased agitator must not have been receiving agitator pension or any other pension from a government source, nor employed in government service."
+    ],
+    "application_process": {
+      "offline": [
+        "The application must be submitted to the office of the District Magistrate of the concerned district.",
+        "The required documents must be attached with the application form, and the pension will be sanctioned only after verification by the District Magistrate."
+      ]
+    },
+    "documents_required": [
+      "Identity proof of applicant",
+      "Death certificate of identified Agitator",
+      "Other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 64)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is considered eligible under this scheme?",
+      "answer": "Dependents (husband/wife) of deceased identified state agitators, who were not jailed for 7 days, not injured during the movement, and were neither receiving any government pension nor employed in government service, are eligible."
+    },
+    {
+      "question": "What is the pension amount provided under the scheme?",
+      "answer": "Eligible dependents receive a monthly pension of ₹4,500/-."
+    },
+    {
+      "question": "Are agitators jailed for 7 days during the movement eligible?",
+      "answer": "No, dependents of agitators who went to jail for 7 days or more are not covered under this scheme."
+    },
+    {
+      "question": "Is this pension available if the agitator was receiving another pension?",
+      "answer": "No, if the agitator was already receiving agitator pension or any other pension from a government source, the dependents are not eligible."
+    },
+    {
+      "question": "Can the pension be claimed if the agitator was in government service?",
+      "answer": "No, if the agitator was employed in government service, their dependents are not eligible under this scheme."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "The application must be submitted at the office of the District Magistrate of the concerned district."
+    },
+    {
+      "question": "Who verifies the application?",
+      "answer": "The District Magistrate of the concerned district verifies and approves the application after proper investigation."
+    },
+    {
+      "question": "How is the pension sanctioned?",
+      "answer": "The pension is sanctioned only after verification and approval at the level of the District Magistrate."
+    }
+  ]
+}

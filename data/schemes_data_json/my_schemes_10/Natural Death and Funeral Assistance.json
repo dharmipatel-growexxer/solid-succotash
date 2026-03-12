@@ -1,0 +1,91 @@
+{
+  "scheme_name": "Natural Death and Funeral Assistance",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ndafa",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Natural Death and Funeral Assistance",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The Art and Culture Department, Government of Tamil Nadu was launched the scheme \"Natural Death and Funeral Assistance\". This scheme provides financial assistance for the funeral and natural death of registered folk artistes to support their families during difficult times. The applications are accepted offline in the prescribed form available at the Regional Office."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "For Funeral ₹2,000/-",
+      "For Natural Death ₹15,000/-"
+    ],
+    "eligibility": [
+      "The applicant should be the Nominee of the registered folk artist.",
+      "The registered folk artist should have died a natural death."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the",
+        "regional office",
+        "and request the hard copy of the prescribed format of the application form (VIII) from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the",
+        "Claim Form (VII)",
+        ", and",
+        "Accident Information Form (VI)",
+        "to the Assistant Director/Deputy Director in the regional offices.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the Assistant Director/Deputy Director to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Original Registration Card of the Folk Artist.",
+      "Death Certificate of the Folk Artist."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Regional Department (22-23)",
+      "Application Form (VII)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the natural death and funeral assistance scheme?",
+      "answer": "All registered folk artistes who have passed away are eligible."
+    },
+    {
+      "question": "What is the amount provided for funeral assistance?",
+      "answer": "The amount provided for funeral assistance is ₹2000."
+    },
+    {
+      "question": "What is the amount provided for natural death assistance?",
+      "answer": "The amount provided for natural death assistance is ₹15000."
+    },
+    {
+      "question": "Who can claim the assistance?",
+      "answer": "The nominee of the deceased registered folk artiste can claim the assistance."
+    },
+    {
+      "question": "What documents need to be submitted with the application?",
+      "answer": "The death certificate of the deceased and the original identity card issued to the deceased registered folk artiste must be submitted."
+    },
+    {
+      "question": "Who authorizes the sanctioning of the assistance?",
+      "answer": "The Secretary or any other Officer authorized by the board sanctions the assistance."
+    },
+    {
+      "question": "Can the assistance be claimed for both natural death and funeral?",
+      "answer": "Yes, assistance can be claimed for both natural death and funeral."
+    },
+    {
+      "question": "What is the first step to claim the assistance?",
+      "answer": "The first step is to obtain and complete Form VIII and gather the required documents (death certificate and original identity card)."
+    },
+    {
+      "question": "What is the contact information for the appellate authority?",
+      "answer": "The appellate authority is A. Daniel Premnath, Secretary, Tamilnadu Folk Artiste’s Welfare Board, Government Music College Campus, Greenways Road, Chennai - 28. Phone Nos. 044-615156 & 24613430."
+    },
+    {
+      "question": "Is the nominee required to be a family member of the deceased?",
+      "answer": "Yes, the nominee is typically a family member designated by the deceased."
+    }
+  ]
+}

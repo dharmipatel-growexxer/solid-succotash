@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme (Maharashtra)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/igndpsm",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Indira Gandhi National Disability Pension Scheme (Maharashtra)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Indira Gandhi National Disability Pension Scheme (Maharashtra)\" is implemented by the Social Justice & Special Assistance Department, Government of Maharashtra. Under this scheme, differently-abled individuals aged 18 to 65 years with a disability of 80% and above are eligible to receive a pension of ₹600/- per month."
+    ],
+    "benefits": [
+      "A monthly pension of ₹600/-."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Maharashtra.",
+      "The applicant should be a person with a disability.",
+      "The percentage of the disability should be 80% or more.",
+      "The applicant’s age should be between 18 and 65 years.",
+      "The applicant should not be receiving pension benefits under any other social security scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Collector Office/Tahsildar/Talathi of your district, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Passport-size Photograph",
+      "Identity Proof i.e. Voter ID Card, Driving License",
+      "Disability Certificate",
+      "Proof of Age",
+      "Caste Certificate, if Applicable",
+      "Address Proof",
+      "Bank Passbook/Bank Account Details",
+      "Any Other Documents as Required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What level of disability is required to qualify?",
+      "answer": "The applicant must have a disability of 80% or more."
+    },
+    {
+      "question": "What is the age limit for eligibility?",
+      "answer": "The applicant must be between 18 and 65 years old."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "You can apply at the Collector Office, Tahsildar, or Talathi."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "You need to submit a passport-sized photograph, disability certificate, proof of age, and proof of residence."
+    },
+    {
+      "question": "How much pension will I receive under this scheme?",
+      "answer": "Eligible applicants receive ₹200 per month under the Indira Gandhi National Disability Pension Scheme and ₹400 per month under the Sanjay Gandhi Niradhar Anudan Yojana."
+    },
+    {
+      "question": "What is the age limit for this scheme?",
+      "answer": "The applicant must be between 18 and 65 years old."
+    },
+    {
+      "question": "Is residency in Maharashtra required?",
+      "answer": "Yes, the applicant must be a resident of Maharashtra."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "The applicant must be a person with 80% or more disability, aged between 18 and 65 years."
+    },
+    {
+      "question": "Do I qualify if my disability is below 80%?",
+      "answer": "No, the scheme requires a minimum of 80% disability to be eligible."
+    }
+  ]
+}

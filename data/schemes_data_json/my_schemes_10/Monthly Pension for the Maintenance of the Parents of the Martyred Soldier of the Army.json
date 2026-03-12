@@ -1,0 +1,82 @@
+{
+  "scheme_name": "Monthly Pension for the Maintenance of the Parents of the Martyred Soldier of the Army",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mpmpmsa",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Monthly Pension for the Maintenance of the Parents of the Martyred Soldier of the Army",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The “Monthly Pension for the Maintenance of the Parents of the Martyred Soldier of the Army” scheme was launched by the Home Department, Government of Madhya Pradesh. The scheme aims to provide financial assistance for the maintenance and livelihood of parents of martyred soldiers who sacrificed their lives in the line of duty."
+    ],
+    "benefits": [
+      "A pension of ₹10,000 per month is provided to the parents of martyred soldiers."
+    ],
+    "eligibility": [
+      "The martyred soldier must be a permanent resident of Madhya Pradesh.",
+      "The applicant must be the mother or father of a martyred soldier.",
+      "The martyred soldier whose death has been recognized as a battle casualty by the Government of Madhya Pradesh.",
+      "The annual income of the applicant's parents must be less than ₹10,000."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration",
+        "Step 1:",
+        "Visit the official website of \"",
+        "Sainik Welfare",
+        "\", and click \"Log-in\".",
+        "Step 2:",
+        "In the online registration form, fill the following mandatory fields: Email ID, Mobile Number. Create a password and confirm. Finally, click \"Submit\" to complete the registration.",
+        "Step 3:",
+        "After successful registration, the User ID and Password will be generated.",
+        "Application",
+        "Visit the official website. Sign in using your Username and Password created during registration.",
+        "Navigate to the online form of the scheme. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Click \"Save Application\". You'll receive a confirmation message upon successful submission of the application, along with an \"application number\". Click \"Print Application\" to print the application."
+      ]
+    },
+    "documents_required": [
+      "Residence Certificate",
+      "Dependency Certificate (issued by Tehsildar confirming dependency on the martyred soldier)",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "The application process is free of cost."
+    },
+    {
+      "question": "What is the amount of pension provided?",
+      "answer": "A pension of ₹10,000 is provided."
+    },
+    {
+      "question": "Who verifies and processes the applications?",
+      "answer": "The application is verified and processed by the District Sainik Welfare Office."
+    },
+    {
+      "question": "What is the application fee?",
+      "answer": "The application process is free of cost."
+    },
+    {
+      "question": "Is there an income limit for parents?",
+      "answer": "Yes, the annual income should be less than ₹10,000."
+    },
+    {
+      "question": "Is the pension disbursed monthly or yearly?",
+      "answer": "The pension is disbursed monthly."
+    },
+    {
+      "question": "What is the time frame for processing?",
+      "answer": "The pension is processed within one week of verification."
+    },
+    {
+      "question": "Where can I get more details or help?",
+      "answer": "At your nearest District Sainik Welfare Office or Directorate of Sainik Welfare, Bhopal."
+    }
+  ]
+}

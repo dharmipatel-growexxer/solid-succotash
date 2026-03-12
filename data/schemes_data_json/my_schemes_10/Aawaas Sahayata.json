@@ -1,0 +1,104 @@
+{
+  "scheme_name": "Aawaas Sahayata",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/as",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Aawaas Sahayata",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2016, the \"Aawaas Sahayata\" scheme is a welfare initiative by the Department of Tribal Affairs, Government of Madhya Pradesh. The scheme provides housing assistance to tribal boys and girls pursuing higher education outside their hometowns, who have passed 12th grade from a government or non-government college, or are regularly admitted to graduate, graduate diploma, or technical paramedical courses, and have not secured admission in a government hostel."
+    ],
+    "benefits": [
+      "The scheme offers housing assistance to tribal students pursuing higher education outside their hometowns where hostels are unavailable."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Madhya Pradesh.",
+      "The applicant should be a student.",
+      "The student should have passed 12th grade from a Government or Non-Government college.",
+      "The student should be enrolled in a Graduate or Graduate Diploma course.",
+      "The student should be regularly admitted to a Technical or Paramedical course.",
+      "The student should not have secured admission to a Government hostel.",
+      "The student should be a tribal student pursuing higher education outside their hometown."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System",
+        "MPTAAS portal.",
+        "Step 2:",
+        "Click on \"New Beneficiary Profile",
+        ".\"",
+        "Step 3:",
+        "Fill in all the required details. Fields marked with * are mandatory. Complete the form by entering all necessary information.",
+        "Step 4:",
+        "Upload all required documents, such as ID proof and other relevant certificates.",
+        "Step 5:",
+        "After completing the form and uploading the documents, click \"Submit\".",
+        "Step 6:",
+        "After successful payment and submission, you will receive a registration number.",
+        "Application",
+        "Enter your user ID, password, and captcha code, then click \"Login.\"",
+        "Choose the scheme you wish to apply for to avail the benefits.",
+        "Enter all required information and upload the necessary documents as prompted.",
+        "Finally, click on \"Submit Application\" to complete the process."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste certificate",
+      "Previous class passing certificate/marksheet",
+      "Samagra ID",
+      "Bank account details/Bank Passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Aawaas Sahayata\" scheme?",
+      "answer": "The \"Aawaas Sahayata\" scheme is a welfare initiative launched in 2016 by the Department of Tribal Affairs, Government of Madhya Pradesh, to provide housing assistance to tribal students pursuing higher education outside their hometowns."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Tribal students who are natives of Madhya Pradesh, pursuing higher education outside their hometown, and have not secured admission in a government hostel."
+    },
+    {
+      "question": "What educational qualifications are required to apply?",
+      "answer": "Applicants must have passed 12th grade from a Government or Non-Government college and be enrolled in a Graduate, Graduate Diploma, Technical, or Paramedical course."
+    },
+    {
+      "question": "Is this scheme applicable to all students in Madhya Pradesh?",
+      "answer": "No, the scheme is specifically for tribal students from Madhya Pradesh pursuing higher education outside their hometown."
+    },
+    {
+      "question": "Does the scheme provide any financial assistance?",
+      "answer": "Yes, the scheme provides housing assistance to eligible students to support their education outside their hometowns."
+    },
+    {
+      "question": "Can students studying in their hometowns avail of this scheme?",
+      "answer": "No, the scheme is only for students pursuing higher education outside their hometowns where hostels are unavailable."
+    },
+    {
+      "question": "Are students who have secured admission in a government hostel eligible?",
+      "answer": "No, students who have secured admission in a government hostel are not eligible for this scheme."
+    },
+    {
+      "question": "What documents are required for applying?",
+      "answer": "Applicants must provide a caste certificate, proof of residence, 12th-grade passing certificate, and proof of enrollment in an eligible course."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "Applications can be submitted at the nearest Tribal Welfare Department office along with all required documents."
+    },
+    {
+      "question": "Is there an age limit for applying to the scheme?",
+      "answer": "The scheme does not specify an age limit; eligibility is based on educational qualifications and tribal status."
+    }
+  ]
+}

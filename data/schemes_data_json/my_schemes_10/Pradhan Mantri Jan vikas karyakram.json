@@ -1,0 +1,71 @@
+{
+  "scheme_name": "Pradhan Mantri Jan vikas karyakram",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pmjvk",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Pradhan Mantri Jan vikas karyakram",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "Pradhan Mantri Jan Vikas Karyakram (PMJVK) is a Centrally Sponsored Scheme implemented by the Ministry of Minority Affairs. The programme focuses on developing infrastructure and providing basic amenities such as schools, health centers, hostels, community halls, drinking water, sanitation and skill development facilities in Minority Concentrated Areas (MCAs).",
+      "The objective is to reduce development gaps by improving access to education, healthcare, housing, and livelihood opportunities for minority communities. PMJVK promotes area development and social inclusion through need-based infra development in collaboration with State Governments, District Authorities, and Local Bodies."
+    ],
+    "benefits": [
+      "The Core focus of scheme is to address local development gaps by providing community based infrastructure in key sector, including construction of schools, hostels, health centers, community halls, sanitation facilities, drinking water systems, skill development centers and emerging national priorities - infrastructure in sectors supporting socio-economic growth and digital access."
+    ],
+    "eligibility": [
+      "The projects under PMJVK can be proposed in the identified areas as approved and certified by the SLC (where the minority population is more than 25% of the total population in the catchment area - 15Km radius).",
+      "The State Level Committee (SLC) shall consider viability af all the projects before recommending the projects to the Ministry. The proposed projects should be sustainable and clear provision should be made by the State Government/ UT Administration regarding the recurring cost and maintenance / operationalization cost as well as manpower requirement, so that there is no such problem once the infrastructure project has been completed."
+    ],
+    "application_process": {
+      "online": [
+        "The Pradhan Mantri Jan Vikas Karyakram (PMJVK) is implemented through State Governments, District Level Committees (DLCs), and local implementing agencies. It is not an individual application-based scheme.",
+        "Proposals for projects are submitted by State/UT Minority Welfare Departments or District Authorities based on identified gaps in Minority Concentrated Areas (MCAs) on PMJVK portal. These proposals are examined by ministry and further approved by the Empowered Committee at the Ministry of Minority Affairs, Government of India.",
+        "After approval, funds are released to the respective State/UT Governments or implementing agencies for execution of the projects."
+      ]
+    },
+    "documents_required": [
+      "The following documents are required for proposal submission and implementation under the Pradhan Mantri Jan Vikas Karyakram (PMJVK):",
+      "Preliminary Project Report (PPR) - Includes cost abstract and detailed justification for the proposed infrastructure project.",
+      "Certificate for Minority Concentration Area - Certifies that the project location has more than 25% minority population in a 15 km catchment area (Annexure II format).",
+      "Utilisation Certificates (UCs) - For previously sanctioned projects, in the prescribed format (Annexure V).",
+      "Quarterly Progress Reports - Must be submitted regularly in the specified format (Annexure VI).",
+      "Cumulative Financial Progress Report - Details financial progress since inception (Annexure VII).",
+      "Perspective Plan (2021–2026) - A long-term strategy document outlining infrastructure needs and priorities, approved by the State Level Committee (SLC).",
+      "Annual Implementation Plan - Year-wise breakdown of proposed projects aligned with the Perspective Plan.",
+      "Land Availability Certificate - Confirms that the land for the project is free from encumbrance and owned by the government or approved entities.",
+      "SLC Meeting Minutes and Approval Certificate",
+      "Bank details and PFMS registration of Implementing Agency.",
+      "Photographs and GIS coordinates of the proposed project site.",
+      "Documented approval of the project by the State Level Committee.",
+      "Any additional supporting documents as required by the Ministry of Minority Affairs.",
+      "All documents need to be signed and Stamped by Competent Authority at the State Level.",
+      "All proposals and supporting documents are submitted through the PMJVK online portal via the State/UT Minority Welfare Department."
+    ],
+    "sources_and_references": [
+      "PMJVK Portal – Ministry Of Minority Affairs"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Pradhan Mantri Jan Vikas Karyakram (PMJVK)?",
+      "answer": "PMJVK is a Centrally Sponsored Scheme of the Ministry of Minority Affairs that aims to develop infrastructure and provide basic amenities in Minority Concentrated Areas (MCAs). The scheme focuses on education, health, skill development, housing, and community assets to ensure inclusive growth of minority communities."
+    },
+    {
+      "question": "Who can benefit from PMJVK?",
+      "answer": "The benefits of PMJVK are area-based and cover all communities residing in Minority Concentrated Areas (MCAs). However, the focus is on improving living conditions for notified minority communities — Muslims, Christians, Sikhs, Buddhists, Parsis, and Jains."
+    },
+    {
+      "question": "How are projects selected under PMJVK?",
+      "answer": "Projects are proposed by State or UT Minority Welfare Departments and District Authorities based on local development needs through State Level Committees constituted at the State level. These proposals are examined by the Screening Committee and then put before the Empowered Committee at the Ministry of Minority Affairs to consideration and approval depending upon the criteria set in the guidelines of PMJVK scheme."
+    },
+    {
+      "question": "Can individuals directly apply for benefits under PMJVK?",
+      "answer": "No, PMJVK is not an individual-benefit or cash-transfer scheme. It is implemented through State and District authorities to create community infrastructure and public amenities."
+    },
+    {
+      "question": "What types of projects are funded under PMJVK?",
+      "answer": "PMJVK supports construction of schools, hostels, health centres, community halls, colleges, hospitals, sports stadiums drinking water facilities, skill development centres, etc. in Minority Concentrated Areas."
+    }
+  ]
+}

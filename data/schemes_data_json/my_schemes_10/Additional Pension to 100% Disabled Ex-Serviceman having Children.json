@@ -1,0 +1,131 @@
+{
+  "scheme_name": "Additional Pension to 100% Disabled Ex-Serviceman having Children",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/apdesmc",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Additional Pension to 100% Disabled Ex-Serviceman having Children",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Additional Pension to 100% Disabled Ex-Serviceman having Children\" is implemented by the Sainik and Ardh Sainik Welfare Department, Government of Haryana. Under the scheme, an additional pension is provided to 100% disabled ex-servicemen who were members of the Armed Forces and have been released from service due to 100% disability or permanent incapacity to work, provided the disability or incapacity is attributable to service. The additional pension amount is given only for up to three children and continues until the child dies, attains the age of 20 years, gets married, or becomes employed, whichever is the earliest. The additional pension will be reduced proportionately as a child dies or attains the age of 20 years or gets married or gets employed."
+    ],
+    "benefits": [
+      "The rates of additional pension admissible under the scheme are as follows:",
+      "Sl. No.",
+      "Category",
+      "Additional Pension Amount",
+      "1",
+      "Other Ranks",
+      "₹100/- per child per month subject to a maximum of ₹300/-",
+      "2",
+      "JCO’s",
+      "₹150/- per child per month subject to a maximum of ₹450/-",
+      "3",
+      "Officers",
+      "₹200/- per child per month subject to a maximum of ₹600/-",
+      "Mode of Payment:",
+      "Each Secretary of District Sainik Board will make payment of additional pension on a quarterly basis by money order or in cash, as may be convenient."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should be an Ex-serviceman. An ex-serviceman means a member of the Armed Forces who is released from service due to 100% disability or permanent incapacity to work and the disability or incapacity is attributable to service.",
+      "The applicant should have 100% disability.",
+      "The benefit is provided for up to three children.",
+      "The benefit continues until the child dies, attains the age of 20 years, gets married, or becomes employed, whichever is the earliest.",
+      "Note 1:",
+      "Every eligible person shall give a certificate of eligibility on a half-yearly basis, in Form III and send it to the concerned Secretary of the District Sainik Board so as to reach him within the months of June and December every year.",
+      "Note 2:",
+      "As and when one or more children of the eligible person die or reach the age of 20 years or get married or secure employment, it shall be the responsibility of the eligible person/guardian to inform the Secretary of the District Sainik Board in this regard."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 01:",
+        "The eligible applicant may apply online through the Official Portal-",
+        "Antyodaya-SARAL Portal",
+        ".",
+        "Step 02:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 03:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 04:",
+        "Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to apply for the scheme:",
+        "To avail the benefits of the scheme, visit the Official",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’",
+        "Now, you can search for the scheme and download the pre-defined Affidavit form/template and you will need to upload the filled-in/signed form/template in the 'Attach Enclosures' screen.",
+        "Step 05:",
+        "Click on ‘Proceed to Apply’ to fill out the application form. Enter your Parivar Pehchan Patra number- Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 06:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 07:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 08:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track their applications through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "Copy of Ex-servicemen Identity Card.",
+      "Parivar Pehchan Patra",
+      "Original Discharge Book of Ex-servicemen",
+      "Domicile Certificate of Haryana",
+      "Copy of Bank Passbook linked with Aadhaar Card",
+      "Applicant’s Photo ID Proof (Ration Card/Driving Licence/ Voter ID Card/PAN card etc.)",
+      "P.P.O",
+      "Disability Certificate",
+      "Aadhaar Card",
+      "Affidavit",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Notification",
+      "Antyodaya-SARAL Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the eligibility criterion for the scheme?",
+      "answer": "The applicant must be a permanent resident of Haryana, an ex-serviceman with 100% disability attributable to service, and the pension is provided for up to three children."
+    },
+    {
+      "question": "How much additional pension is provided for other ranks?",
+      "answer": "₹100/- per child per month, subject to a maximum of ₹300/-."
+    },
+    {
+      "question": "What is the additional pension amount for JCOs?",
+      "answer": "₹150/- per child per month, subject to a maximum of ₹450/-."
+    },
+    {
+      "question": "How much do officers receive under this scheme?",
+      "answer": "₹200/- per child per month, subject to a maximum of ₹600/-."
+    },
+    {
+      "question": "How is the additional pension paid out?",
+      "answer": "Payment is made on a quarterly basis by money order or in cash."
+    },
+    {
+      "question": "Where can one apply for this scheme?",
+      "answer": "Applications can be made online through the Antyodaya-SARAL Portal: https://saralharyana.gov.in/"
+    },
+    {
+      "question": "How long does the pension continue for a child?",
+      "answer": "Until the child dies, attains the age of 20 years, gets married, or becomes employed."
+    },
+    {
+      "question": "Is the pension amount reduced if a child becomes ineligible?",
+      "answer": "Yes, the pension is reduced proportionately as a child dies, attains the age of 20 years, gets married, or becomes employed."
+    },
+    {
+      "question": "Can the pension be received for more than three children?",
+      "answer": "No, the benefit is provided for up to three children only."
+    }
+  ]
+}

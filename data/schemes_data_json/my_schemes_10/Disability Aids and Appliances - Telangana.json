@@ -1,0 +1,96 @@
+{
+  "scheme_name": "Disability Aids and Appliances - Telangana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/daaa",
+  "location_name": "Telangana",
+  "location_type": "state",
+  "page_title": "Disability Aids and Appliances - Telangana",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The \"Disability Aids and Appliances\" scheme was launched by the Telangana Building & Other Construction Workers Welfare Board, LET&F (Labour) Department. Telangana. The scheme aims to provide artificial limbs, wheelchairs, tricycles, and other fabricated appliances to registered construction workers who have lost limbs or sustained disabilities due to accidents."
+    ],
+    "benefits": [
+      "Free distribution of artificial limbs, wheelchairs/tricycles, and fabricated appliances."
+    ],
+    "eligibility": [
+      "The worker should be a registered building or construction worker with the Telangana Building and Other Construction Workers Welfare Board.",
+      "The disablement must have occurred due to an accident at the worksite or anywhere."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant visits the",
+        "official website",
+        "and clicks on \"",
+        "Downloads",
+        "\" at the top of menu options.",
+        "Step-2:",
+        "Now click on the download button corresponding to the scheme name.",
+        "Step-3",
+        ": In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-4:",
+        "Submit the duly filled and signed application form along with the documents to the concerned Assistant Labour Officer.",
+        "Step-5:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph.",
+      "Aadhaar Card.",
+      "Registration Card under the BOCW Act (Attested copy).",
+      "Renewal Challan Copy.",
+      "Doctor Certificate (issued by the Medical Board).",
+      "Medical Reports (issued by the Medical Board)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "List Of Schemes"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Registered workers with the Telangana Building & Other Construction Workers Welfare Board who have sustained disabilities due to accidents."
+    },
+    {
+      "question": "What benefits are provided under this scheme?",
+      "answer": "The scheme provides artificial limbs, wheelchairs/tricycles, and other fabricated appliances to eligible workers."
+    },
+    {
+      "question": "Is there any cost involved for the workers?",
+      "answer": "No, all aids are provided free of charge."
+    },
+    {
+      "question": "What type of accidents are covered under this scheme?",
+      "answer": "Accidents resulting in disability, whether occurring at the workplace or elsewhere, are covered."
+    },
+    {
+      "question": "Can a worker apply for this scheme if the accident happened before May 1, 2016?",
+      "answer": "No, the scheme is only applicable for accidents that occurred on or after May 1, 2016."
+    },
+    {
+      "question": "Where will the aids be sourced from?",
+      "answer": "Aids will be sourced from the Artificial Limbs Manufacturing Corporation of India (ALIMCO), a Government of India organization."
+    },
+    {
+      "question": "How does one apply for this scheme?",
+      "answer": "Submit an application form with the required documents to the Assistant Labour Officer."
+    },
+    {
+      "question": "Who verifies the application?",
+      "answer": "The Assistant Labour Officer verifies the application before it is sent to the District Screening Committee."
+    },
+    {
+      "question": "What happens after the application is approved?",
+      "answer": "The Deputy Commissioner of Labour will arrange for the supply of the necessary aids from ALIMCO."
+    },
+    {
+      "question": "Who oversees the implementation of this scheme?",
+      "answer": "The Commissioner of Labour, Telangana, Hyderabad, and the Secretary & Chief Executive Officer of the Telangana Building & Other Construction Workers Welfare Board."
+    },
+    {
+      "question": "Can the aid be collected in person?",
+      "answer": "The aid will be arranged through the Hyderabad Regional Office of ALIMCO."
+    }
+  ]
+}

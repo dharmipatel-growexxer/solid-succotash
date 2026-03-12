@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Jyoti Gramodyog Vikas Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jgvy",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Jyoti Gramodyog Vikas Yojana",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched on 7th September 2015, the scheme \"Jyoti Gramodyog Vikas Yojana\" by the Commissioner of Cottage and Rural Industries, Industries & Mines Department, Government of Gujarat, aims to promote rural entrepreneurship by providing financial assistance (margin money subsidy) for setting up new village industries in areas with 24x3-phase electricity supply. The scheme targets individual artisans, entrepreneurs, and Self-Help Groups (SHGs) with project costs ranging from ₹1,00,000/- to ₹25,00,000/-. It offers 25–30% margin money subsidy (higher for SC/ST/women/PH candidates) to incentivize production-oriented ventures. Applications are submitted offline through District Industries Centres (DICs), and subsidies are disbursed after a 2-year successful project run."
+    ],
+    "benefits": [
+      "Margin Money Subsidy",
+      "For General Category",
+      "25% for projects up to ₹10,00,000/-.",
+      "25% on first ₹10,00,000/- + 10% on remaining cost (up to ₹25,00,000/-).",
+      "For SC/ST/Women/Physically Handicapped",
+      "30% for projects up to ₹10,00,000/-.",
+      "30% on first ₹10,00,000/- + 10% on remaining cost (up to ₹25,00,000/-).",
+      "Project Cost Coverage",
+      "Includes machinery, raw materials, and working capital (max 10% of total cost).",
+      "Excludes land/building expenses.",
+      "Disbursement",
+      "The subsidy is credited to the beneficiary’s account after 2 years of successful operation (upon verification by DIC)."
+    ],
+    "eligibility": [
+      "The applicant must be aged between 25 to 50 years.",
+      "The applicant must have passed at least Class 10 from a recognized educational board.",
+      "The applicant must possess at least one year of experience in the proposed business activity or relevant training from a recognized institution.",
+      "The applicant must be either an individual artisan/entrepreneur or part of a Grade-II active Self Help Group engaged in small-scale production. The applicant's proposed project must be located in a rural area with a population not exceeding 20,000.",
+      "The applicant must not represent a partnership firm, private limited company, joint venture, HUF, or similar commercial entity.",
+      "For SC/ST, women, and physically handicapped applicants, additional benefits are provided as specified in the benefits section."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the District Industries Centre (District Ughogh Kendra) of their district, and collect the prescribed format for scheme application from the designated staff.",
+        "OR",
+        "The interested applicant should take a printout of the",
+        "prescribed format",
+        "of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the designated staff.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the staff to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card/Voter ID.",
+      "Class 10th marksheet.",
+      "Training Certificates or Employment Records.",
+      "Project Proposal, with Cost Estimates, Machinery Quotations.",
+      "Bank Details, for subsidy disbursement."
+    ],
+    "sources_and_references": [
+      "Guidelines [Commissioner Of Cottage & Rural Industries]",
+      "Application Form",
+      "Subsidy Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the minimum and maximum age requirement to apply for this financial assistance scheme?",
+      "answer": "Applicants must be between 25 and 50 years old at the time of submission to qualify for the scheme."
+    },
+    {
+      "question": "Is there a minimum educational qualification needed to be eligible for this support?",
+      "answer": "Yes, applicants must have passed at least Class 10 from a recognized educational board."
+    },
+    {
+      "question": "Do I need prior experience or training to qualify for this scheme?",
+      "answer": "You must have either one year of experience in the proposed business activity or relevant training from a recognized institution."
+    },
+    {
+      "question": "Can Self-Help Groups (SHGs) apply for this financial assistance, or is it only for individuals?",
+      "answer": "Yes, active Grade-II SHGs engaged in small-scale production, as well as individual artisans/entrepreneurs, are eligible."
+    },
+    {
+      "question": "Are there any restrictions on where the proposed project can be located?",
+      "answer": "The project must be set up in a rural area with a population not exceeding 20,000 residents."
+    },
+    {
+      "question": "Are partnership firms, private companies, or HUFs eligible to apply under this scheme?",
+      "answer": "No, the scheme excludes partnership firms, private limited companies, joint ventures, and HUFs."
+    },
+    {
+      "question": "Is there any additional financial benefit for SC/ST, women, or physically handicapped applicants?",
+      "answer": "Yes, these groups receive a higher subsidy (30% up to ₹10,00,000/-) compared to the general category (25%)."
+    },
+    {
+      "question": "What is the minimum and maximum project cost covered under this scheme?",
+      "answer": "The project cost must be between ₹1,00,000/- and ₹25,00,000/- to qualify for assistance."
+    },
+    {
+      "question": "What expenses are covered under the project cost for subsidy calculation?",
+      "answer": "The subsidy covers machinery, equipment, and working capital (up to 10% of total cost), but excludes land/building expenses."
+    },
+    {
+      "question": "Is there a minimum investment required in plant and machinery for eligibility?",
+      "answer": "Yes, a minimum investment of ₹5,00,000/- in plant and machinery is mandatory."
+    },
+    {
+      "question": "How and when is the subsidy amount disbursed to beneficiaries?",
+      "answer": "The subsidy is credited to a reserve account first and fully released after 2 years of successful operation, verified by the District Industries Centre."
+    },
+    {
+      "question": "What documents are required to apply for this scheme?",
+      "answer": "Needed documents include Aadhaar/Voter ID, Class 10 marksheet, training/employment proofs, project proposal with cost estimates, and bank details."
+    }
+  ]
+}

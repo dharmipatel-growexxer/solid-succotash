@@ -1,0 +1,95 @@
+{
+  "scheme_name": "Hospitalisation Relief Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/hrs",
+  "location_name": "Telangana",
+  "location_type": "state",
+  "page_title": "Hospitalisation Relief Scheme",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Hospitalisation Relief Scheme\" was launched by the Telangana Building & Other Construction Workers Welfare Board, LET&F (Labour) Department Telangana. The scheme aims to provide financial assistance to construction workers who suffer temporary disabilities due to accidents or diseases and are hospitalized for five or more days. The relief may be extended up to three months for severe or terminal conditions."
+    ],
+    "benefits": [
+      "The relief amount is ₹300/- per day, subject to a maximum of ₹4,500/- per month."
+    ],
+    "eligibility": [
+      "The worker must be a registered building and other construction worker with the Telangana Building and Other Construction Workers Welfare Board.",
+      "The worker should be hospitalized for at least five days due to an accident or disease."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant visits the",
+        "official website",
+        "and clicks on \"",
+        "Downloads",
+        "\" at the top of menu options.",
+        "Step-2:",
+        "Now click on the download button corresponding to the scheme name.",
+        "Step-3",
+        ": In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-4:",
+        "Submit the duly filled and signed application form along with the documents to the concerned Assistant Labour Officer.",
+        "Step-5:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph.",
+      "Registration Card under the BOCW Act (Attested copy).",
+      "Renewal Challan Copy.",
+      "Admission Card of Hospital.",
+      "Doctor Certificate/Medical Certificate (issued not below the rank of Assistant Civil Surgeon of the Government Hospital/Primary Health Centre).",
+      "Advance Stamped Receipt.",
+      "1",
+      "st",
+      "page of Bank Passbook (Attested copy)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "List Of Schemes"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "The scheme is applicable to registered building and other construction workers who suffer temporary disabilities due to accidents or diseases requiring hospitalization."
+    },
+    {
+      "question": "What is the amount of relief provided under this scheme?",
+      "answer": "The relief amount is ₹300 per day, subject to a maximum of ₹4,500 per month."
+    },
+    {
+      "question": "How long can the relief amount be provided?",
+      "answer": "The relief can be provided for up to three months if the worker's disability continues due to severe or terminal conditions."
+    },
+    {
+      "question": "Is this scheme applicable for all types of hospitalization?",
+      "answer": "Yes, as long as the hospitalization is due to an accident or disease and lasts for five or more days."
+    },
+    {
+      "question": "What is the effective date for the enhanced relief amount?",
+      "answer": "The enhanced relief amount is applicable from 01.05.2017"
+    },
+    {
+      "question": "How is the relief amount disbursed?",
+      "answer": "The relief amount is disbursed directly to the worker's bank account through online transfer."
+    },
+    {
+      "question": "Is there any cost associated with applying for this scheme?",
+      "answer": "No, there is no cost to apply for this scheme."
+    },
+    {
+      "question": "Are there any income criteria for the scheme?",
+      "answer": "No, the scheme does not have any income criteria."
+    },
+    {
+      "question": "Can this scheme be combined with other compensation schemes?",
+      "answer": "Yes, this relief is in addition to any other compensation or relief schemes the worker may be entitled to."
+    },
+    {
+      "question": "Who can I contact for assistance with the application process?",
+      "answer": "You can contact the local Assistant Labour Officer for assistance."
+    }
+  ]
+}

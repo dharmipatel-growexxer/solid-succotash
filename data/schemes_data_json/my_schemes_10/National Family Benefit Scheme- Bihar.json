@@ -1,0 +1,107 @@
+{
+  "scheme_name": "National Family Benefit Scheme- Bihar",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nfbsb",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "National Family Benefit Scheme- Bihar",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"National Family Benefit Scheme\" is implemented by the Social Welfare Department, Government of Bihar. Under this scheme, one-time financial assistance is provided to the bereaved family in the case of the sudden death of the earning member (breadwinner) of the family, provided the family is living below the poverty line (BPL). The deceased person should have been between 18 and 60 years of age. The scheme is fully funded by the Central Government.",
+      "Objective:",
+      "The objective of this scheme is to provide social security to the immediate dependents of the deceased by providing them financial assistance after the sudden death of a member of a poor family in the state."
+    ],
+    "benefits": [
+      "Under this scheme, a one-time financial assistance of ₹20,000/- is given to the bereaved family of the deceased person."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Bihar.",
+      "The applicant should be a family member or dependent of the deceased person.",
+      "The deceased person should have been the primary breadwinner (an earning member of the family) on whom the family primarily depended for income.",
+      "The family of the deceased should be living Below the Poverty Line (BPL).",
+      "At the time of death, the deceased should have been between 18 and 60 years old."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "To avail of the benefits of this scheme, the dependents of the deceased persons (applicants) should submit their duly filled and signed application in the prescribed format, along with the required attachments, at the Right to Public Service (RTPS) counter located at the block office level.",
+        "Step 2:",
+        "Upon submission, applicants will receive an acknowledgment receipt from the RTPS counter, which should be kept for future reference.",
+        "Step 3:",
+        "Applicants will be notified of the application's approval or rejection via SMS or email.",
+        "Step 4:",
+        "If approved, the Sanction Order can be collected from the same RTPS counter where the application was submitted, upon presenting the acknowledgment receipt and a valid identity card.",
+        "Grievance Redressal and Escalation Matrix:",
+        "The complaint can be lodged in the office of the Block Development Officer, Sub-divisional Office, Assistant Director, District Social Security Cell/District Child Protection Unit, Director, Social Security Office, and Additional Chief Secretary/Principal Secretary/Secretary, Social Welfare Department. Apart from this, under the Bihar Public Grievance Redressal Rights Act, 2016, the office of the Public Grievance Redressal Officer at the sub-divisional level and the District Public Grievance Redressal Officer at the district level are functioning."
+      ]
+    },
+    "documents_required": [
+      "Identity proof of the applicant i.e. Aadhaar Card, Voter ID Card",
+      "Identity proof of the deceased person i.e. Aadhaar Card",
+      "Death certificate of the deceased person",
+      "FIR Copy",
+      "Proof of age of the deceased person",
+      "Below Poverty Line (BPL) Card/ Ration Card",
+      "Caste certificate, if applicable",
+      "Address proof",
+      "Bank Passbook/Bank account details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Official Website",
+      "E-Suvidha"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The scheme aims to provide social security to the immediate dependents of a deceased family member by offering financial assistance after the sudden death of the breadwinner."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Eligibility includes being a resident of Bihar, being a family member or dependent of the deceased, the deceased being the primary breadwinner, the family living below the poverty line (BPL), and the deceased being between 18 and 60 years of age at the time of death."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "A one-time financial assistance of ₹20,000/- is provided to the bereaved family of the deceased breadwinner."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Documents typically required include the death certificate of the deceased, copy of FIR, proof of residence, BPL card, and identity proof of the applicant."
+    },
+    {
+      "question": "How can one apply for the National Family Benefit Scheme?",
+      "answer": "Applicants must submit a duly filled and signed application form along with the necessary documents at the Right to Public Service (RTPS) counter located at the block office."
+    },
+    {
+      "question": "Where can I get the application form?",
+      "answer": "The application form is available at the RTPS counter."
+    },
+    {
+      "question": "What should I do if my application is rejected?",
+      "answer": "If your application is rejected, you will receive a notification explaining the reason for rejection. You can address the issue and reapply or file a grievance through the designated channels."
+    },
+    {
+      "question": "Can the financial assistance be claimed if the deceased was above 60 years old?",
+      "answer": "No, the deceased must have been between 18 and 60 years old at the time of death to qualify for this scheme."
+    },
+    {
+      "question": "What happens if the application is approved?",
+      "answer": "If the application is approved, the applicant will receive a Sanction Order, and the financial assistance will be disbursed to the bereaved family."
+    },
+    {
+      "question": "How will I be notified about the approval or rejection of my application?",
+      "answer": "You will be notified via SMS or email regarding the approval or rejection of your application."
+    },
+    {
+      "question": "Is the scheme fully funded by the Bihar State Government?",
+      "answer": "No, the scheme is fully funded by the Central Government."
+    },
+    {
+      "question": "Can a family apply for this scheme if they are not listed as BPL?",
+      "answer": "No, the family must be living below the poverty line (BPL) to be eligible for this scheme."
+    }
+  ]
+}

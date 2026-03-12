@@ -1,0 +1,117 @@
+{
+  "scheme_name": "Pension Scheme (BBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/psbbocwwb",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Pension Scheme (BBOCWWB)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The 'Pension Scheme' is implemented by the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB), Labour Resources Department, Government of Bihar. Under this scheme, registered construction workers who have completed a minimum of five years of membership and have attained the age of 60 are eligible for a pension of ₹1,000/- per month. This benefit is provided only if the worker has not received a pension under any other social security scheme."
+    ],
+    "benefits": [
+      "Under this scheme, registered construction workers receive a monthly pension of ₹1,000/- after attaining the age of 60 years."
+    ],
+    "eligibility": [
+      "The worker should be engaged in building or construction work.",
+      "The worker should be registered with the Bihar Building & Other Construction Workers Welfare Board.",
+      "The worker should have maintained continuous membership with the Board for a minimum of five years.",
+      "The worker should be 60 years of age or older.",
+      "The worker should not be receiving pension benefits under any other social security scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Registration of a Construction Worker under BBOCWWB:",
+        "Step 1:",
+        "Visit the",
+        "Official Website",
+        "of the Bihar Building and Other Construction Workers Welfare Board.",
+        "Step 2:",
+        "On the homepage, click on \"",
+        "Labour Registration",
+        "\".",
+        "Step 3:",
+        "Enter your Aadhar card number and name, then click \"Authenticate\".",
+        "Step 4:",
+        "A dashboard will appear. Enter all required details, ensuring that all fields marked with an asterisk (*) are filled in correctly.",
+        "Step 5:",
+        "Click on \"Submit\" and proceed to pay the application fee online.",
+        "Step 6:",
+        "You will receive your construction worker registration number upon successful registration.",
+        "Apply for Scheme Benefits:",
+        "Click on \"Login\" and select \"Labour\".",
+        "Enter your registration number & year of Birth, click \"Show\" to view your details.",
+        "Select the scheme you wish to apply for to avail the benefits.",
+        "Enter all required information and upload the necessary documents.",
+        "Click on \"Submit Application\" to complete the process.",
+        "Application Tracking:",
+        "Applicant can track their application status online through the",
+        "of the Bihar Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    },
+    "documents_required": [
+      "Documents required for registration under BBOCWWB:",
+      "Identity proof i.e. Aadhaar Card, Voter Card",
+      "Passport-size photograph",
+      "Attested work experience document",
+      "Proof of Residence",
+      "Ration Card",
+      "Bank account details",
+      "Caste Certificate (If applicable)",
+      "Proof of age",
+      "Disability certificate (If applicable)",
+      "Any other documents as required",
+      "Documents required for Scheme Benefits:",
+      "Identity card of registered worker",
+      "Aadhaar Card",
+      "Proof of a five years of membership",
+      "Life Certificate (Self-Declared)",
+      "Undertaking/declaration",
+      "Bank account details/copy of bank passbook"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Labour Registration",
+      "Scheme Application",
+      "Check Scheme Application Status"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the pension under this scheme?",
+      "answer": "Eligible workers must be registered with the board, aged 60 or older, have been members for at least five years, and must not be receiving pension benefits from any other social security scheme."
+    },
+    {
+      "question": "What types of workers are covered under this scheme?",
+      "answer": "The scheme covers unskilled workers, masons, carpenters, painters, electricians, plumbers, and other construction-related workers engaged in building, road, bridge, and dam construction."
+    },
+    {
+      "question": "How much is the pension provided under this scheme?",
+      "answer": "Eligible workers receive ₹1,000/- per month as a pension after reaching the age of 60."
+    },
+    {
+      "question": "How long must a worker be a member to qualify for the pension?",
+      "answer": "A worker must have maintained continuous membership with the board for at least five years."
+    },
+    {
+      "question": "What happens if a worker is already receiving a pension under another scheme?",
+      "answer": "Workers who are already receiving pension benefits under another social security scheme are not eligible for this pension."
+    },
+    {
+      "question": "How can a worker register for this pension scheme?",
+      "answer": "Workers can register by visiting the official website of the board at this link. https://bocwscheme.bihar.gov.in/home"
+    },
+    {
+      "question": "How can a worker apply for the pension benefits?",
+      "answer": "Eligible workers can apply for the pension by visiting the official website and filling out the relevant application form at this link. https://bocwscheme.bihar.gov.in/worker_login"
+    },
+    {
+      "question": "Is there an online application tracking system for the pension scheme?",
+      "answer": "Yes, workers can track their application status online through the Board’s official website at this link. https://bocwscheme.bihar.gov.in/home"
+    },
+    {
+      "question": "Can temporary construction workers apply for this pension?",
+      "answer": "Yes, unskilled temporary workers involved in construction work (excluding workers covered under the Factory Act, 1948, and Mines Act, 1952) are eligible to apply."
+    }
+  ]
+}

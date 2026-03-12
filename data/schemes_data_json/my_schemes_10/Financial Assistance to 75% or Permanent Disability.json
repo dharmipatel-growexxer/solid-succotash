@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Financial Assistance to 75% or Permanent Disability",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fat75opd",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Financial Assistance to 75% or Permanent Disability",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme Financial Assistance to 75% or Permanent Disability was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labor Department Maharashtra. Under the scheme, financial assistance of ₹2,00,000/- to the registered worker in case of 75 % or more permanent disability (the benefit can be availed only after 26th July 2014 as the benefit is covered under the Mediclaim & Personal Accident Insurance scheme)."
+    ],
+    "benefits": [
+      "Financial assistance of ₹2,00,000/- is provided by the Board to the registered worker for 75% or more permanent disability."
+    ],
+    "eligibility": [
+      "The worker must be engaged in building or construction work.",
+      "The worker should be registered under the Maharashtra Building and Other Construction Workers Welfare Board (MBOCWW).",
+      "The worker should have a 75% or permanent disability."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant downloads the",
+        "application form",
+        "from the MBOCWW official website.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labor Commissioner / Government Labor Officer.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo",
+      "Aadhaar Card",
+      "Identity Card of Maharashtra Building and Other Construction Workers Welfare Board",
+      "Bank Passbook",
+      "Disability Certificate (issued by competent medical officer/board)",
+      "Medical Treatment Payments",
+      "Proof of Residence (One of Aadhaar Card/Passport/Driving Licence/Ration Sheet/Last Month's Electricity Bill/Gram Panchayat Certificate)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Registered construction worker with the Maharashtra Building and Other Construction Workers Welfare Board (MBOCWW) who has a 75% or permanent disability."
+    },
+    {
+      "question": "What is the amount of financial assistance provided?",
+      "answer": "The scheme provides ₹2,00,000 to the registered worker for 75% or permanent disability."
+    },
+    {
+      "question": "Is this scheme available for workers across India?",
+      "answer": "No, it is only for construction workers registered with the Maharashtra Building and Other Construction Workers Welfare Board."
+    },
+    {
+      "question": "How do I apply for this scheme?",
+      "answer": "Download the application form from the MBOCWW website, fill it out, attach the necessary documents, and submit it to the Labour Commissioner or Government Labour Officer."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "Documents include a passport-size photo, Aadhaar card, ID card from MBOCWW, bank passbook, disability certificate, medical treatment payments, and proof of residence."
+    },
+    {
+      "question": "Is there a deadline for applying to the scheme?",
+      "answer": "There is no specified deadline, but applying promptly after the disability is confirmed is advised."
+    },
+    {
+      "question": "What type of disability qualifies for this scheme?",
+      "answer": "The worker must have a 75% or permanent disability as certified by a competent medical officer or board."
+    },
+    {
+      "question": "Is there any insurance coverage linked to this scheme?",
+      "answer": "Yes, the benefit is covered under the Mediclaim & Personal Accident Insurance scheme, applicable after 26th July 2014."
+    },
+    {
+      "question": "Do I need to be actively employed as a construction worker to apply?",
+      "answer": "Yes, the worker must be actively engaged in building or construction work and registered under MBOCWW."
+    },
+    {
+      "question": "Is there any age limit for applying to the scheme?",
+      "answer": "There is no specific age limit mentioned for this scheme."
+    }
+  ]
+}

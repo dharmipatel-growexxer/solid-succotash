@@ -1,0 +1,81 @@
+{
+  "scheme_name": "Potency Development Plan",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pdp",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "Potency Development Plan",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Potency Development Plan\" implemented by the Social Welfare Department of the Government of Chhattisgarh, aims to increase the mobility of all eligible persons with disabilities of the state by providing them artificial limbs/assistive devices. The scheme provides artificial limbs/assistive devices worth up to ₹6,900/- to persons with disabilities of 40% or more, provided they meet the other eligibility criteria."
+    ],
+    "benefits": [
+      "Under this scheme, artificial limbs/assistive devices worth up to ₹6,900/- are provided to persons with disabilities."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Chhattisgarh.",
+      "The applicant should have a disability.",
+      "The applicant's disability should be 40% or more.",
+      "The applicant should possess a Disability Certificate or a UDID Card.",
+      "The applicant should either be a member of a BPL family or have a recommendation from the Collector or Sub-Divisional Officer (Revenue).",
+      "The monthly income of the applicant’s parents/guardian should be less than ₹8,000/-."
+    ],
+    "application_process": {
+      "offline": [
+        "Applicants should submit their applications in the prescribed format, along with all relevant documents, to the Joint Director/Deputy Director District Office, Panchayat and Social Welfare Department."
+      ]
+    },
+    "documents_required": [
+      "Passport-size photograph",
+      "Identity proof i.e. Aadhaar card",
+      "Domicile of Chhattisgarh",
+      "Disability Certificate/ UDID Card",
+      "Income certificate",
+      "Caste certificate, if applicable",
+      "BPL Card (if applicable)",
+      "A recommendation letter, if applicable",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What benefits does the scheme offer?",
+      "answer": "The scheme provides artificial limbs and assistive devices worth up to ₹6,900/- to persons with disabilities."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "To be eligible, the applicant must be a resident of Chhattisgarh, have a disability of 40% or more, possess a Disability Certificate or a UDID Card, and meet specific income criteria."
+    },
+    {
+      "question": "What percentage of disability is required to qualify for this scheme?",
+      "answer": "The applicant's disability must be 40% or more to qualify for the scheme."
+    },
+    {
+      "question": "Is there an income criterion for eligibility?",
+      "answer": "Yes, the monthly income of the applicant’s parents or guardian should be less than ₹8,000/-."
+    },
+    {
+      "question": "How can one apply for this scheme?",
+      "answer": "Applicants should submit their applications in the prescribed format along with all relevant documents to the Joint Director/Deputy Director District Office of the Panchayat and Social Welfare Department."
+    },
+    {
+      "question": "What documents are required to apply for this scheme?",
+      "answer": "Required documents include a Disability Certificate or UDID Card, income proof, BPL certificate (if applicable), a recommendation letter (if applicable), etc."
+    },
+    {
+      "question": "What happens if my monthly income increases after applying?",
+      "answer": "The eligibility criteria regarding income should be met at the time of application."
+    },
+    {
+      "question": "Can I receive devices worth more than ₹6,900/-?",
+      "answer": "No, the maximum limit for the value of devices provided under the scheme is ₹6,900/-."
+    },
+    {
+      "question": "Is the scheme applicable for all types of disabilities?",
+      "answer": "Yes, the scheme is for all types of disabilities, provided they are certified as 40% or more."
+    }
+  ]
+}

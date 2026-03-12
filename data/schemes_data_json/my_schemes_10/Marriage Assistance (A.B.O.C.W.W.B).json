@@ -1,0 +1,132 @@
+{
+  "scheme_name": "Marriage Assistance (A.B.O.C.W.W.B)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/maabocwwb",
+  "location_name": "Assam",
+  "location_type": "state",
+  "page_title": "Marriage Assistance (A.B.O.C.W.W.B)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Marriage Assistance” was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, financial assistance shall be given to the construction workers who are registered under A.B.O.C.W.W.B. for the marriage of their children. The assistance shall be for the marriage of two children of the beneficiary. A female registered member is also eligible for this assistance for her own marriage."
+    ],
+    "benefits": [
+      "The financial assistance of ₹25,000/- shall be given to registered workers for the marriage of their children.",
+      "This assistance shall be for the marriage of two children of the registered workers.",
+      "A female registered worker is also eligible for this assistance for her own marriage."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Assam.",
+      "The applicant should be engaged in any building & other construction work.",
+      "The construction worker should be registered with the Assam Building and Other Construction Workers Welfare Board.",
+      "The workers having continuous membership for 5 years shall be eligible to get financial assistance under the scheme.",
+      "This assistance shall be for the marriage of two children of the beneficiary.",
+      "A female member registered under A.B.O.C.W.W.B is also eligible for this assistance for her own marriage."
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Registration Process under Assam Building and Other Construction Workers Welfare Board:",
+        "Step 01:",
+        "The eligible building & other construction workers can submit an online application through the official website:",
+        "https://abocwwb.assam.gov.in/",
+        "Step 02:",
+        "On the home page, click on ‘",
+        "Registration Page for New Worker",
+        "’ and a registration page will open. Fill in all the mandatory details and upload all the required documents.",
+        "Step 03:",
+        "After filling out the form, a payment option shall then prompt to allow the applicant to make the payment using UPI-based modes/Cards/net banking or even Challan.",
+        "Post-Registration Process:",
+        "The registering officer shall be notified of the applications successfully submitted and the Registering officer shall scrutinize the applications.",
+        "The Registering Officer shall arrange for a scrutiny committee meeting every 15 days and place all applications received.",
+        "The committee may recommend for approval, reject, or query the application. In case of queries, an SMS shall be sent to the applicant with a brief on the query. The applicant may re-upload the requisite documents as per the query raised by the Registering officer.",
+        "Notification to the worker through SMS; ID generation:",
+        "Applications if approved shall be notified through SMS and ID card shall be generated automatically for approved applications.",
+        "The applicant shall be notified for each stage such as queries, rejection, and allied.",
+        "Application Process to apply under the scheme:",
+        "Only active registered construction workers may login in through ID No./registered phone number and apply through the portal.",
+        "On the home page of the portal, click on ‘",
+        "Login Now",
+        "’ and enter the Mobile Number or User ID. OTP received on the registered mobile number should be entered to complete the login.",
+        "The individual console of the applicant gets opened with various functions such as detail updating, Fees due, and benefits eligible.",
+        "Step 04:",
+        "Click on ‘Benefit’ and select the applicable scheme under the benefit and the portal redirects to an online application form specific to the scheme.",
+        "Step 05:",
+        "The applicant may fill up the application with all mandatory fields and upload the necessary documents.",
+        "Step 06:",
+        "The applicant submits the application form and a tracking/reference number is generated as a future reference for the applicant.",
+        "Post-Application Process:",
+        "Successfully submitted applications pop up in the concerned Officers console. The officer may assign a subordinate to make verifications through the portal.",
+        "Subsequent to preliminary verification, the application is placed in the scrutiny committee for detailed checks.",
+        "Minutes of the Scrutiny Committee meeting get uploaded and Forwarded to the H.O.",
+        "Applications/ Pops up in the Officer’s Console of Head Office. Officer assigns to the Assistant concerned and allotted with the District concerned.",
+        "The assistant processes the application through PFMS. Account details get auto-verified in PFMS.",
+        "On successful PFMS verification, Print Advice is generated through PFMS.",
+        "Step 07:",
+        "Approving authority approves for disbursement of the benefit through PFMS.",
+        "(",
+        "User Manual",
+        ")"
+      ]
+    },
+    "documents_required": [
+      "Documents required for Registration under A.B.O.C.W.W.B:",
+      "Passport size photograph (Applicant and Nominee)",
+      "Proof of Age/DOB",
+      "Copy of Aadhaar Card",
+      "Copy of Voter ID Card",
+      "Bank passbook first page",
+      "Experience Certificate/Employers Certificate (90 days working record to check eligibility)",
+      "Completely filled",
+      "Nomination Form",
+      "Registration Form",
+      "Any other relevant documents",
+      "Documents required for Grant of Scheme:",
+      "ABOCWWB ID Card",
+      "Copy of Payslip of Account Pay book Showing Monthly Contribution Deposited",
+      "Marriage Certificate"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Application Portal",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Marriage Assistance Scheme?",
+      "answer": "The scheme is available to construction workers who are registered under the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B). Female registered members are also eligible for assistance for their own marriage."
+    },
+    {
+      "question": "What is the purpose of the Scheme?",
+      "answer": "The scheme aims to provide financial assistance to registered construction workers for the marriage of their children."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Registered workers are eligible for a financial assistance amounting to ₹25,000/- for each child's marriage."
+    },
+    {
+      "question": "Can a female registered worker avail assistance for her own marriage under this scheme?",
+      "answer": "Yes, female registered workers are eligible for the Marriage Assistance Scheme to support the expenses related to their own marriage."
+    },
+    {
+      "question": "How many children's marriages can a registered worker claim assistance for?",
+      "answer": "Each registered worker is eligible for financial assistance for the marriage of two of their children."
+    },
+    {
+      "question": "Is registration with the Assam Building and Other Construction Workers Welfare Board mandatory?",
+      "answer": "Yes, the construction worker must be registered with the Assam Building and Other Construction Workers Welfare Board to be eligible for the Marriage Assistance Scheme."
+    },
+    {
+      "question": "Are there any specific membership requirements to avail financial assistance under the scheme?",
+      "answer": "Workers with continuous membership for 5 years are eligible to receive financial assistance under the scheme."
+    },
+    {
+      "question": "What is the age range for applicants to qualify for the scheme?",
+      "answer": "The age of the applicant should be between 18 to 55 years."
+    },
+    {
+      "question": "How to apply under the scheme?",
+      "answer": "Only active registered construction workers may login in through ID No./registered phone number and apply through the portal. https://abocwwb.assam.gov.in/"
+    }
+  ]
+}

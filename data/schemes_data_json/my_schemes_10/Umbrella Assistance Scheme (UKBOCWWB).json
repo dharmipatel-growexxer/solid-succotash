@@ -1,0 +1,64 @@
+{
+  "scheme_name": "Umbrella Assistance Scheme (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/uasukbocwwb",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Umbrella Assistance Scheme (UKBOCWWB)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Umbrella Assistance Scheme” is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide free umbrellas to registered construction workers to protect them from rain and sunlight."
+    ],
+    "benefits": [
+      "Under the scheme, an umbrella will be provided to registered construction workers to protect them from rain and sunlight."
+    ],
+    "eligibility": [
+      "The applicant must be a construction worker registered with the Uttarakhand Building and Other Construction Workers Welfare Board."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "The online application can be submitted through Shramik Suvidha Kendras.",
+        "Along with the application form, applicants must attach a self-attested photocopy of their Shramik Card, Aadhaar Card, Self-Declaration Certificate, and a certificate confirming that no similar benefit has been availed from any other department.",
+        "After verification during the departmental investigation, umbrellas are provided by the department.",
+        "This benefit is available to each beneficiary only once in their lifetime."
+      ]
+    },
+    "documents_required": [
+      "Labour Card",
+      "Aadhaar Card",
+      "Self-Declaration Certificate",
+      "A certificate confirming that no similar benefit has been availed from any other department"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 54)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "Only registered construction workers with the Uttarakhand Building and Other Construction Workers Welfare Board are eligible."
+    },
+    {
+      "question": "What benefit is provided under the scheme?",
+      "answer": "Each eligible construction worker receives one umbrella."
+    },
+    {
+      "question": "How many times can a worker avail this benefit?",
+      "answer": "The benefit can be availed only once in a lifetime."
+    },
+    {
+      "question": "Where can workers apply for this scheme?",
+      "answer": "Applications can be submitted online through Shramik Suvidha Kendras."
+    },
+    {
+      "question": "How is the eligibility verified?",
+      "answer": "The department conducts a verification process based on the documents submitted before providing the umbrella."
+    },
+    {
+      "question": "Can family members of a worker apply for the umbrella?",
+      "answer": "No, only the registered construction worker can apply."
+    }
+  ]
+}

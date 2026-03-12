@@ -1,0 +1,86 @@
+{
+  "scheme_name": "INDIRAMMA Weavers Pension (Rural)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/iwp",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "INDIRAMMA Weavers Pension (Rural)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2006-07, the scheme \"INDIRAMMA Weavers Pension (Rural)\" by the Department of Rural Development, Government of Andhra Pradesh, aims to disburse monthly pensions to destitute weavers who are 50 years or above in age. To be eligible, they should be from a BPL family, be a resident of the district, and not be covered under any other Pension Scheme. The eligible citizens will be identified by their respective Gram Sabhas. The Panchayat Secretary disburses the pension to the eligible citizens on the first date of every month."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+      "Mode of Disbursement:",
+      "The Panchayat Secretary disburses the pension to the eligible citizens, in the presence of Sarpanch, Gram Panchayat Members and the Office Bearers of Village Organization.",
+      "Time of Disbursement:",
+      "The pension is disbursed on the first date of every month."
+    ],
+    "eligibility": [
+      "The applicant should be from a Below Poverty Line (BPL) family.",
+      "The applicant should be a local resident of the district.",
+      "The applicant should be from a rural area.",
+      "The applicant should not be covered under any other Pension Scheme.",
+      "The applicant should be a Weaver.",
+      "The applicant should be 50 years of age or above in age.",
+      "The applicant should be destitute.",
+      "* The eligible citizens will be identified by their respective Gram Sabhas. The register containing the list of eligible citizens will be shared by the Panchayat Secretary with the Mandal Parishad Development Officer (MPDO)."
+    ],
+    "application_process": {
+      "offline": [
+        "The eligible citizens will be identified by their respective Gram Panchayat during the Gram Sabhas. The Panchayat Secretary maintains a register of eligible persons and sends the Gram Sabha resolution recommending eligible persons to the Mandal Parishad Development Officer (MPDO)."
+      ]
+    },
+    "documents_required": [
+      "Proof of Age",
+      "Domicile Certificate",
+      "Below Poverty Line (BPL) Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the age requirement for a weaver to be eligible for a Weavers Pension?",
+      "answer": "Weavers must be 50 years or older to qualify for the Weavers Pension."
+    },
+    {
+      "question": "What is the economic condition required for a weaver to receive a Weavers Pension?",
+      "answer": "The weaver must be destitute, with little or no means of subsistence, to be eligible for the pension."
+    },
+    {
+      "question": "How does a weaver apply for a Weavers Pension under the INDIRAMMA programme?",
+      "answer": "Eligible weavers are identified and recommended by the Gram Sabha, and their names are sent to the MPDO for sanction."
+    },
+    {
+      "question": "How is the Weavers Pension disbursed to beneficiaries?",
+      "answer": "The pension is disbursed on the 1st of every month by the Panchayat Secretary in the presence of the Sarpanch and Village Organization members."
+    },
+    {
+      "question": "What happens if a weaver pensioner passes away? How is the vacancy filled?",
+      "answer": "The Gram Panchayat selects the most deserving person from the waiting list, and the MPDO issues sanction orders within 10 days."
+    },
+    {
+      "question": "What is the timeline for disbursing the Weavers Pension each month?",
+      "answer": "Pensions are disbursed on the 1st of every month, with funds sent to MPDOs by the 20th of the previous month."
+    },
+    {
+      "question": "How are undisbursed Weavers Pension funds handled at the end of the month?",
+      "answer": "Undisbursed funds are returned to the MPDO by the Panchayat Secretary by the end of the month."
+    },
+    {
+      "question": "What is the role of the Mandal Parishad Development Officer (MPDO) in the Weavers Pension scheme?",
+      "answer": "The MPDO sanctions pensions, reviews implementation, and ensures timely disbursement to eligible weavers."
+    },
+    {
+      "question": "How are Weavers Pension beneficiaries notified about changes in the pension scheme?",
+      "answer": "Beneficiaries are informed through the Gram Panchayat, Village Organization, and official communications from the MPDO."
+    },
+    {
+      "question": "How are Weavers Pension beneficiaries supported if they cannot attend the disbursement event?",
+      "answer": "The Panchayat Secretary, with the help of the Village Organization, arranges for door delivery of pensions to such beneficiaries."
+    }
+  ]
+}

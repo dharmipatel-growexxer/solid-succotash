@@ -1,0 +1,129 @@
+{
+  "scheme_name": "Pradhan Mantri Shram Yogi Maan-dhan",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pm-sym",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Pradhan Mantri Shram Yogi Maan-dhan",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The “Pradhan Mantri Shram Yogi Maan-Dhan (PM-SYM)” by the Ministry of Labour and Employment, Government of India. The scheme aims to provide old-age social security to unorganized workers by offering a minimum assured monthly pension and family pension benefits after attaining 60 years of age, through a voluntary and contributory framework with equal contributions from the beneficiary and the Central Government, along with flexible exit provisions to address uncertainties of unorganized employment. The scheme is implemented by Life Insurance Corporation of India (LIC) through CSC eGovernance Services India Limited (CSC SPV)."
+    ],
+    "benefits": [
+      "Minimum Assured Pension",
+      "₹3,000 per month after attaining 60 years of age.",
+      "Pension is payable for the lifetime of the subscriber.",
+      "Family Pension",
+      "On the death of the subscriber after pension commencement, the spouse receives 50% of the pension amount.",
+      "Family pension is applicable only to the spouse.",
+      "Government Contribution",
+      "Equal monthly contribution by the Central Government matches the subscriber’s contribution.",
+      "Continuation or Exit on Death/Disability Before 60 Years",
+      "The spouse may continue the scheme by paying contributions.",
+      "Alternatively, accumulated contributions with applicable interest may be withdrawn.",
+      "Mode of Disbursement",
+      "Pension is disbursed directly into the beneficiary’s bank account."
+    ],
+    "eligibility": [
+      "The applicant should be an unorganized worker.",
+      "The applicant should be aged between 18 and 40 years at the time of enrollment.",
+      "The applicant's monthly income should not exceed ₹15,000.",
+      "The applicant should have a savings bank account or Jan-Dhan account.",
+      "The applicant should possess a valid Aadhaar number.",
+      "The applicant should not be an income tax payer.",
+      "The applicant should not be covered under the Employees’ Provident Fund Organisation (EPFO), Employees’ State Insurance Corporation (ESIC), or National Pension System (NPS)."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Step 1:",
+        "The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2:",
+        "The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.",
+        "Step 3:",
+        "The applicant should provide their Aadhaar number, bank account details, and mobile number and complete self-certification at the CSC.",
+        "NOTE:",
+        "To find the nearest CSC, please visit",
+        "locator.csccloud.in",
+        "The first month’s contribution should be paid in cash at the CSC.",
+        "Subsequent contributions will be auto-debited from the bank account.",
+        "Online self-registration through the PM-SYM portal or mobile app is also available.",
+        "Grievance Redressal:",
+        "Toll-Free Customer Care Number: 1800 267 6888 (Available 24×7).",
+        "Complaints can also be registered through the web portal or mobile application."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Savings Bank Account Passbook / Jan-Dhan Account Passbook",
+      "Mobile Number",
+      "Self-Certification (At the time of enrollment)",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is PM-SYM?",
+      "answer": "PM-SYM is a voluntary and contributory pension scheme for unorganized workers."
+    },
+    {
+      "question": "Who can apply the scheme?",
+      "answer": "Unorganized workers aged 18 to 40 years with a monthly income of up to ₹15,000 can join the scheme."
+    },
+    {
+      "question": "What pension amount is provided?",
+      "answer": "A minimum assured pension of ₹3,000 per month is provided after attaining 60 years of age."
+    },
+    {
+      "question": "Is government contribution provided?",
+      "answer": "Yes, the Central Government provides an equal matching contribution to the subscriber."
+    },
+    {
+      "question": "Is Aadhaar mandatory?",
+      "answer": "Yes, Aadhaar is mandatory for enrollment under PM-SYM."
+    },
+    {
+      "question": "Can a Jan-Dhan account be used?",
+      "answer": "Yes, a Jan-Dhan account can be used for enrollment and contribution."
+    },
+    {
+      "question": "Is the scheme voluntary?",
+      "answer": "Yes, enrollment under PM-SYM is completely voluntary."
+    },
+    {
+      "question": "What happens if the subscriber dies after 60 years?",
+      "answer": "The spouse is entitled to receive a family pension equal to 50% of the pension amount."
+    },
+    {
+      "question": "What happens if the subscriber dies before 60 years?",
+      "answer": "The spouse may continue the scheme by paying contributions or withdraw the accumulated amount with interest."
+    },
+    {
+      "question": "Can contributions be regularized if missed?",
+      "answer": "Yes, missed contributions can be regularized by paying outstanding dues with applicable penalties."
+    },
+    {
+      "question": "Is online enrollment available?",
+      "answer": "Yes, online enrollment is available through the PM-SYM portal or mobile application."
+    },
+    {
+      "question": "Who manages the pension fund?",
+      "answer": "The pension fund is managed by the Life Insurance Corporation of India (LIC)."
+    },
+    {
+      "question": "Where can enrollment be done?",
+      "answer": "Enrollment can be done at the nearest Common Services Centre (CSC)."
+    },
+    {
+      "question": "Is the scheme applicable to EPFO or ESIC members?",
+      "answer": "No, workers covered under EPFO or ESIC are not eligible for the scheme."
+    },
+    {
+      "question": "How can the nearest CSC be found?",
+      "answer": "The nearest CSC can be located by visiting locator.csccloud.in."
+    }
+  ]
+}

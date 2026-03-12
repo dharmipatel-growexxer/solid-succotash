@@ -1,0 +1,125 @@
+{
+  "scheme_name": "Ex-Gratia Grant for Disability to CAPF Personnel",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/e-ggdcapfp",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Ex-Gratia Grant for Disability to CAPF Personnel",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Ex-Gratia Grant for Disability to CAPF Personnel\" is implemented by the Sainik and Ardh Sainik Welfare Department, Government of Haryana. Under the scheme, ex-gratia grant will be given to those personnel of the CAPF hailing from Haryana who get disabled for life and are boarded out of service due to disability declared as in war/operation, in operational area, terrorist activities and natural calamities etc. The grant is given depending on the percentage of disability suffered in the first instance during life."
+    ],
+    "benefits": [
+      "Ex-gratia grant to disabled CAPF Personnel as per their percentage of disability:",
+      "•",
+      "Disability 75% and above:",
+      "₹35,00,000/-",
+      "Disability 50% to 74%:",
+      "₹25,00,000/-",
+      "Disability 25% to 49%:",
+      "₹15,00,000/-"
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should be a disabled CAPF Personnel who became permanently disabled due to war/operation, operational areas, terrorist activities, natural calamities, etc.",
+      "The applicant should have been discharged from service due to the disability.",
+      "The applicant should apply within three years of the disability; otherwise, the application will be considered time-barred."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "The eligible applicant may apply online through the Official Portal-",
+        "Antyodaya-SARAL Portal",
+        ".",
+        "Step 2:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 3:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 4:",
+        "Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to apply for the scheme:",
+        "To avail the benefits of the scheme, visit the Official",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’",
+        "Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.",
+        "Step 5:",
+        "Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 6:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 7:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 8:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track their applications through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "Copy of detailed Battle Casualty report and Part-II order from Service Headquarters",
+      "Parivar Pehchan Patra",
+      "Aadhaar Card",
+      "Haryana Resident Certificate",
+      "Copy of Bank Passbook linked with Aadhaar Number",
+      "Disability Certificate/Casualty Certificate indicating the % age or disability issued by the Competent Authority.",
+      "Self-Photo ID Card (Ration Card /Driving License/ Voter ID Card/ PAN Card etc.)",
+      "Address proof of Haryana at the time of commissioning and till dated issued by Competent Authority",
+      "Affidavit for verifying the particulars given by the CAPF Personnel",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Antyodaya-SARAL Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of scheme?",
+      "answer": "The scheme provides financial assistance to CAPF personnel from Haryana who become permanently disabled due to war/operation, operational areas, terrorist activities, natural calamities, etc."
+    },
+    {
+      "question": "What are the benefits of the scheme?",
+      "answer": "The scheme offers an ex-gratia grant based on the percentage of disability: 1. Disability 75% and above: ₹35,00,000/- 2. Disability 50% to 74%: ₹25,00,000/- 3. Disability 25% to 49%: ₹15,00,000/-"
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Eligible applicants must be permanent residents of Haryana, disabled CAPF personnel who became permanently disabled due to war/operation, operational areas, terrorist activities, or natural calamities, and have been discharged from service due to the disability."
+    },
+    {
+      "question": "What percentage of disability qualifies for the highest grant amount?",
+      "answer": "A disability of 75% and above qualifies for the highest grant amount of ₹35,00,000/-."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Eligible applicants can apply online through the Antyodaya-SARAL Portal at https://saralharyana.gov.in/."
+    },
+    {
+      "question": "Is there a deadline for applying to the scheme?",
+      "answer": "Yes, applications must be submitted within three years of the disability."
+    },
+    {
+      "question": "Can I track my application status online?",
+      "answer": "Yes, you can track your application through the Antyodaya-SARAL Portal by entering the Department Name, Scheme Name, and Application Reference ID at https://status.saralharyana.nic.in/."
+    },
+    {
+      "question": "What happens if the application is submitted after three years of disability?",
+      "answer": "The application will be considered time-barred and may not be processed."
+    },
+    {
+      "question": "Can the grant be availed multiple times for different disabilities?",
+      "answer": "No, the grant is provided based on the first instance of disability."
+    },
+    {
+      "question": "What if the disability is temporary?",
+      "answer": "The scheme is only for permanent disabilities that lead to discharge from service."
+    },
+    {
+      "question": "Is the scheme applicable to CAPF personnel from other states?",
+      "answer": "No, the scheme is only for CAPF personnel who are permanent residents of Haryana."
+    }
+  ]
+}

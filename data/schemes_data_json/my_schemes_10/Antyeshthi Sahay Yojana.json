@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Antyeshthi Sahay Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/asygsw",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Antyeshthi Sahay Yojana",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The \"Antyeshthi Sahay Yojana\" is a welfare scheme and has been launched by the Department of Social Justice and Empowerment, Government of Gujarat. The scheme aims to support the families of deceased senior citizens who were beneficiaries of old-age assistance. Upon the death of such a senior citizen, a one-time financial aid is provided to the legal heir to help cover funeral and related expenses."
+    ],
+    "benefits": [
+      "A one-time financial assistance of ₹5,000/- is provided to the heirs of a senior citizen who was receiving old-age assistance at the time of their death. This assistance is intended to help with funeral expenses."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must be the heir of a deceased senior citizen.",
+      "The deceased must have been a beneficiary of old-age assistance."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the Mamlatdar office and request a hard copy of the prescribed format of the",
+        "application form",
+        ".",
+        "Step 2:",
+        "In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the supporting documents to the Mamlatdar office.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+      ]
+    },
+    "documents_required": [
+      "Old age assistance sanction order/online registered pension number or bank account number where pension is deposited",
+      "Death Certificate",
+      "Copy of Ration Card",
+      "Copy of the applicant's Bank Passbook",
+      "Applicant's Aadhaar Number",
+      "Consent Form of all the heirs (In case there is more than one heir)"
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 46)",
+      "Guidelines 2"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the \"Antyeshti Sahay Yojana\"?",
+      "answer": "The \"Antyeshti Sahay Yojana\" is a financial assistance scheme initiated by the Government of Gujarat to support the legal heirs of deceased senior citizens who were receiving old age assistance, providing them with a one-time aid of ₹5,000 to cover funeral and related expenses."
+    },
+    {
+      "question": "Who is eligible to receive the financial assistance under the scheme?",
+      "answer": "The scheme is intended for the legal heirs of deceased senior citizens who were beneficiaries of any old age pension scheme offered by the Gujarat government."
+    },
+    {
+      "question": "What amount of financial assistance is provided through this scheme?",
+      "answer": "Under the Antyeshti Sahay Yojana, the eligible heir receives a one-time financial support of ₹5,000/- from the government."
+    },
+    {
+      "question": "Is there any income limit applicable for beneficiaries under this scheme?",
+      "answer": "No, there is no income limit set for individuals or families to avail benefits under the Antyeshti Sahay Yojana, making it universally accessible."
+    },
+    {
+      "question": "Does the applicant need to belong to a specific caste or community to apply?",
+      "answer": "The scheme is open to all castes and communities; it does not impose any caste-based or community-based eligibility restrictions."
+    },
+    {
+      "question": "Can individuals residing anywhere in Gujarat apply for this scheme?",
+      "answer": "Yes, the Antyeshti Sahay Yojana is applicable throughout the state of Gujarat, and eligible applicants from any district or village within the state can apply."
+    },
+    {
+      "question": "What is the process to obtain the application form for the scheme?",
+      "answer": "The application form for the Antyeshti Sahay Yojana can be obtained from the concerned Mamlatdar office."
+    },
+    {
+      "question": "Where should the completed application form be submitted?",
+      "answer": "Applicants must submit their duly filled application form along with the required documents at the relevant Mamlatdar office in their jurisdiction."
+    },
+    {
+      "question": "Is it possible for two heirs to claim the assistance separately?",
+      "answer": "No, only one heir can claim the financial assistance under this scheme. If multiple heirs exist, they must collectively authorize one person among them by signing a consent form."
+    },
+    {
+      "question": "How is the assistance amount disbursed to the beneficiary?",
+      "answer": "The financial assistance under this scheme is disbursed directly to the beneficiary’s bank account."
+    }
+  ]
+}

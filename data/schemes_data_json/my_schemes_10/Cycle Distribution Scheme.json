@@ -1,0 +1,82 @@
+{
+  "scheme_name": "Cycle Distribution Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cds",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Cycle Distribution Scheme",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Cycle Distribution Scheme\" is implemented by the Tribal Affairs Department, Government of Madhya Pradesh, aims to provide cycles to village girls students to continue their education. Under this scheme, tribal girl students in Class 11th who travel more than 2 km to reach school and did not receive a bicycle in Class 9th are given a cash amount equivalent to the cost of a bicycle.",
+      "Objective:",
+      "The objective of the scheme is to reduce the dropout rate and promote the continuation of education for scheduled tribe girls in higher secondary schools. It aims to ensure that all scheduled tribe girls in the state continue their education beyond class 10, even if they need to enroll in higher secondary schools located in other villages."
+    ],
+    "benefits": [
+      "Under this scheme, a cash amount equal to the cost of the cycle credited directly to the bank account of the applicant."
+    ],
+    "eligibility": [
+      "The applicant should be a girl student.",
+      "The girl student should be a native of Madhya Pradesh.",
+      "The girl student should be studying in Class 11.",
+      "The girl student should belong to the Scheduled Tribe category.",
+      "The girl student who did not receive a cycle in Class 9 is eligible under the scheme.",
+      "The girl student should travel more than 2 km to reach her school.",
+      "There is no restriction on the annual family income of the student."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail of the benefits under this scheme, eligible girl students can contact the District Convener/Assistant Commissioner, the District Office of the Tribal Welfare Department, or the Principal of the concerned school/institution.",
+        "Note:",
+        "The District Collector has the right to approve financial assistance to eligible girl students under the cycle supply scheme."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste certificate",
+      "Samagra ID",
+      "Previous class passing marksheet",
+      "Bank account details/Bank Passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Guidelines (Page No. 85)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main objective of the Cycle Distribution Scheme?",
+      "answer": "The main objective is to reduce the dropout rate and promote the continuation of education for scheduled tribe girls in higher secondary schools."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Eligible students must be girl students who are natives of Madhya Pradesh, studying in Class 11, belong to the Scheduled Tribe category, did not receive a cycle in Class 9, and travel more than 2 km to reach their school."
+    },
+    {
+      "question": "Is there any restriction on the annual family income for eligibility?",
+      "answer": "No, there is no restriction on the annual family income for eligibility under this scheme."
+    },
+    {
+      "question": "How is the benefit of the scheme provided?",
+      "answer": "The benefit is provided in the form of a cash amount equal to the cost of a cycle, credited directly to the bank account of the applicant."
+    },
+    {
+      "question": "How can eligible students apply for the scheme?",
+      "answer": "Eligible students can contact the District Convener/Assistant Commissioner, District Office of the Tribal Welfare Department, or the Principal of the concerned school/institution."
+    },
+    {
+      "question": "Who has the authority to approve financial assistance under this scheme?",
+      "answer": "The District Collector has the right to approve financial assistance to eligible girl students under the cycle supply scheme."
+    },
+    {
+      "question": "Can students from other states apply for this scheme?",
+      "answer": "No, only girl students who are natives of Madhya Pradesh are eligible."
+    },
+    {
+      "question": "Can a student who received a cycle in Class 9 apply again in Class 11?",
+      "answer": "No, the scheme is specifically for students who did not receive a cycle in Class 9."
+    }
+  ]
+}

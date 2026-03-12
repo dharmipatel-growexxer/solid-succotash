@@ -1,0 +1,110 @@
+{
+  "scheme_name": "Additional Pension to 100% Disabled Ex-Serviceman having No Child",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/apdemnc",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Additional Pension to 100% Disabled Ex-Serviceman having No Child",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Additional Pension to 100% Disabled Ex-Serviceman having No Child\" is implemented by the Sainik and Ardh Sainik Welfare Department, Government of Haryana. Under the scheme, an additional amount of ₹100/- per month, in addition to the pension amount, is provided to 100% disabled ex-servicemen who were members of the Armed Forces and have been released from service due to 100% disability or permanent incapacity to work, provided the disability or incapacity is attributable to service. The additional amount is given only to those Ex-Servicemen who have no children, irrespective of rank, until death."
+    ],
+    "benefits": [
+      "An additional amount of ₹100 per month is given to 100% disabled ex-servicemen, irrespective of rank, until death.",
+      "Mode of Payment:",
+      "Each Secretary of District Sainik Board will make payment of additional pension on a quarterly basis by money order or in cash, as may be convenient."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of Haryana.",
+      "The applicant should be an Ex-serviceman. An ex-serviceman means a member of the Armed Forces who is released from service due to 100% disability or permanent incapacity to work and the disability or incapacity is attributable to service.",
+      "The applicant should have 100% disability.",
+      "The benefit is provided only to those Ex-Servicemen who have no children, irrespective of rank, until death."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 01:",
+        "The eligible applicant may apply online through the Official Portal-",
+        "Antyodaya-SARAL Portal",
+        ".",
+        "Step 02:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 03:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 04:",
+        "Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to apply for the scheme:",
+        "To avail the benefits of the scheme, visit the Official",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’",
+        "Now, you can search for the scheme and download the pre-defined Affidavit form/template and you will need to upload the filled-in/signed form/template in the 'Attach Enclosures' screen.",
+        "Step 05:",
+        "Click on ‘Proceed to Apply’ to fill out the application form. Enter your Parivar Pehchan Patra number- Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 06:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 07:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 08:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track their applications through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "Copy of Ex-servicemen Identity Card",
+      "Parivar Pehchan Patra",
+      "Original Discharge Book of Ex-Serviceman",
+      "Domicile Certificate of Haryana",
+      "Copy of Bank Passbook linked with Aadhaar Card",
+      "Applicant’s Photo ID Proof (Ration Card/Driving Licence/ Voter ID Card/PAN Card etc.)",
+      "P.P.O",
+      "Disability Certificate",
+      "Aadhaar Card",
+      "Affidavit",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Notification",
+      "Antyodaya-SARAL Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the eligibility criteria for this scheme?",
+      "answer": "The applicant must be a permanent resident of Haryana, an ex-serviceman with 100% disability, and must have no children."
+    },
+    {
+      "question": "What defines a disabled ex-serviceman under this scheme?",
+      "answer": "An ex-serviceman is a member of the Armed Forces released from service due to 100% disability or permanent incapacity attributable to service."
+    },
+    {
+      "question": "What additional amount is provided under this scheme?",
+      "answer": "An additional amount of ₹100/- per month is provided."
+    },
+    {
+      "question": "How long will the ex-serviceman receive the additional pension?",
+      "answer": "The additional pension is provided until the death of the ex-serviceman."
+    },
+    {
+      "question": "Is the rank of the ex-serviceman considered for this scheme?",
+      "answer": "No, the additional pension amount is provided irrespective of rank."
+    },
+    {
+      "question": "How is the additional pension paid?",
+      "answer": "The payment is made quarterly by money order or in cash."
+    },
+    {
+      "question": "How can one apply for this scheme?",
+      "answer": "Eligible applicants can apply online through the Antyodaya-SARAL Portal. https://saralharyana.gov.in/"
+    },
+    {
+      "question": "Is the disability certificate mandatory for application?",
+      "answer": "Yes, a certificate proving 100% disability attributable to service is required."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scheme_name": "Leprosy Pension Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/lpsup",
+  "location_name": "Uttar Pradesh",
+  "location_type": "state",
+  "page_title": "Leprosy Pension Scheme",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Leprosy Pension Scheme has been started by the Government of Uttar Pradesh and operated by the Department of Empowerment of Persons with Disabilities, Uttar Pradesh.",
+      "The main objective of the scheme is to provide a grant-in-aid for the maintenance of persons with disabilities and leprosy, whose family income is not sufficient for them."
+    ],
+    "benefits": [
+      "The rate of grant per beneficiary per month will be Rs. 3000/- who became disabled due to Leprosy."
+    ],
+    "eligibility": [
+      "It is necessary to be a permanent resident of Uttar Pradesh.",
+      "Disabled due to leprosy (with any percentage of disability).",
+      "Persons with disabilities due to leprosy may belong to any age group.",
+      "Must be below the poverty and should be under Rs. 56,460/- per annum for urban and Rs. 46,080/- per annum for rural areas.",
+      "Are not taking advantage of other pension schemes."
+    ],
+    "application_process": {
+      "online": [
+        "First of all the applicant has to visit the",
+        "official Portal.",
+        "Fill out the online application form",
+        "from here.",
+        "In the Application form, the applicant has to fill following details:- Personal Details, Bank Details, Income Details, and a description of a disability.",
+        "Upload the required documents (Photograph, Age Certificate and Disability Certificate)."
+      ]
+    },
+    "documents_required": [
+      "Passport size colour photograph.",
+      "Date of Birth/Age certificate.",
+      "Disability certificate:"
+    ],
+    "sources_and_references": [
+      "Guidelines-1",
+      "Guidelines-2",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is Leprosy Pension Scheme ?",
+      "answer": "This Leprosy Pension Scheme has been started by the Government of Uttar Pradesh and operated by the Department of Empowerment of Persons with Disabilities, Uttar Pradesh"
+    },
+    {
+      "question": "What are the benefits under the scheme ?",
+      "answer": "Grant Rs. 3000/- per month"
+    },
+    {
+      "question": "Who can get the benefits of the scheme ?",
+      "answer": "All the eligible people who are suffering from leprosy the resident of Uttar Pradesh."
+    },
+    {
+      "question": "Is there any eligibility percentage of disability with LEPROSY ?",
+      "answer": "No, Disabled due to leprosy (with any percentage of disability)."
+    },
+    {
+      "question": "From which age group person may apply for the scheme ?",
+      "answer": "There is no age restriction to get the scheme benefit."
+    },
+    {
+      "question": "What the maximum annual income criteria for urban resident person ?",
+      "answer": "Urban Residence Person should be under Rs. 56,460/- per annum."
+    },
+    {
+      "question": "What The Maximum Annual Income Criteria For rural Resident Person ?",
+      "answer": "Rural Residence Person Should Be Under Rs. 46,080/- Per Annum."
+    },
+    {
+      "question": "Can Beneficiaries of other pension scheme get the benefit of this scheme ?",
+      "answer": "No, applicants should not be the beneficiary of the other pension schemes."
+    },
+    {
+      "question": "How to apply for the scheme ?",
+      "answer": "1. First of all the applicant has to visit the official Portal. 2. Fill out the online application form from here. 3. In the Application form, the applicant has to fill following details:- Personal Details, Bank Details, Income Details, and a description of a disability. 4. Upload the required documents (Photograph, Age Certificate and Disability Certificate)."
+    },
+    {
+      "question": "What is the official portal to apply online ?",
+      "answer": "Click on the following link. URL: https://sspy-up.gov.in/oap/public_new/UserRegistrationForm.aspx?Scheme=HandicapPension"
+    }
+  ]
+}

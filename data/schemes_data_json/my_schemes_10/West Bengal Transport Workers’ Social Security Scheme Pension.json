@@ -1,0 +1,106 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Pension",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wbtwssp",
+  "location_name": "West Bengal",
+  "location_type": "state",
+  "page_title": "West Bengal Transport Workers’ Social Security Scheme: Pension",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The “West Bengal Transport Workers’ Social Security Scheme: Pension” by the Labour Department, is designed to support unorganized transport workers upon retirement. Eligible beneficiaries receive a monthly pension of ₹1500/-, which increases by ₹10/- for each year of enrolment beyond 5 years, provided they have been continuously enrolled in the scheme for at least 5 years. This initiative aims to ensure financial stability and dignity for transport workers during their retirement years."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "₹1,500/- per month for beneficiaries aged 60 and above.",
+      "Incremental Benefit:",
+      "Additional ₹10/- per month for every completed year of enrolment beyond five years."
+    ],
+    "eligibility": [
+      "The applicant must be between 18 and 60 years of age at the time of enrolment.",
+      "The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses.",
+      "The applicant’s vehicle must be used for commercial purposes and not solely for personal or family use.",
+      "The applicant must have been continuously enrolled in the scheme for at least 5 years to qualify for pension benefits."
+    ],
+    "application_process": {
+      "online": [
+        "Step-1:",
+        "Visit the “",
+        "eDistrict 2.0",
+        "” portal. Click on Log In/Sign Up.",
+        "Step-2:",
+        "In the User Login window, scroll down to the bottom and click on “Register”.",
+        "Step-3:",
+        "Fill in all the details carefully, enter a username, and click on “Register”.",
+        "Step-4:",
+        "Upon entering the One Time Password received on your mobile, you will be successfully registered.",
+        "Step-5:",
+        "Now in the User Login window, enter your Username or email and captcha and click on “Sign In”.",
+        "Step-6:",
+        "Enter the received O.T.P and click on “Submit”.",
+        "Step-7:",
+        "Upon successful Login, You will be redirected to the “Dashboard”. From the right side menu apply for the concerned scheme."
+      ]
+    },
+    "documents_required": [
+      "For New Registration:",
+      "Certification by Prescribed Authority in the Prescribed format,",
+      "Passport Size Photo (self and for each dependent member).",
+      "Age Proof Document.",
+      "Driving Licence in case of Drivers.",
+      "EPIC/ AADHAR Card.",
+      "For the Application of the Welfare Scheme:",
+      "Original copies of Form - I, II, IIA.",
+      "Life Certificate.",
+      "Bank Details.",
+      "Joint Passport Size Photo with Spouse (3 copies)."
+    ],
+    "sources_and_references": [
+      "Guideline-1",
+      "Guideline-2",
+      "Guideline (Page No 150)-3",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "The scheme provides financial security in the form of a pension to unorganized transport workers upon reaching 60 years of age."
+    },
+    {
+      "question": "What is the monthly pension amount provided under the scheme?",
+      "answer": "Beneficiaries receive a monthly pension of ₹1,500/-, with an additional ₹10/- increment for each completed year of enrollment beyond 5 years."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "The scheme is open to unorganized transport workers aged 18–60 years, engaged in operating commercial vehicles."
+    },
+    {
+      "question": "Are individuals using private vehicles eligible for the scheme?",
+      "answer": "No, the scheme excludes individuals whose vehicles are used solely for personal or family purposes."
+    },
+    {
+      "question": "What is the minimum enrollment period required to qualify for pension?",
+      "answer": "Beneficiaries must have been continuously enrolled in the scheme for at least 5 years."
+    },
+    {
+      "question": "When will the pension payments begin for eligible beneficiaries?",
+      "answer": "Pension payments start once the beneficiary attains the age of 60 years and fulfills all eligibility criteria."
+    },
+    {
+      "question": "How are pension benefits disbursed under the scheme?",
+      "answer": "Pension amounts are directly transferred to the beneficiaries’ bank accounts through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "What documents are required for submitting a pension application?",
+      "answer": "Applicants need identity proof, age proof, employment proof, bank account details, and the enrollment certificate under the scheme."
+    },
+    {
+      "question": "What if a worker does not complete the required five years of enrollment?",
+      "answer": "If the minimum continuous enrollment period of 5 years is not met, the worker may not qualify for pension benefits."
+    },
+    {
+      "question": "Where can workers seek additional information or assistance regarding the scheme?",
+      "answer": "Workers can contact the respective Regional Labor Offices or Labor Welfare Facilitation Centers in their area for more details."
+    }
+  ]
+}

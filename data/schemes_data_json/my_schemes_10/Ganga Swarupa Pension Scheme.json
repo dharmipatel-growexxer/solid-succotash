@@ -1,0 +1,98 @@
+{
+  "scheme_name": "Ganga Swarupa Pension Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/gspsg",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Ganga Swarupa Pension Scheme",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Ganga Swarupa Pension Scheme\" launched by the Women and Child Development Department, Gujarat, aims to empower widowed women by offering financial support, ensuring they achieve self-reliance and dignity. Eligible beneficiaries receive a monthly pension directly deposited into their Post Office accounts. The scheme is managed by the Women and Child Development Office and implemented at the district level by the Mamlatdar."
+    ],
+    "benefits": [
+      "Monthly Pension:",
+      "Monthly financial assistance of ₹1,250/-."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must be a widowed woman.",
+      "The applicant must be aged 18 years or above.",
+      "The applicant’s annual income must not exceed ₹1,20,000/- in rural areas and ₹1,50,000/- in urban areas."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Obtain the application form from Taluka Mamlatdar’s office.",
+        "Step 2:",
+        "Fill out the form with accurate details and attach the required documents.",
+        "Step 3:",
+        "Submit the form to the Taluka Mamlatdar.",
+        "Step 4:",
+        "The Mamlatdar will verify the details and approve the assistance if all criteria are met.",
+        "Helpdesk:",
+        "Contact Details."
+      ]
+    },
+    "documents_required": [
+      "Photo of the applicant (widowed woman).",
+      "Copy of ration card.",
+      "School leaving certificate.",
+      "Income proof.",
+      "Husband’s death certificate.",
+      "Election card or Aadhaar card.",
+      "Electricity bill.",
+      "Birth certificate.",
+      "Proof of being a widow."
+    ],
+    "sources_and_references": [
+      "Guidelines 1",
+      "Guidelines 2"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the \"Ganga Swarupa Pension Scheme\"?",
+      "answer": "The scheme aims to provide financial assistance to widowed women to help them achieve self-reliance."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Widowed women aged 18 years or above with an income below Rs. 1,20,000 in rural areas or Rs. 1,50,000 in urban areas are eligible."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "Beneficiaries receive Rs. 1250 monthly as financial assistance."
+    },
+    {
+      "question": "How is the pension amount disbursed?",
+      "answer": "The pension amount is directly deposited into the beneficiary’s post account."
+    },
+    {
+      "question": "Where should the application for the scheme be submitted?",
+      "answer": "The application form must be submitted to the Taluka Mamlatdar’s office."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Documents such as a photo of the applicant, ration card, income proof, husband’s death certificate, Aadhaar card, and proof of being a widow are required."
+    },
+    {
+      "question": "Who verifies and approves the applications?",
+      "answer": "The Taluka Mamlatdar is responsible for verifying and approving the applications."
+    },
+    {
+      "question": "Is there an age limit for applying to the scheme?",
+      "answer": "Yes, the applicant must be at least 18 years old to apply."
+    },
+    {
+      "question": "What is the income limit for eligibility?",
+      "answer": "The income limit is ₹1,20,000/- annually for rural areas and ₹1,50,000/- annually for urban areas."
+    },
+    {
+      "question": "How often is the pension amount provided?",
+      "answer": "The pension amount is provided on a monthly basis."
+    },
+    {
+      "question": "Who implements the scheme?",
+      "answer": "The scheme is implemented by the Women and Child Development Office, with district-level administration handled by the Mamlatdar."
+    }
+  ]
+}

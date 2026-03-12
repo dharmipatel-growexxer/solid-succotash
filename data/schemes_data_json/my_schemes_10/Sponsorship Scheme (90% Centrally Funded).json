@@ -1,0 +1,74 @@
+{
+  "scheme_name": "Sponsorship Scheme (90% Centrally Funded)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ss90cf",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Sponsorship Scheme (90% Centrally Funded)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The “Sponsorship Scheme” is implemented by the Women Welfare Department, Government of Uttarakhand. The scheme aims to provide financial assistance to children up to the age of 18 years who are in need of care and protection. It is a centrally sponsored scheme, funded 90% by the Government of India."
+    ],
+    "benefits": [
+      "Beneficiaries are provided assistance of ₹4,000/- per month till the age of 18 years, directly deposited into their bank account."
+    ],
+    "eligibility": [
+      "The child/beneficiary must be a resident of Uttarakhand.",
+      "Children up to 18 years of age belonging to families with an annual income of up to ₹72,000/- in rural areas and ₹96,000/- in urban areas.",
+      "Children who have lost both parents/guardians.",
+      "Children covered under the PM CARES scheme, children belonging to families that have lost their primary breadwinner.",
+      "Children in conflict with the law (CCL).",
+      "Child labor victims, child trafficking victims, children affected by child marriage, POCSO victims, children registered on the Bal Swaraj Portal, as well as other children in need of care and protection."
+    ],
+    "application_process": {
+      "offline": [
+        "To avail the benefits of the scheme, applicants must obtain an application form from the District Probation Office. Along with the completed application form, the following documents must be submitted: the child’s Aadhaar card, the child’s bank account (or the guardian’s bank account in case of a minor), death certificates of both parents (in case of parental death), and a medical certificate in case of critical illness or disability of the parents. Additionally, the Aadhaar card of the guardian or parent must also be attached.",
+        "After that, the application form is submitted to the District Probation Office. Thereafter, approval is given by the district level committee headed by the District Magistrate. However, not all applicants may receive the benefit, as the Government of India sets target limits for each district. Only those applications selected within the prescribed target limit are granted the benefit."
+      ]
+    },
+    "documents_required": [
+      "Child’s Aadhaar card",
+      "Bank account details (for a minor child, the bank account of the guardian)",
+      "Death certificates of both parents, in case of parental death",
+      "Medical certificate, in case of critical illness or disability of the parents",
+      "Aadhaar card of the guardian or parent, as applicable"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 38)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Children who are residents of Uttarakhand, up to 18 years of age, belonging to families with annual income up to ₹72,000 (rural) or ₹96,000 (urban), and who meet specific conditions such as loss of parents, critical illness of parents, or victims of abuse or trafficking."
+    },
+    {
+      "question": "What is the financial assistance provided under the scheme?",
+      "answer": "Beneficiaries receive ₹4,000 per month, which is directly deposited into their bank account until they reach 18 years of age."
+    },
+    {
+      "question": "Where can I get the application form?",
+      "answer": "The application form can be obtained from the District Probation Office."
+    },
+    {
+      "question": "Where should the completed application be submitted?",
+      "answer": "The completed application, along with supporting documents, should be submitted to the District Probation Office."
+    },
+    {
+      "question": "Who approves the applications?",
+      "answer": "Applications are approved by a district-level committee headed by the District Magistrate."
+    },
+    {
+      "question": "Is every applicant guaranteed to receive the benefit?",
+      "answer": "No, benefits are given only to selected applicants, as the Government of India sets target limits for each district."
+    },
+    {
+      "question": "Is there a minimum or maximum age for children to apply?",
+      "answer": "Children must be up to 18 years of age to be eligible."
+    },
+    {
+      "question": "Are children from urban areas eligible?",
+      "answer": "Yes, children from both urban and rural areas are eligible, subject to income limits."
+    }
+  ]
+}

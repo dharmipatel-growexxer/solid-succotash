@@ -1,0 +1,67 @@
+{
+  "scheme_name": "Pension for Agitators Who were Jailed for 7 Days or Injured During the Uttarakhand State Movement",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/uksap",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Pension for Agitators Who were Jailed for 7 Days or Injured During the Uttarakhand State Movement",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Pension for Agitators Who were Jailed for 7 Days or Injured During the Uttarakhand State Movement\" scheme is implemented by the Police Department under the Department of Home, Government of Uttarakhand. The scheme aims to provide a monthly pension to agitators who were jailed for 7 days or injured during the Uttarakhand State Movement and are unable to gain employment due to certain reasons."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "₹6,000/- per month"
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be an agitator who was jailed for 7 days or injured during the Uttarakhand State Movement.",
+      "The applicant must be unable to gain employment due to certain reasons."
+    ],
+    "application_process": {
+      "offline": [
+        "The application must be submitted to the concerned District Magistrate, and no specific format is prescribed for the application. An identified list of agitators has already been released. Those who were left out will be eligible to receive the benefits of the scheme only after their respective identity card is issued.",
+        "Regarding the identification of State agitators, it will be carried out in accordance with the standards prescribed in Government Order Number 777/XX(4)/26/U. A./2006.08 dated 22.10.2008, read with Government Order Number 1192/Twenty.4/2017-3 (13)/2011 dated 01.12.2017. After submission of the application, based on the report/recommendation of the District Magistrate and after obtaining the approval of the Hon’ble Departmental Minister / Hon’ble Chief Minister, the pension will be sanctioned by the Government.",
+        "Identification: Uttarakhand State agitators are identified by the District Magistrates and officers nominated by them. The identification is carried out based on the following records: LIU report, other police records (such as relevant entries from the daily diary, First Information Report (FIR) in any form), hospital reports, and information from other records whose authenticity is verified by the District Magistrate. Only after this verification is the identity card issued."
+      ]
+    },
+    "documents_required": [
+      "Proof of identity",
+      "Proof of being an agitator",
+      "Other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 63)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Applicants must be agitators who were jailed for 7 days or injured during the Uttarakhand State Movement and are unable to be employed due to certain reasons."
+    },
+    {
+      "question": "What is the pension amount under this scheme?",
+      "answer": "The scheme provides a monthly pension of ₹6,000."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "The application must be submitted to the concerned District Magistrate. No specific format is prescribed."
+    },
+    {
+      "question": "Is there a list of identified agitators already released?",
+      "answer": "Yes, the identified list of agitators has already been released. Those not included will be eligible only after their identity card is issued."
+    },
+    {
+      "question": "Who identifies the agitators?",
+      "answer": "Uttarakhand State agitators are identified by District Magistrates and officers nominated by them."
+    },
+    {
+      "question": "On what basis are agitators identified?",
+      "answer": "Identification is based on LIU reports, police records, FIRs, hospital reports, and other verified documents."
+    },
+    {
+      "question": "When is the identity card issued?",
+      "answer": "The identity card is issued only after verification of the authenticity of the documents by the District Magistrate."
+    }
+  ]
+}

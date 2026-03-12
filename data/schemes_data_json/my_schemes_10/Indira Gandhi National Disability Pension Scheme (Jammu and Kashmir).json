@@ -1,0 +1,103 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme (Jammu and Kashmir)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/igndpsjak",
+  "location_name": "Jammu and Kashmir",
+  "location_type": "union_territory",
+  "page_title": "Indira Gandhi National Disability Pension Scheme (Jammu and Kashmir)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched on 15th August 1995, the scheme \"Indira Gandhi National Disability Pension Scheme (IGNDPS)\" is a pension scheme by the Social Welfare Department, Union Territory of Jammu and Kashmir. The scheme provides ₹1,000/- per month to BPL individuals aged 18 to 79 who have severe or multiple disabilities. Launched under the National Social Assistance Programme (NSAP), the scheme aims to ensure social justice by providing financial support to the most vulnerable sections of society, fulfilling the Directive Principles of State Policy."
+    ],
+    "benefits": [
+      "Amount of Pension:",
+      "The beneficiary will receive a monthly pension of ₹1000/-.",
+      "Mode of Disbursement:",
+      "The pension is disbursed to the beneficiary either through bank transfer or money order."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of the Union Territory of Jammu and Kashmir.",
+      "The applicant should be a person with a disability.",
+      "The applicant's age should be between 18 and over 80 years.",
+      "The applicant should belong to a Below Poverty Line (BPL) family.",
+      "The applicant should not be receiving pension benefits under any other social security scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant should visit the Tehsil Social Welfare Officer (TSWO) in the concerned area. during office hours and request a hard copy of the",
+        "prescribed application form",
+        "from the concerned authority.",
+        "Step 2:",
+        "Fill in all the mandatory fields in the application form. Paste a passport-sized photograph (signed across, if required), and attach copies of all necessary documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Tehsil Social Welfare Officer (TSWO).",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "Post Application Processes",
+        "The TSWO verifies the submitted forms and forwards them to the District Social Welfare Officer (DSWO) for review.",
+        "The District Level Committee reviews the application and sanctions the pension.",
+        "NOTE 1:",
+        "Upon submission of the completed application form and the necessary documents, make sure to take a photocopy of the filled application form and the acknowledgement receipt for your future reference.",
+        "NOTE 2:",
+        "Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Passport-size Photograph",
+      "Identity Proof i.e. Voter ID Card or Driving License",
+      "Disability Certificate",
+      "Proof of Age",
+      "Below Poverty Line (BPL) Card/ Ration Card",
+      "Caste Certificate (if applicable)",
+      "Address Proof",
+      "Bank Passbook/Bank Account Details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 5)",
+      "Website",
+      "Application Form",
+      "Amendments To The Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the primary objective of the IGNDPS?",
+      "answer": "The primary objective is to provide financial assistance to individuals with disabilities living below the poverty line, ensuring their social and economic welfare."
+    },
+    {
+      "question": "Who is eligible to apply for the pension under the scheme?",
+      "answer": "Applicants must be residents of Jammu and Kashmir, aged between 18 and 79, with disabilities, and belong to Below Poverty Line (BPL) families."
+    },
+    {
+      "question": "How does one submit an application for the IGNDPS?",
+      "answer": "Applicants must fill out the required forms and submit them to the concerned Tehsil Social Welfare Officer."
+    },
+    {
+      "question": "Are there any specific documents required for the application?",
+      "answer": "Yes, applicants typically need to provide proof of residency, disability certificate, and evidence of BPL status."
+    },
+    {
+      "question": "Can individuals over 79 years old apply for the pension?",
+      "answer": "Yes, different pension provisions apply for individuals aged 80 and above."
+    },
+    {
+      "question": "Is the pension amount fixed or subject to change?",
+      "answer": "The current pension amount is fixed at ₹1000 per month, but it may be reviewed and updated by the government."
+    },
+    {
+      "question": "How is the pension disbursed to beneficiaries?",
+      "answer": "The pension amount is directly transferred to beneficiaries through bank accounts or money orders."
+    },
+    {
+      "question": "What impact does the scheme aim to have on beneficiaries?",
+      "answer": "The scheme aims to alleviate financial hardship and improve the quality of life for individuals with disabilities."
+    },
+    {
+      "question": "How can beneficiaries seek assistance if they face issues with their applications?",
+      "answer": "Beneficiaries can reach out to the Tehsil Social Welfare Officer or the local Social Welfare Department for support and guidance regarding their applications."
+    }
+  ]
+}

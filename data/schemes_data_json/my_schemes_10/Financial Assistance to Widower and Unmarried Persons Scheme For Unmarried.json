@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Financial Assistance to Widower and Unmarried Persons Scheme : For Unmarried",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/faups",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Financial Assistance to Widower and Unmarried Persons Scheme : For Unmarried",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Financial Assistance to Widower and Unmarried Persons Scheme: For Unmarried\" is implemented by the Social Justice, Empowerment, Welfare of Scheduled Castes and Backward Classes and Antyodaya (SEWA) Department, Government of Haryana. The scheme came into effect on 1st July, 2023, with the aim of providing Social Security to Unmarried Persons who are unable to sustain themselves from their own sources and are in need of financial assistance from the State.",
+      "Under this scheme, a monthly financial assistance of ₹2750/- is provided to an unmarried person, male as well as female, who has attained the age of 45 years and belongs to a family whose verified annual family income is upto ₹1,80,000/-."
+    ],
+    "benefits": [
+      "The scheme provides monthly financial assistance of ₹2750/- to eligible beneficiaries.",
+      "The financial assistance will continue until the beneficiary turns 60 years old.",
+      "Mode of Disbursement:",
+      "The financial assistance is disbursed through the Public Finance Management System (PFMS) directly into the beneficiary's bank account.",
+      "Note:",
+      "The Bank will not permit the beneficiary to withdraw the benefits from outside the district in which he/she is registered.",
+      "Frequency of Disbursement:",
+      "The assistance is provided on a monthly basis.",
+      "Expected Time of Disbursement:",
+      "The beneficiary list is updated monthly, and payments are processed accordingly.",
+      "Validity:",
+      "The assistance continues until the beneficiary turns 60 years old, after which they may transition to the Old Age Samman Allowance Scheme."
+    ],
+    "eligibility": [
+      "The applicant should be a domicile of Haryana or have been residing in the state for at least the last 15 years.",
+      "The applicant should be unmarried, whether male or female.",
+      "The applicant should have attained the age of 45 years.",
+      "The applicant should belong to a family with a verified annual income of up to ₹1.80 lakh.",
+      "The applicant should possess a Family ID, as verification is based on data from the Haryana Parivar Pehchan Authority (HPPA).",
+      "Other terms and Conditions:",
+      "Any benefits received under the Scheme, by suppressing true information or making wrong claim or the condition for which the pension was granted no longer exists or the beneficiary got married after the grant of benefit, would be recovered as arrears of land revenue with @12% interest per annum.",
+      "Financial Assistance shall cease to be payable on the death of a beneficiary. However, the amount of assistance will be paid for full month in which death of the beneficiary occurs (any date of the month) to the nominee.",
+      "Financial Assistance under this scheme shall not be liable to attachment under any court of law.",
+      "If a person is detected of having more than one bank account under the PFMS, all his bank accounts will be terminated. He/she would become ineligible to receive benefits under any Social Security Scheme of the State in future."
+    ],
+    "application_process": {
+      "online": [
+        "Apply for Scheme: Registration Process on Antyodaya-SARAL Portal:",
+        "Step 01:",
+        "To avail of the benefits of the scheme, the applicant needs to visit the Official Portal -",
+        "Antyodaya-SARAL Portal",
+        "Step 02:",
+        "If the applicant is not registered on the portal, then he/she gets registered on the portal.",
+        "Step 03:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 04:",
+        "Applicants will receive the login ID on their mobile number.",
+        "Login to Apply for the Scheme:",
+        "Visit the Official Portal -",
+        "The “Sign in here” option is available on the right side of the screen. Applicant needs to fill in their credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 05:",
+        "Fill in all the details asked in the online application form and submit the application form.",
+        "HBOCW Registration User Manual",
+        "Change of address:",
+        "It shall be obligatory for a beneficiary to intimate any change of address to the District Social Welfare Officer. A beneficiary shifting to a place outside Haryana State for a period exceeding three months shall not be ordinarily eligible for payment of Financial Assistance during the period of his/her stay outside Haryana State. However, in a case involving real hardship, the District Social Welfare Officer may permit payment of Financial Assistance to such a person for a period of absence up to one year, if he is satisfied that the shifting of residence was absolutely essential for the beneficiary."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Domicile Proof: Proof of Haryana residency for at least 15 years",
+      "Income Proof: Verified annual income document",
+      "Family ID: Must be obtained through the Haryana Parivar Pehchaan Act, 2021",
+      "Age Proof: Valid proof of age",
+      "Bank Account Details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Official Guideline",
+      "Notification"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible under the unmarried category?",
+      "answer": "Unmarried individuals (both male and female) aged 45 years or above, belonging to a family with an annual income of up to ₹1,80,000, are eligible."
+    },
+    {
+      "question": "Can a divorcee apply under the unmarried category?",
+      "answer": "No, divorcees are not eligible for this scheme."
+    },
+    {
+      "question": "How long will the assistance be provided to unmarried beneficiaries?",
+      "answer": "The assistance continues until the beneficiary turns 60 years old, after which they may transition to the Old Age Samman Allowance Scheme if eligible."
+    },
+    {
+      "question": "Can an applicant avail of this scheme along with another pension?",
+      "answer": "No, beneficiaries cannot receive financial aid from this scheme if they are already availing of any pension, financial assistance, or annuity from the government or an autonomous body."
+    },
+    {
+      "question": "What happens if an applicant provides false information?",
+      "answer": "If false information is detected, the beneficiary must repay the assistance amount with 12% annual interest, and they may be disqualified from the scheme."
+    },
+    {
+      "question": "How is income eligibility verified?",
+      "answer": "Income verification is done through data from the Haryana Parivar Pehchan Authority (HPPA)."
+    },
+    {
+      "question": "What happens if an unmarried beneficiary leaves Haryana for more than three months?",
+      "answer": "Absence from Haryana for over three months without valid reasons may lead to the suspension of benefits."
+    },
+    {
+      "question": "Can a beneficiary hold multiple bank accounts for receiving benefits?",
+      "answer": "No, if multiple PFMS-linked bank accounts are found, all accounts will be terminated, and the applicant will be disqualified from receiving benefits under any social security scheme of Haryana."
+    },
+    {
+      "question": "What should an unmarried beneficiary do in case of a change in address?",
+      "answer": "Any change in address must be reported to the District Social Welfare Officer (DSWO)."
+    }
+  ]
+}

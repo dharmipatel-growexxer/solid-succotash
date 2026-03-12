@@ -1,0 +1,133 @@
+{
+  "scheme_name": "Food Bill Assistant for Medical & Engineering Students of SEBC",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fbamessebc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Food Bill Assistant for Medical & Engineering Students of SEBC",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Food Bill Assistant for Medical & Engineering Students of SEBC\" scheme was launched by the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide financial relief for food expenses to SEBC category students pursuing higher education in the medical and engineering fields. Under this scheme, financial assistance per month for a maximum of 10 months is provided to eligible students."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹300/- per month (₹3,000/- annually) towards mess charges for most eligible SEBC students.",
+      "₹700/- per month (₹7,000/- annually) towards mess charges for selected students (limited number of beneficiaries).",
+      "₹1,500/- per month (₹15,000/- annually) for SEBC students studying in self-financed medical/engineering colleges and residing in hostels (with a fixed ceiling on the number of beneficiaries).",
+      "Duration:",
+      "Maximum of 10 months in an academic year."
+    ],
+    "eligibility": [
+      "The applicant should be a student.",
+      "The applicant must be a permanent resident of Gujarat.",
+      "The applicant must belong to the Socially and Educationally Backward Classes (SEBC).",
+      "The applicant should be pursuing a Medical or Engineering degree in a recognized institution.",
+      "The applicant must have passed HSC (Class 12",
+      "th",
+      ").",
+      "The applicant's annual family income should not exceed ₹6,00,000/-.",
+      "The applicant who is already availing similar mess assistance under any other government scheme is not eligible."
+    ],
+    "application_process": {
+      "online": [
+        "Application Process:",
+        "Step 1:",
+        "The applicant may visit the Digital Gujarat Portal:",
+        "https://www.digitalgujarat.gov.in/",
+        "Step 2:",
+        "On the home page, click on ‘Register’ and the applicant will be redirected to the registration form page.",
+        "Step 3:",
+        "Enter your Mobile Number, Email, Set Password, and then click on ‘Save’.",
+        "Step 4:",
+        "After successful registration, the applicant can login through his/her User Name (Mobile No./Email ID) and Password.",
+        "Step 5:",
+        "Now, click on ‘My Profile’ to update your profile and fill in all the mandatory information.",
+        "Step 6:",
+        "After filling in profile details, click on ‘Update Profile’. The profile will be updated after entering the verification Code (OTP).",
+        "Step 7:",
+        "Now under services, select ‘Scholarship Services’ and then click on ‘SC Scheme’.",
+        "Step 8:",
+        "Select the Financial Year for which you want to apply for and then click on ‘Change Financial Year’.",
+        "Step 9:",
+        "Select the scheme, read the interaction carefully, and then click on ‘Continue to Service’.",
+        "Step 10:",
+        "Fill in the application form completely and upload all the relevant documents.",
+        "Step 11:",
+        "Now, click on ‘Save as Draft’ and agree with the terms & conditions, and submit the application form by clicking on ‘Confirm & Final Submit’.",
+        "Instructions",
+        ":",
+        "Note 1:",
+        "Photo uploading for all applicants is mandatory.",
+        "Note 2:",
+        "Application will be considered complete only when all sections are completed.",
+        "Note 3:",
+        "Only one application per applicant will be acceptable for a scholarship. If any student submits more than one application either from a single institute or from multiple institutions his/her all applications will be rejected by the competent authority and no request from any side will be entertained.",
+        "Note 4:",
+        "In case of any wrong/misleading information provided in the application shall lead to rejection of the application by Department Authorities.",
+        "Note 5:",
+        "All required documents must be carefully scanned as per the instructions given.",
+        "Note 6:",
+        "The student has to fill his/her application carefully as there is no provision for institution change once the application is submitted successfully.",
+        "Note 7:",
+        "The unreadable uploaded documents will allow the competent authority to reject the student application.",
+        "Note 8:",
+        "Direct Individual submission of this application form will not be accepted in case of students studying inside the state. Only outside students have to fill out their form online and submit his/her application form to their native district officer.",
+        "User Manual",
+        "- English",
+        "- Gujarati"
+      ]
+    },
+    "documents_required": [
+      "Bank Pass Book/Cancelled Cheque.",
+      "Caste Certificate.",
+      "Income Certificate.",
+      "Other Mark sheets/Last Year Mark sheet.",
+      "Receipt of Fee Paid."
+    ],
+    "sources_and_references": [
+      "Guidelines (S. No. 183)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Socially and Educationally Backward Class (SEBC) students studying Medical or Engineering courses in Gujarat."
+    },
+    {
+      "question": "How much assistance is provided under the scheme?",
+      "answer": "₹1,500 per month for a maximum of 10 months."
+    },
+    {
+      "question": "Which courses are covered under this scheme?",
+      "answer": "Only medical and engineering degree courses are eligible."
+    },
+    {
+      "question": "What is the mode of application?",
+      "answer": "Applicants must apply online through https://www.digitalgujarat.gov.in."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, applying to this scheme is completely free of cost."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Bank passbook, caste certificate, income certificate, mark sheets, and fee receipt are required."
+    },
+    {
+      "question": "Can students from other states apply?",
+      "answer": "No, the scheme is only for permanent residents of Gujarat."
+    },
+    {
+      "question": "Where can I get more information?",
+      "answer": "The applicant can visit https://sje.gujarat.gov.in/ddcw or https://www.digitalgujarat.gov.in."
+    },
+    {
+      "question": "Can the scheme be availed for more than 10 months?",
+      "answer": "No, the assistance is strictly limited to a maximum of 10 months per academic year."
+    },
+    {
+      "question": "How is the amount disbursed?",
+      "answer": "The assistance amount is transferred directly to the student’s bank account via DBT (Direct Benefit Transfer)."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "scheme_name": "National Family Assistance Scheme (Madhya Pradesh)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nfasmp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "National Family Assistance Scheme (Madhya Pradesh)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "Launched on 15th August 1995, the \"National Family Benefit Scheme\" is a welfare scheme by the Department of Social Justice and Empowerment of Persons with Disabilities, Government of Madhya Pradesh. The scheme provides one-time financial assistance of ₹20,000/- to ensure social security for bereaved families living below the poverty line in case of the death of their breadwinner."
+    ],
+    "benefits": [
+      "A one-time financial assistance of ₹20,000/-."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should be a family member or a dependent of the deceased person.",
+      "The deceased person should have been the primary breadwinner (an earning member of the family) on whom the family primarily depended for income.",
+      "The family of the deceased should be living Below the Poverty Line (BPL).",
+      "At the time of death, the deceased should have been between 18 and 60 years old."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant should visit the Gram Panchayat or Public Service Center during office hours and request a hard copy of the",
+        "prescribed application form",
+        "from the concerned authority.",
+        "Step 2:",
+        "Fill in all the mandatory fields in the application form. Paste a passport-sized photograph (signed across, if required), and attach copies of all necessary documents (self-attested, if required).",
+        "Step 3:",
+        "After applying, the applicant will receive an acknowledgement receipt from the office, confirming that the application has been received.",
+        "Step 4:",
+        "The submitted documents will be verified by the District Panchayat/ Gram Panchayat/ Urban Body or Ward Office depending on to whom the application was submitted.",
+        "Step 5:",
+        "Upon submission of the completed application form and the necessary documents, make sure to take a photocopy of the filled application form and the acknowledgement receipt for your future reference.",
+        "Post Application Processes",
+        "Once the documents are verified and found to be correct, the application will be approved, and the applicant’s name will be added to the pension proposal for that month.",
+        "NOTE:",
+        "If any discrepancies or missing information are found, the application will be rejected. In such cases, the applicant will receive a written notice specifying the reason for rejection, and the rejection will be duly recorded in the system."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Passport-size Photograph",
+      "Identity Proof i.e. Voter ID Card or Driving License",
+      "Death Certificate of the Deceased Person",
+      "Proof of Age of the Deceased Person",
+      "Below Poverty Line (BPL) Card/ Ration Card",
+      "Caste Certificate (if applicable)",
+      "Address Proof",
+      "Bank Passbook/Bank Account Details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Application Form",
+      "Website",
+      "Scheme Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The scheme aims to provide social security to the immediate dependents of a deceased family member by offering financial assistance after the sudden death of the breadwinner."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "A one-time financial assistance of ₹20,000/- is provided to the bereaved family of the deceased breadwinner."
+    },
+    {
+      "question": "Who implements this scheme?",
+      "answer": "The scheme is implemented by the Department of Social Justice and Empowerment of Persons with Disabilities, Government of Madhya Pradesh."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Families living below the poverty line (BPL) are eligible for the scheme, provided the deceased person was between the ages of 18 and 60 years."
+    },
+    {
+      "question": "What is the age limit for the deceased person?",
+      "answer": "The deceased person must be between 18 and 60 years of age at the time of death to be eligible for the benefit."
+    },
+    {
+      "question": "What documents are required to apply for this scheme?",
+      "answer": "The required documents may include proof of death, BPL certificate, age proof of the deceased, and identity proof of the applicant."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Eligible applicants can submit their application along with the required documents to the local Gram Panchayat, Urban Body, or the designated office."
+    },
+    {
+      "question": "Is the scheme available only in rural areas?",
+      "answer": "No, the scheme is available to BPL families in both rural and urban areas of Madhya Pradesh."
+    }
+  ]
+}

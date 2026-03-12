@@ -1,0 +1,94 @@
+{
+  "scheme_name": "Family Pension (DBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fpdbocwwb",
+  "location_name": "Delhi",
+  "location_type": "union_territory",
+  "page_title": "Family Pension (DBOCWWB)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Family Pension\" scheme was launched by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi. In this scheme, upon the death of the pensioner, the surviving spouse is provided 50% of the pension amount or ₹1,500/-, whichever is higher."
+    ],
+    "benefits": [
+      "50% of the pension or ₹1,500/-, whichever is higher."
+    ],
+    "eligibility": [
+      "The deceased should have been a pensioner of the Board.",
+      "The applicant should be a family member or a dependent of the deceased."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should take a print of the",
+        "prescribed format",
+        "of the application form.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Labour Incharge of the Board.",
+        "Helpline Number (24x7):",
+        "011-41236600",
+        "DBOCWWB Department Number (Office Hours: 9:30AM - 6:00PM) :",
+        "011-23813846"
+      ]
+    },
+    "documents_required": [
+      "Copy of Aadhaar Card of Spouse.",
+      "Address Proof of the Spouse.",
+      "Copy of First Page of Bank Passbook/ Cancelled Cheque of the Spouse.",
+      "Original Death Certificate of the Pensioner (duly issued by a Municipal/ Government Authority)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Amendments",
+      "Application Status"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the eligibility criteria for the surviving spouse to receive benefits under this pension scheme?",
+      "answer": "The deceased must have been a pensioner of the Delhi Building and Other Construction Workers Welfare Board, and the applicant should be a family member or dependent."
+    },
+    {
+      "question": "Who is considered an eligible applicant for receiving the pension benefits after the pensioner’s death?",
+      "answer": "The surviving spouse or a dependent family member of the deceased pensioner is eligible to apply for the benefits."
+    },
+    {
+      "question": "What is the minimum amount assured to the surviving spouse under this pension scheme?",
+      "answer": "The surviving spouse will receive 50% of the pension amount or ₹1,500/-, whichever is higher."
+    },
+    {
+      "question": "How can an applicant obtain the application form for claiming the family pension benefits?",
+      "answer": "The applicant must take a printout of the prescribed application form from https://bocw.delhi.gov.in/sites/default/files/generic_multiple_files/form_no._xlv_family_pension_under_rule_283.pdf"
+    },
+    {
+      "question": "Where should the completed application form and documents be submitted for processing?",
+      "answer": "The duly filled form must be submitted to the Labour Incharge of the Delhi Building and Other Construction Workers Welfare Board."
+    },
+    {
+      "question": "Is there a helpline number available for assistance regarding the family pension scheme?",
+      "answer": "Yes, applicants can call the 24x7 helpline at 011-41236600 for support."
+    },
+    {
+      "question": "What are the office hours for contacting the department directly for pension-related queries?",
+      "answer": "The department can be reached during office hours (9:30 AM to 6:00 PM) at 011-23813846."
+    },
+    {
+      "question": "What happens if the calculated 50% of the pension is less than ₹1,500/-?",
+      "answer": "The beneficiary will receive ₹1,500/-, as the scheme guarantees the higher of the two amounts."
+    },
+    {
+      "question": "Where can applicants find detailed guidelines about the family pension scheme?",
+      "answer": "The guidelines are available on the official website at https://bocw.delhi.gov.in/bocw/welfare-schemes."
+    },
+    {
+      "question": "What is the official website where scheme details and amendments can be checked?",
+      "answer": "Applicants can visit https://dbocwwb.delhi.gov.in/welfareschemedboc.html for scheme details and updates."
+    },
+    {
+      "question": "What should an applicant do if they face issues while filling out the application form?",
+      "answer": "They can contact the helpline number 011-41236600 for assistance at any time."
+    }
+  ]
+}

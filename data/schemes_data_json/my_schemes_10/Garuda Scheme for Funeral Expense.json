@@ -1,0 +1,111 @@
+{
+  "scheme_name": "Garuda Scheme for Funeral Expense",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/gsfe",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "Garuda Scheme for Funeral Expense",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Andhra Pradesh Brahmin Welfare Corporation (ABC), a Government of Andhra Pradesh undertaking, is announcing the \"Garuda Scheme for Funeral Expenses\" (GS- FE) for the poor Brahmins in Andhra Pradesh. Under this scheme, financial assistance of ₹10,000/- shall be provided to meet the Funeral Expenses of the deceased Brahmin, through the prescribed process. This scheme covers Andhra Pradesh all 13 districts, to meet the funeral expenses of the deceased Brahmi."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹10,000/- for funeral expenses."
+    ],
+    "eligibility": [
+      "The applicant should be a close relative of the deceased (Spouse/Son/Daughter/Parent/Brother/Grandson).",
+      "The applicant should provide a self-declaration that he/she is the legal heir of the deceased.",
+      "The applicant should belong to the Brahmin community and reside in Andhra Pradesh.",
+      "The applicant's annual family income should not exceed ₹75,000/-.",
+      "The applicant should not have availed himself/ herself of any amount under any other government scheme for the same purpose."
+    ],
+    "application_process": {
+      "online": [
+        "Registration and apply",
+        "Step 01:",
+        "Applicants have to visit the official website(https://www.andhrabrahmin.ap.gov.in/schemes/schemes.aspx#) and click on \"Scheme\"",
+        "Step 02:",
+        "Click on \"Registration\" After that application form will open",
+        "Step 03:",
+        "Fill out the required details:",
+        "Personal Details: Name, Residence address, Aadhaar no, Ration card no, Bank detail etc",
+        "Upload: Photo, Signature and Certificate Details",
+        "Documents: Birth Certificate, Residential Certificate, Aadhar Card, Caste Certificate, Bank Passbook etc",
+        "Finalize and \"Submit\" the application.",
+        "Step-4:",
+        "After submission receive the reference number.",
+        "Check Application Status:",
+        "Click on the “Services” link on the menu and select \"Know your status\".",
+        "Enter the Reference or Mobile or Aadhaar Card Number to get the application status.",
+        "Select the \"Financial Year\" and Fetch the details.",
+        "Download the Acknowledgement slip:",
+        "Click on the \"Acknowledgement Slip\"",
+        "Enter the Aadhaar Card Number and select the \"Scheme\"",
+        "Click on the \"Submit\""
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph of the Applicant",
+      "Aadhar Card of the Applicant",
+      "Aadhar Card of the Deceased",
+      "White Ration Card/Income Certificate (issued by Mee Seva/Revenue Department)",
+      "Caste Certificate (issued from Mee Seva)",
+      "Residence Certificate (issued from Mee Seva)",
+      "Birth Certificate (issued from Mee Seva)",
+      "Income Certificate of the Applicant (issued by Mee Seva/Revenue Department)",
+      "Passbook of SB Account in Andhra Bank or SBI (in the name of Applicant)",
+      "Self-declaration (the applicant is the legal heir of the deceased Brahmin)",
+      "Death Certificate of Deceased Brahmin (issued by any Government)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for GS-FE?",
+      "answer": "Any close relative of the deceased Brahmin residing in Andhra Pradesh with an annual family income below ₹75,000/-."
+    },
+    {
+      "question": "How much financial assistance is provided?",
+      "answer": "₹10,000/- is provided for funeral expenses."
+    },
+    {
+      "question": "Who can apply under this scheme?",
+      "answer": "Spouse, son, daughter, parent, brother, or grandson of the deceased Brahmin."
+    },
+    {
+      "question": "What is the application procedure?",
+      "answer": "Apply online at www.andhrabrahmin.ap.gov.in."
+    },
+    {
+      "question": "What documents are needed for application?",
+      "answer": "Aadhar card, caste certificate, income certificate, SB account passbook, passport photo, self-declaration, and death certificate of the deceased."
+    },
+    {
+      "question": "Is there a time limit to apply?",
+      "answer": "Yes, the application must be submitted within 45 days of the death."
+    },
+    {
+      "question": "Can I apply if receiving benefits from other schemes?",
+      "answer": "No, applicants should not have availed benefits from other government schemes for the same purpose."
+    },
+    {
+      "question": "What is Praja Sadhikara Survey (PSS)?",
+      "answer": "A survey for residents of Andhra Pradesh, required for registration."
+    },
+    {
+      "question": "How is the data validated?",
+      "answer": "Data is validated with Mee Seva, Praja Sadhikara Survey, and Civil Supplies departments."
+    },
+    {
+      "question": "What is the maximum size for uploaded documents?",
+      "answer": "Each scanned document must be in PDF format with a maximum size of 250 kb."
+    },
+    {
+      "question": "Which banks are acceptable for the SB account?",
+      "answer": "The SB account must be in Andhra Bank or SBI."
+    }
+  ]
+}

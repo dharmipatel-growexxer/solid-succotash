@@ -1,0 +1,105 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme (Punjab)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/igndpsp",
+  "location_name": "Punjab",
+  "location_type": "state",
+  "page_title": "Indira Gandhi National Disability Pension Scheme (Punjab)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Indira Gandhi National Disability Pension Scheme (IGNDPS)\" is implemented by the Department of Social Security and Development of Women and Children, Government of Punjab. Under this scheme, persons with disabilities aged 18 years and above, having a disability level of 80% or more, are eligible to receive a pension of ₹300/- per month. After attaining the age of 80 years, the pension amount increases to ₹500/- per month. Dwarfs are also included as an eligible category under this scheme."
+    ],
+    "benefits": [
+      "Pension is Rs. 300/- per month (age 18-79 year)",
+      "Pension is Rs. 500/- per month (age 80 and above year)"
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Punjab.",
+      "The applicant should be a person with a disability.",
+      "The percentage of the disability should be 80% or more.",
+      "The applicant’s age should be between 18 and 80 years."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The interested applicant should visit the District Social Security Officer and request a hard copy of the prescribed format of the application form from the concerned staff.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the",
+        "District Social Security Officer",
+        ".",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof (Voter ID Card/ Driving License)",
+      "Disability Certificate",
+      "Proof of Age",
+      "Address Proof",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the eligibility criteria related to age for receiving the monthly pension under this scheme?",
+      "answer": "Applicants must be between 18 and 80 years of age. Those aged 80 and above receive a higher pension amount."
+    },
+    {
+      "question": "Is there a specific disability percentage required to qualify for the pension scheme?",
+      "answer": "Yes, the applicant must have a disability level of 80% or more to be eligible."
+    },
+    {
+      "question": "Do individuals with dwarfism qualify for this pension scheme?",
+      "answer": "Yes, dwarfs are included as an eligible category under this scheme."
+    },
+    {
+      "question": "What is the monthly pension amount for beneficiaries aged between 18 and 79 years?",
+      "answer": "Eligible beneficiaries receive ₹300 per month if they are between 18 and 79 years of age."
+    },
+    {
+      "question": "Does the pension amount increase after a certain age, and if so, by how much?",
+      "answer": "Yes, after turning 80, the pension increases from ₹300 to ₹500 per month."
+    },
+    {
+      "question": "Is there a residency requirement to apply for this pension scheme?",
+      "answer": "Yes, only residents of Punjab are eligible to apply for this pension."
+    },
+    {
+      "question": "What type of identity proof is accepted when applying for the pension?",
+      "answer": "Accepted identity proof includes a Voter ID Card or Driving License."
+    },
+    {
+      "question": "Is a disability certificate mandatory for the application process?",
+      "answer": "Yes, a valid disability certificate must be submitted as proof of disability."
+    },
+    {
+      "question": "What documents are required as proof of age for the application?",
+      "answer": "Applicants must provide an official document verifying their age, such as a birth certificate or Aadhaar card."
+    },
+    {
+      "question": "What address proof documents are acceptable for submission with the application?",
+      "answer": "Any valid government-issued document confirming the applicant’s residential address in Punjab is acceptable."
+    },
+    {
+      "question": "Are bank account details required to receive the pension benefits?",
+      "answer": "Yes, a bank passbook or account details must be provided for pension disbursement."
+    },
+    {
+      "question": "Where can an applicant obtain the offline application form for this scheme?",
+      "answer": "The form can be collected from the District Social Security Officer’s office."
+    },
+    {
+      "question": "What should an applicant do after filling out the offline application form?",
+      "answer": "They must attach self-attested copies of required documents and submit the form to the District Social Security Officer."
+    },
+    {
+      "question": "How can an applicant apply online for this pension scheme?",
+      "answer": "They must register on the UMANG portal and complete the application under the National Social Assistance Programme (NSAP)."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "scheme_name": "Maternity Benefits Scheme (BBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mbsbbocwwb",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Maternity Benefits Scheme (BBOCWWB)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "\"Maternity Benefits Scheme\" by the Bihar Building & Other Construction Workers' Welfare Board, Labour Resources Department, Government of Bihar, provides an amount equivalent to 90 days of the minimum wages set by the State Government for unskilled workers at the time of childbirth. This benefit is applicable for the first two deliveries. The applicant should be a female construction worker who has completed one year of membership with the Board."
+    ],
+    "benefits": [
+      "Financial assistance equivalent to 90 days of the minimum wages set by the State Government for unskilled workers."
+    ],
+    "eligibility": [
+      "The applicant should be female.",
+      "The applicant should be registered with the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB).",
+      "The applicant should have completed at least one year of membership with the Board.",
+      "The membership must be active at the time of application.",
+      "The benefits will be provided for the first two childbirths."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "Visit the",
+        "Official Website",
+        "of the Bihar Building and Other Construction Workers Welfare Board, and click \"",
+        "Apply for New Registration",
+        "\".",
+        "Step 4:",
+        "On the next page, provide your details including your Aadhaar Number. Then click \"Authenticate\".",
+        "Step 5:",
+        "An online form will appear. In the form, fill in all the mandatory fields. The fields marked with an asterisk (*) are mandatory.",
+        "Step 6:",
+        "Click \"Submit\". Proceed to pay the application fee online.",
+        "Step 7:",
+        "Upon successful payment, you will receive your construction worker registration number.",
+        "Application",
+        "of the Bihar Building and Other Construction Workers Welfare Board.",
+        "Step 2:",
+        "Click on \"",
+        "Scheme Application",
+        "\" and select \"",
+        "Apply for Scheme",
+        "Step 3:",
+        "Enter your registration number and click \"Show\" to view your details.",
+        "Select the scheme you intend to apply for, enter all mandatory information and upload the necessary documents in the specified format and size.",
+        "Click on \"Submit Application\" to complete the process.",
+        "Application Tracking",
+        "Applicants can track their application status online on the",
+        "of the Board by providing their registration number."
+      ]
+    },
+    "documents_required": [
+      "Identity Card of the Registered Worker",
+      "Bank Account Details",
+      "Birth Certificate",
+      "Proof of Membership",
+      "Proof of Age at the Time of Registration",
+      "Any Other Documents as Required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Online Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "If I am a female construction worker who has been working for 8 months in Bihar, would I be eligible to receive maternity benefits from the state welfare board?",
+      "answer": "No, you would not be eligible at this time. The scheme requires female construction workers to complete at least one year of membership with the Bihar Building & Other Construction Workers Welfare Board before they can receive benefits."
+    },
+    {
+      "question": "As a registered female construction worker in Bihar, what is the maximum number of times I can receive maternity benefits through this welfare scheme?",
+      "answer": "You can receive maternity benefits for your first two childbirths only. The benefit amount for each eligible childbirth will be equivalent to 90 days of the state-mandated minimum wages for unskilled workers."
+    },
+    {
+      "question": "What steps do I need to take to register myself as a construction worker before I can apply for maternity benefits in Bihar?",
+      "answer": "You need to visit the official website of the Bihar Building & Other Construction Workers Welfare Board, click on \"Apply for New Registration\", provide your Aadhaar Number for authentication, fill in all mandatory fields marked with asterisk (*), and pay the application fee online to receive your registration number."
+    },
+    {
+      "question": "Could you explain the complete process of applying for maternity benefits after I have received my construction worker registration number?",
+      "answer": "Visit the official website, click on \"Scheme Application\", select \"Apply for Scheme\", enter your registration number to view your details, select the maternity benefits scheme, fill in all mandatory information, upload required documents in the specified format and size, and click \"Submit Application\"."
+    },
+    {
+      "question": "If I register as a construction worker today, when will I become eligible to apply for maternity benefits under this scheme?",
+      "answer": "You will become eligible to apply exactly one year after your registration date, provided your membership remains active throughout this period and it is either your first or second childbirth."
+    },
+    {
+      "question": "What is the exact financial assistance I will receive as maternity benefits under this welfare scheme?",
+      "answer": "You will receive an amount equivalent to 90 days of the current minimum wages that are set by the Bihar State Government for unskilled workers at the time of your childbirth."
+    },
+    {
+      "question": "As a registered construction worker, what should I do to ensure my membership remains active so I can claim maternity benefits when needed?",
+      "answer": "Your membership must remain active at the time of application, though the provided information doesn't specify the exact requirements for maintaining active membership status. It would be best to contact the welfare board directly for these details."
+    },
+    {
+      "question": "If I am currently pregnant and planning to register as a construction worker, will I be eligible for maternity benefits immediately after completing one year of membership?",
+      "answer": "Yes, once you complete one year of membership with the Board, you will be eligible for maternity benefits provided this is either your first or second childbirth and your membership remains active."
+    }
+  ]
+}

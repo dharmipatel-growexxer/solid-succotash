@@ -1,0 +1,121 @@
+{
+  "scheme_name": "Pension Scheme to Old Age Persons (Senior Citizen)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/psoap",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Pension Scheme to Old Age Persons (Senior Citizen)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Pension Scheme to Old Age Persons (Senior Citizen)” is implemented by the Social Welfare Department, UT of Dadra & Nagar Haveli and Daman & Diu. The scheme aims to support senior citizens in meeting their basic needs during old age. It is specifically targeted at residents of Dadra & Nagar Haveli and Daman & Diu who are 60 years and above, with an annual family income not exceeding ₹1.5 lakh per annum. Under this scheme, eligible individuals aged 60–69 years receive a monthly pension of ₹1,500/-, while those aged 70 years and above receive ₹2,000/- per month."
+    ],
+    "benefits": [
+      "Quantum & Nature of Assistance:",
+      "1. Senior citizens aged 60–69 years: Monthly pension of ₹1,500/-.",
+      "2. Senior citizens aged 70 years and above: Monthly pension of ₹2,000/-.",
+      "Note:",
+      "The mode of fund transfer shall be Direct Benefit Transfer (DBT)."
+    ],
+    "eligibility": [
+      "The applicant should be a domicile of the Dadra & Nagar Haveli and Daman & Diu.",
+      "The applicant should be 60 years or older.",
+      "The applicant's annual family income should not exceed ₹1,50,000/-.",
+      "The applicant should not be receiving financial assistance under any other old age pension scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 1:",
+        "The applicant can collect the application form from the office of the District Panchayat or Municipal Council of the concerned district. Alternatively, the form can be",
+        "downloaded",
+        "from the official website.",
+        "Step 2:",
+        "The applicant should carefully fill out the application form and attach all necessary documents.",
+        "Step 3:",
+        "The duly filled application form, addressed to the Chief Executive Officer/Chief Officer of the concerned District Panchayat/Municipal Council, should be submitted to the Gram Panchayat/District Panchayat/Municipal Council of the concerned district.",
+        "Post Application Process:",
+        "Field-level staff of the District Panchayat/Municipal Council will verify the submitted documents and scrutinize the application. They will also collect a life certificate from the beneficiaries annually.",
+        "The Chief Executive Officer/Chief Officer of the respective District Panchayat/Municipal Council will review and approve the applications.",
+        "Timelines:",
+        "• Application process: The application may be processed within 30 (thirty) days from the date of receipt.",
+        "• Payment disbursement: Once the application is approved by the Approving / Recommending authorities, the payment shall be disbursed into the bank account of the senior citizens by the fifth of every month.",
+        "Grievance Redressal & Contact:",
+        "For any grievance, the aggrieved senior citizen may approach the Chief Executive Officer/Chief Officer of District Panchayat / Municipal Council in the concerned district or District Collector of the concerned district or the Department of Social Welfare."
+      ]
+    },
+    "documents_required": [
+      "Proof of Age (In case of non-availability of age proof the beneficiary shall be referred to the Medical Board (Government Hospital) of the concerned district for verification of age.)",
+      "Income Certificate issued by the Competent Authority",
+      "Domicile Certificate issued by the Competent Authority",
+      "Copy of Bank Pass Book (Aadhaar linked)",
+      "Copy of Aadhaar Card",
+      "Election Card/Passport/Ration card (any one)",
+      "Passport size photographs (2 copies)",
+      "Undertaking/Affidavit (Not getting any pension from any other department) in the prescribed proforma at",
+      "Annexure II"
+    ],
+    "sources_and_references": [
+      "Notification",
+      "Website",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The scheme aims to provide financial support to senior citizens to help them meet their basic needs."
+    },
+    {
+      "question": "Who implements this scheme?",
+      "answer": "The scheme is implemented by the Social Welfare Department, UT of Dadra & Nagar Haveli and Daman & Diu."
+    },
+    {
+      "question": "Is this a one-time benefit or a recurring pension?",
+      "answer": "This is a monthly pension provided to eligible senior citizens."
+    },
+    {
+      "question": "What is the pension amount?",
+      "answer": "The beneficiaries aged 60–69 years receive ₹1,500 per month, while those aged 70 years and above receive ₹2,000 per month."
+    },
+    {
+      "question": "How is the pension amount distributed?",
+      "answer": "The pension is disbursed directly into the beneficiary's bank account through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Any resident of Dadra & Nagar Haveli and Daman & Diu who is 60 years or older and has an annual family income of ₹1.5 lakh or less is eligible."
+    },
+    {
+      "question": "Is there any domicile requirement for this scheme?",
+      "answer": "Yes, the applicant must be a domicile of Dadra & Nagar Haveli and Daman & Diu."
+    },
+    {
+      "question": "Can a senior citizen receiving another old-age pension apply for this scheme?",
+      "answer": "No, applicants should not be receiving financial assistance under any other old-age pension scheme."
+    },
+    {
+      "question": "Is there any requirement regarding financial status?",
+      "answer": "Yes, the annual family income of the applicant must not exceed ₹1,50,000."
+    },
+    {
+      "question": "How can one apply for this scheme?",
+      "answer": "Applicants can collect the application form from the District Panchayat/Municipal Council office or download it from the official website."
+    },
+    {
+      "question": "Where should the completed application form be submitted?",
+      "answer": "The duly filled form should be submitted to the Gram Panchayat/District Panchayat/Municipal Council of the concerned district."
+    },
+    {
+      "question": "How long does the application process take?",
+      "answer": "The application is typically processed within 30 days from the date of submission."
+    },
+    {
+      "question": "When will the pension amount be credited?",
+      "answer": "The pension is credited by the 5th of every month once the application is approved."
+    },
+    {
+      "question": "Can I receive the pension amount in cash?",
+      "answer": "No, the pension amount is only transferred through a bank account."
+    }
+  ]
+}

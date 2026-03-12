@@ -1,0 +1,104 @@
+{
+  "scheme_name": "Incentive Scheme For The Electricity Consumers Under Various Categories In Andaman & Nicobar Islands",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/isecvcani",
+  "location_name": "Andaman and Nicobar Islands",
+  "location_type": "union_territory",
+  "page_title": "Incentive Scheme For The Electricity Consumers Under Various Categories In Andaman & Nicobar Islands",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2018, the scheme \"Incentive Scheme For The Electricity Consumers Under Various Categories In Andaman & Nicobar Islands\" by the Electricity Department, Andaman & Nicobar Administration aims to encourage energy conservation among electricity consumers and promote adoption of green energy initiatives. The scheme offers monetary incentives ranging from ₹15,000/- to ₹75,000/- to consumers who achieve significant energy savings. Eligible participants include domestic, commercial, and industrial consumers with properly functioning meters and up-to-date bill payments. The scheme is implemented by the Electricity Department of Andaman & Nicobar Islands through an evaluation committee headed by the Commissioner-cum-Secretary (Power)."
+    ],
+    "benefits": [
+      "Prize Money for Domestic Consumers (Green Energy & Energy Conservation)",
+      "First Prize: ₹75,000/-; Second Prize: ₹50,000/-; Third Prize: ₹30,000/-",
+      "Prize Money for Domestic Consumers (Energy Conservation)",
+      "First Prize: ₹50,000/-; Second Prize: ₹30,000/-; Third Prize: ₹15,000/-",
+      "Prize Money for Commercial Consumers",
+      "Prize Money for Industrial Consumers"
+    ],
+    "eligibility": [
+      "The consumers those have installed Solar Water Heating System, Rooftop Solar & Ground Mounted Solar for their domestic requirements will be considered under Green Energy.",
+      "The consumers whose energy meters are in running condition.",
+      "The calculation of saving done by the consumer shall be on the basis of past three months average consumption.",
+      "The consumers having electricity bill paid up to date will only be considered.",
+      "Ownership of the meter should be in the name of the beneficiary who should be present at the time of evaluation, if called by the department.",
+      "Only those consumers will be eligible whose minimum energy savings are more than 30%.",
+      "The highest savings done by the consumers would be eligible for the prizes.",
+      "In case the percentage saving is equal for more than one consumer, say Mr. A & Mr. B both are with 40% saving, then the winner will be selected by drawing of lots."
+    ],
+    "application_process": {
+      "offline": [
+        "The \"Incentive Scheme For The Electricity Consumers Under Various Categories In Andaman & Nicobar Islands\" does not require any formal application process. Eligible consumers with functioning meters and paid-up bills will be automatically considered for incentives based on their energy savings as evaluated by the department's committees."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity of the Consumer",
+      "Proof of Ownership of the Electric Connection",
+      "Up-to-date Electricity Bill Payment Receipts",
+      "Documentation of Solar Water Heating System, Rooftop Solar & Ground Mounted Solar Installations (for Green Energy Category)",
+      "Electricity Consumption Records for the Past Three Months"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How does the scheme benefit the environment and the islands as a whole?",
+      "answer": "The scheme aims to minimize pollution by reducing carbon emissions and encourages switching to clean and green energy sources. This helps in making the Andaman & Nicobar Islands greener and reduces dependence on diesel generator sets."
+    },
+    {
+      "question": "What are the prize amounts for the domestic consumers who have installed green energy solutions?",
+      "answer": "For domestic consumers under the Green Energy & Energy Conservation category, the first prize is ₹75,000/-, second prize is ₹50,000/-, and third prize is ₹30,000/-."
+    },
+    {
+      "question": "How much minimum energy saving is required to be eligible for the incentive?",
+      "answer": "Only those consumers who achieve minimum energy savings of more than 30% compared to their last three months' average consumption will be eligible for the incentives."
+    },
+    {
+      "question": "What incentives are available for domestic consumers who practice energy conservation without green energy installations?",
+      "answer": "Domestic consumers who practice energy conservation without green energy installations can receive ₹50,000/- for first prize, ₹30,000/- for second prize, and ₹15,000/- for third prize."
+    },
+    {
+      "question": "How is the energy saving calculated for determining eligibility under the scheme?",
+      "answer": "The calculation of energy savings is done based on the consumer's past three months' average consumption. The percentage reduction in energy use compared to this baseline determines eligibility."
+    },
+    {
+      "question": "What monetary incentives are offered to commercial consumers who achieve significant energy savings?",
+      "answer": "Commercial consumers who achieve significant energy savings can receive ₹75,000/- for first prize, ₹50,000/- for second prize, and ₹30,000/- for third prize."
+    },
+    {
+      "question": "What are the prize amounts for industrial consumers who participate in the scheme?",
+      "answer": "Industrial consumers can receive ₹75,000/- for first prize, ₹50,000/- for second prize, and ₹30,000/- for third prize based on their energy savings performance."
+    },
+    {
+      "question": "What happens if two or more consumers have the same percentage of energy savings?",
+      "answer": "If the percentage saving is equal for more than one consumer (for example, two consumers both achieving 40% saving), the winner will be selected by drawing of lots."
+    },
+    {
+      "question": "What green energy solutions qualify a domestic consumer for the Green Energy category?",
+      "answer": "Domestic consumers who have installed Solar Water Heating Systems, Rooftop Solar panels, or Ground Mounted Solar systems for their domestic requirements will be considered under the Green Energy category."
+    },
+    {
+      "question": "What is the condition of the electricity meter required for eligibility in this scheme?",
+      "answer": "To be eligible, consumers must have electricity meters that are in running condition. Consumers with stopped or tampered meters are not eligible for the scheme."
+    },
+    {
+      "question": "Can consumers with outstanding electricity bills participate in this scheme?",
+      "answer": "No, only consumers with electricity bills paid up to date will be considered for the incentives. Those having outstanding dues are explicitly excluded from the scheme."
+    },
+    {
+      "question": "Who needs to be the owner of the electric meter for eligibility purposes?",
+      "answer": "The ownership of the meter should be in the name of the beneficiary who should be present at the time of evaluation if called by the department."
+    },
+    {
+      "question": "Are consumers with disputed ownership of the electric connection eligible for the incentives?",
+      "answer": "No, consumers with disputed ownership of the electric connection are not eligible for the incentives under this scheme."
+    },
+    {
+      "question": "What happens if a consumer's connection is disconnected during the evaluation month?",
+      "answer": "Consumers whose connections are under disconnection during the month of evaluation are not eligible for the incentives under this scheme."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "scheme_name": "Arunachal Pradesh State Stipend Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sasstsap",
+  "location_name": "Arunachal Pradesh",
+  "location_type": "state",
+  "page_title": "Arunachal Pradesh State Stipend Scheme",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The “Arunachal Pradesh State Stipend Scheme” was launched by the Department of Education, Government of Arunachal Pradesh. Under this scheme, monthly stipends and book grants are provided to ST students to help them complete recognized courses without financial hindrance.",
+      "Objective",
+      "The object of the scheme is to provide financial assistance to Scheduled Tribe students of Arunachal Pradesh so as to enable them to pursue various courses of higher studies approved by the Government of Arunachal Pradesh.",
+      "Approved Courses List",
+      "BA / B.Com / B.P.Ed",
+      "B.Sc.",
+      "MA / M.Com / LL.B. / M.P.Ed / LL.M / MPMC / M.Ed",
+      "M.Sc.",
+      "M.Phil",
+      "Ph.D",
+      "B.Sc. (Agriculture / Horticulture / Forestry / Fishery / BE / B.VSc)",
+      "MBBS",
+      "BDS / BHMS / BAMS",
+      "Diploma (Engineering) / X-Ray Technician / Ophthalmic Assistant",
+      "B.Pharma / B.Sc. (Nursing)",
+      "D.Pharma",
+      "Laboratory Technician / ECG Technician",
+      "BCA",
+      "MCA",
+      "BBA",
+      "MBA",
+      "PGDM (Communication)",
+      "IT & HM (Diploma)",
+      "BFA",
+      "MFA",
+      "B.Ed",
+      "CA (Chartered Accountancy)",
+      "M.Tech"
+    ],
+    "benefits": [
+      "Tangible Benefits:",
+      "Monthly Stipend for the duration of the course (except vacation periods).",
+      "Initial Book Grant for the first year.",
+      "Subsequent Book Grant for the following years.",
+      "Mode of Disbursement:",
+      "For students within Arunachal Pradesh: Disbursed by the Head of Institution.",
+      "For students outside Arunachal Pradesh: Disbursed via Demand Draft by the Sanctioning Authority to Heads of Institutions.",
+      "Frequency of Disbursement:",
+      "Monthly, except for vacation periods.",
+      "Begins from the month of admission (if before the 20th of the month), otherwise from the following month.",
+      "Conditions for Benefit:",
+      "Continued only on satisfactory academic progress and good conduct.",
+      "Stipend will be withheld or canceled for misconduct, poor attendance (<75%), or unsatisfactory progress.",
+      "Not valid for dual/subsidiary courses (e.g., LLB with MA), correspondence, or distance education."
+    ],
+    "eligibility": [
+      "The applicant must belong to a scheduled tribe (ST) of Arunachal Pradesh, as notified by the central or state government.",
+      "The applicant must be a permanent resident of Arunachal Pradesh.",
+      "The applicant must not be in full-time employment.",
+      "The applicant should be pursuing a higher and technical education.",
+      "The applicant who has failed in the same class previously and was then re-admitted to a different course or stream at the same level of study is not eligible.",
+      "The applicant must not be under any disciplinary action.",
+      "The applicant must maintain at least 75% attendance each month.",
+      "The applicant enrolled in correspondence or distance education programs is not eligible for the stipend.",
+      "The applicant must be enrolled in an institution recognized by the State or Central regulatory bodies, such as UGC, AICTE, MCI, DCI, BCI, CCH, etc.",
+      "NOTE:",
+      "If a girl student fails in a class, she may be allowed to receive the stipend once more for the same class, in the following year, with a specific recommendation from the Head of the Institution."
+    ],
+    "application_process": {
+      "online": [
+        "Step 01",
+        ": The students applying for the scholarship for the first time need to \"Register\" using the icon “New Registration” at the NSP Portal URL -",
+        "https://scholarships.gov.in/",
+        ", by providing accurate and correct information as per their documents.",
+        "Step 02:",
+        "After successfully get registration done, students will get their “Student Registration ID”.",
+        "Step 03:",
+        "Through “Student Registration ID” students will be able to login into the account using the icon “Fresh Application” at NSP Portal.",
+        "Step 04:",
+        "After successful login to the portal, the welcome page appeared. On clicking the “Application Form” icon, students will be directed to the application screen.",
+        "Step 05:",
+        "Now, the students may fill out the complete application form and on clicking the “Final Submit” button, the application is finally submitted.",
+        "Step 06",
+        ": On successful submission of the application, a system-generated registration number is sent to the students which can be used for future reference.",
+        "Note:",
+        "The Department shall announce the details of the scheme and invite applications in May-June, every year, by issuing an advertisement in the leading newspapers of the UT and through other suitable media.",
+        "Students with less than 75% attendance are ineligible, unless absence is due to certified medical or bereavement reasons."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo",
+      "Attested Copy of Caste Certificate",
+      "Attested Copy of Marksheet (Last examination passed)",
+      "Attested Residence Certificate (Issued by the competent authority)",
+      "Identity Card",
+      "Admission Receipt of the student for the current academic session",
+      "Bank Passbook (Photocopy of first page)"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the stipend?",
+      "answer": "ST students of Arunachal Pradesh pursuing full-time recognized courses."
+    },
+    {
+      "question": "Is the scheme applicable to private institutions?",
+      "answer": "Only if the institution is recognized by the government/regulatory authorities."
+    },
+    {
+      "question": "Can employed students apply?",
+      "answer": "No, full-time employed students are not eligible."
+    },
+    {
+      "question": "What happens if a student fails a class?",
+      "answer": "The stipend is discontinued, except for a one-time relaxation for girls students."
+    },
+    {
+      "question": "Can the stipend be combined with other scholarships?",
+      "answer": "No, students must opt for one if awarded more than one."
+    },
+    {
+      "question": "How is the stipend disbursed?",
+      "answer": "Directly by the head of the institution or through demand drafts."
+    },
+    {
+      "question": "Is the stipend given during vacations?",
+      "answer": "No, it is only applicable during active academic months."
+    },
+    {
+      "question": "When does the stipend start?",
+      "answer": "From the month of admission if before the 20th; else from next month."
+    },
+    {
+      "question": "Is LLB with MA allowed under the scheme?",
+      "answer": "No, subsidiary or additional dual courses are excluded."
+    },
+    {
+      "question": "Can distance learning students apply?",
+      "answer": "No, only full-time regular students are eligible."
+    },
+    {
+      "question": "What is the deadline for application submission?",
+      "answer": "As notified by the State Government, each year."
+    },
+    {
+      "question": "Who disburses the stipend for out-of-state students?",
+      "answer": "Sanctioning Authority via a demand draft to the institution."
+    },
+    {
+      "question": "What if a student’s attendance falls below 75%?",
+      "answer": "They become ineligible unless there's a certified reason."
+    }
+  ]
+}

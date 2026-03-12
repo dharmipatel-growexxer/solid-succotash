@@ -1,0 +1,114 @@
+{
+  "scheme_name": "Kanya Dhan Scheme for SC Students",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/kdscs",
+  "location_name": "Goa",
+  "location_type": "state",
+  "page_title": "Kanya Dhan Scheme for SC Students",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Kanya Dhan Scheme for SC Students\" by the Directorate of Higher Education, Government of Goa. Through this scheme, an amount of ₹ 25,000/- is provided to the girl students of the Scheduled Caste Communities once they pass the 12th standard board examination (or its equivalent examination). The applications for this scheme are accepted online. The scheme is being implemented by Chief Minister Scholarship Portal, Government of Goa."
+    ],
+    "benefits": [
+      "An amount of",
+      "₹ 25,000/-",
+      "is provided as a fixed deposit in the name of the girl child and the officer nominated by the government.",
+      "NOTE:",
+      "The amount is disbursed to the beneficiaries after they pass the 12th standard board (or equivalent) examination."
+    ],
+    "eligibility": [
+      "For Application",
+      "The applicant should be a girl.",
+      "The applicant should be a student.",
+      "The applicant should have passed the 10th Standard of examination.",
+      "The applicant should have appeared in the 11th Standard of any stream (Science/Arts/Commerce/Vocational/ITI).",
+      "Upto 2 girl children of a family are entitled under this scheme.",
+      "For Disbursal of Benefits",
+      "The applicant should have passed the 12th standard examination in three attempts or within two years of the first attempt, whichever is earlier (otherwise, the money shall be forfeited and credited to the Government Treasury)."
+    ],
+    "application_process": {
+      "online": [
+        "For Registration",
+        "Step 1:",
+        "Visit the",
+        "Official Website",
+        "of the Chief Minister Scholarship Portal, Government of Goa.",
+        "Step 2:",
+        "At the top right corner of the landing page, click \"Register\". You will be taken to the",
+        "registration page",
+        ".",
+        "Step 3:",
+        "On the registration page, under the \"Student Registration\" section, click \"Click Here\".",
+        "In the Student Registration Form, fill in the following fields:",
+        "Student's Name, Gender, Category, Date of Birth (DD-MM-YYYY), Aadhaar Number, House Number, Waddo/Street, Village Panchayat/Municipality, District, Taluka, Assembly/Constituency, City/Town/Village, PIN Code, Mobile Number, Email ID.",
+        "Step 4:",
+        "Create a password ranging between 8 to 15 characters and confirm the same.",
+        "Step 5:",
+        "Click \"Register\" and then click \"Yes\" to the Confirmation Popup.",
+        "For Application",
+        "Upon successful registration, visit the",
+        "At the top right corner of the landing page, click \"",
+        "Login",
+        "\".",
+        "On the login page, fill in your username, password, captcha code, and click \"Login\".",
+        "Upon logging in, a list of eligible schemes will be displayed. Click the scheme that you intend to apply for.",
+        "In the \"Apply\" section on the side navigation bar, click \"Fresh Application\".",
+        "Step 6:",
+        "Fill in all the mandatory fields of the Application Form and upload all the required documents in the specified format and size and click \"Submit\".",
+        "Post Application Process",
+        "1. After successful submission of the application, your school/institution will verify the application and submit it to the directorate for further scrutiny.",
+        "2. In case of an issue in the application form or documents uploaded, the school/institution can send back the application to the student for necessary corrections and resubmission.",
+        "Track Your Application",
+        "In the side navigation bar, click \"",
+        "Track Application",
+        "On the next page, provide your Aadhaar Number and Date of Birth, and click \"Submit\"."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "Passport Size Photo",
+      "Ration Card"
+    ],
+    "sources_and_references": [
+      "Guideline",
+      "Online Application",
+      "User Guide"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What happens if a student takes more than three attempts to clear the 12th standard examination, and how is the forfeiture of the deposit handled?",
+      "answer": "If a student exceeds three attempts or takes more than two years from the first attempt, the deposited amount of ₹25,000 is automatically forfeited and credited to the Government Treasury. There is no provision for appeal in such cases."
+    },
+    {
+      "question": "As a divorced mother with three SC daughters, can all my daughters apply for this scheme, or is there a family-wise restriction?",
+      "answer": "The scheme explicitly limits benefits to up to 2 girl children per family. Even if all three daughters meet other eligibility criteria, only two can receive the benefit, and you would need to choose which two will apply."
+    },
+    {
+      "question": "If a student changes her stream between 11th and 12th standard (example: from Science to Commerce), does it affect her eligibility for the scheme?",
+      "answer": "No, changing streams does not affect eligibility. The scheme allows students from any stream (Science/Arts/Commerce/Vocational/ITI) as long as they pass 12th standard within the stipulated timeframe."
+    },
+    {
+      "question": "If the applicant's caste certificate is under process, can she submit the application with the acknowledgment receipt and provide the certificate later?",
+      "answer": "The portal requires mandatory upload of a valid caste certificate during application. Acknowledgment receipts or provisional documents are not accepted, so students should ensure they have a valid certificate before starting the application."
+    },
+    {
+      "question": "How is the fixed deposit of ₹25,000 structured - can the student access it immediately after passing 12th standard?",
+      "answer": "The amount is provided as a fixed deposit in joint names of the girl child and a government-nominated officer. The specific terms of deposit access and maturity are determined by the government officer assigned to the case."
+    },
+    {
+      "question": "If a student's application is rejected by the school during verification, what is the process for appeal or resubmission?",
+      "answer": "If rejected, the school can return the application to the student for corrections. The student can then make necessary changes and resubmit. Multiple resubmissions are allowed as long as it's within the application deadline."
+    },
+    {
+      "question": "What happens if there are discrepancies between the Aadhaar card details and school records? How should such cases be handled?",
+      "answer": "Students should ensure all documents match before applying. In case of discrepancies, they should get their school records updated to match their Aadhaar details first, as the portal uses Aadhaar as the primary identification document."
+    },
+    {
+      "question": "Can a student who completed her 10th standard from another state but is now studying 11th in Goa apply for this scheme?",
+      "answer": "Yes, the scheme focuses on current education status rather than previous schooling. As long as the student meets category criteria and has valid Goa documentation, she can apply."
+    }
+  ]
+}

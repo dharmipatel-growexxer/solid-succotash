@@ -1,0 +1,105 @@
+{
+  "scheme_name": "Scheme for Relief to the Un-registered Workers",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sruw",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "Scheme for Relief to the Un-registered Workers",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The Andhra Pradesh Building and Other Construction Workers Welfare Board launched a welfare scheme \"Scheme for Relief to the Un-registered Workers\" to provide ₹50,000/- to the dependents of unregistered workers who die in accidents at construction sites. Additionally, workers suffering from 50% or above permanent disability are eligible for ₹20,000/-, while those with below 50% permanent disability receive ₹10,000/-. This scheme aims to support construction workers and related workers in industries such as brick kilns, stone breaking, and cement production."
+    ],
+    "benefits": [
+      "Compensation for Deceased Workers:",
+      "Financial Assistance of ₹50,000/- to the dependents of unregistered workers who die in accidents at construction sites or related projects.",
+      "Relief for Permanent Disabilities:",
+      "₹20,000/- is provided for cases of permanent disability where the disability is 50% or above.",
+      "₹10,000/- is provided for cases of permanent partial disability where the disability is below 50%."
+    ],
+    "eligibility": [
+      "Eligibility for Accidental Death of Unregistered Worker:",
+      "The applicant should be dependent on the deceased unregistered worker.",
+      "The worker must be unregistered with the Andhra Pradesh Building and Other Construction Workers Welfare Board.",
+      "The worker must have died in an accident at a construction site or related project during the course of employment.",
+      "Eligibility for Permanent Disability:",
+      "The worker should have a permanent disability due to accidents at construction sites.",
+      "The worker should have a disability of 50% or above.",
+      "Eligibility for Permanent Partial Disability:",
+      "The worker should have a permanent partial",
+      "disability due to accidents at construction sites.",
+      "The worker should have a disability of 50% or below."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should visit (during office hours) the A.P. Building & Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Assistant Labour Officer/Assistant Commissioner of Labour.",
+        "Step-4:",
+        "Request a receipt or acknowledgement from the Assistant Labour Officer/Assistant Commissioner of Labour to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Registration Card under the BOCW.",
+      "Aadhaar Card of the worker and nominee.",
+      "Death Certificate.",
+      "Bank Account Pass Book.",
+      "FIR Copy.",
+      "Panchanama Report.",
+      "Postmortem Report.",
+      "Disability Certificate ( issued by the Medical Officer of General Hospital / Area Hospital in the District)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the financial assistance provided under this scheme?",
+      "answer": "The scheme offers ₹50,000 to the dependents of workers who die in accidents and ₹20,000 or ₹10,000 for permanent disability cases."
+    },
+    {
+      "question": "Who is eligible for the ₹50,000 death benefit?",
+      "answer": "Dependents of unregistered workers who die in accidents at construction sites or related employment fields are eligible."
+    },
+    {
+      "question": "Is this scheme available for registered workers?",
+      "answer": "Yes, the scheme can also be extended to registered workers if their registration lapsed due to valid reasons like migration or illness."
+    },
+    {
+      "question": "What documents are needed to claim the death benefit?",
+      "answer": "The claim requires an FIR, Panchanama, and Postmortem report."
+    },
+    {
+      "question": "Does the scheme cover workers in all construction fields?",
+      "answer": "Yes, it also covers workers in brick kilns, stone breaking, cement work, and related fields."
+    },
+    {
+      "question": "How is the claim processed?",
+      "answer": "The Deputy Commissioner of Labour conducts an inquiry to verify the claim before the amount is disbursed."
+    },
+    {
+      "question": "What is the process for disability claims?",
+      "answer": "The applicant needs to submit a disability certificate issued by a medical officer from a General or Area Hospital."
+    },
+    {
+      "question": "What happens if the worker was not registered at the time of the accident?",
+      "answer": "Unregistered workers who died in accidents or sustained injuries are covered, and migrated or ill workers can also be considered after proper verification."
+    },
+    {
+      "question": "Can this scheme be claimed for natural deaths?",
+      "answer": "No, this scheme is specifically for accidental deaths at construction sites or related industries."
+    },
+    {
+      "question": "Who approves the claims under this scheme?",
+      "answer": "The Commissioner of Labour in conjunction with the Andhra Pradesh Building and Other Construction Workers Welfare Board processes and approves the claims."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "Applications can be submitted to the Labour Department or Welfare Board offices, along with the necessary documents."
+    }
+  ]
+}

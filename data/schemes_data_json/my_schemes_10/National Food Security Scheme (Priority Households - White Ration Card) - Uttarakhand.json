@@ -1,0 +1,79 @@
+{
+  "scheme_name": "National Food Security Scheme (Priority Households - White Ration Card) - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nfssphwrc",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "National Food Security Scheme (Priority Households - White Ration Card) - Uttarakhand",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"National Food Security Scheme (Priority Households - White Ration Card)\" is implemented by the Department of Food, Civil Supplies & Consumer Affairs, Government of Uttarakhand. The scheme aims to ensure food security for economically vulnerable and priority households in Uttarakhand by providing them with a guaranteed monthly supply of food grains at subsidized rates."
+    ],
+    "benefits": [
+      "Under the scheme, 5 kg of food grains per person per month are provided, including 2 kg of wheat at ₹2.00 per kg and 3 kg of rice at ₹3.00 per kg.",
+      "At present, from 1 January 2023, food grains are being distributed free of cost."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "A household/person is eligible under the scheme if they meet any of the following criteria:",
+      "A household with a monthly income of less than ₹15,000/- or not having an Antyodaya Ration Card.",
+      "A tribal household residing in a tribal or border area/widow/single woman/person suffering from an incurable disease/person with a disability/person aged 60 years or above, who is the head of the family, with a monthly income of less than ₹15,000/-.",
+      "A household whose total irrigated land, as per revenue records, is less than 2 hectares; or has less than 1 hectare irrigated and 2 hectares unirrigated; or has a total area of less than 4 hectares of unirrigated land.",
+      "A person engaged in occupations such as rickshaw pulling, porter work, labor, rag picking, cobbling, blacksmithing, carpentry, rural artisanal work, domestic service, or sanitation work.",
+      "A household that cultivates land belonging to another farmer.",
+      "A household residing in a slum or hut in an urban area, living in Uttarakhand since or before the date specified in the relevant Government Order.",
+      "A household whose annual income does not attract liability under the Income Tax Act.",
+      "A person who is homeless and separated from their social class, residing in organizations or ashrams such as widows’ ashrams, child reform homes, beggars’ homes, leprosy ashrams, orphanages, ashrams for the mentally ill or handicapped, or old age homes.",
+      "Eligible households or persons, once identified according to the above criteria, will be selected in ascending order based on the lowest number in the BPL list prepared from surveys conducted by the Rural Development Department for rural areas."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant must first obtain an application form from the office of the Gram Panchayat Development Officer or the District Supply Officer. The application must include the family’s Aadhaar card, photograph, phone number, bank account details, gas connection, voter ID/PAN card, an income certificate showing income less than ₹15,000/-, electricity bill, the applicable eligibility certificate, and a declaration stating that the family is not holding an Antyodaya card. The applicant must submit the application form along with all the documents to the respective Gram Panchayat Development Officer.",
+        "After verification, the officer adds the name to the records and forwards the case with a recommendation to the Food Supply Department for further action. The ration cards are issued in each district based on the population targets set by the Government of India. A new ration card is issued only when a vacancy arises. The individual can obtain the ration card from the office of the District Supply Officer/Supply Inspector/Regional Food Officer within 10 days.",
+        "If no proposal has been submitted by the Gram Panchayat, the applicant must submit the application form in the prescribed format, along with the above documents, to the office of the Gram Panchayat Development Officer or District Supply Officer. Afterward, the Gram Panchayat Development Officer/District Supply Officer conducts verification, and if the applicant is found eligible and a vacancy exists, digitization is carried out."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card of the family",
+      "Photograph of the applicant",
+      "Phone number",
+      "Bank account details",
+      "Gas connection details",
+      "Voter ID or PAN card",
+      "Income certificate showing monthly income less than ₹15,000/-",
+      "Electricity bill",
+      "Eligibility certificate/document (as applicable)",
+      "Declaration stating that the family is not holding an Antyodaya card",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 59)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "Each person receives 5 kg of food grains per month, consisting of 2 kg wheat at ₹2/kg and 3 kg rice at ₹3/kg."
+    },
+    {
+      "question": "Who is eligible to apply for a White Ration Card?",
+      "answer": "Any household or person meeting the defined income, landholding, occupation, or social vulnerability criteria is eligible."
+    },
+    {
+      "question": "What is the income eligibility for the scheme?",
+      "answer": "A household must have a monthly income of less than ₹15,000 and should not hold an Antyodaya Ration Card."
+    },
+    {
+      "question": "Are tribal households eligible?",
+      "answer": "Yes. Tribal households residing in tribal or border areas with income less than ₹15,000 are eligible."
+    },
+    {
+      "question": "Where can an applicant obtain the application form?",
+      "answer": "Forms are available at the Gram Panchayat Development Officer’s office or the District Supply Officer’s office."
+    },
+    {
+      "question": "When is a new ration card issued?",
+      "answer": "A new ration card is issued only when a vacancy arises, based on district-level population targets set by the Government of India. Approved applicants can collect their ration card from the relevant district food supply office within 10 days."
+    }
+  ]
+}

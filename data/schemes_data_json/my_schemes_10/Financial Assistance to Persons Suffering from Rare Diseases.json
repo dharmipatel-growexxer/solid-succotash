@@ -1,0 +1,120 @@
+{
+  "scheme_name": "Financial Assistance to Persons Suffering from Rare Diseases",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fapsrd",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Financial Assistance to Persons Suffering from Rare Diseases",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Financial Assistance to Persons Suffering from Rare Diseases” was launched by the Social Justice and Empowerment Department, Government of Haryana. This scheme shall be applicable for all the persons of Haryana domicile, who are suffering from Rare Diseases; and also to extend the benefit of the Scheme to such persons, whose family income should be less than ₹3,00,000/-. Under this scheme, ₹3000/- per month will be provided starting from 01.01.2024. The financial assistance will be provided in addition to any benefits received by the applicant under other social security pension schemes.",
+      "(",
+      "Note:",
+      "The details of the National Policy for Rare Diseases, 2021 & amendments thereof, the medical conditions/diseases included in the policy, and the designated centers of excellence are available on the official website of the Health Department, Haryana. (",
+      "https://haryanahealth.gov.in/",
+      ")."
+    ],
+    "benefits": [
+      "Under this scheme, financial assistance of ₹3,000/- per month will be provided starting from 01.01.2024."
+    ],
+    "eligibility": [
+      "The applicant must be a domicile and bonafide resident of Haryana.",
+      "There are no age restrictions for applicants.",
+      "The applicant's annual family income should be less than ₹3,00,000/-.",
+      "The applicant must possess a Parivar Pehchan Patra.",
+      "The applicant should be suffering from any of the Rare Diseases i.e. the medical conditions/diseases, mentioned in the National Policy for Rare Diseases, 2021, issued by MoHFW (GoI) & added from time to time; and diagnosed at any of the notified ‘Centres of Excellence’ (CoE), designated by MoHFW, GoI & added from time to time; under the said policy.",
+      "Note:",
+      "The financial assistance will be provided in addition to any benefits the applicant receives under other social security pension schemes."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 01:",
+        "To avail of the benefits of the scheme, the applicant needs to visit the Official Portal -Antyodaya-SARAL Portal:",
+        "https://saralharyana.gov.in/",
+        "Step 02:",
+        "If the applicant is not registered on the portal, he/she gets registered there.",
+        "Step 03:",
+        "For registration, click “",
+        "New User",
+        "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.",
+        "Step 04:",
+        "Verify your mobile number and email ID through the received OTP and complete the registration process.",
+        "Login to apply for the scheme:",
+        "To avail the benefits of the scheme, visit the Official",
+        "Antyodaya-SARAL Portal",
+        "and log in through the email ID used while registering.",
+        "Enter Password & Captcha and click on ‘Login’.",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’",
+        "Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.",
+        "Step 05:",
+        "Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.",
+        "Step 06:",
+        "Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”",
+        "Step 07:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 08:",
+        "Preview the application form and click on ‘Submit’.",
+        "Tracking of Application:",
+        "Applicants can track his/her application through the Official",
+        "by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    "documents_required": [
+      "1. Age Proof (Any one of the following)",
+      "• Date of Birth Certificate.",
+      "• School Certificate",
+      "• Voter Card",
+      "• Voter list which shows the name of the applicant along with his/her photograph (issued by Election Department, Haryana)",
+      "2. Residential Proof (Any one of the following self-attested documents issued prior to 15 years)",
+      "• Ration Card",
+      "• Voter list which shows the name of the applicant along with his/her Photograph",
+      "3. Other Documents",
+      "• Aadhaar Card",
+      "• Saving Bank account details of the applicant with a photocopy of the passbook."
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Scheme Details",
+      "Antyodaya-SARAL Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who implements this scheme?",
+      "answer": "Directorate of Social Justice and Empowerment, Government of Haryana"
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Applicants must be Haryana domiciles, possess a Parivar Pehchan Patra (PPP), have a family income less than ₹3,00,000/- per year, and be diagnosed with a rare disease by a designated Centre of Excellence."
+    },
+    {
+      "question": "Is there an age limit for applicants?",
+      "answer": "No, there are no age restrictions for applicants."
+    },
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Eligible individuals receive ₹3,000/- per month."
+    },
+    {
+      "question": "When does the financial assistance start?",
+      "answer": "The financial assistance begins on 01.01.2024."
+    },
+    {
+      "question": "Can beneficiaries receive assistance from other social security schemes in addition to this one?",
+      "answer": "Yes, the financial assistance is provided in addition to any benefits received under other social security pension schemes."
+    },
+    {
+      "question": "Where can applicants find the list of rare diseases covered under this scheme?",
+      "answer": "The list is available on the official website of the Health Department, Haryana (https://haryanahealth.gov.in/)."
+    },
+    {
+      "question": "How can applicants apply for the scheme?",
+      "answer": "Applicants can apply through the Antyodaya-SARAL Portal: https://saralharyana.gov.in/."
+    },
+    {
+      "question": "What is the maximum family income allowed for eligibility?",
+      "answer": "The family income must be less than ₹3,00,000/- per year."
+    }
+  ]
+}

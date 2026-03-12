@@ -1,0 +1,93 @@
+{
+  "scheme_name": "Teelu Rauteli Pension Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dp-f",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Teelu Rauteli Pension Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Teelu Rauteli Pension\" has been launched by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to provide financial assistance to male/female individuals above 18 years of age who have incurred a partial disability of 20% to 40% while performing agricultural activities."
+    ],
+    "benefits": [
+      "A pension of ₹1,200/- per month is provided to each eligible beneficiary."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be male or female engaged in agricultural activities.",
+      "The applicant must be above 18 years of age.",
+      "The applicant must be 20% to 40% disabled while performing agricultural work.",
+      "There is no income limit to avail the benefits of the scheme."
+    ],
+    "application_process": {
+      "online": [
+        "The applicant can apply online either by themselves or through a Common Service Center (CSC) via the Department’s Pension Portal (",
+        "https://ssp.uk.gov.in",
+        "), the",
+        "UMANG",
+        "Mobile App, or the Apuni Sarkar Portal (",
+        "https://eservices.uk.gov.in",
+        ").",
+        "The following documents are mandatory at the time of applying:",
+        "Applicant’s mobile number, Passport-size photograph (attested by Gram Pradhan / V.P.D.O. / certified by Councillor), Photocopy of Aadhaar card and Voter ID card, Certificate from the Agriculture Officer confirming injury while performing agricultural work, Disability certificate issued by the Chief Medical Officer for 20% to 40% disability, Unique Disability ID (UDID) Card, CBS bank account details (linked/seeded with Aadhaar), Copy of family register (for rural areas only), Copy of the resolution passed in the open meeting of Gram Panchayat (for rural areas) / certified by Councillor (for urban areas)",
+        "Income certificate is not required.",
+        "All the above documents must be issued from the district where the application is being submitted.",
+        "For verification of the online application form in rural areas, the final decision is taken by the District Social Welfare Officer after recommendations from the Gram Panchayat Development Officer, Assistant Social Welfare Officer, and Block Development Officer, respectively. In urban areas, verification and recommendation are done by the Assistant Social Welfare Officer and Sub-District Magistrate. If the application is found correct, the District Social Welfare Officer approves it, after which the pension payment process is initiated.",
+        "The pension is credited to the applicant’s bank account one month after the approval of the application."
+      ]
+    },
+    "documents_required": [
+      "Applicant's Mobile Number",
+      "Passport-size Photo (certified by Gram Pradhan/V.P.D.O/Sabhasad)",
+      "Photocopy of Aadhaar Card",
+      "Voter ID Card",
+      "CBS Bank Account, which is linked/seeded with the Aadhaar Card",
+      "Copy of Family Register",
+      "Copy of the resolution selected / passed in the open meeting of Gram Panchayat in rural areas / Councilor in urban areas",
+      "Certificate from the Agriculture Officer confirming injury while performing agricultural work",
+      "Disability certificate issued by the Chief Medical Officer for 20% to 40% disability",
+      "Unique Disability ID (UDID) Card",
+      "Note:",
+      "All documents must belong to the same district from which the application is being made."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 17)",
+      "Online Application Portal",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Men and women aged 18 years or above who have suffered at least 20% disability while performing agricultural work can apply."
+    },
+    {
+      "question": "What is the monthly pension amount under this scheme?",
+      "answer": "Eligible beneficiaries receive ₹1200 per month as a pension."
+    },
+    {
+      "question": "Is there any income limit for eligibility?",
+      "answer": "No, there is no income limit."
+    },
+    {
+      "question": "What percentage of disability is required to be eligible?",
+      "answer": "Applicants must have 20% to 40% disability."
+    },
+    {
+      "question": "Can people below 18 years of age apply?",
+      "answer": "No, the minimum age requirement is 18 years."
+    },
+    {
+      "question": "Can people with more than 40% disability apply?",
+      "answer": "No."
+    },
+    {
+      "question": "Can another state individuals apply?",
+      "answer": "No, this scheme is only for resident of Uttarakhand."
+    },
+    {
+      "question": "Where can I apply for the scheme?",
+      "answer": "Applicant can apply through Apuni Sarkar portal, UMANG Mobile App, Department's Pension Portal or visit nearest CSC center."
+    }
+  ]
+}

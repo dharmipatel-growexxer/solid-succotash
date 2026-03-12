@@ -1,0 +1,92 @@
+{
+  "scheme_name": "National Family Benefit Scheme - Gujarat",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nfbsguj",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "National Family Benefit Scheme - Gujarat",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The “National Family Benefit Scheme” is a centrally sponsored scheme implemented in Gujarat by the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide social security to households living below the poverty line by offering financial assistance in the event of the death of the primary breadwinner. Under the scheme, a one-time lump sum assistance of ₹20,000 is provided to the widow or unmarried daughter of the deceased, if the primary breadwinner, aged between 18 and 59 years, passes away."
+    ],
+    "benefits": [
+      "A one-time assistance payment of ₹20,000/- is provided to the family of the deceased, whether the death was natural or accidental.",
+      "Notes:",
+      "The payment is intended for the family, specifically going to the widow or unmarried daughter.",
+      "The assistance would be given to every case of death of breadwinner in a family.",
+      "Payment of the assistance is made through Direct Benefit Transfer (DBT) into the beneficiary’s post or bank account.",
+      "This is a one-time assistance payment."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Gujarat.",
+      "The applicant should be a family member of the deceased.",
+      "The family should be listed in the Below Poverty Line (BPL) list as determined by the Government of India.",
+      "The deceased (male or female) should have been the primary income earner of the family.",
+      "The death of the primary income earner should have occurred due to natural or accidental causes.",
+      "The age of the deceased at the time of death should have been between 18 and 60 years.",
+      "The application should be submitted within two years from the date of death to be eligible under the scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "The interested applicants for assistance can visit the nearest concerned Taluka Jan Seva Kendra- Mamlatdar office with all the mandatory documents."
+      ],
+      "unspecified": [
+        "Online - via CSCs"
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Proof of family being on the BPL List",
+      "Death Certificate of primary income earner (showing natural or accidental cause)",
+      "Age proof of deceased/ main income earner (indicating age between 18 and 60 years at time of death)",
+      "Bank Account Details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Official Guidelines",
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the primary purpose of this assistance scheme for families?",
+      "answer": "The primary purpose is to provide a crucial safety net and ensure the social security of vulnerable households."
+    },
+    {
+      "question": "What kind of financial help does this scheme offer to eligible families?",
+      "answer": "This scheme offers a one-time lump sum cash assistance of ₹20,000/- to families."
+    },
+    {
+      "question": "What is the main requirement for my family's economic status to qualify for this assistance?",
+      "answer": "Your family must be on the Below Poverty Line (BPL) list to be eligible for this assistance."
+    },
+    {
+      "question": "Under what circumstances, related to the main income earner's passing, does my family become eligible for support?",
+      "answer": "Your family becomes eligible if the main income earner has passed away due to natural or accidental causes."
+    },
+    {
+      "question": "Does the gender of the deceased main income earner affect my family's eligibility for this scheme?",
+      "answer": "No, the eligibility criteria apply regardless of whether the primary earner of the family was male or female."
+    },
+    {
+      "question": "What is the specified age range for the deceased main income earner to make my family eligible for this assistance?",
+      "answer": "The age of the deceased main income earner must have been between 18 and 60 years at the time of their passing."
+    },
+    {
+      "question": "Is there a deadline by which my application must be submitted after the death of the main income earner?",
+      "answer": "Yes, the application for assistance must be submitted within two years after the death to qualify for the scheme."
+    },
+    {
+      "question": "How will the financial assistance be transferred to my family if approved?",
+      "answer": "The financial assistance payment will be made through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Which official authority is responsible for deciding on my application for assistance?",
+      "answer": "The Taluka Mamlatdars are the authorised individuals responsible for approving or disapproving applications under this program."
+    },
+    {
+      "question": "Can I apply for this assistance at a Taluka Jan Seva Kendra-Mamlatdar Office?",
+      "answer": "Yes, applications can be submitted online through the Taluka Jan Seva Kendra-Mamlatdar Office."
+    }
+  ]
+}

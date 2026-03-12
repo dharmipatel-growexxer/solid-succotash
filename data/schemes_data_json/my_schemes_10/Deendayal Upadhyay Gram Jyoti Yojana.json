@@ -1,0 +1,72 @@
+{
+  "scheme_name": "Deendayal Upadhyay Gram Jyoti Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dugjy",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Deendayal Upadhyay Gram Jyoti Yojana",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Deendayal Upadhyay Gram Jyoti Yojana” launched by the Energy Department, Government of Madhya Pradesh, aims to improve rural power supply through feeder separation, metering, system strengthening, and electrification works by providing free electricity connections to below-poverty-line households."
+    ],
+    "benefits": [
+      "Free Electricity Connection:",
+      "Free electricity connections are provided to 3,94,741 beneficiaries living below the poverty line.",
+      "Intensive Village Electrification:",
+      "A total of 17,827 villages are covered under the scheme for comprehensive electrification.",
+      "Strengthening of Power Infrastructure:",
+      "Feeder separation, metering, and distribution system strengthening works are carried out to ensure a reliable power supply."
+    ],
+    "eligibility": [
+      "The applicant should be residing in a rural area.",
+      "The applicant should belong to the Below the Poverty Line (BPL) category."
+    ],
+    "application_process": {
+      "offline": [
+        "The applicant can avail of the scheme benefits through the concerned electricity distribution company."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof.",
+      "Address Proof.",
+      "Any other documents as required."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The \"Deendayal Upadhyay Gram Jyoti Yojana\" is a government scheme launched to improve rural power infrastructure through feeder separation, metering, and electrification works."
+    },
+    {
+      "question": "Which department implements this scheme?",
+      "answer": "The scheme is implemented by the Energy Department, Government of Madhya Pradesh."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "The applicant living in a rural area and belonging to a Below Poverty Line (BPL) household can apply for this scheme."
+    },
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "The scheme provides free electricity connections and improved power infrastructure in rural areas."
+    },
+    {
+      "question": "How can an applicant apply for the scheme?",
+      "answer": "An applicant can apply through the concerned Distribution Company implementing the scheme."
+    },
+    {
+      "question": "Is the scheme applicable to urban areas?",
+      "answer": "No, this scheme is applicable only to rural areas."
+    },
+    {
+      "question": "Is there any cost involved for BPL beneficiaries?",
+      "answer": "No, the electricity connection is provided free of cost to BPL beneficiaries."
+    },
+    {
+      "question": "Who is responsible for providing electricity connections under this scheme?",
+      "answer": "The concerned Distribution Company is responsible for providing electricity connections."
+    }
+  ]
+}

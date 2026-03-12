@@ -1,0 +1,79 @@
+{
+  "scheme_name": "Disability Pension (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dpftcw",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Disability Pension (UKBOCWWB)",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The “Disability Pension” scheme is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide a monthly pension to registered construction workers who have become permanently disabled due to paralysis, leprosy, tuberculosis, accidents, etc."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "₹1,000/- per month",
+      "One-time Ex-gratia Amount:",
+      "₹40,000/-"
+    ],
+    "eligibility": [
+      "The applicant must be a construction worker registered with the Uttarakhand Building and Other Construction Workers Welfare Board who has become permanently disabled due to paralysis, leprosy, tuberculosis, accident, etc."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "Online applications are submitted through Shramik Suvidha Kendras.",
+        "Along with the application form, it is mandatory to attach the following documents: Shramik Card, Aadhaar Card, Medical Certificate of permanent disability issued by a Government CMS/CMO, an Affidavit stating that no benefits have been taken under any other scheme, and a Self-Declaration Certificate.",
+        "The worker must apply within one year from the date of becoming permanently disabled. After submission, the department conducts an investigation. If the details are verified as correct, the department provides a monthly pension of ₹1,000/- and a one-time ex-gratia amount of ₹40,000/- directly into the construction worker’s account."
+      ]
+    },
+    "documents_required": [
+      "Labour Card",
+      "Aadhaar Card",
+      "Medical Certificate of permanent disability issued by a Government CMS/CMO",
+      "An Affidavit stating that no benefits have been taken under any other scheme",
+      "A Self-Declaration Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 55)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Only construction workers registered with the Uttarakhand Building and Other Construction Workers Welfare Board who have become permanently disabled due to paralysis, leprosy, tuberculosis, accidents, etc., are eligible"
+    },
+    {
+      "question": "How much monthly pension is provided under the scheme?",
+      "answer": "A monthly pension of ₹1,000/- is provided to eligible workers."
+    },
+    {
+      "question": "Is there any additional financial benefit apart from the pension?",
+      "answer": "Yes, eligible workers also receive a one-time ex-gratia amount of ₹40,000/-."
+    },
+    {
+      "question": "What type of disabilities are covered under the scheme?",
+      "answer": "Permanent disabilities caused due to paralysis, leprosy, tuberculosis, accidents, etc. are covered."
+    },
+    {
+      "question": "Is registration with board mandatory?",
+      "answer": "Yes, only workers registered with the Uttarakhand Building and Other Construction Workers Welfare Board can avail the benefits."
+    },
+    {
+      "question": "How can one apply for the scheme?",
+      "answer": "The application must be submitted online through Shramik Suvidha Kendras."
+    },
+    {
+      "question": "Is there a time limit to apply after disability?",
+      "answer": "Yes, the worker must apply within one year from the date of becoming permanently disabled."
+    },
+    {
+      "question": "How are the pension and ex-gratia amounts paid?",
+      "answer": "Both the pension and ex-gratia amounts are directly credited to the worker’s bank account."
+    },
+    {
+      "question": "Can a worker already availing another pension scheme apply?",
+      "answer": "No, applicants must provide an affidavit confirming they are not availing benefits from any other scheme."
+    }
+  ]
+}

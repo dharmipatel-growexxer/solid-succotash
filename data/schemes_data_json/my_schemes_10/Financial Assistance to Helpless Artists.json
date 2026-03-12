@@ -1,0 +1,81 @@
+{
+  "scheme_name": "Financial Assistance to Helpless Artists",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fatha",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Financial Assistance to Helpless Artists",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The “Financial Assistance to Helpless Artists” scheme was launched by the Sports, Youth and Cultural Activities Department, Government of Gujarat. The scheme aims to provide financial security to artists who are aged, physically disabled, and living in extreme poverty. Under this scheme, monthly financial assistance is provided to artists and their dependents who are physically disabled, above 60 years of age, have a monthly income of less than ₹600, and are unable to sustain themselves due to age or disability."
+    ],
+    "benefits": [
+      "Under this scheme, financial assistance is provided to artists to help them sustain themselves in old age or in case of disability."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must be an artist who has made significant contributions in the field of art and literature.",
+      "The applicant must be 60 years of age or above.",
+      "The applicant must have a monthly income of less than ₹600/- (₹7,200/- annually).",
+      "The applicant must be physically disabled.",
+      "The applicant must be in poor economic condition."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should write the application on plain paper.",
+        "Step 2:",
+        "Attach copies of all the mandatory documents (self-attest, if required) along with the application.",
+        "Step 3:",
+        "Submit the duly filled and signed application along with the documents to the Sports, Youth and Cultural Activities Department."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Birth Certificate",
+      "Income Certificate",
+      "Ration Card",
+      "Age Proof",
+      "Identity Card",
+      "Passport Size Photo"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the minimum age to apply?",
+      "answer": "Applicants must be 60 years or older."
+    },
+    {
+      "question": "Who is considered a 'helpless artist'?",
+      "answer": "Artists who are elderly, poor, or physically disabled and unable to earn."
+    },
+    {
+      "question": "Is there an income ceiling?",
+      "answer": "Yes, income must be below ₹600 per month."
+    },
+    {
+      "question": "Is this benefit a pension?",
+      "answer": "No, it is financial aid, not a pension."
+    },
+    {
+      "question": "Can I apply online?",
+      "answer": "No, the application must be done offline on plain paper."
+    },
+    {
+      "question": "Can artists from outside Gujarat apply?",
+      "answer": "No, only Gujarat residents are eligible."
+    },
+    {
+      "question": "What is considered valid age proof?",
+      "answer": "Aadhaar card, birth certificate, voter ID, income certificate, etc."
+    },
+    {
+      "question": "Whom should I contact for queries?",
+      "answer": "Visit the sports, youth and cultural activities department website https://sycd.gujarat.gov.in ."
+    }
+  ]
+}

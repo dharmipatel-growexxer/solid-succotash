@@ -1,0 +1,85 @@
+{
+  "scheme_name": "Chief Minister Help Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cmhs",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Chief Minister Help Scheme",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme was launched on 02-10-2019, the Chief Minister Help Scheme under the Tribal Welfare and Scheduled Caste (SC) Department, Madhya Pradesh, provides food distribution and material aid to Scheduled Tribe families. Ration assistance is offered on the birth of a child or the death of a family member, with eligibility requiring that no family member is employed in government service."
+    ],
+    "benefits": [
+      "On Birth of a Child:",
+      "50 kg of wheat, rice, and cooking utensils.",
+      "On the Death of a Family Member:",
+      "1 quintal of rice for the following districts: Mandla, Dindori, Balaghat, Shahdol, Anuppur and Umaria.",
+      "1 quintal of wheat for the following districts: Jhabua, Alirajpur, Barwani, Ratlam, Hoshangabad, Betul, Sidhi, Seoni, Chhindwara, Dhar, Khargone, Khandwa, Burhanpur, Sheopur."
+    ],
+    "eligibility": [
+      "The applicant should be from the Scheduled Tribe category.",
+      "There should have either been a birth of a child OR the death of a member of the applicant's family.",
+      "No member from the applicant's family should be employed in government service (Class 1/2/3) or a higher category post.",
+      "In the case of the birth of a child in the applicant's family, the benefits can only be availed for the first or second child of a couple."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the Village Panchayat Secretary (Gram Panchayat Sacheev), provide all the required information to the staff. If required, provide copies of the mandatory documents (self-attest, if required).",
+        "Step 2:",
+        "The Village Panchayat Secretary (or the staff designated by the Village Panchayat Secretary) will apply online on behalf of the interested applicant.",
+        "*Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Domicile Certificate",
+      "Caste Certificate",
+      "Death Certificate / Birth Certificate",
+      "Samagra ID of the Family",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "When was the Chief Minister Help Scheme launched?",
+      "answer": "The scheme was launched on October 2, 2019."
+    },
+    {
+      "question": "What is the objective of the Chief Minister Help Scheme?",
+      "answer": "The scheme aims to provide food distribution and material aid to Scheduled Tribe families during significant life events such as births and deaths."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "The applicant must belong to the Scheduled Tribe category, with no family member employed in government service (Class 1/2/3 or higher)."
+    },
+    {
+      "question": "What benefits are provided under the scheme for a child’s birth?",
+      "answer": "The family will receive 50 kg of wheat and rice along with cooking utensils."
+    },
+    {
+      "question": "What assistance is provided in case of a family member's death?",
+      "answer": "The family will be provided 1 quintal of wheat or rice."
+    },
+    {
+      "question": "Is the scheme applicable to all children in the family?",
+      "answer": "No, the scheme is applicable only for the first or second child of the couple."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Required documents include a Scheduled Tribe certificate, Aadhaar card, birth certificate, ration card, and a declaration of no government employment in the family."
+    },
+    {
+      "question": "Where can the benefits be collected?",
+      "answer": "Benefits such as food grains and utensils can be collected from the panchayat level."
+    },
+    {
+      "question": "Can families residing outside Madhya Pradesh apply for the scheme?",
+      "answer": "No, the scheme is only for Scheduled Tribe families residing in Madhya Pradesh."
+    }
+  ]
+}

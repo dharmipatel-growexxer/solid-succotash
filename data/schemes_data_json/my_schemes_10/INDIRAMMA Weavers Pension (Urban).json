@@ -1,0 +1,102 @@
+{
+  "scheme_name": "INDIRAMMA Weavers Pension (Urban)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/iwp-u",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "INDIRAMMA Weavers Pension (Urban)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2006-07, the scheme \"INDIRAMMA Weavers Pension (Urban)\" by the Department of Rural Development, Government of Andhra Pradesh, aims to provide financial assistance to destitute weavers aged 50 years or above. To be eligible, they should be from a BPL family, be a resident of a district of Andhra Pradesh, and not be covered under any other Pension Scheme. The eligible individuals will be identified by their respective Ward Sabhas. The Bill Collector disburses the pension to the eligible individuals on the first date of every month."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+      "Mode of Disbursement:",
+      "The Bill Collector disburses the pension to the eligible individuals in the presence of Ward members and office bearers of DWCUA.",
+      "Time of Disbursement:",
+      "The pension is disbursed on the first date of every month."
+    ],
+    "eligibility": [
+      "The applicant should be from a Below Poverty Line (BPL) family.",
+      "The applicant should be from an urban area.",
+      "The applicant should be a local resident of a district of Andhra Pradesh.",
+      "The applicant should not be covered under any other Pension Scheme.",
+      "The applicant should be 65 years of age or above.",
+      "The applicant should be destitute (with little or no means of subsistence and no family or relative to depend upon).",
+      "*The eligible citizens will be identified by their respective Ward Sabhas. The register containing the list of eligible citizens will be shared by the Bill Collector with the Municipal Commissioner."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Identification of Eligible Persons",
+        "The Ward Sabha identifies eligible persons based on the eligibility criteria. A ward-wise register of eligible persons is maintained by the Bill Collector.",
+        "Step 2:",
+        "Recommendation and Sanction",
+        "The Bill Collector sends Ward Sabha resolution recommending eligible persons to the Municipal Commissioner. The Municipal Commissioner scrutinizes eligibility and sanctions pensions based on municipality-wise allocation.",
+        "Step 3:",
+        "Disbursement of Pensions",
+        "The Project Director (DRDA) sends pension acquittance list and funds to Municipal Commissioners. The Municipal Commissioner issues cheques to Bill Collectors. The Bill Collector disburses pensions to pensioners in the presence of Ward members and DWCUA office bearers."
+      ]
+    },
+    "documents_required": [
+      "Domicile Certificate",
+      "Proof of Age",
+      "Below Poverty Line (BPL) Certificate",
+      "Proof of being a Weaver by Profession"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the residency requirements for applying to the INDIRAMMA Weavers Pension (Urban) scheme?",
+      "answer": "The applicant must be a local resident of a district in Andhra Pradesh and reside in an urban area to qualify for the scheme."
+    },
+    {
+      "question": "How does the INDIRAMMA Weavers Pension (Urban) scheme define the economic status of eligible applicants?",
+      "answer": "Applicants must belong to a Below Poverty Line (BPL) family to be eligible for the pension scheme."
+    },
+    {
+      "question": "What profession must an applicant have to qualify for the INDIRAMMA Weavers Pension (Urban) scheme?",
+      "answer": "The applicant must be a weaver by profession to be considered eligible for the pension scheme."
+    },
+    {
+      "question": "What is the minimum age requirement for applicants under the INDIRAMMA Weavers Pension (Urban) scheme?",
+      "answer": "Applicants must be 50 years of age or above to qualify for the pension scheme."
+    },
+    {
+      "question": "What does it mean for an applicant to be considered destitute under this scheme?",
+      "answer": "An applicant is considered destitute if they have little or no means of subsistence and no family or relatives to depend upon."
+    },
+    {
+      "question": "Can an applicant be covered under another pension scheme and still qualify for this one?",
+      "answer": "No, the applicant must not be covered under any other pension scheme to be eligible for this one."
+    },
+    {
+      "question": "Who is responsible for identifying eligible individuals for the INDIRAMMA Weavers Pension (Urban) scheme?",
+      "answer": "Eligible individuals are identified by their respective Ward Sabhas based on the eligibility criteria."
+    },
+    {
+      "question": "What role does the Bill Collector play in the INDIRAMMA Weavers Pension (Urban) scheme?",
+      "answer": "The Bill Collector maintains a ward-wise register of eligible persons and disburses the pension on the first date of every month."
+    },
+    {
+      "question": "What documents are required to prove residency for the INDIRAMMA Weavers Pension (Urban) scheme?",
+      "answer": "Applicants must provide a Domicile Certificate to prove they are residents of a district in Andhra Pradesh."
+    },
+    {
+      "question": "What is the process for identifying eligible persons under the INDIRAMMA Weavers Pension (Urban) scheme?",
+      "answer": "The Ward Sabha identifies eligible persons based on the eligibility criteria, and a register is maintained by the Bill Collector."
+    },
+    {
+      "question": "What happens after the Ward Sabha identifies eligible persons for the pension scheme?",
+      "answer": "The Bill Collector sends a Ward Sabha resolution recommending eligible persons to the Municipal Commissioner for scrutiny and sanction."
+    },
+    {
+      "question": "Who scrutinizes and sanctions the pensions for eligible applicants?",
+      "answer": "The Municipal Commissioner scrutinizes the eligibility and sanctions pensions based on municipality-wise allocation."
+    }
+  ]
+}

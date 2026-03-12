@@ -1,0 +1,105 @@
+{
+  "scheme_name": "Satfera Samuhlagna (DCW) Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ssdcws",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Satfera Samuhlagna (DCW) Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Satfera Samuhlagna (DCW)\" scheme was launched by the Social Justice and Empowerment Department, Government of Gujarat. It aims to promote social welfare and support financially weaker sections through community marriages. Under this scheme, an incentive amount is given to newly married couples belonging to socially and educationally backward classes and economically backward classes. Additionally, ₹3,000 per couple (up to ₹75,000) is provided to the organizing institution."
+    ],
+    "benefits": [
+      "Monetary Incentive to Couples:",
+      "₹12,000 is provided to each newly married couple from socially and educationally backward classes and economically backward classes.",
+      "Support to Organizing Institutions:",
+      "₹3,000 per couple is granted to the organizing institution, up to a maximum of ₹75,000 per event."
+    ],
+    "eligibility": [
+      "The applicant must be a newly married female.",
+      "The applicant should belong to a Socially and Educationally Backward Class (SEBC) or Economically Backward Class.",
+      "The applicant’s annual individual income should not exceed ₹6,00,000/-."
+    ],
+    "application_process": {
+      "online": [
+        "Step 01:",
+        "The eligible applicant may visit the e-Samaj Kalyan Portal:",
+        "https://esamajkalyan.gujarat.gov.in/",
+        "Step 02:",
+        "On the home page, under the tab ‘Citizen Login’, click on New User ‘",
+        "Please Register Here",
+        "’.",
+        "Step 03:",
+        "Enter your Full Name as per Aadhaar Card, Gender, Date of Birth, Aadhaar Card Number, Email ID, Caste etc. and then click on ‘Register’.",
+        "Step 04:",
+        "After successful registration, the applicants can login through their User ID and Password.",
+        "Step 05:",
+        "Now, click on ‘User Profile’ to update your profile.",
+        "Step 06:",
+        "Fill in all the mandatory information and then click on ‘Update’.",
+        "Step 07:",
+        "After updating the profile successfully, select the scheme appearing on the home page; an application form will open.",
+        "Step 08:",
+        "Fill in all the mandatory details in the application form and upload all the relevant documents.",
+        "Step 09:",
+        "Now agree with the terms & conditions and click on ‘Save Application’.",
+        "Step 10:",
+        "Submit the application form and take out the print of the application for future reference. The applicant can note down the application number to track the application status by logging into the portal using their User ID and Password.",
+        "User Manual"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Pass Book/Cancelled Cheque",
+      "Caste Certificate",
+      "Certificate of Institution(Satfera Samuh Lagna Yojana)",
+      "Income Certificate",
+      "Marriage Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the benefit provided under this scheme?",
+      "answer": "Eligible couples receive ₹12,000 and the organizing institution gets ₹3,000 per couple (up to ₹75,000)."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Newly married women from Socially and Educationally Backward Classes or Economically Backward Classes with family income up to ₹6,00,000 can apply."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Aadhaar Card, Bank Pass Book/Cancelled Cheque, Caste Certificate, Marriage Certificate, Income Certificate, and Certificate from organizing institution."
+    },
+    {
+      "question": "What is the application fee?",
+      "answer": "There is no application fee. The form is free and can be submitted online."
+    },
+    {
+      "question": "Where can I apply for this scheme?",
+      "answer": "The applicant can apply at https://esamajkalyan.gujarat.gov.in"
+    },
+    {
+      "question": "Can I submit the application offline?",
+      "answer": "No, applications must be submitted online via the official portal."
+    },
+    {
+      "question": "Is it necessary to be married under a mass marriage event?",
+      "answer": "Yes, only couples married under an approved Samuh Lagna event are eligible."
+    },
+    {
+      "question": "Who implements the scheme?",
+      "answer": "The scheme is implemented by the Social Justice and Empowerment Department, Government of Gujarat."
+    },
+    {
+      "question": "Can applicant from other states apply?",
+      "answer": "No, only permanent residents of Gujarat are eligible."
+    },
+    {
+      "question": "What is a Samuh Lagna event?",
+      "answer": "It is a mass marriage ceremony organized by an approved institution under this scheme."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "scheme_name": "Financial Assistance After Death (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ndafcwu",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Financial Assistance After Death (UKBOCWWB)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The “Financial Assistance After Death” scheme is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide financial support to the dependents of registered construction workers in the event of the worker’s death, whether due to natural causes or an accident."
+    ],
+    "benefits": [
+      "₹2,00,000/- will be provided in the event of the natural death.",
+      "₹4,00,000/- will be provided in the event of the accidental death."
+    ],
+    "eligibility": [
+      "The applicant must be a dependent of the deceased construction worker.",
+      "The dependent’s name must be mentioned in the labour card as a dependent.",
+      "The deceased construction worker must have been registered with the Uttarakhand Building and Other Construction Workers Welfare Board."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "The online application for the scheme can be submitted through Shramik Suvidha Kendras by the nominated dependent of the registered construction worker, whose name is mentioned in the worker’s Shramik Card.",
+        "It is mandatory to apply within one year from the date of the worker’s death.",
+        "At the time of application, the following documents must be attached: self-declaration certificate, Shramik Card of the deceased worker, Aadhaar Card, death certificate, accident-related proof (in case of accidental death), Aadhaar Card and bank account details of the dependent, along with an affidavit stating that this benefit has not been availed under any other scheme.",
+        "After verification and approval through departmental investigation, financial assistance is provided."
+      ]
+    },
+    "documents_required": [
+      "Self-declaration certificate",
+      "Labour Card of the deceased worker",
+      "Aadhaar Card",
+      "Death Certificate",
+      "Accident-related proof (in case of accidental death)",
+      "Bank account details of the dependent, along with an affidavit stating that this benefit has not been availed under any other scheme"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 56)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "₹2 lakh in case of natural death. ₹4 lakh in case of accidental death. ₹2 lakh in case of natural death. ₹4 lakh in case of accidental death."
+    },
+    {
+      "question": "Who can apply for benefits under this scheme?",
+      "answer": "The dependents of the deceased construction worker, whose names are mentioned in the worker’s Shramik Card, can apply."
+    },
+    {
+      "question": "Is it necessary for the deceased worker to be registered?",
+      "answer": "Yes, the deceased construction worker must have been registered with the board at the time of death."
+    },
+    {
+      "question": "Where can the application be submitted?",
+      "answer": "Applications are submitted online through Shramik Suvidha Kendras."
+    },
+    {
+      "question": "Who can submit the application?",
+      "answer": "The nominated dependent of the deceased construction worker, as per the Shramik Card, must submit the application."
+    },
+    {
+      "question": "Is there a time limit to apply?",
+      "answer": "Yes, the application must be submitted within one year from the date of the worker’s death."
+    },
+    {
+      "question": "How is the application verified?",
+      "answer": "The submitted application and documents are verified through departmental investigation and checks before approval."
+    }
+  ]
+}

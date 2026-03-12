@@ -1,0 +1,101 @@
+{
+  "scheme_name": "World War II Pension",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/wwiip",
+  "location_name": "Rajasthan",
+  "location_type": "state",
+  "page_title": "World War II Pension",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"World War II Pension\" was introduced by the Department of Sainik Welfare, Government of Rajasthan in the year 1996. The aim of the scheme is to provide lifelong financial assistance as a measure of relief to World War II ex-servicemen and their widows who are not receiving any pension or financial assistance from any other source. Under this scheme, eligible beneficiaries receive ₹15,000/- per month, which is directly deposited into their bank accounts every month. The scheme covers those who served during World War II (1st September 1939 to 15th August 1945)."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "A pension of ₹15,000 per month is provided for a lifetime.",
+      "Mode of Disbursement:",
+      "The pension is deposited monthly into the beneficiary’s bank account."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Rajasthan.",
+      "The applicant should be either an ex-serviceman who served during World War II (1st September 1939 to 15th August 1945) or his widow.",
+      "The applicant should not be receiving any pension or financial assistance from any other source."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the office of the District Sainik Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The applicant should download the",
+        "application form",
+        "from the",
+        "official website",
+        ".",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Sainik Welfare Office.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Sainik Welfare Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Identity proof of applicant",
+      "Recent photograph of the applicant",
+      "Discharge Book / Service Certificate clearly mentioning service during 1st September 1939 to 15th August 1945",
+      "Residence Proof (Domicile Certificate of Rajasthan)",
+      "Death Certificate of Ex-Serviceman (In case of widow applicant)",
+      "Bank Account Details",
+      "Any Other Document if Required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the World War II Pension Scheme?",
+      "answer": "Ex-servicemen who served in World War II and their widows, provided they do not receive any other pension."
+    },
+    {
+      "question": "How much pension is provided under this scheme?",
+      "answer": "₹15,000 per month, effective from August 2024."
+    },
+    {
+      "question": "How is the pension disbursed?",
+      "answer": "It is deposited directly into the beneficiary's bank account every month."
+    },
+    {
+      "question": "Can a widow of a World War II veteran apply?",
+      "answer": "Yes, if the ex-serviceman has passed away, his widow is eligible."
+    },
+    {
+      "question": "Is there any cost for the application form?",
+      "answer": "No, the form is available free of cost on the Sainik Kalyan Vibhag website and district offices."
+    },
+    {
+      "question": "Where can I submit the application form?",
+      "answer": "At the District Sainik Welfare Office of your district."
+    },
+    {
+      "question": "Who should I contact for more information?",
+      "answer": "Reach out to the District Sainik Welfare Office or visit the Department of Sainik Welfare website."
+    },
+    {
+      "question": "Can an ex-serviceman receiving a pension from another source apply?",
+      "answer": "No, those receiving any other pension or financial aid are not eligible."
+    },
+    {
+      "question": "Is there an age limit to apply?",
+      "answer": "No, as long as the ex-serviceman or widow meets the eligibility criteria."
+    },
+    {
+      "question": "What happens if an ex-serviceman dies after applying?",
+      "answer": "His widow can continue to receive the pension."
+    },
+    {
+      "question": "Is there any application fee?",
+      "answer": "No, the application is free of cost."
+    }
+  ]
+}

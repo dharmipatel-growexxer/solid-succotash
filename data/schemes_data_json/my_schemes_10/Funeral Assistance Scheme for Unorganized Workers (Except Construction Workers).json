@@ -1,0 +1,127 @@
+{
+  "scheme_name": "Funeral Assistance Scheme for Unorganized Workers (Except Construction Workers)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fasuw-ecw",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Funeral Assistance Scheme for Unorganized Workers (Except Construction Workers)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Funeral Assistance Scheme for Unorganized Workers (Except Construction Workers)\", launched by the Gujarat Rural Workers Welfare Board, Labour & Employment Department Government of Gujarat, aims to provide financial assistance to the heirs of deceased unorganized sector workers to help with funeral expenses and last rites, addressing the financial burden faced by families during such distressing times. The scheme provides a one-time financial assistance of ₹10,000/- to one heir of the deceased worker and is specifically designed for e-Shram card holders in the unorganized sector. The applicant must be an heir of an e-Shram card holder (except e-Nirman card holders and Scheduled Caste individuals) and must have an annual income within specified limits of ₹1,20,000/- for rural areas and ₹1,50,000/- for urban areas. The scheme is implemented by the Labour & Employment Department Government of Gujarat and applications for this scheme are accepted offline through designated government labour offices."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹10,000/- paid to one heir of the deceased unorganized worker, to assist with funeral expenses and last rites (funeral ceremonies)."
+    ],
+    "eligibility": [
+      "The applicant must be an heir of a deceased e-Shram card holder from the unorganized sector.",
+      "The applicant must be a resident of Gujarat.",
+      "The applicant must apply within 3 (three) months from the date of death of the deceased worker.",
+      "The deceased worker must have between 16 to 70 years of age at the time of death.",
+      "The applicant must have an annual income not exceeding ₹1,20,000/- (One Lakh Twenty Thousand Rupees), if residing in rural areas.",
+      "The applicant must have an annual income not exceeding ₹1,50,000/- (One Lakh Fifty Thousand Rupees), if residing in urban areas.",
+      "Only one heir per deceased worker is eligible to receive the assistance.",
+      "Priority Order for Heirs",
+      "The legal heirs of the deceased shall be considered in the following order of priority:",
+      "Husband or Wife.",
+      "Children (Son/Daughter) - in absence of spouse.",
+      "Parents - in absence of spouse and children.",
+      "Grandchildren (Grandson/Granddaughter) - in absence of spouse, children and parents.",
+      "Unmarried, widowed or abandoned sisters - in absence of spouse, children, parents and grandchildren.",
+      "Other heirs declared under Indian Succession Act, 1925 - in absence of all above categories."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant should obtain the prescribed application form as per \"Annexure-1\" from any of the designated government offices mentioned in the Steps below.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "The applicant must submit the completed application form along with all required documents to any of the following offices:",
+        "Office of Assistant Government Labour Officer.",
+        "Office of Government Labour Officer.",
+        "Office of Assistant Labour Commissioner.",
+        "Office of Deputy Labour Commissioner.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "*Applications must be submitted within 3 (three) months from the date of death of the unorganized worker. Applications submitted after this deadline will be automatically cancelled.",
+        "Post-Application Processes",
+        "Upon receipt of the application, the concerned office will conduct necessary verification and approve/reject the application within 10 working days. If the application contains incomplete documents or information, the applicant will be notified accordingly.",
+        "In case of incomplete documentation, the applicant must complete the requirements within 15 days from the date of notification. The concerned office will then process the completed application within 10 working days of receiving the additional documents.",
+        "After successful verification and approval, the financial assistance of ₹10,000/- will be disbursed to the eligible heir's bank account as provided in the application."
+      ]
+    },
+    "documents_required": [
+      "Copy of e-Shram Card",
+      "Ration Card",
+      "Copy of Caste Certificate (Scheduled Tribe/Other Backward Class/Other Caste)",
+      "Income Certificate (As per prescribed format in Annexure-2 of the resolution)",
+      "Certified Copy of Death Certificate",
+      "Advance Receipt of Money Received (As per prescribed format in Annexure-3 of the resolution with Revenue Stamp)",
+      "Copy of Bank Passbook Or Cancelled Cheque of bank account",
+      "Guarantee Letter (As per prescribed format in Annexure-4 of the resolution stating that assistance has not been received from elsewhere and will not be received)",
+      "Age Proof of Deceased: Birth Certificate/Copy of Aadhaar Card/School Leaving Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the time limit for submitting my application after the death of my family member who held an e-Shram card?",
+      "answer": "You must submit your application within 3 (three) months from the date of death of the unorganized worker, as applications submitted after this deadline will be automatically cancelled."
+    },
+    {
+      "question": "Can I apply for this financial assistance if my deceased family member was a construction worker with an e-Nirman card?",
+      "answer": "No, the scheme specifically excludes construction workers and e-Nirman card holders, as this assistance is only for other unorganized sector workers with e-Shram cards."
+    },
+    {
+      "question": "What is the maximum annual income limit that I must meet to be eligible for this funeral assistance in urban areas?",
+      "answer": "If you reside in urban areas, your annual income must not exceed ₹1,50,000/- (One Lakh Fifty Thousand Rupees) to qualify for this assistance."
+    },
+    {
+      "question": "Where can I submit my completed application form and required documents to apply for this funeral financial assistance?",
+      "answer": "You can submit your application to Office of Assistant Government Labour Officer, Government Labour Officer, Assistant Labour Commissioner, or Deputy Labour Commissioner offices."
+    },
+    {
+      "question": "How much financial assistance will I receive if my application is approved and what is the purpose of this assistance?",
+      "answer": "You will receive ₹10,000/- (Ten Thousand Rupees) as a one-time payment to assist with funeral expenses and last rites of the deceased worker."
+    },
+    {
+      "question": "What specific age requirement must the deceased worker have met at the time of death to make me eligible for this assistance?",
+      "answer": "The deceased worker must have been between 16 to 70 years of age at the time of death to qualify for this funeral assistance scheme."
+    },
+    {
+      "question": "If multiple family members want to apply for this assistance, how many of us can receive the financial benefit?",
+      "answer": "Only one heir per deceased worker is eligible to receive the assistance, regardless of the number of family members who may apply."
+    },
+    {
+      "question": "What is the maximum annual income limit for rural area residents to qualify for this funeral assistance program?",
+      "answer": "If you reside in rural areas, your annual income must not exceed ₹1,20,000/- (One Lakh Twenty Thousand Rupees) to be eligible for assistance."
+    },
+    {
+      "question": "Can I apply for this assistance if my deceased family member belonged to Scheduled Caste category and held an e-Shram card?",
+      "answer": "No, Scheduled Caste individuals are excluded from this scheme as they are covered under a separate scheme by Social Justice and Empowerment Department."
+    },
+    {
+      "question": "In what order will family members be considered if multiple heirs want to claim this funeral assistance for the same deceased worker?",
+      "answer": "Priority order is: Husband or Wife first, then Children, then Parents, then Grandchildren, then unmarried/widowed/abandoned sisters, then other heirs under Indian Succession Act, 1925."
+    },
+    {
+      "question": "How long will the government office take to process my application and inform me about the approval or rejection decision?",
+      "answer": "The concerned office will conduct verification and approve/reject your application within 10 working days of submission, provided all documents are complete."
+    },
+    {
+      "question": "What happens if I submit my application with incomplete documents and how much additional time do I have to complete them?",
+      "answer": "If documents are incomplete, you will be notified and must complete the requirements within 15 days from notification date for further processing."
+    },
+    {
+      "question": "What type of guarantee or undertaking document must I provide to ensure I have not received similar assistance from elsewhere?",
+      "answer": "You must submit a Guarantee Letter as per prescribed format stating that assistance has not been received from elsewhere and will not be received from other sources."
+    },
+    {
+      "question": "What proof documents do I need to establish the age of my deceased family member when applying for this assistance?",
+      "answer": "You need to provide age proof of deceased through Birth Certificate/Copy of Aadhaar Card/School Leaving Certificate as acceptable age verification documents."
+    }
+  ]
+}

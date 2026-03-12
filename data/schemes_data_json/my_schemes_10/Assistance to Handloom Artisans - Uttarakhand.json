@@ -1,0 +1,64 @@
+{
+  "scheme_name": "Assistance to Handloom Artisans - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/handloomartisanuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Assistance to Handloom Artisans - Uttarakhand",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Assistance to Handloom Artisans” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial support to disaster-affected handloom artisans for the repair or repurchase of damaged tools, equipment, raw materials, and finished products."
+    ],
+    "benefits": [
+      "Under this scheme, the following assistance is provided to disaster-affected artisans:",
+      "For the repurchase of damaged tools and equipment:",
+      "₹ 5,000/- per artisan for the repurchase of tools.",
+      "For damage to raw materials or products under production or finished:",
+      "₹ 5,000/- per artisan for raw materials."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a disaster-affected artisan."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level.",
+        "It is necessary to have the damage and its replacement duly verified by the competent authority appointed by the State Government."
+      ]
+    },
+    "documents_required": [
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Verification report of damage and its replacement, duly certified by the competent authority appointed by the State Government",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 307)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Any handloom artisan residing in Uttarakhand who has been affected by a disaster is eligible to apply."
+    },
+    {
+      "question": "What kind of assistance is provided under this scheme?",
+      "answer": "Financial assistance is provided for: ₹5,000 per artisan for the repurchase of damaged tools and equipment. ₹5,000 per artisan for loss or damage to raw materials or finished/under-production goods. ₹5,000 per artisan for the repurchase of damaged tools and equipment. ₹5,000 per artisan for loss or damage to raw materials or finished/under-production goods."
+    },
+    {
+      "question": "Who verifies the extent of damage to the artisan’s property?",
+      "answer": "The concerned Patwari verifies the damage and records it in Form P-20, which is then verified by the Tehsildar and Sub-Divisional Magistrate before final approval by the District Magistrate."
+    },
+    {
+      "question": "Is verification by the competent authority mandatory?",
+      "answer": "Yes. The damage and its replacement must be duly verified by the competent authority appointed by the State Government before financial assistance can be provided."
+    },
+    {
+      "question": "Who approves the disbursement of financial assistance?",
+      "answer": "The District Magistrate provides final approval for the disbursement of financial assistance based on verified reports."
+    },
+    {
+      "question": "How are the relief funds disbursed to beneficiaries?",
+      "answer": "Once approved by the District Magistrate, the relief funds are disbursed to the eligible beneficiaries at the Tehsil level."
+    }
+  ]
+}

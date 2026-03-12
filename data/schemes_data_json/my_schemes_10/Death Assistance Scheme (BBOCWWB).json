@@ -1,0 +1,104 @@
+{
+  "scheme_name": "Death Assistance Scheme (BBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dasbbocwwb",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Death Assistance Scheme (BBOCWWB)",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The \"Death Assistance\" scheme, implemented by the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB) under the Labour Resources Department, Government of Bihar, provides financial assistance to the legal heir in the case of natural death or accidental death of the registered worker. If the death occurs during a disaster and a grant has already been given by Disaster Management, only ₹1,00,000/- will be payable by the Board."
+    ],
+    "benefits": [
+      "₹2,00,000/- in the case of natural death.",
+      "₹4,00,000/- in the case of accidental death.",
+      "₹1,00,000/- if disaster aid is already received."
+    ],
+    "eligibility": [
+      "The deceased construction worker should have been registered with the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB).",
+      "The worker's membership with the Welfare Board must be active at the time of death.",
+      "The only person who is a legal heir/dependent family member of the deceased registered worker is eligible to apply under the scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Apply for Scheme Benefits",
+        "Step 1:",
+        "Visit the",
+        "Official Website",
+        "of the Bihar Building and Other Construction Workers Welfare Board.",
+        "Step 2:",
+        "Click on \"Scheme Application\" and select \"",
+        "Apply for Scheme",
+        "\".",
+        "Step 3:",
+        "Enter your registration number and click \"Show\" to view your details.",
+        "Step 4:",
+        "Select the scheme you wish to apply for to avail the benefits.",
+        "Step 5:",
+        "Enter all required information and upload the necessary documents.",
+        "Step 6:",
+        "Click on \"Submit Application\" to complete the process.",
+        "Application Tracking",
+        "Applicant can track their application status online through the",
+        "of the Bihar Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    },
+    "documents_required": [
+      "Identity Card of the Registered Worker",
+      "Bank Account Details",
+      "Death Certificate of Worker",
+      "Nominee/legal Heir Certificate",
+      "Proof of Membership",
+      "Proof of Age at the Time of Registration",
+      "Undertaking"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Application Form (Page No. 02)",
+      "Website",
+      "Application"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Death Assistance Scheme?",
+      "answer": "It provides financial aid to the family of a deceased registered construction worker."
+    },
+    {
+      "question": "Who implements this scheme?",
+      "answer": "The Bihar Building & Other Construction Workers Welfare Board (BBOCWWB)."
+    },
+    {
+      "question": "How much assistance is given for natural death?",
+      "answer": "₹2,00,000/- (Rupees two lakhs)."
+    },
+    {
+      "question": "How much assistance is provided for accidental death?",
+      "answer": "₹4,00,000/- (Rupees four lakhs)."
+    },
+    {
+      "question": "What if the death occurs during a disaster?",
+      "answer": "If disaster aid is received, ₹1,00,000/- (Rupees one lakh) is provided by the Board."
+    },
+    {
+      "question": "Who is eligible to apply?",
+      "answer": "A legal heir or dependent family member of the deceased worker."
+    },
+    {
+      "question": "Should the deceased worker be registered?",
+      "answer": "Yes, they must be a registered member of BBOCWWB."
+    },
+    {
+      "question": "Does the worker’s registration need to be active?",
+      "answer": "Yes, the membership must be active at the time of death."
+    },
+    {
+      "question": "Where can the application be submitted?",
+      "answer": "At the Bihar Building & Other Construction Workers Welfare Board office."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Death certificate, worker’s registration proof, legal heir certificate, and bank details."
+    }
+  ]
+}

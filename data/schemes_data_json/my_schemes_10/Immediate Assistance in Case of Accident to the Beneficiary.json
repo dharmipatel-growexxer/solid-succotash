@@ -1,0 +1,113 @@
+{
+  "scheme_name": "Immediate Assistance in Case of Accident to the Beneficiary",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/iacab",
+  "location_name": "Manipur",
+  "location_type": "state",
+  "page_title": "Immediate Assistance in Case of Accident to the Beneficiary",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Immediate Assistance in Case of Accident to the Beneficiary\" scheme was launched by the Manipur Building & Other Construction Workers' Welfare Board. The scheme aims to provide financial assistance to registered building workers in cases of accidents, disabilities, or death due to accidents. Workers hospitalized for five or more days due to an accident are given immediate assistance, and further aid is available for those who suffer disabilities or death resulting from such accidents."
+    ],
+    "benefits": [
+      "Financial assistance for hospitalization:",
+      "₹5,000/- for the first 5 days",
+      "₹500/- per day for the remaining days subject to a maximum of ₹15,000/-",
+      "Financial assistance for disability caused by accident:",
+      "₹25,000/- for upto 25% disability.",
+      "₹50,000/- for upto 50% disability.",
+      "₹1,00,000/- for disability above 50%.",
+      "Financial assistance for Death:",
+      "₹1,00,000/- is provided to the nominees or dependents of a beneficiary building worker in case of accidental death.",
+      "₹2,00,000/- is provided to the nominees or dependents of the beneficiary building worker in case of death due to an accident during employment.",
+      "₹5,000/- provided to the kin of the deceased building worker or to the worker in case of a dependent's death."
+    ],
+    "eligibility": [
+      "For Accidental Case:",
+      "The construction worker should be registered under the Manipur Building and Other Construction Workers' Welfare Board.",
+      "The construction worker should not be covered by the Group Insurance Scheme undertaken by the Board.",
+      "For Accidental Death:",
+      "The applicant should be the nominee/dependent of the deceased construction worker.",
+      "The deceased construction worker should be registered with the Manipur Building and Other Construction Workers' Welfare Board.",
+      "The deceased construction worker should not be covered by the Group Insurance Scheme undertaken by the Board.",
+      "For Disability:",
+      "The construction worker should be disabled due to an accident."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant should visit (during office hours) the Manipur Building and Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant visits the",
+        "official website",
+        "and downloads the",
+        "application form",
+        ".",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labour Board Inspector",
+        "Step-4:",
+        "Request a receipt or acknowledgement from the Labour Board Inspector to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Certificate of Registration.",
+      "Payment Receipt of the Last Contribution.",
+      "Calculation Sheet for the medical expenses for ailment.",
+      "Medical Certificate (showing disability for immediate financial assistance in case of accident/accidental death).",
+      "Death Certificate (in respect of funeral expenses/accidental death).",
+      "Aadhaar Card of the applicant and construction worker.",
+      "First Page of Bank Passbook."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for accident-related benefits?",
+      "answer": "Registered building workers are hospitalized for five or more days due to an accident."
+    },
+    {
+      "question": "Are workers injured but recovering at home eligible for assistance?",
+      "answer": "Yes, workers in plaster at home due to an accident are also eligible."
+    },
+    {
+      "question": "Can dependents apply for death benefits?",
+      "answer": "Yes, nominees or dependents of the deceased worker can apply for benefits."
+    },
+    {
+      "question": "Is there any insurance coverage for building workers?",
+      "answer": "If the worker is covered by the Board’s Group Insurance Scheme, the death benefit under this scheme does not apply."
+    },
+    {
+      "question": "What is the funeral assistance offered?",
+      "answer": "The scheme offers ₹5,000 for funeral expenses in case of the death of the worker or their dependent."
+    },
+    {
+      "question": "How can one apply for financial assistance?",
+      "answer": "Workers or their families must submit the application form and required documents to the Manipur Building and Other Construction Workers' Welfare Board."
+    },
+    {
+      "question": "Is there any coverage for daily wage loss during the hospital stay?",
+      "answer": "Yes, workers receive ₹500 per day for hospital stays beyond the first five days."
+    },
+    {
+      "question": "What if a worker dies in a non-work-related accident?",
+      "answer": "The nominee is eligible for ₹1,00,000 in case of death due to accidents outside of employment."
+    },
+    {
+      "question": "What documents are needed for disability benefits?",
+      "answer": "Medical reports certifying the percentage of disability are required."
+    },
+    {
+      "question": "What is the assistance provided for disabilities caused by accidents?",
+      "answer": "Financial aid ranges from ₹25,000 to ₹1,00,000 based on the percentage of disability."
+    },
+    {
+      "question": "What is the maximum financial assistance for hospitalization?",
+      "answer": "Workers can receive up to ₹15,000 for hospital stays exceeding five days."
+    }
+  ]
+}

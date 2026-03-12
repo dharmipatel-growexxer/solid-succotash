@@ -1,0 +1,106 @@
+{
+  "scheme_name": "Pension Scheme (HPBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pshpbocwwb",
+  "location_name": "Himachal Pradesh",
+  "location_type": "state",
+  "page_title": "Pension Scheme (HPBOCWWB)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Pension Scheme,\" launched by the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB) under the Government of Himachal Pradesh, provides financial support to registered construction workers. Once they reach the age of 60, beneficiaries are entitled to a monthly pension, with a guaranteed minimum amount of ₹1,000/-."
+    ],
+    "benefits": [
+      "Pension amount ₹1,000/- per month."
+    ],
+    "eligibility": [
+      "For Registration as a Building/Construction Worker:",
+      "The applicant must be a resident of Himachal Pradesh.",
+      "The applicant must be a Building or Construction Worker.",
+      "The age of the applicant should be between 18 and 60 years.",
+      "The applicant should have worked in building or construction activities for at least 90 days in the preceding 12 months.",
+      "The registration must be renewed annually.",
+      "Eligibility Criteria for Pension Scheme:",
+      "The worker should be registered as a Building or Construction worker with the \"Himachal Pradesh Building and Other Construction Workers Welfare Board\".",
+      "The worker's membership with the Welfare Board must be active.",
+      "The worker should be 60 years of age or older.",
+      "The beneficiary should have been a continuous member of the Board for three years before attaining the age of 60 years."
+    ],
+    "application_process": {
+      "online": [
+        "The Registration Process for Building and Other Construction Workers is as follows:",
+        "Step 1:",
+        "The interested applicant should visit the Labor Welfare Office (during office hours) and request a hard copy of the prescribed application form from the concerned authority.",
+        "Step 2:",
+        "In the",
+        "application form",
+        ", fill in all the mandatory fields, paste a passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with a wage slip or appointment letter from the employer, verifying 90 days of construction work. If unavailable, a certificate from a local authority (such as a councilor, executive officer, or Panchayat Secretary) can be submitted to verify employment.",
+        "Step 4:",
+        "After submitting the documents and payment, the worker will receive an acknowledgment receipt confirming their registration.",
+        "NOTE 1:",
+        "Ensure that the application is submitted within the prescribed period, if any.",
+        "NOTE 2:",
+        "After three years, the worker must visit the office to pay a renewal fee and submit proof of 90 days of work each year to maintain eligibility for benefits.",
+        "NOTE 3:",
+        "A one-time registration fee must be paid at the office, and it will be valid for three years."
+      ]
+    },
+    "documents_required": [
+      "Proof of Identity.",
+      "First page of Passbook.",
+      "Age proof",
+      "Labour Card",
+      "ID proof of the worker issued by the organization",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Website",
+      "Scheme Details",
+      "Registration Form",
+      "Scheme Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Pension Scheme under HPBOCWWB?",
+      "answer": "This scheme provides a monthly pension to registered construction workers once they reach 60 years of age, with a minimum amount of ₹1,000 per month."
+    },
+    {
+      "question": "Who is eligible for this pension?",
+      "answer": "The applicant must be a registered construction worker under HPBOCWWB, 60 years or older, and have been a continuous member for at least three years before turning 60."
+    },
+    {
+      "question": "What is the minimum pension amount provided?",
+      "answer": "A minimum ₹1,000 per month is guaranteed for eligible beneficiaries."
+    },
+    {
+      "question": "How can a worker register for this scheme?",
+      "answer": "Registration can be done by visiting the Labour Welfare Office in their jurisdiction or through self-registration on the official portal."
+    },
+    {
+      "question": "What is the age limit for registering as a construction worker?",
+      "answer": "The applicant must be between 18 and 60 years of age."
+    },
+    {
+      "question": "Is there any work experience required for registration?",
+      "answer": "Yes, the applicant should have worked in construction for at least 90 days in the past 12 months before applying."
+    },
+    {
+      "question": "How often does registration need to be renewed?",
+      "answer": "The registration must be renewed annually to maintain active membership."
+    },
+    {
+      "question": "Can a worker apply for the pension if their membership is inactive?",
+      "answer": "No, the worker must have an active membership and should have been a continuous member for at least three years before turning 60."
+    },
+    {
+      "question": "Can a worker receive this pension along with other government pensions?",
+      "answer": "Yes, this pension can be availed along with other eligible government pension schemes."
+    },
+    {
+      "question": "Where can I get more details about the scheme?",
+      "answer": "You can visit the Labour Welfare Office or check the HPBOCWWB official website for more information."
+    }
+  ]
+}

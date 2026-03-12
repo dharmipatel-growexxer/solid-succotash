@@ -1,0 +1,102 @@
+{
+  "scheme_name": "Toposili Bandhu (Old Age Pension) Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/obs",
+  "location_name": "West Bengal",
+  "location_type": "state",
+  "page_title": "Toposili Bandhu (Old Age Pension) Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "Launched on 1st April 2020, “Toposili Bandhu (Old Age Pension)” is a Social Security Scheme by the Tribal Development Department, Government of West Bengal. The main objective of the scheme to provide the financial assistance to old age person who are belongs to the scheduled caste category of West Bengal State."
+    ],
+    "benefits": [
+      "Pension : ₹1,000/- per month."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of West Bengal.",
+      "The applicant should belong to the Scheduled Caste (SC) category.",
+      "The applicant should have attained the age of 60 years or more.",
+      "The applicant should not be a beneficiary under any other Social Security pension scheme.",
+      "The applicant should not be a recipient of Government pension or pension from any other organization."
+    ],
+    "application_process": {
+      "offline": [
+        "The interested applicant should request the prescribed format of the application form free of cost from the office of Block Development Officer (BDO) / Sub Divisional Officer (SDO) / Kolkata Municipal Corporation.",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Submit the duly filled and signed application form along with the documents to the concerned authority at:",
+        "Office of the BDO in rural areas.",
+        "Office of the SDO in Municipalities and notified areas",
+        "Commissioner Kolkata Municipal Corporation in KMC areas."
+      ]
+    },
+    "documents_required": [
+      "Passport Size Photograph.",
+      "Formal Caste or Tribe Certificate: If unavailable, a Caste/Tribe certificate of any paternal relative is acceptable for the initial assessment. However, the applicant must procure their caste certificate later and submit the same subsequently.",
+      "Digital Ration Card.",
+      "EPIC (Elector's Photo Identity Card)/Voter Card.",
+      "Self-Attested Residential Certificate/Address Proof.",
+      "Copy of Bank Passbook.",
+      "Aadhaar Card."
+    ],
+    "sources_and_references": [
+      "Presentation",
+      "Details",
+      "FAQ",
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is Toposili Bandhu?",
+      "answer": "Toposili Bandhu is a monthly pension scheme for individuals aged 60 and above for the Scheduled Caste (SC) community, not receiving any other pension."
+    },
+    {
+      "question": "Who is eligible for Toposili Bandhu Pension?",
+      "answer": "To qualify, applicants must be 60 or older, belong to an SC community, and have a bank account. They cannot receive any other pension."
+    },
+    {
+      "question": "What is the rate and periodicity of the pension?",
+      "answer": "The monthly pension is ₹1000/- per month."
+    },
+    {
+      "question": "Where can a applicant apply for Toposili Bandhu Pension?",
+      "answer": "Submit your application at: 1. BDO - Rural areas 2. SDO - Municipalities 3. Commissioner - Kolkata Municipal Corporation"
+    },
+    {
+      "question": "Is the pension provided in cash?",
+      "answer": "No, the pension amount is transferred directly to the individual's bank account."
+    },
+    {
+      "question": "What documents are required for Toposili Bandhu Pension?",
+      "answer": "Passport-size photo, caste certificate, digital ration card, EPIC, self-attested residential proof, bank passbook copy, and some proof of age are necessary."
+    },
+    {
+      "question": "Can applicant apply online for the pension?",
+      "answer": "Yes, applications can be made online at www.jaibangla.wb.gov.in, in addition to physical applications before the authorities."
+    },
+    {
+      "question": "Are there specific age criteria for application?",
+      "answer": "Applicants must be in the age bracket of 60 and above at the time of application."
+    },
+    {
+      "question": "Can applicant submit a relative's caste certificate for eligibility?",
+      "answer": "Yes, a paternal relative's caste/tribe certificate is acceptable initially, but the applicant must obtain and submit their own later."
+    },
+    {
+      "question": "How often are the applications processed?",
+      "answer": "The processing and disbursal of pensions occur bi-monthly."
+    },
+    {
+      "question": "Is there any assistance provided for completing the application process?",
+      "answer": "Yes, the application forms are available for free, and authorities can guide applicants through the process."
+    },
+    {
+      "question": "Are there any special considerations for individuals in Municipal areas?",
+      "answer": "Yes, applications in Municipalities and notified areas are submitted to SDOs or the Commissioner of Kolkata Municipal Corporation."
+    },
+    {
+      "question": "Can applicant change his/her bank account for pension disbursal?",
+      "answer": "Yes, changes can be made by informing the relevant department to update the bank details."
+    }
+  ]
+}

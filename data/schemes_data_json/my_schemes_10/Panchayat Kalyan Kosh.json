@@ -1,0 +1,87 @@
+{
+  "scheme_name": "Panchayat Kalyan Kosh",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/pkk",
+  "location_name": "Uttar Pradesh",
+  "location_type": "state",
+  "page_title": "Panchayat Kalyan Kosh",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Panchayat Kalyan Kosh\" scheme was introduced by the Panchayati Raj Department, Government of Uttar Pradesh. The scheme aims to provide financial assistance to the families or dependents of Gram Pradhans, Kshetra Panchayat Pramukhs, Zila Panchayat Presidents, and all members of the three-tier Panchayat elected as representatives of the people, in the event of their death while in office (excluding cases of suicide or involvement in criminal acts)."
+    ],
+    "benefits": [
+      "In the event of the death of a Panchayat Representative while in office, the following amounts will be provided to their families or dependents:",
+      "Pradhan of Gram Panchayat, Pramukh of Kshetra Panchayat, and Zila Panchayat President: ₹10,00,000/-",
+      "Member of Zila Panchayat: ₹5,00,000/-",
+      "Member of Kshetra Panchayat: ₹3,00,000/-",
+      "Member of Gram Panchayat: ₹2,00,000/-"
+    ],
+    "eligibility": [
+      "The applicant should be a family member or dependent of a deceased Panchayat Representative.",
+      "Assistance is provided in the event of the death of a Panchayat Representative (Pradhan of Gram Panchayat, Pramukh of Kshetra Panchayat, Zila Panchayat President, or members of Zila Panchayat, Kshetra Panchayat, and Gram Panchayat) while serving in office.",
+      "Assistance will not be provided in cases of suicide or involvement in criminal acts by the Panchayat Representative."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "Family members or dependents of the deceased Panchayat representatives should apply directly through the",
+        "official website",
+        "of the Panchayati Raj Department, Uttar Pradesh.",
+        "Step 2:",
+        "During registration on the Panchayat Kalyan Kosh portal, the dependent must fill out the application form in the prescribed format (",
+        "Appendix-1",
+        ") and upload the necessary documents.",
+        "Step 3:",
+        "The District Panchayat Raj Officer will download the application submitted by the dependent from their login ID and obtain approval from the District Magistrate after a thorough review.",
+        "Step 4:",
+        "Once approved by the District Magistrate, the District Panchayat Raj Officer will forward the application form to the Director of Panchayati Raj from their login ID for fund transfer."
+      ]
+    },
+    "documents_required": [
+      "Applicant's identity proof",
+      "Proof of relationship with the deceased Panchayat representative",
+      "Ration card",
+      "In case of accidental death of the Panchayat representative, provide a copy of the Panchnama, postmortem report, or a certificate issued by a registered medical practitioner",
+      "Death certificate issued by the competent authority in case of natural death",
+      "Certificate issued by the Gram Panchayat Secretary in case of the death of a Gram Pradhan or Gram Panchayat member, by the Block Development Officer in case of the death of an Kshetra Pramukh or Kshetra Panchayat member, and by the Additional Chief Officer for the death of a Zila Panchayat President or Zila Panchayat member",
+      "Bank account details/bank passbook",
+      "Certification record from the office of the elected person",
+      "Any additional documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Application Process Details",
+      "Online Application Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who are eligible for assistance under this scheme?",
+      "answer": "Family members or dependents of Pradhans, Pramukhs, Zila Panchayat Presidents, and members of the three-tier Panchayat are eligible."
+    },
+    {
+      "question": "What financial assistance is provided to families of Panchayat Representatives?",
+      "answer": "1. Pradhan of Gram Panchayat, Pramukh of Kshetra Panchayat, Zila Panchayat President: ₹10,00,000 2. Member of Zila Panchayat: ₹5,00,000 3. Member of Kshetra Panchayat: ₹3,00,000 4. Member of Gram Panchayat: ₹2,00,000"
+    },
+    {
+      "question": "Is assistance provided in case of suicide or criminal involvement?",
+      "answer": "No, assistance is not provided in cases of suicide or if the Panchayat Representative was involved in criminal acts."
+    },
+    {
+      "question": "How can applicants submit their applications?",
+      "answer": "Applications can be submitted directly through the official website of the Panchayati Raj Department, Uttar Pradesh. https://prdfinance.up.gov.in/self_registration_kalyankosh_ben"
+    },
+    {
+      "question": "What is the application process?",
+      "answer": "1. Apply through the Panchayat Kalyan Kosh portal. 2. Fill out the application form and upload necessary documents. 3. The District Panchayat Raj Officer reviews the application. 4. After approval from the District Magistrate, the application is forwarded for fund transfer."
+    },
+    {
+      "question": "Can family members apply if the representative was recently elected?",
+      "answer": "Yes, assistance is available for representatives who die while serving in office, regardless of when they were elected."
+    },
+    {
+      "question": "Will the funds be provided directly to the applicant?",
+      "answer": "Yes, the funds will be transferred to the bank account details provided by the applicant in the application form."
+    }
+  ]
+}

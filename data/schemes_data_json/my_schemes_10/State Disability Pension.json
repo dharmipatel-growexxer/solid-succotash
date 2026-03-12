@@ -1,0 +1,97 @@
+{
+  "scheme_name": "State Disability Pension",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sdp",
+  "location_name": "Mizoram",
+  "location_type": "state",
+  "page_title": "State Disability Pension",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The Social Welfare & Tribal Affairs Department launched the State Disability Pension scheme is funded by the Mizoram government. It provides a monthly pension of ₹350 to 200 eligible individuals who are completely blind or bedridden."
+    ],
+    "benefits": [
+      "Financial assistance of ₹350/- per month for disabled individuals."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Mizoram.",
+      "The applicant must be entirely blind or bedridden due to a disability.",
+      "The applicant should be from the Below Poverty Line (BPL) family."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant writes the application on plain paper.",
+        "Step 2:",
+        "In the application form attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application along with the documents to the District Social Welfare Office",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "UDID/Disability Certificate",
+      "Proof of BPL Status (Family Ration Card)",
+      "Photocopy of Bank Passbook (first page showing account holder's name and account number)"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the State Disability Pension Scheme?",
+      "answer": "Residents of Mizoram who are fully blind or bedridden and fall under the BPL category."
+    },
+    {
+      "question": "What is the monthly pension amount provided?",
+      "answer": "Eligible recipients receive ₹350 per month."
+    },
+    {
+      "question": "How many people can benefit from this scheme?",
+      "answer": "The scheme assists up to 200 qualified individuals."
+    },
+    {
+      "question": "How do I apply for the scheme?",
+      "answer": "Applications can be submitted on plain paper to the local DSWO with the required documents."
+    },
+    {
+      "question": "What documents are needed to apply?",
+      "answer": "UDID/Disability Certificate, passport photo, BPL status proof, and a photocopy of the bank passbook."
+    },
+    {
+      "question": "Can people with partial disabilities apply?",
+      "answer": "No, only those who are fully blind or bedridden are eligible."
+    },
+    {
+      "question": "Is there an age limit for eligibility?",
+      "answer": "The scheme primarily focuses on individuals with disabilities, not age restrictions."
+    },
+    {
+      "question": "What if the district quota is already filled?",
+      "answer": "Applications will be kept on hold and processed as soon as there’s availability within the quota."
+    },
+    {
+      "question": "How is the application verified?",
+      "answer": "The DSWO verifies each applicant’s documents and eligibility status."
+    },
+    {
+      "question": "Is the pension transferred directly to my bank?",
+      "answer": "Yes, funds are typically transferred to the bank account linked to the application."
+    },
+    {
+      "question": "How long does the approval process take?",
+      "answer": "The time varies based on the verification process and district quota availability."
+    },
+    {
+      "question": "What is the grievance redressal process?",
+      "answer": "Issues can be directed to the grievance officer assigned to each district."
+    },
+    {
+      "question": "Can more than one family member receive the pension?",
+      "answer": "The scheme is intended for individual applicants who meet the criteria."
+    }
+  ]
+}

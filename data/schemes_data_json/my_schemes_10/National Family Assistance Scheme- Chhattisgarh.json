@@ -1,0 +1,116 @@
+{
+  "scheme_name": "National Family Assistance Scheme- Chhattisgarh",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nfaschh",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "National Family Assistance Scheme- Chhattisgarh",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"National Family Assistance Scheme\" is implemented by the Social Welfare Department, Government of Chhattisgarh. Under this scheme, financial assistance is provided to the bereaved household in the case of the natural, unnatural, or accidental death of the primary breadwinner of a family living Below the Poverty Line (BPL). This scheme is centrally sponsored."
+    ],
+    "benefits": [
+      "Under this scheme, the eligible family will receive a lump sum amount of ₹20,000/-."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Chhattisgarh.",
+      "The applicant should be a family member of the deceased person.",
+      "The deceased person should have been the primary breadwinner on whom the family primarily depended for income.",
+      "The family should have lost the primary breadwinner due to natural, unnatural, or accidental death.",
+      "The family of the deceased primary breadwinner should be living Below Poverty Line (BPL).",
+      "At the time of death, the deceased primary breadwinner should have been between 18 and 59 years old.",
+      "Note 1:",
+      "The term \"family\" includes the husband, wife, minor children, unmarried daughters, and dependent parents.",
+      "Note 2:",
+      "If there is more than one earning member in the family, assistance will be provided only upon the death of the member whose income contributes the most to the family."
+    ],
+    "application_process": {
+      "offline": [
+        "In Rural Areas:",
+        "Step 1:",
+        "The applicant, who fulfills the eligibility criteria, may visit the office of the Gram Panchayat and collect the",
+        "application form",
+        ", which is available free of cost.",
+        "Step 2:",
+        "Fill out the application form and submit it to the Gram Panchayat. You will receive an acknowledgment receipt from the Gram Panchayat.",
+        "Step 3:",
+        "The Gram Panchayat will review and recommend the application and then forward it to the District Panchayat within 07 days.",
+        "In Urban Areas:",
+        "Eligible applicants should visit the office of the concerned Municipal Corporation, Municipality, Nagar Panchayat, or Panchayat Raj institution to collect the application form, which is available free of cost.",
+        "Fill out the",
+        "and submit it to the respective office (Municipality/Municipal Corporation/Nagar Panchayat). You will receive an acknowledgment receipt from the office.",
+        "Note 1:",
+        "The concerned urban body/District Panchayat has the authority to approve or reject the applications.",
+        "Note 2:",
+        "If a printed application form is not available, you may submit your application on plain paper."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card of the applicant",
+      "Passport-size photograph",
+      "Identity proof",
+      "Domicile certificate of Chhattisgarh",
+      "Death certificate",
+      "Proof of age",
+      "Income certificate",
+      "Below Poverty Line (BPL) Card/related documents",
+      "Address proof",
+      "Bank Passbook/Post Office Account Passbook",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Eligible applicants must be natives of Chhattisgarh, members of the deceased's family, with the deceased being the primary breadwinner, aged between 18 and 59 years at the time of death, and the family must be living Below the Poverty Line (BPL)."
+    },
+    {
+      "question": "What amount of financial assistance is provided under the scheme?",
+      "answer": "The eligible family receives a lump sum of ₹20,000/- as financial assistance."
+    },
+    {
+      "question": "Who qualifies as a \"primary breadwinner\" in the context of this scheme?",
+      "answer": "The primary breadwinner is the family member whose income contributes the most to the family's livelihood."
+    },
+    {
+      "question": "Can a family apply if the deceased was not the only earning member?",
+      "answer": "Yes, but assistance is provided only if the deceased was the primary breadwinner, i.e., the member whose income was the most significant for the family's survival."
+    },
+    {
+      "question": "Does the scheme cover deaths due to natural causes only?",
+      "answer": "No, the scheme covers deaths due to natural, unnatural, or accidental causes."
+    },
+    {
+      "question": "What is the age range of the primary breadwinner to qualify for the scheme?",
+      "answer": "The deceased primary breadwinner should have been between 18 and 59 years old at the time of death."
+    },
+    {
+      "question": "Who is included in the definition of \"family\" for this scheme?",
+      "answer": "\"Family\" includes the deceased's husband or wife, minor children, unmarried daughters, and dependent parents."
+    },
+    {
+      "question": "How can an applicant apply for the scheme in rural areas?",
+      "answer": "Applicants in rural areas should visit the Gram Panchayat to collect, fill out, and submit the application form. The Gram Panchayat will review and forward the application to the District Panchayat within 7 days."
+    },
+    {
+      "question": "How can an applicant apply for the scheme in urban areas?",
+      "answer": "In urban areas, applicants should visit the Municipal Corporation, Municipality, or Nagar Panchayat to collect and submit the application form. The concerned urban body will then process the application."
+    },
+    {
+      "question": "What happens if a printed application form is not available?",
+      "answer": "If a printed form is not available, the applicant may submit their application on plain paper."
+    },
+    {
+      "question": "How long does it take for the Gram Panchayat to process the application in rural areas?",
+      "answer": "The Gram Panchayat must review and forward the application to the District Panchayat within 7 days."
+    },
+    {
+      "question": "Who has the authority to approve or reject applications in urban areas?",
+      "answer": "The concerned urban body, such as the Municipal Corporation or District Panchayat, has the authority to approve or reject applications."
+    }
+  ]
+}

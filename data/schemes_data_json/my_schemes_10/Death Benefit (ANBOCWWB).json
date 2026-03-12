@@ -1,0 +1,115 @@
+{
+  "scheme_name": "Death Benefit (ANBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dbanbocwwb",
+  "location_name": "Andaman and Nicobar Islands",
+  "location_type": "union_territory",
+  "page_title": "Death Benefit (ANBOCWWB)",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Death Benefit” was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB), Department of Labour, Employment & Training, Andaman & Nicobar Administration. Under this scheme, financial assistance shall be provided to the nominees or dependents of workers engaged in Building or Other Construction Works in Andaman & Nicobar Islands in the event of their natural or accidental death."
+    ],
+    "benefits": [
+      "Natural Death:",
+      "₹1,00,000/- shall be sanctioned to the nominee or dependent of a registered beneficiary.",
+      "Accidental Death (During Employment):",
+      "₹2,00,000/- may be given to the nominee or dependent of the beneficiary.",
+      "Accidental Death (Non-registered Construction Workers):",
+      "₹50,000/- may be provided, subject to a certificate from the concerned Tehsildar confirming the deceased was a construction worker."
+    ],
+    "eligibility": [
+      "The applicant should be a legal nominee or dependent of the deceased worker.",
+      "The deceased worker should have been a resident of the Union Territory of Andaman & Nicobar Islands.",
+      "The deceased worker should have been engaged in any building or other construction work.",
+      "The financial assistance shall be given to the nominees or dependents of deceased registered workers in the event of their natural or accidental death.",
+      "The financial assistance shall be given to the nominees or dependents of non-registered construction workers in case of accidental death only."
+    ],
+    "application_process": {
+      "offline": [
+        "Portal Registration Process:",
+        "Step 01:",
+        "Visit online Portal:",
+        "https://serviceonline.gov.in/login.do",
+        "Step 02:",
+        "On the home page, click on ‘",
+        "Register",
+        "’ and fill in all the mandatory details.",
+        "Step 03:",
+        "Click on the ‘Submit’ button and validate your Email ID & Mobile Number using OTP received.",
+        "Step 04:",
+        "After successful validation, the applicant will be registered.",
+        "Application Process for Death Financial Assistance:",
+        "Now, to avail the benefits of the scheme, the applicants can",
+        "login",
+        "through their email ID that is used while registering",
+        "Enter Password & Captcha",
+        "Click on ‘Login’",
+        "After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’",
+        "Step 05:",
+        "Now, search for ‘Death Financial Assistance’ and click on the scheme to proceed to fill out the application form.",
+        "Step 06:",
+        "Fill in all the mandatory details and upload all the mandatory documents.",
+        "Step 07:",
+        "Preview the application form and click on ‘Submit’.",
+        "Application Tracking:",
+        "To track the application status, the applicant can visit the",
+        "O",
+        "nline Portal",
+        "and login through their ‘User ID’ & ‘Password’.",
+        "On the home page, click on “View Application Status’ and then click on ‘Track Application Status’.",
+        "Enter the Application Reference Number and click on ‘Get Data’ to know the status of your application."
+      ]
+    },
+    "documents_required": [
+      "Copy of the death certificate.",
+      "Copy of the nomination/legal heir certificate.",
+      "Registration ID Card or Identity proof of deceased worker.",
+      "A certificate from the Tehsildar stating that the deceased was a construction worker, in case of accidental death of a non-registered construction worker.",
+      "Identity proof of nominee or dependent i.e. Aadhaar Card.",
+      "Latest Subscription Receipt.",
+      "Caste certificate, if any.",
+      "Address proof.",
+      "Bank Details of Nominee .",
+      "Any other document as required."
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Application Portal",
+      "Application Form For Death Benefit"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the benefits offered under this scheme?",
+      "answer": "1. ₹1,00,000/- is provided to nominees or dependents in case of natural death. 2. ₹2,00,000/- is given if the death is due to an accident during employment. 3. Non-registered construction workers' nominees can receive ₹50,000/- for accidental death upon producing a certificate from the Tehsildar."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Legal nominees or dependents of deceased workers are eligible to apply under the scheme."
+    },
+    {
+      "question": "What is the coverage area for this scheme?",
+      "answer": "The scheme covers workers residing in the Union Territory of Andaman & Nicobar Islands."
+    },
+    {
+      "question": "Are there any specific conditions regarding the type of work the deceased was engaged in?",
+      "answer": "Yes, the deceased worker must have been involved in building or other construction work to be eligible for the scheme."
+    },
+    {
+      "question": "Is financial assistance provided only in the event of natural death?",
+      "answer": "No, financial assistance is also extended in the case of accidental death during employment."
+    },
+    {
+      "question": "Is registration with the ANBOCWWB mandatory to avail of this scheme?",
+      "answer": "Registration is not mandatory for receiving financial assistance in case of accidental death. However, it is required for natural death benefits."
+    },
+    {
+      "question": "What happens if the deceased worker was not registered with ANBOCWWB?",
+      "answer": "Non-registered workers' nominees are eligible for financial assistance only in case of accidental death, subject to certain conditions."
+    },
+    {
+      "question": "How does one apply for the Death Benefit scheme?",
+      "answer": "The eligible applicant can visit and apply through online Portal : https://serviceonline.gov.in/login.do"
+    }
+  ]
+}

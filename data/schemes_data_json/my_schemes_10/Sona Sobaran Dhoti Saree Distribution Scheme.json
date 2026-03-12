@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Sona Sobaran Dhoti Saree Distribution Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ssdsds",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Sona Sobaran Dhoti Saree Distribution Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Sona Sobaran Dhoti Saree Distribution Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide essential clothing to eligible households. Through this scheme, one dhoti/lungi and one saree are offered at a subsidized rate to families covered under the National Food Security Act (NFSA), 2013, and the Jharkhand State Food Security Scheme (JSFSS)."
+    ],
+    "benefits": [
+      "One dhoti or lungi and one saree are provided to eligible families.",
+      "Items are distributed at subsidized rates to ensure affordability.",
+      "Benefits are provided annually to NFSA and JSFSS beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Jharkhand.",
+      "The applicant should have a valid Antyodaya Anna Yojana (AAY) or Priority Household (PHH) card under NFSA, 2013.",
+      "Green Card holders under the Jharkhand State Food Security Scheme (JSFSS) are eligible.",
+      "The applicant must possess or apply for an Aadhaar number."
+    ],
+    "application_process": {
+      "offline": [
+        "Visit the nearest distribution center or designated enrollment center with the required documents.",
+        "If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center.",
+        "Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration.",
+        "Verify the eligibility and documents with the designated officer.",
+        "Collect the clothes from the distribution center as per the schedule."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card or Aadhaar Enrolment Identification Slip.",
+      "Bank/Post Office Passbook with Photo.",
+      "Permanent Account Number (PAN) Card.",
+      "Passport.",
+      "Ration Card.",
+      "Voter Identity Card.",
+      "MGNREGA Card.",
+      "Kisan Photo Passbook.",
+      "Driving License.",
+      "Certificate of Identity issued by a Gazetted Officer or Tehsildar."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Families holding AAY or PHH cards under NFSA, or Green Cards under JSFSS, are eligible to apply."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Applicant need an Aadhaar card or enrolment slip and other identity proof such as a PAN card, Voter ID, or Ration Card."
+    },
+    {
+      "question": "How is Aadhaar used in this scheme?",
+      "answer": "Aadhaar is used for authentication to ensure transparency and efficient delivery of benefits."
+    },
+    {
+      "question": "What if I don’t have an Aadhaar number?",
+      "answer": "Applicant must enroll for Aadhaar before registering for the scheme. In the interim, benefits can be availed by providing an Aadhaar enrolment slip and alternative documents."
+    },
+    {
+      "question": "Where can I enroll for Aadhaar if I don’t have it?",
+      "answer": "Visit any UIDAI-authorized Aadhaar enrolment center or locations arranged by the department."
+    },
+    {
+      "question": "Can I apply if my Aadhaar authentication is unsuccessful due to biometric issues?",
+      "answer": "Yes, iris scan or face authentication options will be provided for seamless benefit delivery."
+    },
+    {
+      "question": "Are benefits limited to specific districts of Jharkhand?",
+      "answer": "No, the scheme is applicable across the entire state for eligible beneficiaries."
+    },
+    {
+      "question": "When are the benefits distributed?",
+      "answer": "Benefits are distributed annually at designated centers across Jharkhand."
+    },
+    {
+      "question": "Is there any fee for enrolling in Aadhaar or accessing the benefits?",
+      "answer": "No, Aadhaar enrolment is free of cost, and the scheme benefits are provided at subsidized rates."
+    },
+    {
+      "question": "Where can I find more details about the scheme?",
+      "answer": "Visit the official website of the Department of Food, Public Distribution and Consumer Affairs or UIDAI for further information."
+    }
+  ]
+}

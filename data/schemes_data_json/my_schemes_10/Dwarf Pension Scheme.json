@@ -1,0 +1,86 @@
+{
+  "scheme_name": "Dwarf Pension Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/udps",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Dwarf Pension Scheme",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Dwarf Pension Scheme\" has been launched by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to provide financial support to individuals suffering from dwarfism to help them meet their basic needs and improve their quality of life. Under this scheme, a monthly pension is provided to persons above 21 years of age whose height is less than 4 feet."
+    ],
+    "benefits": [
+      "A pension of ₹1,200/- per month is provided to eligible beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be above 21 years of age.",
+      "The applicant’s height must be less than 4 feet.",
+      "There is no income limit for eligibility under the scheme."
+    ],
+    "application_process": {
+      "online": [
+        "The applicant can apply online either by themselves or through a Common Service Center (CSC) via the Department’s Pension Portal (",
+        "https://ssp.uk.gov.in",
+        "), the",
+        "UMANG",
+        "Mobile App, or the Apuni Sarkar Portal (",
+        "https://eservices.uk.gov.in",
+        ").",
+        "The following documents are mandatory at the time of applying:",
+        "Applicant’s mobile number, Passport-size photograph (attested by Gram Pradhan / V.P.D.O. / certified by Councillor), Photocopy of Aadhaar card and Voter ID card, CBS bank account details (linked/seeded with Aadhaar), Copy of family register (for rural areas only), Copy of the resolution passed in the open meeting of Gram Panchayat (for rural areas) / certified by Councillor (for urban areas)",
+        "In the case of dwarfism, a disability certificate and income certificate are not required. The Assistant Social Welfare Officer measures the height of the dwarf person.",
+        "All the above documents must be issued from the district where the application is being submitted.",
+        "For verification of the online application form in rural areas, the final decision is taken by the District Social Welfare Officer after recommendations from the Gram Panchayat Development Officer, Assistant Social Welfare Officer, and Block Development Officer, respectively. In urban areas, verification and recommendation are done by the Assistant Social Welfare Officer and Sub-District Magistrate. If the application is found correct, the District Social Welfare Officer approves it, after which the pension payment process is initiated.",
+        "The pension is credited to the applicant’s bank account one month after the approval of the application."
+      ]
+    },
+    "documents_required": [
+      "Applicant’s mobile number",
+      "Passport-size photograph (certified by Gram Pradhan / V.P.D.O. / Councillor)",
+      "Aadhaar card",
+      "Voter ID card",
+      "CBS bank account linked/seeded with Aadhaar card",
+      "Copy of family register (only for rural areas)",
+      "Note 1:",
+      "All the above documents must be issued from the district where the application is submitted.",
+      "Note 2:",
+      "The Assistant Social Welfare Officer measures the height of the dwarf person."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 17)",
+      "Online Application Portal",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much pension is provided under the scheme?",
+      "answer": "Eligible beneficiaries receive a monthly pension of ₹1200/-."
+    },
+    {
+      "question": "What is the minimum age requirement to apply for the scheme?",
+      "answer": "The applicant must be at least 21 years old."
+    },
+    {
+      "question": "Is there any height criteria for eligibility?",
+      "answer": "Yes. The applicant’s height must be less than 4 feet."
+    },
+    {
+      "question": "Is there any income limit to avail the benefits of the scheme?",
+      "answer": "No. There is no income limit under this scheme."
+    },
+    {
+      "question": "Do I need a disability certificate to apply?",
+      "answer": "No. A disability certificate is not required."
+    },
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Any permanent resident of Uttarakhand who meets the age and height criteria can apply."
+    },
+    {
+      "question": "How can I apply online?",
+      "answer": "Applicant can apply through: Department’s Pension Portal UMANG Mobile App Apuni Sarkar Portal Department’s Pension Portal UMANG Mobile App Apuni Sarkar Portal"
+    }
+  ]
+}

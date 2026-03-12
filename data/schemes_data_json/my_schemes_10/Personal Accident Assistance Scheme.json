@@ -1,0 +1,76 @@
+{
+  "scheme_name": "Personal Accident Assistance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/paas",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Personal Accident Assistance Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Personal Accident Assistance Scheme” is implemented by the Uttarakhand Agricultural Production & Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide financial support and compensation to farmers, agricultural laborers, and Mandi laborers in Uttarakhand who suffer injury or death due to accidents while engaged in agricultural work or operating agricultural equipment."
+    ],
+    "benefits": [
+      "Under the Mandi Act of Uttarakhand, farmers, agricultural labourers, and Mandi labourers working in Mandi areas regulated by the state, who are engaged in agricultural activities or the operation of agricultural equipment such as power equipment, digging or deepening wells and ponds for irrigation, using tractors for threshing or transporting produce, or performing other fieldwork are covered under the scheme operated by the Mandi Marketing Board through Mandi Committees. In case of physical injury or death resulting from an accident, the scheme provides them with compensation."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be at least 18 years of age to be eligible to claim compensation."
+    ],
+    "application_process": {
+      "offline": [
+        "For the above-mentioned accident, the affected farmer/laborer must report it to the local market committee or district officer as soon as possible, and in any case, within 45 days. Upon receiving the accident report, an investigation will be conducted by the individual or a market committee employee within a maximum of 15 days.",
+        "In the event of the death of the victim, in addition to their legal representative or heir, the claim form must be signed by two close relatives as witnesses for verification. If the claim application is verified by the village head or two members of the Panchayat, all entries, signatures, thumb impressions, or severed handprints must be certified or verified by the secretary, chairman, or administrator of the concerned market committee.",
+        "In the case of accidental death, a death certificate, postmortem report, or panchnama prepared by a doctor at the primary health center or district hospital must be submitted. In special circumstances, a panchnama for cremation must also be provided.",
+        "In the case of an accident, it is mandatory to attach a medical certificate, two color photographs (postcard size) of the severed or damaged body parts, and a certificate attested by two close relatives.",
+        "The claim form must be completely filled out. The market committee must also confirm the accident and attach a comprehensive investigation report.",
+        "The claim form must be completed and signed by the applicant, including the left or right thumb impression. If the left thumb is missing, the right thumb impression may be used. If both thumbs are missing, the fingerprint of the working hand may be used. If both hands are missing, the fingerprint of the front of the missing hand must be used. This applies to both men and women.",
+        "After scrutiny by the Secretary of the Market Committee, the entire claim form, along with their recommendation, will be sent to the Chairman or Administrator for approval and sanction of payment. As mentioned at the end of the claim form, before accepting the claim, the Chairman/Administrator will have it scrutinized by Revenue Department officials. The claim will be approved within one month wherever possible; however, in special circumstances, the Chairman/Administrator may extend this period. After approval, the Chairman/Administrator will send the claim form to the Managing Director of the Uttarakhand Agricultural Produce Marketing Board for payment. The Mandi Board will then prepare a draft of the claim amount in the name of the claimant and send it to the concerned Mandi Secretary for disbursement."
+      ]
+    },
+    "documents_required": [
+      "Accident Report",
+      "Claim Form – Fully completed and signed by the applicant, including thumb/fingerprint impression as applicable",
+      "Certification by Authorities – If verified by village head or Panchayat members, all entries/signatures/thumb impressions must be certified by the Secretary/Chairman/Administrator of the concerned market committee",
+      "Death Certificate (In the event of accidental death)",
+      "Postmortem Report/Panchnama – Prepared by a doctor at the primary health center or district hospital",
+      "Panchnama for Cremation, if applicable",
+      "Medical Certificate (For injury or accident claims)",
+      "Two color photographs (postcard size)",
+      "Investigation Report – Prepared and attached by the Market Committee confirming the accident",
+      "Other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (refer Page No. 169)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Residents of Uttarakhand engaged in agricultural work or operating agricultural equipment in Mandi areas are eligible. The minimum age for claiming assistance is 18 years."
+    },
+    {
+      "question": "What types of accidents are covered under the scheme?",
+      "answer": "Accidents occurring during agricultural work, operation of agricultural machinery, digging or deepening wells and ponds, using tractors for threshing or transporting produce, or while working in the field are covered."
+    },
+    {
+      "question": "How soon must an accident be reported?",
+      "answer": "The affected farmer/laborer must report the accident to the local market committee or district officer as soon as possible, and within 45 days of the incident."
+    },
+    {
+      "question": "Who conducts the investigation after an accident report is submitted?",
+      "answer": "An investigation is conducted by the individual submitting the report or a designated market committee employee within 15 days of receiving the report."
+    },
+    {
+      "question": "How should the claim form be filled?",
+      "answer": "The claim form must be completely filled out, signed by the applicant, and include the left or right thumb impression. If thumbs are missing, other fingerprints as specified may be used."
+    },
+    {
+      "question": "Who approves and sanctions the claim?",
+      "answer": "After scrutiny by the Secretary, the claim form along with recommendations is sent to the Chairman/Administrator for approval. The claim is also reviewed by Revenue Department officials before approval."
+    },
+    {
+      "question": "How is the payment processed after approval?",
+      "answer": "Once approved, the claim form is sent to the Managing Director of the Uttarakhand Agricultural Produce Marketing Board. The Mandi Board prepares a draft of the claim amount in the claimant’s name and sends it to the concerned Mandi Secretary for payment."
+    }
+  ]
+}

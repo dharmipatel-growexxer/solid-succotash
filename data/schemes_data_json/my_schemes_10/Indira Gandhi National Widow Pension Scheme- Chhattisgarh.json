@@ -1,0 +1,112 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme- Chhattisgarh",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ignwpschh",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "Indira Gandhi National Widow Pension Scheme- Chhattisgarh",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Indira Gandhi National Widow Pension Scheme\" is implemented by the Social Welfare Department, Government of Chhattisgarh. Under this scheme, financial assistance is provided to widows aged 40 to 79 years who are living Below the Poverty Line (BPL) to support them in living a respectful life. This scheme is centrally sponsored."
+    ],
+    "benefits": [
+      "Under this scheme, eligible beneficiaries will receive a monthly pension of ₹500/-, (Central contribution- ₹300/-, State Contribution- ₹200/-)."
+    ],
+    "eligibility": [
+      "1. The applicant should be a native of Chhattisgarh.",
+      "2. The applicant should be a widow.",
+      "3. The widow’s age should be between 40 and 79 years.",
+      "4. The widow's name should be included in the list of families living Below Poverty Line.",
+      "5. The widow should not be receiving pension benefits from any other Central or State Government pension scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Registration Process:",
+        "Step 1:",
+        "Go to the",
+        "eDistrict Chhattisgarh Portal",
+        ".",
+        "Step 2:",
+        "Click on \"",
+        "Citizen Login",
+        "\".",
+        "Step 3:",
+        "If you are a new user, select \"",
+        "New Registration",
+        "Step 4:",
+        "Enter your registration details and click \"Submit\".",
+        "Step 5:",
+        "Your Registration Summary will be displayed, and you will receive your password on your registered mobile number.",
+        "Application Process:",
+        "Click on ‘Login’ or \"",
+        "Enter your username and password, and then click ‘Login’.",
+        "After logging in, click on \"My Service\" and search for the scheme to apply for.",
+        "Click on ‘Apply Online’ and fill in all required details, upload necessary documents, and click ‘Submit.’"
+      ]
+    },
+    "documents_required": [
+      "Aadhaar card of the applicant",
+      "Passport-size photograph",
+      "Identity proof",
+      "Domicile certificate of Chhattisgarh (Issued by a Gazetted Officer, Sarpanch or Councillor)",
+      "Death certificate of husband",
+      "Proof of age (Doctor's certificate, Birth Certificate, Certificate issued by an Administrator, Sarpanch, or Mayor, school certificate, etc.)",
+      "Below Poverty Line (BPL) Card/related documents",
+      "Address proof",
+      "Bank Passbook/Post Office Account Passbook",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Guidelines",
+      "Notification",
+      "Online Application Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the benefits of this scheme?",
+      "answer": "Eligible beneficiaries receive a monthly pension of ₹500/-."
+    },
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Applicants must be widows aged between 40 and 79 years, natives of Chhattisgarh, living Below the Poverty Line, and not receiving any other Central or State Government pension benefits."
+    },
+    {
+      "question": "Can widows over the age of 79 apply for this scheme?",
+      "answer": "No, the scheme is only available to widows aged between 40 and 79 years."
+    },
+    {
+      "question": "Where can I obtain the application form in rural areas?",
+      "answer": "In rural areas, the application form can be collected from the office of the Gram Panchayat, free of cost."
+    },
+    {
+      "question": "How do I submit my application in rural areas?",
+      "answer": "Fill out the application form and submit it to the Gram Panchayat. An acknowledgment receipt will be provided. The Gram Panchayat will then review and forward the application to the District Panchayat within 07 days."
+    },
+    {
+      "question": "Where can I obtain the application form in urban areas?",
+      "answer": "In urban areas, the application form can be collected from the office of the concerned Municipal Corporation, Municipality, Nagar Panchayat, or Panchayat Raj institution, free of cost."
+    },
+    {
+      "question": "How do I submit my application in urban areas?",
+      "answer": "Fill out the application form and submit it to the respective office (Municipality/Municipal Corporation/Nagar Panchayat). You will receive an acknowledgment receipt from the office."
+    },
+    {
+      "question": "Can I submit my application on plain paper if the printed form is not available?",
+      "answer": "Yes, you may submit your application on plain paper if a printed form is not available."
+    },
+    {
+      "question": "How can I apply online for the scheme?",
+      "answer": "Eligible applicants can apply online through the eDistrict Chhattisgarh Portal: https://edistrict.cgstate.gov.in/PACE/login.do#login"
+    },
+    {
+      "question": "Can I apply for this scheme if I am receiving other government pensions?",
+      "answer": "No, you must not be receiving pension benefits from any other Central or State Government pension scheme to be eligible."
+    },
+    {
+      "question": "How often is the pension disbursed?",
+      "answer": "The pension is disbursed monthly."
+    }
+  ]
+}

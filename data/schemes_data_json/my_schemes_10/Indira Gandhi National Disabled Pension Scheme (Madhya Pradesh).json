@@ -1,0 +1,103 @@
+{
+  "scheme_name": "Indira Gandhi National Disabled Pension Scheme (Madhya Pradesh)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ngndpsmp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Indira Gandhi National Disabled Pension Scheme (Madhya Pradesh)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched on 1st April 2009, the scheme \"Indira Gandhi National Disabled Pension Scheme\" is a welfare scheme by the Department of Social Justice and Empowerment of Persons with Disabilities, Government of Madhya Pradesh. The scheme aims to provide financial assistance to disabled individuals living below the poverty line, with pension amounts funded by the Government of India through the National Social Assistance Program (NSAP)."
+    ],
+    "benefits": [
+      "The beneficiary will receive a monthly pension of ₹600/-."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Madhya Pradesh.",
+      "The applicant should be a person with disability.",
+      "The applicant should have a disability of 80% or more.",
+      "The applicant’s age should be between 18 and 79 years.",
+      "The applicant should belong to a Below Poverty Line (BPL) family.",
+      "The applicant should not be receiving pension benefits under any other social security scheme."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant should visit the Gram Panchayat or Public Service Center during office hours and request a hard copy of the",
+        "prescribed application form",
+        "from the concerned authority.",
+        "Step 2:",
+        "Fill in all the mandatory fields in the application form. Paste a passport-sized photograph (signed across, if required), and attach copies of all necessary documents (self-attested, if required).",
+        "Step 3:",
+        "After applying, the applicant will receive an acknowledgement receipt from the office, confirming that the application has been received.",
+        "Step 4:",
+        "The submitted documents will be verified by the District Panchayat/ Gram Panchayat/ Urban Body or Ward Office depending on to whom the application was submitted.",
+        "Step 5:",
+        "Upon submission of the completed application form and the necessary documents, make sure to take a photocopy of the filled application form and the acknowledgement receipt for your future reference.",
+        "Post Application Processes",
+        "Once the documents are verified and found to be correct, the application will be approved, and the applicant’s name will be added to the pension proposal for that month.",
+        "NOTE:",
+        "If any discrepancies or missing information are found, the application will be rejected. In such cases, the applicant will receive a written notice specifying the reason for rejection, and the rejection will be duly recorded in the system."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Passport-size Photograph",
+      "Identity Proof i.e. Voter ID Card or Driving License",
+      "Disability Certificate",
+      "Proof of Age",
+      "Below Poverty Line (BPL) Card/ Ration Card",
+      "Caste Certificate (if applicable)",
+      "Address Proof",
+      "Bank Passbook/Bank Account Details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Indira Gandhi National Disabled Pension Scheme?",
+      "answer": "It is a financial assistance scheme aimed at providing monthly pension support to disabled individuals living below the poverty line in India."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Disabled individuals who are living below the poverty line and meet the prescribed criteria are eligible for the pension under this scheme."
+    },
+    {
+      "question": "How much pension will a beneficiary receive?",
+      "answer": "Each eligible beneficiary will receive ₹600 per month, with ₹300 contributed by the central government and ₹300 by the state government."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Applicants can submit the completed application form, along with required documents, to the designated officer, Gram Panchayat, or Public Service Center."
+    },
+    {
+      "question": "What documents are required for application?",
+      "answer": "Documents such as proof of identity, disability certificate, and proof of residence are required for the application."
+    },
+    {
+      "question": "How will I know if my application is accepted?",
+      "answer": "After submission, you will receive an acknowledgement receipt from the office, confirming the application is under review."
+    },
+    {
+      "question": "What happens after I submit my application?",
+      "answer": "Your documents will be verified by the District Panchayat, Gram Panchayat, or Urban Body. If everything is in order, your pension case will be approved."
+    },
+    {
+      "question": "What if my application is rejected?",
+      "answer": "If the documents are found to be incorrect, your application will be rejected, and you will be informed in writing along with the reason for rejection."
+    },
+    {
+      "question": "How will the pension be paid?",
+      "answer": "Once approved, the pension will be directly credited to the beneficiary’s bank savings account every month."
+    },
+    {
+      "question": "Out of the total amount of the pension, how much is provided by the central government and by the state government?",
+      "answer": "The pension amount is equally shared between the central and state government, with ₹300 contributed by the central government and ₹300 by the state government."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "scheme_name": "Natural Death Benefit Scheme (PBAOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ndbs-pbaocwwb",
+  "location_name": "Puducherry",
+  "location_type": "union_territory",
+  "page_title": "Natural Death Benefit Scheme (PBAOCWWB)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Natural Death Benefit Scheme\" is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, financial assistance of ₹70,000/- is extended to the nominees/dependents of the deceased Construction Worker, apart from the ₹70,000/- extended through the Life Insurance Corporation (LIC). The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee/dependent. The applications are accepted offline."
+    ],
+    "benefits": [
+      "Financial Assistance: ₹70,000/-.",
+      "Time of Disbursal: Within 1 month of the application.",
+      "Mode of Disbursal: Direct Benefit Transfer (DBT) into the bank account."
+    ],
+    "eligibility": [
+      "The applicant should be the nominee/dependent of the deceased Construction Worker.",
+      "The Construction Worker should have been a citizen of India.",
+      "The deceased, in his/her lifetime, should have been registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+      "The deceased, in his/her lifetime, should have completed the age of 18 years.",
+      "The deceased, in his/her lifetime, should not have completed the age of 60 years during the preceding 12 months in the construction work.",
+      "The deceased, in his/her lifetime, should have contributed regularly to the fund.",
+      "The deceased, in his/her lifetime, should not have defaulted in payment of contribution to the Board for a continuous period of more than one year."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The nominee of the deceased should visit the Office of the Puducherry Building and Other Construction Workers Welfare Board (Industrial Estate, Thattanchavady, Puducherry - 605 009) and obtain the prescribed format of the application form free of cost from the concerned authority exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The nominee of the deceased should take print of the prescribed format of the application form provided in the section \"Application for Welfare Benefits\" on",
+        "Page No. 69",
+        "of the Citizen's Charter.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "The nominee of the deceased should submit the duly filled and signed application form and the documents to the concerned authority.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application form has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "The application should be submitted within two months from the date of death of the Construction Worker."
+      ]
+    },
+    "documents_required": [
+      "Beneficiary Identity Card.",
+      "Last Subscription Renewal Copy.",
+      "Death Certificate.",
+      "Proof of Relationship of the Nominee for the Deceased.",
+      "Ration Card.",
+      "Bank Details.",
+      "Aadhaar Card."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 69)",
+      "Application Form (Page No. 87)",
+      "Grievance Redressal (Page No. 131)",
+      "Registration Process & Documents Required (Page No. 57)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What financial assistance does the scheme provide?",
+      "answer": "The scheme offers a financial assistance of ₹70,000, in addition to another ₹70,000 extended through the Life Insurance Corporation (LIC), to the nominees or dependents of the deceased Construction Worker."
+    },
+    {
+      "question": "What is the time frame for disbursal of the financial assistance?",
+      "answer": "The financial assistance of ₹70,000 is disbursed within one month of the application."
+    },
+    {
+      "question": "How is the financial assistance disbursed to the beneficiaries?",
+      "answer": "The financial assistance is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee or dependent."
+    },
+    {
+      "question": "What specific role does the Last Subscription Renewal Copy play in the application process for the Natural Death Benefit Scheme?",
+      "answer": "The Last Subscription Renewal Copy serves as a crucial document, showcasing the deceased worker's consistent contributions to the fund."
+    },
+    {
+      "question": "Can the financial assistance under the scheme be availed by anyone other than the nominee or dependent of the deceased Construction Worker?",
+      "answer": "No, the financial assistance is exclusively available to the nominee or dependent of the deceased Construction Worker, ensuring that the intended beneficiaries receive the support."
+    },
+    {
+      "question": "Can the scheme be applied for online, or is it strictly an offline application process?",
+      "answer": "The scheme accepts applications only offline. Applicants need to submit the required documents physically to the designated authorities."
+    },
+    {
+      "question": "How does the scheme handle the Proof of Relationship requirement for the nominee of the deceased beneficiary?",
+      "answer": "The scheme necessitates providing a valid Proof of Relationship for the nominee, ensuring that the familial connection is established to prevent misuse."
+    },
+    {
+      "question": "What channels of communication are available for applicants who have queries or require assistance during the application process?",
+      "answer": "Applicants can reach out to the Puducherry Building and Other Construction Workers Welfare Board for assistance or clarification."
+    },
+    {
+      "question": "Are self-attestation of documents required during the application process?",
+      "answer": "Yes, the self-attestation of the mandatory documents is required if it is specified in the scheme guidelines."
+    },
+    {
+      "question": "Do I need to pay a fee to apply to this scheme?",
+      "answer": "No, applicants can rest assured that the entire application process is entirely free of cost. There are no fees associated with applying for this scheme."
+    },
+    {
+      "question": "Is There Any Compensation For The Delay In The Disbursal Of The Scheme Benefits?",
+      "answer": "The guidelines do not mention any provision for compensation in the event of delayed disbursement of scheme benefits. Applicants should note that compensation for delays is not part of the scheme's framework."
+    }
+  ]
+}

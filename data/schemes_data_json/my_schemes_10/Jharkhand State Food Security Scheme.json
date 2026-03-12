@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Jharkhand State Food Security Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/jsfss",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Jharkhand State Food Security Scheme",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Jharkhand State Food Security Scheme (JSFSS)\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide subsidized/free food grains to eligible beneficiaries. Through this scheme, food grain, primarily rice, is provided at a subsidized rate or free of cost to individuals holding a Green Card. The scheme is implemented by the Directorate of Food and Consumer Affairs, Ranchi."
+    ],
+    "benefits": [
+      "Subsidized/free rice is provided to Green Card holders beneficiaries under JSFSS.",
+      "Benefits are delivered directly through the Directorate of Food and Consumer Affairs.",
+      "NOTE",
+      ":",
+      "Priority is given to individuals from economically weaker sections."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Jharkhand.",
+      "The applicant must possess a Green Card issued under JSFSS."
+    ],
+    "application_process": {
+      "offline": [
+        "Visit the nearest ration shop or designated enrollment center with the required documents.",
+        "If an Aadhaar is not available, apply for Aadhaar enrollment at an authorized center.",
+        "Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration.",
+        "Verify the eligibility and documents with the designated officer.",
+        "Collect the food grains from the distribution center as per the monthly schedule."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card or Aadhaar Enrolment Identification Slip.",
+      "Bank or Post Office Passbook with Photo.",
+      "Permanent Account Number (PAN) Card.",
+      "Passport (if available).",
+      "Ration Card.",
+      "Voter Identity Card.",
+      "MGNREGA Card.",
+      "Kisan Photo Passbook.",
+      "Driving License issued under the Motor Vehicles Act, 1988.",
+      "Certificate of Identity with a photo issued by a Gazetted Officer or Tehsildar on official letterhead."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "Households with Antyodaya Anna Yojana (AAY) cards, Priority Household (PHH) cards under NFSA, and Green Cards under JSFSS are eligible."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Aadhaar Card, Ration Card, and other valid identity documents like Voter ID or PAN Card are needed."
+    },
+    {
+      "question": "Can I apply if I don’t have an Aadhaar Card?",
+      "answer": "Yes, you can apply using an Aadhaar Enrollment Identification Slip along with other valid documents."
+    },
+    {
+      "question": "Where can I collect the food grains?",
+      "answer": "Food grains can be collected from the designated Public Distribution System (PDS) ration shops."
+    },
+    {
+      "question": "What is the frequency of benefit distribution?",
+      "answer": "Benefits under this scheme are distributed on a monthly basis."
+    },
+    {
+      "question": "What should I do if Aadhaar authentication fails?",
+      "answer": "Alternative mechanisms like iris scan, face authentication, or OTP-based verification will be used for authentication."
+    },
+    {
+      "question": "Is there a fee for Aadhaar enrollment?",
+      "answer": "No, Aadhaar enrollment is free of cost."
+    },
+    {
+      "question": "What happens if I miss collecting food grains on the designated date?",
+      "answer": "The applicant should contact your local ration shop or the designated authority for assistance with missed collections."
+    },
+    {
+      "question": "Are the food grains provided free of cost?",
+      "answer": "Food grains are provided at highly subsidized rates under this scheme."
+    },
+    {
+      "question": "Can I avail benefits if I move to another state?",
+      "answer": "No, the scheme is applicable only within the state of Jharkhand."
+    }
+  ]
+}

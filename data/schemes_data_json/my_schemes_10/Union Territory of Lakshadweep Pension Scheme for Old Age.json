@@ -1,0 +1,108 @@
+{
+  "scheme_name": "Union Territory of Lakshadweep Pension Scheme for Old Age",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/oaspsl",
+  "location_name": "Lakshadweep",
+  "location_type": "union_territory",
+  "page_title": "Union Territory of Lakshadweep Pension Scheme for Old Age",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Union Territory of Lakshadweep Pension Scheme for Old Age\" was introduced by the Social Welfare & Tribal Affairs Department, Union Territory of Lakshadweep, aims to provide monthly financial assistance to senior citizens in the UT. The scheme covers persons above 60 years of age who do not have any source of income. The District Panchayat and Village (Dweep) Panchayats (VDPs) of the Union Territory of Lakshadweep implement the scheme to ensure smooth processing and disbursement. The pension amount is directly transferred to the beneficiary’s bank account."
+    ],
+    "benefits": [
+      "Eligible beneficiaries receive a pension of ₹1,500/- per month (₹18,000/- per annum).",
+      "Mode of Disbursement:",
+      "The pension amount is disbursed directly to the beneficiary’s bank account.",
+      "Frequency of Disbursement",
+      "The pension amount is disbursed on a monthly basis."
+    ],
+    "eligibility": [
+      "The applicant should be a permanent resident of the Union Territory of Lakshadweep.",
+      "The applicant should be above 60 years of age.",
+      "The applicant’s monthly income should not exceed ₹1,500/- (₹18,000 per annum).",
+      "The applicant should not have any source of income.",
+      "The applicant should not be a beneficiary of any other similar pension scheme provided by the government.",
+      "Note:",
+      "Priority is given to applicants who do not have financial support from family members."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "Step 1:",
+        "The eligible applicants may collect the application form from the nearest Village (Dweep) Panchayat office.",
+        "Step 2:",
+        "Carefully fill out the application form and attach all supporting documents.",
+        "Step 3:",
+        "Submit the completed application form along with the required documents to the Executive Officer at the Village (Dweep) Panchayat office.",
+        "Post-Application Process:",
+        "The application is verified by the members of the Evaluation Committee of the respective Village (Dweep) Panchayat.",
+        "After successful verification, the application is forwarded to the Chief Executive Officer, District Panchayat (HQ), Kavaratti, for further processing.",
+        "The forwarded application undergoes re-verification by District Panchayat officials.",
+        "Step 4:",
+        "Upon successful re-verification at the District Panchayat level, the list of eligible pensioners is prepared through the Public Financial Management System (PFMS) and submitted to the Social Welfare & Tribal Affairs Department for payment processing.",
+        "Step 5:",
+        "Payments are made through the Direct Benefit Transfer (DBT) mode, money is paid through Aadhaar-linked bank accounts."
+      ]
+    },
+    "documents_required": [
+      "Identity proof",
+      "Proof of Age",
+      "Proof of Residence",
+      "Income Certificate",
+      "Bank Account Details",
+      "Self-Declaration",
+      "Family Details Document",
+      "Any other documents if required"
+    ],
+    "sources_and_references": [
+      "Official Website",
+      "Guideline"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Can someone already receiving another government pension apply for this scheme?",
+      "answer": "No, applicants receiving another government pension are not eligible for this scheme."
+    },
+    {
+      "question": "How can I apply for the pension scheme?",
+      "answer": "Applicants must submit a filled application form along with the required documents to the Executive Officer of their Village (Dweep) Panchayat."
+    },
+    {
+      "question": "How much pension will I receive under this scheme?",
+      "answer": "Eligible individuals receive a monthly pension of ₹1,500/-."
+    },
+    {
+      "question": "How will the pension amount be transferred?",
+      "answer": "The pension is directly transferred to the applicant’s registered bank account."
+    },
+    {
+      "question": "Will my pension continue automatically every year?",
+      "answer": "The pension continues as long as the applicant remains eligible under the scheme’s conditions."
+    },
+    {
+      "question": "What should I do if my pension payment is delayed?",
+      "answer": "You should visit your Village (Dweep) Panchayat office to inquire about any delays in payment."
+    },
+    {
+      "question": "Can my family receive the pension after my death?",
+      "answer": "No."
+    },
+    {
+      "question": "Is a bank account mandatory to receive the pension?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Can I apply for the pension if I am below 60 years of age?",
+      "answer": "No, only individuals aged above 60 years are eligible for the scheme."
+    },
+    {
+      "question": "What happens if I provide false information in my application?",
+      "answer": "Incorrect or false information may lead to application rejection."
+    },
+    {
+      "question": "Can I transfer my pension to a different bank account later?",
+      "answer": "Applicants should inform the authorities if they wish to update their bank details for pension transfer."
+    }
+  ]
+}

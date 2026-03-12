@@ -1,0 +1,103 @@
+{
+  "scheme_name": "Chief Minister Family Benefit Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/cmfbs",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Chief Minister Family Benefit Scheme",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The \"Chief Minister Family Benefit Scheme\" was launched by the Social Welfare Department, Government of Bihar. Under this scheme, a one-time grant of ₹20,000/- is provided to the family or close relative in the case of the death of a person of any age in an accident, or the death of a person aged 18-60 years in a criminal incident. If more than one member of the same family dies in an accident, the grant will be provided for all the deceased, including the deceased child. This benefit will not be payable in the case of suicide. This scheme is fully funded by the State Government.",
+      "Objective:",
+      "The objective of this scheme is to provide social security to the immediate dependents of the deceased by providing them financial assistance after the sudden death of a member of a poor family in the state."
+    ],
+    "benefits": [
+      "Under this scheme, a one-time grant of ₹20,000/- is provided to the family or close relative of the deceased person."
+    ],
+    "eligibility": [
+      "1. The applicant should be a resident of Bihar.",
+      "2. The applicant should be a family member or dependent of the deceased person.",
+      "3. The grant is provided in cases where the deceased:",
+      "• Died in an accident, regardless of age, or",
+      "• Was between 18 and 60 years old and died in a criminal incident.",
+      "4. The deceased should belong to a poor family.",
+      "5. The benefit will not be payable in cases of suicide.",
+      "Note:",
+      "If more than one member of the same family dies in an accident, the grant will be provided for all deceased members, including any deceased children."
+    ],
+    "application_process": {
+      "offline": [
+        "Application Process:",
+        "To avail of the benefits of this scheme, the applicant should submit an application on plain paper, along with the required documents, to the office of the Sub-Divisional Officer.",
+        "Grievance Redressal and Escalation Matrix:",
+        "The complaint can be lodged in the office of the Block Development Officer, Sub-divisional Office, Assistant Director, District Social Security Cell/District Child Protection Unit, Director, Social Security Office, and Additional Chief Secretary/Principal Secretary/Secretary, Social Welfare Department. Apart from this, under the Bihar Public Grievance Redressal Rights Act, 2016, the office of the Public Grievance Redressal Officer at the sub-divisional level and the District Public Grievance Redressal Officer at the district level are functioning."
+      ]
+    },
+    "documents_required": [
+      "Identity proof of the applicant i.e. Aadhaar Card, Voter ID Card",
+      "Identity proof of the deceased person i.e. Aadhaar Card",
+      "Death certificate of the deceased person",
+      "Proof of age of the deceased person",
+      "Below Poverty Line (BPL) Card/ Ration Card",
+      "Address proof",
+      "Bank Passbook/Bank account details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Scheme Details",
+      "Official Website",
+      "E-Suvidha Portal"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of this scheme?",
+      "answer": "The objective is to provide social security to the immediate dependents of the deceased by offering financial assistance following the sudden death of a member of a poor family in Bihar."
+    },
+    {
+      "question": "Who is eligible to apply for the scheme?",
+      "answer": "The applicant must be a resident of Bihar, a family member or dependent of the deceased, and the deceased must have died in an accident or a criminal incident (if aged 18-60 years). The deceased should belong to a poor family."
+    },
+    {
+      "question": "Are there any age restrictions for the deceased to qualify for the scheme?",
+      "answer": "No, there are no age restrictions if the deceased died in an accident. However, if the death was due to a criminal incident, the deceased should have been between 18 and 60 years of age."
+    },
+    {
+      "question": "Is the grant provided if the deceased died by suicide?",
+      "answer": "No, the scheme does not cover cases of suicide. The grant is not provided in such cases."
+    },
+    {
+      "question": "What is the amount of financial assistance provided under the scheme?",
+      "answer": "The scheme provides a one-time grant of ₹20,000/- to the family or close relative of the deceased."
+    },
+    {
+      "question": "Can multiple family members receive the benefit if more than one person dies in the same incident?",
+      "answer": "Yes, if more than one member of the same family dies in an accident, the grant will be provided for all the deceased, including any deceased children."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "The applicant must submit documents proving their relationship to the deceased, death certificate, proof of residence, and any other required documents specified by the authorities."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "To apply, you must submit an application on plain paper along with the required documents to the office of the Sub-Divisional Officer."
+    },
+    {
+      "question": "Where can grievances related to the scheme be addressed?",
+      "answer": "Grievances can be lodged with the Block Development Officer, Sub-divisional Office, Assistant Director, District Social Security Cell/District Child Protection Unit, Director, Social Security Office, or the Additional Chief Secretary/Principal Secretary/Secretary of the Social Welfare Department."
+    },
+    {
+      "question": "Can the benefit be claimed if the deceased was not a resident of Bihar?",
+      "answer": "No, the deceased must have been a resident of Bihar for their family to be eligible for the benefit."
+    },
+    {
+      "question": "How is the scheme funded?",
+      "answer": "The scheme is fully funded by the State Government of Bihar."
+    },
+    {
+      "question": "Is there any provision for appeal if the application is rejected?",
+      "answer": "Yes, applicants can file a grievance with the relevant authorities if their application is rejected."
+    }
+  ]
+}

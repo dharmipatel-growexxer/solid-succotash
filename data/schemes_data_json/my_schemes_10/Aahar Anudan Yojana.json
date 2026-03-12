@@ -1,0 +1,98 @@
+{
+  "scheme_name": "Aahar Anudan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/aaymp",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Aahar Anudan Yojana",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Aahar Anudan Yojana\" by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh, provides monthly assistance of ₹1,000 to students, girls, and women from backward tribes like Baiga, Bharia, and Saharia. The scheme aims to combat malnutrition among special tribal families in the state by ensuring access to nutritious food through financial assistance."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹1,000/- per month."
+    ],
+    "eligibility": [
+      "The applicant should be a native of Madhya Pradesh.",
+      "The applicant should be a woman.",
+      "The applicant should be from the Baiga, Bharia or Saharia tribe.",
+      "The applicant or any member of the applicant's family should not be in government service.",
+      "The applicant or any member of the applicant's family should not be an income tax payee."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step 1:",
+        "The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System",
+        "MPTAAS portal.",
+        "Step 2:",
+        "Click on \"New Beneficiary Profile",
+        ".\"",
+        "Step 3:",
+        "Fill in all the required details. Fields marked with * are mandatory. Complete the form by entering all necessary information.",
+        "Step 4:",
+        "Upload all required documents, such as ID proof and other relevant certificates.",
+        "Step 5:",
+        "After completing the form and uploading the documents, click \"Submit\".",
+        "Step 6:",
+        "You will receive a registration number after successful payment and submission.",
+        "Application",
+        "Enter your user ID, password, and captcha code, then click \"Login.\"",
+        "Choose the scheme you wish to apply for to avail the benefits.",
+        "Enter all required information and upload the necessary documents as prompted.",
+        "Finally, click on \"Submit Application\" to complete the process."
+      ]
+    },
+    "documents_required": [
+      "Identity Proof (e.g., Aadhaar Card)",
+      "Passport-size Photograph",
+      "Ration Card (optional)",
+      "Bank Account Details (e.g., Copy of Bank Passbook)",
+      "Caste Certificate (if applicable)",
+      "Age Certificate",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the Aahar Anudan Yojana?",
+      "answer": "It is a scheme under the Tribal Welfare and Scheduled Caste (SC) Department of Madhya Pradesh that provides ₹1,000 monthly assistance to combat malnutrition among tribal families."
+    },
+    {
+      "question": "Who is eligible for the scheme?",
+      "answer": "Members of Baiga, Bharia, and Saharia tribes who are natives of Madhya Pradesh."
+    },
+    {
+      "question": "What is the primary objective of the scheme?",
+      "answer": "To eliminate malnutrition by providing financial assistance for nutritious food to special tribal families."
+    },
+    {
+      "question": "Is this scheme applicable to all residents of Madhya Pradesh?",
+      "answer": "No, it is specifically for members of Baiga, Bharia, and Saharia tribes."
+    },
+    {
+      "question": "Can government employees or their families apply for the scheme?",
+      "answer": "No, applicants or their family members should not be in government service."
+    },
+    {
+      "question": "Are income tax payees eligible for this scheme?",
+      "answer": "No, the applicant or their family members should not be income tax payees."
+    },
+    {
+      "question": "What benefits does the scheme provide?",
+      "answer": "₹1,000 per month as financial assistance for purchasing nutritious food."
+    },
+    {
+      "question": "What documents are required to apply?",
+      "answer": "Proof of tribal membership, proof of residence in Madhya Pradesh, and a declaration of not being in government service or an income tax payee."
+    },
+    {
+      "question": "How is the assistance amount disbursed?",
+      "answer": "The financial assistance of ₹1,000 is provided monthly to the beneficiary's."
+    }
+  ]
+}

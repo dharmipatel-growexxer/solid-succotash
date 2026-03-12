@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Old Age Pension Scheme - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/oap",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Old Age Pension Scheme - Uttarakhand",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Old Age Pension Scheme\" has been launched by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to help elderly persons meet their basic needs and improve their quality of life. Under this scheme, a monthly pension is provided to senior citizens (both husband and wife) in the state who are 60 years of age or above."
+    ],
+    "benefits": [
+      "A pension of ₹1,500/- per month is provided to eligible beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be 60 years of age or above.",
+      "The applicant’s family monthly income must not exceed ₹4,000/- or the applicant must belong to the BPL category.",
+      "The applicant must not be receiving any other pension."
+    ],
+    "application_process": {
+      "online": [
+        "The applicant can apply online either by themselves or through a Common Service Center (CSC) via the Department’s Pension Portal (",
+        "https://ssp.uk.gov.in",
+        "), the",
+        "UMANG",
+        "Mobile App, or the Apuni Sarkar Portal (",
+        "https://eservices.uk.gov.in",
+        ").",
+        "The following documents are mandatory at the time of applying:",
+        "Applicant’s mobile number, Passport-size photograph (attested by Gram Pradhan / V.P.D.O. / certified by Councillor), Photocopy of Aadhaar card and Voter ID card, CBS bank account details (linked/seeded with Aadhaar), Valid family income certificate or BPL certificate, Copy of family register (for rural areas only), Copy of the resolution passed in the open meeting of Gram Panchayat (for rural areas) / certified by Councillor (for urban areas)",
+        "All the above documents must be issued from the district where the application is being submitted.",
+        "For verification of the online application form in rural areas, the final decision is taken by the District Social Welfare Officer after recommendations from the Gram Panchayat Development Officer, Assistant Social Welfare Officer, and Block Development Officer, respectively. In urban areas, verification and recommendation are done by the Assistant Social Welfare Officer and Sub-District Magistrate. If the application is found correct, the District Social Welfare Officer approves it, after which the pension payment process is initiated.",
+        "The pension is credited to the applicant’s bank account one month after the approval of the application."
+      ]
+    },
+    "documents_required": [
+      "Applicant’s mobile number",
+      "Passport-size photograph (certified by Gram Pradhan / V.P.D.O. / Councillor)",
+      "Aadhaar card",
+      "Voter ID card",
+      "CBS bank account linked/seeded with Aadhaar card",
+      "Valid family income certificate or BPL certificate",
+      "Copy of family register (only for rural areas)",
+      "Copy of the resolution passed in the open meeting of the Gram Panchayat (for rural areas) or by the Councillor (for urban areas)",
+      "Note:",
+      "All the above documents must be issued from the district where the application is submitted."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 16)",
+      "Online Application Portal",
+      "Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for under this scheme?",
+      "answer": "Senior citizens (both husband and wife) aged 60 years or above whose family’s monthly income is up to ₹4,000/- or who belong to the BPL category are eligible."
+    },
+    {
+      "question": "Can a husband and wife both apply for the pension?",
+      "answer": "Yes, if both are aged 60 years or above and meet the eligibility criteria, they can apply separately."
+    },
+    {
+      "question": "Can I get this pension if I am already receiving another pension?",
+      "answer": "No, applicants receiving any other pension are not eligible for the Old Age Pension."
+    },
+    {
+      "question": "What is the monthly pension amount provided under the scheme?",
+      "answer": "The pension amount is ₹1,500/- per month."
+    },
+    {
+      "question": "Is there an income limit for eligibility?",
+      "answer": "Yes, the family’s monthly income should not exceed ₹4,000/- unless the applicant belongs to the BPL category."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "You can apply online through the Department’s pension portal h ttps://ssp.uk.gov.in/ , Umang mobile app, Apni Sarkar portal https://eservices.uk.gov.in , or by visiting a Common Service Centre (CSC)."
+    },
+    {
+      "question": "Can BPL cardholders apply without an income certificate?",
+      "answer": "Yes, BPL cardholders are eligible without an income certificate but must submit a valid BPL certificate."
+    },
+    {
+      "question": "How long does it take for the pension to start after approval?",
+      "answer": "The pension is credited to the applicant’s bank account one month after the application is approved."
+    }
+  ]
+}

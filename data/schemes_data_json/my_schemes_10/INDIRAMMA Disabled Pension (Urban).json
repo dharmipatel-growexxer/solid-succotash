@@ -1,0 +1,101 @@
+{
+  "scheme_name": "INDIRAMMA Disabled Pension (Urban)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/idp-u",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "INDIRAMMA Disabled Pension (Urban)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2006-07, the scheme \"INDIRAMMA Disabled Pension (Urban)\" by the Department of Rural Development, Government of Andhra Pradesh, aims to provide financial assistance to persons with disabilities of 40% or above who are 18 years of age or above. To be eligible, they should be from a BPL family, be a resident of a district of Andhra Pradesh, and not be covered under any other Pension Scheme. The eligible individuals will be identified by their respective Ward Sabhas. The Bill Collector disburses the pension to the eligible individuals on the first date of every month."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+      "Mode of Disbursement:",
+      "The Bill Collector disburses the pension to the eligible individuals in the presence of Ward members and office bearers of DWCUA.",
+      "Time of Disbursement:",
+      "The pension is disbursed on the first date of every month."
+    ],
+    "eligibility": [
+      "The applicant should be a local resident of a district of Andhra Pradesh.",
+      "The applicant should be from an urban area.",
+      "The applicant should be from a Below Poverty Line (BPL) family.",
+      "The applicant should have a minimum of 40% disability.",
+      "The applicant should be 18 years of age or above.",
+      "The applicant should not be covered under any other Pension Scheme.",
+      "*The eligible citizens will be identified by their respective Ward Sabhas. The register containing the list of eligible citizens will be shared by the Bill Collector with the Municipal Commissioner."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Identification of Eligible Persons",
+        "The Ward Sabha identifies eligible persons based on the eligibility criteria. A ward-wise register of eligible persons is maintained by the Bill Collector.",
+        "Step 2:",
+        "Recommendation and Sanction",
+        "The Bill Collector sends Ward Sabha resolution recommending eligible persons to the Municipal Commissioner. The Municipal Commissioner scrutinizes eligibility and sanctions pensions based on municipality-wise allocation.",
+        "Step 3:",
+        "Disbursement of Pensions",
+        "The Project Director (DRDA) sends pension acquittance list and funds to Municipal Commissioners. The Municipal Commissioner issues cheques to Bill Collectors. The Bill Collector disburses pensions to pensioners in the presence of Ward members and DWCUA office bearers."
+      ]
+    },
+    "documents_required": [
+      "Domicile Certificate",
+      "Below Poverty Line (BPL) Certificate",
+      "Disability Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the residency requirements for applying to the INDIRAMMA Disabled Pension (Urban) scheme?",
+      "answer": "The applicant must be a local resident of a district in Andhra Pradesh and reside in an urban area to be eligible for the scheme."
+    },
+    {
+      "question": "How does the INDIRAMMA Disabled Pension (Urban) scheme define the economic status of eligible applicants?",
+      "answer": "Applicants must belong to a Below Poverty Line (BPL) family to qualify for the pension under this scheme."
+    },
+    {
+      "question": "What is the minimum disability percentage required to apply for the INDIRAMMA Disabled Pension (Urban)?",
+      "answer": "The applicant must have a minimum of 40% disability to be eligible for the pension scheme."
+    },
+    {
+      "question": "What is the minimum age requirement for applicants under the INDIRAMMA Disabled Pension (Urban) scheme?",
+      "answer": "Applicants must be 18 years of age or above to qualify for the pension under this scheme."
+    },
+    {
+      "question": "Can individuals already covered under another pension scheme apply for the INDIRAMMA Disabled Pension (Urban)?",
+      "answer": "No, applicants must not be covered under any other pension scheme to be eligible for this program."
+    },
+    {
+      "question": "Who is responsible for identifying eligible individuals for the INDIRAMMA Disabled Pension (Urban) scheme?",
+      "answer": "Eligible individuals are identified by their respective Ward Sabhas based on the eligibility criteria."
+    },
+    {
+      "question": "What role does the Bill Collector play in the INDIRAMMA Disabled Pension (Urban) scheme?",
+      "answer": "The Bill Collector maintains the ward-wise register of eligible persons and disburses the pension on the first date of every month."
+    },
+    {
+      "question": "What documents are required to apply for the INDIRAMMA Disabled Pension (Urban) scheme?",
+      "answer": "Applicants must provide a Domicile Certificate, Below Poverty Line (BPL) Certificate, and Disability Certificate."
+    },
+    {
+      "question": "How is the eligibility of applicants verified under the INDIRAMMA Disabled Pension (Urban) scheme?",
+      "answer": "The Ward Sabha identifies eligible persons, and the Municipal Commissioner scrutinizes and sanctions the pensions."
+    },
+    {
+      "question": "What is the process for recommending eligible persons for the INDIRAMMA Disabled Pension (Urban) scheme?",
+      "answer": "The Bill Collector sends a Ward Sabha resolution recommending eligible persons to the Municipal Commissioner for approval."
+    },
+    {
+      "question": "How are pensions disbursed under the INDIRAMMA Disabled Pension (Urban) scheme?",
+      "answer": "Pensions are disbursed by the Bill Collector on the first date of every month in the presence of Ward members and DWCUA office bearers."
+    },
+    {
+      "question": "What is the role of the Municipal Commissioner in the INDIRAMMA Disabled Pension (Urban) scheme?",
+      "answer": "The Municipal Commissioner scrutinizes eligibility, sanctions pensions, and issues cheques to Bill Collectors for disbursement."
+    }
+  ]
+}

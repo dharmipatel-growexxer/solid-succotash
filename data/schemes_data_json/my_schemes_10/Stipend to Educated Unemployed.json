@@ -1,0 +1,87 @@
+{
+  "scheme_name": "Stipend to Educated Unemployed",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/steu",
+  "location_name": "Mizoram",
+  "location_type": "state",
+  "page_title": "Stipend to Educated Unemployed",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The Stipend to Educated Unemployed scheme was launched by the Social Welfare & Tribal Affairs Department, Government of Mizoram. Under this scheme, provides a stipend of ₹650 per month to assist 25 educated persons with disabilities who have registered in an Employment Exchange for over three years and have not been placed in gainful employment."
+    ],
+    "benefits": [
+      "Stipend of ₹650/- per month to the educated unemployed individuals with disabilities."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Mizoram.",
+      "The applicant should be a disabled person.",
+      "The applicant should be an educated unemployed registered with an Employment Exchange for at least three years.",
+      "The applicant should be from the Below Poverty Line (BPL) family."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The applicant writes the application on plain paper.",
+        "Step 2:",
+        "In the application form attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application along with the documents to the District Social Welfare Office",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "UDID/Disability Certificate",
+      "Proof of BPL Status (Family Ration Card)",
+      "Photocopy of Bank Passbook (first page showing account holder's name and account number)",
+      "Registration Card of Employment Exchange"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is this scheme?",
+      "answer": "A stipend for unemployed educated persons with disabilities."
+    },
+    {
+      "question": "Who funds this scheme?",
+      "answer": "The scheme is funded by the Government of Mizoram."
+    },
+    {
+      "question": "What is the stipend amount?",
+      "answer": "Beneficiaries receive a stipend of ₹650 per month."
+    },
+    {
+      "question": "Who is eligible?",
+      "answer": "Educated unemployed disabled persons registered with Employment Exchange for three years."
+    },
+    {
+      "question": "How many beneficiaries are allowed?",
+      "answer": "Up to 25 people per district."
+    },
+    {
+      "question": "Is a disability certificate required?",
+      "answer": "Yes, a UDID/Disability Certificate is needed."
+    },
+    {
+      "question": "Is BPL status mandatory?",
+      "answer": "Yes, proof of BPL status is required."
+    },
+    {
+      "question": "How can I apply?",
+      "answer": "Submit an application on plain paper to the D.S.W.O."
+    },
+    {
+      "question": "What documents are needed?",
+      "answer": "Photo, disability certificate, BPL proof, and bank passbook copy."
+    },
+    {
+      "question": "Whom to contact for issues?",
+      "answer": "The designated grievance officer at the Social Welfare Department."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "scheme_name": "INDIRAMMA Old Age Pension (Rural)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ioap",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "INDIRAMMA Old Age Pension (Rural)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2006-07, the scheme \"INDIRAMMA Old Age Pension (Rural)\" by the Department of Rural Development, Government of Andhra Pradesh, aims to disburse monthly pensions to old age citizens, both male and female, who are 65 years of age or above and are destitute (with little or no means of subsistence and no family or relative to depend upon). To be eligible, they should be from a BPL family, be a resident of the district, and not be covered under any other Pension Scheme. The eligible citizens will be identified by their respective Gram Sabhas. The Panchayat Secretary disburses the pension to the eligible citizens on the first date of every month."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+      "Mode of Disbursement:",
+      "The Panchayat Secretary disburses the pension to the eligible citizens, in the presence of Sarpanch, Gram Panchayat Members and the Office Bearers of Village Organization.",
+      "Time of Disbursement:",
+      "The pension is disbursed on the first date of every month."
+    ],
+    "eligibility": [
+      "The applicant should be from a Below Poverty Line (BPL) family.",
+      "The applicant should be a local resident of the district.",
+      "The applicant should be from a rural area.",
+      "The applicant should not be covered under any other Pension Scheme.",
+      "The applicant should be 65 years of age or above in age.",
+      "The applicant should be destitute.",
+      "The applicant should have no means of subsistence.",
+      "The applicant should have no family or relatives to depend upon.",
+      "* The eligible citizens will be identified by their respective Gram Sabhas. The register containing the list of eligible citizens will be shared by the Panchayat Secretary with the Mandal Parishad Development Officer (MPDO)."
+    ],
+    "application_process": {
+      "offline": [
+        "The eligible citizens will be identified by their respective Gram Panchayat during the Gram Sabhas. The Panchayat Secretary maintains a register of eligible persons and sends the Gram Sabha resolution recommending eligible persons to the Mandal Parishad Development Officer (MPDO)."
+      ]
+    },
+    "documents_required": [
+      "Proof of Age",
+      "Domicile Certificate",
+      "Below Poverty Line (BPL) Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the timeline for completing the selection process for new pensioners?",
+      "answer": "The entire selection process, from identification to payment of pensions, should be completed within 30 days to ensure timely disbursement."
+    },
+    {
+      "question": "How are grievances related to the pension scheme addressed?",
+      "answer": "The MPDO is responsible for the redressal of grievances related to the pension scheme in rural areas."
+    },
+    {
+      "question": "What is the significance of the Pensions Acquittance List in the disbursement process?",
+      "answer": "The Pensions Acquittance List contains details of pensions to be disbursed and is used to ensure proper distribution and accountability of funds."
+    },
+    {
+      "question": "How are pensions disbursed through Mandal Samakhya and Village Organizations?",
+      "answer": "In areas where Mandal Samakhya and Village Organizations are self-reliant, pensions can be disbursed through VOs in the presence of the Sarpanch and Ward Members."
+    },
+    {
+      "question": "How often are pension disbursement reports submitted?",
+      "answer": "Monthly reports on pension disbursement, new sanctions, and death cases are submitted by the Panchayat Secretary to the MPDO by the 6th of every month."
+    },
+    {
+      "question": "What is the purpose of the Pensions Register maintained by the Gram Panchayat?",
+      "answer": "The Pensions Register contains details of existing pensioners (Part A) and eligible persons not yet sanctioned pensions (Part B), and it is updated monthly."
+    },
+    {
+      "question": "What is the role of the Mandal Parishad Development Officer (MPDO) in the pension scheme?",
+      "answer": "The MPDO is the sanctioning authority, releases funds to Panchayat Secretaries, and reviews the implementation of the pension scheme in the Mandal."
+    },
+    {
+      "question": "What happens if a pensioner does not turn up for disbursement?",
+      "answer": "If a pensioner does not turn up, the Panchayat Secretary arranges for door delivery of the pension through the Village Organization."
+    },
+    {
+      "question": "How are pensions disbursed to beneficiaries?",
+      "answer": "Pensions are disbursed directly to beneficiaries by the Panchayat Secretary on the 1st of every month in the presence of the Sarpanch and GP members."
+    },
+    {
+      "question": "What is the preference order for filling old-age pension vacancies?",
+      "answer": "Old widows are given first preference, followed by older individuals (both male and female) in the case of old-age pension vacancies."
+    },
+    {
+      "question": "How are death vacancies in pension schemes filled?",
+      "answer": "The Gram Panchayat, in consultation with the Village Organization, selects the most deserving person from the Part-B register to fill the vacancy."
+    },
+    {
+      "question": "What is the age requirement for receiving an Old Age Pension?",
+      "answer": "Old Age Pension is available to individuals who are 65 years of age or above and are destitute with little or no means of subsistence."
+    },
+    {
+      "question": "What is the purpose of the INDIRAMMA programme?",
+      "answer": "The INDIRAMMA programme aims to universalize pensions by saturating one-third of villages each year over three years, starting from 2006-07, to provide pensions to the most needy and vulnerable."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "scheme_name": "Mahila Adhikarita Yojana (Gujarat Safai Kamdar Development Corporation)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/maygskdc",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Mahila Adhikarita Yojana (Gujarat Safai Kamdar Development Corporation)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "\"Mahila Adhikarita Yojana\" introduced by the Social Justice and Empowerment Department, Gujarat, is a centrally sponsored financial support scheme targeting women sweepers and their dependents. Under this scheme, eligible beneficiaries are provided a loan of ₹20,000 at a low interest rate of 5%, with a repayment period of 5 years. This initiative aims to empower women engaged in sanitation work by providing them with the financial means to pursue economic activities and improve their quality of life. The scheme is being implemented by the Gujarat Safai Kamdar Development Corporation."
+    ],
+    "benefits": [
+      "Loan Assistance:",
+      "An amount of ₹20,000/- at 5% interest rate, with a repayment period of 5 years."
+    ],
+    "eligibility": [
+      "The applicant must be a woman sweeper or a dependent of a woman sweeper.",
+      "The applicant must be a resident of Gujarat."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step 1:",
+        "Go to the",
+        "eSamajKalyan portal",
+        "and navigate to the \"Gujarat Safai Kamdar Development Corporation\" section under the Corporation menu.",
+        "Step 2:",
+        "Click on \"Mahila Adhikarita Yojana\" and then Apply Now.",
+        "Step 3:",
+        "Click on \"New User? Please Register Here\".",
+        "Step 4:",
+        "Enter the required details and click Register.",
+        "Application Process:",
+        "Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Read the scheme details carefully and click OK.",
+        "If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5:",
+        "If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6:",
+        "Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status:",
+        "Click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Proof of Residence (any one of Electricity Bill/Licence/Lease Agreement/Electoral Card/Ration Card).",
+      "Guarantee Sheet.",
+      "Disability Certificate (If applicable).",
+      "Specimen of Applicant's Gross Annual Income (Certificate from Competent Authority).",
+      "Ration Card (to upload both pages with name and number of ration card applicant).",
+      "Certificate regarding being a sweeper/ dependent of a sweeper.",
+      "Aadhaar Card.",
+      "BPL Certificate.",
+      "Certificate of death of husband.",
+      "Copy of passbook page showing bank account details or canceled cheque.",
+      "Election Card."
+    ],
+    "sources_and_references": [
+      "Guidelines (Scheme No. 319)",
+      "Guidelines 2",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the \"Mahila Adhikarita Yojana\"?",
+      "answer": "\"Mahila Adhikarita Yojana\" is a financial assistance scheme implemented by the Gujarat Safai Kamdar Vikas Nigam, providing loans of ₹20,000 /-at 5% interest to women sweepers and their dependents to support their livelihood and empowerment."
+    },
+    {
+      "question": "Who is eligible to apply under the \"Mahila Adhikarita Yojana\"?",
+      "answer": "Under the \"Mahila Adhikarita Yojana\", only those applicants who are women sweepers or dependents of sweepers and are permanent residents of Gujarat are considered eligible to apply."
+    },
+    {
+      "question": "What is the maximum loan amount that an eligible applicant can receive under this scheme?",
+      "answer": "An eligible applicant under this scheme can receive a financial assistance loan of up to ₹20,000, which is aimed at improving their socio-economic status."
+    },
+    {
+      "question": "What is the rate of interest applicable on the loan amount sanctioned under this scheme?",
+      "answer": "The loan amount sanctioned under the Mahila Adhikarita Yojana is subject to a concessional interest rate of 5% per annum throughout the repayment period."
+    },
+    {
+      "question": "How long does the beneficiary have to repay the loan amount received under the scheme?",
+      "answer": "The beneficiary is required to repay the entire loan amount along with the applicable interest over a maximum period of 5 years from the date of disbursement."
+    },
+    {
+      "question": "Is there any form of subsidy or financial concession offered under this loan scheme?",
+      "answer": "Although there is no direct subsidy, the reduced interest rate of 5% on the loan functions as an indirect financial concession to make repayment more manageable."
+    },
+    {
+      "question": "Is there any income-related restriction or limit applicable to applicants under this scheme?",
+      "answer": "There is no specific income limit set for individual or family income, which means applicants from all economic backgrounds can apply, provided they fulfill other eligibility conditions."
+    },
+    {
+      "question": "Can dependents of male sweepers also benefit from the scheme?",
+      "answer": "Yes, dependents such as the spouse, children, or other family members of male sweepers are also eligible to apply provided they meet all other criteria."
+    },
+    {
+      "question": "Can widowed women whose husbands were sweepers avail the benefits of this scheme?",
+      "answer": "Yes, widowed women whose husbands were sweepers can apply for the scheme as dependents, provided they can furnish the required death certificate and other eligibility documents."
+    },
+    {
+      "question": "What is the purpose of submitting a guarantee sheet with the application form?",
+      "answer": "The guarantee sheet serves as a formal assurance that the loan amount will be repaid and may involve a guarantor who takes responsibility in case of default."
+    },
+    {
+      "question": "Through which platform can interested applicants submit their application for this scheme?",
+      "answer": "Interested applicants must submit their applications online through the official portal of e-SamajKalyan at: https://esamajkalyan.gujarat.gov.in ."
+    },
+    {
+      "question": "What essential documents must be submitted along with the application for the scheme?",
+      "answer": "Applicants must upload several documents, including proof of residence, Aadhaar card, BPL certificate, income certificate, certificate proving their sweeper status or dependent status, bank passbook copy or cancelled cheque, and other relevant documents."
+    }
+  ]
+}

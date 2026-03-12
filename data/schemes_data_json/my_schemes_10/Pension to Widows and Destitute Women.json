@@ -1,0 +1,103 @@
+{
+  "scheme_name": "Pension to Widows and Destitute Women",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ptwadw",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Pension to Widows and Destitute Women",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Pension to Widows and Destitute Women\" scheme was introduced by the Government of Haryana in the financial year 1980-81. The aim of the scheme is to provide social security to women who cannot sustain themselves and need financial assistance. Under this scheme, widows and destitute women aged 18 years and above are eligible for a pension if they are domiciles of Haryana and have been residing in the state for at least one year at the time of application submission."
+    ],
+    "benefits": [
+      "Under this scheme, a pension of ₹2,500/- per month is given to widows and destitute women."
+    ],
+    "eligibility": [
+      "1. The applicant should be a permanent resident of Haryana.",
+      "2. The applicant should meet one of the following conditions:",
+      "• Be a widow.",
+      "• Be a destitute woman without a husband, parents, or children.",
+      "• Be a destitute woman due to desertion or the physical/mental incapacity of her husband (for married women) or parents (for other women).",
+      "3. The applicant should be 18 years of age or older.",
+      "4. The applicant's annual income from all sources should be less than ₹2,00,000/-."
+    ],
+    "application_process": {
+      "offline": [
+        "Online - via CSCs",
+        "Step 1:",
+        "For applying the widow pension scheme, the applicant has to furnish an",
+        "application form",
+        "in the prescribed format.",
+        "Step 2:",
+        "The applicant has to affix a recent passport-size photograph on the application.",
+        "Step 3:",
+        "Approach the concerned Social Justice Department (SJD) in the locality, submit the duly filled application form along with all required documents.",
+        "Step 4:",
+        "Concerned SJD authority will verify the application form and other documents. Once the concerned authority approves the application, the applicant will be provided with a beneficiary ID.",
+        "Note 1:",
+        "The same ID will also send through the registered mobile number. Keep it safe for future reference.",
+        "Note 2:",
+        "All eligible beneficiaries will start to receive the allowance pension every month. The amount will be directly credited to the beneficiary’s bank account."
+      ]
+    },
+    "documents_required": [
+      "Application Form in Prescribed format",
+      "Identity Proof – Aadhaar Card of the parents",
+      "Age Proof Certificate – Birth Certificate or Mark sheet",
+      "Address Proof – BPL Ration Card",
+      "Income Certificate",
+      "Domicile Certificate",
+      "Death Certificate of Husband – For Widow",
+      "Photograph of the parent",
+      "Bank Account Details"
+    ],
+    "sources_and_references": [
+      "Portal 1",
+      "Portal 3",
+      "Portal 4",
+      "Application Form"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the benefits provided under this scheme?",
+      "answer": "Eligible beneficiaries receive a monthly pension of ₹2,500 under the scheme to help support their livelihood."
+    },
+    {
+      "question": "Who is not eligible for widow pension?",
+      "answer": "Only widow women below the poverty line are eligible to receive benefits under this yojana. The age of a woman must be between 18 to 60 years. If the widowed woman has remarried after the husband's death, she will not be eligible to receive benefits under this yojana."
+    },
+    {
+      "question": "Who is eligible for the pension under this scheme?",
+      "answer": "Widows and destitute women aged 18 years and above who are permanent residents of Haryana and have been living in the state for at least one year before applying are eligible for the pension."
+    },
+    {
+      "question": "What is the age requirement to apply for the pension?",
+      "answer": "The applicant must be at least 18 years old to be eligible for the pension under this scheme."
+    },
+    {
+      "question": "Does the scheme cover only widows?",
+      "answer": "No, the scheme covers not only widows but also destitute women. Destitute women are those without a husband, parents, or children, or those whose husband or parents are physically or mentally incapacitated or have deserted them."
+    },
+    {
+      "question": "Is there an income limit for eligibility?",
+      "answer": "Yes, the applicant's annual income from all sources should be less than ₹2,00,000 to be eligible for the pension."
+    },
+    {
+      "question": "What documents are required to apply for the pension?",
+      "answer": "To apply for the pension, applicants need to provide proof of domicile in Haryana, age, income certificate, and documents confirming their status as widows or destitute women."
+    },
+    {
+      "question": "How long must the applicant reside in Haryana to qualify for the scheme?",
+      "answer": "The applicant must have been residing in Haryana for at least one year at the time of submitting the application."
+    },
+    {
+      "question": "Can women deserted by their husbands apply for the pension?",
+      "answer": "Yes, women who have been deserted by their husbands or whose husbands are physically or mentally incapacitated are eligible to apply as destitute women."
+    },
+    {
+      "question": "Can women living outside Haryana apply for this pension?",
+      "answer": "No, only women who are permanent residents of Haryana and have lived in the state for at least one year are eligible for the pension."
+    }
+  ]
+}

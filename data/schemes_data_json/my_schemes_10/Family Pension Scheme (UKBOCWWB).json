@@ -1,0 +1,67 @@
+{
+  "scheme_name": "Family Pension Scheme (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fpftcw",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Family Pension Scheme (UKBOCWWB)",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Family Pension Scheme” is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. The scheme aims to provide financial assistance to the spouse of a registered construction worker in the event of the worker’s death, if the deceased was a pensioner."
+    ],
+    "benefits": [
+      "Pension Amount:",
+      "₹500/- per month or 50% of the pensioner's pension, whichever is higher."
+    ],
+    "eligibility": [
+      "The applicant must be the spouse (husband/wife) of the deceased construction worker.",
+      "The deceased construction worker must have been registered with the Uttarakhand Building and Other Construction Workers Welfare Board.",
+      "The deceased construction worker must have been receiving a pension from the Board at the time of death."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "The online application for the scheme can be submitted through Shramik Suvidha Kendras.",
+        "At the time of application, the applicant must attach the self-declaration certificate, Shramik card of the deceased worker, death certificate of the deceased worker, Aadhaar card, and other required documents.",
+        "The application for family pension must be submitted within three months from the date of death of the pensioner. If the application is found correct during the departmental verification, the family pension will be sanctioned and disbursed."
+      ]
+    },
+    "documents_required": [
+      "Self-declaration certificate",
+      "Labour card of the deceased worker",
+      "Death certificate of the deceased worker",
+      "Aadhaar card",
+      "Other required documents"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 56)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for this scheme?",
+      "answer": "Only the husband or wife (spouse) of a deceased registered construction worker who was a pensioner is eligible to apply."
+    },
+    {
+      "question": "What is the pension amount provided under this scheme?",
+      "answer": "The pension amount is ₹500 per month or 50% of the pensioner’s pension, whichever is higher."
+    },
+    {
+      "question": "Where can one apply for the scheme?",
+      "answer": "Applications can be submitted online through Shramik Suvidha Kendras."
+    },
+    {
+      "question": "What is the time limit for applying after the worker’s death?",
+      "answer": "The application must be submitted within three months from the date of death of the pensioner."
+    },
+    {
+      "question": "How is the application verified?",
+      "answer": "The Labour Department conducts a departmental investigation/verification. If all details and documents are found correct, the pension is approved."
+    },
+    {
+      "question": "How soon does the spouse start receiving the pension after approval?",
+      "answer": "The pension begins once the departmental verification is completed and the application is approved."
+    }
+  ]
+}

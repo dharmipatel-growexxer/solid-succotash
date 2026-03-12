@@ -1,0 +1,67 @@
+{
+  "scheme_name": "Bicycle/Sewing Machine Assistance Scheme (UKBOCWWB)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bsmasukbocwwb",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Bicycle/Sewing Machine Assistance Scheme (UKBOCWWB)",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The “Bicycle/Sewing Machine Assistance Scheme” is a welfare scheme which is implemented by the Uttarakhand Building and Other Construction Workers Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand. Under the scheme, bicycles are provided to registered building & construction workers in plain areas, while sewing machines are provided to registered workers or their dependents in mountainous/hilly areas."
+    ],
+    "benefits": [
+      "Bicycles are provided to construction workers in the plain areas, while sewing machines are provided to construction workers or their dependents in the hilly areas."
+    ],
+    "eligibility": [
+      "The applicant must be a construction worker registered with the Uttarakhand Building and Other Construction Workers Welfare Board, or a dependent of such a worker."
+    ],
+    "application_process": {
+      "unspecified": [
+        "Online - via CSCs",
+        "The online application is made through Shramik Suvidha Kendras.",
+        "A self-attested photocopy of the Shramik Card, Aadhaar Card, and a self-declaration certificate must be submitted along with the application form.",
+        "After verification through the departmental investigation, bicycles/sewing machines are provided to the construction workers by the department.",
+        "This benefit is given only once in a lifetime."
+      ]
+    },
+    "documents_required": [
+      "Labour Card",
+      "Aadhaar Card",
+      "Self-declaration certificate"
+    ],
+    "sources_and_references": [
+      "Scheme Details (Page No. 53)",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "Registered workers in plains areas receive a bicycle, while workers or their dependents in hilly areas receive a sewing machine."
+    },
+    {
+      "question": "Is the benefit given once or multiple times?",
+      "answer": "The benefit (bicycle or sewing machine) is given only once in a lifetime."
+    },
+    {
+      "question": "Who provides the benefits under the scheme?",
+      "answer": "The Uttarakhand Building and Other Construction Workers Welfare Board provides the benefits after verification."
+    },
+    {
+      "question": "Can dependents of construction workers also apply?",
+      "answer": "Yes, dependents of registered construction workers are eligible for the benefit."
+    },
+    {
+      "question": "How can one apply for this scheme?",
+      "answer": "Applications are submitted online through Shramik Suvidha Kendras along with the required documents."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "Applicants need a self-attested photocopy of their Shramik Card, Aadhaar Card, and a self-declaration certificate."
+    },
+    {
+      "question": "How is the benefit (bicycle or sewing machine) distributed?",
+      "answer": "After verification, the department calls the beneficiary to personally collect the bicycle or sewing machine."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "scheme_name": "Funeral Assistance",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fa",
+  "location_name": "Maharashtra",
+  "location_type": "state",
+  "page_title": "Funeral Assistance",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Funeral Assistance” is implemented by the Maharashtra Building and Other Construction Workers Welfare Board (MBOCWW), Labour Department, Government of Maharashtra. Under this scheme, the Board provides financial assistance for funeral expenses to the nominated heir of a registered worker in the event of their death."
+    ],
+    "benefits": [
+      "In case of the death of a registered worker, an amount of ₹10,000/- is payable as funeral assistance to the nominated heir."
+    ],
+    "eligibility": [
+      "The applicant should be a nominee/legal heir of the deceased worker.",
+      "The deceased worker should have been registered with the Maharashtra Building & Other Construction Workers Welfare Board."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant downloads the",
+        "application form",
+        "from the MBOCWW official website.",
+        "Step-2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3:",
+        "Submit the duly filled and signed application form along with the documents to the Labor Commissioner/Government Labor Officer.",
+        "Step-4:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photo.",
+      "Aadhaar Card.",
+      "Identity Card of Maharashtra Building and Other Construction Workers Welfare Board.",
+      "Bank Passbook.",
+      "Death Certificate (Issued by competent medical authorities).",
+      "Proof of Residence (One of Aadhaar Card/Passport/Driving Licence/Ration Sheet/Last Month's Electricity Bill/Gram Panchayat Certificate)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the purpose of the scheme?",
+      "answer": "To provide financial assistance for funeral expenses of deceased construction workers."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "The legal heir or nominee of a deceased registered construction worker."
+    },
+    {
+      "question": "What financial support is provided?",
+      "answer": "₹10,000 is provided for funeral expenses."
+    },
+    {
+      "question": "What is the eligibility criterion?",
+      "answer": "The deceased worker must be registered with the Maharashtra Building & Other Construction Workers Welfare Board."
+    },
+    {
+      "question": "What documents are required?",
+      "answer": "Aadhaar Card, Death Certificate, Proof of Residence, Identity Card of the deceased, and Bank Passbook."
+    },
+    {
+      "question": "How can I apply?",
+      "answer": "Submit an offline application form to the Labour Commissioner or Government Labour Officer."
+    },
+    {
+      "question": "Where can I get the application form?",
+      "answer": "The form can be downloaded from the official MBOCWW website."
+    },
+    {
+      "question": "By when should the application be submitted?",
+      "answer": "There is no specific deadline, but it should be submitted as soon as possible after the worker’s death."
+    },
+    {
+      "question": "Can a non-nominated person apply?",
+      "answer": "Only the legal heir or nominated person is eligible."
+    },
+    {
+      "question": "Is there any income limit for the nominee?",
+      "answer": "No income limit is mentioned for the nominee."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "scheme_name": "Labor Tool Assistance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ltas",
+  "location_name": "Chhattisgarh",
+  "location_type": "state",
+  "page_title": "Labor Tool Assistance Scheme",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "This scheme has been started by the Government of Chhattisgarh and operated by Labor Department. The benefit of the scheme will be given to the beneficiaries of trades like construction work like mason, electrician, plumber, carpenter, porter, painter, etc."
+    ],
+    "benefits": [
+      "Tool kit"
+    ],
+    "eligibility": [
+      "'This scheme will be provided to construction workers who are registered in any district of the state.",
+      "The age of the registered worker should not be less than 18 years.",
+      "A worker registered under the scheme can avail the help of tools of only one trade."
+    ],
+    "application_process": {
+      "offline": [
+        "Applicant have to apply through the labor office of the concerned area.",
+        "Applicant will have to obtain the application form and fill out with the required details.",
+        "Attach all the necessary documents with application form.",
+        "Now application form will have to be submitted.",
+        "After the application is submitted, the application form will be certified by the concerned officer."
+      ]
+    },
+    "documents_required": [
+      "Training Certificate.",
+      "Registration Card.",
+      "Bank passbook photo copy."
+    ],
+    "sources_and_references": [
+      "Details",
+      "Guidelines",
+      "Application Form."
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the benefits of the scheme?",
+      "answer": "On the basis of registered category, construction workers will be provided equipment/tools ."
+    },
+    {
+      "question": "Who will get the benefits?",
+      "answer": "All the construction worker of the state who full fill the eligibility criteria."
+    },
+    {
+      "question": "Can other state construction worker get the scheme benefits?",
+      "answer": "No, this is only for Chhattisgarh State construction worker."
+    },
+    {
+      "question": "What is the minimum age to get the scheme benefits?",
+      "answer": "The age of the registered worker should not be less than 18 years."
+    },
+    {
+      "question": "Is registration necessary to avail benefits?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Who to get the benefits ?",
+      "answer": "1. Applicant have to apply through the labor office of the concerned area. 2. Applicant will have to obtain the application form and fill out with the required details. 3. Attach all the necessary documents with application form. 4. Now application form will have to be submitted. 5. After the application is submitted, the application form will be certified by the concerned officer."
+    },
+    {
+      "question": "What documents are required ?",
+      "answer": "1. Training Certificate. 2. Registration Card. 3. Bank passbook photo copy"
+    },
+    {
+      "question": "How to get the application form ?",
+      "answer": "1. Applicant can get the application form from labor office of the concerned area. or 2. Applicant can download the application from below link. URL :https://cdn.s3waas.gov.in/s3d395771085aab05244a4fb8fd91bf4ee/uploads/2018/05/2018051923.pdf"
+    },
+    {
+      "question": "Can a registered construction worker avail more than 1 tool kit?",
+      "answer": "A worker registered under the scheme can avail the help of tools of only one trade."
+    }
+  ]
+}

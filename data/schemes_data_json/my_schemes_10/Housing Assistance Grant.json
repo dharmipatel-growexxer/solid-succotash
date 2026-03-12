@@ -1,0 +1,70 @@
+{
+  "scheme_name": "Housing Assistance Grant",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/hasuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Housing Assistance Grant",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Housing Assistance Grant\" scheme is implemented by the State Sainik Board under the Sainik Welfare Department, Government of Uttarakhand. The scheme provides financial support to widows/dependents of soldiers martyred in wars and border clashes, as well as to war-disabled retired soldiers. Under this scheme, eligible beneficiaries receive a one-time grant for the construction or repair of a house during their lifetime."
+    ],
+    "benefits": [
+      "A one-time grant of ₹2,00,000/- for the construction/ repair of the house."
+    ],
+    "eligibility": [
+      "1. The applicant must be a resident of Uttarakhand.",
+      "2. The applicant must be either:",
+      "A widow or dependent of a soldier martyred in a war or border clash, or",
+      "A war-disabled retired soldier.",
+      "3. The grant is provided only once in a lifetime for the purpose of building construction or repair."
+    ],
+    "application_process": {
+      "offline": [
+        "The application form can be obtained from the District Sainik Welfare Office and must be submitted to the concerned office.",
+        "The following documents are required to be attached with the application: Attested copy of the Battle Casualty Report of the Martyr Soldier/War-Disabled Retired Soldier, Attested copy of the Part-II Order of Battle Casualty, Certificate of Dependents, Estimation of Building Construction/Repair Work issued by the Junior/Assistant Engineer, Certificate from the District Sainik Welfare Officer confirming that no Residential Assistance has been availed by the applicant from the State Government in the past.",
+        "After verification at the District Sainik Welfare Office level, eligible applicants are provided the sanctioned amount through Direct Benefit Transfer (DBT)."
+      ]
+    },
+    "documents_required": [
+      "Attested copy of the Battle Casualty Report of the Martyr Soldier/War-Disabled Retired Soldier",
+      "Attested copy of the Part-II Order of Battle Casualty",
+      "Certificate of Dependents",
+      "Estimation of Building Construction/Repair Work issued by the Junior/Assistant Engineer",
+      "Certificate from the District Sainik Welfare Officer confirming that no Residential Assistance has been availed by the applicant from the State Government in the past"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 29)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "The applicant must be a resident of Uttarakhand and either: A widow or dependent of a soldier martyred in war or border clashes, or A war-disabled retired soldier. The applicant must be a resident of Uttarakhand and either: A widow or dependent of a soldier martyred in war or border clashes, or A war-disabled retired soldier."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "A one-time grant of ₹2,00,000/- (Rupees Two Lakh) is provided."
+    },
+    {
+      "question": "Can this grant be availed more than once?",
+      "answer": "No, the grant can be availed only once in a lifetime."
+    },
+    {
+      "question": "For what purpose can the grant be used?",
+      "answer": "The grant is strictly meant for house construction or repair."
+    },
+    {
+      "question": "Where can I obtain the application form?",
+      "answer": "The application form can be collected from the District Sainik Welfare Office."
+    },
+    {
+      "question": "Where should I submit the completed application form?",
+      "answer": "The filled application form, along with required documents, should be submitted to the concerned District Sainik Welfare Office."
+    },
+    {
+      "question": "How is the grant amount provided?",
+      "answer": "Once approved, the sanctioned amount is transferred directly to the applicant’s bank account through Direct Benefit Transfer (DBT)."
+    }
+  ]
+}

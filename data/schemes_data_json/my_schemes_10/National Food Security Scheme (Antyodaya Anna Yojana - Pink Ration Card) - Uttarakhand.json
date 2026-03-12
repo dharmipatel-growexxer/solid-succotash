@@ -1,0 +1,81 @@
+{
+  "scheme_name": "National Food Security Scheme (Antyodaya Anna Yojana - Pink Ration Card) - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nfssaayprcuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "National Food Security Scheme (Antyodaya Anna Yojana - Pink Ration Card) - Uttarakhand",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme “National Food Security Scheme (Antyodaya Anna Yojana – Pink Ration Card)” is implemented by the Department of Food, Civil Supplies & Consumer Affairs, Government of Uttarakhand. The scheme aims to ensure food security for the poorest and most vulnerable families by providing them with subsidized food grains under the Antyodaya category in the state."
+    ],
+    "benefits": [
+      "Under the scheme, each Pink Ration Card holder receives 35 kg of food grains (13.30 kg of wheat at ₹2.00 per kg and 21.70 kg of rice at ₹3.00 per kg) along with 1 kg of sugar at ₹13.50 per kg.",
+      "At present, from 1 January 2023, food grains are being distributed free of cost to all ration card holders in the state."
+    ],
+    "eligibility": [
+      "The beneficiary must be a resident of Uttarakhand.",
+      "The beneficiary must belong to the Antyodaya category of the state.",
+      "The following families/persons are eligible under the Antyodaya category:",
+      "Families in which any member is eligible for a disability pension and the total monthly family income is less than ₹4,000/-.",
+      "BPL families.",
+      "Individuals infected with HIV."
+    ],
+    "application_process": {
+      "offline": [
+        "Targets have been set for each district under the Antyodaya Anna Yojana.",
+        "Procedure for removal of name from the Antyodaya category:",
+        "If a person is no longer eligible for the Antyodaya category, the individual must inform the District Supply Officer. After the department conducts an inspection and confirms the information to be true, the cardholder is removed from the Antyodaya category. The District Supply Officer also carries out periodic inspections and takes necessary action. If a person is found to be above the Antyodaya category, removal proceedings are initiated. In both urban and rural areas, if a person’s name is to be removed from the Antyodaya category, a proposal is presented in an open meeting of the Gram Sabha. Once the proposal is approved, the concerned Gram Panchayat Development Officer removes the person from the records. After informing the District Supply Officer/Supply Inspector with a recommendation for further action, the department removes the individual from the Antyodaya category. If information is received from a third party, the department investigates the Antyodaya cardholder and, if the information is found to be correct, removes the cardholder from the Antyodaya category.",
+        "Procedure to add name to the Antyodaya category:",
+        "The applicant must first obtain an application form from the office of the Gram Panchayat Development Officer or the District Supply Officer. The application must include the family’s Aadhaar cards, photographs, phone number, bank account details, gas connection details, voter ID/PAN card, income certificate, electricity bill, and a copy of the resolution passed in the Gram Panchayat’s open meeting declaring the family as an Antyodaya family. The applicant must submit the application form along with all the required documents to the respective Gram Panchayat Development Officer.",
+        "After verification, the officer adds the name to the records and forwards the case with a recommendation to the Food Supply Department for further action. Antyodaya ration cards are issued in each district based on the population targets set by the Government of India. A new ration card is issued only when a vacancy arises. The individual can obtain the ration card from the office of the District Supply Officer/Supply Inspector/Regional Food Officer within 10 days.",
+        "If no proposal has been submitted by the Gram Panchayat, the applicant must submit the application form in the prescribed format, along with the above documents, to the office of the Gram Panchayat Development Officer or District Supply Officer. Afterward, the Gram Panchayat Development Officer/District Supply Officer conducts verification, and if the applicant is found eligible and a vacancy exists, digitization is carried out."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar cards of all family members",
+      "Recent passport-size photograph",
+      "Mobile phone number",
+      "Bank account details",
+      "Gas connection details",
+      "Voter ID card / PAN card",
+      "Income certificate",
+      "Electricity bill",
+      "Copy of the resolution passed in the Gram Panchayat's open meeting declaring the family under the Antyodaya category",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 58)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What benefits are provided under the scheme?",
+      "answer": "Each ration card holder receives 35 kg of food grains (13.30 kg wheat and 21.70 kg rice) and 1 kg of sugar at subsidized rates."
+    },
+    {
+      "question": "Are the food grains provided free of cost?",
+      "answer": "Yes, from 1 January 2023, food grains are distributed free of cost to all ration card holders."
+    },
+    {
+      "question": "Who is eligible for the Antyodaya category in Uttarakhand?",
+      "answer": "Families belonging to the poorest section of society, as identified by the state government, are eligible."
+    },
+    {
+      "question": "Are BPL families covered under this scheme?",
+      "answer": "Yes, all BPL families are eligible under the Antyodaya category."
+    },
+    {
+      "question": "How can a beneficiary apply for inclusion under the Antyodaya category?",
+      "answer": "The applicant must obtain an application from the Gram Panchayat Development Officer or District Supply Officer and submit required documents."
+    },
+    {
+      "question": "When is a new Antyodaya ration card issued?",
+      "answer": "A new card is issued only when a vacancy arises within the district quota."
+    },
+    {
+      "question": "What is the process for removing a name from the Antyodaya category?",
+      "answer": "The individual must inform the District Supply Officer. After verification and confirmation, the name is removed."
+    }
+  ]
+}

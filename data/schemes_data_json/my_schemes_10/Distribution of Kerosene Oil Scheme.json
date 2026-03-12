@@ -1,0 +1,93 @@
+{
+  "scheme_name": "Distribution of Kerosene Oil Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dokos",
+  "location_name": "Jharkhand",
+  "location_type": "state",
+  "page_title": "Distribution of Kerosene Oil Scheme",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Distribution of Kerosene Oil Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to support eligible families under the National Food Security Act (NFSA), 2013, Jharkhand State Food Security Scheme, and White Card holders. Through this scheme, beneficiaries receive 1 liter of kerosene oil at subsidized rates with a dealer commission of ₹0.50 per liter supported by the government."
+    ],
+    "benefits": [
+      "Beneficiaries receive 1 liter of kerosene oil at subsidized rates.",
+      "Dealer commission of ₹0.50 per liter is covered by the government.",
+      "Distribution occurs monthly through designated PDS dealers."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Jharkhand.",
+      "The applicant must be covered under the c (NFSA), 2013, Jharkhand State Food Security Scheme, or possess a White Card.",
+      "The applicant must not have access to other subsidized fuel schemes."
+    ],
+    "application_process": {
+      "offline": [
+        "Visit the nearest ration shop or designated enrollment center with the required documents.",
+        "If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center.",
+        "Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration.",
+        "Verify the eligibility and documents with the designated officer.",
+        "Collect the Kerosene Oil from the distribution center as per the monthly schedule."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card or Aadhaar Enrolment Identification Slip.",
+      "Bank or Post Office Passbook with Photo.",
+      "Permanent Account Number (PAN) Card.",
+      "Passport.",
+      "Ration Card.",
+      "Voter Identity Card.",
+      "MGNREGA Card.",
+      "Kisan Photo Passbook.",
+      "Driving License issued under the Motor Vehicles Act, 1988.",
+      "Certificate of Identity with Photo issued by a Gazetted Officer or Tehsildar."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can avail of the benefits under this scheme?",
+      "answer": "Eligible families covered under NFSA, Jharkhand State Food Security Scheme, and White Card holders can avail of the scheme’s benefits."
+    },
+    {
+      "question": "Is Aadhaar mandatory for availing of the scheme benefits?",
+      "answer": "Yes, Aadhaar authentication is mandatory. However, individuals without Aadhaar can apply for it and still avail of benefits by providing the enrolment slip and an additional identity document."
+    },
+    {
+      "question": "What documents are required to apply for the scheme?",
+      "answer": "Documents like Aadhaar Card, Bank Passbook, PAN Card, Passport, Ration Card, and others listed in the notification are required."
+    },
+    {
+      "question": "How often is kerosene oil distributed to beneficiaries?",
+      "answer": "Kerosene oil is distributed monthly through designated PDS dealers."
+    },
+    {
+      "question": "What is the subsidy provided under this scheme?",
+      "answer": "The government provides ₹0.50 per liter as dealer commission to subsidize the kerosene oil."
+    },
+    {
+      "question": "Can individuals without Aadhaar still receive benefits?",
+      "answer": "Yes, by providing an Aadhaar enrolment slip and a valid identity document until Aadhaar is assigned."
+    },
+    {
+      "question": "What measures are in place for failed Aadhaar authentication?",
+      "answer": "In cases of failed authentication, iris scans, face authentication, or Aadhaar OTP-based methods will be used."
+    },
+    {
+      "question": "Where can beneficiaries enroll for Aadhaar?",
+      "answer": "Aadhaar enrolment can be done at UIDAI-designated centers or facilities provided by the Directorate of Food and Consumer Affairs."
+    },
+    {
+      "question": "Are there any exclusions under this scheme?",
+      "answer": "Families not covered under NFSA, Jharkhand State Food Security Scheme, or without White Cards are excluded."
+    },
+    {
+      "question": "Is there any cost associated with enrolling for Aadhaar?",
+      "answer": "No, Aadhaar enrolment is free of cost."
+    },
+    {
+      "question": "Can beneficiaries from other states avail of this scheme?",
+      "answer": "No, the scheme is exclusively for residents of Jharkhand covered under the specified criteria."
+    }
+  ]
+}

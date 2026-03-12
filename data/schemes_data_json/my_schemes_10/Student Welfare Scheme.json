@@ -1,0 +1,100 @@
+{
+  "scheme_name": "Student Welfare Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sws",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Student Welfare Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Student Welfare Scheme\" was launched by the Tribal Affairs Department, Government of Madhya Pradesh, with the objective of providing assistance to economically weaker Scheduled Tribe students to meet their emergency needs in special circumstances. Under this scheme, financial assistance is provided to Scheduled Tribe students studying in Class 1 to 10 in cases of urgency or emergency, such as the treatment of special diseases like cancer, TB, and heart diseases. It also covers participation in special events such as art, cultural, intellectual, scientific, and sports activities, the purchase of tricycles for handicapped students, any emergency situation or untimely calamity, and in the event of death."
+    ],
+    "benefits": [
+      "Under this scheme, financial assistance is provided for the following:",
+      "•",
+      "For participation in special events such as art, cultural, intellectual, and scientific activities:",
+      "₹3,000/-",
+      "For tricycles for disabled students:",
+      "In case of untimely calamity or any emergency situation:",
+      "₹25,000/-",
+      "For special diseases such as cancer, TB, and heart disease, etc.:",
+      "₹10,000/-",
+      "In case of death:"
+    ],
+    "eligibility": [
+      "1. The applicant should be a student.",
+      "2. The student should be a native of Madhya Pradesh.",
+      "3. The student should be studying in Class 1 to 10.",
+      "4. The student should belong to the Scheduled Tribe category.",
+      "5. The student should be enrolled in a government or accredited and approved educational institution/school.",
+      "6. A student who has not received financial support from any other government scheme is eligible for this scheme.",
+      "Note: Any aspect which is supported by any scheme availed, that aspect will not be provided by this scheme"
+    ],
+    "application_process": {
+      "offline": [
+        "To avail of the benefits under this scheme, students must submit their applications to the head of their institution/school."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph",
+      "Aadhaar card",
+      "Domicile certificate of Madhya Pradesh",
+      "Caste certificate",
+      "Income certificate",
+      "Samagra ID",
+      "Previous class passing marksheet",
+      "Bank account details/Bank Passbook",
+      "Other necessary documents if required"
+    ],
+    "sources_and_references": [
+      "Scheme Details",
+      "Guidelines (Page No. 86)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Scheme?",
+      "answer": "Students who are natives of Madhya Pradesh, studying in Class 1 to 10, belong to the Scheduled Tribe category, and are enrolled in a government or accredited educational institution/school are eligible."
+    },
+    {
+      "question": "What types of emergencies does the scheme cover?",
+      "answer": "The scheme covers emergencies such as treatment for special diseases like cancer, TB, and heart diseases, participation in special events, purchase of tricycles for handicapped students, any emergency situation or untimely calamity, and in the event of death."
+    },
+    {
+      "question": "What financial assistance is provided for participation in special events?",
+      "answer": "Financial assistance of ₹3,000/- is provided for participation in art, cultural, intellectual, and scientific activities."
+    },
+    {
+      "question": "How much financial assistance is provided for tricycles for disabled students?",
+      "answer": "Financial assistance of ₹3,000/- is provided for the purchase of tricycles for disabled students."
+    },
+    {
+      "question": "What is the financial assistance amount in case of untimely calamity or any emergency situation?",
+      "answer": "In case of untimely calamity or any emergency situation, financial assistance of ₹25,000/- is provided."
+    },
+    {
+      "question": "How much financial assistance is provided for special diseases?",
+      "answer": "Financial assistance of ₹10,000/- is provided for the treatment of special diseases like cancer, TB, and heart disease."
+    },
+    {
+      "question": "What is the financial assistance amount provided in case of death?",
+      "answer": "In the event of death, financial assistance of ₹25,000/- is provided."
+    },
+    {
+      "question": "Can a student receive financial support from other government schemes while applying for this scheme?",
+      "answer": "No, a student who has received financial support from any other government scheme is not eligible for this scheme for the same purpose."
+    },
+    {
+      "question": "How can students apply for the scheme?",
+      "answer": "Students must submit their applications to the head of their institution/school to avail of the benefits under this scheme."
+    },
+    {
+      "question": "Are private school students eligible for this scheme?",
+      "answer": "Only students enrolled in government or accredited and approved educational institutions/schools are eligible."
+    },
+    {
+      "question": "Can students from other states studying in Madhya Pradesh avail of this scheme?",
+      "answer": "No, only students who are natives of Madhya Pradesh are eligible for this scheme."
+    }
+  ]
+}

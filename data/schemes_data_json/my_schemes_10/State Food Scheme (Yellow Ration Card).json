@@ -1,0 +1,72 @@
+{
+  "scheme_name": "State Food Scheme (Yellow Ration Card)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sfyyrc",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "State Food Scheme (Yellow Ration Card)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"State Food Scheme (Yellow Ration Card)\" was launched by the Department of Food, Civil Supplies & Consumer Affairs, Government of Uttarakhand. The scheme aims to provide rice at subsidized rates to yellow ration card holders in the state."
+    ],
+    "benefits": [
+      "Under this scheme, each ration card holder receives 7.50 kg of rice per month at the rate of ₹11/- per kg."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The annual family income of the applicant should be ₹5 lakh or less."
+    ],
+    "application_process": {
+      "offline": [
+        "To obtain this type of ration card, the applicant must first collect the application form from the Gram Panchayat Development Officer, Supply Inspector, Regional Food Officer, or District Supply Officer of the respective area.",
+        "Along with the application, the applicant is required to submit the Aadhaar cards of all family members, a photograph of the head of the family, a mobile phone number, bank account details, gas connection details, voter ID card, PAN card, income certificate, and electricity bill to the concerned office.",
+        "In rural areas, the Gram Panchayat Development Officer records the applicant’s name and forwards it with a recommendation to the Food Supply Department for further action. In urban areas, the Food Supply Department conducts an investigation, and if the application is found correct, the details are digitized. The applicant can then contact the District Supply Office within ten days to obtain the ration card.",
+        "If the income of a ration card holder increases, it is the responsibility of the holder to inform the District Supply Officer. In such cases, the individual is removed from the scheme by the department. The District Supply Officer also conducts inspections from time to time, and action for removal is taken even after a proposal is passed by the Gram Panchayat. Additionally, if any third party provides information regarding ineligibility, the department investigates the matter, and if the information is found correct, the ration card of the concerned holder is cancelled."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar cards of all family members",
+      "Photograph of the head of the family",
+      "Mobile phone number",
+      "Bank account details",
+      "Gas connection details",
+      "Voter ID card",
+      "PAN card",
+      "Income certificate",
+      "Electricity bill"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 60)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible to apply for a Yellow Ration Card under this scheme?",
+      "answer": "The applicant must be a resident of Uttarakhand, and the family’s annual income should not exceed ₹5 lakh."
+    },
+    {
+      "question": "How much rice is provided under this scheme?",
+      "answer": "Each Yellow Ration Card holder receives 7.50 kg of rice per month."
+    },
+    {
+      "question": "What is the subsidized rate of rice under this scheme?",
+      "answer": "Rice is distributed at the rate of ₹11.00 per kg to Yellow Ration Card holders."
+    },
+    {
+      "question": "Where can I get the application form for a Yellow Ration Card?",
+      "answer": "The application form can be obtained from the Gram Panchayat Development Officer, Supply Inspector, Regional Food Officer, or District Supply Officer of the concerned area."
+    },
+    {
+      "question": "What is the process for applying in rural areas?",
+      "answer": "In rural areas, the Gram Panchayat Development Officer records the applicant’s details and forwards the application with a recommendation to the Food Supply Department for further processing."
+    },
+    {
+      "question": "What is the process for applying in urban areas?",
+      "answer": "In urban areas, the Food Supply Department conducts a verification process. If the application is found correct, digitization is done, and the ration card is issued."
+    },
+    {
+      "question": "How long does it take to get a Yellow Ration Card after applying?",
+      "answer": "Applicants can contact the District Supply Office within 10 days of successful verification to collect their ration card."
+    }
+  ]
+}

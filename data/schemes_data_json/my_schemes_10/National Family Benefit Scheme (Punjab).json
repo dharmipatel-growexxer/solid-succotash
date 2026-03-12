@@ -1,0 +1,115 @@
+{
+  "scheme_name": "National Family Benefit Scheme (Punjab)",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nfbsp",
+  "location_name": "Punjab",
+  "location_type": "state",
+  "page_title": "National Family Benefit Scheme (Punjab)",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"National Family Benefit Scheme (Punjab)\" is a social welfare initiative by the Department of Social Security and Development of Women and Children, Government of Punjab. Under this scheme, a lump sum assistance of ₹20,000/- is provided to the bereaved household in the event of the death of their breadwinner."
+    ],
+    "benefits": [
+      "Financial assistance of ₹20,000/-."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Punjab.",
+      "The applicant should be a family member or a dependent of the deceased breadwinner (an earning member of the family on whom the family primarily depended for income).",
+      "The family should be living Below the Poverty Line (BPL).",
+      "The deceased should have been between 18 and 60 years old."
+    ],
+    "application_process": {
+      "online": [
+        "Step 1:",
+        "The interested applicant should visit the District Social Security Officer and request a hard copy of the prescribed format of the application form from the concerned staff.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the",
+        "District Social Security Officer",
+        ".",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Death Certificate of the Breadwinner",
+      "– Mandatory proof of the primary earner’s demise.",
+      "Proof of Below Poverty Line (BPL) Status",
+      "– Such as a BPL Card, Blue Ration Card, Income Certificate, or Certificate from Local Authority (e.g., Gram Panchayat/Municipality) verifying BPL status",
+      "Proof of Identity & Age of the Deceased",
+      "– Aadhaar Card, Voter ID, or Birth Certificate.",
+      "Residence Proof",
+      "– Aadhaar Card, Voter ID, or Utility Bills verifying the family’s address.",
+      "Bank Account Details",
+      "– Aadhaar-linked bank passbook or post office account details for Direct Benefit Transfer (DBT).",
+      "Passport-Sized Photograph",
+      "– Of the applicant (new head of the family)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are the residency requirements to qualify for the financial assistance under this scheme?",
+      "answer": "The applicant must be a resident of Punjab to be eligible for the scheme."
+    },
+    {
+      "question": "Who can apply for the benefit in case of the death of the primary breadwinner?",
+      "answer": "A family member or dependent of the deceased breadwinner can apply for the assistance."
+    },
+    {
+      "question": "Is there an income condition that the family must meet to be eligible for support?",
+      "answer": "Yes, the family must be living Below the Poverty Line (BPL) to qualify."
+    },
+    {
+      "question": "What is the age range of the deceased breadwinner for the family to be eligible?",
+      "answer": "The deceased must have been between 18 and 60 years old at the time of death."
+    },
+    {
+      "question": "How much financial assistance is provided under this scheme to the bereaved family?",
+      "answer": "A lump sum amount of ₹20,000/- is given to the eligible household."
+    },
+    {
+      "question": "What is the mandatory document required to prove the death of the primary earner?",
+      "answer": "A death certificate of the breadwinner must be submitted as proof."
+    },
+    {
+      "question": "What documents can be submitted as proof of the family’s Below Poverty Line status?",
+      "answer": "Acceptable documents include a BPL Card, Blue Ration Card, Income Certificate, or a certificate from the local authority (Gram Panchayat/Municipality)."
+    },
+    {
+      "question": "How should the bank account details be provided for receiving the financial assistance?",
+      "answer": "The applicant must submit an Aadhaar-linked bank passbook or post office account details for Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Is a photograph required as part of the application process, and whose photo should it be?",
+      "answer": "A passport-sized photograph of the applicant (new head of the family) must be submitted."
+    },
+    {
+      "question": "Where can an applicant obtain the offline application form for this scheme?",
+      "answer": "The applicant must visit the District Social Security Officer to get the prescribed application form."
+    },
+    {
+      "question": "What steps should be followed while filling out the offline application form?",
+      "answer": "All mandatory fields must be filled, a photograph attached, and self-attested copies of documents submitted."
+    },
+    {
+      "question": "After registering on UMANG, how can the applicant access the relevant scheme application?",
+      "answer": "They must visit the \"National Social Assistance Programme (NSAP)\" page and click \"Apply Online.\""
+    },
+    {
+      "question": "Is there any fee charged for applying under this scheme, either online or offline?",
+      "answer": "The guidelines does not mention any application fee, so it is assumed to be free."
+    },
+    {
+      "question": "Can a non-resident of Punjab apply for this financial assistance if the deceased was a resident?",
+      "answer": "No, the applicant must be a resident of Punjab to be eligible."
+    },
+    {
+      "question": "If the deceased was above 60 years old, can the family still apply for assistance?",
+      "answer": "No, the scheme only covers deaths of breadwinners aged between 18 and 60 years."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Unemployment Allowance to Disabled Persons",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/uatdp",
+  "location_name": "Chandigarh",
+  "location_type": "union_territory",
+  "page_title": "Unemployment Allowance to Disabled Persons",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The Unemployment Allowance To Disabled Person scheme under the Social Welfare, Women & Child Development Chandigarh Government is to provide unemployment allowance to handicapped individuals who have been unemployed for an unduly long period and belong to the poor section of society. These individuals need assistance until they secure gainful employment. The scheme seeks to alleviate the financial burden faced by unemployed handicapped persons, ensuring they can meet their basic needs while actively seeking employment opportunities. By offering financial support, the scheme aims to empower disabled individuals to become self-sufficient members of society."
+    ],
+    "benefits": [
+      "To all categories of Handicapped Persons: ₹500/- per month."
+    ],
+    "eligibility": [
+      "The applicant should be an unemployed person.",
+      "The applicant's age should be between 18-30 years.",
+      "The applicant's total family income of parents should not exceed ₹ 1,50,000/- per annum.",
+      "The applicants should have a minimum of two years of registration in the Special Employment Exchange in the U.T. Chandigarh.",
+      "The applicants should have been residing in U.T. Chandigarh for at least three years immediately before the submission."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step-1: Applicant have to visit the \"",
+        "ServicesPlus",
+        "\" website.",
+        "Step-2: Click on \"",
+        "Register",
+        "\" on the homepage.",
+        "Step-3: Fill out the registration form with your",
+        "- Full Name",
+        "- Email id",
+        "- Mobile number",
+        "- Password",
+        "- Select State",
+        "- Enter Captcha",
+        "Step-4: Review the details to ensure accuracy, and then submit the registration.",
+        "Step-5: After that OTP will sent to your mobile or gmail then click Verify after entering the OTP.",
+        "Step-6: Now you are successful in registration, you may receive a confirmation message on the website or via email, confirming that your registration was successful.",
+        "Apply",
+        "Step-1: Applicant have to visit the",
+        "\"ServicesPlus\"",
+        "website \"",
+        "login",
+        "\"",
+        "Step-2: Enter your Email ID or Password, captcha.",
+        "Step-3: Select the services/Scheme name.",
+        "Step-4: Provide the required details in the application form.",
+        "Step-5: Submit."
+      ]
+    },
+    "documents_required": [
+      "Disability Certificate",
+      "ID proof",
+      "Application form",
+      "Bank Account"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Registration",
+      "Login"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the objective of the scheme?",
+      "answer": "The scheme aims to give an unemployment allowance to the unemployed Handicapped Person waiting for employment for an unduly long period who belongs to the poor section of society and is required to be assisted till their gainful employment."
+    },
+    {
+      "question": "Is there any age criteria ?",
+      "answer": "His/her age is between 18-30 years."
+    },
+    {
+      "question": "What is the financial benefit amount ?",
+      "answer": "All categories of Handicapped Persons ₹500/month"
+    },
+    {
+      "question": "May Other State persons also apply for this scheme?",
+      "answer": "No, only Chandigarh people can apply for this scheme."
+    },
+    {
+      "question": "Is there any income related criteria?",
+      "answer": "The total family income of parents should not exceed ₹1.50 lacs p.a."
+    },
+    {
+      "question": "How many times the applicant can avail of the benefits of the scheme?",
+      "answer": "Only ones."
+    },
+    {
+      "question": "Is this scheme only for disabled unemployed people?",
+      "answer": "Yes, this scheme is only for disabled unemployed people."
+    },
+    {
+      "question": "How can i apply online?",
+      "answer": "Go to the ServicesPlus website https://serviceonline.gov.in/ and follow the steps given in the scheme."
+    },
+    {
+      "question": "Can this scheme be applied offline?",
+      "answer": "No, this scheme applies online."
+    },
+    {
+      "question": "Under which department does this scheme come?",
+      "answer": "Social Welfare, Women & Child Development."
+    }
+  ]
+}

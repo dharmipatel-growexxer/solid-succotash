@@ -1,0 +1,89 @@
+{
+  "scheme_name": "Assistance for Marriage",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/afm",
+  "location_name": "Tamil Nadu",
+  "location_type": "state",
+  "page_title": "Assistance for Marriage",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Assistance for Marriage\" was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. Under this scheme, a sum of ₹2,000/- is given to meet the marriage expenses of the differently abled person or his son or daughter. The applications are accepted offline in the prescribed form available at the District Differently Abled Welfare Office."
+    ],
+    "benefits": [
+      "Financial Assistance of ₹2,000/-."
+    ],
+    "eligibility": [
+      "Eligibility for differently abled person:",
+      "The applicant should be a differently abled person.",
+      "The differently abled person shall have attained the age as prescribed by law for marriage.",
+      "Eligibility for son or daughter:",
+      "The children of differently-abled person should be holding identity card."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit (during office hours) the District Differently Abled Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents to the District Differently Abled Welfare Officer.",
+        "Step 4:",
+        "Request a receipt or acknowledgment from the District Differently Abled Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Differently Abled Identity Card (issued by the welfare board).",
+      "Birth Certificate.",
+      "Proof of Marriage."
+    ],
+    "sources_and_references": [
+      "Citizen's Charter (2022)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much financial assistance is provided under this scheme?",
+      "answer": "Under this scheme, eligible individuals receive ₹2,000/- as financial assistance to meet marriage expenses."
+    },
+    {
+      "question": "Who is eligible to receive assistance for marriage expenses?",
+      "answer": "Children of any differently abled person holding an identity card issued by the welfare board are eligible to receive assistance for marriage."
+    },
+    {
+      "question": "What is the eligibility criterion regarding the age of the differently abled person?",
+      "answer": "The differently abled person applying for assistance must have attained the age prescribed by law for marriage."
+    },
+    {
+      "question": "Is there a prescribed application form for availing this assistance?",
+      "answer": "Yes, there is a prescribed application form available, which can be obtained from the District Differently Abled Welfare Office."
+    },
+    {
+      "question": "Is a birth certificate necessary for applying for this assistance?",
+      "answer": "Yes, a birth certificate is required as part of the documentation for applying for assistance for marriage."
+    },
+    {
+      "question": "What proof of marriage needs to be submitted along with the application?",
+      "answer": "Proof of marriage, such as a marriage certificate or affidavit, needs to be submitted along with the application."
+    },
+    {
+      "question": "How can individuals address grievances related to the Assistance for Marriage scheme?",
+      "answer": "Individuals can address grievances related to the Assistance for Marriage scheme by contacting the Assistant Director (DAW) at the Commissionerate for Welfare of the Differently Abled."
+    },
+    {
+      "question": "Are there any fees or charges associated with applying for this assistance?",
+      "answer": "There are no fees or charges associated with applying for assistance for marriage under this scheme."
+    },
+    {
+      "question": "Can the assistance be used for the marriage expenses of both sons and daughters?",
+      "answer": "Yes, the assistance can be used for the marriage expenses of both sons and daughters of the differently abled person."
+    },
+    {
+      "question": "Can differently abled persons outside the district apply for this assistance?",
+      "answer": "This assistance is available only to individuals residing within the district covered by the scheme."
+    },
+    {
+      "question": "Is there any income criterion for eligibility under this scheme?",
+      "answer": "There are no income criteria specified for eligibility under this scheme."
+    }
+  ]
+}

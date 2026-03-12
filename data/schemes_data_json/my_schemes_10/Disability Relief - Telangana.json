@@ -1,0 +1,100 @@
+{
+  "scheme_name": "Disability Relief - Telangana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dr-tbocwwb",
+  "location_name": "Telangana",
+  "location_type": "state",
+  "page_title": "Disability Relief - Telangana",
+  "scraped_at": "2026-03-12 05:15:50 UTC",
+  "sections": {
+    "details": [
+      "The \"Disability Relief - TBOCWWB\" is a welfare initiative implemented by the Telangana Building and Other Construction Workers Welfare Board, LET&F (Labour) Department, Telangana. The scheme aims to provide financial support to registered building and other construction workers who suffer from total or partial permanent disabilities due to accidents. This scheme offers enhanced relief amounts to help workers cope with the financial burden resulting from their disabilities."
+    ],
+    "benefits": [
+      "Relief for Total Permanent Disability:",
+      "A relief amount of ₹5,00,000/-.",
+      "Relief for Partial Permanent Disability:",
+      "A relief amount of up to ₹4,00,000/-."
+    ],
+    "eligibility": [
+      "The worker should be a registered building or construction worker with the Telangana Building and Other Construction Workers Welfare Board.",
+      "The disablement must have occurred due to an accident at the worksite.",
+      "Such disablement may be either temporary or permanent."
+    ],
+    "application_process": {
+      "offline": [
+        "Step-1:",
+        "The interested applicant visits the",
+        "official website",
+        "and clicks on \"",
+        "Downloads",
+        "\" at the top of menu options.",
+        "Step-2:",
+        "Now click on the download button corresponding to the scheme name.",
+        "Step-3",
+        ": In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-4:",
+        "Submit the duly filled and signed application form along with the documents to the concerned Assistant Labour Officer.",
+        "Step-5:",
+        "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph.",
+      "Aadhaar Card.",
+      "Registration Card under the BOCW Act (Attested copy).",
+      "Renewal Challan Copy.",
+      "Attested Copy of Disability Certificate (issued by the Competent Authority).",
+      "FIR Copy (if the case is registered with the police).",
+      "Advance stamped receipt.",
+      "1",
+      "st",
+      "page of Bank Passbook (Attested copy)."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "List Of Schemes"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Disability Relief Scheme?",
+      "answer": "Registered building and construction workers who suffer from total or partial permanent disability due to an accident."
+    },
+    {
+      "question": "What is the relief amount for total permanent disability?",
+      "answer": "₹5,00,000 is provided as relief for total permanent disability."
+    },
+    {
+      "question": "What is the relief amount for partial permanent disability?",
+      "answer": "Up to ₹4,00,000 is provided as relief for partial permanent disability."
+    },
+    {
+      "question": "What types of accidents are covered under this scheme?",
+      "answer": "The scheme covers accidents occurring both at the workplace and elsewhere."
+    },
+    {
+      "question": "Is the relief amount in addition to other compensations?",
+      "answer": "Yes, the relief is in addition to any other compensations the worker may be entitled to."
+    },
+    {
+      "question": "Can a worker apply for the relief if the accident occurred before May 1, 2016?",
+      "answer": "No, the enhanced relief amount is applicable only for accidents occurring on or after May 1, 2016."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Submit the application to the concerned Assistant Labour Officer."
+    },
+    {
+      "question": "What happens after the application is submitted?",
+      "answer": "The Deputy Commissioner of Labour will obtain an enquiry report, and the application will be scrutinized by the District Scrutiny Committee."
+    },
+    {
+      "question": "How is the scheme amount disbursed?",
+      "answer": "After approval, the amount is transferred to the worker’s bank account."
+    },
+    {
+      "question": "Is there any additional relief for workers who have multiple disabilities?",
+      "answer": "The relief amount is determined based on the extent of disability as per the Employees’ Compensation Act, 1923."
+    }
+  ]
+}

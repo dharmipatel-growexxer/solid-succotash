@@ -1,0 +1,90 @@
+{
+  "scheme_name": "Divyang Pension Scheme - Uttarakhand",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/dpsuk",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Divyang Pension Scheme - Uttarakhand",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Divyang Pension Scheme\" has been launched by the Department of Social Welfare, Government of Uttarakhand, aims to provide financial support to persons with disabilities (PwDs) to help them meet their basic needs and improve their quality of life. Under this scheme, a monthly pension is provided to persons with disabilities who are above 18 years of age and have a disability of more than 40%."
+    ],
+    "benefits": [
+      "A pension of ₹1,500/- per month is provided to eligible beneficiaries."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be above18 years of age.",
+      "The applicant must have a disability of more than 40%.",
+      "The applicant must have a monthly income of up to ₹4,000/- or belong to the Below Poverty Line (BPL) category.",
+      "The applicant must not be availing any other pension benefits."
+    ],
+    "application_process": {
+      "online": [
+        "The applicant can apply online either by themselves or through a Common Service Center (CSC) via the Department’s Pension Portal (",
+        "https://ssp.uk.gov.in",
+        "), the",
+        "UMANG",
+        "Mobile App, or the Apuni Sarkar Portal (",
+        "https://eservices.uk.gov.in",
+        ").",
+        "The following documents are mandatory at the time of applying:",
+        "Applicant’s mobile number, Passport-size photograph (attested by Gram Pradhan / V.P.D.O. / certified by Councillor), Photocopy of Aadhaar card and Voter ID card, Disability certificate showing more than 40% disability issued by the Chief Medical Officer, CBS bank account details (linked/seeded with Aadhaar), Valid family income certificate or BPL certificate, Copy of family register (for rural areas only), Copy of the resolution passed in the open meeting of Gram Panchayat (for rural areas) / certified by Councillor (for urban areas)",
+        "All the above documents must be issued from the district where the application is being submitted.",
+        "For verification of the online application form in rural areas, the final decision is taken by the District Social Welfare Officer after recommendations from the Gram Panchayat Development Officer, Assistant Social Welfare Officer, and Block Development Officer, respectively. In urban areas, verification and recommendation are done by the Assistant Social Welfare Officer and Sub-District Magistrate. If the application is found correct, the District Social Welfare Officer approves it, after which the pension payment process is initiated.",
+        "The pension is credited to the applicant’s bank account one month after the approval of the application."
+      ]
+    },
+    "documents_required": [
+      "Applicant’s mobile number",
+      "Passport-size photograph (certified by Gram Pradhan / V.P.D.O. / Councillor)",
+      "Aadhaar card",
+      "Voter ID card",
+      "CBS bank account linked/seeded with Aadhaar card",
+      "Valid family income certificate or BPL certificate",
+      "Disability certificate showing more than 40% disability issued by the Chief Medical Officer",
+      "Copy of family register (only for rural areas)",
+      "Note:",
+      "All the above documents must be issued from the district where the application is submitted."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 16)",
+      "Online Application Portal",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How much pension is provided under the scheme?",
+      "answer": "A monthly pension of ₹1,500 is provided to eligible beneficiaries."
+    },
+    {
+      "question": "What is the minimum age requirement to apply for the scheme?",
+      "answer": "The applicant must be at least 18 years of age."
+    },
+    {
+      "question": "Is there a minimum disability percentage required for eligibility?",
+      "answer": "Yes, the applicant must have a disability of more than 40%, certified by a competent medical authority."
+    },
+    {
+      "question": "What is the income limit for applying to the scheme?",
+      "answer": "The applicant’s monthly income should not exceed ₹4,000 or they must belong to the Below Poverty Line (BPL) category."
+    },
+    {
+      "question": "Can someone receive this pension if they are already getting another pension?",
+      "answer": "No, the applicant must not be availing any other pension benefits to be eligible for this scheme."
+    },
+    {
+      "question": "Do applicants need to be permanent residents of Uttarakhand?",
+      "answer": "Yes, only permanent residents of Uttarakhand can apply for the scheme."
+    },
+    {
+      "question": "Who issues the disability certificate for this scheme?",
+      "answer": "The disability certificate must be issued by a competent medical authority, such as the Chief Medical Officer (CMO) or an authorized hospital."
+    },
+    {
+      "question": "How can I apply for this pension?",
+      "answer": "You can apply online through: Department’s Pension Portal UMANG Mobile App Apni Sarkar Portal Department’s Pension Portal UMANG Mobile App Apni Sarkar Portal"
+    }
+  ]
+}

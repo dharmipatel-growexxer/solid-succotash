@@ -1,0 +1,141 @@
+{
+  "scheme_name": "Rental Housing Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/rhs",
+  "location_name": "Assam",
+  "location_type": "state",
+  "page_title": "Rental Housing Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "The \"Rental Housing Scheme\" was launched by the Department of Housing and Urban Affairs, Government of Assam on 14th October 1977. The scheme aims to provide rental housing to individuals and families from lower and middle-income groups, address housing shortages, prevent unauthorized settlements, and promote orderly urban development in high-demand areas across Assam, with a significant presence in urban areas. The scheme provides rental housing particularly in urban and semi-urban areas and offers accommodation for Grade Third and Grade Fourth government or semi-government employees, while also benefiting eligible non-government individuals without property in the area."
+    ],
+    "benefits": [
+      "Rental Housing Provision:",
+      "Provides rental housing to needy people, particularly in urban and semi-urban areas.",
+      "Employment-based Accommodation:",
+      "Offers accommodation specifically for Grade Third and Grade Fourth government or semi-government employees.",
+      "Non-government Eligibility:",
+      "Benefits eligible non-government individuals without property in the area.",
+      "Urban Development:",
+      "Helps reduce unauthorized settlements by offering planned housing.",
+      "Transparent Allocation:",
+      "Ensures transparent allotment through a draw-of-lots system as per Honourable Gauhati High Court directions.",
+      "Geographic Coverage:",
+      "Supports urban and semi-urban housing needs across Assam with 2,322 rental flats constructed, of which 1,858 are located in greater Guwahati.",
+      "Urban Planning Support:",
+      "Contributes to urban planning and stability by managing migration and housing demand.",
+      "Housing Categories:",
+      "Housing types include Middle Income Group, Lower Income Group, and Economically Weaker Section categories.",
+      "Conditions",
+      "Payment of rent and security deposit as per allotment order.",
+      "Compliance with all terms and conditions outlined under Section 15(1) of the Assam State Housing Board Rules, 1976."
+    ],
+    "eligibility": [
+      "The applicant must be a Grade Third or Grade Fourth government or semi-government employee under Section 15(1) of Assam State Housing Board Rules, 1976.",
+      "The applicant must be a non-government individual meeting the conditions under Section 15(2) of Assam State Housing Board Rules, 1976.",
+      "The applicant must not own any landed property in the location where the rental housing is situated.",
+      "The applicant must fulfill all terms and conditions outlined under Section 15(1) of the Assam State Housing Board Rules, 1976.",
+      "The applicant must be between 18 years and 60 years of age."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "Visit the",
+        "Office of the Assam State Housing Board",
+        ", R.G. Baruah Road, Guwahati-05, or the District Housing offices located in the respective districts of Assam.",
+        "Step 2:",
+        "Obtain the prescribed application form from the designated staff by paying ₹500/-. The forms are available only during the notification period as announced by the board.",
+        "Step 3:",
+        "Fill in all required personal details including employment or occupation information, income details, category selection, and other mandatory columns as specified in the form. Attach all required documents as listed in the documents section, ensuring they are properly organized and complete. Verify that all documents meet the specified requirements and are properly attested where necessary.",
+        "Step 4:",
+        "Submit the completed application form along with all required documents in person at the Assam State Housing Board office or the respective District Housing office before the deadline as instructed in the notification.",
+        "Step 5:",
+        "Receive a receipt or acknowledgment after successful submission of the application and documents. This acknowledgment serves as proof of application submission and should be retained for future reference.",
+        "*Applications must be submitted before the deadline as instructed in the notification published by Assam State Housing Board.",
+        "*Late submissions will not be accepted under any circumstances.",
+        "*",
+        "Notifications and updates are published on the official website",
+        "https://ashb.assam.gov.in/",
+        "Post-Application Processes",
+        "Rental Housing Scheme flats are allotted through a draw of lots as per Honourable Gauhati High Court directions. If the number of applicants exceeds the number of available flats, the final allotment will be made through this transparent process.",
+        "Successful applicants must pay their rent and security deposit as per the allotment order issued by the board. Upon completion of payment formalities, occupancy can be taken as per the terms and conditions specified in the allotment order.",
+        "Grievance Redressal / Help & Support",
+        "Office Address:",
+        "Office of the Commissioner, Assam State Housing Board, R.G. Baruah Road, Guwahati-781005",
+        "Email:",
+        "ashb@nic.in, housingboard2021@gmail.com"
+      ]
+    },
+    "documents_required": [
+      "3 Recent Passport Size Photograph",
+      "Birth Certificate or Age Proof Certificate",
+      "Occupation Details",
+      "Income Certificate",
+      "Group Photograph of Family Members",
+      "An Affidavit Stating No House or Landed Property in the Respective District Where Rental Housing Scheme is Located",
+      "Non Drawal of Housing Loan Certificate from Appropriate Authority"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Application Process"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Can I apply for rental housing if I work as a Grade Third employee in the government sector?",
+      "answer": "Yes, Grade Third government or semi-government employees are eligible to apply under Section 15(1) of the Assam State Housing Board Rules, 1976."
+    },
+    {
+      "question": "What is the maximum age limit for applicants seeking rental accommodation under this housing initiative?",
+      "answer": "The applicant's age should not exceed 60 years at the time of application, with the minimum age requirement being 18 years."
+    },
+    {
+      "question": "Am I required to submit an affidavit regarding my property ownership status when applying for rental housing?",
+      "answer": "Yes, you must submit an affidavit stating that you do not own any house or landed property in the respective district where the rental housing is located."
+    },
+    {
+      "question": "How much do I need to pay to obtain the application form for rental housing accommodation?",
+      "answer": "You need to pay ₹500/- (Five Hundred Rupees) only to obtain each application form from the Assam State Housing Board office."
+    },
+    {
+      "question": "Will I be automatically allocated a flat if I meet all the eligibility criteria for this rental housing program?",
+      "answer": "No, if the number of applicants exceeds available flats, the final allotment will be made through a draw of lots as per Honourable Gauhati High Court directions."
+    },
+    {
+      "question": "Can non-government individuals apply for rental housing accommodation under this scheme, or is it exclusively for government employees?",
+      "answer": "Non-government individuals can apply if they meet the conditions specified under Section 15(2) of the Assam State Housing Board Rules, 1976."
+    },
+    {
+      "question": "What happens if I own landed property in the same location where I am applying for rental housing?",
+      "answer": "Applicants who own landed property in the same location are excluded from availing benefits under this housing scheme."
+    },
+    {
+      "question": "Do I need to provide photographs along with my application, and if yes, how many copies are required?",
+      "answer": "Yes, you must provide 3 copies of recent passport size photographs and 1 copy of a group photograph of family members."
+    },
+    {
+      "question": "Is it possible to submit my application for rental housing through online mode, or do I have to visit the office personally?",
+      "answer": "The application process is offline only, and you must visit the Assam State Housing Board office or District Housing offices to submit your application personally."
+    },
+    {
+      "question": "What types of housing categories are available under this rental accommodation scheme for eligible applicants?",
+      "answer": "The housing types available include Middle Income Group, Lower Income Group, and Economically Weaker Section categories."
+    },
+    {
+      "question": "If I am a Grade Fourth semi-government employee, am I eligible to apply for rental housing under this program?",
+      "answer": "Yes, Grade Fourth semi-government employees are eligible to apply under Section 15(1) of the Assam State Housing Board Rules, 1976."
+    },
+    {
+      "question": "What certificate do I need to provide to prove that I have not availed any housing loan previously?",
+      "answer": "You must submit a Non drawal of Housing loan certificate from the appropriate authority along with your application."
+    },
+    {
+      "question": "Where can I collect the application form for rental housing, and during what time period is it available?",
+      "answer": "You can collect forms from the Assam State Housing Board Head Office on R.G. Baruah Road, Guwahati-05, or District Housing offices during the notification period announced by the board."
+    },
+    {
+      "question": "What is the minimum age requirement for applicants who wish to apply for rental housing accommodation?",
+      "answer": "The minimum age requirement for applicants is 18 years, and you must provide a birth certificate or age proof certificate as documentation."
+    }
+  ]
+}

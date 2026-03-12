@@ -1,0 +1,111 @@
+{
+  "scheme_name": "Silicosis Financial Assistance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/sfas",
+  "location_name": "Gujarat",
+  "location_type": "state",
+  "page_title": "Silicosis Financial Assistance Scheme",
+  "scraped_at": "2026-03-12 09:36:09 UTC",
+  "sections": {
+    "details": [
+      "Launched in 2006, the scheme \"Silicosis Financial Assistance Scheme\" by the Gujarat Rural Workers Welfare Board, Labour and Employment Department, Government of Gujarat, aims to provide financial assistance to the heirs of self-reliant persons carrying on occupation of Akik who suffer from the serious disease of silicosis in the state, addressing the occupational health hazards faced by workers in the Akik industry. The scheme provides financial assistance of ₹1,00,000/- to the heirs of affected workers as a security measure and compensation for the occupational disease. The applicant must be the heir of a self-reliant person who was engaged in Akik occupation and died due to silicosis disease in Gujarat state. The scheme is implemented by Gujarat Rural Workers Welfare Board under Labour and Employment Department. The applications for this scheme are accepted through the prescribed process."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹1,00,000/- (one lakh rupees) per case.",
+      "Purpose:",
+      "Financial assistance to heirs of deceased workers who died due to silicosis.",
+      "Nature:",
+      "One-time payment as compensation."
+    ],
+    "eligibility": [
+      "The applicant must be the legal heir of a deceased person who was engaged in Akik occupation.",
+      "The applicant must be the heir of a self-reliant person who carried on occupation of Akik in Gujarat state.",
+      "The applicant must be the heir of a person who died due to serious disease of silicosis.",
+      "The applicant must be the heir of a worker whose death occurred due to occupational silicosis while engaged in Akik work.",
+      "The applicant must establish the occupational nature of the silicosis disease in relation to Akik work."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the Office of the Government Labour Officer, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority given below -",
+        "Office of the Government Labour Officer (Rural) in the case of worker living in rural area.",
+        "Office of the Government Labour Officer (Industry) in the case of worker living in urban area.",
+        "Step 4:",
+        "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "Step 5:",
+        "The concerned authorities will verify the submitted documents and establish the eligibility of the applicant as legal heir and confirm the occupational nature of silicosis disease.",
+        "Step 6:",
+        "The board will assess the case to confirm that the deceased was engaged in Akik occupation and that the death was due to silicosis disease as per medical evidence.",
+        "Step 7:",
+        "Upon successful verification and assessment, the case will be processed for approval and financial sanction by the competent authority."
+      ]
+    },
+    "documents_required": [
+      "Death Certificate of The Worker",
+      "Medical Certificate Confirming Silicosis as Cause of Death",
+      "Legal Heir Certificate",
+      "Proof of Employment in Akik Occupation",
+      "Identity Proof of The Applicant (Heir)",
+      "Address Proof of The Applicant",
+      "Medical Records Establishing Silicosis Disease",
+      "Employment Records or Proof of Akik Occupation of The Deceased"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What documents do I need to provide to prove that my deceased family member worked in the Akik occupation?",
+      "answer": "You must submit employment records or proof of Akik occupation of the deceased, along with medical records establishing silicosis disease and proof of employment in Akik occupation."
+    },
+    {
+      "question": "How much financial compensation will I receive if my application for assistance is approved by the authorities?",
+      "answer": "The scheme provides a one-time financial assistance of ₹1,00,000/- (one lakh rupees) per case to the heirs of deceased workers."
+    },
+    {
+      "question": "Can I apply for this financial assistance if my family member died from silicosis but worked in a different industry?",
+      "answer": "No, the deceased person must have been specifically engaged in Akik occupation and died due to occupational silicosis while working in this field."
+    },
+    {
+      "question": "What type of medical documentation is required to establish that silicosis was the cause of my relative's death?",
+      "answer": "You need to submit a medical certificate confirming silicosis as the cause of death and medical records establishing the silicosis disease."
+    },
+    {
+      "question": "Do I need to prove that I am the legal heir of the deceased worker to qualify for this assistance?",
+      "answer": "Yes, you must provide a legal heir certificate as part of the required documentation to establish your relationship with the deceased worker."
+    },
+    {
+      "question": "Can family members of workers who died from silicosis in other states apply for this financial assistance program?",
+      "answer": "No, the applicant must be the heir of a person who died due to silicosis while engaged in Akik work specifically in Gujarat state."
+    },
+    {
+      "question": "What personal identification documents do I need to submit along with my application for this compensation scheme?",
+      "answer": "You must provide identity proof of the applicant (heir) and address proof of the applicant as part of the required documentation."
+    },
+    {
+      "question": "Is this financial assistance provided multiple times or is it a single payment to the family of the deceased?",
+      "answer": "This is a one-time payment of ₹1,00,000/- provided as compensation upon death of worker due to silicosis disease."
+    },
+    {
+      "question": "What specific occupational connection must I establish between the deceased worker's silicosis and their work to qualify for assistance?",
+      "answer": "You must establish the occupational nature of the silicosis disease in relation to Akik work and prove the worker died due to occupational silicosis."
+    },
+    {
+      "question": "Can I apply for this assistance if my family member was employed by a company in Akik industry rather than being self-employed?",
+      "answer": "No, the scheme specifically covers heirs of self-reliant persons who carried on the occupation of Akik, not employees of companies."
+    },
+    {
+      "question": "What is the primary purpose of this financial assistance scheme and what type of workers does it aim to help?",
+      "answer": "The scheme aims to provide compensation for occupational disease-related deaths, specifically helping families of workers who died from silicosis contracted during Akik occupation."
+    },
+    {
+      "question": "How long has this financial assistance program been available to help families affected by occupational silicosis in the Akik industry?",
+      "answer": "The scheme was launched in 2006 by the Gujarat Rural Workers Welfare Board under the Labour and Employment Department, Government of Gujarat."
+    }
+  ]
+}

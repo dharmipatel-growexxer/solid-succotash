@@ -1,0 +1,124 @@
+{
+  "scheme_name": "Kashyapa Scheme for Food & Shelter",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/ksfs",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "Kashyapa Scheme for Food & Shelter",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The Andhra Pradesh Brahmin Welfare Corporation (ABC) Limited, a government undertaking, has launched the \"Kashyapa Scheme for Food & Shelter\" (KS-FS) to address the critical needs of underprivileged Brahmins in Andhra Pradesh. This initiative aims to alleviate the financial burden of food and shelter expenses, including orphan children, differently-abled individuals, widows, destitute women separated from their husbands, and elderly Brahmins. The program offers financial assistance and encompasses all 13 districts of the state."
+    ],
+    "benefits": [
+      "Financial Assistance:",
+      "₹2,000/- per month to orphan children.",
+      "₹2,000/- per month to different abled persons.",
+      "₹2,000/- per month to widow or destitute women (separated from husband).",
+      "₹2,000/- per month for elderly staying in his/her own home.",
+      "₹4,000/- per month for elderly staying in any Old-Age Home in Andhra Pradesh.",
+      "₹2,000/- per month for elderly staying in any Old-Age Home in Andhra Pradesh and getting a pension through the NTR Bharosa Scheme."
+    ],
+    "eligibility": [
+      "The applicant should belong to the Brahmin community and reside in Andhra Pradesh.",
+      "The applicant should be a holder of a white ration card.",
+      "The applicant's annual family income should not exceed ₹75,000/-.",
+      "The orphan children below 14 years of age as of 31st Jan 2019.",
+      "The Elderly above 60 years of age as of 31st Jan 2019.",
+      "All differently abled of any age and widows & destitute women (separated from husband, but do not have legal documents) of any age.",
+      "The applicant should not have availed himself/ herself of any amount under any other Government scheme for the same purpose."
+    ],
+    "application_process": {
+      "online": [
+        "Registration and apply",
+        "Step 01:",
+        "Applicants have to visit the official website(https://www.andhrabrahmin.ap.gov.in/schemes/schemes.aspx#) and click on \"Scheme\"",
+        "Step 02:",
+        "Click on \"Registration\" After that application form will open",
+        "Step 03:",
+        "Fill out the required details:",
+        "Personal Details: Name, Residence address, Aadhaar no, Ration card no, Bank detail etc",
+        "Upload: Photo, Signature and Certificate Details",
+        "Documents: Birth Certificate, Residential Certificate, Aadhar Card, Caste Certificate, Bank Passbook etc",
+        "Finalize and \"Submit\" the application.",
+        "Step-4:",
+        "After submission receive the reference number.",
+        "Check Application Status:",
+        "Click on the “Services” link on the menu and select \"Know your status\".",
+        "Enter the Reference or Mobile or Aadhaar Card Number to get the application status.",
+        "Select the \"Financial Year\" and Fetch the details.",
+        "Download the Acknowledgement slip:",
+        "Click on the \"Acknowledgement Slip\"",
+        "Enter the Aadhaar Card Number and select the \"Scheme\"",
+        "Click on the \"Submit\""
+      ]
+    },
+    "documents_required": [
+      "Passport-size Photograph.",
+      "Aadhar Card of the applicant.",
+      "Caste Certificate (issued by competent government authority Revenue Inspector/MRO.",
+      "White Ration Card OR Income Certificate (issued by competent Government authority Revenue Inspector/MRO.",
+      "Copy of SB Account in Andhra Bank or SBI (account must be in the name of applicant).",
+      "Staying Certificate (from the Old Age Home that the applicant is staying in their Old Age Home).",
+      "Death Certificate of Husband (in case of widow).",
+      "Legal Divorce Document (in case of divorcee women).",
+      "Recommendation Certificate (from Director/DLO/MCLO of the Corporation OR MC Member of the AP Brahmin Cooperative Credit Society OR any MLA / MP / MLC, in case of destitute women -separated from husband, but do not have legal document)."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is Kashyapa Scheme for Food & Shelter (KS-FS)?",
+      "answer": "KS-FS is a financial assistance scheme for poor Brahmins in Andhra Pradesh."
+    },
+    {
+      "question": "Who is eligible for KS-FS?",
+      "answer": "Brahmins residing in Andhra Pradesh with White Ration Card or annual family income below Rs. 75,000/-."
+    },
+    {
+      "question": "How do I apply for KS-FS?",
+      "answer": "Submit an online application at www.andhrabrahmin.ap.gov.in."
+    },
+    {
+      "question": "What documents are needed?",
+      "answer": "Passport photo, Aadhar card, caste certificate, income proof, bank account copy, and others as applicable."
+    },
+    {
+      "question": "How much financial assistance is provided?",
+      "answer": "₹2,000/- to ₹4,000/- per month based on eligibility criteria."
+    },
+    {
+      "question": "How is the assistance disbursed?",
+      "answer": "Funds are transferred directly to the applicant's SB account."
+    },
+    {
+      "question": "Who selects the applicants?",
+      "answer": "The State Level Committee (SLC) is responsible for selection."
+    },
+    {
+      "question": "Can I apply if receiving other government benefits?",
+      "answer": "No, you must not be receiving similar benefits from other government schemes."
+    },
+    {
+      "question": "Is there an age limit for differently-abled applicants?",
+      "answer": "No, there is no age limit for differently-abled applicants."
+    },
+    {
+      "question": "Can I apply without a White Ration Card?",
+      "answer": "Yes, with an income certificate indicating income below ₹75,000/-."
+    },
+    {
+      "question": "Is support available for filling out the application?",
+      "answer": "Yes, applicants can get help from internet centers or volunteers."
+    },
+    {
+      "question": "When will assistance payments start?",
+      "answer": "Payments start from the month of eligibility as determined by the SLC."
+    },
+    {
+      "question": "Can the SLC make exceptions?",
+      "answer": "Yes, the SLC can make exceptions and their decision is final."
+    }
+  ]
+}

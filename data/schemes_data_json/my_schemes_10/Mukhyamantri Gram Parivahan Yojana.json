@@ -1,0 +1,100 @@
+{
+  "scheme_name": "Mukhyamantri Gram Parivahan Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mgpy",
+  "location_name": "Bihar",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Gram Parivahan Yojana",
+  "scraped_at": "2026-03-12 06:33:05 UTC",
+  "sections": {
+    "details": [
+      "The \"Mukhyamantri Gram Parivahan Yojana\" launched by the Transport Department, Government of Bihar, aimed at improving transportation facilities in all panchayats of the state. It offers financial assistance to beneficiaries for purchasing vehicles."
+    ],
+    "benefits": [
+      "Standard vehicles:",
+      "50% of the purchase price or up to ₹1,00,000/-.",
+      "E-rickshaws:",
+      "50% of the purchase price or up to ₹70,000/-.",
+      "Ambulances:",
+      "50% of the purchase price or up to ₹2,00,000/-."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of the state.",
+      "The applicant must belong to a rural area.",
+      "The applicant should not have benefited from a similar scheme previously.",
+      "For ambulance purchases, applicants must be willing to use it for public health services."
+    ],
+    "application_process": {
+      "online": [
+        "Registration Process:",
+        "Step-1:",
+        "Visit the official",
+        "Website",
+        ". Click on the \"Registration\" button.",
+        "Step-2:",
+        "Enter your Mobile Number, New Password, Email, and Driving License No.",
+        "Step-3:",
+        "Click on \"Register\" to complete the registration process.",
+        "Application Process:",
+        "Login with your registered Mobile Number and Password.",
+        "On the Application page, fill in all the required details and upload the relevant documents.",
+        "Then click on the declaration form and click on \"Submit\".",
+        "Step-4:",
+        "Once all details are filled in correctly, click on \"Print Application\" to get a copy of the application form."
+      ]
+    },
+    "documents_required": [
+      "Proof of Address.",
+      "Proof of Birth.",
+      "Caste Certificate.",
+      "Aadhaar Details (Optional).",
+      "Driving License.",
+      "Marksheets of qualified exams."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is \"Mukhyamantri Gram Parivahan Yojana\"?",
+      "answer": "The \"Mukhyamantri Gram Parivahan Yojana\" is a state initiative designed to provide financial assistance for purchasing vehicles to enhance rural transportation."
+    },
+    {
+      "question": "Who is eligible for this scheme?",
+      "answer": "The scheme is open to residents of Bihar state who belong to economically weaker sections or marginalized communities."
+    },
+    {
+      "question": "What types of vehicles are covered under this scheme?",
+      "answer": "The scheme covers standard vehicles, e-rickshaws, and ambulances."
+    },
+    {
+      "question": "How much subsidy is provided under the scheme?",
+      "answer": "Beneficiaries can receive: 50% of the purchase price or up to ₹1,00,000/- for standard vehicles. 50% of the purchase price or up to ₹70,000/- for e-rickshaws. 50% of the purchase price or up to ₹2,00,000/- for ambulances."
+    },
+    {
+      "question": "What documents are required for the application?",
+      "answer": "Applicants must provide ID proof, income certificate, vehicle invoice, bank details, and other supporting documents."
+    },
+    {
+      "question": "Can an individual apply for more than one vehicle under this scheme?",
+      "answer": "No, each applicant can only benefit from the scheme for one vehicle type."
+    },
+    {
+      "question": "Can organizations or groups apply for this scheme?",
+      "answer": "No, the scheme is exclusively for individual beneficiaries."
+    },
+    {
+      "question": "Can the subsidy be used to purchase a second-hand vehicle?",
+      "answer": "No, the scheme provides assistance only for the purchase of new vehicles."
+    },
+    {
+      "question": "How are beneficiaries selected?",
+      "answer": "Beneficiaries are selected through a transparent process by the Panchayat or the concerned authority."
+    },
+    {
+      "question": "Whom should applicants contact for grievances or queries?",
+      "answer": "Applicants can reach out to the district transport department or the local Panchayat office for assistance."
+    }
+  ]
+}
