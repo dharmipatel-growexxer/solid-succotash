@@ -1,0 +1,57 @@
+{
+  "scheme_name": "High Altitude Guide Course",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/highaltitudeuk",
+  "section_no": "13",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "High Altitude Guide Course",
+  "scraped_at": "2026-03-28 06:39:59 UTC",
+  "sections": {
+    "details": [
+      "The scheme “High Altitude Guide Course” is implemented by the Uttarakhand Tourism Development Board under the Department of Tourism, Government of Uttarakhand. The scheme aims to train and certify youth of Uttarakhand as professional high-altitude guides who have already completed a Low Altitude Guide Course from a recognized institution."
+    ],
+    "benefits": [
+      "The beneficiary will become a certified high-altitude guide upon completing the course."
+    ],
+    "eligibility": [
+      "The applicant must be a youth from Uttarakhand.",
+      "The applicant must have completed a Low Altitude Guide Course from a recognized institution.",
+      "The total number of 41 beneficiaries will be selected."
+    ],
+    "application_process": {
+      "offline": [
+        "Applicants must complete the prescribed application form and submit it along with the required documents to the office of the District Tourism Development Officer.",
+        "Upon completion of the tests, the District Tourism Development Officer will forward the list of shortlisted candidates to the headquarters.",
+        "Final selection of participants will be made by a committee constituted at the headquarters."
+      ]
+    },
+    "documents_required": [
+      "Applicants are required to submit the necessary documents in accordance with the guidelines specified by the department."
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 124)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this course?",
+      "answer": "Youth from Uttarakhand who have already completed a Low Altitude Guide Course from a recognized institution are eligible to apply."
+    },
+    {
+      "question": "How many beneficiaries are selected for this course?",
+      "answer": "Currently, 41 beneficiaries have been selected for the High Altitude Guide Course."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "The prescribed application form along with necessary documents must be submitted to the office of the District Tourism Development Officer."
+    },
+    {
+      "question": "How are participants selected for the course?",
+      "answer": "Participants are selected by a committee constituted at the headquarters based on the applications and evaluation tests."
+    },
+    {
+      "question": "Who provides the final list of selected applicants?",
+      "answer": "The District Tourism Development Officer submits the list of selected applicants to the headquarters after the evaluation tests."
+    }
+  ]
+}

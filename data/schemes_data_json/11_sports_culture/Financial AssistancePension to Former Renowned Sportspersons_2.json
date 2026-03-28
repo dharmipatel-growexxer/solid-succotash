@@ -1,0 +1,85 @@
+{
+  "scheme_name": "Financial Assistance/Pension to Former Renowned Sportspersons",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fapfrs",
+  "section_no": "11",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Financial Assistance/Pension to Former Renowned Sportspersons",
+  "scraped_at": "2026-03-28 06:39:59 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Financial Assistance/Pension to Former Renowned Sportspersons” was launched by the Department of Sports, Government of Uttarakhand. The scheme aims to provide monthly financial assistance in the form of a pension to former renowned sportspersons of Uttarakhand who are above 50 years of age and are financially weak."
+    ],
+    "benefits": [
+      "Under this scheme, financially weak former renowned sportspersons of the state are provided a lifelong monthly pension, with a minimum of ₹4,000/- and a maximum of ₹10,000/-."
+    ],
+    "eligibility": [
+      "The applicant should be a resident of Uttarakhand.",
+      "The applicant should be an ex-sportsperson.",
+      "The applicant must be above 50 years of age.",
+      "The applicant should not be currently employed.",
+      "The applicant’s monthly income from all private sources should not exceed ₹20,000/-.",
+      "The applicant should be a former medalist or participant in:",
+      "Olympic Games, World Cup/Championship",
+      "Asian Games, Commonwealth Games",
+      "Afro-Asian Games, SAF Games",
+      "Para-Olympic/Special Olympic (Mental/Physical Disabilities)",
+      "World Marathon (Disabled), International Veteran (Masters) Championships"
+    ],
+    "application_process": {
+      "offline": [
+        "The Sports Directorate issues a notification inviting applications.",
+        "Applicants are required to submit their applications to the Directorate along with certificates of participation and medals in relevant sports competitions, permanent residence certificate, income certificate, Aadhaar card, bank account details, and birth certificate."
+      ]
+    },
+    "documents_required": [
+      "Participation/Medal Certificates",
+      "Permanent Residence Certificate",
+      "Income Certificate",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Birth Certificate"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 113)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the pension amount under this scheme?",
+      "answer": "₹4,000 to ₹10,000 per month."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Former sportspersons from Uttarakhand over 50 years old."
+    },
+    {
+      "question": "Is this scheme valid for all types of sports?",
+      "answer": "No, only for select international/national competitions."
+    },
+    {
+      "question": "Can an employed person apply?",
+      "answer": "No, employed individuals are not eligible."
+    },
+    {
+      "question": "How frequently is the pension paid?",
+      "answer": "The amount is disbursed monthly."
+    },
+    {
+      "question": "How can I apply?",
+      "answer": "Submit an application to the Directorate of Sports with documents."
+    },
+    {
+      "question": "Is there any income cap for eligibility?",
+      "answer": "Yes, total monthly income must not exceed ₹20,000/-."
+    },
+    {
+      "question": "What documents are required for application?",
+      "answer": "Participation/medal certificates, Permanent residence certificate, Income certificate, Aadhaar card, Bank account details, Birth certificate, etc."
+    },
+    {
+      "question": "Where can I get more information?",
+      "answer": "The contact to the Directorate of Sports, Uttarakhand."
+    }
+  ]
+}

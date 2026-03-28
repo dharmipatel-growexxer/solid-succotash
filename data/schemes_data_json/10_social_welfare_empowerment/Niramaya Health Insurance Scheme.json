@@ -1,0 +1,184 @@
+{
+  "scheme_name": "Niramaya Health Insurance Scheme",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/nhis",
+  "section_no": "10",
+  "location_name": "",
+  "location_type": "",
+  "page_title": "Niramaya Health Insurance Scheme",
+  "scraped_at": "2026-03-28 06:39:59 UTC",
+  "sections": {
+    "details": [
+      "“Niramaya Health Insurance Scheme” was launched by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice & Empowerment. Government of India. The objective of the scheme is to provide affordable Health Insurance to persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities. The scheme provides insurance coverage of up to ₹1,00,000/-, which must be renewed annually after the financial year."
+    ],
+    "benefits": [
+      "Health insurance coverage:",
+      "Up to ₹1,00,000/- for various expenses.",
+      "Outpatient department (OPD) treatment:",
+      "Covers medicines, pathology, diagnostic tests, etc.",
+      "Regular medical checkups:",
+      "For non-ailing individuals with disabilities.",
+      "Dental care:",
+      "Preventive dentistry services.",
+      "Surgery:",
+      "To prevent further disability worsening or for existing disabilities (including congenital).",
+      "Non-surgical/hospitalization:",
+      "Coverage for non-surgical treatments and related stays.",
+      "Ongoing therapies:",
+      "For managing disability and related complications.",
+      "Alternative medicine:",
+      "Coverage for alternative treatment options.",
+      "Health insurance coverage: Up to ₹1,00,000/- bifurcation for various expenses.",
+      "Section I: Hospitalization",
+      ":",
+      "The overall limit for hospitalization expenses is ₹55,000/-. This includes:",
+      "Corrective Surgeries for existing Disability including congenital disability (Under SECI(A)a maximum capping of ₹15,000/- For other than the corrective surgeries for Existing Disabilities, which is include in the overall limit of ₹40,000/- of Sec I(A))",
+      "Non-surgical or hospitalization costs are covered up to ₹15,000/-.",
+      "Section II: Outpatient Department (OPD)",
+      "The overall OPD treatment limit is ₹19,000/-, broken down as:",
+      "OPD treatment, including medicines, pathology, diagnostic tests, etc., is covered up to ₹15,000/-.",
+      "Dental preventive dentistry is covered up to ₹4,000/-.",
+      "Section III: Ongoing Therapies",
+      "A total of ₹20,000/- is allocated for ongoing therapies aimed at reducing the impact of disability.",
+      "Section IV: Alternative Medicine (AYUSH)",
+      "Treatment under AYUSH systems of medicine is reimbursable up to ₹4,000/-.",
+      "Section V: Transportation",
+      "Transportation costs related to medical treatment are covered up to ₹2,000/-."
+    ],
+    "eligibility": [
+      "All the disable person who have at least one of the disabilities under the",
+      "National Trust Act, 1999",
+      "with valid disability certificate."
+    ],
+    "application_process": {
+      "offline": [
+        "Enrolment process:",
+        "Step 1:",
+        "Parents/ guardian of the PwD will visit the nearest",
+        "Registered Organization (RO)",
+        "for Niramaya enrolment with required documents.",
+        "Step 2:",
+        "RO will fill up the Niramaya application form online and upload the scanned documents as required after verification of the originals.",
+        "Step 3:",
+        "On successful enrolment and approval, Health ID No. /card will be issued to each beneficiary or can be downloaded by the beneficiary online or through RO.",
+        "Scheme Renewal process:",
+        "The parent/guardian of the beneficiary can renew the scheme with the required documents online by logging on to the Niramaya",
+        "website",
+        "through providing below details: Policy Period, Beneficiary ID, UDID No/Enrollment no, Date of birth.",
+        "RO to verify the validity of documents",
+        "Pay the application fees online.",
+        "Step 4:",
+        "After receipt of payment, the RO/beneficiary will be notified of the renewal for another year through the website.",
+        "Scheme Claim Process",
+        ":",
+        "All claims for settlement under Niramaya have to be submitted to the canters of the insurance provider in the prescribed Claim Form along with relevant vouchers/bills, etc. (preferably within 30 days of treatment) or discharge from hospital.",
+        "Log on to",
+        "https://portal.mediassist.in",
+        "- MediAssist Employee portal. (Your username will be as <application_id>@NATIONALTRUST.Com and password will be your date of Birth of Beneficiary e.g. DD-MM-YYYY)",
+        "• You can also download the Mediassist App from Android/Apple/Window store in a phone [Username - <application_id>@NATIONALTRUST.Com and password will be DD-MM-YYYY (Date of Birth of the Beneficiary]",
+        "Click on Submit claim option and fill the details to generate the claim form.",
+        "Click on “Save and Next” once all the details are filled.",
+        "On 3rd Page, employee KYC documents are to be updated (one time activity).",
+        "Upload relevant documents.",
+        "Step 5:",
+        "After Moving to the final Page ”Declaration and Claim Submission” select the ailment type.",
+        "Step 6:",
+        "Upload the softcopy of the documents.",
+        "Step 7:",
+        "Acknowledge the declaration and Click submit to successfully generate the claim form.",
+        "Step 8:",
+        "An Auto-generated mail will be triggered to your registered Email ID containing the claim form.",
+        "Dedicated helpline for claims : 040-68178569/71326135.",
+        "To register or track your Claim, please contact MediAssist at:",
+        "Phone: 040-68213648 | Toll Free – 1800 572 9792",
+        "For any query regarding reimbursement of claim, email to MediAssist TPA on – niramaya[at]mediassist[dot]in"
+      ]
+    },
+    "documents_required": [
+      "Enrollment Process:",
+      "For BPL (Enrolment Fee - ₹250/-)",
+      "Disability certificate (Self attested) issued from the District Hospital or appropriate Government authority BPL card",
+      "Address Proof",
+      "Proof of payment.",
+      "For APL (if family income up to ₹ 15,000/- Per Month) (Enrolment Fee - ₹250/-)",
+      "Disability certificate issued from the District",
+      "Hospital or appropriate Government authority (Self attested)",
+      "Proof of payment",
+      "Income certificate of (Self attested) the parent/ guardian competent authority as issued by the State.",
+      "For APL (if family income above ₹15,000/- Per Month) (Enrolment Fee - ₹550/-)",
+      "Disability certificate (Self attested) issued",
+      "by the competent authority as issued by the",
+      "State",
+      "For Renewal:",
+      "For BPL:",
+      "BPL card.",
+      "Address Proof (in case of change of address).",
+      "For APL (if family income up to ₹ 15,000/- Per Month) (Renewal Fee - ₹250/-)",
+      "Address Proof (in case of change of address)",
+      "Income certificate (self attested) of the parent/ guardian competent authority as issued by the State",
+      "For APL (if family income above ₹15,000/- Per Month) (Renewal Fee - ₹500/-)",
+      "For Claim Process:",
+      "Copy of Niramaya card or mention Health ID Card number.",
+      "Self-attested copy of Disability Certificate.",
+      "All original prescription papers given by the doctor.",
+      "All original bills of Hospital / Medicine / Doctor fee / Therapy fee / Conveyance etc.",
+      "All reports in original.",
+      "Complete bank details of Beneficiary :",
+      "Name of Account Holder.",
+      "Account No. / Bank Name / Branch / (City & State).",
+      "Bank account IFSC Code.",
+      "Note:",
+      "Need for ORIGINAL REPORTS / FILMS LIKE MRI, X-RAY, ULTRASOUNDS ETC.:",
+      "Original documents are required including the film for settling of Claims.",
+      "Prescription for Ongoing Therapies:",
+      "Doctor’s prescription at least once in Six months is essential in which the category of therapy and duration of therapy should be clearly mentioned. Thereafter other documents from Rehabilitation Professional for therapy, and related bills will be acceptable. Doctor who prescribes the prescription should be a valid medical Practitioner with valid license/degree as per Medical council rules."
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Enrolment Form",
+      "Claim Form",
+      "User Manual"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is Niramaya scheme?",
+      "answer": "Niramaya Health Insurance Scheme ,launched by the Department of Empowerment of Persons with Disabilities, aims to provide affordable health insurance to the Persons with Disabilities (PwDs)."
+    },
+    {
+      "question": "What are the benefits under the scheme?",
+      "answer": "1. Health insurance coverage. 2. Outpatient department (OPD) treatment. 3. Regular medical checkups. 4. Dental care. 5. Surgery. 6. Non-surgical/hospitalization. 7. Ongoing therapies. 8. Alternative medicine. 9. Transportation costs"
+    },
+    {
+      "question": "What is the health insurance maximum coverage amount?",
+      "answer": "This scheme provides affordable health insurance cover of up to ₹1,00,000/-."
+    },
+    {
+      "question": "Is there any limitation of hospitals to avail this scheme benfits?",
+      "answer": "No, treatment can be taken from any hospital."
+    },
+    {
+      "question": "Is this is a health insurence scheme?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Who will be covered under this scheme?",
+      "answer": "All PwDs who have at least one of the disabilities under the National Trust Act, 1999 with valid disability certificate are eligible to apply for the scheme."
+    },
+    {
+      "question": "What is the enrolment process?",
+      "answer": "Parents/guardian of the PwD will visit the nearest RO for Niramaya enrolment with required documents."
+    },
+    {
+      "question": "How to find the nearest for Niramaya enrolment ?",
+      "answer": "Follow the below link URL : https://thenationaltrust.gov.in/content/registered_organization.php"
+    },
+    {
+      "question": "What is the renewal process?",
+      "answer": "To renewal the scheme benefits, follow the below url and provide the required details URL : https://thenationaltrust.gov.in/auth/renew_gen.php and"
+    },
+    {
+      "question": "How the reimbursement can be avail under this scheme?",
+      "answer": "All claims for settlement under Niramaya have to be submitted to the centres of the insurance provider in the prescribed Claim Form along with relevant vouchers / bills, etc. (preferably within 30 days of treatment) or discharge from hospital."
+    }
+  ]
+}

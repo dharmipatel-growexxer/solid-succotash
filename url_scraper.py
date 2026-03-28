@@ -135,7 +135,7 @@ def main() -> None:
     )
     parser.add_argument("--category-url", default=DEFAULT_CATEGORY_URL)
     parser.add_argument("--max-pages", type=int, default=85)
-    parser.add_argument("--output", default=str(OUTPUT_DIR / "my_schemes_11.csv"))
+    parser.add_argument("--output", default=str(OUTPUT_DIR / "15_women_child.csv"))
     parser.add_argument("--timeout-ms", type=int, default=60000)
     parser.add_argument(
         "--fallback-urls-file",

@@ -1,0 +1,94 @@
+{
+  "scheme_name": "Border Areas Scholarship",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bas",
+  "section_no": "4",
+  "location_name": "Meghalaya",
+  "location_type": "state",
+  "page_title": "Border Areas Scholarship",
+  "scraped_at": "2026-03-28 06:47:00 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Border Areas Scholarship\" was launched by the Border Areas Development Department, Government of Meghalaya, aims to provide financial assistance to students from notified international border areas who face economic hardship. Under this scheme, year-wise scholarships or subsidies are provided to students studying in higher secondary schools and Colleges up to the Degree level. The Border Areas Development Department implements the scheme to help students continue their education without interruption due to financial constraints."
+    ],
+    "benefits": [
+      "Financial assistance in the form of annual scholarships/subsidies.",
+      "Awarded year-wise based on promotion examination results.",
+      "Intended to support education up to the Degree level for students from notified border area villages."
+    ],
+    "eligibility": [
+      "The applicant should be a student residing in a village notified as a Border Area village by the Border Areas Department.",
+      "The applicant's father and mother should have income derived entirely from the Border Area.",
+      "The applicant should pass year-wise promotion examinations to continue receiving the scholarship.",
+      "The applicant should maintain good conduct, regular attendance, and satisfactory academic progress.",
+      "The applicant should not leave studies before completing the course."
+    ],
+    "application_process": {
+      "offline": [
+        "Students may contact the Head of their respective educational institutions to avail the benefits of the scheme.",
+        "Note: To download the application form,",
+        "click here",
+        "."
+      ]
+    },
+    "documents_required": [
+      "Aadhar Card",
+      "Date of Birth Certificate",
+      "Residential Certificate (showing residence in a notified Border Area village)",
+      "Educational Certificates",
+      "Previous Year’s Academic Certificates",
+      "Latest Passport Size Photograph",
+      "Admission Proof",
+      "Bank Account Details",
+      "Photo ID Proof",
+      "Email ID and Mobile Number"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Department Website",
+      "Application Form",
+      "Details"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who can apply for this support program?",
+      "answer": "Students living in villages officially recognized as border area villages and meeting certain income and academic criteria can apply."
+    },
+    {
+      "question": "Is the program open to college students?",
+      "answer": "Yes, eligible students studying up to the Degree level, including Higher Secondary and College, may receive financial assistance."
+    },
+    {
+      "question": "How is the support amount decided each year?",
+      "answer": "It is awarded annually based on the student’s promotion to the next academic level and overall progress."
+    },
+    {
+      "question": "Can students who are already working apply?",
+      "answer": "No, students who are already employed, particularly in government service, are not eligible for this benefit."
+    },
+    {
+      "question": "Is this benefit applicable to students pursuing B.Ed or M.Ed?",
+      "answer": "Yes, those currently studying B.Ed or M.Ed are eligible, provided they are not already employed."
+    },
+    {
+      "question": "Are students pursuing higher research studies eligible?",
+      "answer": "No, students pursuing M.Phil. or Ph.D. are not covered under this financial assistance program."
+    },
+    {
+      "question": "What happens if a student fails their promotion exam?",
+      "answer": "The benefit may be discontinued if the student does not pass the required academic examinations."
+    },
+    {
+      "question": "Who verifies the eligibility of applicants?",
+      "answer": "The Head of the educational institution forwards the application, and final verification is done by the concerned department."
+    },
+    {
+      "question": "Is academic performance monitored throughout the course?",
+      "answer": "Yes, continued support depends on satisfactory academic progress and regular attendance."
+    },
+    {
+      "question": "Can a student reapply if the assistance was previously discontinued?",
+      "answer": "Reapplication may be considered if the student resumes studies with proper academic performance and meets all conditions."
+    }
+  ]
+}

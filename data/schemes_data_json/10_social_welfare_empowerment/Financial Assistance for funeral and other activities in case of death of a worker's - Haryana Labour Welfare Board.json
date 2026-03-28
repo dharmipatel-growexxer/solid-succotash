@@ -1,0 +1,121 @@
+{
+  "scheme_name": "Financial Assistance for funeral and other activities in case of death of a worker's - Haryana Labour Welfare Board",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/fafoahr",
+  "section_no": "10",
+  "location_name": "Haryana",
+  "location_type": "state",
+  "page_title": "Financial Assistance for funeral and other activities in case of death of a worker's - Haryana Labour Welfare Board",
+  "scraped_at": "2026-03-28 06:39:59 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Financial Assistance for Funeral and Other Activities in Case of Death of a Worker\" is implemented by the Haryana Labour Welfare Board (HLWB) under the Labour Department, Government of Haryana. The scheme aims to provide financial support to the family or dependent of a deceased worker to cover funeral and related expenses. Under this scheme, an assistance amount of ₹15,000/- is provided to the dependent/family of the deceased worker."
+    ],
+    "benefits": [
+      "Financial assistance of ₹15,000/-."
+    ],
+    "eligibility": [
+      "The applicant should be fully dependent on the deceased worker.",
+      "The deceased worker should have been registered with the Haryana Labour Welfare Board.",
+      "The deceased worker should have had an active membership under the Haryana Labour Welfare Board at the time of death.",
+      "The applicant should not have previously availed benefits under this scheme.",
+      "There is no minimum service period or ceiling required under this scheme.",
+      "The application should be submitted within two years from the date of the worker’s death."
+    ],
+    "application_process": {
+      "online": [
+        "Online - via CSCs",
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1:",
+        "Visit the Official Portal:",
+        "Antyodaya-SARAL Portal.",
+        "Step 2:",
+        "For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’.",
+        "Step 3:",
+        "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.",
+        "Login to Apply for the Scheme:",
+        "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.",
+        "In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.",
+        "Step 4:",
+        "Now, select the scheme and click on “Apply for Service/Scheme”.",
+        "Step 5:",
+        "Fill in all the details in the online application form and click on \"Submit\".",
+        "Track Your Service Online:",
+        "Track Application/Appeal:",
+        "Click here",
+        ".",
+        "Track Ticket:",
+        "Track Your Service Through SMS:",
+        "Registered Mobile Number:",
+        "Type SARAL and send to 9954699899 to track your application.",
+        "Other Mobile Number:",
+        "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.",
+        "Contact Us:",
+        "Helpline:",
+        "0172-3968400",
+        "Email:",
+        "saral.haryana@gov.in",
+        "Note:",
+        "Govt. Charges:",
+        "No Fee",
+        "Service Charges:",
+        "₹ 10",
+        "Atal Seva Kendra Service Charges:"
+      ]
+    },
+    "documents_required": [
+      "Identity Proof",
+      "Employer Certificate",
+      "Employee Wages Slip (Previous Month)",
+      "Death Certificate",
+      "Affidavit (fully dependent upon the deceased worker, and earlier he/she has not availed of the said scheme)",
+      "Bank account details",
+      "Any other documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines",
+      "Official Website"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the main purpose of the scheme?",
+      "answer": "The main purpose of the scheme is to offer financial support for funeral expenses and other related activities when a worker passes away."
+    },
+    {
+      "question": "Who is eligible to receive the benefits from this scheme?",
+      "answer": "The benefits of this scheme are provided to the dependents of the deceased worker."
+    },
+    {
+      "question": "What is the time limit for submitting the application after an worker's death?",
+      "answer": "The application should be submitted within two years of the date of the worker's death."
+    },
+    {
+      "question": "What kind of certificate is needed from the employer of the deceased worker?",
+      "answer": "An Employer Certificate is one of the required documents for the application."
+    },
+    {
+      "question": "Which wage slip of the worker is required as part of the application documents?",
+      "answer": "The worker Wages Slip from the previous month is a required document."
+    },
+    {
+      "question": "Is it mandatory to submit a Death Certificate for the application?",
+      "answer": "Yes, a Death Certificate is a mandatory document for the application."
+    },
+    {
+      "question": "What information should be included in the affidavit that needs to be submitted?",
+      "answer": "The affidavit should state that the applicant is fully dependent upon the deceased worker and has not previously availed of the said scheme."
+    },
+    {
+      "question": "Can a family apply for this assistance if the worker was not actively employed at the time of their death?",
+      "answer": "The requirement for an 'Employer Certificate' and 'Worker Wages Slip (Previous Month)' suggests the worker must have been employed."
+    },
+    {
+      "question": "Are there any specific conditions regarding the number of years a worker must have served to qualify for the scheme?",
+      "answer": "No."
+    },
+    {
+      "question": "Is this scheme intended for all workers across India or specifically for workers in Haryana?",
+      "answer": "The scheme is managed by the Haryana Labour Welfare Board, indicating its applicability within Haryana."
+    }
+  ]
+}

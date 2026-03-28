@@ -1,0 +1,55 @@
+{
+  "scheme_name": "Ex-Gratia Payment for Life-Threatening Injury Requiring Hospital Stay for Treatment",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/atltjrhuk",
+  "section_no": "10",
+  "location_name": "Uttarakhand",
+  "location_type": "state",
+  "page_title": "Ex-Gratia Payment for Life-Threatening Injury Requiring Hospital Stay for Treatment",
+  "scraped_at": "2026-03-28 06:39:59 UTC",
+  "sections": {
+    "details": [
+      "The scheme “Ex-Gratia Payment for Life-Threatening Injury Requiring Hospital Stay for Treatment” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to individuals who sustain life-threatening injuries due to disasters and require hospitalization for treatment."
+    ],
+    "benefits": [
+      "Under this scheme, an ex-gratia grant of ₹16,000/- per person is provided in case of a hospital stay for more than one week, and ₹5,400/- per person in case of a hospital stay for less than one week."
+    ],
+    "eligibility": [
+      "The applicant must be a resident of Uttarakhand.",
+      "The applicant must be a person admitted to a government or non-government hospital due to an injury caused by a disaster, including those engaged in relief or disaster preparedness activities who sustained injuries during such work."
+    ],
+    "application_process": {
+      "offline": [
+        "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+      ]
+    },
+    "documents_required": [
+      "Form P-20 Entry Confirmation (recorded by the concerned Patwari)",
+      "Other supporting documents as required"
+    ],
+    "sources_and_references": [
+      "Guidelines (Page No. 304)"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What kind of assistance is provided under this scheme?",
+      "answer": "An ex-gratia grant of ₹16,000 per person is provided for hospital stays of more than one week, and ₹5,400 per person for stays of less than one week."
+    },
+    {
+      "question": "Who is eligible to receive benefits under this scheme?",
+      "answer": "Any person admitted to a government or non-government hospital due to injuries caused by a disaster is eligible. Persons injured during relief or preparedness-related work are also covered."
+    },
+    {
+      "question": "Are both government and private hospitals covered under this scheme?",
+      "answer": "Yes, treatment in both government and non-government (private) hospitals is recognized for eligibility."
+    },
+    {
+      "question": "How is the extent of injury or hospitalization verified?",
+      "answer": "The Patwari verifies the details and records them in the P-20 form, which is further checked by the Tehsildar and the Sub-Divisional Magistrate (SDM)."
+    },
+    {
+      "question": "How are the relief funds distributed to the beneficiaries?",
+      "answer": "After the DM’s approval, the funds are disbursed at the Tehsil level to the eligible beneficiaries."
+    }
+  ]
+}

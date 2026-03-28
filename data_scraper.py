@@ -662,7 +662,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--csv",
-        default=str(CSV_DIR / "my_schemes_10.csv"),
+        default=str(CSV_DIR / "15_women_child.csv"),
         help="Input CSV file path",
     )
     parser.add_argument(

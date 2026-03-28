@@ -1,0 +1,114 @@
+{
+  "scheme_name": "Bharati Scheme for Education - Post-Graduation",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/bse-pg",
+  "section_no": "4",
+  "location_name": "Andhra Pradesh",
+  "location_type": "state",
+  "page_title": "Bharati Scheme for Education - Post-Graduation",
+  "scraped_at": "2026-03-28 06:47:00 UTC",
+  "sections": {
+    "details": [
+      "Andhra Pradesh Brahmin Welfare Corporation (ABC) launched the \"Bharati Scheme for Education - Post-Graduation (Any course of 2 Years or more duration, after Graduation (10+2+3) will be considered under this category, i.e., M.Sc, M.Com, M.A., M.Tech, M.D., M.Pharm, MBA, etc.)\" for the academic year to encourage Brahmin students of Andhra Pradesh to continue their education. Under this scheme, eligible poor Brahmin student applicants will receive financial assistance for the academic year. This scheme applies to the Brahmin students of Andhra Pradesh covering all 13 districts."
+    ],
+    "benefits": [
+      "Financial Assistance for the Post-Graduation: ₹10,000/-."
+    ],
+    "eligibility": [
+      "The student and his/her parents should belong to the Brahmin community.",
+      "The parents should be studying in Andhra Pradesh.",
+      "The annual family income of parents/guardians should not exceed ₹3,00,000/-.",
+      "The student should be studying in any recognized and reputed college for the academic year.",
+      "The student should have cleared all the subjects of the previous year.",
+      "The student should be enrolled in the Praja Sadhikara Survey (PSS).",
+      "The student should not have availed himself/ herself of any amount under any other government scheme for the same purpose. However, students availing benefit from Archaka Welfare Trust are eligible under this scheme."
+    ],
+    "application_process": {
+      "online": [
+        "Registration",
+        "Step-01:",
+        "Applicants have to visit the",
+        "official website",
+        "and click on",
+        "Scheme",
+        ".",
+        "Step-02:",
+        "Click on \"Registration\" under the concerned scheme name.",
+        "Step-03:",
+        "Fill out the application form with required details like:",
+        "Personal Details: Name, Residence address, Aadhaar no, Ration card no, Bank detail etc",
+        "Upload: Photo, Signature and Certificate Details",
+        "Documents: Birth Certificate, Residential Certificate, Aadhaar Card, Caste Certificate, Bank Passbook etc",
+        "Finalize and \"Submit\" the application.",
+        "Step-04:",
+        "Receive the reference number after the submission.",
+        "Check Application Status:",
+        "Click on the “Services” link on the menu and select \"",
+        "Know your status",
+        "\".",
+        "Enter the Reference or Mobile or Aadhaar Card Number to get the application status.",
+        "Select the \"Financial Year\" and Fetch the details.",
+        "Download the Acknowledgement slip:",
+        "Click on the \"Acknowledgement Slip\" under the concerned scheme.",
+        "Enter the Aadhaar Card Number and select the \"Scheme\".",
+        "Click on the \"Submit\"."
+      ]
+    },
+    "documents_required": [
+      "Aadhaar Card of the Student & Parents (with address in Andhra Pradesh).",
+      "White Ration Card / Income Certificate Number (issued by Mee Seva).",
+      "Caste Certificate (issued by MeeSeva).",
+      "Residence Certificate (issued by MeeSeva).",
+      "Birth Certificate (issued by MeeSeva).",
+      "Study Certificate from the College / Institute / University.",
+      "Marks Sheets of all the previous years (starting from SSC).",
+      "SB Account Passbook in the name of the applicant (Account should be in Andhra Bank or SBI).",
+      "NOTE:",
+      "For students studying outside Andhra Pradesh, an account in any of the Nationalized Banks is acceptable."
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Who is eligible for the Bharati Scheme for Education (BSE)?",
+      "answer": "Brahmin students of Andhra Pradesh with family income less than ₹3,00,000/-."
+    },
+    {
+      "question": "What is the objective of the BSE?",
+      "answer": "To support Brahmin students in continuing their education."
+    },
+    {
+      "question": "Can students studying outside Andhra Pradesh apply?",
+      "answer": "Yes, under specific conditions and with appropriate documentation."
+    },
+    {
+      "question": "How is the financial assistance disbursed?",
+      "answer": "Directly into the student's bank account through online transfer."
+    },
+    {
+      "question": "Can students with backlogs apply?",
+      "answer": "No, students must have cleared all subjects in previous years."
+    },
+    {
+      "question": "Who will finalize the selection of applicants?",
+      "answer": "The State Level Selection Committee (SLSC) of A.P. Brahmin Welfare Corporation."
+    },
+    {
+      "question": "Can students availing benefits from other government schemes apply?",
+      "answer": "No, except for those under Archaka Welfare Trust."
+    },
+    {
+      "question": "How is eligibility verified?",
+      "answer": "Through Mee Seva, Praja Sadhikara Survey, and Civil Supplies department data."
+    },
+    {
+      "question": "How can I apply for BSE?",
+      "answer": "Apply online at www.andhrabrahmin.ap.gov.in with the required documents."
+    },
+    {
+      "question": "What documents are needed for application?",
+      "answer": "Aadhar card, income certificate, caste certificate, study certificates, and bank passbook."
+    }
+  ]
+}

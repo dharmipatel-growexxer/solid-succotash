@@ -1,0 +1,107 @@
+{
+  "scheme_name": "Mukhyamantri Asangathit Mazdoor Yojana",
+  "scheme_url": "https://www.myscheme.gov.in/schemes/mamy-mp",
+  "section_no": "10",
+  "location_name": "Madhya Pradesh",
+  "location_type": "state",
+  "page_title": "Mukhyamantri Asangathit Mazdoor Yojana",
+  "scraped_at": "2026-03-28 06:39:59 UTC",
+  "sections": {
+    "details": [
+      "The scheme \"Mukhyamantri Asangathit Majdoor Yojana\" was launched by the Labour Department, Government of Madhya Pradesh. The scheme aims to provide various benefits to workers engaged in the unorganized sector within the state. The scheme provides increased remuneration for Tendu leaf pluckers, seasonal bonuses, freezing of old electricity bills, subsidized flat-rate electricity, and e-rickshaws for cycle rickshaw drivers. The applicant must be a worker, must not be in any type of government service, must not be a taxpayer, and must not possess agricultural land. The applications for this scheme are accepted offline at Gram Panchayat Secretary offices in rural areas and Nagar Panchayat/Municipality offices in urban areas."
+    ],
+    "benefits": [
+      "The old electricity bills of the laborers will be frozen.",
+      "Electricity will be available to them at a flat rate of ₹200/- per month.",
+      "E-rickshaws will be provided to cycle rickshaw drivers.",
+      "The remuneration for laborers engaged in Tendu leaf plucking work will be increased from ₹1,200/- per standard sack to ₹2,000/- per standard sack.",
+      "A seasonal bonus will be given to Tendu leaf pluckers."
+    ],
+    "eligibility": [
+      "The applicant must be an unorganised worker.",
+      "The applicant must not be in any type of government service.",
+      "The applicant must not be a taxpayer.",
+      "The applicant must not possess agricultural land."
+    ],
+    "application_process": {
+      "offline": [
+        "Step 1:",
+        "The interested applicant should visit the Office of the Gram Panchayat Secretary (in rural areas) or the Office of the Nagar Panchayat/Municipality (in urban areas). Request the hard copy of the prescribed format of the application form from the staff. Applicants may also contact the Ward In-charge for assistance in acquiring the necessary information and forms.",
+        "Step 2:",
+        "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:",
+        "Submit the duly filled and signed application form along with the documents at the respective office.",
+        "*The information regarding the issued registration will be conveyed to the concerned applicant through a message or a voice call sent to their registered mobile phone."
+      ]
+    },
+    "documents_required": [
+      "Copy of Identity Proof",
+      "Copy of Address Proof",
+      "Copy of Income certificate",
+      "Copy of Birth Certificate",
+      "Two passport size photographs",
+      "Bank account details"
+    ],
+    "sources_and_references": [
+      "Guidelines"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "If I am currently employed in a formal setting, what is the fundamental requirement I must meet to be considered for registration under this welfare initiative?",
+      "answer": "To be eligible to apply, the individual must mandatorily be classified as a worker in the unorganized sector."
+    },
+    {
+      "question": "Are workers who specialize in manufacturing wood products, or those involved in tailoring, weaving, and embroidery, considered beneficiaries?",
+      "answer": "Yes, workers who specialize in wood products, along with those doing tailoring, weaving, and embroidery work, qualify for scheme benefits."
+    },
+    {
+      "question": "Does the scheme cover individuals who work in small retail settings like shopkeepers, or those involved in producing fabric, such as handloom workers?",
+      "answer": "Yes, both shopkeepers and individuals engaged as handloom workers are listed among the eligible recipients of the scheme’s welfare provisions."
+    },
+    {
+      "question": "I pay income taxes annually. Does my status as an official contributor to government revenue prevent me from registering for worker benefits?",
+      "answer": "Yes, one of the essential conditions for applying is that the individual must not be recognized as a taxpayer."
+    },
+    {
+      "question": "I work in the agricultural field, specifically as a farm laborer. Do my duties qualify me to be included among the intended beneficiaries of this welfare program?",
+      "answer": "Yes, farm laborers are explicitly listed as eligible workers who can receive the various benefits offered under this initiative."
+    },
+    {
+      "question": "If my livelihood involves working within the transportation sector, such as driving or related logistics, can I expect to receive the scheme benefits?",
+      "answer": "Yes, transport workers are included among the various types of unorganized laborers who are entitled to apply for the scheme’s advantages."
+    },
+    {
+      "question": "I am a domestic worker, often performing various tasks in private residences. Am I considered an eligible worker for the purposes of this scheme registration?",
+      "answer": "Yes, domestic workers are specifically included in the list of target beneficiaries who stand to receive welfare benefits."
+    },
+    {
+      "question": "What is the eligibility status for skilled manual workers such as utensil artisans and carpenters who work on an unorganized, independent basis?",
+      "answer": "Utensil artisans and carpenters are both recognized categories of unorganized workers eligible to receive benefits."
+    },
+    {
+      "question": "If I own land that is used for cultivation or farming, will this ownership negatively affect my application for social security benefits?",
+      "answer": "Yes, possession of agricultural land is listed as a specific exclusion criterion, meaning the applicant must not possess such land."
+    },
+    {
+      "question": "People whose occupation involves dealing with electrical goods and related components—are they eligible to register under this program for financial and social assistance?",
+      "answer": "Yes, workers involved with electrical goods are clearly mentioned as qualifying beneficiaries of this scheme."
+    },
+    {
+      "question": "Individuals involved in the manufacture of leather goods, including those who produce leather shoes, are they covered by the provisions of this welfare scheme?",
+      "answer": "Yes, both workers involved in leather goods and those who specifically make leather shoes are listed as eligible beneficiaries."
+    },
+    {
+      "question": "I operate an auto-rickshaw to earn income, classifying me as a driver in the unorganized sector. Can I successfully register for this scheme?",
+      "answer": "Yes, auto-rickshaw drivers are specifically categorized as eligible beneficiaries for the welfare program."
+    },
+    {
+      "question": "I earn my living by selling items on the roadside as a street vendor or hawker. Am I recognized as an unorganized worker under the rules of this scheme?",
+      "answer": "Yes, street vendors, also known as hawkers, are included in the defined list of eligible workers for scheme registration."
+    },
+    {
+      "question": "Is there an exclusion regarding my current employment status, specifically if I am receiving regular compensation from a governmental organization?",
+      "answer": "Yes, individuals who are currently engaged in any type of government service are strictly excluded from receiving benefits under this scheme."
+    }
+  ]
+}
