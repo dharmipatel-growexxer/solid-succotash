@@ -66,12 +66,13 @@ MMR_FETCH_K = 20  # Fetch more for MMR diversity
 MMR_LAMBDA = 0.7  # Balance between relevance (1.0) and diversity (0.0)
 
 # === LLM CONFIG ===
-# Using Google Gemini (free tier)
-LLM_PROVIDER = "gemini"
-LLM_MODEL = "gemini-1.5-flash"  # Free tier model, fast and capable
-# Alternative models:
-# - "gemini-1.5-pro" (more capable, also free with limits)
-# - "gemini-2.0-flash-exp" (experimental, latest)
+# Using Groq (free tier with generous limits)
+LLM_PROVIDER = "groq"
+LLM_MODEL = "llama-3.3-70b-versatile"  # Best free model on Groq
+# Alternative Groq models:
+# - "llama-3.1-8b-instant" (faster, smaller)
+# - "mixtral-8x7b-32768" (good for longer context)
+# - "gemma2-9b-it" (Google's Gemma)
 LLM_TEMPERATURE = 0.3
 MEMORY_WINDOW_SIZE = 5  # Number of conversation turns to remember
 

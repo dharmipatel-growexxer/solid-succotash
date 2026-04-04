@@ -137,9 +137,12 @@ rag_pipeline/
 ├── embeddings.py             # HuggingFace embedding setup
 ├── vector_store.py           # Pinecone operations
 ├── retriever.py              # MMR retriever + metadata filters
-├── chain.py                  # LangChain conversation chain
-├── prompts.py                # System prompts
-└── main.py                   # Pipeline orchestration
+├── llm.py                    # Google Gemini LLM wrapper
+├── chain.py                  # RAG chain with conversation memory
+├── chat.py                   # Interactive CLI chatbot
+├── requirements.txt          # Python dependencies
+├── setup.sh                  # Environment setup script
+└── .env                      # API keys (not in git)
 ```
 
 ---
@@ -167,9 +170,47 @@ After running `chunker.py`:
 
 ---
 
+## Usage
+
+### Quick Start
+
+```bash
+# 1. Setup environment
+cd rag_pipeline
+./setup.sh
+
+# 2. Configure API keys
+cp .env.example .env
+# Edit .env with your PINECONE_API_KEY and GOOGLE_API_KEY
+
+# 3. Activate virtual environment
+source venv/bin/activate
+
+# 4. Run the chatbot
+python chat.py
+```
+
+### Chat Commands
+
+| Command | Description |
+|---------|-------------|
+| `/help` | Show help message |
+| `/profile` | Show detected user profile |
+| `/reset` | Start new conversation |
+| `/debug` | Toggle retrieval debug info |
+| `/quit` | Exit chatbot |
+
+### Single Query Mode
+
+```bash
+python chat.py --query "I'm a farmer in Gujarat. What schemes can help me?"
+```
+
+---
+
 ## Next Steps
 
 1. Run `python data_loader.py` - Load and validate all JSONs
 2. Run `python chunker.py` - Create chunks with metadata
 3. Run `python vector_store.py --upsert` - Upload to Pinecone
-4. Run `python main.py` - Test the full pipeline
+4. Run `python chat.py` - Start chatting!

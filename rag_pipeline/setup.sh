@@ -20,7 +20,7 @@ pip install --upgrade pip
 pip install \
     sentence-transformers \
     pinecone \
-    google-generativeai \
+    google-genai \
     python-dotenv \
     tqdm
 
