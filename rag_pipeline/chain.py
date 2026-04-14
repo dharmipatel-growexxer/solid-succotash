@@ -11,7 +11,6 @@ from retriever import (
     SchemeRetriever,
     UserProfile,
     extract_user_profile,
-    format_retrieved_docs,
 )
 
 
@@ -47,10 +46,11 @@ You help users find relevant central and state government schemes based on their
 ### Response Format
 When discussing schemes, include:
 1. **Scheme Name** - Full official name
-2. **Key Benefits** - What the user gets
-3. **Eligibility** - Who can apply (highlight if user qualifies)
-4. **How to Apply** - Brief process overview
-5. **Documents Needed** - Key documents required
+2. **Scheme URL** - Official portal link
+3. **Key Benefits** - What the user gets
+4. **Eligibility** - Who can apply (highlight if user qualifies)
+5. **How to Apply** - Brief process overview
+6. **Documents Needed** - Key documents required
 
 ### Important Notes
 - Encourage users to verify current information on official portals as schemes may update
@@ -207,15 +207,65 @@ class RAGChain:
             chunk_type = meta.get("chunk_type", "info")
             text = meta.get("text", "")
             location = meta.get("location_name", "India")
+            scheme_url = meta.get("scheme_url", "N/A")
             
             # Track unique schemes
             seen_schemes.add(scheme_name)
             
             context_parts.append(
-                f"**{scheme_name}** ({location}) - {chunk_type.replace('_', ' ').title()}:\n{text}"
+                (
+                    f"**{scheme_name}** ({location})\n"
+                    f"URL: {scheme_url}\n"
+                    f"Section: {chunk_type.replace('_', ' ').title()}\n"
+                    f"Content: {text}"
+                )
             )
         
         return "\n\n---\n\n".join(context_parts)
+
+    def _extract_scheme_links(self, retrieved_docs: List[Dict], max_links: int = 8) -> List[Dict[str, str]]:
+        """Extract unique scheme names and URLs from retrieved docs."""
+        unique_links: List[Dict[str, str]] = []
+        seen = set()
+
+        for doc in retrieved_docs:
+            meta = doc.get("metadata", {})
+            scheme_name = meta.get("scheme_name", "Unknown Scheme")
+            scheme_url = meta.get("scheme_url", "").strip()
+            if not scheme_url:
+                continue
+
+            key = (scheme_name, scheme_url)
+            if key in seen:
+                continue
+            seen.add(key)
+            unique_links.append({"scheme_name": scheme_name, "scheme_url": scheme_url})
+
+            if len(unique_links) >= max_links:
+                break
+
+        return unique_links
+
+    def _append_scheme_links(self, response: str, retrieved_docs: List[Dict]) -> str:
+        """Append a deterministic list of scheme URLs to the LLM response."""
+        links = self._extract_scheme_links(retrieved_docs)
+        if not links:
+            return response
+
+        lines = ["", "Relevant Scheme URLs:"]
+        added_any = False
+        for item in links:
+            scheme_name = item["scheme_name"]
+            scheme_url = item["scheme_url"]
+            if scheme_url in response:
+                continue
+            lines.append(f"- {scheme_name}: {scheme_url}")
+            added_any = True
+
+        if not added_any:
+            return response
+
+        return response.rstrip() + "\n" + "\n".join(lines)
     
     def _build_prompt(
         self,
@@ -303,16 +353,17 @@ class RAGChain:
             self.llm.start_chat()
         
         response = self.llm.chat(prompt)
+        response_with_links = self._append_scheme_links(response, retrieved_docs)
         
         # Store in memory
         self.memory.add_turn(
             user_message=user_query,
-            assistant_response=response,
+            assistant_response=response_with_links,
             retrieved_docs=retrieved_docs,
             user_profile=current_profile,
         )
-        
-        return response, retrieved_docs, current_profile
+
+        return response_with_links, retrieved_docs, current_profile
     
     def reset(self):
         """Reset conversation state."""

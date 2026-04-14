@@ -137,11 +137,13 @@ rag_pipeline/
 ├── embeddings.py             # HuggingFace embedding setup
 ├── vector_store.py           # Pinecone operations
 ├── retriever.py              # MMR retriever + metadata filters
-├── llm.py                    # Google Gemini LLM wrapper
+├── llm.py                    # Groq LLM wrapper
 ├── chain.py                  # RAG chain with conversation memory
 ├── chat.py                   # Interactive CLI chatbot
+├── streamlit_app.py          # Temporary Streamlit dashboard
 ├── requirements.txt          # Python dependencies
 ├── setup.sh                  # Environment setup script
+├── .env.example              # API key template
 └── .env                      # API keys (not in git)
 ```
 
@@ -179,15 +181,17 @@ After running `chunker.py`:
 cd rag_pipeline
 ./setup.sh
 
-# 2. Configure API keys
-cp .env.example .env
-# Edit .env with your PINECONE_API_KEY and GOOGLE_API_KEY
-
-# 3. Activate virtual environment
+# 2. Activate virtual environment
 source venv/bin/activate
 
-# 4. Run the chatbot
+# 3. Run the chatbot
 python chat.py
+```
+
+### Streamlit Dashboard
+
+```bash
+streamlit run streamlit_app.py
 ```
 
 ### Chat Commands

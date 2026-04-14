@@ -20,22 +20,20 @@ pip install --upgrade pip
 pip install \
     sentence-transformers \
     pinecone \
-    google-genai \
+    groq \
     python-dotenv \
-    tqdm
+    tqdm \
+    numpy \
+    streamlit
 
 echo ""
 echo "=== Setup Complete ==="
 echo ""
 echo "Next steps:"
-echo "1. Copy .env.example to .env and add your API keys:"
-echo "   cp .env.example .env"
-echo "   nano .env  # or use any editor"
-echo ""
-echo "2. Activate the virtual environment:"
+echo "1. Activate the virtual environment:"
 echo "   source venv/bin/activate"
 echo ""
-echo "3. Run the upsert pipeline:"
+echo "2. Run the upsert pipeline:"
 echo "   cd rag_pipeline"
 echo "   python vector_store.py --action upsert"
 echo ""

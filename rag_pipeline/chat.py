@@ -38,7 +38,7 @@ def print_banner():
     banner = """
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║   🇮🇳  सारथी (Sarathi) - Government Schemes Assistant  🇮🇳      ║
+║            Sarathi - Government Schemes Assistant             ║
 ║                                                               ║
 ║   Find government schemes you're eligible for!                ║
 ║   Just tell me about yourself and what you're looking for.    ║
@@ -208,9 +208,9 @@ def main():
     except Exception as e:
         print_colored(f"Failed to initialize: {e}", Colors.RED)
         print("\nMake sure you have:")
-        print("  1. Set GOOGLE_API_KEY in .env file")
+        print("  1. Set GROQ_API_KEY in .env file")
         print("  2. Set PINECONE_API_KEY in .env file")
-        print("  3. Installed required packages: pip install google-generativeai pinecone")
+        print("  3. Installed required packages: pip install -r requirements.txt")
         sys.exit(1)
     
     # Single query mode
