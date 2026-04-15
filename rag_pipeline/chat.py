@@ -93,6 +93,10 @@ def chat_loop(chain: RAGChain, debug: bool = False):
             
             if not user_input:
                 continue
+
+            if user_input.lower() in {"exit", "quit", "bye", "goodbye", "stop"}:
+                print_colored("\nThank you for using Sarathi! Goodbye! 🙏", Colors.CYAN)
+                break
             
             # Handle commands
             if user_input.startswith("/"):

@@ -2,12 +2,15 @@
 RAG Chain - Combines retrieval with LLM generation.
 Includes conversation memory and context management.
 """
+import re
+import time
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional, Tuple
 
 from config import MEMORY_WINDOW_SIZE, RETRIEVAL_K
 from llm import GeminiLLM
 from retriever import (
+    RetrievalError,
     SchemeRetriever,
     UserProfile,
     extract_user_profile,
@@ -39,7 +42,7 @@ You help users find relevant central and state government schemes based on their
 - Structure responses clearly with bullet points or numbered lists for complex information
 
 ### Profile Understanding
-- Pay attention to user details: state, age, gender, occupation, caste category (SC/ST/OBC), income level, BPL status
+- Pay attention to user details: state, age, gender, occupation, caste category (General/SC/ST/OBC), income level, BPL status
 - Proactively ask clarifying questions if key profile information is missing
 - Remember context from earlier in the conversation
 
@@ -59,6 +62,20 @@ When discussing schemes, include:
 
 ## Context
 You will receive relevant scheme information in the <context> section. Use this to answer user queries accurately."""
+
+
+SCHEME_INTENT_KEYWORDS = {
+    "scheme", "schemes", "yojana", "benefit", "benefits", "subsidy", "subsidies",
+    "scholarship", "pension", "grant", "loan", "insurance", "eligibility", "eligible",
+    "apply", "application", "documents", "document", "welfare", "pm-kisan", "kisan",
+}
+
+SMALLTALK_PATTERNS = [
+    r"^hi$", r"^hello$", r"^hey$", r"^ok$", r"^okay$", r"^thanks?$", r"^thank you$",
+    r"^i am fine$", r"^i'm fine$", r"^how are you$", r"^good morning$", r"^good evening$",
+]
+
+TERMINATION_PATTERNS = [r"^exit$", r"^quit$", r"^bye$", r"^goodbye$", r"^stop$"]
 
 
 @dataclass
@@ -173,13 +190,13 @@ class ConversationMemory:
 
 class RAGChain:
     """
-    RAG Chain combining retrieval with Gemini LLM.
+    RAG Chain combining retrieval with LLM generation.
     
     Flow:
     1. Extract user profile from query
     2. Retrieve relevant scheme chunks
     3. Build prompt with context
-    4. Generate response with Gemini
+    4. Generate response with LLM
     5. Store in memory
     """
     
@@ -222,6 +239,33 @@ class RAGChain:
             )
         
         return "\n\n---\n\n".join(context_parts)
+
+    def _recent_scheme_context_exists(self) -> bool:
+        """Return True if recent turns had retrieved scheme docs."""
+        recent_turns = self.memory.turns[-2:]
+        return any(bool(turn.retrieved_docs) for turn in recent_turns)
+
+    def _should_retrieve(self, user_query: str) -> Tuple[bool, str, str]:
+        """Decide if query should trigger retrieval."""
+        q = user_query.strip().lower()
+        if not q:
+            return False, "empty", "empty query"
+
+        for pattern in TERMINATION_PATTERNS:
+            if re.match(pattern, q):
+                return False, "termination", "termination prompt"
+
+        for pattern in SMALLTALK_PATTERNS:
+            if re.match(pattern, q):
+                return False, "smalltalk", "smalltalk prompt"
+
+        if any(keyword in q for keyword in SCHEME_INTENT_KEYWORDS):
+            return True, "scheme_explicit", "explicit scheme intent"
+
+        if self._recent_scheme_context_exists():
+            return True, "scheme_followup", "follow-up after scheme retrieval"
+
+        return False, "general_chat", "no scheme intent detected"
 
     def _extract_scheme_links(self, retrieved_docs: List[Dict], max_links: int = 8) -> List[Dict[str, str]]:
         """Extract unique scheme names and URLs from retrieved docs."""
@@ -266,6 +310,40 @@ class RAGChain:
             return response
 
         return response.rstrip() + "\n" + "\n".join(lines)
+
+    def build_citations(self, retrieved_docs: List[Dict], max_citations: int = 10) -> List[Dict[str, Any]]:
+        """Build structured citations from retrieved docs."""
+        citations: List[Dict[str, Any]] = []
+        seen_ids = set()
+
+        for doc in retrieved_docs:
+            metadata = doc.get("metadata", {})
+            citation_id = doc.get("id") or f"{metadata.get('scheme_id', '')}:{metadata.get('chunk_index', 0)}"
+            if citation_id in seen_ids:
+                continue
+            seen_ids.add(citation_id)
+
+            citations.append(
+                {
+                    "chunk_id": doc.get("id"),
+                    "score": round(float(doc.get("score", 0.0)), 6),
+                    "scheme_id": metadata.get("scheme_id"),
+                    "scheme_name": metadata.get("scheme_name"),
+                    "scheme_url": metadata.get("scheme_url"),
+                    "location_type": metadata.get("location_type"),
+                    "location_name": metadata.get("location_name"),
+                    "category_id": metadata.get("category_id"),
+                    "category_name": metadata.get("category_name"),
+                    "chunk_type": metadata.get("chunk_type"),
+                    "chunk_index": metadata.get("chunk_index"),
+                    "snippet": (metadata.get("text") or "")[:300],
+                }
+            )
+
+            if len(citations) >= max_citations:
+                break
+
+        return citations
     
     def _build_prompt(
         self,
@@ -301,23 +379,18 @@ class RAGChain:
         
         return "\n".join(prompt_parts)
     
-    def query(
+    def _run_query(
         self,
         user_query: str,
         k: Optional[int] = None,
-    ) -> Tuple[str, List[Dict], UserProfile]:
-        """
-        Process a user query through the RAG pipeline.
-        
-        Args:
-            user_query: The user's question
-            k: Optional override for number of docs to retrieve
-            
-        Returns:
-            Tuple of (response, retrieved_docs, extracted_profile)
-        """
-        # Extract profile from current query
+    ) -> Dict[str, Any]:
+        """Run full RAG pipeline and return structured internal result."""
+        timings: Dict[str, float] = {}
+        should_retrieve, query_intent, skip_reason = self._should_retrieve(user_query)
+
+        profile_start = time.perf_counter()
         current_profile = extract_user_profile(user_query)
+        timings["profile_extraction_ms"] = round((time.perf_counter() - profile_start) * 1000, 2)
         
         # Use cumulative profile for better filtering
         # but prioritize current query signals
@@ -335,25 +408,58 @@ class RAGChain:
             raw_query=user_query,
         )
         
-        # Retrieve relevant documents
-        retrieved_docs = self.retriever.retrieve(
-            query=user_query,
-            profile=retrieval_profile,
-            k=k,
-            use_mmr=self.use_mmr,
-        )
+        retrieved_docs: List[Dict] = []
+        retrieval_debug: Dict[str, Any] = {
+            "query": user_query,
+            "k": k or self.retriever.k,
+            "fetch_k": 0,
+            "use_mmr": self.use_mmr,
+            "lambda_mult": self.retriever.lambda_mult if self.use_mmr else None,
+            "metadata_filter": None,
+            "retrieved_count": 0,
+            "latency_ms": 0.0,
+            "skipped": not should_retrieve,
+            "skip_reason": skip_reason if not should_retrieve else "",
+            "intent": query_intent,
+        }
+
+        if should_retrieve:
+            retrieval_start = time.perf_counter()
+            try:
+                retrieved_docs, retrieval_debug = self.retriever.retrieve_with_debug(
+                    query=user_query,
+                    profile=retrieval_profile,
+                    k=k,
+                    use_mmr=self.use_mmr,
+                )
+                retrieval_debug["skipped"] = False
+                retrieval_debug["intent"] = query_intent
+            except RetrievalError as exc:
+                raise RuntimeError(f"Retrieval failed: {exc}") from exc
+            except Exception as exc:
+                raise RuntimeError(f"Unexpected retrieval failure: {exc}") from exc
+            timings["retrieval_ms"] = round((time.perf_counter() - retrieval_start) * 1000, 2)
+            context = self._build_context(retrieved_docs)
+            prompt = self._build_prompt(user_query, context, current_profile)
+        else:
+            timings["retrieval_ms"] = 0.0
+            prompt = (
+                "User message (non-scheme intent):\n"
+                f"{user_query}\n\n"
+                "Reply naturally and briefly. Do not list scheme URLs unless the user asks about schemes."
+            )
         
-        # Build context and prompt
-        context = self._build_context(retrieved_docs)
-        prompt = self._build_prompt(user_query, context, current_profile)
-        
-        # Generate response
-        # For first message, use generate; for subsequent, use chat with history
+        llm_start = time.perf_counter()
         if len(self.memory.turns) == 0:
             self.llm.start_chat()
-        
-        response = self.llm.chat(prompt)
-        response_with_links = self._append_scheme_links(response, retrieved_docs)
+
+        try:
+            response = self.llm.chat(prompt)
+        except Exception as exc:
+            raise RuntimeError(f"LLM generation failed: {exc}") from exc
+
+        timings["llm_ms"] = round((time.perf_counter() - llm_start) * 1000, 2)
+        response_with_links = self._append_scheme_links(response, retrieved_docs) if should_retrieve else response
         
         # Store in memory
         self.memory.add_turn(
@@ -363,7 +469,62 @@ class RAGChain:
             user_profile=current_profile,
         )
 
-        return response_with_links, retrieved_docs, current_profile
+        timings["total_ms"] = round(
+            timings["profile_extraction_ms"] + timings["retrieval_ms"] + timings["llm_ms"],
+            2,
+        )
+
+        debug_metadata = {
+            "timings": timings,
+            "retrieval": retrieval_debug,
+            "llm": {
+                "provider": "groq",
+                "model": getattr(self.llm, "model_name", "unknown"),
+            },
+        }
+
+        return {
+            "answer": response_with_links,
+            "retrieved_docs": retrieved_docs,
+            "profile": current_profile,
+            "debug": debug_metadata,
+            "citations": self.build_citations(retrieved_docs),
+            "scheme_links": self._extract_scheme_links(retrieved_docs),
+        }
+
+    def query(
+        self,
+        user_query: str,
+        k: Optional[int] = None,
+    ) -> Tuple[str, List[Dict], UserProfile]:
+        """Process user query and return (answer, retrieved_docs, profile)."""
+        result = self._run_query(user_query=user_query, k=k)
+        return result["answer"], result["retrieved_docs"], result["profile"]
+
+    def query_with_debug(
+        self,
+        user_query: str,
+        k: Optional[int] = None,
+    ) -> Tuple[str, List[Dict], UserProfile, Dict[str, Any]]:
+        """Process user query and include debug metadata."""
+        result = self._run_query(user_query=user_query, k=k)
+        return result["answer"], result["retrieved_docs"], result["profile"], result["debug"]
+
+    def query_structured(
+        self,
+        user_query: str,
+        k: Optional[int] = None,
+    ) -> Dict[str, Any]:
+        """Process user query and return structured response payload."""
+        result = self._run_query(user_query=user_query, k=k)
+        profile: UserProfile = result["profile"]
+        return {
+            "answer": result["answer"],
+            "citations": result["citations"],
+            "scheme_links": result["scheme_links"],
+            "profile": profile.to_dict(),
+            "debug": result["debug"],
+        }
     
     def reset(self):
         """Reset conversation state."""

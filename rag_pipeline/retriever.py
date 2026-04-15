@@ -3,6 +3,7 @@ Retrieval layer with MMR (Maximal Marginal Relevance) and dynamic metadata filte
 """
 import os
 import re
+import time
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -21,7 +22,11 @@ from config import (
     PINECONE_INDEX_NAME,
     RETRIEVAL_K,
 )
-from embeddings import get_embedding_model
+from embeddings import EmbeddingModelLoadError, get_embedding_model
+
+
+class RetrievalError(RuntimeError):
+    """Raised when retrieval pipeline fails."""
 
 
 # === State/UT Recognition ===
@@ -445,25 +450,30 @@ class SchemeRetriever:
         """
         k = k or self.k
         
-        # Generate query embedding
-        query_embedding = self.embedding_model.embed_query(query)
+        try:
+            query_embedding = self.embedding_model.embed_query(query)
+        except EmbeddingModelLoadError as exc:
+            raise RetrievalError(str(exc)) from exc
+        except Exception as exc:
+            raise RetrievalError(f"Failed to embed query: {exc}") from exc
         
-        # Build filter from profile if not explicitly provided
         if filter_dict is None and profile:
             filter_dict = build_metadata_filter(profile)
         
         # Fetch more candidates for MMR
         fetch_k = self.fetch_k if use_mmr else k
         
-        # Query Pinecone
-        index = self._get_index()
-        results = index.query(
-            vector=query_embedding,
-            top_k=fetch_k,
-            filter=filter_dict,
-            include_metadata=True,
-            include_values=use_mmr,  # Need embeddings for MMR
-        )
+        try:
+            index = self._get_index()
+            results = index.query(
+                vector=query_embedding,
+                top_k=fetch_k,
+                filter=filter_dict,
+                include_metadata=True,
+                include_values=use_mmr,
+            )
+        except Exception as exc:
+            raise RetrievalError(f"Pinecone query failed: {exc}") from exc
         
         candidates = results.matches
         
@@ -491,6 +501,42 @@ class SchemeRetriever:
             }
             for m in candidates[:k]
         ]
+
+    def retrieve_with_debug(
+        self,
+        query: str,
+        profile: Optional[UserProfile] = None,
+        k: Optional[int] = None,
+        use_mmr: bool = True,
+        filter_dict: Optional[Dict] = None,
+    ) -> Tuple[List[Dict], Dict[str, Any]]:
+        """Retrieve documents and return debug metadata."""
+        k = k or self.k
+        resolved_filter = filter_dict
+        if resolved_filter is None and profile:
+            resolved_filter = build_metadata_filter(profile)
+
+        start_time = time.perf_counter()
+        results = self.retrieve(
+            query=query,
+            profile=profile,
+            k=k,
+            use_mmr=use_mmr,
+            filter_dict=resolved_filter,
+        )
+        retrieval_ms = round((time.perf_counter() - start_time) * 1000, 2)
+
+        debug = {
+            "query": query,
+            "k": k,
+            "fetch_k": self.fetch_k if use_mmr else k,
+            "use_mmr": use_mmr,
+            "lambda_mult": self.lambda_mult if use_mmr else None,
+            "metadata_filter": resolved_filter,
+            "retrieved_count": len(results),
+            "latency_ms": retrieval_ms,
+        }
+        return results, debug
     
     def retrieve_with_profile_extraction(
         self,

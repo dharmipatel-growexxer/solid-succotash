@@ -1,6 +1,7 @@
 """
 Configuration constants for the RAG pipeline.
 """
+import os
 from pathlib import Path
 
 # === PATHS ===
@@ -53,6 +54,13 @@ CHARS_PER_TOKEN = 4
 # === EMBEDDING CONFIG ===
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 EMBEDDING_DIMENSION = 384
+EMBEDDING_CACHE_DIR = Path(
+    os.environ.get(
+        "EMBEDDING_CACHE_DIR",
+        str(PROJECT_ROOT / ".cache" / "sentence_transformers"),
+    )
+)
+EMBEDDING_LOCAL_FILES_ONLY = os.environ.get("EMBEDDING_LOCAL_FILES_ONLY", "false").lower() == "true"
 
 # === PINECONE CONFIG ===
 PINECONE_INDEX_NAME = "govt-scheme"

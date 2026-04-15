@@ -1,0 +1,17 @@
+[
+  {
+    "query": "I am 19 years old college student in Gujarat and belong to general category. Suggest me some schemes.",
+    "expected_scheme_keywords": ["scholarship", "education"],
+    "expected_location": "Gujarat"
+  },
+  {
+    "query": "Any schemes for farmers in Maharashtra for crop insurance?",
+    "expected_scheme_keywords": ["insurance", "kisan", "crop"],
+    "expected_location": "Maharashtra"
+  },
+  {
+    "query": "Housing support for poor families in Delhi",
+    "expected_scheme_keywords": ["housing", "awas"],
+    "expected_location": "Delhi"
+  }
+]

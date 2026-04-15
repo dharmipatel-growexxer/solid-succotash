@@ -97,14 +97,14 @@ Scheme: "PM Kisan Samman Nidhi"
 
 ## Metadata Design for Future Features
 
-### For Multilingual Support (Feature #2)
+### For Multilingual Support
 ```python
 "language": "en",  # Future: "hi", "gu", "ta", "bn", etc.
 ```
 - Store translated summaries as separate chunks with `language` metadata
 - Query: Filter by user's preferred language
 
-### For Document Verification (Feature #3)
+### For Document Verification
 Eligibility chunks will be structured to enable:
 ```python
 # Extract structured eligibility criteria
@@ -119,7 +119,7 @@ Eligibility chunks will be structured to enable:
 }
 ```
 
-### For Scheme Comparison (Feature #6)
+### For Scheme Comparison
 ```python
 "comparable_fields": ["benefit_amount", "eligibility", "application_mode"]
 ```
@@ -139,11 +139,14 @@ rag_pipeline/
 ├── retriever.py              # MMR retriever + metadata filters
 ├── llm.py                    # Groq LLM wrapper
 ├── chain.py                  # RAG chain with conversation memory
+├── service.py                # Backend-friendly structured response layer
 ├── chat.py                   # Interactive CLI chatbot
 ├── streamlit_app.py          # Temporary Streamlit dashboard
+├── evaluate.py               # Baseline eval metrics (retrieval/groundedness/latency)
+├── eval_dataset.sample.json  # Sample evaluation dataset
+├── warmup_embeddings.py      # Pre-download embedding model to local cache
 ├── requirements.txt          # Python dependencies
 ├── setup.sh                  # Environment setup script
-├── .env.example              # API key template
 └── .env                      # API keys (not in git)
 ```
 
@@ -192,6 +195,49 @@ python chat.py
 
 ```bash
 streamlit run streamlit_app.py
+```
+
+### Backend Service Function (Phase 0)
+
+Use this as the single backend entrypoint:
+
+```python
+from service import answer_query
+
+result = answer_query(
+    query="I am a 19 year old student in Gujarat. Suggest schemes.",
+    session_id="web-user-123",
+    top_k=10,
+    include_debug=True,
+)
+```
+
+Structured response includes:
+- `answer`
+- `citations` (chunk-level citation records)
+- `cited_schemes` (deduplicated scheme names + URLs)
+- `profile`
+- `debug` (latencies + retrieval metadata)
+
+### Embedding Cache Strategy
+
+```bash
+# Warm cache once (online)
+python warmup_embeddings.py
+
+# Optional offline-safe mode after warmup
+export EMBEDDING_LOCAL_FILES_ONLY=true
+python chat.py
+```
+
+### Baseline Evaluation
+
+```bash
+# Quick eval with default queries
+python evaluate.py
+
+# Dataset-based eval + JSON report
+python evaluate.py --dataset eval_dataset.sample.json --output eval_report.json
 ```
 
 ### Chat Commands
